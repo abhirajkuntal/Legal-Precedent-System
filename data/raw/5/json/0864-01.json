@@ -1,0 +1,423 @@
+{
+  "id": 7289811,
+  "name": "STATE v. Jack RUFFNER",
+  "name_abbreviation": "State v. Ruffner",
+  "decision_date": "2010-10-20",
+  "docket_number": "No. 2009-99-C.A.",
+  "first_page": "864",
+  "last_page": "868",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 864"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "970 A.2d 12",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7331475
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/970/0012-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 264",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291815
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Diefenderfer, 970 A.2d 12, 23 n. 24 (R.I.2009)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/0264-01"
+      ]
+    },
+    {
+      "cite": "463 A.2d 1328",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7994252
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1331"
+        },
+        {
+          "page": "1331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/463/1328-01"
+      ]
+    },
+    {
+      "cite": "439 A.2d 912",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944557
+      ],
+      "pin_cites": [
+        {
+          "page": "914"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/439/0912-01"
+      ]
+    },
+    {
+      "cite": "794 A.2d 474",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9441558
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "476",
+          "parenthetical": "citing State v. Upham, 439 A.2d 912, 914 (R.I.1982)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/794/0474-01"
+      ]
+    },
+    {
+      "cite": "637 A.2d 366",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7355324
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "367"
+        },
+        {
+          "page": "367",
+          "parenthetical": "declining to disturb denial of Rule 35 motion on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/637/0366-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11467565
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "138"
+        },
+        {
+          "page": "138"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0135-01"
+      ]
+    },
+    {
+      "cite": "705 A.2d 957",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11874529
+      ],
+      "pin_cites": [
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/705/0957-01"
+      ]
+    },
+    {
+      "cite": "800 A.2d 1016",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9412875
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1044-45"
+        },
+        {
+          "page": "1045",
+          "parenthetical": "holding that the trial justice did not err when he concluded that \"the parole board, rather than the court, should assess the quality of [the defendant's] claimed rehabilitation\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/800/1016-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 405",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12047022
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "406"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0405-01"
+      ]
+    },
+    {
+      "cite": "714 A.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11714044
+      ],
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/714/0610-01"
+      ]
+    },
+    {
+      "cite": "941 A.2d 842",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8397824
+      ],
+      "pin_cites": [
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/941/0842-01"
+      ]
+    },
+    {
+      "cite": "996 A.2d 601",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289548
+      ],
+      "pin_cites": [
+        {
+          "page": "603-04"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/996/0601-01"
+      ]
+    },
+    {
+      "cite": "771 A.2d 906",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11103317
+      ],
+      "pin_cites": [
+        {
+          "page": "908"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/771/0906-01"
+      ]
+    },
+    {
+      "cite": "984 A.2d 650",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292929
+      ],
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/0650-01"
+      ]
+    },
+    {
+      "cite": "774 A.2d 38",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11086294
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/774/0038-01"
+      ]
+    },
+    {
+      "cite": "876 A.2d 1109",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8969101
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/876/1109-01"
+      ]
+    },
+    {
+      "cite": "958 A.2d 1159",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8207259
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1161"
+        },
+        {
+          "page": "1161, 1162",
+          "parenthetical": "\"A trial justice is bound only by the statutory limits when reaching a sentencing decision.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/1159-01"
+      ]
+    },
+    {
+      "cite": "911 A.2d 680",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8403561
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "682-83"
+        },
+        {
+          "page": "683"
+        },
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/911/0680-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 723,
+    "char_count": 14205,
+    "ocr_confidence": 0.711,
+    "pagerank": {
+      "raw": 2.7897448652229384e-07,
+      "percentile": 0.83592305960695
+    },
+    "sha256": "a0332fead0b5299d284aa36de4c048b19589764dc76966751cb0c2305b5cd4fa",
+    "simhash": "1:b34ac5d17f5e856a",
+    "word_count": 2286
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+    ],
+    "parties": [
+      "STATE v. Jack RUFFNER."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice INDEGLIA, for the Court.\nJack Ruffner (defendant or Ruffner) appeals from an order denying his motion to reduce his sentence under Rule 35 of the Superior Court Rules of Criminal Procedure. He seeks review before this Court of the trial justice\u2019s decision to reserve for the parole board\u2019s consideration the defendant\u2019s rehabilitative efforts while incarcerated. This case came before the Supreme Court for oral argument on September 28, 2010, pursuant to an order directing the parties to appear and show cause why the issues raised in this appeal should not summarily be decided. After hearing the parties\u2019 arguments and considering memo-randa submitted by counsel, we are satisfied that cause has not been shown, and we proceed to decide the appeal at this time without further briefing or argument. For the reasons set forth in this opinion, we affirm the order of the Superior Court.\nI\nFacts and Travel\nOn an August evening in 2002, Ruffner and Clarkie \u201cPete\u201d Smith, who were acquaintances, \u201cscuffled\u201d twice in their Providence neighborhood. State v. Ruffner, 911 A.2d 680, 682-83 (R.I.2006). The second altercation ended when \u201cdefendant struck * * * Smith in the head with a wooden table leg, and left him lying face down, unconscious, on the sidewalk.\u201d Id. Smith died five days later \u201cfrom skull fractures and brain injuries caused by blunt force trauma.\u201d Id. at 683.\nOn June 1, 2004, a jury convicted defendant of second-degree murder in the death of Smith. On August 26, 2004, the trial justice denied Ruffner\u2019s motion for a new trial and sentenced him to life in prison. The defendant appealed his conviction to this Court, and we affirmed the judgment of conviction on December 15, 2006. Ruffner, 911 A.2d at 690.\nRuffner then timely moved for a reduced sentence based on Rule 35. Based on memoranda only, and without a hearing, the trial justice denied defendant\u2019s motion on June 22, 2007. Ruffner appealed the denial of his motion for a reduced sentence on the ground that the trial justice erred when he did not hold a hearing on the motion. This Court agreed with defendant and, on October 15, 2008, we vacated the order denying the Rule 35 motion and remanded the case to the Superior Court for a hearing and reconsideration of the motion.\nIn accordance with this Court\u2019s order, defendant\u2019s motion was heard before the trial justice on December 1, 2008. Counsel for Ruffner argued at the hearing that the life sentence imposed was not \u201cappropriate\u201d because of the \u201chistory\u201d between defendant and the victim leading up to that fateful evening. Ruffner elaborated on his personal history in his memorandum supporting his motion to reduce in which he claimed \u201cthe ability and inclination to rehabilitate himself and become a useful and productive member of society if given the chance.\u201d Additionally, defendant provided the trial justice with his high school equivalency diploma (GED) and the certificates of achievement that he had earned while incarcerated in an effort to demonstrate that he had endeavored \u201cto avail himself of every opportunity while in prison to better himself.\u201d Specifically, Ruffner submitted certificates that he received for his work as a press operator in the print shop, for his participation in an anger management class, and for his completion of a course in legal research. The defendant also submitted documentation that indicated that his requests to participate in several other courses were denied because they were fully enrolled.\nThe defendant addressed the court at the hearing. He expressed remorse for his actions, but also suggested that one of the state\u2019s witnesses \u201cmight have * * * lied on the stand.\u201d Ruffner concluded his statement by \u201casking that the [c]ourt show leniency with [his] sentence.\u201d In response, the state argued that the sentence was appropriate and that defendant\u2019s participation in programs and courses and good behavior while incarcerated will \u201cinure to his benefit * * * when he\u2019s eligible for parole.\u201d The state further argued that defendant continued to fail \u201cto accept responsibility for his actions\u201d as illustrated by his assertion that a state witness may not have been truthful during his trial.\nThe trial justice commended Ruffner for \u201ctakfing] advantage of some of the rehabilitative programs in the prison\u201d and for staying out of trouble while incarcerated. However, he did not give defendant any \u201ccredit\u201d for this good behavior and cited to defendant\u2019s misbehavior prior to his incarceration for this offense, which included \u201cthree prior felonies\u201d and an \u201cassortment of misdemeanors.\u201d The trial justice left consideration of defendant\u2019s good behavior and participation in programs and classes while in prison to the parole board. He stated:\n\u201cIf you acted in conformity with the rules and regulations of the prison, as you seem to have, those are matters for the [p]arole [b]oard. To the extent that you have taken advantage of programs that they\u2019ve offered to you, that\u2019s good, but the [p]arole [b]oard can consider it. At this point, that\u2019s not a persuasive reason in my mind to recalibrate your sentence for having beaten a man to death and lied about it at trial.\u201d\nThe trial justice then denied defendant\u2019s Rule 35 motion. Ruffner filed a notice of appeal with this Court on December 2, 2008.\nII\nIssue on Appeal\nThe sole issue presented on appeal is whether the trial justice erred when he denied defendant\u2019s Rule 35 motion. In particular, defendant faults the trial justice for \u201ctaking the position that none of the information concerning Mr. Ruffner\u2019s rehabilitative efforts at the Adult Correctional Institutions (ACI) was relevant to\u201d the motion for a reduced sentence. The state argues that the trial justice \u201cproperly exercised his discretion when he elected to leave consideration of Ruffner\u2019s positive efforts at the prison to the [p]arole [b]oard.\u201d\nIII\nStandard of Review\n\u201cA motion to reduce sentence under Rule 35 is \u2018essentially a plea for leniency.\u2019 \u201d State v. Mendoza, 958 A.2d 1159, 1161 (R.I.2008) (quoting State v. Burke, 876 A.2d 1109, 1112 (R.I.2005)). \u201cThe motion is addressed to the sound discretion of the trial justice, who may grant it if he or she decides \u2018on reflection or on the basis of changed circumstances that the sentence originally imposed was, for any reason, unduly severe.\u2019 \u201d Id. (quoting State v. Fur-tado, 774 A.2d 38, 39 (R.I.2001)). \u201cThis Court has maintained a \u2018strong policy against interfering with a trial justice\u2019s discretion in sentencing matters,\u2019 and, therefore, we only will interfere with that discretion \u2018in rare instances when the trial justice has imposed a sentence that is without justification and is grossly disparate from other sentences generally imposed for similar offenses.\u2019 \u201d State v. Coleman, 984 A.2d 650, 654 (R.I.2009) (quoting State v. Rossi, 771 A.2d 906, 908 (R.I.2001) (mem.)). Thus, \u201cour review of a motion justice\u2019s ruling on a motion to correct pursuant to Rule 35 is limited.\u201d Curtis v. State, 996 A.2d 601, 603-04 (R.I.2010) (quoting State v. Goncalves, 941 A.2d 842, 847 (R.I.2008)).\nIV\nDiscussion\nA trial justice considers a number of factors when determining a fair sentence including the defendant\u2019s potential for rehabilitation. State v. Collins, 714 A.2d 610, 610 (R.I.1998) (mem.) (citing State v. Brigham, 666 A.2d 405, 406 (R.I. 1995)); see State v. Thornton, 800 A.2d 1016, 1044-45 (R.I.2002) (noting that the trial justice considered the defendant\u2019s potential for rehabilitation when ruling on the defendant\u2019s Rule 35 motion). The defendant asserts that the trial justice did not consider defendant\u2019s participation in rehabilitative programs at the ACI and that those problems were relevant to his potential for rehabilitation. In fact, however, the record reveals that the trial justice did consider defendant\u2019s rehabilitative efforts when he ruled on defendant\u2019s motion to reduce his sentence. Therefore, in our view, the trial justice did not abuse his discretion when he denied defendant\u2019s Rule 35 motion, and, mindful of our limited review, we decline to disturb the trial justice\u2019s ruling on appeal.\nAlthough the trial justice recognized the benefit of defendant\u2019s having \u201ctaken advantage of programs that they\u2019ve offered to you,\u201d he concluded that \u201c[a]t this point, that\u2019s not a persuasive reason in my mind to recalibrate your sentence for having beaten a man to death and lied about it.\u201d The trial justice noted the \u201cegregious\u201d nature of defendant\u2019s crime and his \u201cprior transgressions\u201d outside of prison. He stated to Ruffner that \u201ccivilized society needs to be protected from the likes of you.\u201d Thus, the trial justice did consider defendant\u2019s rehabilitative efforts, but was not persuaded that the three certificates of completion and achievement, the requests to participate in several other classes, and the GED warranted a sentence reduction in light of the severity of defendant\u2019s past conduct, which the trial justice believed rendered defendant\u2019s future quite uncertain. Consequently, defendant has not met his burden to prove that his sentence of life imprisonment for his conviction of second-degree murder was unjustified and \u201cgrossly disparate from other sentences generally imposed for similar offenses.\u201d Mendoza, 958 A.2d at 1161, 1162 (\u201cA trial justice is bound only by the statutory limits when reaching a sentencing decision.\u201d); see G.L.1956 \u00a7 11-23-2 (\u201cEvery person guilty of murder in the second degree shall be imprisoned for not less than ten (10) years and may be imprisoned for life.\u201d); see, e.g., State v. Lambert, 705 A.2d 957, 959 (R.I.1997) (noting that the defendant was sentenced to life imprisonment for second-degree murder conviction).\nAdditionally, we cannot say that the trial justice abused his discretion when he left consideration of the defendant\u2019s good behavior and rehabilitative efforts while in prison to the parole board. See Thornton, 800 A.2d at 1045 (holding that the trial justice did not err when he concluded that \u201cthe parole board, rather than the court, should assess the quality of [the defendant\u2019s] claimed rehabilitation\u201d) (citing State v. Mollicone, 746 A.2d 135, 138 (R.I. 2000) and State v. Flores, 637 A.2d 366, 367 (R.I.1994)); Mollicone, 746 A.2d at 138 (holding that the trial justice correctly denied the defendant\u2019s Rule 35 motion where the trial justice \u201cnoted that [the] defendant\u2019s cooperation with law enforcement officials may be properly considered in the future by the parole board, but was not a factor that justified reducing his sentence\u201d). Ruffner\u2019s \u201cdemeanor and conduct in prison since the crime are of no moment to this appeal. Appropriate prison behavior is expected of all inmates * * *.\u201d State v. Guzman, 794 A.2d 474, 476 (R.I. 2002) (citing State v. Upham, 439 A.2d 912, 914 (R.I.1982)). Even \u201c\u2018model prisoner\u2019 behavior * * * is relevant for the parole board\u2019s consideration, not the trial justice\u2019s.\u201d Flores, 637 A.2d at 367 (declining to disturb denial of Rule 35 motion on appeal) (citing State v. O\u2019Rourke, 463 A.2d 1328, 1331 (R.I.1983)). Therefore, the trial justice appropriately reserved consideration of the defendant\u2019s good behavior and rehabilitative efforts for the parole board because \u201cthe parole board * * * is in a better position to evaluate a defendant\u2019s progress while in prison.\u201d O\u2019Rourke, 463 A.2d at 1331. While we share the trial justice\u2019s view that Ruffner\u2019s participation in several programs at the ACI and completion of his GED is commendable, we conclude that the trial justice acted well within his discretion when he found the defendant\u2019s arguments unpersuasive.\nV\nConclusion\nFor the reasons set forth in this opinion, we affirm the order of the Superior Court and remand the papers in this case to that tribunal.\n. The facts of this case are set forth in detail in this Court's opinion of State v. Ruffner, 911 A.2d 680 (R.I.2006), in which we denied defendant's direct appeal.\n. On January 10, 2007, this Court entered an order denying defendant's petition for reargument and reconsideration.\n. Rule 35(a) of the Superior Court Rules of Criminal Procedure provides:\n\u201c(a) Correction or reduction of sentence. The court may correct an illegal sentence at any time. The court may correct a sentence imposed in an illegal manner and it may reduce any sentence when a motion is filed within one hundred and twenty (120) days after the sentence is imposed, or within one hundred and twenty (120) days after receipt by the court of a mandate of the Supreme Court of Rhode Island issued upon affirmance of the judgment or dismissal of the appeal, or within one hundred and twenty (120) days after receipt by the court of a mandate or order of the Supreme Court of the United States issued upon affir-mance of the judgment, dismissal of the appeal, or denial of a writ of certiorari. The court shall act on the motion within a reasonable time, provided that any delay by the court in ruling on the motion shall not prejudice the movant. The court may reduce a sentence, the execution of which has been suspended, upon revocation of probation.\u201d\n. The defendant's notice of appeal was prematurely filed because the trial justice\u2019s order was not entered until February 10, 2009. However, \"[t]his Court has stated that it will treat a premature appeal as timely filed.\u201d Ballard v. State, 983 A.2d 264, 266 n. 2 (R.I. 2009) (citing State v. Diefenderfer, 970 A.2d 12, 23 n. 24 (R.I.2009)).\n. Although Ruffner unsuccessfully raised the issue of his loss of ability to support his family because of incarceration as an argument in favor of a more lenient sentence at the Rule 35 hearing, this issue, understandably so, was not argued before this Court.\n. We have reviewed the cases from other jurisdictions that defendant cites in his supplemental memorandum to this Court in support of his argument that the trial justice abused his discretion when he denied defendant\u2019s Rule 35 motion, and we likewise find them unpersuasive.",
+        "type": "majority",
+        "author": "Justice INDEGLIA, for the Court."
+      }
+    ],
+    "attorneys": [
+      "Jane M. McSoley, Department of Attorney General, for State.",
+      "Paula Rosin, Office of the Public Defender, for Defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Jack RUFFNER.\nNo. 2009-99-C.A.\nSupreme Court of Rhode Island.\nOct. 20, 2010.\nJane M. McSoley, Department of Attorney General, for State.\nPaula Rosin, Office of the Public Defender, for Defendant.\nPresent: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+  },
+  "file_name": "0864-01",
+  "first_page_order": 886,
+  "last_page_order": 890
+}

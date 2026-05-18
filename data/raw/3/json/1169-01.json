@@ -1,0 +1,986 @@
+{
+  "id": 7290466,
+  "name": "Samuel C. LOWERY, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Lowery v. United States",
+  "decision_date": "2010-09-09",
+  "docket_number": "No. 06-CM-1195",
+  "first_page": "1169",
+  "last_page": "1179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 1169"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "463 U.S. 1121",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203910
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1125",
+          "parenthetical": "citation and internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "citation and internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "citation and internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/1121-01"
+      ]
+    },
+    {
+      "cite": "779 A.2d 277",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9490342
+      ],
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/779/0277-01"
+      ]
+    },
+    {
+      "cite": "535 F.2d 160",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1062231
+      ],
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/535/0160-01"
+      ]
+    },
+    {
+      "cite": "561 A.2d 468",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7349093
+      ],
+      "pin_cites": [
+        {
+          "page": "471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/561/0468-01"
+      ]
+    },
+    {
+      "cite": "802 A.2d 959",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9405809
+      ],
+      "pin_cites": [
+        {
+          "page": "965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/802/0959-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 323",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291996
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/0323-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 828",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "325"
+        },
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 F.3d 85",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3619277,
+        11323670
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "as-applied challenges \"ask only that the reviewing court declare the challenged statute or regulation unconstitutional on the facts of the particular case\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/312/0121-01",
+        "/f3d/56/0085-01"
+      ]
+    },
+    {
+      "cite": "312 U.S.App. D.C. 121",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3619277
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "as-applied challenges \"ask only that the reviewing court declare the challenged statute or regulation unconstitutional on the facts of the particular case\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/312/0121-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 320",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6000164
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "329",
+          "parenthetical": "\"It is axiomatic that a statute may be invalid as applied to one state of facts and yet valid as applied to another.\""
+        },
+        {
+          "parenthetical": "\"It is axiomatic that a statute may be invalid as applied to one state of facts and yet valid as applied to another.\""
+        },
+        {
+          "parenthetical": "\"It is axiomatic that a statute may be invalid as applied to one state of facts and yet valid as applied to another.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0320-01"
+      ]
+    },
+    {
+      "cite": "404 U.S. 561",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176304
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0561-01"
+      ]
+    },
+    {
+      "cite": "415 F.3d 211",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8945417
+      ],
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/415/0211-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 152",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184490
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0152-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064389
+      ],
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/285/0310-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 118",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8302048
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/0118-01"
+      ]
+    },
+    {
+      "cite": "604 F.3d 673",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6053907
+      ],
+      "pin_cites": [
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/604/0673-01"
+      ]
+    },
+    {
+      "cite": "40 F.3d 1347",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10532032
+      ],
+      "pin_cites": [
+        {
+          "page": "1373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/40/1347-01"
+      ]
+    },
+    {
+      "cite": "208 F.3d 72",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11449992
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/208/0072-01"
+      ]
+    },
+    {
+      "cite": "35 F.3d 37",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10522034
+      ],
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/35/0037-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 3,
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "964 A.2d 1282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8221186
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1288"
+        },
+        {
+          "page": "1289"
+        },
+        {
+          "page": "1286"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/1282-01"
+      ]
+    },
+    {
+      "cite": "989 A.2d 1096",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292176
+      ],
+      "pin_cites": [
+        {
+          "page": "1100-01"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/1096-01"
+      ]
+    },
+    {
+      "cite": "943 A.2d 555",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8390376
+      ],
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/943/0555-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 461",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11652245
+      ],
+      "weight": 6,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0461-01"
+      ]
+    },
+    {
+      "cite": "105 F.3d 770",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7637133
+      ],
+      "pin_cites": [
+        {
+          "page": "775-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/105/0770-01"
+      ]
+    },
+    {
+      "cite": "548 F.2d 20",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        993348
+      ],
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/548/0020-01"
+      ]
+    },
+    {
+      "cite": "488 F.3d 936",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2912750
+      ],
+      "pin_cites": [
+        {
+          "page": "943"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/488/0936-01"
+      ]
+    },
+    {
+      "cite": "559 F.3d 607",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5659460
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "611"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/559/0607-01"
+      ]
+    },
+    {
+      "cite": "810 A.2d 401",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9310964
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/810/0401-01"
+      ]
+    },
+    {
+      "cite": "840 A.2d 1277",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9297400
+      ],
+      "pin_cites": [
+        {
+          "page": "1281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/1277-01"
+      ]
+    },
+    {
+      "cite": "453 A.2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7950637
+      ],
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/453/0110-01"
+      ]
+    },
+    {
+      "cite": "993 A.2d 535",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289376
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/993/0535-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 151",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8161754
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "159"
+        },
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/963/0151-01"
+      ]
+    },
+    {
+      "cite": "975 A.2d 839",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295668
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/975/0839-01"
+      ]
+    },
+    {
+      "cite": "535 U.S. 55",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353857
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "62-63",
+          "parenthetical": "\"[T]he defendant who sat silent at trial has the burden to show that his 'substantial rights' were affected.\""
+        },
+        {
+          "parenthetical": "\"[T]he defendant who sat silent at trial has the burden to show that his 'substantial rights' were affected.\""
+        },
+        {
+          "parenthetical": "\"[T]he defendant who sat silent at trial has the burden to show that his 'substantial rights' were affected.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0055-01"
+      ]
+    },
+    {
+      "cite": "827 A.2d 48",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9107904
+      ],
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/827/0048-01"
+      ]
+    },
+    {
+      "cite": "812 A.2d 226",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11356567
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/812/0226-01"
+      ]
+    },
+    {
+      "cite": "403 F.3d 727",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9017922
+      ],
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/403/0727-01"
+      ]
+    },
+    {
+      "cite": "606 A.2d 139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11301855
+      ],
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/606/0139-01"
+      ]
+    },
+    {
+      "cite": "947 A.2d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8400921
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1189"
+        },
+        {
+          "page": "1189",
+          "parenthetical": "\"appellant must demonstrate ... that the error was 'clear' or 'obvious' \" (citation omitted)"
+        },
+        {
+          "page": "1190",
+          "parenthetical": "\"Appellant has not attempted the 'formidable' task of showing plain error, and we do not find it on the present record.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/947/1181-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 725",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6237509
+      ],
+      "weight": 7,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "732"
+        },
+        {
+          "page": "734"
+        },
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0725-01"
+      ]
+    },
+    {
+      "cite": "914 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8331923
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "8"
+        },
+        {
+          "page": "5, 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/914/0001-01"
+      ]
+    },
+    {
+      "cite": "947 A.2d 448",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "927 A.2d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8400723
+      ],
+      "pin_cites": [
+        {
+          "page": "1060-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/927/1040-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8307424,
+        8307507
+      ],
+      "pin_cites": [
+        {
+          "page": "1022"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/1014-01",
+        "/a2d/940/1014-02"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 6,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "128 S.Ct. 2783",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3677081
+      ],
+      "weight": 11,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "2813, 2821"
+        },
+        {
+          "page": "2822",
+          "parenthetical": "\"Assuming that Heller is not disqualified from the exercise of Second Amendment rights, the District must permit him to register his handgun and must issue him a license to carry it in the home.\""
+        },
+        {
+          "page": "2816-17",
+          "parenthetical": "\"[N]oth-ing in our opinion should be taken to cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally ill_\""
+        },
+        {
+          "page": "2817-18"
+        },
+        {
+          "page": "2821-22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 323",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291996
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/983/0323-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 461",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11652245
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/520/0461-01"
+      ]
+    },
+    {
+      "cite": "914 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8331923
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "8, 21-22"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/914/0001-01"
+      ]
+    },
+    {
+      "cite": "128 S.Ct. 2783",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3677081
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "2821-22"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1219,
+    "char_count": 28224,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 3.4592253548224603e-07,
+      "percentile": 0.8805988302792943
+    },
+    "sha256": "5fd78a439af11d12d1555ee75b1fe3b6fa88dcbed0bdd8b80cf08069ed09b521",
+    "simhash": "1:924cb6643a29b101",
+    "word_count": 4558
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before GLICKMAN, FISHER, and BLACKBURNE-RIGSBY, Associate Judges."
+    ],
+    "parties": [
+      "Samuel C. LOWERY, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Associate Judge:\nAppellant Samuel Lowery was convicted of one count of attempted possession of an unregistered firearm, D.C.Code \u00a7\u00a7 7-2502.01(a), 22-1803 (2001), after Deputy U.S. Marshals found a handgun in the apartment where he was staying. He argues, for the first time on appeal, that this application of the District of Columbia\u2019s pre-Heller firearms law was unconstitutional as applied to him. See District of Columbia v. Heller, \u2014 U.S. -, 128 S.Ct. 2783, 171 L.Ed.2d 637 (2008). He also maintains that a statement he made to a deputy marshal should have been suppressed. Unpersuaded by his arguments, we affirm.\nI. Background\nAppellant lived in an apartment in Southeast D.C. that was rented by Kenny Goodin, who fell behind on the rent. On June 13, 2006, eight deputy marshals went to the apartment to evict Mr. Goodin. When the deputies entered, they found only appellant and had him sit on a sofa, but did not handcuff him or draw their weapons, while they searched the apartment for safety reasons. In the one room that had a bed, a deputy found a handgun under the mattress. The deputy asked appellant if the gun was his. Appellant responded that he \u201cha[d] held the gun but he had never shot it, and it wasn\u2019t his.\u201d The deputies also found appellant\u2019s clothes and identification near the bed and, in the kitchen, a signed note from appellant to the landlord stating that appellant had been taking care of the apartment. Concluding that appellant was the sole occupant and that the pistol was his, the deputy arrested appellant.\nAppellant moved to suppress his statement, alleging that he was in custody while seated in the living room and that the statement was the product of an un-Mir-andized custodial interrogation. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966). The trial court denied the motion, concluding that the deputy marshals had a right to search the premises both for safety and inventory purposes, and finding that appellant was not in custody when he made the statement. After a bench trial, the court found that appellant knowingly, intentionally, and voluntarily possessed the handgun, having found constructive possession based on the statement to the deputy, evidence that appellant occupied the bedroom, and the note to the landlord. The court also found, based on a Certificate of No Record of Firearms Registration, that appellant had not registered the handgun. Finding that all of the elements of the offense had been proven, the court found appellant guilty beyond a reasonable doubt.\nII. The Second Amendment Claim A. Plain Error Review\n1. Allocation of the Burden of Persuasion\nWhen an appellant presents an issue which he did not raise in the trial court, we review, if at all, for plain error, whether the alleged error is non-constitutional or constitutional in nature. Simmons v. United States, 940 A.2d 1014, 1022 (D.C.2008) (non-constitutional error); Moore v. United States, 927 A.2d 1040, 1060-61 (D.C.2007) (constitutional error). \u201cUnder the test for plain error, appellant first must show (1) \u2018error,\u2019 (2) that is \u2018plain,\u2019 and (3) that affected appellant\u2019s \u2018substantial rights.\u2019 Even if all three of these conditions are met, this court will not reverse unless (4) \u2018the error seriously affects the fairness, integrity, or public reputation of judicial proceedings.\u2019 \u201d In re D.B., 947 A.2d 448, 450 (D.C.2008) (quoting Thomas v. United States, 914 A.2d 1, 8 (D.C.2006)) (quotation marks and citations omitted); see United States v. Olano, 507 U.S. 725, 732, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993). This \u201c \u2018is and should be, a formidable\u2019 \u201d burden. Comford v. United States, 947 A.2d 1181, 1189 (D.C.2008) (quoting (Kevin) Hunter v. United States, 606 A.2d 139, 144 (D.C.1992)).\n\u201c[Pjlacing the burden on the appellant is one of the essential characteristics distinguishing plain error from harmless error.\u201d United States v. Gonzalez-Huerta, 403 F.3d 727, 736 (10th Cir.2005). Thus, appellant bears the burden of persuasion on each of the four prongs of the plain error standard. Samad v. United States, 812 A.2d 226, 230 (D.C.2002). First, appellant must show error. McCullough v. United States, 827 A.2d 48, 55 (D.C.2003) (\u201cappellant bears the burden of first establishing ... a deviation from the legal rule\u201d). Second, appellant must show plain error. Comford, 947 A.2d at 1189 (\u201cappellant must demonstrate ... that the error was \u2018clear\u2019 or \u2018obvious\u2019 \u201d (citation omitted)). Third, appellant must show prejudice. United States v. Vonn, 535 U.S. 55, 62-63, 122 S.Ct. 1043, 152 L.Ed.2d 90 (2002) (\u201c[T]he defendant who sat silent at trial has the burden to show that his \u2018substantial rights\u2019 were affected.\u201d); Olano, 507 U.S. at 734, 113 S.Ct. 1770 (on plain error review \u201c[i]t is the defendant rather than the Government who bears the burden of persuasion with respect to prejudice.\u201d); Duvall v. United States, 975 A.2d 839, 847 n. 9 (D.C.2009) (\u201c[T]he appellant bears the burden ... to show that the alleged error affected his substantial rights.\u201d). And fourth, \u201cwe will not reverse unless the defendant makes the additional showing of either a miscarriage of justice, that is, actual innocence; or that the trial court\u2019s error \u2018seriously affect[ed] the fairness, integrity or public reputation of judicial proceedings.\u2019 \u201d Mozee v. United States, 963 A.2d 151, 159 (D.C.2009) (quotation marks and citation omitted) (quoting, inter alia, Olano, 507 U.S. at 736, 113 S.Ct. 1770).\nMoreover, it is inherent in the nature of plain error review that appellant must make that showing based on the record on appeal: \u201c \u2018[I]t is appellant\u2019s duty to present this court with a record sufficient to show affirmatively that error occurred ....\u2019\u201d In re D.M., 993 A.2d 535, 542 n. 16 (D.C.2010) (quoting Cobb v. Standard Drug Co., 453 A.2d 110, 111 (D.C.1982)); see also Comford, 947 A.2d at 1190 (\u201cAppellant has not attempted the \u2018formidable\u2019 task of showing plain error, and we do not find it on the present record.\u201d); (Terrance) Johnson v. United States, 840 A.2d 1277, 1281 (D.C.2004) (affirming after review for plain error because appellant \u201cfailed to show that any prejudice flowed from that error, and we can discern none from the record.\u201d); Bellamy v. United States, 810 A.2d 401, 406 & n. 7 (D.C.2002) (applying Cobb and finding no plain error).\n\u201cThe import of a silent record depends on which party bears the burden of production and persuasion on this question.\u201d United States v. Williams, 559 F.3d 607, 611 (7th Cir.2009). \u201cIf the standard is plain error, ... then it is [the appellant] who bears the burden of production and persuasion, ... and a silent record works to his detriment.\u201d Id. See, e.g., United States v. Dorman, 488 F.3d 936, 943 (11th Cir.2007) (\u201cOn this record, Dorman cannot satisfy his burden to establish a due-process error, let alone a plain error.\u201d); United States v. Petrozziello, 548 F.2d 20, 22 (1st Cir.1977) (\u201cWe cannot find plain error on this silent record.\u201d), abrogation on other grounds recognized in United States v. Goldberg, 105 F.3d 770, 775-76 (1st Cir.1997).\nIn Johnson v. United States, 520 U.S. 461, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997), the Supreme Court applied the plain error standard to a situation like this \u201cwhere the law at the time of trial was settled and clearly contrary to the law at the time of appeal....\u201d Id. at 468, 117 S.Ct. 1544; see (Lydia) Clarke v. United States, 943 A.2d 555, 556 (D.C.2008). In these circumstances, Johnson held, \u201cit is enough [to satisfy the second prong of the plain error standard] that an error be \u2018plain\u2019 at the time of appellate consideration.\u201d Id. at 468, 117 S.Ct. 1544. But Johnson did not shift the burden of persuasion \u2014 on plain error review appellant still must establish all four prongs. See, e.g., Little v. United States, 989 A.2d 1096, 1100-01 (D.C.2010) (\u201cAppellant does not demonstrate [post-i\u00edeMer ] that the constitutional error is \u2018plain\u2019 as the CPWL, UF, and UA laws pertain to his conduct.\u201d); Howerton v. United States, 964 A.2d 1282, 1288 (D.C.2009) (\u201cIt ... is not plain [post-Heller ], ... either that the particular statutes under which appellant was prosecuted and convicted [including the UF statute] are facially unconstitutional or that these statutes have been invalidated.\u201d); Thomas, 914 A.2d at 5, 8 (although Crawford v. Washington, 541 U.S. 36, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004), \u201cdramatically transformed Confrontation Clause jurisprudence\u201d which applied at the time of trial, \u201cappellant must show\u201d the four prongs of plain error).\n2. The Viola Exception\nThis allocation of the burden of persuasion on plain error review is the rule in the District and in the federal circuits \u2014 with one exception of uncertain authority. After Olano, but prior to Johnson, the Second Circuit held that where \u201cthe source of plain error is a supervening decision,\u201d the government should bear the burden of showing a lack of prejudice to the defendant. United States v. Viola, 35 F.3d 37, 42 (2d Cir.1994), abrogation on other grounds recognized in United States v. Zichettello, 208 F.3d 72, 99 n. 13 (2d Cir.2000). This \u201cmodified plain error rule\u201d shifts the burden with respect only to the third prong of plain error. See United States v. Wong, 40 F.3d 1347, 1373 (2d Cir.1994). No other circuit has adopted the rule in Viola, and the Second Circuit, while not yet overruling it, has repeatedly questioned its viability after Johnson. E.g., United States v. Needham, 604 F.3d 673, 678 (2d Cir.2010) (\u201c[A]s a number of panels have noted, it is unclear whether this standard remains in force following ... Johnson .... [We] need not resolve this open question....\u201d).\nWe have, for good reason, declined to apply the Viola exception. See Kidd v. United States, 940 A.2d 118, 127 n. 11 (D.C.2007) (\u201cThus, we do not follow the \u2018modified plain error rule.\u2019 \u201d); cf. Thomas, 914 A.2d at 22 n. 28 (\u201cGiven ... that appellant has shown prejudice, we need not decide in this case whether to follow Viola.\u201d). To allocate to the government\u2014 the prevailing party \u2014 the burden of persuasion on any of the four prongs of plain error review would contravene existing precedent, which we, as a division of the court, may not do. M.A.P. v. Ryan, 285 A.2d 310, 312 (D.C.1971).\nEven if we could alter the plain error doctrine, we would not do so. Reallocating the burdens associated with plain error review would be a deviation of no small consequence. \u201cThe Rule ... reflects a careful balancing of our need to encourage all trial participants to seek a fair and accurate trial the first time around against our insistence that obvious injustice be promptly redressed.\u201d United States v. Frady, 456 U.S. 152, 163, 102 S.Ct. 1584, 71 L.Ed.2d 816 (1982). \u201cThe time of a judge is scarcest of all judicial resources. Every unnecessary remand is a theft of that time from cases where the dispute really matters.... The dilution of plain error requirements in one case then becomes ... the means or excuse for a further dilution in other cases, inviting a further downward spiral.\u201d United States v. Padilla, 415 F.3d 211, 225 (1st Cir.2005) (Boudin, C.J., concurring). We therefore require appellant to establish all four components of plain error.\nB. The Nature of an \u201cAs-Applied\u201d Challenge\n1. The Circumstances of the Particular Case\nEven if the plain error standard did not apply, the very nature of his constitutional challenge requires appellant to create a record which establishes the relevant facts. An \u201cas-applied\u201d challenge requires that the application of \u201cthe [statute], by its own terms, infringe[] constitutional freedoms in the circumstances of the particular case.\u201d United States v. Christian Echoes Nat\u2019l Ministry, 404 U.S. 561, 565, 92 S.Ct. 663, 30 L.Ed.2d 716 (1972); see also Ayotte v. Planned Parenthood of Northern New England, 546 U.S. 320, 329, 126 S.Ct. 961, 163 L.Ed.2d 812 (2006) (\u201cIt is axiomatic that a statute may be invalid as applied to one state of facts and yet valid as applied to another.\u201d) (internal quotation marks and citation omitted); Sanjour v. EPA, 312 U.S.App. D.C. 121, 128 n. 10, 56 F.3d 85, 92 n. 10 (1995) (as-applied challenges \u201cask only that the reviewing court declare the challenged statute or regulation unconstitutional on the facts of the particular case\u201d); Black\u2019s Law DictionaRY 261 (9th ed. 2009) (an as-applied challenge is \u201ca claim that a statute is unconstitutional on the facts of a particular case or in its application to a particular party.\u201d).\nThe record shows that the statute was applied to appellant under the following \u201ccircumstances of the particular case.\u201d The deputy marshal found the gun under a mattress in an apartment where appellant was staying. Appellant denied owning the gun, telling the deputy at the scene that he \u201cha[d] held the gun but he had never shot it, and it wasn\u2019t his.\u201d He testified at trial, however, that he had never seen or touched the gun and that he had told the deputy he did not know anything about it. After hearing all the evidence, the trial court found that each element of the crime had been proven beyond a reasonable doubt. At sentencing the government represented that appellant had no prior criminal convictions and that he was twenty-five years old.\n2. Appellant Has Not Met His Burden on Plain Error Review\nAt the time of the offense (and at present) the District of Columbia\u2019s statutes established qualifications for firearms registration that supplemented, and were severable from, D.C.Code \u00a7 7-2507.10 (severability), the flat ban on registering handguns that was ruled unconstitutional in Heller. D.C.Code \u00a7 7-2502.03(a)(2), (3),' (4) (2001) (criminal record), \u00a7 7-2502.03(a)(1) (age), \u00a7 7-2502.03(a)(5), (6), (mental health), \u00a7 7-2502.03(a)(7) (physical defect), \u00a7 7-2502.03(a)(8) (firearms negligence), \u00a7 7-2502.03(a)(10) (firearms safety knowledge), \u00a7 7-2502.03(11) (vision); see D.C.Code \u00a7 7-2502.03(a)(l)-(8), (10) (2010 Supp.) (placing the same restrictions on handgun registration); see also D.C. Law 17-372 \u00a7 3(d), 56 D.C.Reg. 1365 (Mar. 31, 2009) (revising the statute after Heller was decided). These restrictions are compatible with the core interest protected by the Second Amendment. See Plummer v. United States, 983 A.2d 828, 325 (D.C.2009) (as amended on denial of rehearing and rehearing en banc, May 20, 2010) (\u201cWe ... hold that the UF and CPWL statutes are not facially invalid.\u201d); Howerton v. United States, 964 A.2d 1282, 1289 (D.C.2009) (\u201c[T]he Supreme Court reasoned in Heller [ ] [that] the Second Amendment protects \u2018bearing arms for a lawful purpose\u2019 by \u2018law-abiding, responsible citizens ... in defense of hearth and home.\u2019 \u201d (quoting Heller, 128 S.Ct. at 2813, 2821)). Although the Supreme Court did not consider the particulars of the District of Columbia\u2019s registration and licensing requirements, nothing in Heller compels the District to register a firearm for a resident who does not satisfy these statutory requirements. Heller, 128 S.Ct. at 2822 (\u201cAssuming that Heller is not disqualified from the exercise of Second Amendment rights, the District must permit him to register his handgun and must issue him a license to carry it in the home.\u201d); see also id. at 2816-17 (\u201c[N]oth-ing in our opinion should be taken to cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally ill_\u201d).\nHere the government conceded at sentencing that appellant was twenty-five years old and had no prior convictions. But the record on appeal does not establish that appellant could have met the other requirements for registering a firearm-such as those pertaining to \u201cmental health history, prior adjudication for firearm negligence, and vision.\u201d Plummer, 983 A.2d at 337. An as-applied challenge \u201casserts that a statute cannot be constitutionally applied in particular circumstances, [so] it necessarily requires the development of a factual record for the court to consider.\u201d Harris, 564 F.3d at 1308. Because appellant has not shown on the present record that he lawfully could have registered a firearm, he has not shown that the statute was unconstitutionally applied to him.\n3. A Remand Is Not Appropriate\nIn many respects this case is like Plummer v. United States, 983 A.2d 323 (D.C.2009) (as amended on denial of rehearing and rehearing en banc, May 20, 2010), where the defendant was convicted of carrying a pistol without a license and possession of an unregistered firearm. There, as here, the record was inadequate to determine whether Plummer could lawfully have registered his pistol, absent the categorical ban struck down in Heller. We remanded for a hearing to determine that \u201cmixed question of fact and law.\u201d Plum-mer, 983 A.2d at 342. A remand is not appropriate here, however, because appellant did not preserve the Second Amendment issue for appeal, whereas Plummer did. See id. at 334, 341 (noting that Plum-mer had preserved the Second Amendment issue by raising it \u201cyears before the Supreme Court\u2019s decision in Heller \u201d).\nWe acknowledged in Plummer that the statutory scheme that existed before Heller amounted to an \u201cabsolute prohibition on [Plummer\u2019s] application for a registration certificate,\u201d id. at 342, and \u201cHeller made clear that the total ban on handgun possession in the home for self-defense, family defense, and property defense \u2018fail[s] constitutional muster.\u2019 \u201d Id. at 341 (quoting Heller, 128 S.Ct. at 2817-18). \u201cHowever, Heller made it clear that a person could be \u2018disqualified from the exercise of Second Amendment rights,\u2019 \u201d id. at 342 (quoting Heller, 128 S.Ct. at 2821-22), and we recognized that Mr. Plummer\u2019s Second Amendment rights would have been violated only if he was not disqualified from receiving a registration certificate. Id.\n\u201cBecause it resolved the Second Amendment issue in accordance with then existing precedent in this jurisdiction, the trial court [in Plummer ] did not have an opportunity to decide the disqualification issue .... \u201d Id. Moreover, \u201cwhether Mr. Plummer could have successfully obtained a registration certificate prior to the imposition of charges in this case [was] a question we [could] not resolve on th[e existing] record.\u201d Id. We therefore remanded for \u201ca hearing to determine whether, prior to the imposition of charges in th[at] case, Mr. Plummer would have been able to satisfy the then existing and applicable statutory and regulatory requirements for obtaining a registration certificate and license for his handgun[,]\u201d including \u201cage, criminal history, mental capacity, and vision.\u201d Id.\nAs in Plummer, we cannot tell from this record whether Mr. Lowery could have successfully registered that, or any, handgun and it is tempting to remand for a hearing to determine the answer. Doing so, however, would violate the plain error rule and our precedent by shifting from the appellant the burden of demonstrating plain error on the existing record. Nor are we willing to erect a presumption that a defendant is an \u201cordinary citizen,\u201d entitled to exercise Second Amendment rights unless disqualifying information affirmatively appears on the record. That, too, would amount to shifting the burden on plain error review, something we may not do and do not wish to do.\nIII. The Suppression Issue\nAppellant claims that the marshals had no right to detain him while they were conducting the eviction and that this violation of his Fourth Amendment rights requires that his statement be suppressed. \u201cWe are precluded from considering this argument on direct appeal, however, be-\ncause [appellant] did not move for suppression on those grounds before trial.\u201d Artis v. United States, 802 A.2d 959, 965 (D.C.2002). See, e.g., Smith v. United States, 561 A.2d 468, 471 (D.C.1989) (\u201cFor purposes of appeal ... [appellant] has waived the issue of the legality of his seizure by failing to move to suppress evidence before trial, as required by statute and court rules.\u201d); Super. Ct.Crim. R. 12(b)(8), (d); D.C.Code \u00a7 23-104(a)(2) (2001) (\u201cA motion ... to suppress evidence shall be made before trial unless opportunity therefor did not exist or the defendant was not aware of the grounds for the motion.\u201d). Appellant did, of course, move to suppress the statement on Fifth Amendment grounds, but this did not preserve his belatedly raised Fourth Amendment claim. See United States v. Schwartz, 535 F.2d 160, 163 (2d Cir.1976) (\u201c[T]he failure to assert a particular ground in a pre-trial suppression motion operates as a waiver of the right to challenge the subsequent admission of evidence on that ground.\u201d).\nThe only question properly before us is whether the statement should have been suppressed because, as appellant would have it, his Miranda rights were violated. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966). \u201cThe requirements of Miranda apply only if custodial interrogation has taken place; there must be both \u2018custody\u2019 and \u2018interrogation\u2019 at the same time.\u201d Jemes v. United States, 779 A.2d 277, 280 (D.C.2001) (en banc). The standard for determining Miranda custody is well-known: \u201c[T]he ultimate inquiry is simply whether there is a formal arrest or restraint on freedom of movement of the degree associated with a formal arrest.\u201d California v. Beheler, 463 U.S. 1121, 1125, 103 S.Ct. 3517, 77 L.Ed.2d 1275 (1983) (citation and internal quotation marks omitted). Although appellant was detained in his underwear, he was sitting on a sofa in his home, he was not handcuffed or restrained in any way, the officers\u2019 weapons were holstered, a civil eviction rather than a criminal investigation was taking place, and the period of detention was brief. Considering the totality of the circumstances, appellant was not in custody and the trial court did not err in denying the motion to suppress.\nIV. Conclusion\nThe judgment of the Superior Court is hereby affirmed.\n. Appellant concedes that he did not present a Second Amendment objection at trial.\nFollowing our earlier precedent, we reject the contention of amicus that the Second\nAmendment claim is jurisdictional and cannot be forfeited. Sims, 963 A.2d at 149; Hower-ton, 964 A.2d 1282, 1286 (D.C.2009).",
+        "type": "majority",
+        "author": "FISHER, Associate Judge:"
+      },
+      {
+        "text": "GLICKMAN, Associate Judge,\ndissenting in part:\nInstead of affirming appellant\u2019s conviction for attempting to possess an unregistered handgun at a time when the District unconstitutionally refused to register handguns, I would follow the procedure we adopted in Plummer v. United States, and remand for a hearing on whether it was unconstitutional to apply the firearms registration statute to appellant. In my view, it should not make a difference that appellant, unlike Mr. Plummer, raised his Second Amendment challenge for the first time on appeal.\nAppellant was tried and convicted before the Supreme Court decided, in District of Columbia v. Heller, that the District\u2019s ban on handgun possession in the home violated the Second Amendment, and that the District henceforth must permit persons to register handguns for possession in the home unless they are disqualified from exercising \u2022 their Second Amendment rights. In response to Heller, this court in Plummer subsequently held it impermissible to convict someone of possessing an unregistered handgun in the home at a time when the District\u2019s unconstitutional ban precluded registration, unless the person was disqualified from registering for reasons other than the ban. Because the record in Plummer did not establish whether the defendant in that case would have been able (but for the ban) to satisfy the constitutionally valid statutory prerequisites for registration, we remanded for a hearing on that issue. On a record devoid of the requisite inquiry and determination, the conviction in Plummer was tainted by its potential unconstitutionality and could not be affirmed.\nAppellant\u2019s conviction suffers from the same defect as Plummer\u2019s, and his Second Amendment challenge to that conviction is the same one Plummer raised. While the defect was not plain at the time of appellant\u2019s trial, it is plain now, in the wake of Heller and Plummer. Under Johnson v. United States, appellant therefore is entitled on appeal to present the same Second Amendment claim of error that Plummer presented, even though appellant did not raise it at trial the way Plummer did. And if appellant can satisfy the other requirements of plain error analysis, he therefore is entitled to the same relief on appeal as Plummer received.\nIn particular, it should not matter that appellant did not claim at trial that he could have met the valid requirements for registration, and that the record consequently does not conclusively show he could have done so. The appellant in Plummer never made such a claim either, and the record on appeal in that case was similarly silent. That did not stop us from granting a remand in that case. Prior to Plummer, no one foresaw that we would require a defendant to make a record at trial of his ability to satisfy the valid registration requirements in order to prevail on his Second Amendment claim. And if a defendant in appellant\u2019s shoes had, with preternatural foresight, tried to make the necessary record at a pre-Heller trial, the court almost certainly would not have allowed him to do so, on the ground that the evidence of his ability to comply with the valid requirements for registration was not relevant.\nIn point of fact, moreover, the record in this case is not entirely silent on the subject at issue, and if anything it suggests appellant may well have been able to meet the constitutionally valid requirements for registering a handgun. It is clear from the record that appellant was not disqualified by reason of his age \u2014 the record shows he was over 21 years old. He likewise was not disqualified by reason of prior criminal convictions \u2014 the government acknowledged on the record that he had none. While there were other requirements, which the record does not address, they were not onerous ones. It seems to me probable that most adults without a criminal record in the District of Columbia could have met those other requirements. We have no reason to suppose appellant could not have done so.\nAbsent any apparent reason why appellant would have been disqualified from exercising his Second Amendment rights, there exists a reasonable probability that his conviction was unconstitutional. And such a conviction undoubtedly calls into serious question the fairness, integrity and public reputation of the judicial proceeding. That satisfies the remaining requirements of plain error review.\n. 983 A.2d 323 (D.C.2009) (as amended May 20, 2010).\n. I agree with my colleagues, for the reasons they state, that the trial court did not err in denying appellant's motion to suppress his statement.\n. -U.S.-, 128 S.Ct. 2783, 2821-22, 171 L.Ed.2d 637 (2008).\n. Plummer, 983 A.2d at 342.\n. 520 U.S. 461, 468, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997).\n.See Thomas, 914 A.2d at 8, 21-22.\n. See D.C.Code \u00a7 7-2502.03(a)(l).\n. See id. \u00a7 7-2502.03(a)(2)-(4) (2001).\n. The principal other statutory requirements were that the applicant for registration must not have a disqualifying mental health problem, addiction to drugs or alcohol, \"physical defect,\" or vision impairment, or been adjudicated negligent in a serious \"firearm mishap\u201d; and that the applicant must pass a test demonstrating his or her knowledge of the District\u2019s firearms laws and the safe and responsible use of firearms. See id. \u00a7\u00a7 7-2502.03(a)(5) \u2014 (11); 22-4503(a)(l) (2001).",
+        "type": "dissent",
+        "author": "GLICKMAN, Associate Judge,"
+      }
+    ],
+    "attorneys": [
+      "Enid Hinkes, appointed by the court, for appellant.",
+      "Bridget Fitzpatrick, Assistant United States Attorney, with whom Jeffrey A. Taylor, United States Attorney at the time, Roy W. McLeese III, Assistant United States Attorney, Florence Pan, Assistant United States Attorney at the time, and Jennifer A. Kerkhoff and Elizabeth Gabriel, Assistant United States Attorneys, were on the brief, for appellee.",
+      "Christine A. Monta, Public Defender Service, with whom James Klein and Alice Wang, Public Defender Service, were on the brief amicus curiae, in support of appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel C. LOWERY, Appellant, v. UNITED STATES, Appellee.\nNo. 06-CM-1195.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 27, 2009.\nDecided Sept. 9, 2010.\nEnid Hinkes, appointed by the court, for appellant.\nBridget Fitzpatrick, Assistant United States Attorney, with whom Jeffrey A. Taylor, United States Attorney at the time, Roy W. McLeese III, Assistant United States Attorney, Florence Pan, Assistant United States Attorney at the time, and Jennifer A. Kerkhoff and Elizabeth Gabriel, Assistant United States Attorneys, were on the brief, for appellee.\nChristine A. Monta, Public Defender Service, with whom James Klein and Alice Wang, Public Defender Service, were on the brief amicus curiae, in support of appellant.\nBefore GLICKMAN, FISHER, and BLACKBURNE-RIGSBY, Associate Judges."
+  },
+  "file_name": "1169-01",
+  "first_page_order": 1203,
+  "last_page_order": 1213
+}

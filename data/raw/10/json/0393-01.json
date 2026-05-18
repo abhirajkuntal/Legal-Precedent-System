@@ -1,0 +1,578 @@
+{
+  "id": 7284673,
+  "name": "Christopher S. SMITH v. CARBON COUNTY BOARD OF ASSESSMENT APPEALS and Jim Thorpe Area School District. Appeal of: Carbon County Board of Assessment Appeals; Christopher S. Smith v. Carbon County Board of Assessment Appeals and Jim Thorpe Area School District. Appeal of: Jim Thorpe Area School District",
+  "name_abbreviation": "Smith v. Carbon County Board of Assessment Appeals",
+  "decision_date": "2010-12-07",
+  "docket_number": "",
+  "first_page": "393",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 393"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "867 A.2d 742",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9027430
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/867/0742-01"
+      ]
+    },
+    {
+      "cite": "846 A.2d 74",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9252049,
+        9252074,
+        91723,
+        91601
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam order granting petition for allowance of appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/846/0074-01",
+        "/a2d/846/0074-02",
+        "/pa/577/0420-01",
+        "/pa/577/0419-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 420",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91723
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam order granting petition for allowance of appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0420-01"
+      ]
+    },
+    {
+      "cite": "515 A.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1352542
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "330",
+          "parenthetical": "stating, \"The STEB common level ratio operates as a multiplier used to convert current market values to equivalent base-year assessed values.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/100/0452-01"
+      ]
+    },
+    {
+      "cite": "719 A.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11682381
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0815-01"
+      ]
+    },
+    {
+      "cite": "819 A.2d 615",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9348924
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/819/0615-01"
+      ]
+    },
+    {
+      "cite": "235 A.2d 793",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Pa. 583",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1908588
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/426/0583-01"
+      ]
+    },
+    {
+      "cite": "167 A.2d 261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1296574
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/402/0209-01"
+      ]
+    },
+    {
+      "cite": "496 Pa. 140",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772938
+      ],
+      "weight": 6,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "143",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "584",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "142"
+        },
+        {
+          "page": "583-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/496/0140-01"
+      ]
+    },
+    {
+      "cite": "137 A.2d 273",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "391 Pa. 94",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276864
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/391/0094-01"
+      ]
+    },
+    {
+      "cite": "209 A.2d 397",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 4,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "403"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 Pa. 213",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1893987
+      ],
+      "weight": 4,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "223-24"
+        },
+        {
+          "page": "220"
+        },
+        {
+          "page": "220-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/417/0213-01"
+      ]
+    },
+    {
+      "cite": "635 A.2d 737",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1454621,
+        7372103
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that, where taxpayers produced evidence of only the assessments of comparable properties and not market value, they could not prevail in their uniformity challenge"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/160/0647-01",
+        "/a2d/635/0737-01"
+      ]
+    },
+    {
+      "cite": "646 A.2d 1275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12058841,
+        1464382
+      ],
+      "weight": 4,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1279",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1280"
+        },
+        {
+          "page": "1279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/646/1275-01",
+        "/pa-commw/166/0393-01"
+      ]
+    },
+    {
+      "cite": "494 A.2d 47",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "913 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851837,
+        8436629
+      ],
+      "weight": 14,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "199"
+        },
+        {
+          "page": "200"
+        },
+        {
+          "page": "200-01",
+          "parenthetical": "citations and footnote omitted"
+        },
+        {
+          "page": "201",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "204-05"
+        },
+        {
+          "page": "204"
+        },
+        {
+          "page": "204-05",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "205",
+          "parenthetical": "footnote and citation omitted"
+        },
+        {
+          "page": "205"
+        },
+        {
+          "page": "204-05"
+        },
+        {
+          "page": "201-02",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0459-01",
+        "/a2d/913/0194-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 459",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851837
+      ],
+      "weight": 7,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "466"
+        },
+        {
+          "page": "474-76"
+        },
+        {
+          "page": "474"
+        },
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0459-01"
+      ]
+    },
+    {
+      "cite": "652 A.2d 1306",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7882690,
+        474213
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1314"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/652/1306-01",
+        "/pa/539/0453-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 453",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474213
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0453-01"
+      ]
+    },
+    {
+      "cite": "969 A.2d 1197",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7264164,
+        4192574
+      ],
+      "weight": 14,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1203"
+        },
+        {
+          "page": "1210"
+        },
+        {
+          "page": "1210-11"
+        },
+        {
+          "page": "1224"
+        },
+        {
+          "page": "1212-13",
+          "parenthetical": "noting that Court has retreated from absolute view that real estate as a subject of taxation cannot be divided into different classes and that sub-classifications can be considered in the overall evaluation of the uniformity of the tax scheme"
+        },
+        {
+          "page": "1216",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "1216",
+          "parenthetical": "internal quotations and citation omitted"
+        },
+        {
+          "page": "1227"
+        },
+        {
+          "page": "1216",
+          "parenthetical": "quoting Downingtown "
+        },
+        {
+          "page": "1229"
+        },
+        {
+          "page": "1216-17",
+          "parenthetical": "internal quotations and citation omitted"
+        },
+        {
+          "page": "1226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/969/1197-01",
+        "/pa/600/0662-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 662",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4192574
+      ],
+      "weight": 10,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "673"
+        },
+        {
+          "page": "685"
+        },
+        {
+          "page": "707"
+        },
+        {
+          "page": "688"
+        },
+        {
+          "page": "694"
+        },
+        {
+          "page": "692"
+        },
+        {
+          "page": "714"
+        },
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0662-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1363,
+    "char_count": 43252,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 1.5904426227288824e-07,
+      "percentile": 0.6819930428376326
+    },
+    "sha256": "37063866ac2a8135864da3086a6b578e1451909001a8739e9e7d9fdcb4d700f9",
+    "simhash": "1:b22c223e610f664b",
+    "word_count": 6781
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEAJDBETTER, President Judge, and PELLEGRINI, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "Christopher S. SMITH v. CARBON COUNTY BOARD OF ASSESSMENT APPEALS and Jim Thorpe Area School District. Appeal of: Carbon County Board of Assessment Appeals. Christopher S. Smith v. Carbon County Board of Assessment Appeals and Jim Thorpe Area School District. Appeal of: Jim Thorpe Area School District."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nPresident Judge LEAJDBETTER.\nThe Carbon County Board of Assessment Appeals and Jim Thorpe Area School District appeal from the order of the Court of Common Pleas of Carbon County, which sustained the real estate tax assessment appeal of Christopher S. Smith. On appeal, we must determine whether Smith met his burden of demonstrating that the assessment of his condominium violated the Uniformity Clause of our Constitution and, if so, whether common pleas erred in reducing the assessed value of Smith\u2019s condominium back to that set in the base year. After review, we reverse.\nSmith is the owner of a condominium in the Midlake on Big Boulder Lake (Midlake) condominium development, a development of nine, three-story buildings containing a total of 132 two-bedroom condominium units in Kidder Township, Carbon County. There are two sizes of condominiums in the development. Eighty-eight units are 1096 square feet in size and are located on the first and second floor of each building; the remaining forty-four units are 1315 square feet in size and are located on the third floors of the buildings. Smith purchased one of the smaller units in 2006 for $275,000. At the time of purchase, his unit had an assessed value of $50,300. Shortly thereafter, the School District filed an assessment appeal, challenging Smith\u2019s assessment for the 2008 tax year. The Board sustained the appeal and increased Smith\u2019s assessment to $88,141, which resulted from application of the County\u2019s common level ratio of 32.1% (discussed infra) to the current market value of $275,000. An appeal to common pleas followed, where the matter was heard de novo.\nBefore common pleas, the Board\u2019s assessment record was first admitted into evidence. Thereafter, Smith testified that he purchased the furnished condominium in 2006 for $275,000. According to Smith, he believed that the condominium furniture that was included in his purchase had a value of $25,000. Smith also testified that he toured eight to ten other units at Midlake and found all units to be virtually identical. He decided to buy his unit, however, because unlike the other units available, the furnishings in his unit had been updated.\nSmith also presented the testimony of Leonard Silvestri, a licensed real estate appraiser. Silvestri noted that the smaller Midlake condominiums were very similar with minimal differences; each unit had a lakefront view and a view of either the pool or mountains. Silvestri did not offer an opinion regarding the current market value of Smith\u2019s condominium. Rather, he had prepared a report analyzing the assessed values and assessment ratios of similarly-sized units in the Midlake development and testified regarding the findings reflected in his report. Essentially, using the County\u2019s assessment records, Silvestri documented the assessed value of most of the smaller Midlake condominiums (those similar to Smith\u2019s) and, where possible, calculated an assessment ratio for the various units using the assessed value and the last recorded sales price. Silvestri\u2019s report does not provide a current market value for any of the properties and it does not provide assessment ratios based upon current market value.\nIn addition, when testifying, Silvestri separated his assessment data by last recorded sales date. Specifically, he discussed the range in assessed values for properties that were last transferred before 2004 and then provided assessment ranges for condominiums that sold in 2004 and thereafter. Because the assessment ratios that Silvestri calculated were based upon last recorded sales price rather than current market value, we will not recount those ratios in our review of his testimony.\nAccording to Silvestri, the County\u2019s property records demonstrated that forty-two of the smaller Midlake condominiums had an assessed value between $49,300 and $50,300; County records indicated that the most recent transfer of these properties occurred before 2004. Silvestri also noted that five other similarly-sized units, also last transferred before 2004, had assessed values ranging between $53,000 and $64,781. Next, Silvestri testified regarding the assessments of thirty-six condominiums that were sold between 2004 and 2008. The assessed values of these units ranged from $49,500 to $118,500. Silvestri noted that six condominiums in this latter group sold between 2007 and 2008 in the price range of $225,000 to $275,000. Sil-vestri then opined that the current market value for properties similar to Smith\u2019s is \u201c[bjetween $225,000 and $275,000, based upon the information of the six sales, the recent sales in the past 18 months in the subject development.\u201d Notes of Testimony (N.T.) of December 2, 2008, at 50, Reproduced Record (R.R.) at 101a.\nBased upon an opinion of value between $225,000 and $275,000 for similarly situated properties in the Midlake development, Silvestri opined that the condominiums with an assessed value between $49,300 and $50,300 would have an assessment ratio of 20%, plus or minus 2%. On the other hand, following the increase in Smith\u2019s assessment, Smith\u2019s assessment ratio was approximately 32%.\nBased upon the evidence presented, common pleas concluded as follows:\nIn this case, Smith\u2019s condominium unit is one of [88] virtually identical units in Midlake. These units are clearly similar and comparable. A fair estimate of their current fair market value can be taken from the average of the six most recent sales, $249,250.00. Yet, while [48%] of these units have an assessed value ranging between $49,300.00 and $50,300.00, for a ratio of assessed to current market value of approximately [20%], the assessed value for Smith\u2019s property as determined by the Board, $88,141.00, represents a ratio of assessed to current market value of [35%], using the same fair market figure of $249,250.00.\nThe range of assessed valuations for all units of the type owned by Smith is between $49,300.00 and $118,500.00, a spread of more than [140%]. The spread between Smith\u2019s unit and the lowest of these assessments, $49,300.00, is [79%]. These differences are not explained by any difference in the features of the units or their true values when compared to one another at the same point in time, but primarily because of differences in purchase price over time. The variance in assessments between those properties conveyed prior to January 1, 2004, and those after January 1, 2004, evidence a practice which systematically results in excessive assessments for properties conveyed after January 1, 2004.\nSmith v. Carbon County Bd. of Assessment Appeals, (C.C.P. of Carbon County No. 07-3343, filed May 29, 2009), slip op. at 15-16 (footnote omitted). Based upon the wide disparity in assessed values for similar properties, common pleas found that the Board\u2019s assessment of Smith\u2019s unit required Smith to \u201cpay property taxes more than 75% greater than almost half of the properties in Midlake which are virtually identical to his.\u201d Id. at 17. Although common pleas accepted the Board\u2019s determination that Smith\u2019s condominium had a current market value of $275,000, it concluded that the assessment of Smith\u2019s condominium violated principles of uniformity. As a result, common pleas reduced Smith\u2019s assessment to $50,300, the original base year assessment. The present appeals followed.\nBefore addressing the arguments raised on appeal, we note that counties are directed to rate and value real estate according to its actual value. Section 602(a) of The Fourth to Eighth Class County Assessment Law (Assessment Law), Act of May 21, 1943, P.L. 571, as amended, 72 P.S. \u00a7 5453.602(a). In determining actual value, counties may utilize either the current market value or a base year market value. Id. Under the base year system, as was used by Carbon County in the present case, the county performs a county-wide reassessment in the base year and then uses each property\u2019s current market value in the base year for purposes of assessment and taxation in the base year as well as in subsequent years. See generally, Clifton v. Allegheny County, 600 Pa. 662, 969 A.2d 1197 (2009). A property\u2019s assessed value, or the value upon which the tax rate (millage) is applied, is then calculated by multiplying the base year value by the county\u2019s established predetermined ratio (EPR). Section 602(a) of the Assessment Law. The EPR is defined as the \u201cratio of assessed value to market value established by the board of county commissioners and uniformly applied in determining assessed value in any year.\u201d Section 102 of the Assessment Law, 72 P.S. \u00a7 5453.102. While a property\u2019s market value may change year-to-year, the assessment ordinarily remains static, fixed at its base-year level until the next county-wide reassessment. Clifton, 600 Pa. at 673, 969 A.2d at 1203.\nUnder the statutory scheme governing assessment appeals, however, when a property\u2019s assessment is challenged, both the assessment appeals board and common pleas are required to revise the assessment by applying either the EPR or the common level ratio (CLR) to the property\u2019s market value as of the date of the appeal (rather than to the base year market value). Sections 702(b) and 704(b) of the Assessment Law, 72 P.S. \u00a7\u00a7 5453.702(b) and 704(b). By statutory mandate, the CLR must be used to calculate the assessed value on appeal when the EPR varies from the CLR by more than 15%; in all other cases, the statute mandates application of the EPR to the current market value. Sections 702(c) and 704(c) of the Assessment Law. Here, Carbon County\u2019s EPR was 50% and the CLR was 32.1%. Consequently, the Board used the CLR rather than the EPR in resolving the appeal.\nThe Board and School District (Appellants) have raised similar arguments on appeal. Turning to the simplest argument first, Appellants contend that common pleas erred in allowing Silvestri to testify regarding the assessment ratios that he calculated for similar condominiums in the development. According to Appellants, because Silvestri was qualified only as an expert in real estate appraisal, he was qualified only to render an opinion regarding the market value of real estate. Appellants contend that Silvestri\u2019s testimony regarding assessment ratios was therefore incompetent and common pleas erred in relying on it to conclude Smith\u2019s assessment violated principles of uniformity. We disagree.\nAppellants do not take issue with Sil-vestri\u2019s qualifications as a licensed appraiser. Silvestri testified that as an appraiser, he utilizes various sources, including public records available online and various \u201cMLS\u201d services, which provide among other things, listing prices and virtual tours of properties, to gather information to aid in valuing real estate. In addition, he testified that he used the online public information to determine the assessed values of similar condominiums in the development. Appellants did not offer any evidence rebutting the accuracy of Silvestri\u2019s testimony regarding the sales history of the condominiums or the assessment data set forth in Silvestri\u2019s report. Common pleas, as fact finder, credited that testimony and, based thereon, found that the recent average sales price for similar condominiums ($249,250) represented the market value of such properties, and that almost one-half of the units were assessed at a significantly lower percentage of market value than Smith\u2019s, although others were higher.\nWhile the actual assessment ratios calculated by Silvestri are not helpful in resolving the uniformity issue because they were calculated using last reported sales price rather than current market value, the calculation itself was not beyond Sil-vestres qualifications. Indeed, the calculation of an assessment ratio is quite simple, merely dividing the assessed value of a property by its current market value, and it was easily made by common pleas in this case based upon the credited evidence.\nThe next two arguments concern whether Smith met his burden of proof. Specifically, Appellants argue that Smith did not meet his burden of proof because he failed to establish the market value of both his condominium and the comparable properties, and he limited his uniformity analysis to merely a small number of units in the same complex.\nIn Westinghouse Electric Corp. v. Board of Property Assessment, Appeals & Review, 539 Pa. 453, 652 A.2d 1306 (1995), our Supreme Court noted as follows:\n[Article] 8, \u00a7 1 of the Pennsylvania Constitution [the Uniformity Clause] requires that all taxes shall be uniform, upon the same class of subjects, within the territorial limits of the authority levying the tax. This means that all real estate is a constitutionally designated class entitled to uniform treatment and the ratio of assessed value to market value adopted by the taxing authority must be applied equally and uniformly to all real estate within the taxing authority\u2019s jurisdiction.\nId. at 469, 652 A.2d at 1314. As is often noted in cases addressing a uniformity challenge, \u201c[t]axation ... is not a matter of exact science; hence absolute equality and perfect uniformity are not required to satisfy the constitutional uniformity requirement.\u201d Clifton, 600 Pa. at 685, 969 A.2d at 1210. Practical inequities can be anticipated, and as long as the taxing method does not impose substantially unequal tax burdens, \u201crough uniformity with a limited amount of variation is permitted.\u201d Id. at 685, 969 A.2d at 1210-11. A taxpayer will be entitled to relief under the Uniformity Clause if he demonstrates that his property \u201cis assessed at a higher percentage of fair market value than other properties throughout the taxing district.\u201d Downingtown Area Sch. Dist. v. Chester County Bd. of Assessment Appeals, 590 Pa. 459, 466, 913 A.2d 194, 199 (2006). See also Albarano v. Bd. of Assessment & Revision of Taxes & Appeals, 90 Pa.Cmwlth. 89, 494 A.2d 47 (1985).\nThis court has described a taxpayer\u2019s burden of proof in a uniformity challenge as follows:\nWhere a taxpayer claims that an assessment violates the principle of uniformity, the taxpayer admits that the fair market value assigned to his or her property is correct but that other comparable properties are assigned a substantially lower fair market value and when the ratio is applied to that lower value, the owners of the comparable properties pay less than the complaining taxpayer. An assessment is considered prima facie valid where the assessment record is admitted into evidence, and the taxpayer has the burden to rebut the assessment\u2019s validity.\nA taxpayer could satisfy his or her burden by producing evidence establishing the ratios of assessed values to market values of comparable properties based upon actual sales of comparable properties in the taxing district for a reasonable time prior to the assessment date. A taxpayer may also meet this burden by offering evidence of assessments of comparable properties so long as the taxpayer also presents evidence to show that the actual fair market value of the comparable properties is different than that found by the taxing authority. However, this Court has stated that without current market value information regarding the comparable properties, the court has no basis upon which to determine the issue of uniformity.\nFosko v. Bd. of Assessment Appeals, 166 Pa.Cmwlth. 393, 646 A.2d 1275, 1279 (1994) (citations omitted). See also Gitney v. Berks County Bd. of Assessment Appeals, 160 Pa.Cmwlth. 647, 635 A.2d 737 (1993); Albarano.\nIn Fosko, Gitney and Albarano, the taxpayers failed to present any evidence regarding the current market value of the selected comparable properties. In Fosko, the taxpayer testified to the listing prices of the comparable properties but failed to present evidence of current market values, thereby precluding common pleas from determining whether the taxpayer\u2019s property was assessed at a different ratio than the comparables. We specifically opined: \u201c[Taxpayer\u2019s] testimony regarding the real estate listing as opposed to sales prices of neighboring properties and speculation that some properties are of a greater value than his [does] not satisfy his burden of proof in rebutting the presumption of validity of the assessment.\u201d Fosko, 646 A.2d at 1280. Similarly, in Gitney, while the expert properly produced evidence of the assessed values of comparable properties, he failed to offer any evidence regarding the current market value of such properties, merely describing them as \u201csuperior\u201d or \u201cinferior\u201d to the taxpayers\u2019 property. Again, such evidence was held insufficient to meet the taxpayers\u2019 burden of proof.\nHere, Silvestri testified that all of the units were similar with minimal differences. When asked to offer an opinion as to the current market value of the comparable properties, Silvestri testified that they had a current market value of \u201c[b]etween $225,000 and $275,000\u201d based upon the most recent sales. N.T. at 50, R.R. at 101a. He later reiterated that he believed that the properties used in his report had a current market value in that range. Id. at 56a, R.R. at 107a. While factors other than sales price may affect current market value, in Fosko, this court specifically approved of the use of the actual sales data of comparable properties \u201cfor a reasonable time prior to the assessment date\u201d to establish ratios of assessed value to market value. Fosko, 646 A.2d at 1279. While evidence of current market value for each specific comparable is always preferable to a range in market value, in the specific circumstances of this case, where the credited testimony establishes that the comparable properties are the same size, presumably the same age, and very similar in all other respects, the proffered evidence was sufficient to support common pleas\u2019s finding that the average sales price of recently sold units represented the current market value of the other similarly-sized condos in the development. Therefore, it was also sufficient to allow common pleas to determine the ratio of assessed value to market value of the comparable properties.\nWe also reject the School District\u2019s suggestion that Smith failed to meet his bui-den of proof because he did not offer any evidence regarding the fair market value of his own condominium. As we noted above, generally, in a uniformity challenge, the taxpayer does not contest the fair market value assigned to his property. Rather, the taxpayer contests the rate of his assessment as compared to other similar properties. A review of the record before common pleas and the papers filed in this court demonstrate that Smith did not take issue with the Board\u2019s finding that his condominium had a market value of $275,000 in 2006. Accordingly, Smith did not need to rebut the Board\u2019s assessment record in that regard.\nWhether Smith failed to meet his burden of proof because his evidence was limited to condominiums located within the same development is a more difficult issue. Answering this question also raises the issue of the proper remedy if a lack of uniformity was sufficiently demonstrated. As noted, the Uniformity Clause has been interpreted by our Supreme Court as requiring all real property to be treated as a single class entitled to uniform treatment. Clifton; Westinghouse. Based upon this construction, the assessment of all real property within the tax district has been traditionally held to be relevant in a uniformity analysis and, therefore, all property can be viewed as comparable. Clifton; The Deitch Co. v. Bd. of Property Assessment, Appeals & Review, 417 Pa. 213, 209 A.2d 397 (1965).\nIn determining whether a lack of uniformity exists, the taxpayer\u2019s assessment ratio must be compared to the \u201ccommon level\u201d of assessed to market value existing in the taxing district. Historically, several approaches to proving a lack of uniformity were deemed to be acceptable. As the Court noted in Deitch:\nThe evidence supplied by the taxpayer in [In re Brooks Building, 391 Pa. 94, 137 A.2d 273 (1958), wherein evidence of the market value and assessment of similar properties of the same nature in the neighborhood was offered,] illustrates one method by which a taxpayer can meet his burden of proving a lack of uniformity, but we do not consider it to be the only method. It would be equally satisfactory to produce evidence regarding the ratios of assessed values to market values as the latter are reflected in actual sales of any other real estate in the taxing district for a reasonable period prior to the assessment date. Thus, for example, the taxpayer\u2019s expert witness or witnesses could select a number of recent representative sales and offer testimony with respect to such sales as proof of the ratio in the taxing district. We do not, of course, mean to suggest that the taxpayer must produce evidence with respect to every recent sale in the district. Furthermore, any other competent evidence of an overall current ratio based on sales within the taxing district which is available may be introduced.\n417 Pa. at 223-24, 209 A.2d at 403. Accord Keebler Co. v. Bd. of Revision of Taxes, 496 Pa. 140, 143, 436 A.2d 583, 584 (1981) (citation omitted) (also noting that because \u201c[practical considerations ... prohibit the construction of a common level ratio by way of an evaluation of the assessment and fair market value of each and every parcel of realty in the taxing district,\u201d the common level ratio may be constructed by \u201cany relevant evidence.\u201d). However, whatever approach was taken to demonstrate a lack of uniformity, the taxpayer was not entitled to have his assessment reduced to the lowest ratio of assessed value to market value to which he could point if such ratio did not reflect the common level prevailing in the district overall. Deitch [citing Rick Appeal, 402 Pa. 209, 167 A.2d 261 (1961) ]. Rather, precedent establishes that a taxpayer was entitled to have his property assessed at a rate that represents the common level in the district. Deitch. Accord Keebler. See also Appeal of F.W. Woolworth Co., 426 Pa. 583, 235 A.2d 793 (1967). Assessment at the \u201ccommon level\u201d serves to fulfill the principle underlying the uniformity requirement: \u201cthat [taxpayers] should pay no more or no less than [their] proportionate share of the cost of government.\u201d Deitch, 417 Pa. at 220, 209 A.2d at 401. This principle is often referred to as the \u201cproportionality principle.\u201d Clifton, 600 Pa. at 707, 969 A.2d at 1224.\nHowever, with the advent of the STEB-calculated CLR, application of the CLR in tax assessment appeals where the EPR varied from the CLR by more than fifteen percent was thought to cure any lack of uniformity in an assessment, and, therefore, obviated the need to mount the traditional uniformity challenge described in Deitch. Questions arose, however, regarding whether the statutory scheme set forth in the Assessment Law, particularly Section 704, actually precluded a traditional uniformity challenge, and whether that statutory scheme had created a \u201cstatutorily-endorsed margin of error\u201d within which uniformity was deemed satisfied for the taxpayer whose assessment at the EPR deviated from the CLR by less than fifteen percent. These issues were addressed by our Supreme Court in Downingtown.\nIn Downingtown, a shopping center was sold for approximately $10 million. At the time of sale, the property was assessed at $5.8 million. Consequently, the school district appealed the assessment and a hearing before common pleas eventually followed, at which time the school district sought to increase the property\u2019s assessment to $8.5 million. At the hearing, the parties stipulated that the property had a fair market value of $8.5 million, that the EPR was 100%, and that the CLR was 85.2%. The taxpayer\u2019s expert then testified that seven other similar shopping centers in the county were assessed at rates between thirty-six and sixty-three percent of current market value, lower than the subject property. Common pleas concluded that since shopping centers did not constitute a separate class for uniformity purposes and the STEB-calculated CLR superseded prior methods of determining uniformity, the taxpayer\u2019s evidence of assessment rates of similar properties was irrelevant. Common pleas granted the school district relief and applied the EPR of 100% to the stipulated market value of $8.5 million. This court affirmed.\nOn appeal, our Supreme Court reviewed historic decisional law, including Brooks, Deitch and Keebler, to identify both the principles underlying the constitutional requirement of tax uniformity and the burdens of proof and evidence required in a uniformity challenge. In addition, the Court examined the current statutory scheme, taking note of its inherent inequities and the existing potential for discrimination. The Court observed that although the Uniformity Clause has been interpreted to preclude real property from being divided into separate classes for purposes of systemic tax assessment, that general principle did not eliminate the need to \u201cconsider meaningful sub-classifications as a component of the overall evaluation of uniform treatment in the application of the taxation scheme.\u201d Id. at 469, 913 A.2d at 200. A complete disregard of meaningful sub-classifications, clearly evidence which would be deemed to be relevant under the Deitcli construct, would represent \u201can impermissible departure from federal equal protection jurisprudence, [which not only represents the floor for Pennsylvania\u2019s uniformity assessment but] clearly contemplates the seasonable attainment of rough equality in treatment among similarly situated property owners.\u201d Id. at 469, 913 A.2d at 200-01 (citations and footnote omitted). Thus, the Court opined: \u201c[W]hile the Commonwealth may certainly seek to achieve overall uniformity by attempting to standardize treatment among differently situated property owners, its efforts in this regard do not shield it from the prevailing requirement that similarly situated taxpayers should not be deliberately treated differently by taxing authorities.\u201d Id. at 470, 913 A.2d at 201 (footnote omitted).\nSince Downingtown, the Supreme Court has reiterated that consideration of meaningful sub-classifications as a component of the overall evaluation of uniform treatment is proper. Clifton, 600 Pa. at 688, 969 A.2d at 1212-13 (noting that Court has retreated from absolute view that real estate as a subject of taxation cannot be divided into different classes and that sub-classifications can be considered in the overall evaluation of the uniformity of the tax scheme).\nThe Court also concluded in Downing-town that the Assessment Law, to the extent that it mandated in an assessment appeal application of the EPR where the CLR was no less than eighty-five percent of the EPR, was facially unconstitutional. 590 Pa. at 474-76, 913 A.2d at 204-05. Specifically, the Court observed that the mere lodging of an assessment appeal by a taxing authority could serve to disrupt equalization in assessment values when the CLR was no less than eighty-five percent of the county\u2019s EPR. As the Court noted, in those circumstances the assessment board is required to increase the property\u2019s assessed value to its current market value as of the date of the appeal and then apply the EPR to that value, resulting in an assessment based on present value rather than in base-year dollars. As a consequence, only taxpayers subject to an appeal are burdened with assessments based upon an EPR applied to increased present value. 590 Pa. at 474, 913 A.2d at 204. The Court opined:\nThus, in allowing use of the EPR rather than the CLR, the General Assembly has, in effect, carved out a class of taxpayers who are subjected to an unfairly high tax burden-namely, those whose assessment is appealed by any taxing district in which the property is located. Because this classification is not based on any legitimate distinction between the targeted and non-targeted properties, it is arbitrary, and thus, unconstitutional.\nId. at 475, 913 A.2d at 204-05 (footnote omitted). Based upon the perceived discriminatory effect of our statutory assessment scheme as it pertains to uniformity of assessments, the Court concluded:\nThe common law procedure described in Deitch and reaffirmed in Appeal of F.W. Woolworth Co., [426 Pa. 583, 235 A.2d 793 (1967)] and Keebler Co. v. Board of Revision of Taxes, [496 Pa. 140, 436 A.2d 583 (1981) ], was premised upon constitutional constraints pertaining to tax uniformity, and reflected a salutary methodology to better assure that each taxpayer would pay no more nor less than his fair share, to the extent that such fair share was reasonably susceptible of ascertainment. We are not at liberty to jettison this constitutionally-grounded procedure based upon a statute which does not account for potential discrimination among property owners of comparable properties and which systemieally disadvantages certain property owners whose tax assessments are the subject of the statutory appeal procedures. Thus ... we cannot agree that the present statute may serve to foreclose all other inquiry.\nId. at 476, 913 A.2d at 205 (footnote and citation omitted). Accordingly, the Court remanded for common pleas to consider the adequacy of the taxpayer\u2019s uniformity challenge \u201cunder the Deitch construct, as elaborated upon in Fosko, and as further reconciled with federal equal protection jurisprudence.\u201d Id. at 477, 913 A.2d at 205.\nHere, Smith put on credited evidence demonstrating that many similarly situated properties in the same development complex were taxed at a lower rate of current market value than his property. Based upon the principles discussed in Downingtown, such evidence remains relevant to a uniformity analysis and is properly considered. However, the evidence also showed that some comparable properties in the development were taxed at a higher percentage of market value. In addition, the comparables on which common pleas relied \u2014 admittedly a significant number of units in the developmenN-were taxed at a substantially lower rate than the average in the taxing district.\nThat evidence alone, however, was insufficient to demonstrate that Smith was entitled to any further relief. While the Supreme Court\u2019s decision in Downingtomi establishes that such evidence is relevant, nothing in its opinion suggests any departure from the established principle that the remedy for a lack of uniformity is a reduction in the assessment to conform to the common level prevailing in the tax district, such that this taxpayer pays no more and no less than his fair share.\nIndeed, our Supreme Court\u2019s recent decision in Clifton demonstrates that the CLR, despite any inherent weaknesses, is an accepted calculation of the common level existing in the district and the standard against which the taxpayer\u2019s assessment ratio should be measured for uniformity purposes. Indeed, the Court specifically noted that \u201cthe CLR is a useful tool for a taxpayer to demonstrate that his property has been over-assessed, as it allows him to compare the assessed-to-market value ratio of his property to the average ratio throughout the district.\u201d Id. at 693, 969 A.2d at 1216 (footnote omitted). Moreover, as the Court observed, the coefficient of dispersion (COD), one of the accepted statistical indicators of uniformity, measures the \u201caverage deviation from the median, mean, or weighted mean ratio of assessed value to fair market value, expressed as a percentage of that figure.\u201d Clifton, 600 Pa. at 694, 969 A.2d at 1216 (internal quotations and citation omitted). In Clifton, the expert calculated the COD using the CLR as the measuring point. In addition, while application of the CLR on a case-by-case basis was inadequate to remedy the pervasive county-wide lack of uniformity demonstrated in Clifton, the Court implicitly acknowledged that use of the CLR as a remedy is appropriate when an isolated lack of uniformity has been established: \u201cThere may well be circumstances where use of the CLR and the individual appeal process adequately serves to address cases of particular inequity, and as case law demonstrates, both taxpayers and municipalities make use of the appeals process.\u201d Id. at 712, 969 A.2d at 1227.\nThus, we believe that, absent the kind of circumstances shown in Clifton, which mandate county-wide reassessment, or a showing of willful discrimination by the taxing authorities, a taxpayer is entitled only to have his assessment conform with the common level existing in the district, not with a small sample of properties being taxed at a lower than average level. The teaching of Deitch, Downingtown, and Clifton clearly establish that the Uniformity Clause entitles a taxpayer to pay no more than his fair share; it does not give him a right to pay less. Moreover, to reduce an assessment below the average to that demonstrated by a few comparables or demonstrated to exist in a particular neighborhood would only serve to exacerbate a lack of uniformity in the district overall.\nAccordingly, while Smith demonstrated that his property was assessed at a greater percentage of market value than some other similar properties in his development, common pleas\u2019 remedy, returning the assessment to that established in the base year, violates the principles discussed above. Rather, the Board\u2019s assessment based upon current market value and the CLR was proper. Therefore, we reverse.\nORDER\nAND NOW, this 7th day of December, 2010, the order of the Court of Common Pleas of Carbon County in the above-captioned matter is hereby REVERSED.\n. The Uniformity Clause, found in Article VIII, Section 1 of the Pennsylvania Constitution, provides that \"[a]ll taxes shall be uniform, upon the same class of subjects, within the territorial limits of the authority levying the tax ....\"\n. The assessment and taxation of real estate in Carbon County is governed by The Fourth to Eighth Class County Assessment Law (Assessment Law), Act of May 21, 1943, P.L. 571, as amended, 72 P.S. \u00a7\u00a7 5453.101\u20145453.706, and The General County Assessment Law, Act of May 22, 1933, P.L. 853, as amended, 72 P.S. \u00a7\u00a7 5020-101\u20145020-602.\n. These assessment ratios were calculated by dividing the unit\u2019s assessed value by the last recorded sales price. The oldest recorded sale reflected on Silvestri\u2019s report occurred in 1992.\n. Throughout this testimony, opposing counsel and common pleas questioned the relevance of assessment ratios calculated using the last recorded sales price rather than current market value. Apparently, Silvestri was trying to demonstrate that, beginning in 2004, the School District began to appeal some assessments following a sale of the property. Since property values had presumably increased since the last county-wide reassessment in 2001, the appeals naturally resulted in increased assessments.\n. The hearing before common pleas occurred in December, 2008.\n. Silvestri calculated this ratio by dividing the new assessed value of $88,141 by $275,000, the price that Smith paid for the condominium.\n. The base year is defined as \u201cthe year upon which real property market values are based for the most recent county-wide revision of assessment of real property or other prior year upon which the market value of all real property of the county is based.\u201d Section 102 of the Assessment Law, 72 P.S. \u00a7 5453.102. The last county-wide reassessment in Carbon County occurred in 2001.\n.The Assessment Law defines the \u201ccommon level ratio\u201d as \"the ratio of assessed value to current market value used generally in the county as last determined by the State Tax Equalization Board [STEB]....\" Section 102, 72 P.S. \u00a7 5453.102. The CLR is calculated on an annual basis by STEB for each county using data from all arms\u2019 length sales transactions during the relevant period, supplemented by independent appraisal data and other relevant information. Clifton v. Allegheny County, 600 Pa. 662, 969 A.2d 1197 (2009); Downingtown Area Sch. Distr. v. Chester County Bd. of Assessment Appeals, 590 Pa. 459, 913 A.2d 194 (2006). Under normal economic conditions, the CLR will decrease each year, reflecting ongoing inflation and an appreciation in real estate values. Clifton, 600 Pa. at 692, 969 A.2d at 1216 (quoting Downingtown ).\n. But see Downingtown, wherein our Supreme Court held this statutory mandate unconstitutional. 590 Pa. at 475, 913 A.2d at 204-05.\n. Silvestri also noted that he reviewed public records that Carbon County sells to RPD Analyzer.\n. See generally Gitney v. Berks County Bd. of Assessment Appeals, 160 Pa.Cmwlth. 647, 635 A.2d 737 (1993) (noting that, where taxpayers produced evidence of only the assessments of comparable properties and not market value, they could not prevail in their uniformity challenge).\n. Rather than taking the average market value for purposes of calculating the assessment ratios of the comparables, common pleas could have calculated individual assessment ratios for the most recently sold properties based upon Silvestri\u2019s credited testimony regarding actual sales prices.\nAppellants also challenge the sufficiency of Silvestri's testimony regarding the current market value of the comparables because he did not conduct a formal appraisal of those properties, accessed data online rather than the actual records held by the assessment office, and failed to consider such matters as unit location, upgrades and maintenance. These matters all go to the weight and credibility of his testimony, not its competency.\n. In this regard, our Supreme Court has distinguished the Equal Protection Clause of the United States Constitution from Pennsylvania\u2019s Uniformity Clause. While interpretation of the Uniformity Clause precludes real property from being divided into sub-classifications for assessment purposes, Clifton, Downingtown, the federal scheme does not require equalization among all sub-classifications of real property. Rather, it seeks uniformity among similarly-situated property owners. Id.\n.Prior to availability of the STEB-calculated CLR and its application pursuant to the current statutory framework, the Supreme Court in both Deitch and Keebler indicated that the \"common level\u201d could be evidenced by: (1) the fixed ratio of assessed to market value applied throughout the district; or (2) if a fixed ratio did not exist and assessment ratios varied widely, the average ratio in the district; or (3) if the evidence demonstrated that the majority of the properties tended to cluster around an assessment ratio, such ratio might be acceptable as the common level. Deitch, 417 Pa. at 220-21, 209 A.2d at 401; Keebler, 496 Pa. at 142, 436 A.2d at 583-84.\n. See generally Downingtown Area School Dist. v. Chester County Bd. of Assessment Appeals, 819 A.2d 615 (Pa.Cmwlth.2003), rev'd, 590 Pa. 459, 913 A.2d 194 (2006); Hromisin v. Bd. of Assessment Appeals, 719 A.2d 815 (Pa.Cmwlth. 1998), called into doubt by Downingtown, 590 Pa. 459, 913 A.2d 194 (2006). See also In re Appeal of Armco, Inc., 100 Pa.Cmwlth. 452, 515 A.2d 326, 330 (1986) (stating, \u201cThe STEB common level ratio operates as a multiplier used to convert current market values to equivalent base-year assessed values.\u201d).\n. See Downingtown Area Sch. Dist. v. Chester County Bd. of Assessment Appeals, 577 Pa. 420, 846 A.2d 74 (2004) (per curiam order granting petition for allowance of appeal); Downingtown, 819 A.2d 615 (Pa.Cmwlth.2003) (Friedman, J., dissenting). See also Vees v. Carbon County Bd. of Assessment Appeals, 867 A.2d 742 (Pa.Cmwlth.2005) (Friedman, J., dissenting).\n. It may be noted that in a geographic area or recessionary time period, the reverse may occur. In that situation, the taxpayer who appeals his assessment and has the EPR applied to a reduced present value will obtain an assessment with a lower ratio of assessed to market value than the CLR, causing him to pay less than his fair share to the detriment of other taxpayers.\n. Clifton reaffirms the principle that, where an individual taxpayer has demonstrated a lack of uniformity regarding his assessment, the appropriate remedy is to reduce the assessment to that consistent with the common level in the district. That was not the situation before the Court in Clifton, where consolidated lawsuits challenged a local ordinance, which provided for the use of the 2002 base year property assessment for assessment purposes in 2006 and beyond. The challengers contended that the ordinance violated state assessment laws and the Uniformity Clause. Our Supreme Court held that as applied in Allegheny County, \"the statutory base year system of taxation [], which approves the prolonged and potentially indefinite use of an outdated base year assessment to establish property tax liability, violates the Uniformity Clause....\u201d 600 Pa. at 714, 969 A.2d at 1229.\n. The Court observed in Downingtown that application of the STEB-CLR leaves \"substantial leeway for potential discrimination by local officials among similarly situated property owners who are under-represented in the general population, given both the significance of range in the application of averages (often expressed in terms of a 'coefficient of dispersion\u2019), and the fact that under-representation in a surveyed population yields diminished impact on resultant averages.\u201d Id. at 470-71, 913 A.2d at 201-02 (citations omitted). No such circumstances were shown, or even alleged, to exist in the present case, nor was there any claim of willful discrimination.\n. However, nothing prevents a taxpayer from bringing in an expert to provide testimony regarding the common level ratio if the STEB-calculated CLR is believed to be inaccurate.\n. The other widely accepted statistical indicator is the price-related differential (PRD), which reports the inequity between high-value and low-value properties. Clifton. \"PRDs above 1.03 tend to indicate assessment regres-sivity (an appraisal bias in which high-value properties are appraised lower than low-value properties relative to their actual value), while PRDs below 0.98 indicate tax progressivity (an appraisal bias in which high-value properties are appraised higher than low-value properties relative to their actual value).\u201d Id. at 694, 969 A.2d at 1216-17 (internal quotations and citation omitted).\n. This is especially so because, as the Court observed in Clifton, the study conducted by taxpayers\u2019 expert of sales of single-family homes demonstrated \"the unsurprising fact that market values inevitably fluctuated in a non-uniform manner among neighborhoods....\u201d 600 Pa. at 709, 969 A.2d at 1226.",
+        "type": "majority",
+        "author": "President Judge LEAJDBETTER."
+      }
+    ],
+    "attorneys": [
+      "Daniel A. Miscavige and Gretchen D. Sterns, Hazleton, for Appellant Carbon County Board of Assessment Appeals.",
+      "William G. Schwab, Lehighton, for Ap-pellee Jim Thorpe Area School District.",
+      "Francis J. Hoegen, Wilkes-Barre, for Appellee Christopher S. Smith."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher S. SMITH v. CARBON COUNTY BOARD OF ASSESSMENT APPEALS and Jim Thorpe Area School District. Appeal of: Carbon County Board of Assessment Appeals. Christopher S. Smith v. Carbon County Board of Assessment Appeals and Jim Thorpe Area School District. Appeal of: Jim Thorpe Area School District.\nCommonwealth Court of Pennsylvania.\nArgued Dec. 7, 2009.\nDecided Dec. 7, 2010.\nDaniel A. Miscavige and Gretchen D. Sterns, Hazleton, for Appellant Carbon County Board of Assessment Appeals.\nWilliam G. Schwab, Lehighton, for Ap-pellee Jim Thorpe Area School District.\nFrancis J. Hoegen, Wilkes-Barre, for Appellee Christopher S. Smith.\nBEFORE: LEAJDBETTER, President Judge, and PELLEGRINI, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0393-01",
+  "first_page_order": 399,
+  "last_page_order": 413
+}

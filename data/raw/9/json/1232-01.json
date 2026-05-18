@@ -1,0 +1,431 @@
+{
+  "id": 7288559,
+  "name": "STATE v. Leon BROWN",
+  "name_abbreviation": "State v. Brown",
+  "decision_date": "2010-12-14",
+  "docket_number": "No. 2008-209-C.A.",
+  "first_page": "1232",
+  "last_page": "1240",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 1232"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "840 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9291805
+      ],
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/0541-01"
+      ]
+    },
+    {
+      "cite": "925 A.2d 885",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8306600
+      ],
+      "pin_cites": [
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/925/0885-01"
+      ]
+    },
+    {
+      "cite": "774 A.2d 68",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11086457
+      ],
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/774/0068-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 1223",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7871071
+      ],
+      "pin_cites": [
+        {
+          "page": "1226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/674/1223-01"
+      ]
+    },
+    {
+      "cite": "996 A.2d 601",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289548
+      ],
+      "pin_cites": [
+        {
+          "page": "604"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/996/0601-01"
+      ]
+    },
+    {
+      "cite": "950 A.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8228212
+      ],
+      "pin_cites": [
+        {
+          "page": "417"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/950/0400-01"
+      ]
+    },
+    {
+      "cite": "619 A.2d 828",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7360111
+      ],
+      "pin_cites": [
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/619/0828-01"
+      ]
+    },
+    {
+      "cite": "690 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11923181
+      ],
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/690/0310-01"
+      ]
+    },
+    {
+      "cite": "739 A.2d 222",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11563419
+      ],
+      "pin_cites": [
+        {
+          "page": "228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/739/0222-01"
+      ]
+    },
+    {
+      "cite": "882 A.2d 1097",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8922103
+      ],
+      "pin_cites": [
+        {
+          "page": "1127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/882/1097-01"
+      ]
+    },
+    {
+      "cite": "706 A.2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11860438
+      ],
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/706/0412-01"
+      ]
+    },
+    {
+      "cite": "524 A.2d 575",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876817
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "582"
+        },
+        {
+          "page": "581, 582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/524/0575-01"
+      ]
+    },
+    {
+      "cite": "611 A.2d 1390",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939767
+      ],
+      "pin_cites": [
+        {
+          "page": "1394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/611/1390-01"
+      ]
+    },
+    {
+      "cite": "604 A.2d 772",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7937531
+      ],
+      "pin_cites": [
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/604/0772-01"
+      ]
+    },
+    {
+      "cite": "549 A.2d 1373",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7890404
+      ],
+      "pin_cites": [
+        {
+          "page": "1377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/549/1373-01"
+      ]
+    },
+    {
+      "cite": "726 A.2d 1188",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "1140"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "731 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11668819
+      ],
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/731/0726-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11189241
+      ],
+      "pin_cites": [
+        {
+          "page": "932"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0927-01"
+      ]
+    },
+    {
+      "cite": "509 A.2d 444",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7893849
+      ],
+      "pin_cites": [
+        {
+          "page": "452"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/509/0444-01"
+      ]
+    },
+    {
+      "cite": "557 A.2d 1204",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7903015
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1206"
+        },
+        {
+          "page": "1206"
+        },
+        {
+          "page": "1206-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/557/1204-01"
+      ]
+    },
+    {
+      "cite": "887 A.2d 370",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8999624
+      ],
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/887/0370-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 905,
+    "char_count": 22268,
+    "ocr_confidence": 0.641,
+    "pagerank": {
+      "raw": 1.0268644251361149e-07,
+      "percentile": 0.5469444357566793
+    },
+    "sha256": "95eb985c5a6c8b325494639ed21eed6d203607205c475665a1a486693b3e74b2",
+    "simhash": "1:858b096b814b57ea",
+    "word_count": 3667
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+    ],
+    "parties": [
+      "STATE v. Leon BROWN."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nChief Justice SUTTELL,\nfor the Court.\nThe issues in this appeal arise from an incident on August 14, 2004, that left a fourteen-year-old boy with a bleeding head and missing jewelry. A jury convicted the defendant, Leon \u201cBoogie\u201d Brown, of assaulting the young man with a dangerous weapon, as well as of assaulting a police officer and resisting arrest. The defendant raises three issues on appeal. First, the defendant argues that the trial justice should have granted his motion for judgment of acquittal because the evidence adduced at trial was not legally sufficient to sustain a conviction of robbery, for which the defendant had been indicted. Second, the defendant asserts that the trial justice clearly erred when she did not grant the defendant\u2019s motion to pass the case after a witness\u2019s highly prejudicial remark. Finally, the defendant argues that a sentence should not have been imposed under the habitual criminal statute because the requisite notice of intent to seek such a sentence was not timely filed. For the reasons set forth in this opinion, we affirm the judgment of the Superior Court in all respects.\nI\nFacts and Procedural History\nOn November 23, 2004, a grand jury indicted defendant for (1) first-degree robbery, (2) simple assault of a police officer, and (3) resisting arrest. On February 4, 2005, defendant was arraigned in Superior Court and pled not guilty to all charges. On February 16, 2005, twelve days after the arraignment, the Attorney General served notice on defendant, informing him that, pursuant to G.L.1956 \u00a7 12-19-21, defendant was subject to the imposition of an additional sentence as a habitual criminal. The pertinent evidence adduced at defendant\u2019s trial is set forth below.\nOn August 14, 2004, Luis D. attended a birthday party on Public Street in Providence. During the course of the party, Luis left to get a snack at a corner store and, on his way out of the store, he saw three people, including defendant, whom he recognized, \u201csitting on the side.\u201d Luis testified that as he was walking around the corner, defendant grabbed him by the neck. According to Luis, when he asked defendant what defendant was doing, defendant replied \u201c[d]on\u2019t fuck with my family.\u201d Thereafter, Luis passed out and later awoke to find himself on the sidewalk bleeding from his head, with two police cars, an ambulance, and various party guests around him. Luis testified that, upon regaining consciousness, he immediately noticed that his ring and gold chain, both of which he had been wearing that day, were missing. An ambulance took Luis to the hospital, where he was treated for head injuries.\nLuis testified that upon leaving the hospital, he went to the police station and told the police that \u201cBoogie Brown\u201d attacked him. Although Luis \u201ccouldn\u2019t * * * describe him that much,\u201d he identified defendant from some photos that the police showed him. Luis also testified that he later went back to the house where the birthday party had taken place to inquire whether his friend had his ring and chain.\nOfficer Frank Newton testified that, on August 14, 2004, he was dispatched to the area of Public Street in Providence in response to a 9-1-1 call. Officer Newton testified that it took him approximately fifteen seconds to arrive, and that upon arrival he saw \u201ca Spanish male standing up,\u201d with glassy eyes and blood on the back of his head. According to Officer Newton, a group of people stood about twenty feet away. Officer Newton testi-tied that the injured male told him that someone had come up behind him and picked him up, causing him to hit the ground and pass out. When Officer Newton asked the injured male whether he was missing anything, the male grabbed his chest, looked down, and said that he had been wearing two necklaces and a ring.\nPedro Gutirrez, a clerk at the corner store on Public Street, testified that on August 14, 2004, he was behind the store counter when he heard banging and noticed merchandise falling off the shelves next to a wall. Mr. Gutirrez said he went outside to see what was happening and thereupon witnessed defendant hitting a child against the wall. Mr. Gutirrez testified that defendant \u201clet the child drop, and the child fell, and then [defendant] grabbed him again and he banged him against the floor.\u201d Mr. Gutirrez further testified that defendant hit the child on the head several times with his tennis shoes. Mr. Gutirrez said that he attempted to push defendant off the child because he thought defendant was going to kill the child, and that when he did push him off, defendant asked Mr. Gutirrez if he wanted to fight. Mr. Gutirrez replied that he did not want to fight but just did not want defendant to kill the child. Mr. Gutirrez testified that the child was unconscious at this point. Mr. Gutirrez then ran back into the store and got a knife because defendant was chasing him. According to Mr. Gutirrez, during the chase defendant said \u201cI\u2019ll get you.\u201d At this point in the trial, defendant immediately moved to strike Mr. Gutirrez\u2019s statement and moved to pass the case. The defendant argued that this statement was highly prejudicial and had nothing to do with the merits of the case. The trial justice denied both motions, reasoning that the statement was in context of Mr. Gutirrez\u2019s entire testimony and was no more prejudicial than any other part of the testimony.\nOfficer Jose Deschamps testified that on August 17, 2004, he was on patrol on Broad Street in Providence when he and his partner saw defendant and recognized him as having an active warrant out for his arrest for an alleged robbery. When Officer Deschamps, his partner, and a sergeant attempted to arrest defendant, defendant resisted by yelling obscenities, taking a fighting stance, and fighting the officers off. According to Officer Des-champs, before anyone had a chance to tell defendant the reason for his arrest, defendant blurted out that he \u201cdidn\u2019t rob anyone.\u201d\nAfter the state rested, and again after close of all evidence, defendant moved for judgment of acquittal on the robbery count. The defendant argued that there was no evidence that he took anything from Luis and that, therefore, an essential element of the crime of robbery was missing. The trial justice denied the motion and explained that, when viewing the evidence in the light most favorable to the state, a reasonable inference could be drawn that defendant committed a robbery.\nThe trial justice charged the jury on all three indictment charges: (1) first-degree robbery, pertaining to the incident on August 14, 2004, and (2) simple assault of a police officer, and (3) resisting arrest, both pertaining to the incident on August 17, 2004. With respect to the robbery charge, the trial justice instructed the jury on robbery as well as on the lesser-included offenses of assault with a dangerous weapon and simple assault. The defendant took no exception to the instructions on the lesser-included offenses.\nA jury found defendant not guilty of robbery, but guilty of the lesser-included offense of assault with a dangerous weapon, as well as of simple assault of a police officer and resisting arrest. The trial justice sentenced defendant to twenty years at the Adult Correctional Institutions, as well as to a consecutive ten years after finding him a habitual criminal under \u00a7 12-19-21. The defendant timely appealed from the judgment of conviction.\nII\nDiscussion\nA\nMotion for Judgment of Acquittal\nThe defendant first argues that the trial justice should have granted his motion for judgment of acquittal on the robbery charge because insufficient evidence was adduced at trial to sustain a robbery conviction. According to defendant, the state did not present any direct evidence that he took the jewelry from Luis, nor was there any evidence from which to inferentially establish beyond a reasonable doubt that he took the jewelry by force from Luis. Furthermore, defendant asserts that an inference can be drawn that another person took the jewelry when Luis was unconscious. The defendant also points out that even though there may have been enough evidence to convict him of assault, a motion for judgment of acquittal still should have been granted on the robbery charge because evidence adduced at trial sufficient to sustain a conviction of a different, lesser-included, offense is not grounds to deny a motion for judgment of acquittal for the greater offense.\nThe state responds that the evidence, viewed in the light most favorable to the state, was capable of sustaining a guilty verdict on the robbery charge, and thus the trial justice was correct in denying defendant\u2019s motion for a judgment of acquittal. The state maintains that the mere fact that reasonable inferences of innocence can be drawn from the evidence is irrelevant when deciding on a motion for judgment of acquittal, and that the only relevant inquiry on such a motion is whether a reasonable inference of guilt can also be drawn.\nIn reviewing a denial of a motion for judgment of acquittal, we apply the same standard as applied by the trial justice. State v. Caba, 887 A.2d 370, 372 (R.I.2005). That is, we \u201cview the evidence in the light most favorable to the state, without weighing the evidence or assessing the credibility of the witnesses and draw all reasonable inferences that are consistent with guilt.\u201d State v. Henshaw, 557 A.2d 1204, 1206 (R.I.1989). We have also held that \u201ccircumstantial and direct evidence should be given equal weight.\u201d State v. Wilshire, 509 A.2d 444, 452 (R.I.1986). If, after viewing all of the evidence, \u201cthe inferences drawn would justify a reasonable juror in finding a defendant guilty beyond a reasonable doubt, the motion for judgment of acquittal must be denied.\u201d State v. Homoff, 760 A.2d 927, 932 (R.I.2000).\nThis Court defines robbery as \u201cthe felonious taking of money or goods of any value from the person of another, or in his presence, against his will, by violence, or putting him in fear.\u201d State v. Rodriquez, 731 A.2d 726, 729 (R.I.1999) (quoting State v. Shepard, 726 A.2d 1188, 1140 (R.I.1999)). The element of \u201ctaking\u201d is what \u201cdistinguishes robbery from assault.\u201d State v. Brown, 549 A.2d 1373, 1377 (R.I.1988). A \u201ctaking\u201d occurs \u201c[w]hen a defendant takes possession of another\u2019s property.\u201d State v. Holley, 604 A.2d 772, 774 (R.I.1992). On appeal, defendant contends that the state failed to provide any evidence that a \u201ctaking\u201d occurred, and thus we narrow our discussion of this issue to a review of the sufficiency of the evidence from which the jury could have inferred a \u201ctaking.\u201d\nEvidence adduced at trial establishes that Luis was wearing at least one chain and one ring on August 14, 2004, and that his jewelry was missing after Luis was assaulted by defendant. Luis informed a rescue technician about his missing jewelry at the scene of the crime. In addition, when the police arrived shortly after the assault, there was no one in the immediate vicinity of the victim, even though several onlookers were standing about twenty feet away. The record also shows that three days after the assault, defendant was apprehended by police officers and, unprompted, volunteered to them that he \u201cdidn\u2019t rob anyone.\u201d When viewing all of this evidence in the light most favorable to the state, we are satisfied that the state produced sufficient evidence from which a jury could infer beyond a reasonable doubt that defendant took possession of Luis\u2019s jewelry, and that therefore a \u201ctaking\u201d occurred.\nThe defendant\u2019s contention that the motion for judgment of acquittal should have been granted because inferences of innocence could be drawn from the evidence is unavailing. A trial justice must look at all of the evidence in the light most favorable to the state and not weigh the evidence or assess the credibility of the witnesses. Hensha/w, 557 A.2d at 1206. Thus, the relevant inquiry on a motion for judgment of acquittal is whether a reasonable inference consistent with guilt can be drawn, not whether reasonable inferences consistent with innocence are also possible. See id. at 1206-07.\nFinally, although the state did not put forth any direct evidence of defendant taking the jewelry from Luis, the circumstantial evidence presented at trial was sufficient to support the denial of a motion for judgment of acquittal. We previously have held that circumstantial evidence has the same probative value as direct evidence, and that the state can rest its entire case upon circumstantial evidence alone. See State v. Simpson, 611 A.2d 1390, 1394 (R.I.1992) (trial justice properly denied the defendant\u2019s motion for judgment of acquittal where the \u201cbreaking]\u201d element of burglary \u201cwas adequately shown [solely] by circumstantial evidence\u201d). In State v. Caruolo, 524 A.2d 575, 582 (R.I.1987), we upheld a trial justice\u2019s denial of a defendant\u2019s motion for judgment of acquittal, when evidence of the defendant\u2019s guilt was entirely circumstantial. We stated in Caruo-lo that \u201cno distinction is to be drawn between circumstantial and direct evidence\u201d because both \u201care equally probative of guilt,\u201d and that the defendant \u201cmisconceive[d] the law\u201d when he argued otherwise. Id. at 581, 582. Therefore, even though the evidence of a \u201ctaking\u201d in this case was circumstantial in nature, we agree with the trial justice that it was enough to overcome a motion for judgment of acquittal.\nUpon our review of the record in the light most favorable to the state, drawing all reasonable inferences consistent with guilt, we are satisfied that sufficient evidence existed that would justify a reasonable juror in finding that defendant committed a robbery. For this reason, we affirm the trial justice\u2019s denial of defendant\u2019s motion for judgment of acquittal.\nB\nMotion to Pass\nThe defendant next argues that the trial justice committed clear error when she denied defendant\u2019s motion to pass the case after Mr. Gutirrez\u2019s testimony that defendant said \u201cI\u2019ll get you\u201d as he was chasing Mr. Gutirrez. Quoting State v. Parkhurst, 706 A.2d 412, 427 (R.I.1998), defendant asserts that Mr. Gutirrez\u2019s testimony about defendant\u2019s statement was of such an incendiary nature so as to cause the jurors to become inflamed or prevent their \u201ccalm and dispassionate examination of the evidence.\u201d The defendant further asserts that the prejudicial effect of Mr. Gutirrez\u2019s testimony was amplified by a lack of any curative instructions by the trial justice.\nThe state responds that the trial justice properly denied the motion to pass because the statement in question was directly related and clearly relevant to the crime charged. Moreover, the state argues, the statement was not so prejudicial that it should have been stricken, much less the basis for a mistrial.\nA trial justice\u2019s ruling on a motion to pass is given great weight and will not be disturbed unless clear error is shown. State v. Oliveira, 882 A.2d 1097, 1127 (R.I.2005). This is because the \u201ctrial justice \u2018has a fronfirow seat at the trial\u2019 and is in the best position to determine whether a defendant has been unfairly prejudiced.\u201d State v. Luciano, 739 A.2d 222, 228 (R.I.1999) (quoting State v. Gomes, 690 A.2d 310, 317 (R.I.1997)). When ruling on a motion to pass, the trial justice must determine whether the evidence in question \u201cwas of such a nature as to cause the jurors to become so inflamed that their attention was distracted from the issues submitted to them.\u201d State v. Brown, 619 A.2d 828, 831 (R.I.1993). We previously have held that even prejudicial remarks do not necessarily require the granting of a motion to pass. State v. Gautier, 950 A.2d 400, 417 (R.I.2008).\nIn the case at bar, the challenged statement was made as Mr. Gutirrez was testifying about the events that transpired on August 14, 2004. Mr. Gutirrez testified that, while working at a corner store on that date, he observed defendant hitting a child and attempted to intervene by pushing defendant off the boy. The defendant then asked Mr. Gutirrez if he (Mr. Gutir-rez) wanted to fight, to which Mr. Gutirrez responded \u201cno.\u201d Mr. Gutirrez testified that he went back into the store to retrieve a knife because \u201cBoogie was chasing [him].\u201d When asked what defendant said to him when he went back into the store, Mr. Gutirrez answered that defendant said \u201cI\u2019ll get you.\u201d Given this sequence of testimony, it is apparent that the \u201cI\u2019ll get you\u201d statement was a relevant part of that testimony and that the trial justice did not clearly err when she admitted it to provide context. As the trial justice remarked, \u201c[fit\u2019s the same continuing episode.\u201d\nWe find no support in the record to substantiate defendant\u2019s assertion that this statement \u201cwas of such an incendiary nature so as to cause the jurors to become inflamed or prevent their 'calm and dispassionate examination of the evidence.\u2019 \u201d Nor does defendant offer any elaboration on this point. The statement \u201cI\u2019ll get you,\u201d in the context of Mr. Gutirrez\u2019s testimony, was not so inflammatory in and of itself to deprive defendant of a fair trial. Indeed, the trial justice, the proverbial fi-ont-row spectator, said that she did not see anything prejudicial about the statement at all. Even if we were to conclude that the statement at issue was prejudicial, it clearly was not so highly prejudicial as to warrant a mistrial. We hold, therefore, that the trial justice did not abuse her discretion by denying both defendant\u2019s motion to strike and his motion to pass the case.\nC\nHabitual-Criminal Status\nFinally, defendant argues that the trial justice should not have imposed an additional ten-year sentence on him for being a habitual criminal because the requisite notice of intent to seek such a sentence under \u00a7 12-19-21 (b) was not timely filed. The defendant argues that his initial appearance in the Sixth Division District Court on August 18, 2004, on the robbery charge and his presentment as a probation violator of a felony sentence on the next day constituted his arraignment. Thus, he contends that the state had forty-five days thereafter to file a habitual-criminal notice. Because the notice was not filed until February 16, 2005, more than forty-five days from the initial appearance, defendant asserts that the state missed its window of opportunity to impose the habitual-criminal statute on him.\nThe state maintains that the triggering arraignment in this case occurred on February 4, 2005, and that the habitual-criminal notice was timely served twelve days later. The state also argues that even if this Court finds that the notice was not served within forty-five days of the arraignment, it still was timely because it was not.served later than February 16, 2005, the date of the pretrial conference.\nThis Court reviews questions of statutory interpretation de novo. Curtis v. State, 996 A.2d 601, 604 (R.I.2010). When the statutory language \u201cis clear and unambiguous, this Court must interpret the statute literally and must give the words of the statute their plain and ordinary meanings.\u201d Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223, 1226 (R.I.1996). When a statute is unclear or ambiguous, however, this Court\u2019s \u201cultimate goal is to give effect to the purpose of the act as intended by the Legislature.\u201d Webster v. Perrotta, 774 A.2d 68, 75 (R.I.2001). In those instances, this Court will \u201cexamine the statute in its entirety to discern the legislative intent and purpose behind the provision.\u201d State v. LaRoche, 925 A.2d 885, 888 (R.I.2007).\nSection 12-19-21 reads in pertinent part:\n\u201c(b) Whenever it appears a person shall be deemed a \u2018habitual criminal,\u2019 the attorney general, within forty-five (45) days of the arraignment, but in no case later than the date of the pretrial conference, may file with the court a notice specifying that the defendant, upon conviction, is subject to the imposition of an additional sentence * *\nThe defendant\u2019s argument on this issue is without merit. The fact that he initially appeared before the District Court on the robbery complaint is of no moment because the offense of robbery is not within the jurisdiction of the District Court to try and determine. The defendant was charged and presented by indictment handed up by the grand jury and returned to the Superior Court on November 23, 2004. See G.L.1956 \u00a7 8-2-15 (\u201cAll indictments found by grand juries shall be returned into the [Superior] [C]ourt.\u201d). The defendant then was arraigned on the indictment on February 4, 2005. Thus, the state was acting well within the statutory time frame of \u00a7 12-19-21 when, on February 16, 2005 (only twelve days after the arraignment), it notified the defendant that upon conviction he would be subject to an additional sentence as a habitual offender. We conclude, therefore, that the trial justice did not err by imposing the additional sentence upon the defendant as a habitual offender.\nIll\nConclusion\nFor the reasons set forth in this opinion, we affirm the judgment of the Superior Court in all respects. The record of the case shall be remanded to the Superior Court.\n. The defendant\u2019s initial appearance on these charges, however, was in the Sixth Division District Court on August 18, 2004.\n. The pretrial conference was held on the same date.\n. Luis later testified that he also saw defendant on his way into the store.\n. Luis\u2019s testimony is unclear about whether only one ring or several rings were missing.\n.Luis later testified that he was wearing two chains on that day; thus, it is unclear whether just one or both of the chains were missing.\n. The defendant also asserts that the trial justice, by not granting the motion and thereafter instructing the jury on the lesser-included offenses, in effect improperly amended defendant\u2019s indictment. Because defendant took no exceptions to the trial justice\u2019s jury instructions on the lesser-included offenses, he did not preserve this argument for appeal. See State v. Grant, 840 A.2d 541, 546 (R.I.2004) (to effectively preserve an issue for appeal, a litigant has to timely object at trial).",
+        "type": "majority",
+        "author": "Chief Justice SUTTELL,"
+      }
+    ],
+    "attorneys": [
+      "Virginia M. McGinn, Department of Attorney General, for State.",
+      "C. Daniel Schrock, for Defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Leon BROWN.\nNo. 2008-209-C.A.\nSupreme Court of Rhode Island.\nDec. 14, 2010.\nVirginia M. McGinn, Department of Attorney General, for State.\nC. Daniel Schrock, for Defendant.\nPresent: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+  },
+  "file_name": "1232-01",
+  "first_page_order": 1254,
+  "last_page_order": 1262
+}

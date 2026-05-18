@@ -1,0 +1,81 @@
+{
+  "id": 7289053,
+  "name": "COMMONWEALTH of Pennsylvania v. LIBERTY BAIL BONDS, Appellant",
+  "name_abbreviation": "Commonwealth v. Liberty Bail Bonds",
+  "decision_date": "2010-11-23",
+  "docket_number": "",
+  "first_page": "1031",
+  "last_page": "1035",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1031"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "719 A.2d 7",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11669067
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0007-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 530,
+    "char_count": 12973,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18829900893835896
+    },
+    "sha256": "4f70e8145542ea135fabf2606ae2062c1b11c8da6b29d89566b0fe917bae4b17",
+    "simhash": "1:daedda065641c129",
+    "word_count": 2128
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MeGINLEY, Judge, and FRIEDMAN, Senior Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. LIBERTY BAIL BONDS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge FLAHERTY.\nLiberty Bail Bonds (Liberty) appeals from an order of the Court of Common Pleas of Montgomery County (trial court) which denied, without prejudice, Liberty\u2019s application to act as a surety in Montgomery County, as Liberty\u2019s Montgomery County Surety agent, Robert Allan Stock-ett (Stockett), fails to comply with Montgomery County Local Rule of Criminal Procedure (Local Rule) 531(A)(10)(a), as he does not maintain an office in Montgomery County. We reverse and remand.\nOn May 26, 2009, Liberty filed an application to act as a surety in Montgomery County, seeking to enroll Stockett as a surety agent in Montgomery County. Montgomery County did not file a formal response, but refused to grant approval to act as a surety in Montgomery County due to Liberty\u2019s failure to establish an office in Montgomery County pursuant to Local Rule 5Sl(A)(10)(a).\nLiberty sought to have the trial court compel the clerk of courts to issue said license. On November 24, 2009, a hearing was held before the trial court. Liberty contended that there is a distinction between a bondsman and a surety company/agent and that as a surety agent Stock-ett was exempt from Local Rule 531(A)(10)(a). A surety agent (a licensed casualty agent) must be licensed by the Pennsylvania Department of Insurance (Department), pass annual tests, and must act under power of attorney with a qualified insurance carrier. The licensure that a surety receives is a statewide license, same as any other insurance agent. Surety agents are explicitly excluded from the statutory definition of bondsmen. 42 Pa. C.S. \u00a7 5741. Moreover, bondsmen do not have to be licensed by the Department and are subject to local rules and applicable statutes. Surety agents, however, are regulated, tested, and policed by a state agency. Thus, Stockett, a licensed surety agent, was exempt from Local Rule 531(A)(10)(a), because he is a registered surety agent, not a professional bondsman as defined by 42 Pa.C.S. \u00a7 5741. Stockett admitted he did not have an office in Montgomery County.\nOn November 30, 2009, the trial court issued an order denying the application, without prejudice, for failure to comply with Local Rule 531(A)(10)(a). Liberty filed a timely notice of appeal to the Superior Court. On January 7, 2010, the trial court issued an order directing Liberty to file a concise statement of matters complained of on appeal pursuant to Pa. R.A.P.1925(b). At the time, due to clerical error, no statement was filed. On February 23, 2010, the trial court filed its opinion in the matter, rejecting Liberty\u2019s appeal, due to Liberty\u2019s failure to file a timely 1925(b) statement.\nOn March 24, 2010, Liberty filed a request to allow the filing of a concise statement of matters complained of on appeal nunc pro tunc pursuant to Pa. R.A.P. 1925(c). On March 4, 2010, the trial court rejected Liberty\u2019s 1925(c) claim, without prejudice, and affirmed the dismissal of Liberty\u2019s appeal.\nOn March 17, 2010, the Superior Court, upon consent and advisement of Liberty, transferred jurisdiction over this matter to this court. On May 13, 2010, this court quashed Liberty\u2019s appeal for lack of a timely filed 1925(b) statement. On May 20, 2010, Liberty filed a motion for reconsideration of this court\u2019s order quashing Liberty\u2019s appeal. On June 15, 2010, this court entered an order remanding the matter to the trial court and allowing Liberty to file a 1925(b) statement nunc pro tunc.\nOn June 21, 2010, Liberty filed said 1925(b) statement. On June 23, 2010, the trial court issued an opinion that rejected Liberty\u2019s claim. Liberty now appeals to this court.\nInitially, Liberty contends that the trial court erred in denying Liberty\u2019s application to have Stockett act as a surety in Montgomery County where Stockett is a licensed surety, not a bondsman and therefore, exempt from the local rules requiring an office within the county.\nThe Legislature has defined a \u201cProfessional bondsman\u201d in 42 Pa.C.S. \u00a7 5741 as:\nAny person, other than a fidelity or surety company or any of its officers, agents, attorneys, or employees, authorized to execute bail bonds or to solicit business on its behalf, who:\n(1) engages in the business of giving bail, giving or soliciting undertakings, or giving or soliciting indemnity or counter-indemnity to sureties on undertakings; or\n(2) within a period of 30 days has become a surety, or has indemnified a surety, for the release on bail of a person, with or without a fee or compensation, or promise thereof, in three or more matters not arising out of the same transaction. (Emphasis added.)\nAdditionally, 42 Pa.C.S. \u00a7 5744 provides that, \u201c[n]o license shall be issued to, and no privileges or rights conferred by any license issued under the provisions of this subchapter shall be exercised by, any professional bondsman, unless such professional bondsman has and shall thereafter maintain an office in the county in which he conducts or intends to conduct his business.\u201d Local Rule 531(A)(10)(a) states, in pertinent part as follows:\nEvery professional bail bondsman must present proof that he or she maintains an office in Montgomery County from which his or her business is conducted pursuant to 42 Pa.C.S. \u00a7 5744, and he or she must post and maintain as security with the Clerk the sum of Fifty Thousand ($50,000) Dollars in United States currency or securities of the United States Government.\nIt is undisputed that Stockett did not have a local office in Montgomery County. However, it is also undisputed that Stock-ett is a surety agent, not a bondsman, and therefore exempt from the above provision. The exemption resides in the initial clauses of the statute at issue here, 42 Pa.C.S. \u00a7 5741, the statutory definition of a professional bondsman.\nThe Legislature defined a professional bondsman and the class of persons that must maintain a local office. The Legislature explicitly excluded surety companies and their agents from the definition of professional bondsmen and thus, the local office requirements.\nThe conditions that a surety company/agent must comply with prior to engaging in a surety business in Pennsylvania are set forth in 40 P.S. \u00a7 832, Act of May 17, 1921, P.L. 682, as amended. , A surety must be licensed by the Department, carry a statewide license, must pass certain testing, must be backed by an insurance company and must abide by the specific financing and solvency conditions set forth in 40 P.S. \u00a7 832. A professional bail bondsmen is not subject to these conditions. Moreover, a professional bail bondsmen is solely in the business of posting bail for incarcerated individuals.\nRule 531 of the Rules of Criminal Procedure lists the qualifications of a surety in pertinent part as follows:\n(A) Subject to any additional requirements prescribed by local rule of court, the following shall be qualified to act as sureties:\n(3) surety companies approved by the court and authorized to do business in the Commonwealth of Pennsylvania;\n(4) professional bondsmen licensed under the Judicial Code, 42 Pa.C.S. \u00a7\u00a7 5741-5749....\nPa. R.Crim.P. No. 531. The separate listing of sureties and professional bondsmen further demonstrates the Legislature\u2019s clear intention and continual practice of distinguishing the two entities.\nFurther, the Local Rule\u2019s themselves do not support the trial court\u2019s interpretation. Local Rule 531(A)(6-11) sets forth the requirements to be a surety and/or act as a surety in the county. Subsection (8) delineates the qualifications necessary for a corporate surety to act in Montgomery County, subsection (9) similarly provides the qualifications and rules pertaining to an individual surety agent, and subsection (10) sets forth the qualifications necessary to be a professional bail bondsmen. The Local Rules provide different sections and rules for sureties and professional bail bondsmen. Neither the corporate surety, nor the surety agent is required to have a local office operating within Montgomery County. Only the professional bail bondsman is required to have such office.\nFinally, a letter sent on April 23, 2009, by the Department\u2019s Bureau of Licensing and Enforcement, Licensing Supervisor Zena Fortson, sets forth that \u201c... insurance producers for surety (companies) are not required to have an office located in each county. The insurance producer license is a statewide license.\u201d R.R. la, Exhibit G. Stockett is a surety agent who is licensed by the Department to make, execute, seal and deliver surety bail bonds for Liberty. Stockett is underwritten by Seneca Insurance Company, a licensed New York Insurance carrier. Stockett is further authorized, by power of attorney, to write sureties for Seneca. Stockett operates as a surety agent, not a professional bondsman.\nAccordingly, we must reverse the trial court\u2019s order and remand to the trial court to direct the Clerk of Courts of Montgomery County to issue a license to Liberty to act as a surety and permit Stockett to act as a surety agent in Montgomery County. Jurisdiction relinquished.\nORDER\nAND NOW, this 23rd day of November, 2010 the order of the Court of Common Pleas of Montgomery County in the above-captioned matter is reversed. Further, we remand to the trial court to direct the Clerk of Courts of Montgomery County to issue a license to Liberty to act as a surety and permit Stockett to engage in business as a surety agent in Montgomery County. Jurisdiction relinquished.\n. When examining a question of law, this court\u2019s review is plenary. Central Bucks School District v. Cogan, 719 A.2d 7 (Pa.Cmwlth.1998).\n. 40 P.S. \u00a7 832 provides in pertinent part as follows:\nEvery surety company, to be qualified to so act as surety or guarantor, must be authorized, under the laws of the State or country where incorporated and its charter, to guarantee the fidelity of persons holding places of public or private trust, and to guarantee the performance of contracts other than insurance policies, and to execute bonds and undertakings required or permitted in action or proceedings or by law allowed, must: (a) comply with the requirements of the laws of this State applicable to such company in doing business therein; (b) must have at least one hundred thousand dollars ($100,000) invested in securities created by the laws of the United States, or by or under the laws of the State or country wherein it is incorporated ...; (c) its liabilities must not exceed its available assets ...; and (d) such company shall also, before transacting business in this State under this act, file with the Insurance Commissioner a certified copy of its charter or act of incorporation....\n. Rule 531 (A)(8 \u2014 10) provides in pertinent part as follows:\n(8) Corporate Surety.\n(a) Every corporate surety company duly authorized to do business in Pennsylvania may become surety on any bail bond required to be filed in this Court provided that a current Certificate of Authority issued to it by the Insurance Department of the Commonwealth of Pennsylvania, evidencing such right, along with the current financial statement, shall be filed with the Clerk of Courts. No bond shall be executed by any corporate after May 15 th of the same year until such a certificate is issued after March 31st of the same year and the financial statement shall have been filed with the Clerk of Courts.\n(9) Surety Agents.\n(a) Every agent, acting on behalf of a corporate surety, may execute a bail bond required to be filed in this Court provided that a Power of Attorney issued by the corporate surety setting forth the maximum limit of liability per bail, along with proof of licensing by the Insurance Department of the Commonwealth of Pennsylvania, shall be filed with the Clerk of Courts. No bond shall be executed by any surety agent after the expiration of such Power of Attorney until a new Power of Attorney shall have been filed with the Clerk of Courts.\n(10)Professional Bail Bondsman\n(a) Every professional bail bondsman, duly authorized to do business in Pennsylvania, may become surety on any bail bond required to be filed in this Court, provided that a currently valid registration and license from the Insurance Department of the Commonwealth of Pennsylvania, pursuant to 42 Pa.C.S. \u00a7 5742, evidencing such right, shall be filed with the Clerk of Courts. Every professional bail bondsman must present proof that he or she maintains an office in Montgomery County from which his or her business is conducted pursuant to 42 Pa.C.S. \u00a7 5744, and he or she must post and maintain a security with the Clerk the sum of Fifty Thousand ($50,000.00) Dollars in United States currency or securities of the United States Government....",
+        "type": "majority",
+        "author": "Senior Judge FLAHERTY."
+      }
+    ],
+    "attorneys": [
+      "David B. Cercone, Pittsburgh, for appellant.",
+      "Gail Weilheimer, Pittsburgh, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania v. LIBERTY BAIL BONDS, Appellant.\nCommonwealth Court of Pennsylvania.\nSubmitted Oct. 12, 2010.\nDecided Nov. 23, 2010.\nDavid B. Cercone, Pittsburgh, for appellant.\nGail Weilheimer, Pittsburgh, for appel-lee.\nBEFORE: MeGINLEY, Judge, and FRIEDMAN, Senior Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "1031-01",
+  "first_page_order": 1057,
+  "last_page_order": 1061
+}

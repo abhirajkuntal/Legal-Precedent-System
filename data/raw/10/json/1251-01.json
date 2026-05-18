@@ -1,0 +1,426 @@
+{
+  "id": 7291231,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Tawanda I. BROOKINS, Appellant",
+  "name_abbreviation": "Commonwealth v. Brookins",
+  "decision_date": "2010-11-15",
+  "docket_number": "",
+  "first_page": "1251",
+  "last_page": "1260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 1251"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "703 A.2d 418",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        281282,
+        11881059
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/550/0046-01",
+        "/a2d/703/0418-01"
+      ]
+    },
+    {
+      "cite": "550 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        281282
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/550/0046-01"
+      ]
+    },
+    {
+      "cite": "819 A.2d 100",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9345159
+      ],
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/819/0100-01"
+      ]
+    },
+    {
+      "cite": "258 Pa.Super. 194",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        104320
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "affirming joinder of fourteen defendants charged in relation to labor unrest at the site of a strike based on the defendants' commission of similar acts"
+        },
+        {
+          "page": "753",
+          "parenthetical": "affirming joinder of fourteen defendants charged in relation to labor unrest at the site of a strike based on the defendants' commission of similar acts"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/258/0194-01"
+      ]
+    },
+    {
+      "cite": "352 Pa.Super. 466",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        651046
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/352/0466-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9145857
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "130-131"
+        },
+        {
+          "page": "130-131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/860/0127-01"
+      ]
+    },
+    {
+      "cite": "828 A.2d 1066",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108041,
+        587954,
+        587973,
+        9108025
+      ],
+      "weight": 8,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1074"
+        },
+        {
+          "page": "1075"
+        },
+        {
+          "page": "1075",
+          "parenthetical": "\"[I]t is important to keep in mind the primary concern in change of venue cases; does the location of the trial impact on the ability of the parties to have their case decided before a fair and impartial tribunal?\""
+        },
+        {
+          "page": "1077"
+        },
+        {
+          "page": "1077"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/828/1066-02",
+        "/pa/574/0100-01",
+        "/pa/574/0099-01",
+        "/a2d/828/1066-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 100",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        587954
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0100-01"
+      ]
+    },
+    {
+      "cite": "690 A.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11922741,
+        468687
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/690/0203-01",
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 294",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468687
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "808 A.2d 893",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11365392,
+        270315
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "902",
+          "parenthetical": "quoting Commonwealth v. Marinetti, 547 Pa. 294, 690 A.2d 203, 213 (1997)"
+        },
+        {
+          "page": "902-03"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/808/0893-01",
+        "/pa/570/0117-01"
+      ]
+    },
+    {
+      "cite": "570 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        270315
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Commonwealth v. Marinetti, 547 Pa. 294, 690 A.2d 203, 213 (1997)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/570/0117-01"
+      ]
+    },
+    {
+      "cite": "917 A.2d 343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8322373
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "344"
+        },
+        {
+          "page": "344-45"
+        },
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/917/0343-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 290",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811673,
+        1811668
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "302"
+        },
+        {
+          "page": "496-97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0290-01",
+        "/pa/518/0290-02"
+      ]
+    },
+    {
+      "cite": "907 A.2d 3",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8928115
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/907/0003-01"
+      ]
+    },
+    {
+      "cite": "733 A.2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11547059
+      ],
+      "pin_cites": [
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/733/0633-01"
+      ]
+    },
+    {
+      "cite": "991 A.2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291195
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "901-903"
+        },
+        {
+          "page": "901"
+        },
+        {
+          "page": "902-03"
+        },
+        {
+          "page": "903"
+        },
+        {
+          "page": "903"
+        },
+        {
+          "page": "903"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/0898-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1084,
+    "char_count": 28626,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 5.796983165074409e-08,
+      "percentile": 0.3614202990212943
+    },
+    "sha256": "7c5146c1060791f9ffe6ab8fb443d984a951373f8178bfb0197e74cec9cc861d",
+    "simhash": "1:bf635c3f7a06d975",
+    "word_count": 4541
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BENDER, DONOHUE and FREEDBERG, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Tawanda I. BROOKINS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY BENDER, J.:\nTawanda I. Brookins appeals the judgment of sentence imposed following her conviction of Possession With Intent to Deliver (PWID), Criminal Conspiracy, and Corrupt Organizations, 35 P.S, \u00a7 780-113(a)(30), 18 Pa.C.S. \u00a7\u00a7 903, 911 (respectively). Brookins contends that the trial court erred in denying her motion to sever her trial from that of her codefendants, denying her motion for change of venue to Philadelphia County, and admitting certain expert testimony. Upon review, we conclude that the trial court erred in denying the motion for severance, as evidence of conduct by certain other defendants would not have been admissible had Brookins been tried separately. We conclude, in addition, that Brookins was unduly prejudiced by the admission of that evidence in the trial of this case. Accordingly, we vacate Brookins\u2019s judgment of sentence and remand this case for a new trial.\nBrookins\u2019s convictions arise out of a conspiracy with co-defendant Shannon McKeiver to possess cocaine with the intent to deliver it between January and April 2007. Brookins\u2019s involvement with McKeiver was documented by enforcement agents of the Office of Attorney General (AG) pursuant to a wiretap executed on McKeiver\u2019s telephone. The agents recorded Brookins ostensibly asking McKeiver to sell her a quantity of cocaine for resale and arranging for the drug\u2019s delivery. Broo-kins was one of twenty-two alleged co-conspirators, including co-defendants Janet C. Washington and Mark Carr, whom officers recorded pursuant to the wiretap in question and then charged with unlawful activities, including PWID. The Commonwealth charged the defendants by separate informations but joined all twenty-two in a single action for trial. Although multiple defendants ultimately obtained severance or reached plea bargains with the Commonwealth, the trial court declined to sever Brookins\u2019s case, which proceeded for trial with the prosecutions of Washington and Carr as well as Shannon McKeiver, and co-defendants Kevin Dejouin Jordan and Derrick Thompson. In advance of trial, Brookins, Washington, and Carr all moved for changes of venue on the basis that Montgomery County, where the case was ultimately tried, had no significant contact with their cases and that the acts in question occurred predominantly in Philadelphia County. Carr, Washington, and McKeiver also sought suppression of the evidence but did not raise the reliability of the Commonwealth\u2019s confidential informant as a basis for the motion. The trial court denied suppression and the cases against all six defendants proceeded to trial for a period of thirteen days commencing on March 10, 2009. The evidence adduced consisted, in substantial part, of wiretap recordings of the individual defendants engaged in planning the crimes charged as well as the testimony of Commonwealth witness Kenneth Beilis, an AG regional director who, at the time of the underlying investigation was a supervisory agent in the AG\u2019s Philadelphia office. Bei-lis was offered as an expert witness and qualified by the trial court to testify \u201cas an expert in cocaine investigations, wiretap investigations, the use of drug lingo and also street jargon as it relates to drug lingo and cocaine and wiretap investigations.\u201d N.T., 3/10/09, at 150. Accordingly, Beilis offered a range of opinions concerning the meaning and construction of the language used in the recorded phone calls bearing on all of the defendants\u2019 criminal activities. All defendants objected to aspects of Beilis\u2019s testimony.\nIn Brookins\u2019s case, the Commonwealth\u2019s theory of liability for all of the charges against her, which included Conspiracy and Corrupt Organizations, is that she participated in the drug trafficking ring run by McKeiver and codefendant Kevin Jordan by purchasing drugs from McKeiver and re-selling them to others. In support of its theory, the Commonwealth adduced transcriptions of ten telephone calls between Brookins and McKeiver on March 19, 2007, arranging a sale of cocaine. Agent Beilis testified concerning the \u201cnonstandard\u201d language the parties used to explain to the jury that the subject of the calls was drug-related. In addition, because Brookins\u2019s case was consolidated for trial with those of Jordan, McKeiver, and Thompson, the Commonwealth also adduced evidence during the trial of participation by the latter three in a plan to rob and kidnap a wealthy drug dealer identified during a phone conversation between them as \u201cthe Spanish kid.\u201d The Commonwealth had not, however, charged Brookins with either the kidnapping or robbery offenses.\nAt the conclusion of trial, the jury found Brookins guilty as charged. At the subsequent hearing on sentencing, the trial court, the Honorable Steven T. O\u2019Neill, imposed a sentence of four to ten years\u2019 incarceration for PWID, accompanied by concurrent terms of three to six years for Criminal Conspiracy, and one to two years for Corrupt Organizations and a fine of $25,000. Represented by new counsel, Brookins filed this appeal raising the following questions for our review:\n[1.] Did the trial court commit manifest abuse of discretion when it failed to grant severance, or alternatively, did the trial court commit manifest abuse of discretion by allowing unfairly prejudicial evidence of violence and robbery, which had no connection to Appellant at Appellant\u2019s trial?\n[2.] Did the trial court commit manifest abuse of discretion when it denied de-fence motions for change of venue?\n[3.] Did the trial court commit manifest abuse of discretion when it allowed an expert to opine on the meaning of conversations contained on a wiretap tape?\nBrief for Appellant at 4.\nBrookins\u2019s first question, challenging the trial court\u2019s discretion in denying severance of her trial from that of her co-defendants, is common to the appeals of Washington and Carr as well. In support of that claim, Brookins argues that admission of certain evidence in the joint trial allowed the jury to reach a determination of her guilt of PWID, Conspiracy, and Corrupt Organizations based in part on evidence of the kidnapping and armed robbery planned by co-defendants Jordan, McKeiver, and Thompson. Brief for Appellant Brookins at 12. Brookins argues that such evidence would not have been admissible in a separate trial of the charges against her and that the \u201cspillover\u201d effect it engendered in the minds of the jurors caused her undue prejudice. See id. (\u201cBecause her case was not severed, she suffered improper prejudice at trial where evidence that was properly admissible against her co-defendants overwhelmed the jury with allegations of violence and robbery. Such evidence should not have been separately admissible against her, since it was irrelevant to the allegations against her and created unfair prejudice by its inclusion in her trial.\u201d).\nThe Commonwealth contends that the evidence of robbery and kidnapping was admissible against all defendants, as Jordan and McKeiver planned those offenses to obtain money and drugs \u201cwhich were necessary to keep the enterprise in operation .... Thus, each robbery-related offense was admissible in the trial of the criminal enterprise/drug trafficking offenses, and vice versa.\u201d Brief for Appellee at 17. The Commonwealth argues further that \u201c[tjhere simply was no reason that the jury could not address the evidence and charges relating to the robbery plot separately from the evidence relating directly to the drug-trafficking charges.\u201d Id. at 20. The trial court concluded that the pen-dency of charges of Corrupt Organizations and Conspiracy against all defendants compelled a joint trial, as \u201cthe Commonwealth would be using the same evidence, i.e., audiotapes of wiretapped communication, in an attempt to prove the existence and operation of a corrupt organization with respect to each defendant. It was the theory of the Commonwealth\u2019s case that the co-defendants, including [Brookins], were among numerous individuals involved in a -widespread drug trafficking ring.\u201d Trial Court Opinion, 1/26/10, at 5.\nJoinder and severance of separate indictments for trial is a discretionary function of the trial court; consequently, the trial court\u2019s decision is subject to review for abuse of that discretion. See Commonwealth v. Dozzo, 991 A.2d 898, 901-903 (Pa.Super.2010); Commonwealth v. Boyle, 733 A.2d 633, 635 (Pa.Super.1999). \u201cJudicial discretion requires action in conformity with law, upon facts and circumstances judicially before the court, after hearing and due consideration.\u201d Commonwealth v. Levanduski, 907 A.2d 3, 14 (Pa.Super.2006). Consequently, an abuse of discretion consists not merely of errors in judgment by the trial court, but instead contemplates action unsupported by the evidence, at odds with governing law, or arising from improper motives personal to the judge. See id. \u201cThe critical consideration is whether [the] appellant was prejudiced by the trial court\u2019s decision .... [The ajppellant bears the burden of establishing such prejudice.\u201d Dozzo, 991 A.2d at 901.\nThe Pennsylvania Rules of Criminal Procedure limit the joinder of offenses and defendants charged in separate indictments relative to the nature of the evidence adduced and the number of criminal acts or transactions alleged:\nRule 582. Joinder-Trial of Separate Indictments or Informations\n(A) Standards\n(1) Offenses charged in separate indictments or informations may be tried together if:\n(a) the evidence of each of the offenses would be admissible in a separate trial for the other and is capable of separation by the jury so that there is no danger of confusion; or\n(b) the offenses charged are based on the same act or transaction.\n(2) Defendants charged in separate indictments or informations may be tried together if they are alleged to have participated in the same act or transaction or in the same series of acts or transactions constituting an offense or offenses.\nPa.R.Crim.P. 582(A)(1), (2). Conversely, the Rules permit severance of charges or defendants already joined when it appears that a defendant may be prejudiced by a joint trial:\nRule 583. Severance of Offenses or Defendants\nThe court may order separate trials of offenses or defendants, or provide other appropriate relief, if it appears that any party may be prejudiced by offenses or defendants being tried together.\nPa.R.Crim.P. 583.\nReading these rules together, our Supreme Court [has] established the following test for severance matters:\nWhere the defendant moves to sever offenses not based on the same act or transaction ... the court must therefore determine: [1] whether the evidence of each of the offenses would be admissible in a separate trial for the other; [2] whether such evidence is capable of separation by the jury so as to avoid danger of confusion; and, if the answers to these inquiries are in the affirmative, [3] whether the defendant will be unduly prejudiced by the consolidation of offenses.\n[Commonwealth v.] Collins, (quoting Commonwealth v. Lark, 518 Pa. 290, 302, 543 A.2d 491, 496-97 (1988)). Pursuant to this test, \u201ca court must first determine if the evidence of each of the offenses would be admissible in a separate trial for the other.\u201d Collins, supra.\nDozzo, 991 A.2d at 902-03. This determination of admissibility is critical to the court\u2019s disposition of the severance motion; thus, the evidence must be weighed in no less rigorous a fashion than if it were proffered for admission at trial. See Commonwealth v. Grillo, 917 A.2d 343, 344 (Pa.Super.2007) (en banc). Accordingly:\n\u201cEvidence of crimes other than the one in question is not admissible solely to show the defendant\u2019s bad character or propensity to commit crime.\u201d See Pa. R.E. 404(b)(1) (providing: \u201cEvidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show action in conformity therewith\u201d). Nevertheless:\n[Ejvidence of other crimes is admissible to demonstrate (1) motive; (2) intent; (3) absence of mistake or accident; (4) a common scheme, plan or design embracing the commission of two or more crimes so related to each other that proof of one tends to prove the others; or (5) the identity of the person charged with the commission of the crime on trial. Additionally, evidence of other crimes may be admitted where such evidence is part of the history of the case and forms part of the natural development of the facts.\nCollins, supra at 55, 703 A.2d at 422-23; Pa.R.E. 404(b)(2).\nDozzo, 991 A.2d at 903.\nAssuming that the joinder of separate indictments or defendants is proper, this Court has recognized three factors to be persuasive in determining whether prejudice suffered by the defendants on trial is sufficient to warrant severance:\n(1) Whether the number of defendants or the complexity of the evidence as to the several defendants is such that the trier of fact probably will be unable to distinguish the evidence and apply the law intelligently as to the charges against each defendant; (2) Whether evidence not admissible against all the defendants probably will be considered against a defendant notwithstanding admonitory instructions; and (3) Whether there are antagonistic defenses.\nTolassi, 392 A.2d at 753.\nIn this case, we find the joinder of Broo-kins\u2019s charges, which were limited to PWID, Conspiracy, and Corrupt Organizations, untenable to the extent that it compelled a determination of Brookins\u2019s guilt in view of evidence germane only to the Robbery and Kidnapping charges leveled against Jordan, McKeiver, and Thompson. The evidence properly admissible against Brookins consisted primarily of recorded conversations intercepted by wiretap and transcribed as Commonwealth exhibits. See Commonwealth\u2019s exhibits C-2-F, G, L, M, N, O, P, Q, R, S. Although the presence of drug lingo and street jargon makes the transcribed conversations somewhat opaque, the Commonwealth\u2019s own expert witness testified that their content related only to the sale of drugs. The transcripts themselves bear no indication that Broo-kins participated in the conspiracy to kidnap and rob the \u201cSpanish kid,\u201d or that she had any knowledge of it. Moreover, the surveillance reports by the agents who watched her activities in conjunction with the wiretap merely document her movements and her association with Carr and McKeiver on the April 9, 2007. N.T., 8/19/09, at 42-61, 73-82. Under those circumstances, we find no basis on which the evidence of attempted robbery and kidnapping would be admissible in a separate trial of the PWID charge against Brookins or the Criminal Conspiracy and Corrupt Organizations charges, which by the Commonwealth\u2019s own acknowledgment, arise only from her participation in the drug distribution ring operated by Jordan and McKeiver. Brief for Appellee at 17. Significantly, Brookins\u2019s conduct appears to bear no relationship to the planning and execution of the attempted kidnapping and robbery with which Jordan, McKeiver, and Thompson were charged. That conduct spawned a discrete criminal transaction, independent of Brookins\u2019s acts and therefore would not have been admissible in her trial had she been tried separately. See Pa.R.E. 404(A)(1)(b), (2). See also Grillo, 917 A.2d at 344-45 (finding evidence of defendant\u2019s theft of a police badge and camera inadmissible in defendant\u2019s prosecution on a burglary charge for prying open a door where the crimes arose at different times under different circumstances reflecting no necessary relationship between aspects of the conduct alleged). Cf. Tolassi, 392 A.2d at 753 (recognizing that the propriety of joinder of multiple defendants may be assessed based upon whether proof of the corpus delicti of the various crimes charged is common to all defendants).\nSimilarly, evidence of the attempted kidnapping and robbery would not have been admissible against Brookins as \u201cother crimes\u201d evidence. See Pa.R.E. 404. As we noted above, such evidence is admissible only to show:\n(1) motive; (2) intent; (3) absence of mistake or accident; (4) a common scheme, plan or design embracing the commission of two or more crimes so related to each other that proof of one tends to prove the others; or (5) the identity of the person charged with the commission of the crime on trial.\nDozzo, 991 A.2d at 903. None of these purposes would be served by admission in Brookins\u2019s trial of evidence supporting charges of attempted kidnapping and robbery. Although, as the Commonwealth alleges, evidence of the demand for drugs for re-sale by Brookins, as well co-defendants Carr and Washington, may be relevant to show the motivations of Jordan, McKeiver, and Thompson in planning the robbery and kidnapping, the inverse is not true. The acts of the latter three co-defendants in planning a robbery and kidnapping fail to elucidate Brookins\u2019s motive or intent in purchasing drugs for resale or to establish her participation in any common scheme or design. Although the attempted kidnapping and robbery were ostensibly motivated by the co-defendants\u2019 desire to obtain drugs, their planning and attempted execution was independent of Brookins\u2019s conduct. Thus, the Commonwealth\u2019s contention that \u201ceach robbery-related offense was admissible in the trial of the criminal enterprise/drug trafficking offenses\u201d is simply wrong. While evidence of Brookins\u2019s conduct in buying drugs for resale might be admissible in the separate trials of Jordan, McKeiver, and Thompson, to establish their motive, intent, and common scheme, plan, or design, evidence of their conspiracy would not be independently admissible against Brookins. Accordingly, given the absence of circumstances sufficient to sustain joinder under Rule 582, the necessity of severance under Rule 583 is apparent. The trial court erred in denying Brookins\u2019s severance motion.\nIn support of her second question, Brookins asserts that the trial court erred in denying her motion for change of venue from Montgomery County, where her case was tried, to Philadelphia County. Brief for Appellant at 16. Brookins argues that there is no evidence that she ever committed a criminal act in Montgomery County, that it was unforeseeable that she would be charged there, and that in being tried there, she was deprived of a jury panel of the proper vicinage. Id. at 18. The trial court concluded that venue was proper in Montgomery County in view of the fact that Brookins\u2019s indictment was rendered by the grand jury based on a drug distribution conspiracy that spanned several counties, trial in any one of which would have been proper. Trial Court Opinion, 1/26/10, at 7. The Commonwealth contends that Brookins failed to demonstrate the necessity of a venue change and that, in any event, she failed to demonstrate that she was prejudiced by venue in Montgomery County. Upon review, we do not find the circumstances of this case such as to compel a change of venue. We conclude accordingly that the trial court did not err in denying Brookins\u2019s motion.\n\u201cThe trial court\u2019s decision on appellant\u2019s motions for change of venue/veni-re rests within the sound discretion of the trial judge, whose ruling thereon will not be disturbed on appeal absent an abuse of that discretion.\u201d Commonwealth v. Drumheller, 570 Pa. 117, 808 A.2d 893, 902 (2002) (quoting Commonwealth v. Marinetti, 547 Pa. 294, 690 A.2d 203, 213 (1997)). Venue assumes the existence of jurisdiction and \u201crelates to the right of a party to have the controversy brought and heard in a particular judicial district.\u201d Commonwealth v. Bethea, 574 Pa. 100, 828 A.2d 1066, 1074 (2003). \u201cVenue is a procedural matter, generally prescribed by the [Rules of Court].\u201d Id.\nIn this instance, venue was prescribed by 42 Pa.C.S. \u00a7 4551(d), which provides that \u201cin any ease where a multi-county investigating grand jury returns a presentment the supervising judge shall select the county for conducting the trial from among those counties having jurisdiction.\u201d 42 Pa.C.S. \u00a7 4551(d). \u201cGenerally, venue begins in the court with a geographic connection to the events at issue.\u201d Bethea, 828 A.2d at 1075. Consequently, \u201c[v]enue in a criminal action properly belongs in the place where the crime occurred. This practice recognizes the necessity of bringing a party to answer for his actions in the place where the crime itself occurred because that is where the evidence and the witnesses will most likely be located.\u201d Id. Nevertheless, in evaluating venue pursuant to section 4551, this Court has held that where multiple offenses committed across several counties are to be prosecuted in one county, \u201cit is not necessary that the county so chosen be the situs of each and every crime charged. It is enough that one of the offenses being tried occurred in that county.\u201d Commonwealth v. Baney, 860 A.2d 127, 130-131 (Pa.Super.2004) (quoting Commonwealth v. Bradfield, 352 Pa.Super. 466, 508 A.2d 568, 572 (1986)).\nVenue may be changed \u201cwhen it is determined after hearing that a fair and impartial trial cannot be [sic] otherwise be had in the county where the case is currently pending.\u201d Pa.R.Crim.P. 584(A). The moving party bears the burden of showing that such a change is necessary and must demonstrate that he or she cannot receive a fair and impartial trial in the county in which venue was originally established. See Bethea, 828 A.2d at 1075 (\u201c[I]t is important to keep in mind the primary concern in change of venue cases; does the location of the trial impact on the ability of the parties to have their case decided before a fair and impartial tribunal?\u201d). In evaluating the likelihood of prejudice, our Supreme Court has considered whether trial in the original venue caused the defendant to incur undue expense, whether the location of the trial rendered the defendant unable to obtain the presence of defense witnesses or evidence, whether the prosecution was engaged in forum shopping to obtain an advantage over the defense, see id. at 1077, and of course, whether pre-trial publicity rendered a fair trial unlikely, see Drumheller, 808 A.2d at 902-03.\nBrookins argues that venue in Montgomery County was not correctly established in her case, ab initio, as she committed no criminal acts in that county. Nevertheless, she fails to establish that venue was not otherwise proper under section 4551(d) and Rule 584(A). Although we recognize that a trial in Philadelphia County might have been appropriate had the evidence against her related merely to the isolated sale of cocaine alleged in the PWID charge, neither the evidence nor the charges were so limited. The supervising judge of the grand jury selected Montgomery County as the site of trial for the consolidated cases based not merely upon Brookins\u2019s conduct in Philadelphia, but also with reference to the activities of other sellers in the drug distribution ring of which Brookins was a part. Throughout the grand jury presentment, the prosecution alleged that Brookins\u2019s co-defendants delivered drugs to customers in Conshohocken, Montgomery County. Grand Jury Presentment at 8, 28, 30-31, 32. Evidence of such activity was relevant to establish the charges of Conspiracy and Corrupt Organizations with which Broo-kins was charged, and the jury found her guilty of those charges. Thus, we cannot conclude that none of Brookins\u2019s offenses occurred in Montgomery County. See Baney, 860 A.2d at 130-131.\nSimilarly, we find no basis for a conclusion that Brookins was prejudiced by the trial in Montgomery County. She offers no discussion on this point as contemplated in Bethea, 828 A.2d at 1077; nor can we speculate that her access to witnesses and evidence or to an impartial jury panel was in any way compromised. Moreover, Brookins makes no claim of forum shopping or that she was adversely affected by pre-trial publicity. See id., Drumheller, at 902-03. Accordingly, we do not find sufficient merit in her claim of error in the trial court\u2019s denial of a change of venue to compel a venue transfer on remand. Brookins\u2019s second question thus offers no grounds for relief.\nFinally, in support of her third question, Brookins asserts that the trial court erred in allowing the testimony of Agent Kenneth Beilis as a prosecution expert on the language used by the co-defendants on various wiretap tapes. Brief for Appellant at 19. Nevertheless, the only tape she challenges specifically is Commonwealth Exhibit C-49, a voicemail message left by Kevin Jordan for Shannon McKeiver. Id. at 20-21. The message included the following sentence: \u201cSo hit me up so that I could let you know what the scoop is and you could peep it out and we can knock this shit out before the boy pull up.\u201d Id. at 21. Agent Beilis interpreted Jordan\u2019s language to mean that \u201cKevin\u2019s leaving a message telling Shannon McKeiver he can come check it out, look what he\u2019s talking about as far as who he\u2019s talking about robbing.\u201d Id. Significantly, Beilis did not interpret the language to be in any way related to the charges then pending against Brookins. Thus, Brookins\u2019s claim of prejudice is limited to the fact that Beilis\u2019s testimony concerning the robbery charge was unduly prejudicial to her case. In view of our disposition of Brookins\u2019s first question, however, we find this issue to be moot. Pursuant to our rationale, supra, the trial court erred in joining Brookins\u2019s trial with those of Jordan, McKeiver, and Thompson. Thus, on Broo-kins\u2019s retrial, Exhibit C-47 will not be in evidence, as it concerns only the charges against those three defendants. Accordingly, we shall not address Agent Beilis\u2019s testimony in this appeal.\nFor the foregoing reasons, we vacate Brookins\u2019s judgment of sentence and remand this case for further proceedings consistent with this Opinion.\nJudgment of sentence VACATED. Case REMANDED for a new trial. Jurisdiction RELINQUISHED.\n. Consistent with the standard set forth in Pa.R.Crim.P. 582(A)(1)(a) and (2), this Court has acknowledged that the propriety of join-der of multiple defendants may be assessed based upon whether proof of the corpus de-licti of the various crimes charged is common to all defendants. See Commonwealth v. Tolassi, 258 Pa.Super. 194, 392 A.2d 750, 753 (1978) (affirming joinder of fourteen defendants charged in relation to labor unrest at the site of a strike based on the defendants' commission of similar acts).\n. The prejudice alleged must be such as would occur \"if the evidence tended to convict [the] appellant only by showing his propensity to commit crimes, or because the jury was incapable of separating the evidence or could not avoid cumulating the evidence.\u201d Commonwealth v. Lauro, 819 A.2d 100, 107 (Pa.Super.2003) (quoting Commonwealth v. Collins, 550 Pa. 46, 703 A.2d 418, 422 (1997)). Such prejudice must, however, exceed \"the general prejudice any defendant suffers when the Commonwealth's evidence links him to a crime.\u201d Id.\n. As we noted above, when a defendant moves for severance where the underlying offenses are not based on the same act or transaction, the court must evaluate\n[1] whether the evidence of each of the offenses would be admissible in a separate trial for the other; [2] whether such evidence is capable of separation by the jury so as to avoid danger of confusion; and, if the answers to these inquiries are in the affirmative, [3] whether the defendant will be unduly prejudiced by the consolidation of offenses.\nDozzo, 991 A.2d at 903. As we recognized in our discussion of joinder under Rule 582, the first of these considerations, i.e., whether the evidence would be admissible in a separate trial, is not established. Even if it were, however, we are convinced that the likelihood of \u201cundue prejudice\u201d contemplated in Dozzo makes admission of the evidence of attempted kidnapping and robbery otherwise admissible against Brookins\u2019s codefendants impermissible. To the extent that Brookins was not charged with attempted kidnapping or robbery, admission of evidence of those offenses in her trial served only to suggest that she shared the same character traits that motivated her co-defendants in their crimes. As we observed in Grillo, \u201d[t]his is precisely why evidence of another crime is considered too prejudicial to be admissible.\u201d Grillo, 917 A.2d at 343. Consequently, the same factors that refute the need for joinder under Rule 582 also compel severance under Rule 583.",
+        "type": "majority",
+        "author": "OPINION BY BENDER, J.:"
+      }
+    ],
+    "attorneys": [
+      "Timothy P. Wile, Public Defender, Nor-ristown, for appellant.",
+      "James P. Barker, Asst. Dist. Atty., Harrisburg, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Tawanda I. BROOKINS, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted Sept. 27, 2010.\nFiled Nov. 15, 2010.\nReargument Denied Jan. 28, 2011.\nTimothy P. Wile, Public Defender, Nor-ristown, for appellant.\nJames P. Barker, Asst. Dist. Atty., Harrisburg, for Com., appellee.\nBEFORE: BENDER, DONOHUE and FREEDBERG, JJ."
+  },
+  "file_name": "1251-01",
+  "first_page_order": 1251,
+  "last_page_order": 1260
+}

@@ -1,0 +1,182 @@
+{
+  "id": 7289543,
+  "name": "In re N.W. Appeal of N.W., Juvenile",
+  "name_abbreviation": "In re N.W.",
+  "decision_date": "2010-10-08",
+  "docket_number": "",
+  "first_page": "1020",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "722 A.2d 1093",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11782713
+      ],
+      "pin_cites": [
+        {
+          "page": "1097"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/722/1093-01"
+      ]
+    },
+    {
+      "cite": "373 Pa.Super. 510",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        696041
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/373/0510-01"
+      ]
+    },
+    {
+      "cite": "912 A.2d 887",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8444607
+      ],
+      "pin_cites": [
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/912/0887-01"
+      ]
+    },
+    {
+      "cite": "879 A.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8933265,
+        687746
+      ],
+      "weight": 4,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "189",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/879/0185-01",
+        "/pa/583/0478-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 478",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687746
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "484-85",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0478-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8338065
+      ],
+      "pin_cites": [
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/1152-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 805,
+    "char_count": 19238,
+    "ocr_confidence": 0.716,
+    "pagerank": {
+      "raw": 8.525827461368996e-08,
+      "percentile": 0.4872650876556896
+    },
+    "sha256": "2b79b6ac9d3385c11691fdd9db6e69b7120dfa0c4e3b48a123ed31bd8bbfded5",
+    "simhash": "1:fede88d07243ad82",
+    "word_count": 3057
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MUSMANNO, DONOHUE and COLVILLE , JJ."
+    ],
+    "parties": [
+      "In re N.W. Appeal of N.W., Juvenile."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nDONOHUE, J.:\nThis is an appeal from an order of court adjudicating the appellant, N.W., delinquent. Following our careful review, we affirm.\nOn November 29, 2008, the Alburtis Police Department received 17 complaints regarding spray-painted images of penises, which appeared on houses, sheds, propane tanks, vehicles and fences. One such complaint also indicated that a garage door had been damaged in an apparent attempt to break into the garage. The cost of the damage inflicted by these actions was in excess of $5,000.\nA few days later, Police Officer Corey Fluck was on patrol when he heard a call over the police radio that two individuals in hooded sweatshirts were destroying inflatable Christmas decorations. When he observed a car containing two males that matched this description, he conducted a vehicle stop. Inside of the car were two juveniles, M.U. and J.S. When Officer Fluck asked to search the vehicle, the driver consented. Among the multiple items recovered from the car (including brass knuckles and a knife), Officer Fluck also found a can of spray paint. Officer Fluck subsequently questioned M.U. and J.S. in the presence of their parents about the vandalism of the Christmas decorations and the spray-painting incidents of November 29, 2008, at which time they admitted that they were responsible for both destructive episodes. They also told Officer Fluck that N.W. had participated in the events of November 29, 2008.\nThe Commonwealth filed delinquency petitions against all three juveniles. The present appeal involves the proceedings concerning N.W. that followed the filing of the petitions, which the trial court succinctly summarized as follows:\nOn May 1, 2009, N.W., a juvenile, was brought before the [cjourt for an adjudication hearing, along with J.S. and M.U., also juveniles. At the time of the hearing, N.W. was represented by counsel and his parents were present in the courtroom. The matters pertaining to all three juveniles were heard together.\nOriginally, the juvenile petition charged N.W. with one count of Criminal Mischief under 18 [Pa.C.S.A.] \u00a7 8304(a)(4) (hereinafter \u201cgraffiti criminal mischief\u2019) graded as a Felony 3, one count of Criminal Mischief under 18 [Pa.C.S.A.] \u00a7 3304(a)(5) (hereinafter \u201cgeneral criminal mischief\u2019) graded as a Misdemeanor 3, and one count of Criminal Conspiracy to Commit (Graffiti) Criminal Mischief graded as a felony 3. Prior to the facts of the cases being read into the record, defense counsel for all of the juveniles argued that the count of graffiti criminal mischief was improperly graded as a Felony 3. After hearing argument, the [cjourt agreed and the grading of the first count was changed to reflect a Misdemeanor 3. Additionally, the Commonwealth petitioned to amend the charge of Criminal Conspiracy to reflect conspiracy to general criminal mischief in addition to graffiti criminal mischief and to add an additional count of general criminal mischief under \u00a7 3304(a)(5), graded as a Felony 3. Over the objection of defense counsel, the [cjourt allowed these amendments.\nAfter the other juveniles had made admissions in their individual cases that pertained to the episode(s) of criminal mischief N.W. was alleged to have been involved with, N.W. chose to admit to one count of graffiti criminal mischief, with an amended grading of a Misdemeanor 3, and one count of general criminal mischief, graded as a Misdemeanor 3. He then chose to have a contested hearing on the remaining counts of the Petition: one count of general criminal mischief, graded as a Felony 3, and one count of conspiracy to commit general criminal mischief, graded as a Felony 3.\n[N.W.] agreed to stipulate to the facts [as testified to by Officer Fluck and as set forth above].\nFollowing Officer Fluck\u2019s testimony, the [cjourt found that the acts testified to constituted general criminal mischief and conspiracy to commit criminal mischief, both graded as a Felony 3.... N.W. was adjudicated delinquent and the disposition of his case was transferred to Bucks County, his county of residence.\nTrial Court Opinion, 9/18/09, at 1-5.\nThis appeal followed, in which N.W. challenges the trial court\u2019s ruling that allowed the Commonwealth to amend the delinquency petition to charge him with general criminal mischief as a third-degree felony under sub-section (a)(5). In support of his position, N.W. presents the following two questions for our review:\n1. Did the court commit an error of law when it ignored the plain meaning of 18 Pa.C.S.A. \u00a7 3304 with respect to criminal mischief in the form of graffiti by allowing the Commonwealth to proceed in Count 3, conspiracy to commit criminal mischief under \u00a7 3304(a) (5), as amended, and count 4, criminal mischief criminal mischief under \u00a7 3304(a)(5), as added and graded as a felony of the third degree pursuant to \u00a7 3304(b) for criminal mischief in the form of graffiti?\n2. Did the court commit an error of law by failing to apply the particular controls general principle of law when it sustained count 3 and count 4, both graded as felonies of the third degree, for criminal mischief in the form of graffiti?\nAppellant\u2019s Brief at 5 (emphasis in the original).\nThe statute at issue provides as follows:\n\u00a7 3304. Criminal mischief\n(a) Offense defined. \u2014 A . person is guilty of criminal mischief if he:\n(1) damages tangible property of another intentionally, recklessly, or by negligence in the employment of fire, explosives, or other dangerous means listed in section 3302(a) of this title (relating to causing or risking catastrophe);\n(2) intentionally or recklessly tampers with tangible property of another so as to endanger person or property;\n(3) intentionally or recklessly causes another to suffer pecuniary loss by deception or threat;\n(4) intentionally defaces or otherwise damages tangible public property or tangible property of another with graffiti by use of any aerosol spray-paint can, broad-tipped indelible marker or similar marking device;\n(5) intentionally damages real or personal property of another; or\n(6) intentionally defaces personal, private or public property by discharging a paintball gun or paintball marker at that property.\n(b) Grading. \u2014 Criminal mischief is a felony of the third degree if the actor intentionally causes pecuniary loss in excess of $5,000, or a substantial interruption or impairment of public communication, transportation, supply of water, gas or power, or other public service. It is a misdemeanor of the second degree if the actor intentionally causes pecuniary loss in excess of $1,000, or a misdemeanor of the third degree if he intentionally or recklessly causes pecuniary loss in excess of $500 or causes a loss in excess of $150 for a violation of subsection (a)(4). Otherwise criminal mischief is a summary offense.\n(c) Definition. \u2014 As used in this section, the term \u201cgraffiti\u201d means \u00e1n unauthorized inscription, word, figure, mark or design which is written, marked, etched, scratched, drawn or painted.\n18 Pa.C.S.A. \u00a7 3304.\nN.W. first argues that the trial court erred by allowing the Commonwealth to charge him with criminal mischief as a third-degree felony. According to N.W., when the conduct constituting criminal mischief is graffiti, the statute only permits the conduct to be charged as a third-degree misdemeanor or a summary offense, not as a felony. See Appellant\u2019s Brief at 10-12.\nThis issue presents a question of statutory interpretation, and so our standard of review is plenary. In re K.A.P., 916 A.2d 1152, 1155 (Pa.Super.2007). Accordingly,\n[o]ur task is guided by the sound and settled principles set forth in the Statutory Construction Act, including the primary maxim that the object of statutory construction is to ascertain and effectuate legislative intent. In pursuing that end, we are mindful that when the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit. Indeed, as a general rule, the best indication of legislative intent is the plain language of a statute. In reading the plain language, words and phrases shall be construed according to rules of grammar and according to their common and approved usage, while any words or phrases that have acquired a peculiar and appropriate meaning must be construed according to that meaning. However, when interpreting non-explicit statutory text, legislative intent may be gleaned from a variety of factors, including, inter alia: the occasion and necessity for the statute; the mischief to be remedied; the object to be attained; the consequences of a particular interpretation; and the contemporaneous legislative history. Moreover, while statutes generally should be construed liberally, penal statutes are always to be construed strictly, and any ambiguity in a penal statute should be interpreted in favor of the defendant.\nCommonwealth v. Shiffler, 583 Pa. 478, 484-85, 879 A.2d 185, 189 (2005) (citations omitted).\nN.W.\u2019s argument focuses on sub-section (a)(5). He contends that the language of this provision evinces the Pennsylvania Legislature\u2019s intent to create a separate grading scheme for convictions of criminal mischief in which the underlying act is graffiti. Appellant\u2019s Brief at 12.\nAs set forth above, sub-section (b) provides that where the amount of damage caused by criminal mischief exceeds $5,000, the crime shall be graded as a third-degree felony and where the amount of damage is between $1,000 and $4,999, it shall be graded as a second-degree misdemeanor. See 18 Pa.C.S.A. \u00a7 8304(b). Notably, these provisions are not limited in their application to any of the particular types of criminal mischief defined in subsections (a)(1) \u2014 (5).\nThe issue at the heart of this appeal arises with the portion of subsection (b) that defines when the crime should be graded as a third-degree misdemeanor. We reiterate this portion of the statute:\nIt is ... a misdemeanor of the third degree if he intentionally or recklessly causes pecuniary loss in excess of $500 or causes a loss in excess of $150 for a violation of subsection (a)(4) [expressly including graffiti in the definition of criminal mischief]. Otherwise criminal mischief is a summary offense.\nId.\nN.W. argues that by singling out criminal mischief caused by graffiti for purposes of grading at the third-degree misdemean- or level, the Legislature intended that graffiti-based criminal mischief be graded only as a third-degree misdemeanor or a summary offense. Accordingly, he contends, the trial court erred when it permitted the Commonwealth to amend the charges to include a count of criminal mischief under sub-section (a)(5), which he characterizes as a \u201ccatch all\u201d provision. Appellant\u2019s Brief at 12-13.\nThe Commonwealth counters that graffiti is but one type of criminal mischief defined in sub-section (a), and because sub-section (b) does not qualify the types of criminal mischief that may be graded as a third-degree felony or a second-degree misdemeanor, all of the grading provisions apply to a conviction for graffiti-based criminal mischief. Appellee\u2019s Brief at 7. According to the Commonwealth, the language of sub-section (b) to which N.W. points increases the penalty for graffiti over the penalty for non-graffiti criminal mischief by lowering the threshold at which the crime is elevated from a summary offense to third-degree misdemeanor from $500 (for non-graffiti criminal mischief) to $150. Id. at 7-8.\nReading sub-section (b) in context with the rest of \u00a7 3304, we discern some ambiguity, and so we understand how N.W. and the Commonwealth have arrived at contrary interpretations. Accordingly, we agree with N.W. that the language of subsection (b) is not entirely clear and free from ambiguity. However, we are not persuaded by his interpretation.\nAs stated above, in order to glean the Legislature\u2019s intent when interpreting \u201cnon-explicit\u201d statutory text, we look to factors such as \u201cthe occasion and necessity for the statute; the mischief to be remedied; the object to be attained; the consequences of a particular interpretation; and the contemporaneous legislative history.\u201d Shiffler, 583 Pa. at 485, 879 A.2d at 189.\nThe legislative history reveals that in 1994, sub-section (a)(4) was added to \u00a7 3304. This amendment had the effect of explicitly including damage caused by graffiti in the definition of criminal mischief. 1994 Pa. Legis. Serv. Act 1994-17 (S.B.612). In so doing, the Legislature made the following proclamation:\nThe General Assembly finds and declares as follows:\n(1) For the health, safety and welfare of the residents of this Commonwealth, the laws designed to deter the defacement of public and private property through the use of aerosol spray-paint cans, broad-tipped indelible markers and other marking devices should be strengthened.\n(2) Where appropriate, the court should require those who commit acts of defacement to restore the damaged property to its original condition.\nId.\nTwo years later in 1996, the Legislature amended sub-section (b) of \u00a7 3304, which addresses the grading of the offense, to add the bolded and italicized language below:\nCriminal mischief is a felony of the third degree if the actor intentionally causes pecuniary loss in excess of $5,000, or a substantial interruption or impairment of public communication, transportation, supply of water, gas or power, or other public service. It is a misdemeanor of the second degree if the actor intentionally causes pecuniary loss in excess of $1,000, or a misdemeanor of the third degree if he intentionally or recklessly causes pecuniary loss in excess of $500 or causes a loss in excess of $150 for a violation of subsection (a)(k). Otherwise criminal mischief is a summary offense.\n1996 Pa. Legis. Serv. Act 1996-198 (H.B. 2118) (emphasis added).\nIn consideration of the above, we agree with the Commonwealth that it was undoubtedly the Legislature\u2019s intent to strengthen the laws designed to curb graffiti and to increase the penalties for graffiti-based criminal mischief. Indeed, as noted by both parties and the trial court, to interpret this provision in the manner advocated by N.W. would severely limit the penalty for graffiti-based criminal mischief even if, as in this case, the accused caused damage in excess of many thousands of dollars. Such an interpreta-, tion would, in effect, insulate those who are convicted of graffiti-based criminal mischief from the penalties available for the other varieties of criminal mischief. This is the opposite of what our Legislature intended.\nAccordingly, we reject N.W.\u2019s argument that graffiti-based criminal mischief may only be graded as a third-degree misdemeanor. or summary offense. Having ascertained the Legislature\u2019s intent to strengthen the laws' regarding graffiti, we conclude that criminal mischief charged under subsection (a)(4) for graffiti may be graded as a third-degree felony, a second-degree misdemeanor, a third-degree misdemeanor or a summary offense, in accordance with the terms of sub-section (b).\nIn his second issue, N.W. argues that the trial court erred in permitting the Commonwealth to add a charge of criminal mischief under the \u201ccatch all\u201d provision of subsection (a)(5). He argues that because sub-section (a)(4) speaks exclusively to graffiti-based criminal mischief, the \u201cparticular controls general\u201d rule of statutory construction provides that the Commonwealth may charge N.W. for his actions under sub-section (a)(4) alone. Appellant\u2019s Brief at 13. N.W. argues that to permit the Commonwealth to charge him for graffiti under sub-section (a)(5) would im-permissibly allow sub-section (a)(5) to swallow sub-section (a)(4). Id. at 15.\nThe provision to which N.W. refers states:\nWhenever a general provision in a statute shall be in conflict with a special provision in the same or another statute, the two shall be construed, if possible, so that effect may be given to both. If the conflict between the two provisions is irreconcilable, the special provisions shall prevail and shall be construed as an exception to the general provision, unless the general provision shall be enacted later and it shall be the manifest intention of the General Assembly that such general provision shall prevail.\n1 Pa.C.S.A. \u00a7 1933.\nWe need not delve into an analysis as to how this principle of statutory construction applies in the present case, as another statute provides that answer. In making his argument, N.W. inexplicably ignores the following statutory provision:\nNotwithstanding the provisions of 1 Pa. C.S. \u00a7 1933 (relating to particular controls general) or any other statute to the contrary, where the same conduct of a defendant violates more than one criminal statute, the defendant may be prosecuted under all available statutory criminal provisions without regard to the generality or specificity of the statutes.\n42 Pa.C.S.A. \u00a7 9303.\nWhile the position taken by N.W. was once true for criminal prosecutions, in 2002 our Legislature enacted \u00a7 9303 and ended the prohibition against prosecutions under a general statute when a more specific statute applied. See id. Accordingly, as N.W. was charged under a criminal statute and his conduct violated both subsection (a)(4) related to graffiti and the more general sub-section (a)(5) (which requires only the intentional damage of real or personal property of another), the Commonwealth was permitted to charge him under both of these provisions. The trial court did not err, therefore, in permitting the Commonwealth to do so.\nOrder affirmed.\n. \"In juvenile proceedings, the final order from which a direct appeal may be taken is the order of disposition, entered after the juvenile is adjudicated delinquent.\u201d Commonwealth v. S.F., 912 A.2d 887, 888 (Pa.Super.2006). Facially, the order from which this appeal is taken is interlocutory and unre-viewable. However, following the filing of N.W.\u2019s appeal, an order of disposition was entered. Our rules provide that if appeal is prematurely filed from an interlocutory order, the appeal is perfected when a.final, appeal-able order is subsequently entered. See Pa. R.A.P. 905(a)(5) (\"A notice of appeal filed after the announcement of a determination but before the entry of an appealable order shall be treated as filed after such entry and on the day thereof.\u201d); Commonwealth v. Hamaker, 373 Pa.Super. 510, 541 A.2d 1141, 1142 n. 4 (1988). Therefore,. although N.W. improperly filed this appeal from the order of adjudication, appellate jurisdiction has been perfected, and so we may proceed to review this matter.\n. It is not clear from the record which juvenile was driving the vehicle.\n. It is undisputed that the damaged caused by N.W. exceeds $5,000. See N.T., 5/1/09, at 37.\n. We note that \"a single course of conduct may constitute a violation of more than one statutory provision.\u201d Commonwealth v. Barnhart, 722 A.2d 1093, 1097 (Pa.Super.1998).",
+        "type": "majority",
+        "author": "DONOHUE, J.:"
+      }
+    ],
+    "attorneys": [
+      "Eleanor M. Breslin, Bethlehem, for appellant.",
+      "James B. Martin, Assistant District Attorney, Allentown, for Commonwealth, ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "In re N.W. Appeal of N.W., Juvenile.\nSuperior Court of Pennsylvania.\nArgued Oct. 8, 2010.\nEleanor M. Breslin, Bethlehem, for appellant.\nJames B. Martin, Assistant District Attorney, Allentown, for Commonwealth, ap-pellee.\nBEFORE: MUSMANNO, DONOHUE and COLVILLE , JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "1020-01",
+  "first_page_order": 1066,
+  "last_page_order": 1072
+}

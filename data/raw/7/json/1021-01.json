@@ -1,0 +1,498 @@
+{
+  "id": 7288002,
+  "name": "Eugene J. PORTER, Appellant v. UNITED STATES, Appellee",
+  "name_abbreviation": "Porter v. United States",
+  "decision_date": "2010-11-12",
+  "docket_number": "No. 09-CM-1275",
+  "first_page": "1021",
+  "last_page": "1027",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 1021"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "547 U.S. 813",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275498
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "821"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0813-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "53-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "974 A.2d 262",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294311
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/974/0262-01"
+      ]
+    },
+    {
+      "cite": "447 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188607
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "679",
+          "parenthetical": "\"[a]t a suppression hearing, the court may rely on hearsay and other evidence, even though that evidence would not be admissible at trial\""
+        },
+        {
+          "parenthetical": "\"[a]t a suppression hearing, the court may rely on hearsay and other evidence, even though that evidence would not be admissible at trial\""
+        },
+        {
+          "parenthetical": "\"[a]t a suppression hearing, the court may rely on hearsay and other evidence, even though that evidence would not be admissible at trial\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/447/0667-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 300",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174244
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "312-313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0300-01"
+      ]
+    },
+    {
+      "cite": "964 A.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8208539
+      ],
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/0147-01"
+      ]
+    },
+    {
+      "cite": "415 U.S. 308",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174956
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "315-316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/415/0308-01"
+      ]
+    },
+    {
+      "cite": "408 A.2d 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7963932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/408/0303-01"
+      ]
+    },
+    {
+      "cite": "393 A.2d 109",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7995751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/393/0109-01"
+      ]
+    },
+    {
+      "cite": "881 A.2d 557",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8922977
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "562"
+        },
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/881/0557-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205331
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0667-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3500",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "588 A.2d 280",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7375887
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "281"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/588/0280-01"
+      ]
+    },
+    {
+      "cite": "627 A.2d 975",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7362812
+      ],
+      "pin_cites": [
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/627/0975-01"
+      ]
+    },
+    {
+      "cite": "476 A.2d 685",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7911480
+      ],
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/476/0685-01"
+      ]
+    },
+    {
+      "cite": "751 A.2d 952",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11512774
+      ],
+      "pin_cites": [
+        {
+          "page": "955"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/751/0952-01"
+      ]
+    },
+    {
+      "cite": "562 A.2d 96",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7345859
+      ],
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/562/0096-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187462
+      ],
+      "weight": 7,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "233"
+        },
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0213-01"
+      ]
+    },
+    {
+      "cite": "926 A.2d 1156",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8376442
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1160"
+        },
+        {
+          "page": "1166",
+          "parenthetical": "defendant not entitled to record of informant's prior 911 call to \"impeach the caller's credibility or to show bias\" because determination of whether reasonable suspicion existed for a Terry stop took into account only the information known to the officer at the time of the stop"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/926/1156-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 1108",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293774
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1111"
+        },
+        {
+          "page": "1112"
+        },
+        {
+          "page": "1110, 1113",
+          "parenthetical": "innocent details included suspect's location and distinctive clothing"
+        },
+        {
+          "page": "1113"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/1108-01"
+      ]
+    },
+    {
+      "cite": "887 A.2d 29",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8997177
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "31"
+        },
+        {
+          "page": "32",
+          "parenthetical": "\"the fact that the informant was well-known to the police, and thus could be held to account were his information found to be willfully false, gives his report added weight\""
+        },
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/887/0029-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 6,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 804,
+    "char_count": 14893,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 7.316206200139268e-08,
+      "percentile": 0.43448691410194185
+    },
+    "sha256": "1e73fca54eedbfc0ddd8b3dd002c4f5dd159e223a0c8614664aee316fd8b77d5",
+    "simhash": "1:e74833f63f04cd77",
+    "word_count": 2388
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BLACKBURNE-RIGSBY, Associate Judge, and TERRY and FARRELL, Senior Judges."
+    ],
+    "parties": [
+      "Eugene J. PORTER, Appellant v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "TERRY, Senior Judge:\nAppellant Porter was convicted of possession of cocaine. On appeal from his conviction, he contends that his motion to suppress evidence should have been granted because a tip given by a known police informant was not sufficiently reliable to give the police probable cause to search him. In addition, he argues that the trial court erred in its handling of background information relating to the informant, asserting that his rights under Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963), and the Sixth Amendment were violated. We reject all of these contentions and affirm the conviction.\nI\nAt the hearing on appellant\u2019s motion to suppress, the evidence showed the following: On July 10, 2009, Metropolitan Police Officer Michael Newton was working with a paid police informant to identify persons \u201cinvolved in narcotics activity.\u201d Over a period of ten years, the informant had never given Officer Newton false information; his tips had resulted in approximately 100 arrests, for each of which he was usually paid $100. To the officer\u2019s knowledge, the informant did not use drugs, but he had one conviction for a non-drug-related offense.\nAt about 6:00 p.m. on July 10, Officer Newton drove the informant to the 2000 block of Benning Road, - Northeast, an \u201copen- air drug market\u201d with which the informant was familiar. A few minutes later, the informant called Officer Newton on his cell phone and told him that in the 2000 block of Benning Road a man wearing blue jeans and a black T-shirt with a picture of Bob Marley on the front, walking with crutches, \u201cwas in possession of heroin.\u201d Within two minutes after Officer Newton received this call, he and other officers went to the designated location, and there they saw appellant, \u25a0 who matched the description perfectly. Another officer conducted a search of appellant\u2019s pockets and recovered a green ziplock bag containing a quantity of white powder, which turned out to be cocaine.\nAppellant presented no evidence, but his counsel argued that the motion should be granted because the .police lacked probable cause to search and arrest appellant. The government relied on its previously filed written opposition to the motion. The court then denied the motion to suppress, ruling that the informant\u2019s tip was sufficiently reliable to provide probable cause for the search. After a non-jury trial, the court found appellant guilty of possession of cocaine, as charged, but granted appellant\u2019s motion for judgment of acquittal on the additional charge of possession of heroin. See note 1, supra.\nII\nIn reviewing the trial court\u2019s ruling on a motion to suppress, this court \u201cmust view the evidence in the light most favorable to the prevailing party.\u201d Barrie v. United States, 887 A.2d 29, 31 (D.C.2005) (citations omitted). \u201cWe defer \u2018to the motions court\u2019s findings of fact as to the circumstances surrounding the appellant\u2019s encounter with the police and [must] uphold them unless they are clearly erroneous.\u2019\u201d United States v. Boxley, 985 A.2d 1108, 1111 (D.C.2009) (citation omitted). \u201cThe court\u2019s legal conclusions on Fourth Amendment issues, however, are \u2018subject to de novo review.\u2019 \u201d Joseph v. United States, 926 A.2d 1156, 1160 (D.C.2007) (citation omitted).\nWhen probable cause is based on information gained from an informant\u2019s tip, we employ the \u201ctotality of the circumstances\u201d test set forth in Illinois v. Gates, 462 U.S. 213, 103 S.Ct. 2317, 76 L.Ed.2d 527 (1983). Under that test, we assess a variety of factors, including \u201cthe informant\u2019s \u2018veracity\u2019 or \u2018reliability\u2019 and his \u2018basis of knowledge.\u2019\u201d Id. at 233, 103 S.Ct. 2317; see Boxley, 985 A.2d at 1112. \u201c[A] deficiency in one [factor] may be compensated for, in determining the overall reliability of a tip, by a strong showing as to the other, or by some other indicia of reliability.\u201d Gates, 462 U.S. at 233, 103 S.Ct. 2317 (citations omitted).\nIn this case the totality of the circumstances showed that the informant\u2019s tip was reliable. In the first place, he was a known police informant who had supplied accurate information many times in the past. See Goldston v. United States, 562 A.2d 96, 99 (D.C.1989) (\u201can informant\u2019s history of supplying prior productive information is a most important guide to establishing reliability and credibility\u201d); accord, e.g., Barrie, 887 A.2d at 32 (\u201cthe fact that the informant was well-known to the police, and thus could be held to account were his information found to be willfully false, gives his report added weight\u201d). Officer Newton testified to the informant\u2019s history of providing accurate information. \u201cPerhaps the most telling indicia of reliability can be a tipster\u2019s track record, i.e., the number, frequency, content, accuracy (in both innocent and non-innocent detail), and productivity of any past tips.\u201d Sanders v. United States, 751 A.2d 952, 955 (D.C.2000) (citation omitted).\nThe tip\u2019s innocent details, which the officers were immediately able to corroborate, also bolstered the informant\u2019s reliability. See Boxley, 985 A.2d at 1110, 1113 (innocent details included suspect\u2019s location and distinctive clothing); Jefferson v. United States, 476 A.2d 685, 687 (D.C.1984). Here, the tip described the suspect as a man walking with crutches, and wearing blue jeans and a black T-shirt with a picture of Bob Marley on the front. Within two minutes from receiving the tip, the officers saw a man precisely matching that description at the stated location on Ben-ning Road; that man was appellant. See Hill v. United States, 627 A.2d 975, 979 (D.C.1993) (holding that arrest team had probable cause for arrest after receiving two radio broadcasts from undercover officer, when the first broadcast \u201ccontained a particularized description of Hill\u2019s clothing, and the second gave a specific location on 57th Street where Hill was standing\u201d).\nThe fact that the informant did not state the basis of his knowledge did not render his information unreliable. First, the court could permissibly conclude that any deficiency in this respect was overcome by the informant\u2019s consistently reliable track record and the corroboration of innocent details. Second, \u201cthe basis of knowledge of an informant need not be established by the direct assertions of [the] informant; it may also be fairly inferred .... \u201d Turner v. United States, 588 A.2d 280, 281 (D.C.1991) (citation omitted). This court has upheld an inference that \u201cif an informant\u2019s report contains detailed, current information, it is probably based on first-hand perception....\u201d Id. (citation omitted). In this case the information about appellant\u2019s appearance and actions provided sufficient details to support a reasonable inference of first-hand perception.\nAppellant\u2019s remaining contentions regarding the reliability of the informant are without merit. The assertion that there was no evidence to indicate whether his past tips related to drug offenses is contrary to the trial court\u2019s finding of fact that \u201cthis informant basically provided information relating to drug activity.\u201d This finding is amply supported by the record. Appellant\u2019s attempt to distinguish his case from Barrie, supra, is unavailing. We held in that case only that the informant\u2019s current employment, his ability to remain free from drugs and alcohol, and his success in staying out of the criminal justice system provided an \u201cunusually strong record for a finding of probable cause.\u201d 887 A.2d at 33. However, as the government points out in a footnote in its brief, this does not mean that a finding of probable cause \u201crequire[s] that same level of record support.\u201d\nThus we conclude that the \u201ctotality of the circumstances\u201d showed that the tip was sufficiently reliable to support the trial court\u2019s finding of probable cause. See Boxley, 985 A.2d at 1113; Turner, 588 A.2d at 282. We hold accordingly that the court did not err in denying the motion to suppress.\nIll\nDuring the suppression hearing, the defense learned of the existence of a PD-127 \u201cconfidential funds\u201d form that was filled out for the informant in this case, which recorded his payment from the police department for providing the successful tip. The defense requested the document, arguing that the government was obliged to produce it under the Jencks Act, 18 U.S.C. \u00a7 3500, but the court declined to postpone the hearing for the purpose of locating it. Later, after the government obtained a copy of the PD-127 and turned it over to the court for an in camera review, the court found that it was signed by one of the arresting officers, Officer John Croson, and that \u201cthe document is completely consistent with the officer\u2019s testimony [at the suppression hearing].\u201d There is no basis in the record for challenging this finding.\nAppellant argues nevertheless that the PD-127 form, along with the informant\u2019s general \u201cpayment history,\u201d his \u201cdrug and alcohol history,\u201d and any prior impeachable convictions should have been turned over to him, and that the government\u2019s failure to do so constituted a Brady violation. We disagree. Under the applicable case law, none of this information relating to a confidential informant who did not testify was \u201cmaterial\u201d under Brady.\nIt has long been established, that \u201cthe suppression by the prosecution of evidence favorable to an accused ... violates due process where the evidence is material either to guilt or to punishment.\u201d Brady, 373 U.S. at 87, 83 S.Ct. 1194. To establish \u201cmateriality\u201d under Brady, a defendant must show that \u201cthere is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different.\u201d United States v. Bagley, 473 U.S. 667, 682, 105 S.Ct. 3375, 87 L.Ed.2d 481 (1985); see Williams v. United States, 881 A.2d 557, 562 (D.C.2005). Brady material can include both exculpatory and impeachment evidence. Williams, 881 A.2d at 562. In this case, however, the informant\u2019s payment history, including the PD-127, was not material to the defense because it was neither exculpatory nor impeachment evidence. It could not have been used to impeach the informant because he did not testify. It was not exculpatory because the court determined that the report was consistent with Officer Croson\u2019s testimony, which was anything but exculpatory. Further, the report could not have been used to call into question the existence of probable cause because it did not even exist at the time the officers made their decision to arrest and search appellant. See Joseph, 926 A.2d at 1166 (defendant not entitled to record of informant\u2019s prior 911 call to \u201cimpeach the caller\u2019s credibility or to show bias\u201d because determination of whether reasonable suspicion existed for a Terry stop took into account only the information known to the officer at the time of the stop).\nThis analysis also applies to the other information which appellant claims he was entitled to receive under Brady. Because the informant did not testify, he could not have been impeached with any prior convictions or evidence of \u201cdrug -and alcohol history.\u201d Thus appellant was not entitled to such information under Brady or under such cases as Lewis v. United States, 393 A.2d 109 (D.C.1978), aff'd on reh\u2019g, 408 A.2d 303 (D.C.1979) (requiring disclosure of known impeachable convictions of government witnesses). None of this information would have affected the probable cause determination because Officer Newton testified that he was not aware, at the time of the arrest, of any convictions (other than the one he mentioned) or drug abuse on the part of the informant. See Joseph, supra. Accordingly, no Brady violation occurred with respect to the nondisclosure of any such information.\nAppellant also argues that his right to confront witnesses and his right to present a defense were violated by the trial court\u2019s denial of his l'equests for information relating to the informant. Again, we disagree. A defendant\u2019s rights under the Confrontation Clause include the opportunity to cross-examine the witnesses who testify against him. Davis v. Alaska, 415 U.S. 308, 315-316, 94 S.Ct. 1105, 39 L.Ed.2d 347 (1974); Obiazor v. United States, 964 A.2d 147, 150 (D.C.2009). That right, however, is not implicated when a person who provides information to the police does not actually testify in court against the defendant. Although the informant gave arguably \u201ctestimonial\u201d information to the officers, who then used that information to determine that there was probable cause to search appellant, the Supreme Court has held that a defendant\u2019s Sixth Amendment right to confrontation is not implicated by an officer\u2019s testimony at a probable cause hearing about what an informant told him. McCray v. Illinois, 386 U.S. 300, 312-313, 87 S.Ct. 1056, 18 L.Ed.2d 62 (1967); see also United States v. Raddatz, 447 U.S. 667, 679, 100 S.Ct. 2406, 65 L.Ed.2d 424 (1980) (\u201c[a]t a suppression hearing, the court may rely on hearsay and other evidence, even though that evidence would not be admissible at trial\u201d). Appellant cites no authority, and we know of none, to support his suggestion that Crawford, supra note 4, has changed \u2014 either explicitly or by implication \u2014 the rule governing the use of hearsay at suppression hearings.\nFinally, this court has recognized that a defendant\u2019s right to present a defense is \u201cnot unqualified.\u201d Teal v. United States, 974 A.2d 262, 268 (D.C.2009). In order to prove a violation of that right, a defendant must \u201cmake some plausible showing of how [the undisclosed evidence]would have been both material and favorable to his defense.\u201d Id. Since, as we have discussed, appellant cannot show that any of the information he sought relating to the informant was \u201cmaterial\u201d for Brady purposes, it follows a fortiori that he cannot make the requisite showing of materiality to support his claim of a violation of his right to present a defense.\nIV\nFor all of these reasons, appellant\u2019s conviction is\nAffirmed.\n. Heroin was also found in appellant\u2019s possession, but its weight and purity could not be determined because the quantity was too small.\n. Croson was the officer who actually recovered the bag of cocaine from appellant\u2019s pocket.\n. See Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968).\n. See Crawford v. Washington, 541 U.S. 36, 53-54, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004); Davis v. Washington, 547 U.S. 813, 821, 126 S.Ct. 2266, 165 L.Ed.2d 224 (2006).",
+        "type": "majority",
+        "author": "TERRY, Senior Judge:"
+      }
+    ],
+    "attorneys": [
+      "Lisa D. Chanel, appointed by the court, was on the brief for appellant.",
+      "Ronald C. Machen, Jr., United States Attorney, and Roy W. McLeese, III, John F. Mannarino, and Peter S. Smith, Assistant United States Attorneys, were on the brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Eugene J. PORTER, Appellant v. UNITED STATES, Appellee.\nNo. 09-CM-1275.\nDistrict of Columbia Court of Appeals.\nSubmitted June 29, 2010.\nDecided Nov. 12, 2010.\nLisa D. Chanel, appointed by the court, was on the brief for appellant.\nRonald C. Machen, Jr., United States Attorney, and Roy W. McLeese, III, John F. Mannarino, and Peter S. Smith, Assistant United States Attorneys, were on the brief for appellee.\nBefore BLACKBURNE-RIGSBY, Associate Judge, and TERRY and FARRELL, Senior Judges."
+  },
+  "file_name": "1021-01",
+  "first_page_order": 1049,
+  "last_page_order": 1055
+}

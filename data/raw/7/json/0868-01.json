@@ -1,0 +1,296 @@
+{
+  "id": 7287085,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Sandra ROBINSON, Appellant",
+  "name_abbreviation": "Commonwealth v. Robinson",
+  "decision_date": "2010-10-20",
+  "docket_number": "",
+  "first_page": "868",
+  "last_page": "875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 868"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 A.3d 1026",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7289570
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/6/1026-01"
+      ]
+    },
+    {
+      "cite": "520 Pa. 165",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815613
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that new law which extended statute of limitations from two years to five years was not applied in a retroactive manner to the appellant because a criminal statute of limitations is an act of legislative grace and not of right"
+        },
+        {
+          "parenthetical": "holding that new law which extended statute of limitations from two years to five years was not applied in a retroactive manner to the appellant because a criminal statute of limitations is an act of legislative grace and not of right"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0165-01"
+      ]
+    },
+    {
+      "cite": "185 A.2d 581",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "584",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "409 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1883231
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/409/0204-01"
+      ]
+    },
+    {
+      "cite": "275 A.2d 83",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "442 Pa. 241",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1935367
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/442/0241-01"
+      ]
+    },
+    {
+      "cite": "886 A.2d 305",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8894574
+      ],
+      "pin_cites": [
+        {
+          "page": "308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/886/0305-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8338065
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1159-1160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/1152-01"
+      ]
+    },
+    {
+      "cite": "637 A.2d 656",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        939994,
+        7359678
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/432/0047-01",
+        "/a2d/637/0656-01"
+      ]
+    },
+    {
+      "cite": "432 Pa.Super. 47",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        939994
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/432/0047-01"
+      ]
+    },
+    {
+      "cite": "692 A.2d 211",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11912731
+      ],
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/692/0211-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294596
+      ],
+      "pin_cites": [
+        {
+          "page": "1244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/986/1241-01"
+      ]
+    },
+    {
+      "cite": "994 A.2d 1150",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291100
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1157"
+        },
+        {
+          "page": "1157, n. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/994/1150-01"
+      ]
+    },
+    {
+      "cite": "841 A.2d 537",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9285195
+      ],
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/841/0537-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 823,
+    "char_count": 19784,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 1.1687779700757794e-07,
+      "percentile": 0.5858051955924843
+    },
+    "sha256": "b918ded15bcd4e4a7b98a9bfc412c9edcaec1e5402c378ee9a622cdc4ce1fbc3",
+    "simhash": "1:c9660244fb06ce78",
+    "word_count": 3097
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: GANTMAN, SHOGAN and MUNDY, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Sandra ROBINSON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSHOGAN, J.:\nAppellant, Sandra Robinson, appeals from the judgment of sentence entered following her conviction of four counts each of possession with intent to deliver a controlled substance, simple possession of a controlled substance and possession of drug paraphernalia, and one count each of criminal use of a communication facility and criminal conspiracy. On appeal, Appellant challenges the trial court\u2019s refusal to grant her eligibility for the Recidivism Risk Reduction Incentive (\u201cRRRI\u201d) program. For the reasons that follow, we vacate the judgment of sentence and remand for resentencing.\nWe summarize the history of this case as follows. On April 14, 2007, Appellant was arrested and charged with various drug offenses that occurred on February 1, 2007, March 2, 2007, March 24, 2007, and April 14, 2007. On June 17, 2008, the trial court held a non-jury trial on stipulated facts, which included an agreement regarding Appellant\u2019s sentence in the event she was convicted. Pennsylvania\u2019s RRRI statute, 61 Pa.C.S.A. \u00a7\u00a7 4501-4512 (formerly 44 Pa.C.S.A. \u00a7\u00a7 5301-5312), was enacted as Act No. 2008-81 (H.B. No. 4) and became effective on November 24, 2008. On January 21, 2009, the trial court issued its verdict of guilty of the crimes specified above. On April 16, 2009, the trial court sentenced Appellant to the agreed upon terms, resulting in an aggregate sentence of a six and one-half to thirteen year prison term. Also on that date, the trial court denied Appellant\u2019s request for a determination of RRRI eligibility. On April 24, 2009, Appellant filed a motion to modify sentence. On May 7, 2009, the trial court denied Appellant\u2019s motion. This appeal followed.\nBefore we address the merits of Appellant\u2019s claim, we turn to the issues raised by the Commonwealth which attack Appellant\u2019s challenge to* the trial court\u2019s refusal to apply the RRRI statute. Initially, we must determine whether Appellant\u2019s claim is preserved for appellate review. The Commonwealth contends that Appellant\u2019s issue is a challenge to the trial court\u2019s discretion at the time of sentencing, which has been waived by Appellant. See Commonwealth\u2019s Brief at 19-20. We disagree.\nThis Court has held that an attack upon the power of a court to impose a given sentence is a challenge to the legality of a sentence. Commonwealth v. Lipinski, 841 A.2d 537, 539 (Pa.Super.2004); see also Commonwealth v. Hansley, 994 A.2d 1150 (Pa.Super.2010) (challenge to trial court\u2019s imposition of RRRI sentence with mandatory minimum sentence constitutes challenge to trial court\u2019s sentencing authority). Moreover, we have long concluded that where the trial court violates the Sentencing Code by failing to impose both a minimum and maximum sentence pursuant to 42 Pa.C.S.A. \u00a7 9756(b), the sentence is illegal and must be vacated. See Commonwealth v. Mitchell, 986 A.2d 1241, 1244 (Pa.Super.2009) (holding that imposition of flat sentence, without minimum sentence, is illegal); Commonwealth v. Barzyk, 692 A.2d 211, 215 (Pa.Super.1997) (observing that Sentencing Code requires the trial court to impose both a maximum and minimum sentence, and where a trial court neglects to include a minimum sentence, the appropriate remedy is to vacate the judgment of sentence and remand for re-sentencing); and Commonwealth v. Cain, 432 Pa.Super. 47, 637 A.2d 656, 658 (1994) (holding that challenge to a sentence, which fails to impose statutorily mandated minimum sentence which does not exceed one-half the maximum sentence under 42 Pa.C.S.A. \u00a7 9756, is not a challenge to the discretionary aspects of sentencing, but a challenge to the legality of the sentence). We observe that our legislature amended section 9756 to include a provision requiring sentencing courts to determine if a defendant is eligible for an RRRI minimum sentence. Accordingly, where the trial court fails to make a statutorily required determination regarding a defendant\u2019s eligibility for an RRRI minimum sentence as required, the sentence is illegal. Thus, the Commonwealth\u2019s assertion that Appellant\u2019s claim is a waived challenge to the discretionary aspects of sentencing is incorrect. Rather, Appellant\u2019s issue presents a non-waivable challenge to the legality of her sentence.\nWe next address the Commonwealth\u2019s assertion that the RRRI statute cannot be applied to Appellant, because such application would require that the statute operate retroactively. Again, we disagree with the Commonwealth\u2019s argument.\nTo invoke the presumption against ret-roactivity it is necessary to determine whether the proposed application of the enactment at issue would actually be retroactive. Therefore, we first consider whether this statute meets the definition of a retroactive law. In so doing, we observe that the Commonwealth, in its appellate brief discussing this issue, has failed to argue, let alone establish, that the RRRI statute meets the definition of a retroactive law.\nWe acknowledge that Section 1926 of the Statutory Construction Act provides in plain terms that: \u201cNo statute shall be construed to be retroactive unless clearly and manifestly so intended by the General Assembly.\u201d 1 Pa.C.S.A. \u00a7 1926. Thus, there is a clear mandate by the legislature against retroactive application of a statute, and, absent clear language to the contrary, statutes are to be construed to operate prospectively only.\nIn In the Interest of K.A.P., Jr., 916 A.2d 1152 (Pa.Super.2007), this Court engaged in a discussion of retroactivity, as follows:\nOur understanding of the legal meaning of retroactivity is shaped by pronouncements from the highest courts in the land. As the U.S. Supreme Court has stated, \u201c[a] statute does not operate \u2018retrospectively\u2019 merely because it is applied in a case arising from conduct antedating the statute\u2019s enactment, or upsets expectations based in prior law.\u201d The Pennsylvania Supreme Court has offered a similar directive: \u201ca statute is not regarded as operating retroactively because of the mere fact that it relates to antecedent events, or draws upon antecedent facts for its operation.\u201d \u201cRather, the court must ask whether the new provision attaches new legal consequences to events completed before its enactment.\u201d Retroactive application occurs only when the statute or rule \u201crelates back and gives a previous transaction a legal effect different from that which it had under the law in effect when it transpired.\u201d\nOur Supreme Court and this Court have also considered the issue of retroactivity-in terms of whether or not the statute in question affects vested rights.\nWhere ... no vested right or contractual obligation is involved, an act is not retroactively construed when applied to a condition existing on its effective date even though the condition results from events prior to that date ...\nA \u2018vested right\u2019 is one that \u2018so completely and definitely belongs to a person that it cannot be impaired or taken away without the person\u2019s consent.\u2019\nId. at 1159-1160 (quoting Warren v. Folk, 886 A.2d 305, 308 (Pa.Super.2005)) (citations omitted).\nIn addition, we are mindful that parole is not a vested right. In Commonwealth v. Brittingham, 442 Pa. 241, 275 A.2d 83 (1971), our Supreme Court stated the following:\n[T]he granting of parole is not a right, but a matter of administrative discretion. As we observed in Hendrickson v. State Board of Parole, 409 Pa. 204, 185 A.2d 581 (1962): \u201cThe parole of a prisoner at the expiration of his minimum term is not a matter of right. Rather, it is a matter of grace and mercy, and the granting, reinstatement and revocation of parole is within the exclusive jurisdiction of the Board. Parole is first and foremost a penological measure for the disciplinary treatment of prisoners who seem capable of rehabilitation outside of prison walls. The prisoner on parole is still in the legal custody of the state through the warden of the institution from which he was paroled, and is under the control of the warden and of other agents of the Commonwealth until expiration of the term of his sentence.... \u201d Id. at 207-208, 185 A.2d at 584 (citation omitted).\nId. at 246, 275 A.2d at 85.\nOur review of the RRRI statute reveals that it is a treatment program established by the legislature with the following purpose:\nThis chapter seeks to create a program that ensures appropriate punishment for persons who commit crimes, encourages inmate participation in evidence-based programs that reduce the risks of future crime and ensures the openness and accountability of the criminal justice process while ensuring fairness to crime victims.\n61 Pa.C.S.A. \u00a7 4502. The statute specifies that the intent of the program is as follows:\n(b) Intent. \u2014 -This chapter is intended to encourage eligible offenders committed to the custody of the department to participate in and successfully complete evidence-based programs under this chapter that reduce the likelihood of recidivism and improve public safety.\n61 Pa.C.S.A. \u00a7 4504(b). The legislature has defined the term \u201cprogram plan\u201d as follows:\n\u201cProgram plan.\u201d An individualized plan recommended by the department that contains approved treatment and other approved programs designed to reduce recidivism risk of a specific inmate.\n61 Pa.C.S.A. \u00a7 4503.\nThe RRRI statute offers, as an incentive for completion of the program, the opportunity for prisoners to be considered for parole at the expiration of their RRRI minimum sentence. 61 Pa.C.S.A. \u00a7 4506. However, we must also observe that section 4511, which addresses construction of the RRRI statute, explicitly enumerates various legal rights which the statute does not confer.\nAs illustrated by these portions of the RRRI statute, the Legislature, in enacting the statute, did not impose new legal burdens on past transactions or occurrences which Appellant committed. Rather, the statute provides a treatment opportunity which is intended to prevent recidivism. Also, as our Supreme Court explained in Brittingham, Appellant has no vested \u201cright\u201d to be placed on parole, because parole is an act of grace, not of right. Consequently, we conclude that the statute does not increase any rights due Appellant nor does it impose any legal burden or additional punishment. Rather, as the Commonwealth notes in its appellate brief, \u201c[t]he [RRRI] Act extends relief to offenders \u2018convicted of a criminal offense who will be committed to the custody of the department....\u2019 61 Pa.C.S.A. \u00a7 4503.\u201d Commonwealth\u2019s Brief at 9 (emphasis added). Accordingly, it is our determination that application of the RRRI statute to a defendant who was convicted and sentenced after the law became effective, as is the case with Appellant, does not violate the restrictions set on the retroactive effect of statutes. See Commonwealth v. Johnson, 520 Pa. 165, 553 A.2d 897 (1989) (holding that new law which extended statute of limitations from two years to five years was not applied in a retroactive manner to the appellant because a criminal statute of limitations is an act of legislative grace and not of right). Accordingly, the Commonwealth\u2019s contrary claim lacks merit.\nWe now address the merits of the issue raised by Appellant. Appellant argues that the trial court erred in denying her eligibility in the RRRI program, when her prior criminal history and current conviction render her an offender eligible for the RRRI minimum sentence pursuant to the statute. Appellant contends that, although she agreed to a trial on stipulated facts and an agreed upon sentence prior to the passage of the RRRI statute, she is not disqualified from eligibility in the RRRI program.\nIn refusing to specify an RRRI sentence, the trial court held that, because Appellant agreed to a sentence in the event she was found guilty, the RRRI did not apply to Appellant\u2019s sentence. Without citing any relevant legal authority, the trial court reasoned that it was \u201cinequitable for [Appellant] to agree to a sentence, proceed to sentencing with the Commonwealth believing that the sentence had already been established, and then attempt to change the agreement after the negotiated sentence was imposed.\u201d Trial Court Opinion, 9/11/09, at 2-3. Essentially, the trial court concluded that imposition of the negotiated sentence in this case precluded application of the RRRI. For the reasons that follow, we must conclude that the trial court erred in this regard.\nIn Hansley, a panel of this Court explained that the RRRI statute does not necessarily preclude a defendant from RRRI eligibility where the defendant is subject to other mandatory minimum sentences. In Hansley, the Commonwealth appealed the judgment of sentence imposed after Hansley pled guilty to two counts of possession of controlled substances with intent to deliver. Both of the convictions were subject to the mandatory minimum sentences for drug trafficking pursuant to 18 Pa.C.S.A. \u00a7 7508(a)(3)(i) and (ii) regarding the aggregate weight of cocaine involved in the offenses. In addition, one of Hansley\u2019s sentences was subject to a mandatory minimum for drug sales within a drug-free school zone pursuant to 18 Pa.C.S.A. \u00a7 6317. The sentencing court imposed the mandatory minimum term of imprisonment of two years for the drug-free school zone violation and the mandatory minimum term of three years imprisonment for the other offense because Hansley was trafficking greater than ten grams but less than one hundred grams of cocaine. Over the Commonwealth\u2019s objections, the sentencing court also found Hansley eligible for the RRRI program and specified the incentive minimum sentences for each offense pursuant to the RRRI statute. Upon completion of the RRRI program, Appellant would be eligible to appear before the parole board after serving eighteen months and twenty months toward the respective sentences of confinement.\nIn reviewing the eligibility requirements outlined in the RRRI statute, the Hansley Court reasoned that the General Assembly carefully coordinated the RRRI statute with the mandatory minimum sentences under 18 Pa.C.S.A. \u00a7 7508 and 18 Pa.C.S.A. \u00a7 6317. Specifically, we observed that RRRI statute eligibility was inclusive of the majority of non-violent criminal offenses but specifically disqualified the highest level of drug trafficking as defined in 18 Pa.C.S.A. \u00a7 7508(a)(1)(iii), (2)(iii), (3)(iii), (4)(iii), (7)(iii) or (8)(iii). Thus, this Court in Hansley reasoned that the omission of lesser categories of drug trafficking from the list of ineligible offenders \u201clogically compels\u201d the conclusion that the General Assembly intended to extend the RRRI statute to include offenders sentenced under 18 Pa.C.S.A. \u00a7 7508(a)(3)(i) and (ii) provided they otherwise qualified under 61 Pa.C.S.A. \u00a7 4503(6). Hansley, 994 A.2d at 1157.\nIn Commonwealth v. Main, 6 A.3d 1026 (Pa.Super.2010), a panel of this Court applied the reasoning in Hansley to reach its determination that the trial court erred in refusing to impose a RRRI minimum sentence to a mandatory-minimum DUI sentence. In following Hansley, the Court in Main ultimately held that, because the DUI statute in question was not among the listed exceptions in the RRRI statute, the trial court erred in refusing to apply the RRRI statute.\nOur holding in Hansley was based upon the legal maxim \u201cexpressio unis, exclusio altenus \u201d (expression of one thing excludes others). See Hansley, 994 A.2d at 1157, n. 3. As we explained above, the General Assembly enumerated specifically the offenses and sentences that disqualify defendants from RRRI eligibility. See 61 Pa.C.S.A. \u00a7 4503. Sentences imposed pursuant to a negotiated agreement are absent from this enumeration. Clearly, if it was the General Assembly\u2019s intent to disqualify a defendant subject to a negotiated sentence, it would have expressed that intent in the RRRI statute in the enumerated list of disqualifying offenses and sentences set forth at 61 Pa.C.S.A. \u00a7 4503. Therefore, the absence of negotiated sentences from that specific, enumerated disqualifying list indicates that the General Assembly intended to permit RRRI eligibility and sentencing to negotiated sentence offenders, as well as to other offenders who are subject to sentences not expressed as disqualifying factors within 61 Pa.C.S.A. \u00a7 4503. Because the imposition of a negotiated sentence does not conflict with the statutory scheme of the RRRI sentencing process and does not disqualify a defendant from eligibility under the RRRI statute, we hold that the trial court erred in failing to consider Appellant\u2019s eligibility for an RRRI sentence. Accordingly, we vacate the judgment of sentence and remand this matter for a determination of whether Appellant is RRRI eligible pursuant to 61 Pa.C.S.A. \u00a7 4503 and, if deemed eligible, sentencing consistent with our holding in Hansley.\nJudgment of sentence vacated. Case remanded for further proceedings. Jurisdiction relinquished.\nGANTMAN, J., Concurs in the Result.\n. Act No. 2008-81 was enacted into law on September 25, 2008 but, as noted, became effective 60 days later on November 24, 2008. 2008, Sept. 25, P.L. 1026, No. 81 \u00a7 9. Thus, this Act did not become effective until after Appellant's trial, but before the trial court issued its verdict and the sentencing court imposed its judgment of sentence.\n. The Sentencing Code was amended, effective November 24, 2008, to include the following section requiring RRRI eligibility determinations:\n(b.l) Recidivism risk reduction incentive minimum sentence. \u2014 -The court shall determine if the defendant is eligible for a recidivism risk reduction incentive minimum sentence under 61 Pa.C.S. Ch. 45 (relating to recidivism risk reduction incentive). If the defendant is eligible, the court shall impose a recidivism risk reduction incentive minimum sentence in addition to a minimum sentence and maximum sentence except, if the defendant was previously sentenced to two or more recidivism risk reduction incentive minimum sentences, the court shall have the discretion to impose a sentence with no recidivism risk reduction incentive minimum.\n42 Pa.C.S.A. \u00a7 9756(b.1) (emphasis added).\n. The text of section 4511 provides as follows:\n\u00a7 4511. Construction of chapter\nNotwithstanding any other provision of law, this chapter shall not be construed to do any of the following:\n(1)Confer any legal right upon any individual, including an individual participating in or seeking to participate in a recidivism risk reduction incentive program, to do any of the following:\n(i) Participate in a recidivism risk reduction incentive program.\n(ii) Continue participation in a recidivism risk reduction incentive program.\n(iii) Modify the contents of the recidivism risk reduction incentive program.\n(iv)File any cause of action in any Federal or State court challenging the department's determination that a participant is to be suspended or expelled from or that a participant has successfully completed or failed to successfully complete any recidivism risk reduction incentive program.\n(2) Confer any legal right on any individual to be released on parole under this chapter.\n(3) Enlarge or limit the right of a participant to appeal the participant's sentence.\n61 Pa.C.S.A. \u00a7 4511.\n. See 61 Pa.C.S.A. \u00a7 4503(6) (indicating that defendants sentenced pursuant to these sections, pertaining to drug trafficking of one hundred or more grams of controlled substances, do not meet the definition of an \u201celigible offender\u2019\u2019 under the RRRI statute).",
+        "type": "majority",
+        "author": "SHOGAN, J.:"
+      }
+    ],
+    "attorneys": [
+      "Mitchell H. Baylarian, Public Defender, West Chester, for appellant.",
+      "Nicholas J. Casenta, Jr., Assistant District Attorney, West Chester, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Sandra ROBINSON, Appellant.\nSuperior Court of Pennsylvania.\nArgued May 5, 2010.\nFiled Oct. 20, 2010.\nReargument Denied Nov. 30, 2010.\nMitchell H. Baylarian, Public Defender, West Chester, for appellant.\nNicholas J. Casenta, Jr., Assistant District Attorney, West Chester, for Commonwealth, appellee.\nBEFORE: GANTMAN, SHOGAN and MUNDY, JJ."
+  },
+  "file_name": "0868-01",
+  "first_page_order": 896,
+  "last_page_order": 903
+}

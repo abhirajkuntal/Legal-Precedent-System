@@ -1,0 +1,280 @@
+{
+  "id": 7288604,
+  "name": "STATE v. Nakeda BROWN",
+  "name_abbreviation": "State v. Brown",
+  "decision_date": "2010-12-15",
+  "docket_number": "No. 2008-326-C.A.",
+  "first_page": "1240",
+  "last_page": "1248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "854 A.2d 1022",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9217819
+      ],
+      "pin_cites": [
+        {
+          "page": "1043"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/854/1022-01"
+      ]
+    },
+    {
+      "cite": "796 A,2d 452",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9438938
+      ],
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/796/0452-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 140",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292103
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "151"
+        },
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/0140-01"
+      ]
+    },
+    {
+      "cite": "455 A.2d 313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7976208
+      ],
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/455/0313-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 932",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8172506
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "941"
+        },
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/963/0932-01"
+      ]
+    },
+    {
+      "cite": "767 A.2d 50",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11121883
+      ],
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/767/0050-01"
+      ]
+    },
+    {
+      "cite": "950 A.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8228212
+      ],
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/950/0400-01"
+      ]
+    },
+    {
+      "cite": "624 A.2d 841",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7361546
+      ],
+      "pin_cites": [
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/624/0841-01"
+      ]
+    },
+    {
+      "cite": "840 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9291805
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "546"
+        },
+        {
+          "page": "546-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/0541-01"
+      ]
+    },
+    {
+      "cite": "941 A.2d 822",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8397769
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "828-29"
+        },
+        {
+          "page": "829",
+          "parenthetical": "the defendant waived issue of motion to dismiss for lack of speedy trial when trial justice understood the defendant's motion to be motion for continuance, and the defendant did not attempt to articulate or clarify basis for his motion"
+        },
+        {
+          "page": "829"
+        },
+        {
+          "page": "829"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/941/0822-01"
+      ]
+    },
+    {
+      "cite": "626 N.E.2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10902936
+      ],
+      "pin_cites": [
+        {
+          "page": "799"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/626/0795-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 881,
+    "char_count": 24460,
+    "ocr_confidence": 0.655,
+    "pagerank": {
+      "raw": 2.1229942553283343e-07,
+      "percentile": 0.7648285672253479
+    },
+    "sha256": "831a4c3b4b89ea852268ea5e1b51f95157ee04b5dc1c1bbca8c68d5d01201758",
+    "simhash": "1:ba6c86226feff1ea",
+    "word_count": 4032
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: SUTTELL, C.J., GOLDBERG, FLAHERTY, and ROBINSON, JJ.",
+      "Justice INDEGLIA did not participate."
+    ],
+    "parties": [
+      "STATE v. Nakeda BROWN."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nChief Justice SUTTELL,\nfor the Court.\nThe defendant, Nakeda Brown, appeals from a judgment of conviction for one count of felony assault and one count of simple assault, both relating to a domestic altercation between him and Waysaywhein Timbo. The defendant raises three evi-dentiary issues that he contends warrant the reversal of the jury\u2019s verdict. First, he argues that the trial justice erred when he permitted the state to cross-examine the defendant about his physical abuse of Ms. Timbo in the past. Second, the defendant asserts that the trial justice committed error by allowing a rescue technician to testify about a statement that Ms. Tim-bo made concerning the cause of her injuries. Finally, the defendant challenges the trial justice\u2019s ruling to allow the state to question the defendant using a transcript of a telephone conversation, between the defendant and Ms. Timbo, that contained several \u201cinaudible\u201d designations.\nThis case came before the Supreme Court pursuant to an order directing the parties to show cause why the issues raised in this appeal should not summarily be decided. After considering the parties\u2019 written and oral submissions and reviewing the record, we conclude that cause has not been shown and that this case may be decided without further briefing or argument. For the reasons set forth in this opinion, we affirm the judgment of the Superior Court.\nI\nFacts and Procedural History\nOn July 6, 2007, defendant was charged in a four-count criminal information with (1) assault with a dangerous weapon (a mirror tile); (2) assault with a dangerous weapon (a shod foot); (3) simple assault; and (4) domestic disorderly conduct. The pertinent evidence adduced at trial is set forth below.\nMs. Timbo and defendant were in a relationship from around 2001 to 2007. They lived together for five years and had a daughter in 2003, but began experiencing relationship problems in the early part of 2007. According to Ms. Timbo, she and defendant were \u201c[n]ot really\u201d together in May 2007; however defendant still cared for their daughter every day while Ms. Timbo worked. Ms. Timbo testified that on the evening of May 15, 2007, after defendant had dropped off their daughter at Ms. Timbo\u2019s apartment, he and Ms. Timbo began arguing about \u201ca lot of stuff.\u201d Ms. Timbo testified that defendant accused her of sleeping with someone else, called her names, and refused to leave even though Ms. Timbo requested that he do so more than once. According to Ms. Timbo, this argument \u201cled to an assault,\u201d where defendant \u201cassaulted\u201d her with a mirror, as a result of which she suffered injuries to her head and face. Ms. Timbo also testified that defendant \u201c[pjrobably\u201d assaulted her with his hands, and she acknowledged that she had told the police that she \u201cassumed that he used his foot, too.\u201d\nDerrick Campbell, a rescue technician working for the Providence Fire Department, also testified at defendant\u2019s trial. He testified that he responded to a dispatch call to Ms. Timbo\u2019s apartment at around 11 p.m. on May 15, 2007. Upon arrival, Mr. Campbell saw a woman, who he later ascertained was Ms. Timbo, with two lacerations on her forehead and blood on her face and clothing. Mr. Campbell testified that Ms. Timbo \u201clooked like she had been hit with something.\u201d When the state asked Mr. Campbell what Ms. Timbo told him had happened to her, defendant objected on hearsay grounds. The trial justice overruled the objection and allowed Mr. Campbell to answer the question, reasoning that such testimony was a statement made for purposes of medical diagnosis or treatment, admissible as an exception to the hearsay rule under Rule 803(4) of the Rhode Island Rules of Evidence. The trial justice said that the medical-diagnosis exception applies in this case because \u201cif somebody said they were hit by an object * * * or kicked with a foot, that would make some difference as far as what treatment should be rendered.\u201d Mr. Campbell then testified that Ms. Timbo, while in the rescue vehicle on her way to the hospital, told him \u201cthat she was kicked and punched repeatedly and hit with a mirror in the forehead.\u201d Mr. Campbell testified that he related Ms. Timbo\u2019s statement to the triage nurse at the hospital.\nThe defendant took the stand in his own defense and told a strikingly different version than Ms. Timbo of the events that took place on May 15, 2007. He testified that on that evening, he was watching cartoons with his daughter at Ms. Timbo\u2019s apartment while Ms. Timbo sat at the dining room table, when he and Ms. Timbo began arguing. According to defendant, the argument \u201cgot out of control\u201d when he jumped up from the couch \u201cas if [he] was going to chase [Ms. Timbo]\u201d and Ms. Tim-bo \u201ctook off running\u201d and \u201ctripped and fell\u201d into a mirror, which shattered as a result. The defendant said that he then helped Ms. Timbo, who was bleeding \u201cfrom her face and on her arms,\u201d to stand up and got her a cold rag to wash the blood from her face. He further testified that he left approximately forty-five minutes later because Ms. Timbo told him that she was going to call for an ambulance and suggested that defendant should \u201cleave just in case they come and they think that [Ms. Timbo and defendant] were fighting.\u201d The defendant testified that he did not punch or kick Ms. Timbo at any point on May 15, 2007.\nDuring cross-examination of defendant, the state played several audio recordings for the jury of telephone conversations that took place between defendant and Ms. Timbo while defendant was incarcerated at the Adult Correctional Institutions (ACI). The state also provided the jury with a transcript of the telephone conversations. In one of the conversations, defendant said to Ms. Timbo \u201cI put my hands on you before.\u201d The defendant did not object when the portion of the recording containing defendant\u2019s statement that he had put his hands on Ms. Timbo before was played for the jury, nor when the jury received that portion of the transcript. The defendant did object, however, when the state subsequently asked him: \u201cSo, you have put your hands on Miss Timbo before; correct?\u201d He argued that evidence of previous assaults on Ms. Timbo fell under Rule 404(b) of the Rhode Island Rules of Evidence and that there needed to be an offer of proof prior to admission. The state rebutted, and the trial justice agreed, that the evidence in question was admissible because it demonstrated defendant\u2019s motive and intent. The trial justice admitted the evidence and gave the jurors a cautionary instruction admonishing them to consider it only as it related to defendant\u2019s \u201cintent and state of mind.\u201d The defendant then stated on the record that the instruction was satisfactory.\nOn recross-examination, the state questioned defendant about his awareness of the fact that his telephone calls at the ACI were being recorded. During questioning, the state attempted to use a portion of the transcript of a telephone conversation in which Ms. Timbo asked defendant what had happened to her face and defendant replied \u201cno, listen I can\u2019t say exactly what it was that on the phone but I will tell you when I talk to you.\u201d The defendant objected to the state\u2019s use of the part of the transcript containing Ms. Timbo\u2019s question to defendant, arguing that there are several \u201cinaudible[ ]\u201d designations present in that portion of the transcript, which, if allowed in, would be prejudicial to defendant. The state responded that Ms. Tim-bo\u2019s question was necessary to give context to defendant\u2019s answer to her question, and that including it would not prejudice defendant because the transcript was only meant to be an aid to the actual recordings, which is what the jury would have with them during deliberations. The court allowed the state to pursue its line of questioning.\nThe jury found defendant guilty of felony assault with a mirror and of simple assault, and not guilty of felony assault with a shod foot. The trial justice denied defendant\u2019s motion for a new trial and sentenced him to twenty years, five years to serve, for the felony-assault charge, one year suspended for the simple-assault charge, and ten years suspended for being adjudged a habitual criminal. The defendant timely appealed. We discuss each of the issues on appeal in more detail below.\nII\nDiscussion\nA\nRule 404(b) Evidence\nThe defendant first argues that the trial justice erred in permitting the prosecution to elicit evidence from defendant that he had abused Ms. Timbo in the past. According to defendant, this evidence was not admissible as proof of \u201cintent\u201d or \u201cstate of mind\u201d as ruled by the trial justice. Relying on Wickizer v. State, 626 N.E.2d 795, 799 (Ind.1993), defendant argues that the \u201cintent exception\u201d does not apply unless a defendant affirmatively places the question of intent at issue, which defendant did not do in this case. His defense was that he did not strike Ms. Timbo at all, not that he did so accidentally. The defendant further asserts that the trial justice erred in admitting such evidence under a \u201cstate of mind\u201d rationale because \u201cstate of mind\u201d is not a specifically enumerated purpose for which evidence of prior bad acts is permissible under Rule 404(b).\nThe state responds, first and foremost, that defendant failed to preserve this issue for appeal. The state points out that defendant did not object when recordings of telephone conversations between defendant and Ms. Timbo, including the conversation containing defendant\u2019s statement that he put his hands on Ms. Timbo before, were played for the jury and then later admitted into evidence. Neither did defendant object when the jury was handed a transcript of that particular conversation. The state asserts that when defendant did object, after the state asked defendant whether he had, in fact, put his hands on Ms. Timbo before, his objection was both untimely and based on procedural rather than substantive grounds. The state also addresses the merits of this issue and argues that the trial justice correctly admitted defendant\u2019s statement that he put his hands on Ms. Timbo in the past. The state asserts that defendant\u2019s statement was admitted not to prove his character to show that he acted in conformity therewith, but rather to demonstrate, in the context of his whole statement, his admission that he committed the charged offense in this case. Finally, the state argues that even if defendant\u2019s statement is considered Rule 404(b) evidence, it is admissible to rebut his testimony that Ms. Timbo sustained her injuries accidentally.\nAs this Court has made clear, the \u201craise-or-waive\u201d rule precludes a litigant from arguing an issue on appeal that has not been articulated at trial. State v. Bido, 941 A.2d 822, 828-29 (R.I.2008). To effectively preserve an issue for appeal, a litigant\u2019s objection at trial has to be timely and appropriate. State v. Grant, 840 A.2d 541, 546 (R.I.2004). In addition, the objection has to be \u201csufficiently focused so as to call the trial justice\u2019s attention to the basis for said objection.\u201d State v. Warren, 624 A.2d 841, 842 (R.I.1993).\nIn the instant case, defendant raised no objection when the recording of the telephone conversation in which he said to Ms. Timbo \u201cI put my hands on you before\u201d was played for the jury. Nor did defendant object when the jury was allowed to read the transcript containing his statement. It was not until the state asked defendant a question about the recorded conversation that defendant objected, at which point in the trial the challenged evidence already had been placed before the jury. Because defendant did not object when a telephone conversation and a transcript, both containing defendant\u2019s statement that he \u201cput [his] hands on [Ms. Timbo] before,\u201d were presented to the jury, defendant\u2019s later objection was untimely and thus waived.\nMoreover, we previously have held that \u201ca litigant cannot raise an objection or advance a new theory on appeal if it was not raised before the trial court\u201d and articulated \u201cin an understandable manner.\u201d Bido, 941 A.2d at 829 (the defendant waived issue of motion to dismiss for lack of speedy trial when trial justice understood the defendant\u2019s motion to be motion for continuance, and the defendant did not attempt to articulate or clarify basis for his motion); see also State v. Gautier, 950 A.2d 400, 407 (R.I.2008) (the defendant waived issue that trial justice violated the defendant\u2019s constitutional right to confront witness by allowing jury to hear prior recorded testimony of that witness because grounds for the defendant\u2019s objection to recorded testimony was not constitutionally-based). The record in this case indicates that defendant\u2019s objection to the evidence at issue was procedural rather than substantive. When asked by the trial justice to state the basis for his objection, defendant\u2019s counsel replied that the state\u2019s question was \u201coutside the line of proper questioning at this point\u201d and that there \u201cneeds to be an offer of proof\u2019 from the state for this \u201cso-called [Rule] 404(b) evidence\u201d to come in. The state responded that the evidence, which consisted of defendant\u2019s own words, should come in because it showed his motive and intent. The trial justice ruled that the evidence was admissible and said he would instruct the jury that defendant was \u201cnot being charged with these other offenses.\u201d The defendant\u2019s counsel then thanked the trial justice. At no point, however, did defendant articulate a rationale for excluding the evidence; he merely asked for an offer of proof. Because defendant did not raise a substantive objection \u201cin a rational and recognizable posture to the trial justice,\u201d we deem this issue waived. Bido, 941 A.2d at 829.\nWe also recognize that there is a narrow exception to the \u201craise-or-waive\u201d rule where the alleged error is \u201cmore than harmless, and the exception * * * implicate[s] an issue of constitutional dimension derived from a novel rule of law that could not reasonably have been known to counsel at the time of trial.\u201d State v. Breen, 767 A.2d 50, 57 (R.I.2001). The instant case does not fall within that exception.\nBecause we find that defendant failed to preserve this issue for appellate review, we do not reach the merits of defendant\u2019s Rule 404(b) argument.\nB\nRule 803(4) Evidence\nThe defendant argues next that the trial justice erred by allowing Mr. Campbell, a rescue technician, to testify about a statement that Ms. Timbo made to him about the cause of her injuries. The defendant asserts that Ms. Timbo\u2019s statement that she was \u201ckicked and punched repeatedly and hit with a mirror in the forehead\u201d is hearsay that does not fall within the Rule 803(4) medical-diagnosis exception because Ms. Timbo\u2019s injuries were \u201creadily apparent\u201d and, as such, her statement was not necessary to her diagnosis or treatment.\nThe state maintains that the trial justice did not abuse his discretion when he admitted Ms. Timbo\u2019s statement under the reasoning that it \u201cwould make some difference as far as what treatment should be rendered.\u201d Furthermore, the state argues, Rule 803(4) applies to any statements that are reasonably pertinent to diagnosis or treatment and does not exclude statements that concern \u201capparent\u201d and \u201cimmediately determinable\u201d information.\nWe review a trial justice\u2019s admission of evidence under the deferential abuse of discretion standard. State v. Flori, 963 A.2d 932, 941 (R.I.2009). Under this standard, a trial justice\u2019s ruling will be upheld unless abuse of discretion that prejudices the complaining party is shown. Id.\nHearsay is \u201ca statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted\u201d and is inadmissible at trial unless it falls into one of the several hearsay exceptions. R.I. R. Evid. 801(c). Rhode Island recognizes an exception to the hearsay rule that allows for admission of statements made for purposes of medical diagnosis or treatment. Rule 803(4). The rationale behind the medical-diagnosis exception is that \u201ca person will presumably be truthful to a physician from whom he expects to receive medical attention.\u201d State v. Pina, 455 A.2d 313, 315 (R.I.1983). The \u201ctest for determining admissibility Tiinge[s] on whether what has been related by the patient will assist or is helpful in the diagnosis or treatment of [the patient\u2019s] ailment.\u2019 \u201d State v. Gaspar, 982 A.2d 140, 151 (R.I.2009) (quoting In re Audrey G., 796 A,2d 452, 456 (R.I.2002)). Statements that relate \u201cdetails unconnected with either diagnosis or treatment\u201d are inadmissible under Rule 803(4). Gaspar, 982 A.2d at 151.\nIn the instant case, Ms. Timbo made a statement to Mr. Campbell, a rescue technician, that she was \u201ckicked and punched repeatedly and hit with a mirror in the forehead.\u201d Because Ms. Timbo made this statement while in the rescue vehicle on her way to the hospital, she had a \u201cstrong motivation to be truthful\u201d so that she could receive the medical care that she needed, and it was reasonable for the trial justice to conclude as such. See Rule 803(4) Advisory Committee\u2019s Note. Furthermore, Mr. Campbell related Ms. Timbo\u2019s statement to the triage nurse at the hospital; thus, it was reasonable for the trial justice to conclude that Ms. Timbo\u2019s statement made at least \u201csome difference as far as what treatment [the hospital] rendered.\u201d The admissibility of Ms. Timbo\u2019s statement is further strengthened by the fact that the statement did not reveal the identity of Ms. Timbo\u2019s assailant, only the cause of the injuries. See State v. Lynch, 854 A.2d 1022, 1043 (R.I.2004) (physician\u2019s testimony about patient\u2019s statement concerning cause of patient\u2019s pain admissible when physician did not testify about identity of person that caused patient\u2019s pain).\nWe also note that defendant\u2019s assertion that Ms. Timbo\u2019s injuries were \u201creadily apparent\u201d to Mr. Campbell is irrelevant, even if true. The relevant inquiry when dealing with Rule 803(4) is whether the statement at issue was \u201cmade for purposes of medical diagnosis or treatment.\u201d The policy reasons behind this hearsay exception make it clear that the focus is on whether the declarant had a motivation to be truthful, not on whether the injuries were \u201creadily apparent\u201d to the treating party. See Rule 803(4) Advisory Committee\u2019s Note. For all these reasons, we are satisfied that the trial justice did not abuse his discretion when he allowed Ms. Tim-bo\u2019s statement to come in under Rule 803(4).\nC\nTranscript Containing \u201cInaudible\u201d Designations\nLastly, defendant contests the state\u2019s use, on recross-examination, of a transcript of a telephone conversation, between defendant and Ms. Timbo, that contained several \u201cinaudible\u201d designations. The defendant argues that the trial justice erred when he allowed the state to question defendant using this transcript because the transcript did not relate the full conversation and thus could have caused the jury to take the statements that defendant made out of their proper context.\nThe state points out that the transcript was given to the jury, with no objection from defendant, for the purpose of comprehending the audio recordings that were played in court, and that the jury did not have the transcript with them during deliberations. The state also argues that defendant did not suffer any harm from the transcript\u2019s admission because the trial justice instructed the jury that the transcript was only an approximation of the recorded conversations and that the recordings themselves were the \u201cbest evidence\u201d of those conversations. Finally, the state points out that defendant did not cite any legal authorities for his contention that the trial justice erred in admitting the portion of the transcript that contained \u201cinaudible\u201d designations.\nWe review the trial justice\u2019s ruling under an abuse of discretion standard. Flo-ri, 963 A.2d at 941. Here, the basis for defendant\u2019s contention that the trial justice erred in allowing the state to refer to the transcript in its recross-examination is far from clear. Nor does defendant cite any legal authority to support his summary argument on this issue.\nMoreover, we are at a loss to determine what harm has been visited upon the defendant as a result of the state\u2019s use of the transcript to question him. When the state attempted to question the defendant about his awareness of the fact that his telephone calls at the ACI were being recorded, the defendant objected to the state\u2019s use of the portion of that transcript that contained Ms. Timbo asking the defendant what happened to her face. The trial justice ruled that Ms. Timbo\u2019s question was necessary to provide context to the defendant\u2019s statement that he could not tell Ms. Timbo \u201cexactly what it was * * * on the phone.\u201d By this point in the trial, the recording of the telephone conversation already had been played for the jury, and the jury already had received a transcript of the conversation. In addition, the trial justice instructed the jury that the transcript was only an approximation of the recorded conversations and that the recordings themselves were the \u201cbest evidence\u201d of those conversations. We are, therefore, well satisfied that the trial justice did not abuse his discretion in overruling the defendant\u2019s objection to the state\u2019s use of the transcript to recross-examine the defendant.\nIll\nConclusion\nFor the reasons stated herein, we affirm the judgment of the Superior Court in all respects. The record shall be remanded to the Superior Court.\nJustice INDEGLIA did not participate.\n. The transcript was given to the jury while the recordings were played in court, but it was not admitted as a full exhibit. The trial justice instructed the jury that the transcript was only an approximation of the recorded conversations and that the recordings themselves were the \u201cbest evidence\u201d of those conversations.\n. Also, defendant did not object when the recordings were admitted as full exhibits at the close of the evidence.\n. The portion of the transcript in question is as follows:\n\"TIMBO: (Inaudible) to do a surgery on my face to get them fucking scars off my fucking face\u2014(Inaudible)\u2014I wanna know what the fuck happened to my fucking face (Inaudible) my fucking self?\n\"BROWN: No, no, listen I can\u2019t say exactly what it was that on the phone but I will tell you when I talk to you (Inaudible) but I know for a fact that, that that\u2019s what I\u2019m telling you, as your baby's father that\u2014.\"\n. The trial justice granted a motion for judgment of acquittal on the disorderly-conduct charge.\n. The defendant objected to the state\u2019s question being \"outside the line of proper questioning at this point\u201d and argued that \"there needs to be an offer of proof from the State before the Court can make a [R.I. R. Evid. 404(b) admissibility] determination.\u201d\n. The state argues that defendant admitted the charged offense when he said in a telephone conversation with Ms. Timbo:\n\"I made a big mistake Wayseywhein [sic ] I put my hands on you before. I made a big mistake and that's what I\u2019m saying. If you can forgive me for that then, you know what I'm saying then shit can move forward, believe me I'm not trying to go that route with you again * *\n. To the extent that defendant did assert a substantive objection, he failed to do so in a clear manner. See State v. Bido, 941 A.2d 822, 829 (R.I.2008) (\"Much is expected of our trial justices; we will not, however, fault them for a failure of clairvoyance.\u201d); State v. Grant, 840 A.2d 541, 546-47 (R.I.2004) (\"[AJssign-ments of error must be alleged with sufficient particularity so it will call the trial justice\u2019s attention to the basis of the objection.\u201d).\n. Rule 803(4) of the Rhode Island Rules of Evidence is a hearsay exception that allows into evidence\n\"[statements made for purposes of medical diagnosis or treatment and describing medical history, or past or present symptoms, pain, or sensations, or the inception or general character of the cause or external source thereof insofar as reasonably pertinent to diagnosis or treatment, but not including statements made to a physician consulted solely for the purposes of preparing for litigation or obtaining testimony for trial.\u201d",
+        "type": "majority",
+        "author": "Chief Justice SUTTELL,"
+      }
+    ],
+    "attorneys": [
+      "Aaron L. Weisman, Department of Attorney General, for State.",
+      "Paula Rosin, Office of the Public Defender, for Defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Nakeda BROWN.\nNo. 2008-326-C.A.\nSupreme Court of Rhode Island.\nDec. 15, 2010.\nAaron L. Weisman, Department of Attorney General, for State.\nPaula Rosin, Office of the Public Defender, for Defendant.\nPresent: SUTTELL, C.J., GOLDBERG, FLAHERTY, and ROBINSON, JJ."
+  },
+  "file_name": "1240-01",
+  "first_page_order": 1262,
+  "last_page_order": 1270
+}

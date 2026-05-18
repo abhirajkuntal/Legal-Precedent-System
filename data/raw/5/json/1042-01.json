@@ -1,0 +1,563 @@
+{
+  "id": 7290358,
+  "name": "TD BANKNORTH, N.A. v. Benjamin P. HAWKINS",
+  "name_abbreviation": "TD Banknorth, N.A. v. Hawkins",
+  "decision_date": "2010-10-19",
+  "docket_number": "",
+  "first_page": "1042",
+  "last_page": "1049",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 1042"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 1339",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7881245
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/642/1339-01"
+      ]
+    },
+    {
+      "cite": "1999 ME 62",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11618295
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "157-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/728/0154-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 85",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11532806
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 6, 8"
+        },
+        {
+          "page": "1260-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/750/1257-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 127",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9357533
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "\u00b626",
+          "parenthetical": "\"The test ... is not whether the complaint sets out a textbook definition of fraud, but whether defendant is fairly apprised of the elements of the claim.\""
+        },
+        {
+          "page": "1003",
+          "parenthetical": "\"The test ... is not whether the complaint sets out a textbook definition of fraud, but whether defendant is fairly apprised of the elements of the claim.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/818/0995-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 18",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8303468
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 8, 11"
+        },
+        {
+          "page": "679, 680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/939/0676-01"
+      ]
+    },
+    {
+      "cite": "242 A.2d 685",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8087608
+      ],
+      "pin_cites": [
+        {
+          "page": "686"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/242/0685-01"
+      ]
+    },
+    {
+      "cite": "839 N.E.2d 1131",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1134"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "298 Ill.Dec. 484",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "362 Ill.App.3d 663",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        4260851
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/362/0663-01"
+      ]
+    },
+    {
+      "cite": "2009 U.S. Dist. LEXIS 80382",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*10-11"
+        },
+        {
+          "page": "*5-6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 2843375",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "263 F.R.D. 514",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        4267523
+      ],
+      "pin_cites": [
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/263/0514-01"
+      ]
+    },
+    {
+      "cite": "2008 U.S. Dist. LEXIS 101909",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "*5",
+          "parenthetical": "holding that \"when an amended pleading is filed, the amended pleading becomes the operative pleading\""
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 5382340",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "*1",
+          "parenthetical": "holding that \"when an amended pleading is filed, the amended pleading becomes the operative pleading\""
+        },
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 U.S. Dist. LEXIS 18707",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*4",
+          "parenthetical": "\"Once an amended pleading is interposed, the original pleading no longer performs any function in the case .... \" (quotation marks omitted)"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*5"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 577286",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*1",
+          "parenthetical": "\"Once an amended pleading is interposed, the original pleading no longer performs any function in the case .... \" (quotation marks omitted)"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 U.S. Dist. LEXIS 80598",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*2-3",
+          "parenthetical": "\"It is well-established that an amended complaint supercedes an original complaint -\" (quotation marks omitted)"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 2916841",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*1",
+          "parenthetical": "\"It is well-established that an amended complaint supercedes an original complaint -\" (quotation marks omitted)"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999 U.S.App. LEXIS 2283",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. App. LEXIS",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that \"one cannot avoid service by refusing physically to accept the summons, once informed that the service of summons is being attempted\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999 WL 115472",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that \"one cannot avoid service by refusing physically to accept the summons, once informed that the service of summons is being attempted\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "551 F.3d 1132",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5751040
+      ],
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/551/1132-01"
+      ]
+    },
+    {
+      "cite": "352 Fed.Appx. 309",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "313-14",
+          "parenthetical": "holding that personal service was properly effectuated when the defendant answered the door but then retreated into his residence, and the documents were left at his door"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "638 A.2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366980
+      ],
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/638/0718-01"
+      ]
+    },
+    {
+      "cite": "2005 ME 75",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8941345
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "1115"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "1116"
+        },
+        {
+          "page": "1116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/880/1113-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 84",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7296991
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "938"
+        },
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "933"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/0929-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 2",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8307927
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "1074"
+        },
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "1074"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "1075"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "1075",
+          "parenthetical": "refusing to accept a party's \"dubious\" explanations of being \"confused\" as a good excuse for lifting a default"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/1070-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1016,
+    "char_count": 21006,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 7.35402458401149e-08,
+      "percentile": 0.4413956180456853
+    },
+    "sha256": "91f73830e77d5a5223499c9bae13cc9146fb9e5cff3462ae09d8274b916b0061",
+    "simhash": "1:ac1c8b3b43458585",
+    "word_count": 3529
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "TD BANKNORTH, N.A. v. Benjamin P. HAWKINS."
+    ],
+    "opinions": [
+      {
+        "text": "GORMAN, J.\n[\u00b6 1] Benjamin P. Hawkins appeals from a default judgment entered in the Business and Consumer Docket (Nivison, J.) in favor of TD Banknorth, N.A. on the Bank\u2019s complaint for collection on a commercial loan personally guaranteed by Hawkins. Hawkins challenges the court\u2019s entry of default and default judgment, its dismissal of the Bank\u2019s claim for fraud and seeking punitive damages, and the calculation of damages. Because we conclude that Hawkins was improperly defaulted on an amended complaint to which he had no opportunity to respond, we vacate the judgment.\nI. FACTS AND PROCEDURE\n[\u00b6 2] The parties agree that in 2001, Morse Brothers, Inc., a mulch manufacturer, obtained a line of credit from the Bank in the amount of $3 million. In September of 2005, the Bank instituted proceedings in the Superior Court (Cumberland County) against Morse Brothers\u2019 two principals, Timothy A. Morse and Hawkins. The Bank alleged that Hawkins and Morse personally guaranteed the loan, violated the loan agreement and amended loan agreement in several respects, and therefore defaulted on the loan. The September 2005 complaint asserted only one cause of action against Hawkins and Morse, jointly and severally, for collection on the loan. Morse filed a timely answer to the Bank\u2019s complaint.\n[\u00b6 3] On December 12, 2005, the Bank filed a return of service for Hawkins. Hawkins failed to file a timely answer to the Bank\u2019s complaint and, in January of 2006, the Bank moved the court to determine the adequacy of service to Hawkins and requested entry of a default against him pursuant to M.R. Civ. P. 55(a). The Bank asserted that after a Cumberland County Sheriffs Department deputy had made several unsuccessful attempts to serve Hawkins with process, including an attempt to serve Hawkins\u2019s son at Hawkins\u2019s residence, service had finally occurred on December 6, 2005. On that date, the deputy saw Hawkins in his residence and called Hawkins while standing outside the residence. The deputy explained to Hawkins that he was being served with civil process; when Hawkins refused to answer the door, the deputy placed the documents in the door of the residence.\n[\u00b6 4] The court (Delahanty, J.) found that service to Hawkins was sufficient, and the clerk entered a default against Hawkins. The court (Cole, J.) later denied Hawkins\u2019s motions to dismiss the complaint for insufficient service, and to reconsider its order determining that service was adequate. The court (Cole, J.) also denied Hawkins\u2019s subsequent motion to set aside the default for insufficient service after finding that Hawkins \u201cconsciously disregarded all notices from the Bank.\u201d\n[\u00b6 5] On February 22, 2006, the court (Cole, J.) granted the Bank\u2019s motion to amend its complaint against Hawkins and Morse. The amended complaint added a count for fraud and sought punitive damages. The court (Nivison, J.) also granted the Bank\u2019s motion to supplement its complaint against Morse with additional allegations supporting its cause of action for collection on the loan.\n[\u00b6 6] The Bank requested a default judgment against Hawkins on its collection claim pursuant to M.R. Civ. P. 55(b). The court determined that because the facts relating to Morse\u2019s and Hawkins\u2019s loan guarantees were identical, it would defer entry of a default judgment against Hawkins until after the parties had presented evidence of damages at trial.\n[\u00b6 7] A few days prior to trial, the Bank moved to dismiss its fraud claim and the accompanying request for punitive damages. Over Hawkins\u2019s objection, the court granted the motion and dismissed the claim without prejudice.\n[\u00b6 8] The matter proceeded to trial on the Bank\u2019s collection claim according to the amended complaint. The court conducted a hearing in June of 2009, during which it considered evidence of Morse\u2019s liability, and damages as to both Morse and Hawkins. By order dated August 14, 2009, the court issued a judgment in favor of the Bank and against Morse and Hawkins jointly and severally in the amount of $8,224,294.25, plus interest and costs. Hawkins timely appeals.\nII. DISCUSSION\n[\u00b6 9] Hawkins challenges the court\u2019s denial of his motion to set aside the default on grounds of both insufficient service of process and the Bank\u2019s subsequent amendment of the complaint. We review the trial court\u2019s denial of a motion to set aside a default for an abuse of discretion, and vacate the decision only if the denial \u201cworks a plain and unmistakable injustice against the defendant.\u201d Conrad v. Swan, 2008 ME 2, \u00b6 9, 940 A.2d 1070, 1074 (quotation marks omitted); see Downeast Mortg. Corp. v. Cutler, 2009 ME 84, \u00b6 14, 976 A.2d 929, 938. We afford substantial deference to decisions on motions to set aside defaults because of the trial court\u2019s superior familiarity with the case and better view of the good faith and credibility of the parties. Conrad, 2008 ME 2, \u00b6 9, 940 A.2d at 1074.\nA. Service of Process\n[\u00b6 10] We first address Hawkins\u2019s contention that the court erred in refusing to set aside the entry of default based on insufficient service of process. Whether service was properly completed is an issue of law we review de novo. Brown v. Thaler, 2005 ME 75, \u00b6 8, 880 A.2d 1113, 1115.\n[\u00b6 11] When a party has \u201cfailed to plead or otherwise defend as provided by these rules and that fact is made to appear by affidavit or otherwise, the clerk shall enter the party\u2019s default.\u201d M.R. Civ. P. 55(a). In accordance with Rule 55(a), the court in the instant matter found that Hawkins had been adequately served with the complaint on December 6, 2005, as indicated by the deputy\u2019s return of service, and that Hawkins failed to timely respond to the complaint. See Foley v. Adam, 638 A.2d 718, 720 (Me.1994) (\u201cThe return of service of process by an officer is accorded a presumption of regularity, ... which may be overcome by positive evidence that the defendant was not in fact served.\u201d (quotation marks omitted)).\n[\u00b6 12] A party seeking relief from such a default must show both \u201cgood cause\u201d for failing to defend, M.R. Civ. P. 55(c), and the existence of a \u201cmeritorious defense,\u201d Cutler, 2009 ME 84, \u00b6 14, 976 A.2d at 933. \u201cGood cause\u201d is defined as \u201ca good excuse.\u201d Conrad, 2008 ME 2, \u00b6 11, 940 A.2d at 1075.\n[\u00b6 13] Hawkins concedes that he was home on December 6, 2005; that he spoke to the deputy while inside his home; and that he refused to answer the door for service. He thus appears to concede that he intentionally avoided service. He argues, however, that \u201cregardless of his intentions or motives,\u201d M.R. Civ. P. 4 requires either in-hand delivery or proof of actual notice, neither of which occurred here. The court found that Hawkins\u2019s deliberate avoidance of service established no good cause for his failure to defend against the complaint. We agree with the trial court.\n[\u00b6 14] Rule 4 allows service (1) by mail, which is effective only when the receipt is acknowledged by the recipient; (2) \u201c[b]y a sheriff or a deputy within the sheriffs county, or other person authorized by law, or by some person specially appointed by the court for that purpose\u201d; or (3) \u201c[b]y any other method permitted or required by this rule or by statute.\u201d M.R. Civ. P. 4(c)(l)-(3). Here, service was effected according to subsection (2), by personal service from the deputy. Personal service may be made:\n[u]pon an individual other than a minor or an incompetent person, by delivering a copy of the summons and of the complaint to the individual personally or by leaving copies thereof at the individual\u2019s dwelling house or usual place of abode with some person of suitable age and discretion then residing therein or ... an agent.\nM.R. Civ. P. 4(d)(1). Only if personal service cannot be accomplished with \u201cdue diligence\u201d may the serving party move the court to order service by some other means. M.R. Civ. P. 4(d)(1), (g).\n[\u00b6 15] We have never equated personal service with in-hand service, however, and would be loath to do so where, as here, a defendant was attempting to evade service. Many jurisdictions hold that a defendant cannot deliberately avoid service. See, e.g., U.S. Sec. & Exch. Comm\u2019n v. Reinhard, 352 Fed.Appx. 309, 313-14 (11th Cir. 2009) (holding that personal service was properly effectuated when the defendant answered the door but then retreated into his residence, and the documents were left at his door); Travelers Cas. & Sur. Co. of Am. v. Brenneke, 551 F.3d 1132, 1136 (9th Cir.2009) (stating that \u201cwhere a defendant attempts to avoid service e.g. by refusing to take the papers, it is sufficient if the server is in close proximity to the defendant, clearly communicates intent to serve court documents, and makes reasonable efforts to leave the papers with the defendant\u201d (alteration omitted) (quotation marks omitted)); Sparton Engineered Prods., Inc. v. Cable Control Techs., Inc., No. 97-1995, 1999 WL 115472, at *2 n. 6, 1999 U.S.App. LEXIS 2283, at *7 n. 6 (6th Cir. Feb. 10, 1999) (noting that \u201cone cannot avoid service by refusing physically to accept the summons, once informed that the service of summons is being attempted\u201d).\n[\u00b6 16] The purpose of the rules regarding service is also not benefited by allowing Hawkins to claim a failure of service. Service is intended both to give a party notice of the action, and to convey the court\u2019s personal jurisdiction over the party. Brown, 2005 ME 75, \u00b6 10, 880 A.2d at 1116. Effective service \u201censures the integrity of the commencement of litigation.\u201d Id. \u00b6 12, 880 A.2d at 1116. It is precisely that integrity that Hawkins attempted to thwart, however.\n[\u00b6 17] We agree with the trial court that Hawkins was properly served. The record shows that Hawkins was aware of the lawsuit, was aware that the deputy was attempting to serve him, deliberately avoided such service even when he was home to accept it, willfully chose to disregard the Bank\u2019s complaint, and then attempted to have the default lifted by pleading ignorance. Such circumstances provide no good excuse for failing to answer the complaint, and the court properly denied Hawkins\u2019s motion to set aside the default on this basis. See Conrad, 2008 ME 2, \u00b6 11, 940 A.2d at 1075 (refusing to accept a party\u2019s \u201cdubious\u201d explanations of being \u201cconfused\u201d as a good excuse for lifting a default).\nB. Amendment of the Complaint\n[\u00b6 18] Hawkins also argues that the court erred as a matter of law in refusing to set aside the default based on the Bank\u2019s subsequent amendment of the complaint. Pursuant to M.R. Civ. P. 15(a), a party may amend a complaint \u201cby leave of court or by written consent of the adverse party\u201d and such leave \u201cs hall be freely given when justice so requires.\u201d\n[\u00b6 19] Although we have not yet had occasion to address this point directly, in most jurisdictions, when a complaint is amended, the original complaint is considered to be wholly replaced by the amended version. See, e.g., Greater St. Louis Constr. Laborers Welfare Fund v. A.G. Mack Contracting Co., No. 4:08-CV-1947 CAS, 2009 WL 2916841, at *1, 2009 U.S. Dist. LEXIS 80598, at *2-3 (E.D.Mo. Sept. 4, 2009) (\u201cIt is well-established that an amended complaint supercedes an original complaint -\u201d (quotation marks omitted)); United States v. Aegis Ins. Co., No.1:08-CV-01728, 2009 WL 577286, at *1, 2009 U.S. Dist. LEXIS 18707, at *4 (M.D.Pa. Mar. 5, 2009) (\u201cOnce an amended pleading is interposed, the original pleading no longer performs any function in the case .... \u201d (quotation marks omitted)); Rock v. Am. Express Travel Related Servs. Co., No. L08-CV-0853 (GTS/RFT), 2008 WL 5382340, at *1, 2008 U.S. Dist. LEXIS 101909, at *5 (N.D.N.Y. Dec. 17, 2008) (holding that \u201cwhen an amended pleading is filed, the amended pleading becomes the operative pleading\u201d); 3 Daniel R. Coquiellete et ah, Moore\u2019s Federal Practice \u00a7 15.17(3) (3d ed. 2007) (\u201cAn amended pleading that is complete in itself and does not reference or adopt any portion of the prior pleading supersedes the prior pleading.\u201d).\n[\u00b6 20] On this basis, the majority of jurisdictions require that a default be set aside when the complaint on which the default is entered is subsequently amended. In Aegis Insurance, for example, the defendant failed to respond to the plaintiffs initial complaint and was defaulted on that basis. 2009 WL 577286, at *1, 2009 U.S. Dist. LEXIS 18707, at *2. Later, the plaintiff amended the complaint. Id. The court held that the \u201camended complaint moot[ed the plaintiffs] request for default judgment,\u201d and that the default was properly set aside because \u201cthe original complaint upon which the [default] relied no longer exist[ed].\u201d Id. at *2, 2009 U.S. Dist. LEXIS 18707 at *5; see, e.g., Michiana Dairy Processors LLC v. All Star Beverage, Inc., 263 F.R.D. 514, 517 (N.D.Ind.2009); A. G. Mack Contracting, 2009 WL 2916841, at *1, 2009 U.S. Dist. LEXIS 80598, at *3; Bituminous Cas. Corp. v. Tindle Enters., Inc., No. 07-1158 B/P, 2009 WL 2843375, at *4, 2009 U.S. Dist. LEXIS 80382, at *10-11 (W.D.Tenn. Aug. 3, 2009); Rock, 2008 WL 5382340, at *1-2 & n. 3, 2008 U.S. Dist. LEXIS 101909, at *5-6 & n. 3; Alton Cmty. Unit Sch. Dist. No. 11 v. Ill. Educ. Labor Relations Bd., 362 Ill.App.3d 663, 298 Ill.Dec. 484, 839 N.E.2d 1131, 1134 (2005).\n[\u00b6 21] The Bank attempts to distinguish these cases by arguing that in each, the allegations in the original complaint on which the defendant was defaulted were amended, whereas in the present matter, Count I, a claim for collection on the loan, was never amended. This argument, however, is not supported by a review of the cases. In some of the decisions cited, the nature of the plaintiffs amendment is not disclosed in the opinion, and thus we cannot presume that the amendment did not affect the original allegations against the defaulted party. See, e.g., Aegis Ins., 2009 WL 577286, at *1, 2009 U.S. Dist. LEXIS 18707, at *2; Rock, 2008 WL 5382340, at *1, 2008 U.S. Dist. LEXIS 101909, at *5. Others involve amendments that only added new defendants and did not affect the nature of the allegations against the defaulted party named in the initial complaint; in these cases, too, courts have set aside the default on the ground of the later amendment of the complaint. See, e.g., A.G. Mack Contracting, 2009 WL 2916841, at *1, 2009 U.S. Dist. LEXIS 80598, at *2; Bituminous Cas., 2009 WL 2843375, at *2, 2009 U.S. Dist. LEXIS 80382, at *5-6. Thus, these authorities support the proposition that an amended complaint replaces the initial complaint, and therefore voids any default entered on the initial complaint, without regard to the nature or extent of the amendments.\n[\u00b6 22] We conclude that when a complaint is amended, any default on the initial complaint, even as to claims unaltered by the amendment, must be set aside and the defendant be given an opportunity to respond to the amended complaint according to the terms of M.R. Civ. P. 12. The court\u2019s refusal to set aside the default against Hawkins was therefore error. We vacate the entry of default and default judgment against Hawkins and remand for the matter to proceed on the merits as to Count I of the amended complaint against Hawkins.\n[\u00b623] We find no error, however, in the court\u2019s decision to grant the Bank\u2019s motion to dismiss without prejudice those claims added by the amended complaint, i.e., fraud and punitive damages. The record supports the court\u2019s finding that the Bank showed no bad faith by its late motion to dismiss. See M.R. Civ. P. 41(a)(2); M.R. Civ. P. 41 Advisory Committee\u2019s Note to 1989 amend, (stating that the purpose of the rule is to avoid any \u201ctactical ability to impose expense and delay on other parties or avoid rule- or court-imposed deadlines by dismissal after extensive pretrial proceedings have taken place\u201d); Kennedy v. Zalensky 242 A.2d 685, 686 (Me.1968) (recognizing the benefits served by voluntary dismissals, such as controlling the docket, minimizing delay, and ensuring that cases are prosecuted with diligence). Further, notwithstanding its dismissal, we are persuaded that the Bank pleaded its fraud claim with the requisite particularity. See M.R. Civ. P. 8(a), 9(b); Bean v. Cummings, 2008 ME 18, \u00b6\u00b6 8, 11, 939 A.2d 676, 679, 680; St. Francis De Sales Fed. Credit Union v. Sun Ins. Co. of N.Y., 2002 ME 127, \u00b626, 818 A.2d 995, 1003; 1 Field, McKusick & Wroth, Maine Civil Practice \u00a7 9.2 at 221 (2d ed. 1970) (\u201cThe test ... is not whether the complaint sets out a textbook definition of fraud, but whether defendant is fairly apprised of the elements of the claim.\u201d).\n[\u00b6 24] In addition, we do not disturb the court\u2019s refusal to award Hawkins costs on the Bank\u2019s voluntarily dismissed claim for fraud. Although Hawkins may have been entitled to recover certain costs pursuant to 14 M.R.S. \u00a7 1510 (2009), by failing to file an affidavit from which those costs could be calculated, and given the lack of any eligible costs apparent in the record, Hawkins has waived any right to such an award. See 14 M.R.S. \u00a7\u00a7 1502-B to 1502-D (2009); M.R. Civ. P. 54(d). Hawkins is also not entitled to recover his attorney fees pursuant to any provision.\n[\u00b6 25] Finally, because we remand for trial, we need not address Hawkins\u2019s additional contentions that the court erred in entering the default judgment against him, and in calculating the amount of the debt owed pursuant to that default judgment.\nThe entry is:\nJudgment vacated and remanded to the Business and Consumer Docket for further proceedings consistent with this opinion.\n. The Bank also named defendants/guarantors Morse Brothers, Inc.; Dancing Bear Realty Trust; M B Bagging Corp.; Benjamin Hawkins, individually and as trustee of the Trust; and Timothy Morse individually. When Morse Brothers, the Trust, and M B Bagging declared bankruptcy in October of 2005, however, the court (Delahanty, J.) severed the claims against these entities and the matter proceeded only against Hawkins and Morse individually.\n. The son refused to open the door.\n. In August of 2007, the matter was transferred, on Hawkins\u2019s application, to the Business and Consumer Docket, where Morse and Hawkins filed a series of counterclaims against the Bank, each of which was either dismissed or subject to a summary judgment in the Bank's favor. Hawkins has not challenged the disposition of his counterclaims on appeal. Hawkins's first appeal to this Court challenging the denial of his motion to set aside the default and to dismiss the fraud claim for failure to plead with particularity was dismissed as interlocutory. See TD Banknorth, N.A. v. Hawkins, Mem-07-83 (May 8, 2007).\n. We reject Hawkins's companion argument \u2014 that the Bank\u2019s supplement to the complaint should have resulted in setting aside the default against him \u2014 because the supplement was only accomplished as to the allegations against Morse, and thus had no effect on the litigation between Hawkins and the Bank. See Collins v. State, 2000 ME 85, \u00b6\u00b6 6, 8, 750 A.2d 1257, 1260-61 (defining standing as having suffered a particularized injury \"fairly traceable to the challenged action and that is likely to be redressed by the judicial relief sought\u201d and noting that \"a litigant may not assert [ even the] constitutional rights of third parties\" (quotation marks omitted)).\n. An amended pleading also \u201crelates back to the date of the original pleading\u201d when, among other reasons, \"the claim or defense asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading.\u201d M.R. Civ. P. 15(c)(2). Hawkins's reliance on the \u201crelation back\u201d rule of pleading is misplaced. This rule is, by its plain terms, merely a procedural mechanism to determine the date of the filing of the initial complaint, usually employed when the complaint is amended after the expiration of the applicable statute of limitations. 1 Field, McKusick & Wroth, Maine Civil Practice \u00a7 15.6 at 305 (2d ed.1970); see Lee v. Maier, 1999 ME 62, \u00b6 14, 728 A.2d 154, 157-58; John W. Goodwin, Inc. v. Fox, 642 A.2d 1339, 1341 (Me. 1994); see also M.R. Civ. P. 15 Advisory Committee\u2019s Note to 1993 amend, (noting that the rule \"prevent [s] parties against whom claims are made from taking unjust advantage of otherwise inconsequential pleading errors to sustain a limitations defense\u201d). There is no such limitations issue in the instant matter.\n. Although the court did conduct a trial on the merits as to Morse, and there is no dispute that Morse was identically situated, Hawkins was nevertheless denied the opportunity to present and cross-examine witnesses as to issues of liability, and thus cannot be held to the findings and conclusions of the judgment against Morse.",
+        "type": "majority",
+        "author": "GORMAN, J."
+      }
+    ],
+    "attorneys": [
+      "Ralph A. Dyer, Esq., Law Offices of Ralph A. Dyer, P.A., Falmouth, ME, for Benjamin P. Hawkins.",
+      "Edward S. MacColl, Esq., Thompson, Bull, Furey, Bass & MacColl, LLC, Portland, ME, for TD Bank, N.A."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 104\nTD BANKNORTH, N.A. v. Benjamin P. HAWKINS.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Sept. 15, 2010.\nDecided: Oct. 19, 2010.\nRalph A. Dyer, Esq., Law Offices of Ralph A. Dyer, P.A., Falmouth, ME, for Benjamin P. Hawkins.\nEdward S. MacColl, Esq., Thompson, Bull, Furey, Bass & MacColl, LLC, Portland, ME, for TD Bank, N.A.\nPanel: ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "1042-01",
+  "first_page_order": 1064,
+  "last_page_order": 1071
+}

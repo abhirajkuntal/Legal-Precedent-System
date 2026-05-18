@@ -1,0 +1,199 @@
+{
+  "id": 7285617,
+  "name": "Jeffrey SMITH and Susan Smith, his Wife, Appellants v. YAMAHA MOTOR CORPORATION, U.S.A., a California Corporation, Yamaha International Corporation, a California Corporation, and Yamaha Motor Manufacturing Corporation of America, a Georgia Corporation, Appellees",
+  "name_abbreviation": "Smith v. Yamaha Motor Corp. U.S.A.",
+  "decision_date": "2010-08-18",
+  "docket_number": "",
+  "first_page": "314",
+  "last_page": "323",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "763 A.2d 920",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11174769
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/763/0920-01"
+      ]
+    },
+    {
+      "cite": "841 A.2d 1000",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        16773,
+        9286806
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion by Justice Cappy with three justices concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0644-01",
+        "/a2d/841/1000-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 644",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16773
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion by Justice Cappy with three justices concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0644-01"
+      ]
+    },
+    {
+      "cite": "898 A.2d 590",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8418059,
+        3466383
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/898/0590-01",
+        "/pa/587/0236-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3466383
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0236-01"
+      ]
+    },
+    {
+      "cite": "868 A.2d 1222",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9181199
+      ],
+      "pin_cites": [
+        {
+          "page": "1225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/868/1222-01"
+      ]
+    },
+    {
+      "cite": "917 A.2d 872",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8325752
+      ],
+      "pin_cites": [
+        {
+          "page": "872-873"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/917/0872-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 862",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381496
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0862-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1181,
+    "char_count": 27683,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 6.198595099091247e-08,
+      "percentile": 0.38408841596556403
+    },
+    "sha256": "6485612f2e5c96c2a285d69e3b70f853655d34ba93b311b63f6d2a8524f12614",
+    "simhash": "1:27efd3849027f3e8",
+    "word_count": 4513
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BENDER, BOWES and CLELAND , JJ."
+    ],
+    "parties": [
+      "Jeffrey SMITH and Susan Smith, his Wife, Appellants v. YAMAHA MOTOR CORPORATION, U.S.A., a California Corporation, Yamaha International Corporation, a California Corporation, and Yamaha Motor Manufacturing Corporation of America, a Georgia Corporation, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBOWES, J.:\nJeffrey and Susan Smith appeal from the July 21, 2008 order granting summary judgment in favor of Yamaha Motor Corporation, U.S.A., Yamaha International Corporation, and Yamaha Motor Manufacturing Corporation of America (collectively \u2018Yamaha\u201d). After careful review, we reverse and remand.\nAt approximately 5:30 p.m. on September 23, 1999, Mr. Smith, an experienced off-road all-terrain-vehicle (\u201cATV\u201d) user, was operating a 1987 Yamaha Big-Bear 350 ATV on a trail located near Cherry Run Road, Burrell Township, Armstrong County, when he had an accident. Mr. Smith, who was wearing a helmet and gloves, was climbing a portion of the trail that climbed a steep hill. Some of his riding companions, including his daughter and her friend, had preceded him over the hill and were beyond his line of sight. Mr. Smith became concerned that if he traveled over the hill, he may collide with someone. He started to carefully and slowly back his ATV down the hill while keeping it in first gear. As Mr. Smith neared the bottom of the hill, his right foot slipped and struck the right-rear fender of the ATV. The fender collapsed, and Mr. Smith\u2019s right leg became trapped between the ATV\u2019s frame and its rear wheel. As a result, the vehicle rolled backwards over Mr. Smith\u2019s body, struck him in the face, and caused severe injuries that required \u201ccomprehensive facial surgery, stitches, and splints.\u201d Complaint, 5/29/01, at 8 \u00b6 30. Mr. Smith became physically disabled and disfigured and suffers from double vision, seizures, depression, anxiety, and sleep disorders.\nAppellants instituted this action on May 29, 2001, seeking damages resulting from the accident. In the complaint, Appellants asserted claims sounding in breach of warranty, strict liability, and negligence. Appellants notified Yamaha that the accident occurred when Mr. Smith\u2019s leg \u201ccontacted the rear fender of the subject vehicle and the rear fender then collapsed, causing Plaintiff Jeffrey Smith\u2019s leg to become trapped between the rear wheel and subject vehicle\u2019s frame, thus precipitating injuries and damages as more fully set forth below.\u201d Complaint, 5/29/01, at \u00b6 16. Appellants averred that the \u201ccomponent rear fender, fender attachment, and instrument panel\u201d were defective. Id. at \u00b6 18. Appellants further delineated that the accident, injuries, and damages that Appellants sustained were the result of these and other actions by Yamaha:\na. In designing the rear fender, fender attachment, and/or instrument panel in such a deficient manner as to permit the subject vehicle and/or components thereof to be defective;\nb. In failing to properly design, construct, and/or install the instrument panel, rear fender, and/or fender attachment;\nn. In failing to design and provide a rear fender, fender attachment, and instrument panel that would be capable of being effective, safe, and practical;\np. In failing to adequately attach the rear fender in order to prevent the fender from folding up under normal loads;\nq. In utilizing a rear fender that unreasonably and dangerously allowed a rider\u2019s leg to contact the rear wheel and muffler;\nr. In allowing the rear fender mounting bolt to not have a washer that would have prevented the bolt head from pulling through the plastic fender material;\nt. In failing to properly attach and/or brace the rear fender properly so as to ensure that it would not present a danger during foreseeable use by operators[.]\nId. at \u00b6 27.\nYamaha filed an answer and new matter asserting that Mr. Smith was contribu-torily negligent and that he assumed the risk of injury \u201cby virtue of his careless, reckless, and negligent conduct.\u201d Answer and New Matter, 10/5/01, at 15 at \u00b6 142. Yamaha also denied the existence of a design defect or inadequate safety warnings and claimed that no warranties had been made to Mr. Smith because he purchased the ATV as a used vehicle.\nDuring Mr. Smith\u2019s deposition, he described his actions and thought process during the relevant time frame. He was ascending a hill behind his traveling companions when he reached a point where he could not see over the crest. Mr. Smith explained, \u201cI was afraid that I\u2019d have to give [the ATV] a little too much gas to crest the hill and that I would be airborne. If, in fact, one of the kids [were] up there and looked over to see where I was at or for that matter one of the adults, but I was worried about the children mainly, I was fearful I may crest the hill and go in the air and have one of them in front of me.\u201d Deposition of Jeffrey Smith, 3/12/02, at 176. Mr. Smith concluded that going over the hill was not a safe option.\nMr. Smith stopped the ATV and positioned himself so that he could descend safely. He placed the vehicle in drive in first gear because he did not believe that he could back down slowly enough in reverse. Since it was engaged in first gear when Mr. Smith applied gas to the vehicle, the wheels would move backwards very slowly. He had descended hills in this manner on \u201cmany occasions.\u201d Id. at 182. He remained standing on the foot pegs and leaning forward.\nWhen Mr. Smith had nearly reached the bottom of the hill, the following occurred: \u201cIt [was] just like one moment I was standing up, the next moment my leg was sucked into the wheel, stuck between the fender and the tire, getting burned by the muffler and the [ATV] rolled backwards, head over heels.\u201d Id. at 187. Mr. Smith explained that the vehicle started to flip backwards for the following reason: \u201cWhenever the fender gave way, it lodged my foot between the fender top, the muffler and the internal portion of the wheel and the top of the tread. It had to have stopped everything when my leg got stuck in the there. And I\u2019m assuming that that instantaneous stop and the fact that it sucked me down to the right and threw my weight over to the right-hand side, you know, a rapid jerk, I lost ... not only my balance, but my center of gravity, I lost everything. I lost my ability to control the rearward motion; I lost everything momentarily.\u201d Id. at 205. Mr. Smith stated that he later saw the detached fender and that the bolt that secured the right rear fender to the frame of the ATV had broken through the plastic fender.\nWhen asked if he had ingested any drugs or alcohol on the day of the accident, Mr. Smith stated that he drank one twelve-ounce beer sometime before 4:00 p.m. He also was ingesting approximately 120 milligrams of the painkiller OxyContin under prescription on a daily basis due to a degenerative spinal condition that caused chronic neck and back pain. Id. at 112-114, 129-133. He stated that he was permitted to drink alcohol while using Oxy-Contin but was \u201ccautioned to use extreme care.\u201d Id. at 133. His blood alcohol content had been tested on the day of the accident, and it was .021%, which is approximately seventy-five percent below the legal limit. Mr. Smith stated that he was not feeling any effects from the OxyCon-tin.\nOn April 11, 2007, Yamaha filed a motion for partial summary judgment seeking the dismissal of Appellants\u2019 strict liability and breach of warranty claims on the bases that: (1) Mr. Smith was misusing the ATV when the accident occurred; and (2) the warranty claims were barred by the applicable statute of limitations. Specifically, Yamaha argued that it could not be held strictly liable for Mr. Smith\u2019s injuries because he acknowledged receiving a booklet titled, \u2018Yamaha tips for the ATV rider\u201d (\u201ctips booklet\u201d) when he purchased the ATV, and the booklet expressly warned that operators should not use drugs or alcohol or allow the vehicle to roll backwards on a hill. See Motion, 4/11/07, at 4-5. Accordingly, Yamaha maintained that at the time of the accident, Mr. Smith was operating the vehicle in an unintended manner.\nAppellants filed a response addressing the viability of their strict liability claims and countered that Yamaha could not assert comparative negligence as a defense in this action. Appellants maintained that Mr. Smith\u2019s actions were wholly irrelevant and that he had, in fact, established a prima, facie case against Yamaha because: (1) he was an intended user; (2) the vehicle was being used for its intended purpose, ie., riding on dirt trails; and (3) the alleged defect was the proximate cause of Mr. Smith\u2019s injuries. Appellants disclaimed that the act of backing the ATV down a hillside constituted an unintended use of the vehicle. Appellants additionally averred that lawfully consuming prescription drugs and alcoholic beverages before operating an ATV does not absolve the manufacturer of liability for a design defect, and that even if such conduct was somehow relevant in this context, there was no indication that these actions caused the accident. Id. at 5.\nThe trial court heard oral argument on the motion on June 29, 2007, whereupon Appellants\u2019 counsel withdrew the breach of warranty claims. On October 17, 2007, the court granted summary judgment in favor of Yamaha on the strict liability claims. Appellants\u2019 motion for reconsideration was denied, and the court declined to certify its order for immediate appeal. Thus, Appellants were left solely with their negligence claims predicated upon, inter alia, allegations of negligent design, failure to adequately test the rear fender\u2019s ability to withstand intense blows, and failure to warn of the risk of injury posed by a collapsed fender.\nYamaha filed a motion for summary judgment as to the negligence claims on January 14, 2008. On February 29, 2008, the trial court heard argument on that motion as well as a motion to strike two expert reports Appellants submitted with their pretrial statement. The court adjudicated the motion to strike on May 9, 2008, permitting one report to stand but striking the second on the basis that it raised \u201ca new legal theory [of recovery] after the expiration of the relevant Statute of Limitations.... \u201d Opinion and Order, 5/9/08, at 6. See, e.g., Rachlin v. Edmison, 813 A.2d 862 (Pa.Super.2002) (en banc) (an expert report cannot introduce a new cause of action after the statute of limitations has run because it is prejudicial to the adverse party). Thereafter, on July 21, 2008, the court granted Yamaha\u2019s motion for summary judgment and disposed of all remaining claims. This timely appeal followed, wherein Appellants challenge both summary judgment rulings and the grant of Yamaha\u2019s motion to strike the expert report of accident reconstruction expert, Dr. Robert R. Wright. Specifically, Appellants raise these contentions:\nQuestion 1: Whether the trial court erred as a matter of law by granting defendants\u2019 partial motion for summary judgment as to plaintiffs\u2019 strict products liability count.\nQuestion 2: Whether the trial court abused its discretion by striking the plaintiffs\u2019 expert crash reconstruction report.\nQuestion 3: Whether the trial court erred as a matter of law by granting defendants\u2019 motion for summary judgment as to plaintiffs\u2019 negligence and/or negligent design count.\nAppellant\u2019s brief at 5.\nWe begin with Appellants\u2019 position that the trial court erred in striking Dr. Wright\u2019s expert report, as that ruling excluded evidence offered in support of Appellants\u2019 negligence and strict liability claims. As noted, the court concluded that the report asserted a new cause of action after the applicable two-year statute of limitations had expired. Appellants argue that Dr. Wright\u2019s report addressed the absence of adequate foot and leg protection, which was clearly raised in their complaint, and that if other portions of his report raised a new cause of action, the court should have redacted those portions instead of striking the report in its entirety.\nThe record reveals that Dr. Wright authored a report wherein he concluded that: (1) the fenders on the ATV at issue were flexible and did not adequately protect the operator\u2019s feet and legs from the tires, which was problematic because the tires had a \u201cdeep tread pattern\u201d that could \u201cgrab shoes, clothing, and other objects;\u201d and (2) the ATVs weight distribution and center of gravity was \u201ctotally inappropriate for a machine of this configuration\u201d and made the vehicle \u201cprone to forward and rearward pitch or flip-overs.\u201d Expert Report of Dr. Robert Wright, 5/25/07, at 5-6. In deciding Yamaha\u2019s motion, the trial court focused solely on the second aspect of the report but then struck the entire report on the basis that it \u201cemphasizes problems stemming from the machine\u2019s balance rather than those related to the fender and instrument panel.\u201d Opinion and Order, 5/9/08, at 8. While we agree with the trial court that Dr. Wright\u2019s analysis of the vehicle\u2019s stability raised a new theory of liability beyond the statute of limitations, we disagree with the court\u2019s decision to strike the entire report.\nContrary to the trial court\u2019s position, the portion of Dr. Wright\u2019s report that addressed foot-related safety hazards did not raise a new cause of action; that analysis expounded upon an issue clearly raised in Appellants\u2019 complaint. Specifically, therein, Appellants alleged that Yamaha was negligent for \u201cutilizing a rear fender that unreasonably and dangerously allowed a rider\u2019s leg to contact the rear wheel and muffler.\u201d Complaint, 5/29/01, at 27(q). Appellants accurately point out that the court should not have stricken this aspect of the report and, therefore, we will consider the relevant excerpts in determining whether the trial court erred in granting summary judgment to Yamaha.\nAt the outset, we note our standard of review:\nWe may reverse the entry of summary judgment only where we find that the trial court erred in concluding that either (1) no genuine issue of material fact existed; or (2) the moving party was entitled to judgment as a matter of law. We must review the record in the light most favorable to the nonmoving party, resolving all doubts and drawing all inferences against the moving party. As this inquiry involves purely questions of law, our review is plenary. Finally, we are not bound by the conclusions of law of the trial court, as we may reach our own conclusions and draw our own inferences.\nGlikman v. Progressive Casualty Insurance Company, 917 A.2d 872, 872-873 (Pa.Super.2007) (quoting Roth Cash Register Company, Inc. v. Micro Systems, Inc., 868 A.2d 1222, 1225 (Pa.Super.2005)).\nWe now review whether the court erred in granting summary judgment in favor of Yamaha on the strict liability claims. Appellants argue that the court improperly based its ruling on the existence of a warning tag that was not included in the record and that the court misapplied pertinent legal principles articulated in Pennsylva nia Department of General Services v. United States Mineral Products Co., 587 Pa. 236, 898 A.2d 590 (2006). We concur with the latter claim and need not address the former.\nThe record establishes that in granting summary judgment on Appellants\u2019 product liability claims, the trial court accepted Yamaha\u2019s argument that Mr. Smith misused the ATV at the time of the accident because he ingested OxyContin and beer prior to riding the vehicle. See Trial Court Opinion, 10/17/07, at 4. Specifically, the court reasoned that under Pennsylvania Department of General Services v. United States Mineral Products Co., supra, the \u201c[act] of taking OxyContin and consuming alcohol clearly contravenes the manufacturer\u2019s warnings [against such conduct] and constitutes an unintended use [of the vehicle].\u201d Id. (footnote omitted). The court therefore granted Yamaha\u2019s motion and declined to address its alternate claim that permitting the ATV to roll backwards on a hill also constituted an unintended use of the vehicle. Id. at n. 2.\nIn support of the trial court\u2019s finding that the ATV was not being employed in accordance with its intended use, Yamaha relies upon our Supreme Court\u2019s decisions in Pennsylvania Department of General Services, supra, and Phillips v. Cricket Lighters, 576 Pa. 644, 841 A.2d 1000 (2003) (plurality opinion by Justice Cappy with three justices concurring). In the former case, Monsanto Company (\u201cMonsanto\u201d) was sued in a product liability action based upon allegations that hazardous chemicals that were contained in its building material were present throughout a building owned by the Commonwealth. A fire occurred on one floor of the Commonwealth building, and following that event, the chemicals were detected on surfaces and in the ambient air throughout the structure.\nEventually, the Commonwealth decided to destroy the building, based partially upon the presence of the chemicals. The Commonwealth then instituted the action against Monsanto and other defendants under theories of strict liability and negligence and sought compensation for the damage to its property. The case as to Monsanto was tried solely under a theory of strict liability. Monsanto presented evidence that the chemicals were released during the fire rather than when its building materials were in the extant building, and the Commonwealth prevailed.\nOn appeal, Monsanto complained, among other things, about the trial court\u2019s refusal to instruct the jury that it was liable only to the extent that the chemicals were released while the building materials were located within the intact structure and that it was not responsible for any chemicals released when its building materials were burned. Monsanto noted that the requested instruction was premised upon precedent which provided that a manufacturer is not liable under a products liability theory of recovery if a product is not being used in accordance with its intended use.\nOur Supreme Court agreed with Monsanto\u2019s contention. It noted that building materials are not designed to be burned and, to the extent that the chemicals were released during the fire, Monsanto was not liable. Our Supreme Court held that Monsanto\u2019s product was not being used as intended while being burned, even if the fire was foreseeable. The Court ruled:\nAs it is undisputed that the incineration of building products is not a use intended by the manufacturer, under prevailing Pennsylvania law, damages in strict liability are unavailable for the fire-related contamination [of the Commonwealth\u2019s building]. The absence of any requirement for the jurors to distinguish between the fire- and not-fire-related contamination brings the entire verdict on liability and damages into question since [Monsanto presented evidence that the chemical\u2019s dispersal in the structure was due to the fire]....\nId. at 604; see also Phillips, supra (manufacturer of lighter not liable for fire started by child playing with lighter since such use was not an intended use of the lighter, even if it was a foreseeable use).\nIn the present case, the trial court erred in concluding that Mr. Smith was not using the ATV as intended. An ATV is an off-road vehicle and its intended utilization is to be driven in an off-road setting. The ATV at issue herein clearly was being used for that purpose at the time of this accident. Mr. Smith was operating the ATV on a trail in a wooded area when the accident occurred. This case bears no resemblance to either Pennsylvania Department of General Services or Phillips. Building materials are intended to be installed in structures and not to be incinerated. Similarly, lighters are manufactured so that adults may ignite cigarettes, candles or fires; they are not designed to be utilized by children as a toy or plaything. However, ATVs are designed to be driven in an off-road setting, and Mr. Smith was utilizing the ATV in that capacity when the accident occurred. Hence, the trial court misapplied the doctrine examined in Pennsylvania Department of General Services and Phillips.\nIn the present case, the trial court conflated the doctrine of unintended use with the concept of misuse. Yamaha\u2019s defense was that Mr. Smith was not using the ATV in accordance with the instructions that he received with that vehicle. Those instructions provided that the ATV should not be used under the influence of drugs or alcohol and that the ATV should not be backed down a hill. Mr. Smith had taken OxyContin for pain associated with a pre-existing back injury in accordance with his prescription for that drug. In addition, he had imbibed a small amount of beer. Finally, he was backing his ATV down a hill in first gear in order to avoid striking other ATV users who were over the hill and out of his sightline. These actions relate to the defense of misuse of the product in that the ATV was not being used in accordance with the manufacturer\u2019s instructions. It is well-settled that a plaintiffs misuse of a product cannot be grounds for granting summary judgment in favor of the manufacturer under a design defect theory unless it is established that the misuse solely caused the accident while the design defect did not contribute to it. See, e.g., Clark v. Bil-Jax, Inc., 763 A.2d 920 (Pa.Super.2000).\nHerein, Appellants presented Mr. Smith\u2019s testimony that his use of the ATV was unaffected by his ingestion of prescription medication and one beer. Furthermore, the reports of Appellants\u2019 expert witnesses established that the cause of the accident was related to the fender design and its failure to provide adequate feet and leg protection for riders. This conclusion was articulated in Dr. Wright\u2019s report, as discussed above, and further supported by the report of Dennis A. Toaspern, which was not stricken by the trial court. Mr. Toaspern opined in relevant part:\nWhen Jeffrey Smith\u2019s right foot slipped off the peg, it was thrust to the rear, where it came in contact with the rotating wheel. At this point, the fender flexed and allowed Smith\u2019s lower leg to be drawn up and into the confined space above the wheel and below the lower surface of the fender. The fender flexed excessively, that is, the fender was allowed to fold approximately 180 degrees because the attaching screw head for the fender was pulled through the clearance hole in the fender, allowing both the fender and Smith\u2019s leg to be trapped.\nIt is my opinion, to a reasonable degree of accident reconstruction certainty that the cause of Mr. Smith\u2019s injuries was the failure of the fender attaching system which allowed his leg to be drawn into and trapped in the confined space above the tire and below the fender was the failure of the mounting screw to secure the fender. When the fender was allowed to bend backward, Smith\u2019s leg, instead of being held away from the tire was drawn in, entrapping it.\nAdditionally, it is my opinion that Mr. Smith\u2019s actions were proper; given the circumstances and that he was not negligent in his operation of the ATV.\nExpert Report of Dennis A. Toaspern, 10/15/07, at 5-6; Reproduced Record at 424a-25a. Thus, it is clear that Appellants adduced the necessary evidence to overcome Yamaha\u2019s summary judgment request as to the product liability claims based upon misuse of the product in question.\nFinally, we address the trial court\u2019s conclusion that summary judgment was appropriate as to the negligence and negligent design causes of action. This ruling was predicated on the fact that Appellants\u2019 expert witnesses failed to delineate: (1) the availability of an alternative fender system that would have prevented the accident in question; and (2) that Yamaha knew or should have known that its design was defective.\nAppellants posited that Yamaha knew or should have known that its fender and component parts were defectively designed because: (1) the ATV had no foot and leg protection; (2) the design did not provide appropriate occupant protection; and (3) other contemporaneous designs contained in other ATVs possessed two variations that would have prevented the failure of the fender attachment system present in this case. Mr. Toaspern\u2019s report reads as follows in support of the averred facts:\nOther contemporaneous designs use a similar fastening scheme, but all provide for the bracket to extend much farther from the frame than the Yamaha design. Also, other designs use much larger screw heads, large \u201cfender\u201d style washers or \u201ctop-hat\u201d standoff washers with a large head to prevent pull-through of the mounting screw head. Either of these two variations could have prevented the displacement and folding of the fender and the subsequent injury to Mr. Smith.\nExpert Report of Dennis A. Toaspern, 10/15/07, at 5-6; Reproduced Record at 424a-25a. An improperly stricken portion of Dr. Wright\u2019s report further confirmed, \u201cThe state of the art at the time of design and manufacture of this [subject ATV] was such that appropriate foot and leg protection for ATVs was known and available.\u201d Expert Report of Dr. Robert Wright, 5/27/07, at 6; R.R. at 417a.\nThe trial court acknowledged Mr. Toas-pern\u2019s statement that other manufacturers\u2019 designs contained systems that would have prevented the accident. The trial court concluded Mr. Toaspern\u2019s proffer was insufficient because there was no specifics \u201cas to which models have the alternative designs, which companies manufactured said models, and when.\u201d Trial Court Opinion, 7/21/08, at 8. It rejected the report of Mr. Toaspern on the basis that Appellants\u2019 \u201cpresented no evidence that the designs referred to by Toaspern actually exist.\u201d Id. (emphasis in original). The court continued, \u201cWithout such evidence, it is impossible to conclude that said designs should have or did put [Yamaha] on notice, rendering their decision to manufacture and sell the subject ATV unreasonable.\u201d Id.\nThe trial court employed an incorrect standard of reviewing Appellants\u2019 evidence for purposes of grant of summary judgment. As noted, for purposes of summary judgment, Mr. Toaspern\u2019s statements must be accepted as true, i. e., other manufacturers, regardless of whether or not they are named, did have in place a safe fender design that would have prevented a fender collapse. Furthermore, Dr. Wright opined that the state of art in place when the ATV herein was manufactured provided for adequate foot and leg protection for ATV users. The availability of these designs was sufficient to raise a material fact as to whether Yamaha knew or should have known of safer alternatives that would have prevented this accident. Summary judgment was therefore inappropriate as to the negligence causes of action.\nOrder reversed. Case remanded. Jurisdiction relinquished.\n. At his deposition, Mr. Smith explained that his helmet did not cover his face. See Deposition of Jeffrey Smith, 3/12/02, at 102. It did have a plastic shield that was designed to prevent dust particles and insects from striking the user\u2019s face, but Mr. Smith was not utilizing the shield at the time of the accident because the area where he was riding was not dusty. Id. at 156-157. As a result, Mr. Smith's face was unprotected when the ATV flipped over and the vehicle's handlebars struck him in the head.\n. We do not agree with Yamaha\u2019s contention that Appellants waived their averment in this regard. Appellants clearly argued that the report should not be stricken based upon the discovery violation raised by Yamaha as well as that the report did not raise a new cause of action after the applicable statute of limitations.",
+        "type": "majority",
+        "author": "BOWES, J.:"
+      }
+    ],
+    "attorneys": [
+      "David K. Houck, Pittsburgh, for appellants.",
+      "Louis C. Long, Pittsburgh, for Yamaha Motor Corp., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey SMITH and Susan Smith, his Wife, Appellants v. YAMAHA MOTOR CORPORATION, U.S.A., a California Corporation, Yamaha International Corporation, a California Corporation, and Yamaha Motor Manufacturing Corporation of America, a Georgia Corporation, Appellees.\nSuperior Court of Pennsylvania.\nArgued Aug. 25, 2009.\nFiled Aug. 18, 2010.\nDavid K. Houck, Pittsburgh, for appellants.\nLouis C. Long, Pittsburgh, for Yamaha Motor Corp., appellee.\nBEFORE: BENDER, BOWES and CLELAND , JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0314-01",
+  "first_page_order": 344,
+  "last_page_order": 353
+}

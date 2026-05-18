@@ -1,0 +1,196 @@
+{
+  "id": 7285892,
+  "name": "Deon BLACK, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Black v. State",
+  "decision_date": "2010-07-06",
+  "docket_number": "No. 214, 2009",
+  "first_page": "218",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "743 A.2d 1166",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11495119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/743/1166-01"
+      ]
+    },
+    {
+      "cite": "516 A.2d 455",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7924651
+      ],
+      "pin_cites": [
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/516/0455-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed. 654",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1954,
+      "pin_cites": [
+        {
+          "parenthetical": "Burden shifts to \"the Government to establish ... that such contact with the juror was harmless to the defendant.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 U.S. 227",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300100
+      ],
+      "weight": 2,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "229",
+          "parenthetical": "Burden shifts to \"the Government to establish ... that such contact with the juror was harmless to the defendant.\""
+        },
+        {
+          "parenthetical": "Burden shifts to \"the Government to establish ... that such contact with the juror was harmless to the defendant.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0227-01"
+      ]
+    },
+    {
+      "cite": "953 A.2d 261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8180093
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/953/0261-01"
+      ]
+    },
+    {
+      "cite": "526 A.2d 886",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7923805
+      ],
+      "pin_cites": [
+        {
+          "page": "894"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/526/0886-01"
+      ]
+    },
+    {
+      "cite": "417 A.2d 948",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7973864
+      ],
+      "pin_cites": [
+        {
+          "page": "951-952"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/417/0948-01"
+      ]
+    },
+    {
+      "cite": "778 A.2d 1044",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9497600
+      ],
+      "pin_cites": [
+        {
+          "page": "1051-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/778/1044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 581,
+    "char_count": 10927,
+    "ocr_confidence": 0.66,
+    "pagerank": {
+      "raw": 4.565170110192638e-08,
+      "percentile": 0.28635588406891677
+    },
+    "sha256": "f35142f3711b11d3614efcac13969d0e8c734f88f4ae791782a1a570fd59e930",
+    "simhash": "1:8f0102a6b7ee90b6",
+    "word_count": 1790
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, BERGER and RIDGELY, Justices."
+    ],
+    "parties": [
+      "Deon BLACK, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "BERGER, Justice:\nIn this criminal appeal, we consider the extent to which the trial court must investigate allegations of juror misconduct. After the jury had returned its verdict, one of the jurors in this case informed the Superior Court that another juror had discussed facts bearing on appellant\u2019s guilt with a member of the juror\u2019s family. The court interviewed three jurors, and confirmed that one juror discussed certain relevant facts with his son. In addition, the court learned that the tainted juror discussed his son\u2019s information with other jurors. But the trial court did not interview any other jurors to determine whether they were given any substantive information, and, if so, whether they considered it in reaching their verdict. As a result, because of the insufficiency of the record, we must conclude that appellant was denied his right to be tried by an impartial jury. Accordingly, we reverse.\nFACTUAL AND PROCEDURAL BACKGROUND\nDeon Black was indicted for possession with intent to deliver cocaine and possession of a controlled substance within 300 feet of a park. At trial, police officers testified that they observed Black engage in a \u201chand-to-hand\u201d transaction with another man in an orange sweatshirt. They did not see what, if anything, was exchanged, but they did see Black kneel down near the base of a tree both before and after the transaction with the other man. Black was arrested a few minutes later, and the police recovered a plastic bag containing 44 smaller plastic bags of crack cocaine near the tree. They also found $625 in Black\u2019s possession. The jury began deliberations at the end of the first day of trial. The next day, after more deliberations, the jury returned a verdict of guilty on both charges.\nAfter the trial ended, a juror (Juror # 1) told a bailiff that another juror (Juror # 2) had discussed the case with a roommate over the phone. The trial court questioned both jurors in the presence of the State and defense counsel. Juror # 1 knew nothing more than what she told the bailiff. Juror #2 testified that she only told her roommate about her participation in a criminal trial, without discussing anything about the case. She also confirmed that the discussion with her roommate did not influence her decision at all.\nJuror #2 did raise another problem, however. She testified that, on the second day of deliberations, a third juror (Juror # 3) told the rest of the jury that he spoke with his spouse about the case the night before, because he was unsure of what to do. Juror # 2 also testified that Juror # 3 may have discussed the information he learned with a few jurors when the jury split up into smaller groups during their deliberations.\nIt took some time to identify Juror # 3, and to get him to appear in court. Approximately three months after the trial, the court interviewed Juror # 3. At first, he denied having discussed the case with anyone outside of the jury room. On further questioning, he admitted that he asked his son (a recovering drug addict) about drugs and drug dealers. The juror explained that he was not sure whether Black possessed the drugs for his personal use or for sale, so he asked his son about drug quantities. Juror # 3 said that his son \u201cdidn\u2019t help me much,\u201d but that he \u201cdid tell me pretty much what the ... narcotic agent says. It\u2019s usually in a bunch of different baggies. If they have that many different baggies, they\u2019re intending to sell it.\u201d\nThe juror testified that his son\u2019s information did not affect his decision. He explained that, after the first day of deliberations, \u201cthere was two or three of us that-were holding it up, but after we had talked and deliberated, pretty much made it, you know convinced us.\u201d Although he said that his son\u2019s information did not affect him, Juror # 3 did \u201cmention\u201d to the rest of the jurors that he had discussed the case with his son. He could not remember exactly what he told them, but the juror did not believe he used his son\u2019s exact words. When asked whether he disclosed, even generally, the information he learned from his son, Juror # 3 could not remember.\nThe trial court did not interview any other jurors, and denied Black\u2019s motion for a mistrial. This appeal followed.\nDISCUSSION\nBoth the Delaware and United States Constitutions guarantee defendants the right to an impartial jury. In Fbnnory v. State this Court reviewed the history of jury trials and explained:\nThe right to a fair trial before an impartial jury of one\u2019s peers is fundamental to the American criminal justice system.\nAn essential ingredient of this right is for jury verdicts to be based solely on the evidence presented at trial. The accused\u2019s rights to confrontation, cross-examination and the assistance of counsel assure the accuracy of the testimony the jurors hear and safeguard the proper admission of other evidence. These rights can be exercised effectively only if evidence is presented to the jury only in the courtroom.\nThus, the right to an impartial jury is compromised if even one juror is improperly influenced. But it is difficult to determine whether the jury is tainted, because, as a matter of common law, jurors may not impeach their own verdict. D.R.E. 606(b) codifies the common law prohibition, but also provides an exception:\n[A] juror may testify on the question whether extraneous prejudicial information was improperly brought to the jury\u2019s attention or whether any outside influence was improperly brought to bear upon any juror.\nTo succeed on a claim of improper jury influence, the defendant must either prove that he was \u201cidentifiably prejudiced\u201d by the juror misconduct or the existence of \u201c \u2018egregious circumstances,\u2019 \u2014 i.e., circumstances that, if true, would be deemed inherently prejudicial so as to raise a presumption of prejudice in favor of defendant.\u201d The presumption of prejudice can be rebutted by a post-trial investigation conducted by the trial judge.\nBlack argues that Juror # 3\u2019s conduct satisfied the \u201cegregious circumstances\u201d test. We agree. The tainted juror was unsure whether Black should be convicted of possession with intent to deliver cocaine or simple possession. He sought additional information from his son, a recovering drug addict, who arguably is an expert on this issue. Although Juror # 3 told the court that his son\u2019s information \u201cdidn\u2019t help me much,\u201d he thought it was worth mentioning to the rest of the jury when deliberations resumed the next day.\nWe do not know exactly what Juror # 3 told the other members of the jury, because Juror # 3 said he could not remember. But we know that the information he obtained from his son at least corroborated the testimony presented during the trial by the police expert. We also know that, at the end of the first day of deliberations, there were two jurors, in addition to Juror #3, who were not convinced that Black was guilty of possession with intent to deliver. They became convinced after Juror #3 made his statement to the jury. This record establishes a presumption of prejudice because the extraneous information obtained by Juror # 3 bears directly on a disputed element of the offense, and because Juror #3 told the entire jury something about that extraneous information. The question thus becomes whether that presumption has been overcome.\nThe record establishes two potential sources of prejudice. The first is the possible influence the extraneous information had on Juror #3. The trial court found that Juror #3 received \u201clittle, if any, aetual guidance\u201d from the information provided by his son. That statement, alone, indicates that Juror # 3 was tainted to some extent. But Juror # 3 said that his son\u2019s information did not affect his decision, and the trial court apparently accepted his statement. Assuming that the trial court found no impact, rather than \u201clittle, if any,\u201d that finding would rebut the presumption of prejudice as it relates to Juror # 3. There are two other jurors, however, that were undecided about the same issue that troubled Juror # 3 \u2014 whether the quantity of drugs was enough to find possession with intent to deliver cocaine. The record relating to those two jurors is extremely limited. We know that Juror # 3 told them something about what Juror # 3\u2019s son said. Whether they were influenced, or not, is unknown.\nWe appreciate the trial court\u2019s reluctance to delve into these matters. Jurors should not expect that, in addition to their sendee as jurors, they will have to be witnesses at a post-verdict hearing. The trial court has discretion to decide that allegations of juror misconduct are not sufficiently credible or specific to warrant investigation. Here, however, the trial court undertook a limited inquiry and learned that one juror had obtained extraneous information on a critical issue in the trial.\nHaving found juror misconduct, it was incumbent on the trial court to determine whether Black was prejudiced. The trial court evaluated the information it had, and determined that Black was not prejudiced. But the trial court did not have all the information. Juror #3 admitted that he told the rest of the jury about his discussion with his son. Juror # 3 was evasive, or at least forgetful, when asked exactly what he told the jurors. As a result, the trial court was required to find out whether the other jurors were prejudiced by the extraneous information provided by Juror # 3. Failing to conduct that additional investigation requires reversal because, after finding juror misconduct, there is no record that all the jurors remained impartial.\nCONCLUSION\nBased on the foregoing, Black\u2019s convictions are REVERSED and the case is remanded for a new trial.\n. Appellant\u2019s Appendix, A-50.\n. Ibid.\n. U.S. Const. Amend. 6; Del. Const. Art. 1, \u00a7 7.\n. 778 A.2d 1044, 1051-53 (Del.2001).\n. Styler v. State, 417 A.2d 948, 951-952 (Del.1980).\n. Sheeran v. State, 526 A.2d 886, 894 (Del.1987).\n. Sykes v. State, 953 A.2d 261 (Del.2008).\n. Remmer v. United States, 347 U.S. 227, 229, 74 S.Ct. 450, 98 L.Ed. 654 (1954) (Burden shifts to \"the Government to establish ... that such contact with the juror was harmless to the defendant.\u201d).\n. Lovett v. State, 516 A.2d 455, 475 (Del.1986).\n. Diaz v. State, 743 A.2d 1166 (Del.1999). (Reversal required because trial court failed to question other jurors, issue curative instruction, or take remedial action after a Spanish speaking juror gave the other jurors a translation of certain testimony that differed from the official translator's translation.).",
+        "type": "majority",
+        "author": "BERGER, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Nicole M. Walker, Esquire, Office of the Public Defender, Wilmington, Delaware, for Appellant.",
+      "James T. Wakley, Esquire, Department of Justice, Wilmington, Delaware, for Ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "Deon BLACK, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 214, 2009.\nSupreme Court of Delaware.\nSubmitted: April 28, 2010.\nDecided: July 6, 2010.\nNicole M. Walker, Esquire, Office of the Public Defender, Wilmington, Delaware, for Appellant.\nJames T. Wakley, Esquire, Department of Justice, Wilmington, Delaware, for Ap-pellee.\nBefore STEELE, Chief Justice, BERGER and RIDGELY, Justices."
+  },
+  "file_name": "0218-01",
+  "first_page_order": 252,
+  "last_page_order": 256
+}

@@ -1,0 +1,188 @@
+{
+  "id": 7283415,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Robert MAZZETTI, Appellee",
+  "name_abbreviation": "Commonwealth v. Mazzetti",
+  "decision_date": "2010-11-18",
+  "docket_number": "",
+  "first_page": "228",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "817 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9365812
+      ],
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "499"
+        },
+        {
+          "page": "499"
+        },
+        {
+          "page": "500"
+        },
+        {
+          "page": "500"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/817/0498-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8998808,
+        2471606
+      ],
+      "weight": 6,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "786"
+        },
+        {
+          "page": "787"
+        },
+        {
+          "page": "793-94",
+          "parenthetical": "stating, inter alia, that \"the ultimate disposition of outstanding criminal charges, which would require revocation if a conviction occurs, is a proper basis to adjust an existing [violation of probation] sentence-to the defendant's ultimate benefit or to his detriment.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0783-01",
+        "/pa/585/0408-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2471606
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0408-01"
+      ]
+    },
+    {
+      "cite": "967 A.2d 1001",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8162585
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1006"
+        },
+        {
+          "page": "1002-03"
+        },
+        {
+          "page": "1005-06"
+        },
+        {
+          "page": "1006"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/1001-01"
+      ]
+    },
+    {
+      "cite": "997 A.2d 1205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7290822
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1208"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/997/1205-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 549,
+    "char_count": 12611,
+    "ocr_confidence": 0.719,
+    "pagerank": {
+      "raw": 7.047900979417182e-08,
+      "percentile": 0.4250467884421061
+    },
+    "sha256": "e837978b3753bea48fdf338e0007ecae22eca4d452aead50628c671992f7d1b6",
+    "simhash": "1:9587b648a73d88ed",
+    "word_count": 1978
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MUSMANNO, LAZARUS and OLSON, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Robert MAZZETTI, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nMUSMANNO, J.:\nThe Commonwealth of Pennsylvania appeals from the Order revoking the probation of Robert Mazzetti (\u201cMazzetti\u201d), arguing that the trial court erred in denying the Commonwealth\u2019s request that it impose the mandatory minimum sentence on Mazzetti\u2019s underlying conviction. We affirm.\nIn its Opinion, the trial court set forth the relevant facts and procedural history as follows:\nOn March 2, 2009, [Mazzetti] entered a plea of guilty to the charge of Possession with the Intent to Deliver Marijuana [(\u201cPWID\u201d),] 35 P.S. \u00a7 780-113(a)(30).c] At the time of the plea[,] the Commonwealth had the chance to seek the school zone mandatory minimum sentence pursuant to 18 Pa.C.S.A. \u00a7 6317.[] The Commonwealth chose not to seek the mandatory minimum. The plea agreement reached called for [Mazzetti] to serve twelve months [of] probation.\n[Mazzetti] violated his probation on March 8, 2009, when he attempted to steal two jars of honey from a grocery store. He was cited for Retail Theft, graded as a summary [offense,] and a Motion to Revoke Probation was filed. At the revocation hearing on June 8, 2009, the Commonwealth sought to compel [the Trial] Court to sentence [Maz-zetti] to the school zone mandatory minimum of two to four years in prison. [Mazzetti] admitted to the violation, a new criminal offense, at the revocation hearing. [The Trial] Court deferred sentencing and directed the parties to submit briefs regarding whether the Commonwealth can direct the court to impose the school zone mandatory minimum sentence at re-sentencing following a probation revocation. [The Trial Court found that the] Commonwealth was not able to provide any compelling case law supporting its argument that [the Trial] Court must sentence [Maz-zetti] to the mandatory minimum. Exercising its discretion, [the Trial] Court [revoked Mazzetti\u2019s probation and] sentenced [him] to ninety days to one year in prison, as was recommended by his probation officer....\nOn July 22, 2009, the Commonwealth [timely] filed a Notice of Appeal to the Superior Court. [The trial court thereafter ordered the Commonwealth to file a concise statement of errors complained of on appeal pursuant to Pa.R.A.P. 1925(b).] On August 12, 2009, the Commonwealth filed a timely [Rule 1925(b) ] Statement....\nTrial Court Opinion, 9/29/09, at 1-2 (unnumbered, footnotes added).\nOn appeal, the Commonwealth raises the following question for our review: \u201cDid the [trial] court err in finding as a matter of law that it was not required to impose a mandatory sentence pursuant to 18 Pa.C.S.A. \u00a7 6317 at sentencing following the revocation of a defendant\u2019s probation despite the Commonwealth\u2019s request for the mandatory sentence?\u201d Brief for Appellant at 5 (capitalization omitted).\nIn considering an appeal from a sentence imposed following the revocation of probation, our review is limited to determining the validity of the probation revocation proceedings and the authority of the sentencing court to consider the same sentencing alternatives that it had at the time of the initial sentencing. Revocation of a probation sentence is a matter committed to the sound discretion of the trial court and that court\u2019s decision will not be disturbed on appeal in the absence of an error of law or an abuse of discretion.\nCommonwealth v. Williams, 997 A.2d 1205, 1208 (Pa.Super.2010) (citation omitted). Further, \u201cthe determination as to whether the trial court imposed an illegal sentence is a question of law; our standard of review in cases dealing with questions of law is plenary.\u201d Id. (citation omitted).\nThe Commonwealth asserts that, upon re-sentencing Mazzetti, the probation revocation court committed legal error in failing to impose the mandatory minimum sentence under 18 Pa.C.S.A. \u00a7 6317. See Brief for Appellant at 10-12. The Commonwealth points out that \u201c[Revocation of [] probation places [an] Appellant in the same position he was in at the time of his original sentencing.\u201d Id. at 10 (quoting Commonwealth v. Johnson, 967 A.2d 1001, 1006 (Pa.Super.2009)). According to the Commonwealth, \u201c[t]he law is also clear that where the Commonwealth requests [a sentencing] court to impose a mandatory minimum sentence]]] the court is bound to do [so].\u201d Brief for Appellant at 9. Based upon the foregoing, the Commonwealth contends that the probation revocation court in this case was obligated by law to re-sentence Mazzetti to the mandatory two-year minimum sentence under section 6317 upon the Commonwealth\u2019s request. Id. at 12. We disagree.\nIn support of it\u2019s argument, the Commonwealth relies upon two cases, Johnson, sivpra, and Commonwealth v. Infante, 585 Pa. 408, 888 A.2d 783 (2005). We find the Commonwealth\u2019s reliance upon Johnson and Infante to be misplaced. Neither case addressed whether the Commonwealth may compel a probation revocation court to impose the mandatory minimum sentence under section 6317 upon re-sentencing.\nIn Johnson, a panel of this Court addressed only the issue of whether the probation revocation court had erred in denying the defendant\u2019s motion seeking credit for time that he had served prior to re-sentencing on his probation violation. Johnson, 967 A.2d at 1002-03. The Johnson Court initially determined that, at the original sentencing proceeding on the defendant\u2019s underlying conviction, the court should have credited the defendant for time that he had served on that conviction. Id. at 1005-06. The Court held that since the revocation of the defendant\u2019s probation placed him in the same position that he was in at the time of his original sentencing, \u201cupon revocation of his probation and resentencing, the trial court was required to credit [the defendant] with all time served.\u201d Id. at 1006.\nIn Infante, the defendant/probationer violated the terms of his probation after having committed both technical violations and several new crimes. Infante, 888 A.2d at 786. The trial court thereafter revoked the defendant\u2019s probation and imposed a county jail sentence, on the basis of the technical violations alone. Id. The trial court judge also stated that, since the defendant had yet to be tried on the new criminal charges, the court would await the outcome of the trial and, if the defendant was found guilty, the court would then impose a state prison sentence on the basis of those violations. Id. at 787. After the defendant was convicted of the charges, the trial court terminated the defendant\u2019s parole, revoked his probation, and re-sentenced him to a mandatory minimum prison term of three to six years. Id. Our Supreme Court in Infante ruled that the trial court did not err in sentencing the defendant in such a manner, ie., in \u201cbifurcating\u201d sentencing as to the defendant\u2019s technical probation violations and the violations from his new convictions. Id. at 793-94 (stating, inter alia, that \u201cthe ultimate disposition of outstanding criminal charges, which would require revocation if a conviction occurs, is a proper basis to adjust an existing [violation of probation] sentence\u2014to the defendant\u2019s ultimate benefit or to his detriment.\u201d).\nOur review reveals no case law that is directly on point to the case at bar. However, this Court\u2019s decision in Commonwealth v. Kunkle, 817 A.2d 498 (Pa.Super.2003), is closely analogous to the instant case. In Kunkle, the defendant entered a guilty plea to delivery of a controlled substance. Id. at 499. Prior to sentencing, the Commonwealth provided notice of its intention to seek the two-year mandatory minimum sentence under 18 Pa.C.S.A. \u00a7 6317. Kunkle, 817 A.2d at 499. The trial court imposed the mandatory minimum sentence even though the Commonwealth had failed to present any evidence that section 6317 applied. Id. In response to the defendant\u2019s motion for modification of sentence challenging the imposition of the mandatory minimum, the trial court vacated the sentence and re-sentenced the defendant to a term of probation. Id. The Commonwealth then filed a motion to modify sentence, and proffered factual evidence in support of its contention that the mandatory minimum sentence should have been applied upon re-sentencing. Id. The trial court denied the Commonwealth\u2019s motion, and the Commonwealth appealed. Id. The Commonwealth conceded on appeal that it did not meet its burden of proving the requirements of section 6317 at the original sentencing hearing. Id. The Commonwealth also acknowledged that section 6317 requires the Commonwealth to factually support its request for the application of the mandatory minimum at sentencing. Id. at 500. The Commonwealth, argued, however, that section 6317 does not contain any language indicating \u201cat sentencing\u201d to mean at the original sentencing. Id.\nThe Kunkle Court addressed the Commonwealth\u2019s claims as follows:\nSection 6317(b) of the Crimes Code states that \u201c[t]he applicability of this section shall be determined at sentencing. The court shall consider evidence presented at trial, shall afford the Commonwealth and the defendant an opportunity to present necessary additional evidence and shall determine by a preponderance of the evidence if this section is applicable.\u201d 18 Pa.C.S.A. \u00a7 6317(b) (emphasis added). If the Commonwealth disputes the trial court\u2019s refusal to apply the mandatory minimum, section 6317[ (d) ] provides a statutory right of appeal; however, section 6317 does not contemplate a second sentencing hearing where the Commonwealth failed to meet its burden at the first sentencing hearing. See 18 Pa. C.S.A. \u00a7 6317.\nKunkle, 817 A.2d at 500. Based upon the foregoing, the Kunkle Court held that, \u201cunder section 6317, the Commonwealth must present its evidence supporting a mandatory sentence enhancement at the original sentencing hearingU\u201d and \u201cwhere ... the Commonwealth fails to meet that burden, the sentencing court shall not apply the sentence enhancement....\u201d Id. (emphasis added).\nIn the instant case, the Commonwealth concedes that, following Mazzetti\u2019s plea of guilty to PWID, it \u201crecommended a sentence of twelve months [of] probation and agreed to waive the school zone mandatory pursuant to 18 Pa.C.S.A. \u00a7 6317.\u201d Brief for Appellant at 6 (emphasis added). At no point prior to Mazzetti\u2019s original sentencing did the Commonwealth provide notice of its intention to seek application of the mandatory minimum sentence under section 6317, nor did it present any evidence on this point. Accordingly, the Commonwealth is precluded from seeking application of the mandatory minimum sentence upon re-sentencing. See Kunkle, supra. In light of the Commonwealth\u2019s waiver, the undisputed fact that the revocation of Mazzetti\u2019s probation placed him in the same position that he was in at the time of his original sentencing does not alter the result.\nWe discern no error of law or abuse of discretion by the probation revocation court in declining to re-sentence Mazzetti to the mandatory minimum sentence under section 6317. Accordingly, the Commonwealth\u2019s sole claim on appeal fails.\nOrder affirmed.\n. This charge arose out of an incident that occurred at Mazzetti\u2019s residence in July 2008. Mazzetti, a student at Penn State University in State College, lived in an off-campus apartment at the time. On July 23, 2008, two men broke into Mazzetti's apartment, stealing marijuana and various other items. Following an investigation into the burglary, the police arrested Mazzetti and charged him with PWID, among other offenses. Pursuant to a plea agreement, Mazzetti pled guilty to PWID, and the Commonwealth nolle prossed the remaining charges.\n. Section 6317 provides, in relevant part, as follows:\n(a) General rule.\u2014A person 18 years of age or older who is convicted ... of a violation of section 13(a)(14) or (30) of ... The Controlled Substance, Drug, Device and Cosmetic Act, shall, if the delivery or possession with intent to deliver of the controlled substance occurred within 1,000 feet of the real property on which is located a public, private or parochial school or a college or university ..., be sentenced to a minimum sentence of at least two years of total confinement....\n18 Pa.C.S.A. \u00a7 6317(a). Although the record is unclear, it appears that the Commonwealth believed that Mazzetti\u2019s apartment was located widiin 1,000 feet of real property owned by Penn State University. See N.T., 6/8/09, at 3-4.",
+        "type": "majority",
+        "author": "MUSMANNO, J.:"
+      }
+    ],
+    "attorneys": [
+      "Nathan Boob, Assistant District Attorney, Bellefonte, for Commonwealth, appellant.",
+      "Matthew M. McClenahen, State College, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant v. Robert MAZZETTI, Appellee.\nSuperior Court of Pennsylvania.\nArgued June 8, 2010.\nFiled Nov. 18, 2010.\nNathan Boob, Assistant District Attorney, Bellefonte, for Commonwealth, appellant.\nMatthew M. McClenahen, State College, for appellee.\nBEFORE: MUSMANNO, LAZARUS and OLSON, JJ."
+  },
+  "file_name": "0228-01",
+  "first_page_order": 250,
+  "last_page_order": 254
+}

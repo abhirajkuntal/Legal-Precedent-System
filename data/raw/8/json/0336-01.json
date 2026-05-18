@@ -1,0 +1,63 @@
+{
+  "id": 7284667,
+  "name": "Nanya Rashiyd ZODOQ, El, Sui Juris, Priority Claimant/Injured Party v. COMMONWEALTH of Pennsylvania, PHILADELPHIA COUNTY COURT OF COMMON PLEAS, v. Nanya Rashiyd Zodoq El, Ens Legis Defendant, Corporate Fiction. Petition of Nanya Rashiyd Zodoq El",
+  "name_abbreviation": "Zodoq v. Commonwealth, Philadelphia County Court of Common Pleas",
+  "decision_date": "2010-11-18",
+  "docket_number": "No. 104 EM 2010",
+  "first_page": "336",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 336"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 551,
+    "ocr_confidence": 0.678,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661825920042874
+    },
+    "sha256": "f614b082fcccc03eb3a6b69aec984f66ef5a0badc371a49fc03a7bab19bf852b",
+    "simhash": "1:d4fe79a6c3a1b9bf",
+    "word_count": 87
+  },
+  "last_updated": "2023-07-14T20:07:44.165067+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nanya Rashiyd ZODOQ, El, Sui Juris, Priority Claimant/Injured Party v. COMMONWEALTH of Pennsylvania, PHILADELPHIA COUNTY COURT OF COMMON PLEAS, v. Nanya Rashiyd Zodoq El, Ens Legis Defendant, Corporate Fiction. Petition of Nanya Rashiyd Zodoq El."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of November, 2010, the Application for Leave to File Original Process is GRANTED, and the \u201cOmnibus Petition for a Writ of Habeas Corpus Ad Subjiciendum and a Writ for Extraordinary Relief\u2019 is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Nanya Rashiyd ZODOQ, El, Sui Juris, Priority Claimant/Injured Party v. COMMONWEALTH of Pennsylvania, PHILADELPHIA COUNTY COURT OF COMMON PLEAS, v. Nanya Rashiyd Zodoq El, Ens Legis Defendant, Corporate Fiction. Petition of Nanya Rashiyd Zodoq El.\nNo. 104 EM 2010.\nSupreme Court of Pennsylvania.\nNov. 18, 2010."
+  },
+  "file_name": "0336-01",
+  "first_page_order": 370,
+  "last_page_order": 370
+}

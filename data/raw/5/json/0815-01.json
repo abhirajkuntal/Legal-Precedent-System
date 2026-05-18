@@ -1,0 +1,87 @@
+{
+  "id": 7289505,
+  "name": "Lawrence J. BARNETT, Christine Cookenback, James M. Defeo and Madlin Laurent, Respondents v. SKF USA, INC., Petitioner",
+  "name_abbreviation": "Barnett v. SKF USA, Inc.",
+  "decision_date": "2010-09-30",
+  "docket_number": "",
+  "first_page": "815",
+  "last_page": "815",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 815"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "465 F.3d 566",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3260592
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/465/0566-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 1132",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 139,
+    "char_count": 1398,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18830460772037289
+    },
+    "sha256": "7b6191e2faa875a6b97e9fd8b13e323bd5b81824927a8ccaa5ed35eda7e32436",
+    "simhash": "1:953be3235b4d6e37",
+    "word_count": 216
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lawrence J. BARNETT, Christine Cookenback, James M. Defeo and Madlin Laurent, Respondents v. SKF USA, INC., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of September, 2010, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by Petitioner, is:\nWhether the Superior Court panel majority erred as a matter of law in deciding that Respondents\u2019 common law breach of contract claim for enhanced pension benefits was not preempted by the Employee Retirement Income Security Act (\u201cERISA\u201d), 29 U.S.C. \u00a7\u00a7 1132(a), 1144(a), where the Superior Court:\n(1) grossly mischaracterized Respondents\u2019 breach of contract claim \u201cfor lost pension benefits\u201d in finding that it had only an \u201cincidental\u201d relationship to Petitioner SKF\u2019s ERISA pension plan;\n(2) adopted a new standard for ERISA preemption that directly conflicts with controlling U.S. Supreme Court jurisprudence and the Third Circuit\u2019s recent decision in Hooven v. Exxon Mobil Corp., 465 F.3d 566 (3d Cir.2006), in which the Third Circuit held that common law claims, whether styled as seeking \u201cseverance benefits\u201d or \u201cearly pension vesting rights,\u201d are preempted by ERISA if they require payment of benefits contrary to the terms of the applicable pension plan; and\n(3) rendered a decision that materially interferes with the administration of ERISA benefits plans in Pennsylvania?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lawrence J. BARNETT, Christine Cookenback, James M. Defeo and Madlin Laurent, Respondents v. SKF USA, INC., Petitioner.\nSupreme Court of Pennsylvania.\nSept. 30, 2010."
+  },
+  "file_name": "0815-01",
+  "first_page_order": 837,
+  "last_page_order": 837
+}

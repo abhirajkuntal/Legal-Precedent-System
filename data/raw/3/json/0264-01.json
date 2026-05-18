@@ -1,0 +1,117 @@
+{
+  "id": 7286419,
+  "name": "W. Denver GARRISON, Jr., Petitioner Below, Appellant, v. RED CLAY CONSOLIDATED SCHOOL DISTRICT, Respondent Below, Appellee",
+  "name_abbreviation": "Garrison v. Red Clay Consolidated School District",
+  "decision_date": "2010-08-23",
+  "docket_number": "No. 495, 2009",
+  "first_page": "264",
+  "last_page": "269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 264"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "2009 WL 2366000",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "659 A.2d 215",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868377
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/659/0215-01"
+      ]
+    },
+    {
+      "cite": "636 A.2d 892",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371345
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "900",
+          "parenthetical": "Citations omitted."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/636/0892-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 581,
+    "char_count": 13282,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18827699993320074
+    },
+    "sha256": "44f86ad3fa3f624c0c37a74645ffdfa00d3911f8970a8be14b1a7cc95430650e",
+    "simhash": "1:baadb4928e51c72b",
+    "word_count": 2120
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+    ],
+    "parties": [
+      "W. Denver GARRISON, Jr., Petitioner Below, Appellant, v. RED CLAY CONSOLIDATED SCHOOL DISTRICT, Respondent Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "BERGER, Justice:\nThis is an appeal by a public school teacher who claims that he was wrongfully terminated for failing to complete a required mentoring program. Appellant participated in the mentoring program during his first two years, but did not attend all the mentoring sessions during his third year. At issue is whether that third year of mentoring was required, given Appellant\u2019s prior teaching experience in another state. The school district interprets the relevant regulation to mean that any teacher with less than three years of experience is a \u201cnew teacher,\u201d subject to the three year mentoring program. The school district\u2019s interpretation, however, cannot be reconciled with another regulation governing mentoring. The only way to harmonize the regulations is to read them to mean that a teacher in the position of Appellant is an \u201cexperienced teacher,\u201d subject to 60 hours of mentoring. Accordingly, we reverse.\nFACTUAL AND PROCEDURAL BACKGROUND\nIn August 2004, W. Denver Garrison, Jr. was hired as a drama teacher at the Cab Calloway High School in the Red Clay School District. Garrison had taught in the Ohio public school system from 1983-85, and his Ohio teaching license was still valid when he applied for the position at Cab Calloway. Between 1985 and 1993, Garrison taught at two universities for a total of two years. During that time, when he was not teaching, Garrison devoted his efforts to acting and directing. From 1993 to 2004, Garrison earned most of his income working in information technology.\nThe Delaware Department of Education (DDOE) issued Garrison an initial license, as a teacher of music, effective from August 23, 2004 \u2014 August 31, 2007. When he started work, Julianne Tankersley, the Red Clay Mentoring Coordinator, told Garrison that he would have to complete the three year mentoring program for new teachers. She was aware of Garrison\u2019s prior experience, but decided that he should be treated as a new teacher because he had not taught for nearly 20 years. Garrison objected, arguing that he should have been placed in the 60 hour mentoring program designed for experienced teachers new to the State.\nGarrison completed the first two years of the mentoring program. He had difficulty attending some of the scheduled meetings, however, because they conflicted with rehearsals for school drama productions. Red Clay was flexible during the first two years, and allowed Garrison to make-up missed sessions. Garrison did not complete the third year of the mentoring program. Red Clay had less flexibility that year, and Garrison chose not to have others cover for him at rehearsals in order to attend the mentoring sessions. In the spring of 2007, the principal at Cab Callo-way recommended to Red Clay that Garrison\u2019s contract not be renewed, for failure to complete the mentoring program. On April 19, 2007, Red Clay sent Garrison a termination letter.\nGarrison requested and was granted a post-termination hearing, after which Superintendent Robert Andrzejewski upheld the decision. Garrison filed suit on December 4, 2007. The Court of Chancery granted Red Clay\u2019s motion for summary judgment, holding that Garrison was required to complete the three year mentoring program, and that he was properly terminated for failing to do so. This appeal followed.\nDISCUSSION\nThe parties agree that Garrison\u2019s initial license expired in August 2007, and that, without a valid license, he could not continue to teach. It is also undisputed that Garrison did not complete the three year mentoring program required of new teachers. The only question is whether Garrison was properly classified as a new teacher for purposes of the mentoring requirement. To answer that question, the Court must construe DDOE\u2019s mentoring regulations.\nThe Court\u2019s goal, in construing statutes and regulations, is to ascertain and give effect to the intent of the legislative body. If the regulation is ambiguous, settled rules of statutory construction guide the Court:\n[E]ach part or section [of the regulation] should be read in light of every other part or section to produce an harmonious whole. Undefined words ... must be given their ordinary, common meaning. Additionally, words in a [regulation] should not be construed as surplus-age if there is a reasonable construction which will give them meaning, and courts must ascribe a purpose to the use of [regulatory] language, if reasonably possible.\nCourts generally will defer to an administrative body\u2019s interpretation of its own rules unless that interpretation is clearly erroneous. The parties tacitly agree, and the Court finds, that the regulation in question is ambiguous. Thus, the Court must interpret the regulation using the rules summarized above.\nBy statute, there are three tiers of teaching licenses \u2014 initial, continuing, and advanced. An initial license is valid for 3 years and cannot be renewed. It is issued to new teachers and it may be issued to teachers who taught in another jurisdiction for less than 3 years. A teacher holding an initial license, who intends to apply for a continuing license, must \u201ccomplete professional development and mentoring activities as may be required by rules and regulations....\u201d\nA continuing license is valid for 5 years and is renewable. It is issued to teachers holding an initial license who: 1) complete the mentoring requirements, and 2) receive no more than one unsatisfactory evaluation. A continuing license also may be issued to a teacher with 3 or more years of successful teaching experience in another jurisdiction. An advanced license is valid for 10 years, and is issued to teachers who receive National Board for Professional Teaching Standards certification.\nThe State Board of Education adopted regulations governing, among other things, mentoring requirements for educators. The regulations identify three types of educators: 1) those who are new to the profession; 2) those who are experienced, but new to Delaware; and 3) those who are experienced, but new to the employing authority. Educators who hold an initial license and are new to the profession must complete the three year, New Educator Mentoring Program. Experienced teachers who are new to Delaware, and hold an initial license, must participate in 60 hours of the New Educator Mentoring Program. Experienced teachers who are new to Delaware, and hold a continuing or advanced license, must participate in a one year \u201cDepartment sponsored mentoring program ....\u201d Finally, experienced teachers who move to a different employing authority, and hold a continuing or advanced license, must complete \u201can employing authority sponsored mentoring program ....\u201d\nThe regulations define a \u201cnew educator\u201d as someone who holds an initial license, and an \u201cexperienced educator\u201d as someone who holds a continuing or advanced license. But there is no definition of \u201cexperienced teacher,\u201d which is the term that controls this matter. Red Clay defines \u201cexperienced teacher\u201d to mean one who has taught for at least three years. It relies on affidavits from Mary Ellen Kotz, the Education Associate for Professional Accountability/Mentoring Induction and Certification for DDOE, in support of that definition.\nKotz drafted a document titled, \u201cRegulatory Guidance for New Teacher to the Profession,\u201d which explains the mentoring requirements and is provided to all new teachers. That document says that a teacher with less than three years\u2019 experience is \u201cnew to the profession\u201d and must complete the three year mentoring program. According to Kotz, there is only one New Educator Mentoring Program and it is required for all teachers holding an initial license, regardless of their prior experience. For those, like Garrison, with less than three years\u2019 prior experience, Kotz says that the site coordinator has discretion to start the teacher at a later part of the mentoring program.\nThe trial court deferred to Red Clay\u2019s interpretation of the mentoring regulations, finding that to be a reasonable \u201cway out of this interpretive morass.\u201d But the trial court made no effort to determine whether Red Clay\u2019s interpretation could be applied consistently and still make sense. According to Red Clay, a teacher \u201cnew to the profession\u201d is anyone with less than 3 years of teaching experience. Thus, under 14 Del. Admin. C. \u00a7 1503-3.1, a teacher who holds an initial license and has less than 3 years of experience, would be required to comply with the full New Educator Mentoring Program. This interpretation works fine when applied to a teacher who is not new to Delaware. Such a teacher would have been \u201cnew to the profession\u201d at the outset, and would have been required to take the full mentoring program. Classifying that teacher as \u201cnew to the profession\u201d during the second and third year of teaching does no violence to the overall regulatory scheme.\nRed Clay\u2019s interpretation breaks down, however, when applied to the second category of teacher \u2014 one who is new to the State, but not, literally, new to the profession. Under 14 Del. Admin. C. \u00a7 1503-4, experienced teachers who are new to the State must participate in different levels of mentoring depending on their level of experience. Those who hold an initial license must take 60 hours of the New Educator Mentoring Program, and those who hold continuing or advanced licenses must take a different, one year, mentoring program. If one must have taught for at least three years to be an \u201cexperienced teacher,\u201d no one would qualify for the 60 hours of mentoring required for \u201cexperienced teachers new to the State of Delaware who hold Initial Licenses.... \u201d That is because anyone new to the State who has three or more years of teaching experience would have a continuing license, not an initial license.\nRed Clay says that a teacher from another state who taught for three or more years but did not teach \u201csuccessfully\u201d would not be issued a continuing license. Instead, such a teacher would have an initial license and satisfy Red Clay\u2019s definition of \u201cexperienced teacher.\u201d This explanation is strained, at best. If a teacher does not have three years of \u201csuccessful\u201d teaching experience for purposes of obtaining a continuing license, it would make no sense for Red Clay to credit that teacher with three years of experience for purposes of reducing the mentoring requirement.\nRed Clay effectively rewrote 14 Del. Admin. C. \u00a7 1503-4.4 by changing a mandatory provision into one that is discretionary. From Red Clay\u2019s perspective, the \u201cdefault\u201d rule is that everyone holding an initial license must take the full New Educator Mentoring Program. A teacher with experience in another jurisdiction may be allowed to forego one or more of the four cycles that constitute the entire program, at the discretion of the site coordinator. This approach is not unreasonable, but it is not in the regulations. Under 14 Del. Admin. C. \u00a7 1503-4.4, experienced teachers holding initial licenses \u201cshall\u201d complete the mentoring program, which \u201cshall\u201d consist of no more than 60 hours. Deference to an administrative agency\u2019s interpretation of its regulations cannot go so far as to authorize a regulation other than the one that was duly adopted.\nIn sum, we conclude that Red Clay\u2019s interpretation of its regulation is clearly erroneous. It appears that there are, or were, other issues that were not addressed by the trial court, because its holding that Garrison failed to complete the mandatory mentoring program rendered the other issues moot. This Court\u2019s decision, likewise, is limited to the one issue presented on appeal.\nCONCLUSION\nBased on the foregoing, the judgment of the Court of Chancery is reversed and this matter is remanded for further action in accordance with this opinion. Jurisdiction is not retained.\n. Oceanport Industries, Inc. v. Wilmington Stevedores, Inc., 636 A.2d 892, 900 (Del. 1994) (Citations omitted.).\n. State Farm Mut. Auto. Ins. Co. v. Mundorf, 659 A.2d 215, 220 (Del. 1995).\n. 14 Del. C. \u00a7 1210-1213.\n. 14 Del. C. \u00a7 1210(e). Although not relevant to this appeal, we note that there are circumstances under which an initial license may be extended for one year.\n. 14 Del. C. \u00a7 1210(b).\n. 14 Del. C. \u00a7 1211-1212.\n. 14 Del. C. \u00a7 1213.\n. 14 Del. Admin. C. \u00a7 1503-3.1.\n. 14 Del. Admin. C. \u00a7 1503-4.4.\n. 14 Del. Admin. C. \u00a7 1503-4.2.\n. 14 Del. Admin. C. \u00a7 1503-5.1.\n. 14 Del. Admin. C. % 1503-2.\n. Garrison v. Red Clay Cons. School Dist., 2009 WL 2366000 at *4 (Del. Ch.).\n. 14 Del. Admin. C. \u00a7 1511-3.0 (\u201cThe Department shall issue a continuing license to an applicant licensed as an educator in another jurisdiction who provides evidence of having completed three (3) or more years of successful teaching experience....\u201d).",
+        "type": "majority",
+        "author": "BERGER, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Timothy J. Wilson, Esquire (argued), The Wilson Firm, LLC, Newark, Delaware, for Appellant.",
+      "Barry M. Willoughby, Esquire (argued), Adria B. Martinelli, Esquire and Lauren Hudeeki, Esquire, Young Conaway Star-gatt & Taylor, LLP, Wilmington, Delaware, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. Denver GARRISON, Jr., Petitioner Below, Appellant, v. RED CLAY CONSOLIDATED SCHOOL DISTRICT, Respondent Below, Appellee.\nNo. 495, 2009.\nSupreme Court of Delaware.\nSubmitted: July 21, 2010.\nDecided: Aug. 23, 2010.\nTimothy J. Wilson, Esquire (argued), The Wilson Firm, LLC, Newark, Delaware, for Appellant.\nBarry M. Willoughby, Esquire (argued), Adria B. Martinelli, Esquire and Lauren Hudeeki, Esquire, Young Conaway Star-gatt & Taylor, LLP, Wilmington, Delaware, for Appellee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+  },
+  "file_name": "0264-01",
+  "first_page_order": 298,
+  "last_page_order": 303
+}

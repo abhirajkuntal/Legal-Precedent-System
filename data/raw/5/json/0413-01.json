@@ -1,0 +1,348 @@
+{
+  "id": 7286175,
+  "name": "Mark W. AMBROSE and Ronald A. Kramer, Appellees v. CITIZENS NATIONAL BANK OF EVANS CITY, Pennsylvania, Appellant",
+  "name_abbreviation": "Ambrose v. Citizens National Bank of Evans City",
+  "decision_date": "2010-09-17",
+  "docket_number": "",
+  "first_page": "413",
+  "last_page": "425",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "798 F.2d 661",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1610138
+      ],
+      "pin_cites": [
+        {
+          "page": "668-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/798/0661-01"
+      ]
+    },
+    {
+      "cite": "730 F.2d 94",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        15872
+      ],
+      "pin_cites": [
+        {
+          "page": "95-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/730/0094-01"
+      ]
+    },
+    {
+      "cite": "2007 U.S. Dist. LEXIS 70742",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 2781272",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 U.S. Dist. LEXIS 4181",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 WL 636701",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Fed.Appx. 972",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "975"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "893 A.2d 776",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8985568
+      ],
+      "pin_cites": [
+        {
+          "page": "791"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/893/0776-01"
+      ]
+    },
+    {
+      "cite": "305 Pa.Super. 86",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        200324
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "noting respondent's obligation to present evidence to rebut pri-ma facie evidence submitted in support of fee petition"
+        },
+        {
+          "page": "257, 259",
+          "parenthetical": "noting respondent's obligation to present evidence to rebut pri-ma facie evidence submitted in support of fee petition"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/305/0086-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 657",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8938376
+      ],
+      "pin_cites": [
+        {
+          "page": "663-64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/880/0657-01"
+      ]
+    },
+    {
+      "cite": "684 A.2d 635",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7352833,
+        772898
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/684/0635-01",
+        "/pa-super/454/0078-01"
+      ]
+    },
+    {
+      "cite": "454 Pa.Super. 78",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        772898
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/454/0078-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 720",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        734353,
+        7863286
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "721",
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/449/0528-01",
+        "/a2d/674/0720-01"
+      ]
+    },
+    {
+      "cite": "449 Pa.Super. 528",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        734353
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/449/0528-01"
+      ]
+    },
+    {
+      "cite": "882 A.2d 1022",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8921651
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1031"
+        },
+        {
+          "page": "1032"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/882/1022-01"
+      ]
+    },
+    {
+      "cite": "383 Pa.Super. 435",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        464419
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/383/0435-01"
+      ]
+    },
+    {
+      "cite": "886 A.2d 284",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8894541
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "292"
+        },
+        {
+          "page": "293",
+          "parenthetical": "\"While the court may consider the relationship between the damages sought and those actually recovered, it may not lower a fee to achieve proportionality with the size of the verdict.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/886/0284-01"
+      ]
+    },
+    {
+      "cite": "938 A.2d 1106",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "unpublished memorandum at 12"
+        },
+        {
+          "parenthetical": "unpublished memorandum at 6"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1261,
+    "char_count": 34744,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 6.515969846487018e-08,
+      "percentile": 0.4004584823285064
+    },
+    "sha256": "98eab169f6cf3436cc2994e17966b2ec061edaffc32b21f576eefc362dfe35d7",
+    "simhash": "1:1f68db26df2cdde5",
+    "word_count": 5391
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BENDER, BOWES, and COLVILLE , JJ."
+    ],
+    "parties": [
+      "Mark W. AMBROSE and Ronald A. Kramer, Appellees v. CITIZENS NATIONAL BANK OF EVANS CITY, Pennsylvania, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBOWES, J.:\nCitizens National Bank of Evans City, Pennsylvania (\u201cCNB\u201d) appeals the order dated April 17, 2009 and entered on April 20, 2009, wherein the trial court clarified its April 18, 2009 award of attorneys\u2019 fees totaling $201,704.79 to Mark W. Ambrose and Ronald A. Kramer, hereinafter collectively referred to as Appellees. We affirm.\nAppellees were formerly employed by CNB in affiliation with a registered securities broker, Commonwealth Equity Services, Inc. (\u201cCommonwealth\u201d). Appellees were not Commonwealth employees. Their compensation from CNB consisted of a combination of salary and bonuses based upon commissions. During February 2004, Appellees resigned from CNB to work for a competitor and contacted CNB customers to advise them of their departure.\nThis matter originally came before this Court on CNB\u2019s prior appeal in this action from the award of compensatory damages and attorneys\u2019 fees for Appellees pursuant to the Wage Payment and Collection Law (\u201cWPCL\u201d), 43 P.S. \u00a7 260.1 et seq. At that time, we summarized the pertinent facts and procedural history as follows:\nOn September 8, 2004, Ambrose and Kramer filed a complaint alleging CNB had violated the WP[CL] and breached the terms of their employment contracts by fading to pay commissions which the two had earned while working [under the brokerage arrangement]. The complaint sought compensation for the commissions, interest, liquidated damages, and attorneys\u2019 fees. See 43 P.S. \u00a7 260.9a(f), Civil remedies and penalties; see also 43 P.S. \u00a7 260.10, Liquidated damages.\nOn November 5, 2004, CNB field an answer denying it had ever agreed to commission payments as part of Am-brose and Kramer\u2019s compensation packages. The answer also raised counter claims alleging Ambrose and Kramer had engaged in unfair competition, breached their fiduciary duties, and engaged in a conspiracy when they informed customers they were leaving ... for another firm.\nOn November 28, 2005, a non-jury trial was commenced, with the proceedings lasting eight days. After considering the evidence presented, the trial court issued [an order] finding in favor of Ambrose and Kramer and, conversely, finding CNB was not entitled to recovery on its counterclaims. [The trial court awarded wages, liquidated damages, and legal interest totaling $72,105.39.] The Opinion stated that the trial court would fix the amount of attorneys\u2019 fees to be awarded after considering affidavits from the parties. On June 9, 2006, the trial court reached a decision and awarded Ambrose and Kramer all of the counsel fees they had incurred in both prosecuting their own claims and in defending against CNB\u2019s counterclaims [ ($152,040.79) ].\nOn June 21, 2006, CNB filed a post-trial motion seeking a new trial or judgment notwithstanding the verdict, and remittitur. The trial court denied CNB\u2019s motion on August 31, 2006. CNB filed a timely notice of appeal.\nAmbrose v. Citizens National Bank, 938 A.2d 1106 (Pa.Super.2007) (unpublished memorandum at 3-5) (emphases in original) (citation to certified record omitted).\nWe affirmed the trial court\u2019s compensatory award pursuant to the WPCL; however, we found the amount of the award for attorneys\u2019 fees was \u201cpresumptively unreasonable.\u201d See Ambrose, supra (unpublished memorandum at 12). Noting \u201cthat Section 260.9a(f) does not give an indication as to how a trial court should determine whether an attorney\u2019s charges are \u2018reasonable,\u2019 \u201d we remanded the matter for the trial court to fashion an award of attorneys\u2019 fees pursuant to the factors outlined in 41 P.S. \u00a7 503, which governs counsel fees recoverable by aggrieved debtors. Id. at 11, 13-15. In remanding the matter \u201cfor a careful analysis of what constitutes \u2018reasonable attorneys\u2019 fees[,]\u201d the prior panel of this Court made the factual finding that CNB had pursued its counterclaims in good faith. Id. at 11, 14. Significantly, however, the nature of CNB\u2019s conduct was not an issue before this Court on appeal, and it was not necessary to our decision. Accordingly, the parties never briefed that issue or submitted legal argument relating to it. We simply noted our \u201cbelie[f|\u201d that the counterclaims were pursued in good faith. Id. at 11.\nIn addition, the panel was not persuaded by the trial court\u2019s explanation that the fees associated with prosecuting the WPCL claim were intertwined inextricably with the fees incurred in defending CNB\u2019s counterclaims. The panel reasoned, \u201c[Ap-pellees must carry the burden of proving what fees were incurred in prosecuting their WP[CL] claims, not CNB.\u201d Id. at 11.\nOn remand, the trial court reviewed the parties\u2019 affidavits regarding the requested attorneys\u2019 fees and entered the above-referenced order on April 20, 2009. The trial court issued a thorough opinion wherein it cogently explained its rationale. Specifically referencing our prior foray into fact-finding, the trial court recounted the panel\u2019s dicta that CNB had acted in good faith in pursuing counterclaims against Appel-lees. The trial court indicated that had it been directed to address the nature of CNB\u2019s counterclaims during trial, which it had not, it would have pointed out that CNB\u2019s \u201centire defense and counterclaims were pled ... solely to discourage [Appel-lees] from continuing with the valid claims and without any basis in fact.\u201d Trial Court Opinion, 8/10/09, at 4. The trial court noted that CNB \u201cchose to fight a clearly meritorious wage claim without any evidence to back up its contention that it was justified in withholding [Appellees\u2019] wages ...\u201d Id. The trial court further observed that CNB withdrew two of its three counterclaims prior to the non-jury trial and it failed to adduce any evidence in support of the damages element of the only remaining counterclaim. Id. Hence, the trial court reasoned that, notwithstanding our presumption to the contrary, the record revealed that CNB\u2019s counterclaims against Appellees were a sham advanced solely to intimidate Appellees into dropping their meritorious claims. Id. at 2, 5, 28. The trial court contended that, since the specious assertions leveled in the counterclaim were intertwined with CNB\u2019s defenses, Appellees were entitled to counsel fees for having to respond to both aspects of this action. Id. at 2-3.\nThe trial court followed our directive and weighed the applicable factors outlined in \u00a7 503. The trial court determined that \u00a7 503 supported the award of attorneys\u2019 fees totaling $201,704.79, including counsel fees associated with CNB\u2019s appeal, CNB\u2019s attempts to avoid execution of the judgment without posting a bond, and the proceedings on remand. Id. at 37-38.\nThis timely appeal followed the denial of CNB\u2019s motion for post-trial relief. CNB complied with the trial court\u2019s directive to file a concise statement of matters complained of on appeal pursuant to Pa.R.A.P. 1925(b).\nCNB presents the following issues for our review:\n1. Did the trial court err as a matter of law in ruling that [Appellees\u2019] attorneys\u2019 fees for defending counterclaims are awardable under the Wage Act if the counterclaims are filed in bad faith?\n2. Did the trial court err as a matter of law in finding that [Appellant] had acted in bad faith and was subject to sanctions under 42 Pa.C.S. \u00a7 2503(9) for averring counterclaims?\n3. When no express finding of bad faith was made prior to remand, did the trial court err as a matter of law in expressly finding on remand that [Appellant] had acted in bad faith?\n4. Did the trial court err as a matter of law in ruling that the Wage Act allows for the award of attorneys\u2019 fees incurred for appellate proceedings, post judgment execution proceedings, lower court proceedings and expert witness services? []\n5. Did the trial court err as a matter of law in failing to apply the factors provided for in 41 P.S. \u00a7 503 to determine what constitutes reasonable attorneys\u2019 fees?\nAppellant\u2019s brief at 8.\nWe review the trial court\u2019s award of attorneys\u2019 fees for an abuse of discretion. See Signora v. Liberty Travel, Inc., 886 A.2d 284, 292 (Pa.Super.2005) (\u201cAn award of attorneys\u2019 fees to a prevailing plaintiff is mandatory under the WPCL, but the trial court has discretion with respect to determining the appropriate amount of the fee award.\u201d). While the amount of compensatory damages is one of several considerations when assessing the reasonableness of an attorneys\u2019 fee request, Pennsylvania does not employ a strict rule of proportionality. See Croft v. P & W Foreign Car Service, Inc., 383 Pa.Super. 435, 557 A.2d 18, 20 (1989); Neal v. Bavarian Motors, Inc., 882 A.2d 1022, 1031 (Pa.Super.2005).\nThe crux of CNB\u2019s first three complaints is that the trial court erred in finding that Appellees were entitled to the attorneys\u2019 fees they incurred defending CNB\u2019s counterclaims. Accordingly, we will address those three claims together. CNB first challenges the trial court\u2019s statutory authority pursuant to either the WPCL or under 42 Pa.C.S. \u00a7 2503(9) to levy attorneys\u2019 fees associated with defending its counterclaims. CNB also contests the trial court\u2019s factual finding that it filed the counterclaims in bad faith. For the following reasons, we reject both aspects of these arguments.\nIn relation to the statutory authority to assess fees associated with defending its counterclaim, CNB asserts that its counterclaims were not brought pursuant to the WPCL and, therefore, the charges associated with Appellees\u2019 defense of its counterclaims are not within the purview of the statute\u2019s fee-shifting provision. The pertinent portion of WPCL provides as follows: \u201cThe court in any action brought under this section shall, in addition to any judgment awarded to the plaintiff or plaintiffs, allow costs for reasonable attorneys\u2019 fees of any nature to be paid by the defendant.\u201d 43 P.S. \u00a7 260.9a(f). Trial courts have typically awarded attorneys\u2019 fees pursuant to \u00a7 260.9a(f) without issuing any substantive comments on reasonableness. Oberneder v. Link Computer Corp., 449 Pa.Super. 528, 674 A.2d 720, 721 (1996) (collecting cases).\nCNB relies upon Neal, supra, in support of its position that the trial court was required to eliminate from its fee award all of the fees Appellees\u2019 counsel generated in defense of the CNB counterclaims. In Neal, a plaintiff filed a complaint with six separate causes of action, including one pled under the Unfair Trade Practices and Consumer Protection Law (\u201cUTPCPL\u201d), after she purchased a stolen vehicle from a used car dealer. The UTPCPL claim authorized an award of attorneys\u2019 fees to prevailing parties; however, the five other causes of actions did not. Following the jury trial, the car dealer was found hable on all six counts, and the trial court granted the plaintiffs request for counsel fees totaling $42,599.50. On appeal, this Court reversed the award of attorneys\u2019 fees to the extent it included fees generated in pursuit of non-UTPCPL claims. Id. at 1032. We concluded that the statute only authorized attorneys\u2019 fees for the UTPCPL cause of action; the attorneys\u2019 fees were not recoverable under the remaining legal theories. Id. Instead, we held that the plaintiff should bear the costs of litigating her non-UTPCPL causes of action.\nInstantly, however, CNB\u2019s reliance upon is Neal unpersuasive. First, Neal and the case law relied upon therein does not address the legislative purposes underlying the WPCL, which we discuss infra. More importantly, unlike the plaintiff in Neal, Appellees did not pursue several various causes of actions and they are not seeking to recover any fees that were not incurred in pursuit of their WPCL claim. Our holding in Neal did not confront the precise issue CNB raised herein, i.e., whether the trial court was statutorily authorized to award attorneys\u2019 fees that were incurred defending a counterclaim. CNB asserts that Appellees\u2019 defense of its counterclaim is analogous to the various claims the plaintiff asserted in Neal because CNB\u2019s counterclaims did not invoke the WPCL. This position discounts, however, the trial court\u2019s express findings that CNB\u2019s defenses and counterclaims, which were without foundation and designed merely to defeat meritorious claims, asserted intertwined allegations that required Appellees to engage in parallel inquiries, research, and analyses. See Trial Court Opinion, 8/10/09, at 16.\nOur review of the certified record supports the trial court\u2019s conclusion that CNB\u2019s defenses to Appellees\u2019 WPCL claims and its counterclaims against Ap-pellees were inextricably intertwined. CNB\u2019s answer to Appellees\u2019 complaint leveled two defenses: 1) Appellees were not entitled to the bonus compensation underlying their WPCL claims because they failed to execute a non-solicitation agreement, which prohibited soliciting CNB\u2019s customers following separation from employment; and 2) Appellees engaged in unfair competition and unfair trade practices following their separation from the bank, presumably by contacting the bank\u2019s customers. Similarly, CNB\u2019s counterclaims also asserted that Appellees misappropriated CNB resources in order to contact the bank\u2019s customers. Indeed, CNB\u2019s counterclaims not only expressly incorporated the averments contained in the answer to the complaint, but it also averred that Appellees misappropriated \u201ccustomer lists and customer account information to use for the benefit of National City Bank.\u201d Specifically, count one of CNB\u2019s counterclaim alleged unfair competition and unfair trade practices based upon Appellees\u2019 alleged appropriation of the customer lists for the benefit of National City Bank. Count two of the counterclaim alleged that Appellees breached their fiduciary duty by misappropriating the customer list. Finally, count three of the counterclaim alleged Appellees conspired to misappropriate trade secrets, including the customer list. Hence, the record supports the trial court\u2019s determination that CNB\u2019s defenses and counterclaims were intertwined.\nCNB invoked Appellees\u2019 failure to execute the non-solicitation agreement as a defense to the WPCL claim and then asserted that Appellees utilized its customer lists to solicit business on behalf of CNB\u2019s competitors. As the trial court accurately observed, \u201cThe efforts of [Appellees\u2019 counsel] that might seem to be related to [CNB\u2019s] [counterclaims were needed also to expose the weakness and illegitimacy of [CNB\u2019s] defense.\u201d Trial Court Opinion, 8/10/09, at 2 (italics in original). We agree.\nWhile the fee-shifting provision is limited to claims leveled pursuant to the WPCL and not related causes of action, the fees in the case sub judice stem from interrelated issues concerning Appellees\u2019 asserted failure to execute a non-solicitation agreement and their alleged solicitation of CNB\u2019s customers following their separation from the bank\u2019s employment. Hence, CNB\u2019s defense to Appellees\u2019 WPCL claims and its counterclaims flow from a common set of facts. Neither CNB\u2019s defense nor its counterclaim is distinct in all aspects from the other. Accordingly, we find the trial court did not err in concluding the issues were sufficiently intertwined to permit it to levy attorneys\u2019 fees for both aspects of the litigation.\nMoreover, in light of the circumstances of this case, we find the trial court\u2019s award of counsel fees served the express purposes of the WPCL by encouraging Appellees to pursue their wage claims and rebuff CNB\u2019s attempts to intimidate them into dropping the complaints. In Obemeder, supra at 722 (Pa.Super.1996), this Court explained the purpose of the WPCL and the rationale underlying the statute\u2019s fee-shifting provision.\nGenerally, the underlying purpose of the WPCL is to remove some of the obstacles employees face in litigation by providing them with a statutory remedy when an employer breaches its contractual obligation to pay wages. 48 P.S. \u00a7 260.1. et seq. In essence, the primary goal of the WPCL is to make whole again, employees whose wages were wrongfully withheld by their employers. To assure that employees would be made whole again, the legislature included the provision that the court \u201cshall ... allow costs for reasonable attorneys\u2019 fees ...\u201d in addition to any judgment awarded. 43 P.S. \u00a7 260.9a(f).\nThe issue before this Court in Obemeder was whether the statutory fee-shifting provision was mandatory. Mindful of the statute\u2019s express purpose, we concluded, \u201cthe legislature intended a mandatory award of attorneys\u2019 fees for a plaintiff who prevails on a claim pursued under the Act.\u201d Id. Significant to our review of CNB\u2019s assertions herein, we reasoned as follows:\nThis interpretation is consistent with the general import of the statute, and goes to the very \u201cessence\u201d of its goal of making an employee whole again. Otherwise, employees who are unjustly deprived of their wages by their employers, may be deterred from filing suit because of burdensome legal costs. Similarly, employees who do file suit and are successful, would be subjected to payment of a substantial part of their award (which represents earned compensation) as attorneys\u2019 fees. This would clearly undermine the intent of the statute; [sic] because employees who are unable to retain their wages will not be made whole. Without an award of attorneys\u2019 fees the end result would be only a partial recovery under the statute.\nId. (quotations and citations omitted).\nIn the case sub judice, the trial court\u2019s award of attorneys\u2019 fees prevented Appel-lees from having to exhaust their entire compensatory award in order to satisfy their legal bills. As the award promotes the purpose of the WPCL\u2019s fee-shifting provision under the circumstances of this ease, we reject CNB\u2019s contention that the trial court erred in assessing all of the attorneys\u2019 fees they incurred in this litigation. See Krassnoski v. Rosey, 454 Pa.Super. 78, 684 A.2d 635, 639 (1996) (where counsel fees are statutorily authorized in order to promote purposes of particular legislative scheme, trial court should not determine appropriateness of fees under general standards applicable in all litigation; instead, it should consider whether fees promote the purposes of the statute involved).\nMoreover, we observe that \u00a7 260.9a(f) refers to \u201cany action brought under this section.\u201d The pertinent statutory language suggests that the determining factor which authorizes the fee-shifting provision is the nature of the action that initiated the litigation, i.e., a wage compensation claim, rather than the nature of the employer\u2019s counterclaim. Thus, to the extent that WPCL claimants overcome an employer\u2019s counterclaims, the statute supports an award of attorneys\u2019 fees regardless of the nature of those counterclaims. If we were to adopt CNB\u2019s contrary position, employers could simply style their defenses to a WPCL claim as a counterclaim in order to circumvent the fee-shifting provision and force claimants to drop their otherwise meritorious claim through protracted litigation. This concept runs contrary to the law\u2019s well-established purpose of removing artificial obstacles to litigating meritorious WPCL claims.\nNext, we address whether the certified record supports the trial court\u2019s finding that CNB acted in bad faith; we conclude that it does. It is beyond cavil that CNB was entitled to mount a defense to Appel-lees\u2019 WPCL claims and level any meritorious counterclaims that it might have against the former employees. CNB asserted various claims predicated on the allegation that Appellees misappropriated trade secrets, i. e., customer lists from the bank for the benefit of its competitor. While the assertion appears reasonable during pretrial conciliation, the trial court advised CNB that their counterclaims lacked merit under the prevailing case law because their competitor could have obtained the customer lists though legitimate means. See Iron Age Corp. v. Dvorak, 880 A.2d 657, 663-64 (Pa.Super.2005). Nevertheless, although fully aware at that early juncture that its counterclaims were baseless, CNB continued to litigate the claims vigorously, even asserting the issues during the prior appeal. Indeed, we rejected the bank\u2019s argument on these issues. First, we noted that CNB had mis-characterized the trial court\u2019s legal conclusions and then we stated, \u201cCNB can point to absolutely no evidence of record demonstrating that it actually owned a customer list that was either a trade secret or misappropriated.\u201d Ambrose, supra (unpublished memorandum at 10). Thus, we conclude the certified record supports the trial court\u2019s finding that CNB\u2019s counterclaims premised upon Appellees\u2019 alleged theft of its customer list was specious. Accordingly, it did not abuse its discretion in awarding Appellees attorneys\u2019 fees generated both in pursuit of their WPCL claim and in defense of CNB\u2019s counterclaims.\nHaving found that the trial court\u2019s determination was supported by the record, we review the trial court\u2019s discussion of the five factors outlined in 41 P.S. \u00a7 503, the fifth issue listed in CNB\u2019s brief. First, relating to the time and labor required for counsel to address the pertinent issues in the case, the trial court observed that CNB never objected to counsel\u2019s hourly rate or the amount of time counsel dedicated to the WPCL claim. CNB challenged only the trial court\u2019s inclusion of billable hours that it asserted should have been attributed to counsel\u2019s defense of the CNB counterclaim. Adopting the panel\u2019s perspective, CNB argues that Appellees must satisfy the burden of proving their fee claim. CNB correctly stated Appel-lees\u2019 burden of proof. However, this perspective ignores the bank\u2019s reciprocal burden to produce contradictory evidence to challenge Appellees\u2019 allocation. See In re Roos\u2019 Estate, 305 Pa.Super. 86, 451 A.2d 255, 257, 259 (1982) (noting respondent\u2019s obligation to present evidence to rebut pri-ma facie evidence submitted in support of fee petition). Herein, CNB has not proffered specific evidence challenging Appel-lees\u2019 contention that all of the counsel fees submitted in their case stemmed from the WPCL claim in some manner. Appellees submitted several pages of billing invoices that contained an itemized list of charges with a brief description of the legal services provided. Nevertheless, CNB failed to identify the precise charges or legal services underlying its objection or otherwise substantiate its general claim that Appellees included legal fees that were not covered by the WPCL fee-shifting provision.\nCNB posits that since Appellees cannot distinguish between the two categories of fees, their total fee award should not be greater than the highest contingency fee the trial court would have approved in litigating a claim for $72,105.39. However, as with CNB\u2019s perspective generally, this position is contrary to established case law. In Krebs v. United Refining Co., 893 A.2d 776, 791 (Pa.Super.2006), we held, \u201cit would be inappropriate to apply a contingency agreement to create a ceiling (or for that matter, a closed door) on the recovery of attorneys\u2019 fees under a fee-shifting provision of a remedial statute.\u201d Although Krebs did not address the WPCL\u2019s fee-shifting provision specifically, the same rationale applies to the case at bar: a contingency fee analysis is inappropriate where, as here, the fees are mandated pursuant to a remedial statute. Accordingly, this factor militates in Appellees\u2019 favor.\nWe also observe that CNB\u2019s actions in litigating specious counterclaims contributed to Appellees\u2019 costs in this matter. As noted, CNB intertwined allegations that Appellees misappropriated its customers\u2019 lists throughout its counterclaims and at least one of its defenses. Appellees\u2019 counsel was obligated to respond to the bank\u2019s allegations. To the extent Appellees\u2019 counsel\u2019s review of the bank\u2019s defenses overlapped similar issues that the bank asserted in its counterclaims, we agree with the trial court\u2019s conclusion that the allegations were intertwined.\nNext, we consider the monetary amount in controversy. Again, relying upon the panel decision, CNB argues that the fee award was disproportionately large in relation to the WPCL award totaling $72,105.39. However, the panel\u2019s pin-ported \u201cfinding\u201d is not based upon any evidence of record. Instead, the panel presumed the total was unreasonable because \u201cno attorney would ever dream of telling a client at the outset he or she would charge $152,040.79 to [recover $72,105.39].\u201d Am-brose, supra (unpublished memorandum at 12). However, what an attorney might hypothetically tell a client is irrelevant where, as here, CNB is statutorily required to pay reasonable fees, and it was never contested that the hourly rate and hours billed were reasonable on their face. Moreover, as mentioned supra, Pennsylvania does not employ a strict rule of proportionality. Croft, supra; Neal, supra; See Signora, supra at 293 (\u201cWhile the court may consider the relationship between the damages sought and those actually recovered, it may not lower a fee to achieve proportionality with the size of the verdict.\u201d). Thus, having previously determined that Appellees were entitled to recover fees associated with its WPCL claim and the fees incurred responding to CNB\u2019s hybrid defense/counterclaim, the fact that CNB\u2019s conduct caused Appellees to incur increased costs is of no moment to our analysis. The law required CNB to express sufficient grounds to demonstrate why the proffered fees were unreasonable, and it has not. Accordingly, we find that this factor militates in favor of Appellees who had to employ counsel to pursue a WPCL claim in order to obtain wages that CNB wrongly withheld. Had CNB paid Appellees the wages they were entitled, the bank would not be faced with the amount of counsel fees Appellees incurred in this case.\nTo the extent that the final factor, the contingency or certainty of compensation, has any relevance within the purview of a mandatory award of counsel fees in WPCL cases and in light of the policy reasons underlying the fee-shifting provisions, this factor also favors Appellees and not CNB. As the trial court acutely observed, \u201cThe Pennsylvania Legislature has determined that persons such as [Appel-lees] should be given power to recover all wrongfully withheld wages from a vengeful employer, without having to reduce their recovery by the counsel fees incurred ...\u201d Trial Court Opinion, 8/10/09, at 33-34.\nAs noted supra, this Court previously found that attorneys\u2019 fees totaling $152,040.79 were presumptively unreasonable because the award for compensatory damages was only $72,105.39. However, after reviewing the certified record and the trial court\u2019s consideration of all of the foregoing factors, we find the trial court\u2019s rationale overcame our prior presumption that the fees were unreasonable. Accordingly, we will not disturb the trial court\u2019s determination.\nFinally, we address CNB\u2019s contention that the trial court erred in ruling that the WPCL permits it to award attorneys\u2019 fees incurred during post-judgment proceedings. First, CNB argues that the trial court failed to reduce the award of attorneys\u2019 fees to account for the fees Ap-pellees\u2019 counsel generated in litigating whether their fee request was reasonable. However, the certified record belies CNB\u2019s assertion that the fees the trial court awarded in the case sub judice included fees generated in association with the fee dispute diming the prior appeal. Indeed, Appellees\u2019 supporting affidavit reveals that they requested only fees that were incurred addressing issues for which they prevailed. Appellees specifically deducted the time and effort counsel spent researching and briefing the issue of attorneys\u2019 fees during the prior appeal. See Supporting Affidavit, 8/22/09, at Exhibit A. Hence, their claim for attorneys\u2019 fees incurred during the post-judgment period included only fees associated with CNB\u2019s failure to provide a supersedeas bond in order to stay execution of the trial court\u2019s judgment and the fees generated during remand. Id.\nMoreover, to the extent that CNB challenges the trial court\u2019s decision to award Appellees\u2019 attorneys fees that were generated in litigating the fee-dispute during remand, CNB failed to present citation to legal authority to support the proposition that those attorneys\u2019 fees are not recoverable. Instead, CNB invoked our holding in Obemeder that the award must be reasonable and it posed the hypothetical question, \u201cwhat if an employer\u2019s objections are vindicated?\u201d Appellant\u2019s brief at 38. This inquiry misses its mark. If an employer is vindicated, the challenged award would be reduced and no additional fees would be awarded to the non-prevailing party. In contrast, where, as here, the employer\u2019s repeated challenges to the award of counsel fees are unsuccessful, the employees must be entitled to the attorneys\u2019 fees incurred in rebuffing the unsuccessful challenges. Accordingly, no relief is due.\nCNB\u2019s next complaint challenges the trial court\u2019s decision to award attorneys\u2019 fees incurred following the remand of its appeal. This issue is similar to the preceding complaint; however, it addresses when rather than how the fees were generated. Essentially, CNB posits that the WPCL fee-shifting provision does not apply to fees incurred during the appellate process because the terms \u201caction\u201d and \u201cappeal\u201d have distinct definitions and that an \u201caction\u201d does not include an appeal. See Appellant\u2019s brief at 39. CNB continues that the legislature\u2019s use of the term \u201caction\u201d in the fee-shifting provision reveals its intention to limit recovery of attorneys\u2019 fees to those generated at the trial level. Id. From the bank\u2019s perspective, if the legislature intended to authorize attorneys\u2019 fees associated with an appeal from a fee award, it would have utilized the all-inclusive term \u201cmatter\u201d in the fee-shifting provision rather than \u201caction.\u201d Id. 39^41. For the following reasons, we disagree.\nAs noted supra, the express purposes of the WPCL fee-shifting provision is to encourage claimants to pursue their relatively small wage claims and limit an employer\u2019s ability to intimidate them financially through the high cost of litigation. See Oberneder, supra at 722. Herein, for Appellees to be made whole again once they prevailed on their underlying WPCL claim and CNB\u2019s objection to the fee award, they must be able to recover their attorneys\u2019 fees incurred on appeal. Otherwise, an employer would be capable of misusing the appeal process to force prevailing WPCL claimants to drop their cases or risk exhausting their wage awards in the litigation for their rightful attorneys\u2019 fees. The bank\u2019s contrary interpretation of the WPCL and its fee-shifting provision runs counter to both the spirit and the letter of the law.\nFinally, we observe that CNB\u2019s position that Appellees cannot collect attorneys\u2019 fees incurred during its appeal from the initial award is based entirely upon CNB\u2019s interpretation of the WPCL fee-shifting provision. CNB failed to cite a single case to support its argument. In contrast, Appellees refer to several cases, albeit from sister jurisdictions, that support the sensible proposition that prevailing claimants who are statutorily entitled to recover attorneys\u2019 fees at the trial level are also authorized to collect attorneys\u2019 fees incurred on appeal. For instance, federal courts have awarded prevailing claimants attorneys\u2019 fees incurred on appeal under ERISA. Trucking Employees of North Jersey Welfare Fund, Inc. v. Bellezza, Inc., 57 Fed.Appx. 972, 975 (3d Cir.2003) and Depenbrock v. CIGNA Corp., 2005 WL 636701, 2005 U.S. Dist. LEXIS 4181 (E.D.Pa.Mar 18, 2005). Similarly, in Snyder v. Bazargani, 2007 WL 2781272, 2007 U.S. Dist. LEXIS 70742 (E.D. Pa. Sept 25, 2007), the District Court for the Eastern District of Pennsylvania awarded a claimant attorneys\u2019 fees incurred on appeal under the Pennsylvania Human Relations Act. Likewise, the United States Court of Appeals for the Third Circuit in Morris County Trust for Historic Preservation v. Pierce, 730 F.2d 94, 95-96 (3d Cir.1983), reasoned that a successful claimant is entitled to receive attorneys\u2019 fees incurred on appeal under the fee-shifting provision in the National Historic Prevention Act. See also Brinker v. Guiffrida, 798 F.2d 661, 668-69 (3d Cir.1986) (pursuant to Equal Access to Justice Act, plaintiffs attorneys entitled to compensation for time spent successfully appealing statutorily authorized fee award). In light of the dearth of case law addressing the precise issue raised in this matter and mindful of the remedial purpose of the WPCL, we affirm the trial court\u2019s application of the fee-shifting provision under the circumstances of this case.\nOrder affirmed.\n. Section 503 provides, in pertinent part as follows:\nIn determining the amount of the fee, the court may consider:\n(1) The time and labor required, the novelty and difficulty of the questions involved and the skill requisite properly to conduct the case[;] (2) The customary charges of the members of the bar for similar services[;] (3) The amount involved in the controversy and the benefits resulting to the client or clients from the services[; and] (4) The contingency or the certainty of the compensation.\n. Thus, even to the extent the certified record might support our supposition, it is obiter dictum.\n. CNB filed notices of appeal from the trial court\u2019s orders dated April 17, 2009 and the May 4, 2009 order denying post-trial motions. Acting sua sponte, on July 20, 2009, we dismissed the latter appeal as duplicative.\n. During the prior appeal, we concluded CNB had waived its objections to the trial court\u2019s inclusion of costs associated with Appellees' expert witness testimony due to its violation of Pa.R.A.P. 2116. See Ambrose, supra (unpublished memorandum at 6). Accordingly, we do not address it herein.\n. Pursuant to 42 Pa.C.S. \u00a7 2503(9), a party is entitled to reasonable counsel fees \u201cbecause the conduct of another party in commencing the matter or otherwise was arbitrary, vexatious or in bad faith.\u201d On remand, the trial court invoked \u00a7 2503 as an alternative basis to assess attorney fees against CNB. However, having found that the trial court provided sufficient bases in the certified record to support its finding that the fee award was reasonable under the circumstances of this case, we do not address the trial court's alternative bases for imposing counsel fees pursuant to 42 Pa.C.S. \u00a7 2503(6), (7) and (9) due to CNB\u2019s bad faith conduct.",
+        "type": "majority",
+        "author": "BOWES, J.:"
+      }
+    ],
+    "attorneys": [
+      "Michael J. McShea, Wexford, for appellant.",
+      "Thomas T. Frampton, Pittsburgh, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Mark W. AMBROSE and Ronald A. Kramer, Appellees v. CITIZENS NATIONAL BANK OF EVANS CITY, Pennsylvania, Appellant.\nSuperior Court of Pennsylvania.\nArgued March 10, 2010.\nFiled Sept. 17, 2010.\nMichael J. McShea, Wexford, for appellant.\nThomas T. Frampton, Pittsburgh, for appellees.\nBEFORE: BENDER, BOWES, and COLVILLE , JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0413-01",
+  "first_page_order": 435,
+  "last_page_order": 447
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7290716,
+  "name": "Joseph RUSSO, Appellant v. Honorable Pamela Pryor DEMBE, President Judge of the Board of Judges of Philadelphia and Amy L. Kurland, the Office of the Inspector General, Appellees",
+  "name_abbreviation": "Russo v. Dembe",
+  "decision_date": "2010-11-17",
+  "docket_number": "",
+  "first_page": "1290",
+  "last_page": "1290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1290"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 342,
+    "ocr_confidence": 0.717,
+    "sha256": "b98c1741997e26b869c59913316eb41e1c30863c95bdddacf8e50303db222b2b",
+    "simhash": "1:9ffb5cbd43a3ff06",
+    "word_count": 55
+  },
+  "last_updated": "2023-07-14T16:58:44.861686+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph RUSSO, Appellant v. Honorable Pamela Pryor DEMBE, President Judge of the Board of Judges of Philadelphia and Amy L. Kurland, the Office of the Inspector General, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of November, 2010, the Order of the Commonwealth Court is hereby AFFIRMED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Joseph RUSSO, Appellant v. Honorable Pamela Pryor DEMBE, President Judge of the Board of Judges of Philadelphia and Amy L. Kurland, the Office of the Inspector General, Appellees.\nSupreme Court of Pennsylvania.\nNov. 17, 2010."
+  },
+  "file_name": "1290-01",
+  "first_page_order": 1336,
+  "last_page_order": 1336
+}

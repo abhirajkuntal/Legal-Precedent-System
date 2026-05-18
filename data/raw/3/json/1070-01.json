@@ -1,0 +1,375 @@
+{
+  "id": 7290181,
+  "name": "Jonathan STEVENS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Stevens v. State",
+  "decision_date": "2010-07-22",
+  "docket_number": "No. 437, 2009",
+  "first_page": "1070",
+  "last_page": "1077",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 1070"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "980 A.2d 1020",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7296595
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1023-24"
+        },
+        {
+          "page": "1023-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/1020-01"
+      ]
+    },
+    {
+      "cite": "504 A.2d 1096",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11936107
+      ],
+      "pin_cites": [
+        {
+          "page": "1100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/504/1096-01"
+      ]
+    },
+    {
+      "cite": "893 A.2d 956",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8986117
+      ],
+      "pin_cites": [
+        {
+          "page": "960"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/893/0956-01"
+      ]
+    },
+    {
+      "cite": "897 A.2d 748",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8425711
+      ],
+      "pin_cites": [
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/897/0748-01"
+      ]
+    },
+    {
+      "cite": "953 A.2d 130",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8179014
+      ],
+      "pin_cites": [
+        {
+          "page": "133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/953/0130-01"
+      ]
+    },
+    {
+      "cite": "962 A.2d 248",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8185545
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "254"
+        },
+        {
+          "page": "254"
+        },
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/962/0248-01"
+      ]
+    },
+    {
+      "cite": "2009 WL 4114385",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 7,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "893 A.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8986093
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "951"
+        },
+        {
+          "page": "951"
+        },
+        {
+          "page": "951"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/893/0937-01"
+      ]
+    },
+    {
+      "cite": "956 A.2d 1261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8211903
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1264"
+        },
+        {
+          "page": "1264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/1261-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876474
+      ],
+      "pin_cites": [
+        {
+          "page": "279-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/527/0276-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 269",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876399
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/527/0269-01"
+      ]
+    },
+    {
+      "cite": "1998 WL 666722",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "911 A.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8402651
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "396"
+        },
+        {
+          "page": "396"
+        },
+        {
+          "page": "398"
+        },
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/911/0385-01"
+      ]
+    },
+    {
+      "cite": "922 A.2d 395",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8307808
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "399"
+        },
+        {
+          "page": "399"
+        },
+        {
+          "page": "399-400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/922/0395-01"
+      ]
+    },
+    {
+      "cite": "3 A.3d 1077",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290206
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/3/1077-01"
+      ]
+    },
+    {
+      "cite": "3 A.3d 1084",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290241
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/3/1084-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 987,
+    "char_count": 23584,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 1.2408030048673897e-07,
+      "percentile": 0.6078327346497807
+    },
+    "sha256": "358fd6e7681a0f9a51619848aa86b8142e8f4f2545d9d615ed8cd1d03973b973",
+    "simhash": "1:fe04417066c4925c",
+    "word_count": 3831
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+    ],
+    "parties": [
+      "Jonathan STEVENS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HOLLAND, Justice:\nThe defendant-appellant, Jonathan Stevens (\u201cStevens\u201d), was indicted for Robbery in the First Degree and six other related offenses. Following a jury trial in the Superior Court, Stevens was convicted of all counts in the indictment except for Possession of a Deadly Weapon During the Commission of a Felony. Stevens was declared to be a habitual offender and sentenced to be incarcerated for a total of fifty-eight years, thirty-five of which are mandatory.\nIn this direct appeal, Stevens argues that: \u201cthe State was erroneously permitted to present to the jury Detective Robert Roswell\u2019s (\u201cDetective Roswell\u201d) irrelevant and unduly prejudicial opinion that Stevens was involved in other robberies; opinion as to the credibility of the State\u2019s key witnesses; characterization of the evidence; and misstatement of the evidence.\u201d The detective\u2019s statements were contained within a DVD of his interrogation of the juvenile co-defendant, Jeffrey Boyd (\u201cBoyd\u201d). The redacted DVD was introduced into evidence by the State, as prior statements of Boyd, under title 11, section 3507 of the Delaware Code.\nThis appeal is part of a trilogy of cases that were consolidated for oral argument en Banc because they all involved recurring problems with regard to the admission of evidence under section 3507. The issue in Stevens\u2019 appeal relates to the proper redaction of third-party statements from a witness interview or interrogation before it can be admitted into evidence under section 3507. In this opinion, we review our prior precedents and provide additional guidance regarding the redaction of third-party comments that must be made as a condition precedent to admissibility under section 3507. In Stevens\u2019 appeal, we conclude that, under a plain error standard of review, the Superior Court\u2019s judgments of conviction must be affirmed.\nStatement of Facts\nOn the evening of August 1, 2008, Tamara Stratton (\u201cStratton\u201d), Stevens, and seventeen-year old Boyd left the residence of Stratton\u2019s aunt, and rode together to where Stratton lived. During this trip, Stevens asked to borrow Stratton\u2019s pickup truck in order to go to a hotel to see someone. Stratton was dropped off at her home in Dover a little before 10 p.m. that evening. Stevens and Boyd left in her truck.\nLater that evening, Xiu Zhang (\u201cZhang\u201d) was working as a cook at the China King restaurant in Dover when two black men wearing disguises on their faces rushed in through the restaurant\u2019s back door. According to Zhang, the shorter of the two intruders was armed with a knife, while the other man appeared to have a gun. As Zhang attempted to flee out the front door, he was chased by the person with the knife. The pursuer hit Zhang with his fists and a chair. While Zhang was being assaulted, he saw the other intruder take the store\u2019s cash register drawer.\nAfter attacking Zhang and seizing the register drawer with $700 in cash, the two robbers ran out the back door and fled southward. Chairs, a door, and the store computer for the China King were all damaged during the robbery. Zhang was treated for his injuries at Kent General Hospital. Photographs of the injuries were introduced as evidence at Stevens\u2019 trial.\nAfter Stratton read a newspaper article about the robbery at the China King restaurant, she telephoned the Dover Police Department on August 14, 2008. She told the police that on August 1, 2008, at around 10:00 p.m., she lent her pick-up truck to Stevens, a friend of hers. They were at her aunt\u2019s house when Stevens told her that he needed to go to a hotel to see someone. Stevens and his friend \u201cJeffrey\u201d then drove Stratton home and departed in her truck.\nStratton also told police that later that same night she received a call from Stevens, who told her that her truck had ran out of gas and that he needed her to \u201ccome pick them up.\u201d She went to Governor\u2019s Avenue, where the truck was parked. When Stratton arrived at the Governor\u2019s Avenue location, she saw Stevens and Boyd behind an apartment building.\nAt Stevens\u2019 trial, Stratton testified that \u201cThey were setting fire to papers and what appeared to me to be a cash register.\u201d When asked at trial if Stevens said anything to her, she replied: \u201cAt the time I really didn\u2019t get any response besides everything is okay, everything is okay, basically proceed; go get your truck; you don\u2019t know anything.\u201d On cross-examination at trial, Stratton clarified her testimony about what Stevens and Boyd were burning, by explaining that the two men were not attempting to burn an entire cash register, but the \u201cdrawer to a cash register.\u201d Stratton testified that she called the police because she was afraid her truck would be linked to the robbery.\nAfter speaking with Stratton, the police put together a line up which included Stevens\u2019 photograph. The line up was shown to Zhang, who was not able to identify the assailant. In separate photo lineups, however, Stratton identified Stevens and Boyd as the persons who borrowed her truck and whom she saw burning a cash register.\nDover Police Detective Roswell obtained warrants for the arrest of Stevens and Boyd, and on August 22, 2008, he took the juvenile suspect, Boyd, into custody. Boyd and his mother were transported to the Dover Police station where Boyd was interviewed by Detective Roswell in the presence of his mother. Boyd waived his Miranda rights and the interview was recorded on a DVD.\nDuring his recorded police interview on August 22, 2008, Boyd told Detective Roswell where he and Stevens had left the cash register drawer. Detective Roswell went to 34 South Governor\u2019s Avenue and located the black cash register drawer near the garage where Boyd said it was located. Although Boyd was arrested for the China King robbery on August 22, 2008, the Dover Police were not able to locate Stevens until October 2, 2008.\nStevens did not give a statement to police. Nor did he testify at trial. The record reflects that the defense rested at Stevens\u2019 trial without presenting any evidence.\nSection 3507 Requires Redactions\nTitle 11, section 3507 of the Delaware Code provides:\n(a) In a criminal prosecution, the voluntary out-of-court prior statement of a witness who is present and subject to cross-examination may be used as affirmative evidence with substantive independent testimonial value.\n(b) The rule in subsection (a) of this section shall apply regardless of whether the witness\u2019 in-court testimony is consistent with the prior statement or not. The rule shall likewise apply with or without a showing of surprise by the introducing party.\nThe only evidence that is admissible under section 3507 is \u201cthe voluntary out-of-court statement of a witness who is present and subject to cross-examination.\u201d This statute must be construed narrowly in order to preserve \u201ca defendant\u2019s constitutional rights to confront and cross-examine witnesses providing testimonial evidence.\u201d Accordingly, interrogations that contain both the witness\u2019 statements and inadmissible statements by third parties must be redacted. For example, a police officer\u2019s personal opinion is generally not admissible evidence at trial and, therefore, may not be admitted as part of a witness\u2019 statement under section 3507. Similarly, an expert witness may not opine on the credibility of a witness generally and, therefore, such opinions are equally inadmissible as part of a section 3507 statement.\nAt the time of Stevens\u2019 trial, the legal standard requiring the redaction of a police officer\u2019s opinions and comments was well established. More than a decade ago, this Court held that an officer\u2019s personal belief is \u201cnot admissible evidence at trial\u201d and emphasized the importance of redacting such third-party opinions from interrogations before a witness statement under section 3507 is admitted into evidence. A few years ago, this Court issued two decisions applying that legal principle in the context of third-party comments contained in statements offered into evidence under section 3507. More recently, we addressed that issue again in Waterman v. State and Miles v. State.\nBecause it is the actual statement of a witness that is admissible into evidence under section 3507, we have recognized that it is best for those actual words to be in writing or recorded. In Hassan-El v. State, we noted that if the witness statement is from an exchange with a third party, the best way to present section 3507 evidence is by a redacted recorded statement of only the declarant\u2019s words. In Miles, we acknowledged that some questions or comments by third parties are not prejudicial and need to be included for either purposes of continuity or ease of understanding. Such innocuous types of third party statements need not be redacted. Conversely, in Miles, we held that if a third party \u201cconveys a view (through comment or gesture) about the strength of the State\u2019s or the defendant\u2019s case, the credibility of the witness/defendant, or any disputed facts, then that comment must be redacted at the request of the defendant.\u201d We have also held that the nonexclusive list of inadmissible prejudicial third-party comments includes references to criminal or other prior bad acts.\nIn Miles, we also stated that \u201cthe process of redacting [a third party exchange should not] interfere with the trial, since it is a matter that can and should be resolved before the trial begins.\u201d Therefore, at some reasonable time before trial, the State must provide defense counsel with the entire recorded exchange between a witness and a third party, together with a copy of its proposed redacted version of that recording that it intends to introduce under section 3507. If the parties cannot reach a stipulated agreement on the admissibility of the redacted recording and defense counsel has any objections or requests for additional redactions, they should be presented to the trial judge by filing a timely motion in limine.\nOnce again, we hold that any substantive comments of a third party embedded in a section 3507 statement are inadmissible under section 3507 because they are not prior statements of the witness. In that context, any alleged technical or contextual difficulties for the State in redacting inadmissible third-party comments are not relevant factors to be considered. For example, in Miller v. State, the State argued that it did not redact a police officer\u2019s reference to an unrelated criminal act because the \u201cjury needed to see the whole video to understand the full context of the questioning.\u201d We described that argument as \u201cspecious\u201d and \u201cembarrassingly lacking in substance.\u201d We held that the prosecutor should have stipulated to redacting the portion of the videotape where the police officer made reference to a criminal act (using marijuana) and that the trial judge should never have had to confront the question of whether that portion of the video should have been redacted after it had already been played for the jury.\nBoyd\u2019s Section 3507 Statement\nAt Stevens\u2019 trial, co-defendant Boyd admitted that on January 21, 2009, he pled guilty to three charges involving the China King robbery: Robbery in the First Degree; Possession of a Firearm During the Commission of a Felony; and Conspiracy in the Second Degree. When Boyd testified at Stevens\u2019 May 2009 jury trial, he was serving a six year prison sentence for these convictions. Boyd testified as a prosecution witness on the second day of Stevens\u2019 jury trial.\nBoyd\u2019s direct trial testimony was interrupted by the State in order to summon Detective Roswell as a witness to lay the foundation for admission under section 3507 of Boyd\u2019s prior out-of-court statement to Detective Roswell. Detective Roswell identified a DVD copy of his August 22, 2008 interview of Boyd. After defense counsel for Stevens advised that he had no cross-examination questions for Detective Roswell, the trial judge granted the State\u2019s request to play the DVD of Boyd\u2019s 2008 out-of-court statement.\nThe trial judge asked the prosecutor about \u201cthe approximate length of the tape.\u201d The prosecutor replied that \u201cthe whole statement lasted a little over an hour, but it\u2019s been somewhat edited.\u201d The edited or redacted version to be played for Stevens\u2019 jury was 45 to 50 minutes. The State began playing the Boyd DVD statement at 10:39 a.m.\nApproximately thirty-five minutes later, the DVD was stopped at 11:14 a.m. \u2014 the point where a portion of Boyd\u2019s interrogation which was played for the jury contained Detective Roswell\u2019s opinion that Stevens and Boyd engaged in \u201csome other robberies:\u201d\nDetective: I think you guys have done some other ones. I think he\u2019s brought you along for some other ones. Some other robberies in particular. I want to give you an opportunity to tell me about that. What else he\u2019s done in particular \u2014 Jonathan. Ok?\nI\u2019m actually pretty sure you guys have done some more stuff.\nBoyd: Oh nah, to be honest with you, I haven\u2019t.\nDetective: What else has he done?\nBoyd: Only thing I know about is when he had the truck.\nWhen this portion of the interrogation was played for the jury, Stevens\u2019 defense counsel objected on the basis that the dialogue was irrelevant. The trial judge conducted a sidebar conference to consider the defense objection. Both the trial judge and the prosecutor agreed that Detective Roswell\u2019s opinion was irrelevant. Nevertheless, the prosecutor argued that because Boyd denied being involved in any other robberies, the statement by Detective Roswell was not prejudicial. The trial judge rejected that argument and suggested that a curative instruction was appropriate.\nIn response to that suggested ruling by the trial judge, the prosecutor represented that the only information he wanted from the rest of the interrogation by Detective Roswell was that Stevens had a knife in the truck and that Boyd said, \u201cI was not going to do it, but just thought I might as well.\u201d The prosecutor stated, \u201c[everything after that is an attempt to see if there is anything else that they have done, and that\u2019s all out.\u201d The prosecutor also told the court that he redacted Boyd\u2019s assertion that he was aware that Stevens was involved in an incident where he had a gun and weed in his truck.\nBased on the prosecutor\u2019s representations, Stevens\u2019 defense counsel indicated that \u201c[sjince [the prosecutor] is saying that that\u2019s been redacted, that\u2019s fine.\u201d Stevens\u2019 trial attorney withdrew his objection and indicated that a curative jury instruction by the trial judge would not be necessary. At the end of the sidebar conference, the trial judge asked defense counsel, \u201cAre you okay with what\u2019s left?\u201d and Stevens\u2019 attorney replied, \u2018Wes.\u201d At 11:18 a.m., the remainder of Boyd\u2019s redacted statement was played for Stevens\u2019 jury. When the DVD was completed, Boyd\u2019s direct examination at trial continued, followed by cross-examination by Stevens\u2019 attorney.\nOn appeal, Stevens argues that the Superior Court committed plain error when it failed to issue a curative instruction or declare a mistrial, because remaining portions of the DVD statement of Boyd heard by the jury contained improper statements by the interviewing police officer. Stevens contends that unredacted parts of Boyd\u2019s DVD statement contain Detective Roswell\u2019s \u201copinion that Stevens was involved in other robberies; opinion as to the credibility of the State\u2019s key witnesses; characterization of the evidence; and misstatement of the evidence.\u201d\nThe record reflects at Stevens\u2019 jury trial there was no defense request for curative instructions, for the trial judge to declare a mistrial, or for further redactions in Boyd\u2019s recorded statements in the DVD that was played for the jury. Since the issues raised by Stevens on appeal were not presented to the trial judge, these objections may be reviewed only for plain error. \u201cUnder the plain error standard of review, the error complained of must be so clearly prejudicial to substantial rights as to jeopardize the fairness and integrity of the trial process.\u201d In demonstrating that an unobjected to error is prejudicial, the burden of persuasion is on the defendant.\nTo this Court, Stevens argues that Detective Roswell\u2019s opinions and comments were not only irrelevant but were highly prejudicial. Stevens asserts that the prosecutor\u2019s argument that there was no prejudice because Boyd denied involvement in other crimes is without merit. Stevens makes that assertion because Boyd never denied that Stevens was involved in any other robberies and the jury was permitted to hear that Stevens was involved in a prior incident involving a truck. Thus, Stevens contends, the jury \u201ccould conclude that he committed a robbery involving a truck and the only thing the prosecutor could have hoped for by failing to redact this portion of the -video is that the jury would consider the police officer\u2019s suggestion as true and view [Stevens] in a bad light.\u201d\nAccording to Stevens, permitting the jury to hear the improper remarks and questions by Detective Roswell violated the limitations on the admission of prior our-of-court statements of a trial witness under title 11, section 3507 as interpreted by this Court in Hassan-El v. State, and other decisions. Stevens argues that it is apparent from the face of the record that the trial judge\u2019s failure either to issue a curative instruction or declare a mistrial based on the admission of Detective Roswell\u2019s opinion statements, was plain error. The plain error standard of appellate review is predicated upon a defense counsel\u2019s failure to object to the admission of improper evidence through oversight.\nIn Stevens\u2019 case, the record reflects that his trial attorney initially objected to the admission of Detective Roswell\u2019s personal opinion embedded in the 3507 statement. After the sidebar conference, however, counsel withdrew that objection, never moved for a mistrial and specifically declined the trial judge\u2019s offer to give a curative instruction. Consequently, there was no oversight by Stevens\u2019 defense attorney.\nStevens also asserts that the remaining portion of the interrogation played for the jury included the following inadmissible statement by Detective Roswell, which was admitted without objection;\nYou haven\u2019t been with him on anything else? Here\u2019s the thing, now\u2019s the time to let me know about it because the way things work with cases and what not, we can get everything over and done with today. What you don\u2019t need to have happen is take care of this today then the next thing you know, couple weeks from now, something else pops up.\nStevens opening brief then makes the following argument;\nThe record in our case reveals that the trial court was aware of the inadmissibility of at least one set of comments by the officer \u2014 those expressing his opinion that Stevens was engaged in other robberies. The record also reveals that, despite defense counsel\u2019s initial objection and the prosecutor\u2019s representation, further inadmissible comments about other robberies were presented to the jury. Yet, the trial judge did nothing.\nStevens\u2019 appellate assertions of plain error disregard his trial attorney\u2019s initial decision not to move for a mistrial and not to accept the trial judge\u2019s offer of a curative instruction, and counsel\u2019s subsequent failure to object to the later statements by Detective Roswell. Those actions preclude plain error review. We hold that Stevens\u2019 trial attorney\u2019s initial decision not to move for a mistrial or to accept the trial judge\u2019s offer of a curative jury instruction, and counsel\u2019s failure to object to Detective Roswell\u2019s subsequent statements, all preclude any review for plain error in this direct appeal.\nOur prior precedents indicate that Detective Roswell\u2019s reference to other robberies, although not subject to review for plain error, was nevertheless inadmissible as part of Boyd\u2019s section 3507 statement. The record does not reflect why Stevens\u2019 trial counsel did not accept the trial judge\u2019s offer of a curative instruction and/or move for a mistrial, especially since Stevens was on trial for allegedly committing a robbery. The propriety of that trial strategy can be analyzed when the record is more developed if Stevens elects to file a Rule 61 motion for post-conviction relief.\nIn Stevens\u2019 case, the State should have redacted the objectionable comments sua sponte. When he discovered that that had not been done, the defense attorney should have filed a motion in limine to exclude them. As we observed in Miller, the trial judge should not have been confronted with the inadmissible prejudicial comments by a third party, especially as in this case, after the videotape had already been played before the jury.\nIn Miller, we concluded that the prosecutor\u2019s failure to redact the police officer\u2019s inadmissible reference to prior criminal acts created the risk that the defendant\u2019s conviction would be overturned and, since its inadmissibility was so clear, resulted in an unnecessary expenditure of judicial, prosecutorial and defense resources. Nevertheless, the same impropriety was repeated in Stevens\u2019 case. With the guidance provided by this opinion, it should not happen again.\nConclusion\nThe judgments of the Superior Court are affirmed.\n. See Woodlin v. State, 3 A.3d 1084 (Del. 2010); Blake v. State, 3 A.3d 1077 (Del.2010).\n. Morgan v. State, 922 A.2d 395, 399 (Del.2007) (quoting Del.Code Ann. tit. 11, \u00a7 3507 (2007)).\n. Hassan-El v. State, 911 A.2d 385, 396 (Del.2006).\n. Holtzman v. State, 1998 WL 666722, at *4 (Del. July 27, 1998).\n. Wheat v. State, 527 A.2d 269, 275 (Del.1987); Powell v. State, 527 A.2d 276, 279-80 (Del.1987).\n. Waterman v. State, 956 A.2d 1261, 1264 (Del.2008).\n. Holtzman v. State, 1998 WL 666722, at *4.\n. See Miller v. State, 893 A.2d 937, 951 (Del.2006); Hassan-El v. State, 911 A.2d at 396.\n. Waterman v. State, 956 A.2d at 1264.\n. Miles v. State, 2009 WL 4114385, at *2 (Del. Nov. 23, 2009).\n. Morgan v. State, 922 A.2d at 399.\n. Hassan-El v. State, 911 A.2d at 398.\n. Miles v. State, 2009 WL 4114385, at *3.\n. Id.\n. Id.\n. Miller v. State, 893 A.2d at 951.\n. Miles v. State, 2009 WL 4114385, at *3.\n. Miles v. State, 2009 WL 4114385.\n. Miller v. State, 893 A.2d at 951 n. 49.\n. Id.\n. Id. at 951.\n. See Del.Code Ann. tit. 11, \u00a7 3507 (2007).\n. Supr. Ct. R. 8; D.R.E. 103(d); Morgan v. State, 962 A.2d 248, 254 (Del.2008); Flamer v. State, 953 A.2d 130, 133 (Del.2008); Brown v. State, 897 A.2d 748, 753 (Del.2006); Keyser v. State, 893 A.2d 956, 960 (Del.2006).\n. Wainwright v. State, 504 A.2d 1096, 1100 (Del.1986) (citation omitted); see also Morgan v. State, 962 A.2d at 254; Keyset v. State, 893 A.2d at 959.\n. See Wright v. State, 980 A.2d 1020, 1023-24 (Del.2009); Morgan v. State, 962 A.2d at 254.\n. See Miller v. State, 893 A.2d 937, 951 n. 49 (Del.2006).\n. Hassan-El v. State, 911 A.2d 385, 396 (Del.2006).\n. See Miller v. State, 893 A.2d at 951; Miles v. State, 2009 WL 4114385, at *2 (Del. Nov. 23, 2009); Morgan v. State, 922 A.2d 395, 399-400 (Del.2007).\n. Wright v. State, 980 A.2d at 1023-24.\n. Super.Ct.Crim. R. 61.\n. Miller v. State, 893 A.2d at 951.\n. Miller v. State, 893 A.2d at 951.\n. Id. at 951-52; see also id. at 951 n. 51.",
+        "type": "majority",
+        "author": "HOLLAND, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Nicole M. Walker, Esquire, Office of the Public Defender, Wilmington, Delaware, for appellant.",
+      "Paul R. Wallace, Esquire (argued), and John Williams, Esquire, Department of Justice, Dover, Delaware, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jonathan STEVENS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 437, 2009.\nSupreme Court of Delaware.\nSubmitted: June 2, 2010.\nDecided: July 22, 2010.\nNicole M. Walker, Esquire, Office of the Public Defender, Wilmington, Delaware, for appellant.\nPaul R. Wallace, Esquire (argued), and John Williams, Esquire, Department of Justice, Dover, Delaware, for appellee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+  },
+  "file_name": "1070-01",
+  "first_page_order": 1104,
+  "last_page_order": 1111
+}

@@ -1,0 +1,223 @@
+{
+  "id": 7284286,
+  "name": "Stephanie BURKE v. CITY OF BETHLEHEM, Pennsylvania Department of Transportation, Commonwealth of Pennsylvania, Artsquest and Artsquest Foundation City of Bethlehem, Appellant",
+  "name_abbreviation": "Burke v. City of Bethlehem",
+  "decision_date": "2010-11-24",
+  "docket_number": "",
+  "first_page": "377",
+  "last_page": "381",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "751 A.2d 1136",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        93556,
+        11513996
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0515-01",
+        "/a2d/751/1136-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 515",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93556
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0515-01"
+      ]
+    },
+    {
+      "cite": "632 A.2d 1002",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1452507
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/159/0099-01"
+      ]
+    },
+    {
+      "cite": "957 A.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8206085,
+        3989800,
+        3989194,
+        3988779,
+        8206001,
+        8206038
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "236",
+          "parenthetical": "reiterating Walker Court's holding that, \"for purposes of the sidewalks exception clause, a state highway running through local agency property is considered a local-agency-owned street.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/957/0232-03",
+        "/pa/598/0388-02",
+        "/pa/598/0389-01",
+        "/pa/598/0388-01",
+        "/a2d/957/0232-01",
+        "/a2d/957/0232-02"
+      ]
+    },
+    {
+      "cite": "598 Pa. 389",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3989194
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "395",
+          "parenthetical": "reiterating Walker Court's holding that, \"for purposes of the sidewalks exception clause, a state highway running through local agency property is considered a local-agency-owned street.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0389-01"
+      ]
+    },
+    {
+      "cite": "971 A.2d 545",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7296632
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "550",
+          "parenthetical": "PUC has \"exclusive jurisdiction to allocate costs and maintenance responsibility of railroad-highway crossings to any public utility or municipal corporation concerned, or to the Commonwealth\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/971/0545-01"
+      ]
+    },
+    {
+      "cite": "842 A.2d 389",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        91572,
+        9286972
+      ],
+      "weight": 6,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "footnote added"
+        },
+        {
+          "page": "401-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0104-01",
+        "/a2d/842/0389-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 104",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91572
+      ],
+      "weight": 4,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "125-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0104-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 705,
+    "char_count": 14666,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3564088099344788
+    },
+    "sha256": "d17267b435eed3cb2cea46accb38e6fe0113831eef86f263b5dee02271782b1d",
+    "simhash": "1:3f5eec52140c5861",
+    "word_count": 2352
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "Stephanie BURKE v. CITY OF BETHLEHEM, Pennsylvania Department of Transportation, Commonwealth of Pennsylvania, Artsquest and Artsquest Foundation City of Bethlehem, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nPresident Judge LEADBETTER.\nThe City of Bethlehem appeals from that portion of the Court of Common Pleas of Northampton County\u2019s December 8, 2009 order denying the City\u2019s motion for summary judgment in a case involving a pedestrian injury on the sidewalk portion of the Hill-to-Hill Bridge, designated as State Route 378 and spanning the Lehigh River and some railroad tracks. The issue before us in this interlocutory appeal is whether the common pleas court erred in determining that the sidewalks on the bridge were within a right-of-way of a street owned by the third-class City of Bethlehem for the purpose of imposition of liability upon the City for a dangerous condition of the sidewalks thereon under the sidewalk exception to governmental immunity. In large part, the common pleas court relied upon Walker v. Eleby, 577 Pa. 104, 842 A.2d 389 (2004), holding that cities of the first or second class were not immune from suit with regard to the lack of repair of sidewalks adjacent to state highways. For the reasons that follow, we affirm.\nThe common pleas court set forth the relevant background of this case in its opinion. In 1915, interested residents petitioned the Public Service Commission (PSC), predecessor to the Public Utility Commission (PUC), for permission to replace the existing crossings over the Le-high River with a new bridge. Upon the PSC\u2019s issuance of a certif\u00edcate of convenience, the City of Bethlehem, Northampton County, Lehigh County, several railroad companies and the Bethlehem Bridge Commission funded the construction of the new bridge. In addition to vehicular, rail and pedestrian traffic, it was to carry several local utility lines. Upon completion, the PSC assigned respective maintenance duties to different parties. In 1931, the Commonwealth designated the roadway on the bridge as part of the state highway system. In 1945, the Commonwealth assumed the City\u2019s maintenance responsibility for parts of the bridge, but rescinded that assumption five years later. As a result of the City\u2019s subsequent petition to the PUC for clarification of the parties\u2019 respective maintenance duties, the PUC in 1957 issued an order requiring the City, \u201cat its sole cost and expense, [to] furnish all material and do all work necessary ... to maintain ... the sidewalks and railings on the main viaduct structure.\u201d Common Pleas Court\u2019s Opinion at 6 (quoting Department\u2019s Summary Judgment Motion, Exhibit A at p. 9, para. 3). In 1995, the PUC reaffirmed its assignment of sidewalk maintenance responsibilities to the City.\nOn August 12, 2007, Stephanie Burke sustained injuries during Musikfest as a result of a fall that occurred on the sidewalk portion of the bridge. Burke alleged that she lost her footing due to a defect in the surface of the sidewalk and that her fall resulted from a dangerous condition of the sidewalk caused by the negligence of both the City and the Department of Transportation in failing to repair and maintain a portion of the sidewalk. Both the City and the Department moved for summary judgment. The court denied the City\u2019s motion and granted the Depart-merit\u2019s motion.\nIn denying the City\u2019s motion, the court concluded that Burke established a common law negligence action and that the alleged negligence fell within the sidewalk exception. Specifically, the court determined that Burke established that the City had a duty to maintain the sidewalk, citing the standing legal order of the PUC assigning responsibility of sidewalk maintenance to the City and the common law obligation of municipalities to maintain reasonably safe sidewalks for their residents. See Norfolk S. Ry. Co. v. Pub. Util. Comm\u2019n, 971 A.2d 545, 550 (Pa.Cmwlth. 2009) (PUC has \u201cexclusive jurisdiction to allocate costs and maintenance responsibility of railroad-highway crossings to any public utility or municipal corporation concerned, or to the Commonwealth\u201d) and Walker (traditional duty of municipality to maintain public sidewalks within its jurisdiction). In addition, the court concluded that it could not rule whether the defect was de minimis thereby precluding liability as a matter of law because such a question was more appropriate for the trier-of-fact. The court further determined that, based on the facts presented, the City possessed an ownership interest in the road itself as well as the bridge for the purpose of the sidewalk exception.\nThe City filed a motion for reconsideration, seeking a re-evaluation of the denial of its summary judgment motion and vacation of the judgment in favor the Department. In addition, it made an oral application seeking permission to appeal from an interlocutory order. In a January 28, 2010 order, the common pleas court granted the City\u2019s motion to the extent of adding language that the December 8, 2009 order involved a controlling question of law and denied the motion in all other respects. The City filed a petition for permission to appeal, which this Court granted. The City\u2019s timely petition for review followed.\nAs an initial matter, we note that in interpreting the sidewalk exception, the Walker Court held that cities of the first or second class were liable for the maintenance of sidewalks located within such cities but abutting designated state highways, where the streets and sidewalks \u201cwere already in existence at the time of the designation as a state highway and were not built or required to be built by the Commonwealth.\u201d Id., 577 Pa. at 125 n. 10, 842 A.2d at 402 n. 10. In limiting its decision to such cities, the Court noted as follows:\nWe are aware that not all sidewalks abutting state highways are governed by the same construct under the State Highway Law.[] See, e.g., [Section 416 of the Law,] 36 P.S. \u00a7 670-416 (authorizing Commonwealth to aid township authorities in construction of sidewalks along designated state highways in certain circumstances; such sidewalks are then considered part of state highway system).\nId. (footnote added). Mindful that the common pleas court in the present case found Walker to be controlling with regard to third-class City of Bethlehem as well, we turn now to the parties\u2019 respective arguments.\nIn support of its position, the City argues that the court erred in determining that the City had an ownership interest in the bridge sufficient to abrogate immunity. It points to evidence indicating that the Commonwealth\u2019s ownership or control went beyond the mere designation of the roadway as a state highway. Further, it maintains that evidence indicates that the Commonwealth, through the PUC, has exercised dominion over the bridge since its erection, that the Commonwealth, through the PUC\u2019s predecessor, directly contracted for the bridge\u2019s construction and that a state highway has been located on the bridge at least since the 1930s. Finally, acknowledging the Supreme Court\u2019s holding in Walker, the City notes that there is no appellate case law directly controlling the question of whether a highway traversing a bridge in a third-class city is owned by the local agency so as to overcome immunity. Based on the well-established law that exceptions to immunity should be narrowly interpreted, the City argues that it should not be deemed to own the street containing the right-of-way where Burke fell.\nBurke contends that the court correctly denied the City\u2019s motion for summary judgment, noting the court\u2019s determinations that 1) the City had a crucial role in petitioning for and financing the bridge\u2019s construction; 2) it has maintained portions of the bridge, including the sidewalk, under several unchallenged PUC orders; 3) it has and continues to exercise physical control of the bridge via traffic control measures, pedestrian regulations and routine policing; and 4) the bridge is physically located within the City. Further, Burke rejects the City\u2019s attempt to distinguish Walker, asserting that the analysis in the present case should be the same as in that case. Finally, Burke asserts that if we decline to affirm the court\u2019s order denying the City\u2019s summary judgment motion, she could be left with no recourse against either the City or the Department. We agree with Burke that the General Assembly did not intend the absurd result of having neither entity be potentially liable, and we agree with the common pleas court that the City is the entity for which immunity has been waived.\nAs our Supreme Court noted in Walker:\nBecause the General Assembly has not expressly provided that the Commonwealth acquires an ownership interest in a city roadway designated as a state highway nor has it indicated any legislative intent to create such an ownership interest, we find that the Commonwealth does not \u201cown\u201d the roadways so designated for purposes of Section 8542(b)(7).\nHaving found that our General Assembly has not conferred ownership upon the Commonwealth, it follows necessarily that ownership remains with the municipality in which the designated roadway is located.\nId., 577 Pa. at 125-26, 842 A.2d at 401-02. While the Supreme Court limited its holding to sidewalks located in cities of the first or second class, its concern \u201cthat not all sidewalks abutting state highways are governed by the same construct under the State Highway Law\u201d does not appear applicable to the case at hand involving a city of the third class. Thus, while Walker is not directly controlling, we find its analysis provides ample support for the common pleas court\u2019s decision. Moreover, as that court noted:\nSeveral facts support our finding [of the City\u2019s ownership for purposes of the sidewalk exception to governmental immunity]. First, and arguably the most persuasive, is the City\u2019s crucial role in the petitioning for and financing the bridge\u2019s construction. Second, the City has maintained portions of the bridge, including the sidewalk, under several unchallenged PUC orders for virtually its entire existence. Third, the City has and continues to exercise physical control of the bridge through traffic control measures, pedestrian regulations, and routine policing that demonstrate possession if not actual title. Finally, and most importantly, the bridge and highway are physically located in the City of Bethlehem.\nCommon Pleas Court\u2019s Opinion at 20 (footnotes omitted).\nFor the above reasons, we affirm the common pleas court\u2019s denial of the City\u2019s motion for summary judgment.\nORDER\nAND NOW, this 24th day of November, 2010, the order of the Court of Common Pleas of Northampton County denying the City of Bethlehem\u2019s motion for summary judgment in the above-captioned matter is hereby AFFIRMED. This matter is REMANDED for further proceedings.\nJurisdiction relinquished.\n. On March 30, 2010, this Court granted the City\u2019s petition for permission to appeal filed pursuant to Pennsylvania Rule of Appellate Procedure 1311.\n. Section 8542(b)(7) of the Judicial Code, as amended, 42 Pa.C.S. \u00a7 8542(b)(7), provides as follows:\n(b) Acts which may impose liability. \u2014 -The following acts by a local agency or any of its employees may result in the imposition of liability on a local agency:\n(7) Sidewalks. \u2014 A dangerous condition of sidewalks within the rights-of-way of streets owned by the local agency, except that the claimant to recover must establish that the dangerous condition created a reasonably foreseeable risk of the kind of injury which was incurred and that the local agency had actual notice or could reasonably be charged with notice under the circumstances of the dangerous condition at a sufficient time prior to the event to have taken measures to protect against the dangerous condition. When a local agency is liable for damages under this paragraph by reason of its power and authority to require installation and repair of sidewalks under the care, custody and control of other persons, the local agency shall be secondarily liable only and such other persons shall be primarily liable.\n.Only the court's denial of the City's summary judgment motion is before us. We note, however, that the court determined that the Department did not own the bridge and, therefore, had no duty to monitor the City's maintenance of the sidewalks. The court cited Walker in support of its determination that the designation of the bridge as State Route 378 did not trigger a presumption of state ownership. See also Reid v. City of Philadelphia, 598 Pa. 389, 395, 957 A.2d 232, 236 (2008) (reiterating Walker Court's holding that, \"for purposes of the sidewalks exception clause, a state highway running through local agency property is considered a local-agency-owned street.\u201d) In addition, the court rejected Burke's arguments that, even if the Department did not own the bridge, it owed a duty of care to maintain the sidewalks due to previous inspections and repairs. The court thus determined that Burke could not establish a common law claim of negligence against the Department, citing the history of the bridge, the lack of Commonwealth ownership and the inapplicability of any assumed duty by the Department.\n. Summary judgment should only be granted in a clear case and the moving party bears the burden of demonstrating that no material issue of fact remains. Salerno v. LaBarr, 159 Pa.Cmwlth. 99, 632 A.2d 1002 (1993). In addition, the record must be reviewed in the light most favorable to the non-moving party. Id.\n. Burke filed a notice of joinder with the City\u2019s petition, and the Department chose not to file an answer. The failure to file an answer to a petition for permission to appeal will not be construed as a concurrence in the petition. Pa. R.A.P. 1314.\n. Artsquest filed a notice of non-participation with this Court on July 23, 2010.\n. Act of June 1, 1945, P.L. 1242, as amended, 36 P.S. \u00a7\u00a7 670-101\u2014670-1007.\n. See Lockwood v. City of Pittsburgh, 561 Pa. 515, 751 A.2d 1136 (2000).\n. Walker, 577 Pa. at 125 n. 10, 842 A.2d at 402 n. 10.\n. Indeed, while not necessary to the disposition of this case, it would appear that the Walker analysis would generally apply in the absence of particular circumstances that suggest a contrary result, such as tire one identified in footnote 10 therein.",
+        "type": "majority",
+        "author": "President Judge LEADBETTER."
+      }
+    ],
+    "attorneys": [
+      "Gregory C. Kunkle, Bethlehem, for appellant.",
+      "Carmen L. Matos and Linda M. Shick, Doylestown, for appellee Burke.",
+      "Claudia M. Tesoro, Senior Dep. Atty. General, Philadelphia, for appellee Dept, of Transportation."
+    ],
+    "corrections": "",
+    "head_matter": "Stephanie BURKE v. CITY OF BETHLEHEM, Pennsylvania Department of Transportation, Commonwealth of Pennsylvania, Artsquest and Artsquest Foundation City of Bethlehem, Appellant.\nCommonwealth Court of Pennsylvania.\nArgued Sept. 13, 2010.\nDecided Nov. 24, 2010.\nGregory C. Kunkle, Bethlehem, for appellant.\nCarmen L. Matos and Linda M. Shick, Doylestown, for appellee Burke.\nClaudia M. Tesoro, Senior Dep. Atty. General, Philadelphia, for appellee Dept, of Transportation.\nBEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0377-01",
+  "first_page_order": 383,
+  "last_page_order": 387
+}

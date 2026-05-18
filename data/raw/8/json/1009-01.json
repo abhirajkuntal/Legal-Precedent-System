@@ -1,0 +1,862 @@
+{
+  "id": 7288906,
+  "name": "HYK CONSTRUCTION COMPANY, INC. v. SMITHFIELD TOWNSHIP and the Board of Supervisors of Smithfield Township, and Smithfield Township Environmental Advisory Council. Appeal of: Smithfield Township/Board of Supervisors",
+  "name_abbreviation": "HYK Construction Co. v. Smithfield Township",
+  "decision_date": "2010-11-19",
+  "docket_number": "",
+  "first_page": "1009",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1009"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "384 A.2d 1008",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "1012",
+          "parenthetical": "concluding that Pennsylvania's Department of Environmental Resources was not a necessary party to a declaratory judgment action where its sole interest in the dispute concerned the identity of the party who would be responsible for complying with its regulations"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "544 A.2d 1070",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1373726
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/117/0508-01"
+      ]
+    },
+    {
+      "cite": "469 A.2d 338",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "342"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "560 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1818953,
+        1818931
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0114-01",
+        "/pa/522/0113-01"
+      ]
+    },
+    {
+      "cite": "522 Pa. 114",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818953
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0114-01"
+      ]
+    },
+    {
+      "cite": "537 A.2d 957",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1369308
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/113/0576-01"
+      ]
+    },
+    {
+      "cite": "848 A.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        91672,
+        9246209
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0581-01",
+        "/a2d/848/0104-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 581",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91672
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0581-01"
+      ]
+    },
+    {
+      "cite": "507 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792334
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0204-01"
+      ]
+    },
+    {
+      "cite": "649 A.2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1468950,
+        7874143
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/168/0258-01",
+        "/a2d/649/0736-01"
+      ]
+    },
+    {
+      "cite": "602 A.2d 861",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "529 Pa. 652",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "597 A.2d 219",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1421208
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/142/0249-01"
+      ]
+    },
+    {
+      "cite": "496 A.2d 1328",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1330"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "587 A.2d 841",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1412262
+      ],
+      "weight": 5,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "843"
+        },
+        {
+          "page": "844"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/138/0157-01"
+      ]
+    },
+    {
+      "cite": "648 A.2d 304",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        475559,
+        7866831
+      ],
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0276-01",
+        "/a2d/648/0304-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 276",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475559
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0276-01"
+      ]
+    },
+    {
+      "cite": "636 A.2d 293",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357197
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "297"
+        },
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/636/0293-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 535",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831237
+      ],
+      "weight": 8,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "548"
+        },
+        {
+          "page": "1210"
+        },
+        {
+          "page": "546-47"
+        },
+        {
+          "page": "1210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0535-01"
+      ]
+    },
+    {
+      "cite": "834 A.2d 661",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9081338
+      ],
+      "pin_cites": [
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/834/0661-01"
+      ]
+    },
+    {
+      "cite": "461 Pa. 745",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483847
+      ],
+      "weight": 5,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "748"
+        },
+        {
+          "page": "860"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/461/0745-01"
+      ]
+    },
+    {
+      "cite": "484 Pa. 441",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1753738
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/484/0441-01"
+      ]
+    },
+    {
+      "cite": "645 A.2d 450",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1463097,
+        7863198
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "452"
+        },
+        {
+          "page": "452"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/165/0519-01",
+        "/a2d/645/0450-01"
+      ]
+    },
+    {
+      "cite": "387 A.2d 495",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "459 Pa. 268",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        481054
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "equity does not have original jurisdiction over a dispute where there is an available remedy at law"
+        },
+        {
+          "parenthetical": "equity does not have original jurisdiction over a dispute where there is an available remedy at law"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/459/0268-01"
+      ]
+    },
+    {
+      "cite": "463 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1708128
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/463/0513-01"
+      ]
+    },
+    {
+      "cite": "424 Pa.Super. 350",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        926705
+      ],
+      "weight": 4,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/424/0350-01"
+      ]
+    },
+    {
+      "cite": "322 Pa.Super. 192",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        592707
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "\"judicial notice should not serve to deny the opposing party the chance to disprove the fact sought to be judicially noticed\""
+        },
+        {
+          "page": "251",
+          "parenthetical": "\"judicial notice should not serve to deny the opposing party the chance to disprove the fact sought to be judicially noticed\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/322/0192-01"
+      ]
+    },
+    {
+      "cite": "296 Pa.Super. 54",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        183057
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/296/0054-01"
+      ]
+    },
+    {
+      "cite": "50 L.Ed.2d 91",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 S.Ct. 86",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 U.S. 828",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6307,
+        5671,
+        5738,
+        6573,
+        7569,
+        7314,
+        6421,
+        7222,
+        5877,
+        5589,
+        7801,
+        6527
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0828-07",
+        "/us/429/0828-02",
+        "/us/429/0828-06",
+        "/us/429/0828-08",
+        "/us/429/0828-10",
+        "/us/429/0828-01",
+        "/us/429/0828-12",
+        "/us/429/0828-11",
+        "/us/429/0828-03",
+        "/us/429/0828-09",
+        "/us/429/0828-05",
+        "/us/429/0828-04"
+      ]
+    },
+    {
+      "cite": "352 A.2d 12",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1714957,
+        1714966
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "n. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/466/0188-01",
+        "/pa/466/0189-01"
+      ]
+    },
+    {
+      "cite": "466 Pa. 189",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1714966
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "n. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/466/0189-01"
+      ]
+    },
+    {
+      "cite": "282 Pa.Super. 487",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        155230
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/282/0487-01"
+      ]
+    },
+    {
+      "cite": "317 A.2d 258",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 Pa. 102",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        584437
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/456/0102-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 288",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0288-01"
+      ]
+    },
+    {
+      "cite": "467 A.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "105",
+          "parenthetical": "holding that the Governor need not participate in litigation involving a constitutional attack upon a tax statute, where his designee, the Secretary of the Department of Revenue, adequately represented his interests"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "941 A.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8392886
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/941/0095-01"
+      ]
+    },
+    {
+      "cite": "795 A.2d 495",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9424739
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/795/0495-01"
+      ]
+    },
+    {
+      "cite": "915 A.2d 719",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8336191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/0719-01"
+      ]
+    },
+    {
+      "cite": "494 Pa. 476",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1769078
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "481"
+        },
+        {
+          "page": "956"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/494/0476-01"
+      ]
+    },
+    {
+      "cite": "640 A.2d 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1843154,
+        7861709
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0462-01",
+        "/a2d/640/0372-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 462",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843154
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0462-01"
+      ]
+    },
+    {
+      "cite": "550 A.2d 184",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1815586,
+        1815591
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0037-01",
+        "/pa/520/0038-01"
+      ]
+    },
+    {
+      "cite": "520 Pa. 38",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815591
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0038-01"
+      ]
+    },
+    {
+      "cite": "838 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9298712,
+        630377,
+        9298628,
+        630455
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "581",
+          "parenthetical": "quoting Sprague v. Casey, 520 Pa. 38, 48, 550 A.2d 184, 189 (1988)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/838/0566-02",
+        "/pa/575/0541-01",
+        "/a2d/838/0566-01",
+        "/pa/575/0542-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 542",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630455
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "567",
+          "parenthetical": "quoting Sprague v. Casey, 520 Pa. 38, 48, 550 A.2d 184, 189 (1988)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0542-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1339,
+    "char_count": 34555,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 1.1848710905645953e-07,
+      "percentile": 0.5895096586712198
+    },
+    "sha256": "4dce72aa9fd77ed3bc5b1e0a86c2cf4ccf2327b33194a379ed2550c24a8813f3",
+    "simhash": "1:8769970f310e96bc",
+    "word_count": 5593
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+    ],
+    "parties": [
+      "HYK CONSTRUCTION COMPANY, INC. v. SMITHFIELD TOWNSHIP and the Board of Supervisors of Smithfield Township, and Smithfield Township Environmental Advisory Council. Appeal of: Smithfield Township/Board of Supervisors."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge KELLEY.\nSmithfield Township (Township) and the Board of Supervisors of Smithfield Township (Board) (collectively, Appellants) appeal from a final order of the Court of Common Pleas of Monroe County (trial court), which granted the equitable relief requested by HYK Construction Company, Inc. (HYK) by appointing an independent hearing examiner to hold conditional use hearings on HYK\u2019s conditional use application and denying party litigant status to Smithfield Township Environmental Advisory Council (EAC). We vacate and remand.\nThe facts of this case are as follows. On April 3, 2007, HYK filed a conditional use application with the Township to construct and operate a concrete manufacturing facility. Hearings before the Board, which is the governing body of the Township, commenced on June 7, 2007. EAC was granted party status by the Board along with approximately 75 persons (neighbors).\nWhile the hearings before the Board were proceeding, HYK filed a complaint seeking declaratory and equitable relief with the trial court on May 9, 2008. Therein, HYK alleged that it was improper for EAC to participate as a party because it was funded by the Township to prepare evidence, expert opinion and argument, presumably contrary to the application, and that its right to a fair and impartial hearing was abrogated on this basis. HYK requested the trial court to void the ongoing conditional use hearings before the Board, to preclude and enjoin the Board from hearing the application, to appoint a neutral hearing examiner to rule on the application, and to preclude EAC from participating as a party.\nAppellants and EAC filed timely answers and new matter to the complaint denying the material allegations of the complaint and asserting that the trial court lacked subject matter jurisdiction because HYK failed to join indispensable parties and failed to exhaust an exclusive statutory remedy contained in the Pennsylvania Municipalities Planning Code (MPC). HYK also filed an emergency motion for equitable relief to enjoin the Board from proceeding with further hearings. On May 15, 2008, the trial court entered a rule to show cause on HYK\u2019s motion for injunction. Appellants and EAC filed answers and a joint motion to dismiss the proceedings before the trial court for lack of jurisdiction.\nA hearing before the trial court was held on August 21, 2008. No testimony was taken. Following a conference with the trial court in chambers, the parties entered into a stipulation which was memorialized and entered as an order of the trial court. Pursuant thereto, the parties were directed to submit briefs to the trial court on the issue of subject matter jurisdiction and the statutory authority of EAC to participate in the conditional use proceeding as a party. The stipulation further provided that if the trial court were to determine that it possesses subject matter jurisdiction, the conditional use matter would be heard and determined by an independent hearing examiner and EAC\u2019s participation in the conditional use proceeding would be limited to the presentation of witnesses and testimony.\nOn November 24, 2008, the trial court issued an opinion and order in which it determined that it had subject matter jurisdiction and that EAC had no authority to participate as a formal party in the conditional use proceeding. The trial court ordered the appointment of an independent arbitrator to conduct the conditional use hearings on HYK\u2019s application and render a final decision with respect to the application. Thereafter, Appellants and HYK filed cross Motions for Post-Trial Relief, which were denied by the trial court by opinion and order dated September 18, 2009. Appellants then filed the instant appeal with this Court. Appellants raise the following issues for our review:\n1. Whether the trial court erred and/or abused its discretion in fading to determine that \u2014 for purposes of HYK\u2019s claims under the Declaratory Judgments Act \u2014 the parties to the underlying conditional use hearing were persons \u201cwho have or claim any interest which would be affected by the declaration\u201d and who must therefore be joined as parties to this action.\n2. Whether the trial court erred and/or abused its discretion in failing to determine that the parties to the underlying conditional use hearing are \u201cindispensable parties\u201d in an equity action which purported to challenge the fairness of that conditional use proceeding and sought the invalidation of the hearings in which such parties have participated and the disqualification of the governing body from the conditional use proceeding.\n3. Whether the trial court erred and/or abused its discretion in making, and then relying upon, matters which were not of record, and in taking judicial notice of disputed adjudicatory factors without notice to the parties and without evidentiary and factual basis.\n4. Whether the trial court erred in finding that it had equity jurisdiction to seize control of and interfere with an ongoing conditional use proceeding in light of the exclusive review provision of the MPC, HYK\u2019s failure to utilize and exhaust an exclusive statutory remedy and inasmuch as the equity action amounts to an improper interlocutory appeal from determinations of the governing body.\n5. Whether the trial court erred and/or abused its discretion in concluding that EAC was properly denied party status in the conditional use hearings.\nFirst, Appellants and EAC contend that the trial court erred and/or abused its discretion in failing to determine that \u2014 for purposes of HYK\u2019s claims under the Declaratory Judgments Act \u2014 the parties to the underlying conditional use hearing were persons \u201cwho have or claim any interest which would be affected by the declaration\u201d and are indispensable parties who should have been joined as parties to this action. We agree.\nA party is generally regarded to be indispensable \u201cwhen his or her rights are so connected with the claims of the litigants that no decree can be made without impairing those rights.\u201d City of Philadelphia v. Commonwealth, 575 Pa. 542, 567, 838 A.2d 566, 581 (2003) (quoting Sprague v. Casey, 520 Pa. 38, 48, 550 A.2d 184, 189 (1988)). \u201c[T]he basic inquiry in determining whether a party is indispensable concerns whether justice can be done in the absence of\u2019 him or her. Id. (quoting CRY, Inc. v. Mill Service, Inc., 536 Pa. 462, 469, 640 A.2d 372, 375 (1994)). The relevant analysis is sometimes said to require examination of the following factors:\n1. Do absent parties have a right or interest related to the claim?\n2. If so, what is the nature of that right or interest?\n3. Is that right or interest essential to the merits of the issue?\n4. Can justice be afforded without violating the due process rights of absent parties?\nCity of Philadelphia, 575 Pa. at 567 n. 11, 838 A.2d at 581 n. 11 (quoting Mechanicsburg Area School District v. Kline, 494 Pa. 476, 481, 431 A.2d 953, 956 (1981)). The failure to join an indispensable party to a lawsuit deprives the court of subject matter jurisdiction. In re 2005 Sale of Real Estate by Clinton County Tax Claim Bureau, 915 A.2d 719 (Pa.Cmwlth.2007); Polydyne, Inc. v. City of Philadelphia, 795 A.2d 495 (Pa.Cmwlth.2002). Whether a court lacks jurisdiction due to the failure to join an indispensable party may be raised at any time or sua sponte. Id.\nIn undertaking this inquiry, the nature of the claim and the relief sought must be considered. City of Philadelphia. In an action for declaratory judgment, \u201call persons shall be made parties who have or claim any interest which would be affected by the declaration.\u201d Section 7540(a) of the Declaratory Judgments Act, 42 Pa.C.S. \u00a7 7540(a). \u201c[N]o declaration shall prejudice the rights of persons not parties to the proceeding.\u201d Id. The Declaratory Judgments Act\u2019s requirement that all who have an interest in the declaration be made parties to the action is mandatory. Pilchesky v. Doherty, 941 A.2d 95 (Pa.Cmwlth.2008).\nWhile the Declaratory Judgments Act\u2019s joinder provision is mandatory, it is subject to reasonable limitations. City of Philadelphia. For example, where a declaratory judgment as to the validity of a statute or ordinance is sought, it is impossible to join as parties every single person whose interests are affected by the statute or ordinance. Id. Requiring the joinder of all such parties would undermine the litigation process and render the litigation unmanageable. Id. Additionally, where a person\u2019s official designee is already a party, the participation of such designee may alone be sufficient, as the interests of the two are identical, and thus, the participation of both would result in duplicative filings. Id.; see Leonard v. Thornburgh, 78 Pa.Cmwlth. 216, 467 A.2d 104, 105 (1983) (holding that the Governor need not participate in litigation involving a constitutional attack upon a tax statute, where his designee, the Secretary of the Department of Revenue, adequately represented his interests). Where the interest involved is indirect or incidental, joinder may not be required. See, e.g., Mid-Centre County Authority v. Township of Boggs, 34 Pa.Cmwlth. 494, 384 A.2d 1008, 1012 (1978) (concluding that Pennsylvania\u2019s Department of Environmental Resources was not a necessary party to a declaratory judgment action where its sole interest in the dispute concerned the identity of the party who would be responsible for complying with its regulations). With these principles in mind, we shall examine whether the neighbors have or claim any interest which would have been affected by the declaration thereby rendering them indispensable parties to the action.\nIn its request for declaratory relief, HYK seeks a declaration that the conditional use hearing before the Board is void. The declaration sought by HYK would affect the rights of all those who participated in the action before the Board. While HYK named Appellants and EAC in its declaratory action, it did not join the neighbors who were granted party status by the Board. HYK asserts that the neighbors\u2019 only interest is being able to voice their concerns to the conditional use application, not to choose the forum in which to do so. However, the neighbors, having been granted party status at the conditional use hearing, participated in the proceedings and have an interest in not having those proceedings declared void.\nHYK further contends that Appellants\u2019 appeal from the trial court\u2019s refusal to join the neighbors has been rendered moot by Crandell v. Pennsbury Township Board of Supervisors, 985 A.2d 288 (Pa.Cmwlth.2009). We disagree. In Crandell, a developer sought an injunction to prohibit the township supervisors from participating in any discussion or decisions relating to the development in question because of bias. The court denied the objecting neighbors\u2019 participation in the injunction hearing because of lack of standing, in that the objectors could not prove any interest in the outcome of the litigation which surpassed the common interest of all citizens. Cran-dell.\nUnlike the situation in Crandell, the neighbors\u2019 interest in the present case surpasses the common interest of all citizens by virtue of their involvement and participation in the conditional use proceeding, which HYK seeks to have declared void. HYK overlooks the fact that the neighbors are formal parties and participated in numerous hearings conducted before the Board, and in some cases were represented by counsel, at significant expenditure of time, effort and cost. The neighbors\u2019 interest in not having their participation before the Board voided and destroyed rises above the common interest of all citizens. This interest is adversely affected by HYK\u2019s equity action to which they were not joined. For purposes of HYK\u2019s claims under the Declaratory Judgments Act, we believe the neighbors are persons \u201cwho have or claim any interest which would be affected by the declaration\u201d and are indispensable parties who should have been joined as parties to the action. We, therefore, conclude that the trial court erred by not requiring the neighbors\u2019 joinder and could not properly entertain HYK\u2019s equity claims in their absence.\nNext, Appellants and EAC contend that the trial court erred and/or abused its discretion in making, and then relying upon, matters which were not of record, and in taking judicial notice of disputed adjudicatory factors without notice to the parties and without an evidentiary and factual basis. We agree.\nIt is well established that facts outside of the record may not be considered. Pursuant to Rule 1921 of the Pennsylvania Rules of Appellate Procedure, the contents of the certified record shall include:\nThe original papers and exhibits filed in the lower court, hard copies of legal papers filed with the prothonotary by means of electronic filing, the transcript of proceedings, if any, and a certified copy of the docket entries prepared by the clerk of the lower court shall constitute the record on appeal in all cases.\nPa. R.A.P.1921. An appellate court may consider only the facts which have been duly certified in the record on appeal. Commonwealth v. Young, 456 Pa. 102, 115, 317 A.2d 258, 264 (1974). It is equally axiomatic that the trier-of-fact must only consider evidence in the record. See Chaplin v. Pelton, 282 Pa.Super. 487, 423 A.2d 8 (1980). A trial court is not empowered to conduct its own fact-finding investigation. Klemow v. Time Inc., 466 Pa. 189 n. 3, 352 A.2d 12 n. 3, cert. denied, 429 U.S. 828, 97 S.Ct. 86, 50 L.Ed.2d 91 (1976).\nAlthough a court may take judicial notice of a fact, a \u201cjudicially noticed fact must be one not subject to reasonable dispute in that it is either (1) generally known within the territorial jurisdiction of the trial court or (2) capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned.\u201d Pa. R.E. 201(b). Disputed questions of fact are not within the domain of judicial notice. Haber v. Monroe County Vocational-Technical School, 296 Pa.Super. 54, 442 A.2d 292 (1982); Chaplin. A party is entitled upon timely request to an opportunity to be heard as to the propriety of taking judicial notice. Pa. R.E. 201(e); see Commonwealth v. Covert, 322 Pa.Super. 192, 469 A.2d 248, 251 (1983) (\u201cjudicial notice should not serve to deny the opposing party the chance to disprove the fact sought to be judicially noticed\u201d). Judicial notice itself does not necessarily establish a fact. In Interest of D.S., 424 Pa.Super. 350, 622 A.2d 954 (1993). Judicial notice of a fact, when correctly taken, constitutes evidence, which like any evidence, may be rebutted. Id.\nHere, the trial court made numerous disputed findings that are not based upon anything of record or even asserted in HYK\u2019s complaint, but rather are based on the trial court\u2019s own investigation. These include findings concerning the minutes of EAC meetings, the [nonvoting] membership of Supervisor Dellaf-era\u2019s wife on EAC, the alleged attendance of Supervisor Dellafera at a meeting of \u201can environmental advocacy group, which is outspoken in its opposition to HYK\u2019s conditional use application,\u201d Supervisor Barrett\u2019s campaign platform which included opposition to development within the Township, and Supervisor Barrett\u2019s membership to the Shawnee Preservation Society, which opposes development in the Township. Trial Court Opinion, November 24, 2008, at 2, 11. The trial court improperly embarked on an extramural investigation to determine bias. The trial court\u2019s consideration of evidence outside of the record was inappropriate and a clear violation of Appellants\u2019 due process rights as they did not have the opportunity to question, let alone dispute, the \u201cevidence\u201d. The trial court\u2019s findings are clearly not the proper subject for \u201cjudicial notice\u201d as they are subject to reasonable dispute. We, therefore, conclude that the trial court erred and abused its discretion in considering matters which were not of the record and taking judicial notice of disputed facts.\nNext, Appellants and EAC contend that the trial court erred in finding that it had equity jurisdiction because HYK failed to utilize and exhaust an exclusive statutory remedy set forth in the MPC and HYK\u2019s equity action amounts to an improper interlocutory appeal from the determinations of the Board. HYK counters that the mere potential for bias or the appearance of nonobjectivity was enough to constitute a violation of due process and thereby necessitated the trial court\u2019s action to remove the matter from the Board.\nThe procedures for a land use appeal set forth in Article X-A of the MPC are \u201cthe exclusive mode for securing review of any decision rendered pursuant to Article IX [Zoning Hearing Board and other Administrative Proceedings] or deemed to have been made under this act.\u201d Section 1001-A of the MPC, 53 P.S. \u00a7 11001-A (emphasis added). This necessarily includes all decisions made in the course of a conditional use proceeding. See id. Section 908(2) of the MPC, 53 P.S. \u00a7 10908(2), provides that the \u201chearings shall be conducted by the board or the board may appoint any member or an independent attorney as a hearing officer.\u201d \u201cThe parties shall have the right to be represented by counsel and shall be afforded the opportunity to respond and present evidence and argument and cross-examine adverse witnesses on all relevant issues.\u201d Section 908(5) of the MPC, 53 P.S. \u00a7 10908(5).\nIt is well-settled that where the General Assembly provides a \u201cstatutory remedy which is mandatory and exclusive, equity is without power to act.\u201d DeLuca v. Buckeye Coal Company, 463 Pa. 513, 519, 345 A.2d 637 (1975); see Borough of Green Tree v. Board of Property Assessments, Appeals and Review of Allegheny County, 459 Pa. 268, 328 A.2d 819 (1974) (equity does not have original jurisdiction over a dispute where there is an available remedy at law). Only where the statutory remedy is inadequate, incomplete, or nonexistent has an exception to the exclusiveness rule been recognized. Borough of Green Tree; Caserta v. Milford Township, 35 Pa.Cmwlth. 598, 387 A.2d 495 (1978). This Court has long recognized that interference with the actions of a municipal body is to be undertaken in extremely limited circumstances. Prin v. Council of Municipality of Monroeville, 165 Pa.Cmwlth. 519, 645 A.2d 450, 452 (1994).\nWhere there is a challenge that the statutory remedy does not meet the mandate of due process, as is the case here, the claim is in essence an assertion of the inadequacy of the statutorily prescribed remedy. Cedarbrook Realty, Inc. v. Nahill, 484 Pa. 441, 399 A.2d 374 (1979). A fair trial conducted in a fair tribunal is a basic and fundamental requirement of due process. Horn v. Township of Hilltown, 461 Pa. 745, 337 A.2d 858 (1975). Fairness of course requires an absence of actual bias in the trial of eases. Id. Courts have recognized that \u201cthe mere potential for bias or the appearance of non-objectivity may be sufficient to constitute a violation\u201d of due process. Kuszyk v. Zoning Hearing Board of Amity Township, 834 A.2d 661, 665 (Pa.Cmwlth.2003); see Horn. A question of due process reasonably involves an inquiry into the nature of the process actually provided. Lyness v. State Board of Medicine, 529 Pa. 535, 605 A.2d 1204 (1992); Stone and Edwards Insurance Agency, Inc. v. Department of Insurance, 161 Pa.Cmwlth. 177, 636 A.2d 293, 297, aff'd, 538 Pa. 276, 648 A.2d 304 (1994).\nFor example, in Horn, our Supreme Court held that it was improper for the same individual to serve as a zoning board\u2019s solicitor and to appear before that same zoning board as the municipality\u2019s solicitor to oppose an application for a variance. The Supreme Court found such a procedure to constitute a denial of due process, even though there had been no showing of actual prejudice to the applicant resulting from the solicitor\u2019s dual role. Horn. The Court explained \u201ca governmental body charged with certain decision-making functions ... must avoid the appearance of possible prejudice, be it from its members or from those who advise it or represent parties before it.\u201d Id., 461 Pa. at 748, 337 A.2d at 860.\nSimilarly, in Newtown Township Board of Supervisors v. Greater Media Radio Co., 138 Pa.Cmwlth. 157, 587 A.2d 841 (1991), we held that the board failed to keep its role as an unbiased tribunal where the township\u2019s solicitor served as a legal adviser to the board of supervisors while also representing the township at the hearing in opposition to a conditional use application. It \u201ccreate[d] an appearance of impropriety for the township\u2019s solicitor to serve as legal advisor to the Board in ruling on Appellee\u2019s conditional use application, and to also act in an adversarial capacity in opposition to the conditional use application.\u201d Newtown, 587 A.2d at 843. When a governing body is acting in the capacity of a tribunal, it must avoid not only actual bias, but also even the appearance of bias or impropriety. Newtown. Despite agreeing with the trial court that the procedures used by the board were prejudicial to the applicant, we found that the trial court erred in disregarding this irregularity and deciding the case on its merits. \u201cThe appropriate action would have been to remand the matter to the Board, with an order to conduct new public hearings in a manner which is in accordance with its role as an impartial decision-making tribunal.\u201d Id. at 844. On this basis, we vacated the order of trial court and the matter was remanded to the board with the direction that the board adhere to its role as an impartial tribunal. Id.\nIn Prin, appellants argued they were denied due process by a councilman\u2019s participation in the council votes that resulted in denial of their applications for the construction of a shopping center despite the councilman\u2019s obvious bias against the project. The councilman publicly spoke in opposition to the applications and wrote to his fellow councilmen expressing his strong opposition to the project and asking them to disapprove the project. The appellants\u2019 attorney requested his recusal, but the request was ignored; the applications were denied. The trial court affirmed without further hearing. While the appellants presented the question of the councilman\u2019s bias to the trial court, the trial court did not address the issue in its opinion. On appeal, we opined that the councilman\u2019s clear bias should have precluded him from participating in council\u2019s vote on the appellants\u2019 applications. Prin. We reiterated the long-established rule that \u201cany tribunal permitted by law to try cases and controversies must not only be unbiased but must avoid even the appearance of bias.\u201d Id., 645 A.2d at 452 (quoting McVay v. Zoning Hearing Board of New Bethlehem Borough, 91 Pa.Cmwlth. 287, 496 A.2d 1328, 1330 (1985)). Accordingly, we reversed the trial court\u2019s order and remanded the matter to the trial court with direction to remand the case to the council for a vote absent the biased councilman. Prin.\nIn Lyness, the State Board of Medicine convened to hear evidence against a physician and determined that formal charges should be lodged and a formal hearing be held. Although a hearing examiner heard the evidence and made a recommendation, the recommendation was reviewed by the State Board of Medicine with many of the same members participating. The board then decided to revoke the physician\u2019s license to practice medicine. When the physician appealed to this Court, we held that there was no per se violation of due process and required a showing of actual bias. Reversing, the Supreme Court opined that \u201c[w]hether or not any actual bias existed as a result of the Board acting as both prosecutor and judge is inconsequential; the potential for bias and the appearance of non-objectivity is sufficient to create a fatal defect under the Pennsylvania Constitution.\u201d Lyness, 529 Pa. at 548, 605 A.2d at 1210. The Supreme Court held that because the members of the State Board of Medicine made both the decision to prosecute and the final adjudication, they impermissibly commingled their functions and violated the physician\u2019s due process right to a fair and impartial tribunal under Article 1 of the Pennsylvania Constitution. Id. at 546-47, 605 A.2d at 1210. The Supreme Court continued that the defect can be readily cured by placing the prosecutorial functions in a group of individuals, or entity, distinct from the Board which renders the ultimate adjudication. Id. The Court remanded the matter to the Board for further proceedings in accordance with its opinion. Id.\nIn Stone, we opined that impermissible commingling exists within an administrative agency when the prosecuto-rial and administrative functions are not adequately separated. Due process rights not only can be violated when there is actual commingling, but even when an appearance that commingling of functions may have taken place within the agency exists. Stone. Citing Lyness, we opined a single administrative agency may exercise both prosecutorial and adjudicative functions if \u201cwalls of division\u201d are constructed within an agency that clearly separate those two functions. Stone, 636 A.2d at 297. Sub-entities of administrative agencies can perform prosecutorial and adjudicative functions without commingling the two, as long as walls of division are constructed to eliminate the threat or appearance of bias. Lyness; Stone.\nHere, the exclusive mode of review for a conditional use application is before the Board. While HYK filed its conditional use application with the Board, it failed to exhaust this exclusive statutory remedy claiming that the remedy is inadequate. In its complaint, HYK asserted that the Board cannot sit as an impartial adjudicator of a conditional use application while at the same time funding EAC to participate as a party litigant and likely adversary to the application. HYK further asserted that by funding EAC\u2019s preparation of evidence, expert opinion and argument, presumably contrary to the application, the Board has created a potential conflict of interest. HYK maintains that its equity action was necessary to avoid the potential bias and the appearance of non-objectivity of the Board based upon the Board\u2019s relationship with EAC.\nThe facts of the instant case fail to rise to the level necessary to invoke equity. There is not the same commingling of prosecutorial and adjudicative functions as contemplated in Lyness and Stone. While EAC is funded by the Township and was granted party status by the Board, EAC is a separate and distinct entity from the Board. The requisite walls of division are in place to overcome any appearance of impropriety. See Lyness; Stone. To the extent any similarity can be drawn between EAC\u2019s role in this matter and the solicitor\u2019s role in Horn and Newtown, even HYK concedes that the apparent conflict of interest could be remedied by the removal of EAC as a party litigant. HYK\u2019s Brief at p. 11; R.R. at 4, 6. As illustrated by the cases above, where a conflict of interest or appearance of impropriety has been found, the prevailing remedy has been to remand the matter to the hearing tribunal to conduct a new hearing as an impartial decision maker. See Lyness; Horn; Prin; Stone; Newtown.\nWe believe HYK\u2019s equity action represents an improper attempt to circumvent the mandatory statutory review process. To allow equity jurisdiction to usurp the power of the Board would create infinite challenges to interlocutory determinations and defeat or, at the very least, disrupt the Commonwealth\u2019s structure for review of zoning decisions by local boards and governing bodies. If the courts became involved every time a party makes an allegation of bias, the courts \u2014 rather than the Board \u2014 would be reviewing conditional use applications. Any claims of unfairness or bias should be raised first before the hearing tribunal, in this case the Board, and then ultimately on appeal, otherwise such claims may be deemed waived. Amerikohl Mining Inc. v. Zoning Hearing Board of Wharton Township, 142 Pa.Cmwlth. 249, 597 A.2d 219, 222 n. 4 (1991), petition for allowance of appeal denied, 529 Pa. 652, 602 A.2d 861 (1992). Since an adequate remedy at law exists, we can find no justification for the trial court\u2019s exercise of equity jurisdiction in this matter.\nAccordingly, having concluded that the trial court improperly exercised equity jurisdiction in this matter by removing the matter from the Board, we vacate the order of the trial court and remand for the entry of an order dismissing HYK\u2019s complaint with prejudice.\nORDER\nAND NOW, this 19th day of November, 2010, the order of the Court of Common Pleas of Monroe County (trial court), dated September 18, 2009, at Docket No. 4385 CIVIL 2008, is VACATED and this matter is REMANDED to the trial court for the entry of an order dismissing HYK\u2019s complaint with prejudice.\nJurisdiction relinquished.\n. As the record of the conditional use hearing before the Board is not part of the record here, the Court is unable to verify this number. The parties concur that the number is approximately 75. See Appellants\u2019 Brief at 7; Reproduced Record (R.R.) at 17.\n. Act of July 31, 1968, P.L. 805, as amended, 53 P.S. \u00a7\u00a7 10101-11202.\n. EAC also filed a Motion for Post-Trial Relief, but withdrew the motion on February 19, 2009.\n. On December 23, 2008, Appellants appealed the trial court's November 24, 2008 order to the Superior Court of Pennsylvania. The appeal was transferred to this Court, which issued an order on May 5, 2009 quashing the appeal as premature. The case was remanded to the trial court for a decision on the pending post-trial motions.\n. Our scope of review in an appeal from a declaratory judgment action is whether the trial court's findings are supported by substantial evidence, whether the trial court committed an error of law or whether the trial court abused its discretion. Erie Insurance Company/Erie Insurance Exchange v. Flood, 168 Pa.Cmwlth. 258, 649 A.2d 736 (1994).\n. 42Pa.C.S.\u00a7\u00a7 7531-7541.\n. We have reordered Appellants\u2019 issues for the purpose of our discussion.\n. EAC is a designated appellee, but has aligned itself with Appellants. In the brief filed by EAC, EAC adopts the arguments contained in Appellants\u2019 Brief and expands upon issue No. 5.\n. HYK's basis for its equity claim was based upon EAC\u2019s role in this matter. HYK did not allege bias on the part of any of the individual Board members, nor did it seek recusal of any Board member. Supervisor Dellaferra did recuse himself from acting as a member of the tribunal hearing the conditional use application at the August 21, 2008 hearing before the trial court. If HYK had sought recusal, recusal motions are directed in the first instance to the official whose recusal is sought, for that official\u2019s self-assessment. Reilly by Reilly v. Southeastern Pennsylvania Transportation Authority, 507 Pa. 204, 489 A.2d 1291 (1985); Crandell. It is only after that official\u2019s refusal to recuse, and some substantive action adverse to the movant, that the issue is ripe for review, for abuse of discretion, by another body. Commonwealth v. Druce, 577 Pa. 581, 848 A.2d 104 (2004); Crandell.\n. Added by the Act of December 21, 1988, P.L. 1329.\n. Prin was decided before the adoption of Section 603 of The Second Class Township Code (Code), Act of May 1, 1933, P.L. 103, as amended, 53 P.S. \u00a7 65603. See Crandell. Section 603 specifically protects a Board member's right to vote in accordance with campaign promises and other past statements, providing \"[a] member of the board shall not be disqualified from voting on any issue before the board solely because the member has previously expressed an opinion in either an official or unofficial capacity.\u201d 53 P.S. \u00a7 65603.\n. Unlike Horn and Newtown, there is no support in the record to conclude that EAC was granted party status to act in opposition to the conditional use application. HYK merely presumes that EAC's position will be adversarial to its application. The test is whether the relationship is one in which influence over the decision-maker\u2019s vote is likely. FR & S, Inc. v. Department of Environmental Resources, 113 Pa.Cmwlth. 576, 537 A.2d 957 (1988), aff'd, 522 Pa. 114, 560 A.2d 128 (1989).\n. This issue must be raised before the Board in order to preserve it for appeal.\n. In Lower Providence Township v. Nagle, 79 Pa.Cmwlth. 322, 469 A.2d 338 (1984), the trial court granted a suspended police officer a de novo hearing reasoning that since the board failed to address the question of bias, the record was incomplete. On appeal, we reversed the court explaining:\nIt is apparent, however, that the Board did not address the issue of bias because that issue was not raised before it, and since a full and complete transcript of the proceedings before the Board on the issues that were properly raised there, was forwarded to the Court, we must conclude that the court improperly heard the appeal de novo.\nNagle, 469 A.2d at 342. Conversely, in Appeal of Lawrence Township Board of Supervisors, 117 Pa.Cmwlth. 508, 544 A.2d 1070 (1988), the trial court found that the cross examination of a witness at the hearing before the board of supervisors was improperly limited. An issue was raised before the board regarding the witness\u2019s bias or interest in the case. The board did not address this issue or permit the appellant to develop testimony regarding the issue. We held that since the issue of bias of the complaining party was raised below, and since the trial court found that the appellant\u2019s opportunity to cross-examine the witness was \"improperly limited,\" the trial court correctly exercised its discretion to determine that a de novo appeal was warranted. Appeal of Lawrence Township.\n. In light of this determination, we need not reach the issue of whether the trial court erred and/or abused its discretion in declaring that EAC may not participate as a party in the conditional use hearings.",
+        "type": "majority",
+        "author": "Senior Judge KELLEY."
+      }
+    ],
+    "attorneys": [
+      "Ronald J. Karasek, Bangor, for appellant.",
+      "Terry L. Parish, Reading, for appellee, HYK Construction Company, Inc.",
+      "Charles W. Elliott, Easton, for appellee, Smithfield Township Environmental Advisory Council."
+    ],
+    "corrections": "",
+    "head_matter": "HYK CONSTRUCTION COMPANY, INC. v. SMITHFIELD TOWNSHIP and the Board of Supervisors of Smithfield Township, and Smithfield Township Environmental Advisory Council. Appeal of: Smithfield Township/Board of Supervisors.\nCommonwealth Court of Pennsylvania.\nArgued June 21, 2010.\nDecided Nov. 19, 2010.\nRonald J. Karasek, Bangor, for appellant.\nTerry L. Parish, Reading, for appellee, HYK Construction Company, Inc.\nCharles W. Elliott, Easton, for appellee, Smithfield Township Environmental Advisory Council.\nBEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+  },
+  "file_name": "1009-01",
+  "first_page_order": 1035,
+  "last_page_order": 1048
+}

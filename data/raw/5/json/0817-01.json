@@ -1,0 +1,63 @@
+{
+  "id": 7289593,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Selassi JONES, Petitioner",
+  "name_abbreviation": "Commonwealth v. Jones",
+  "decision_date": "2010-10-04",
+  "docket_number": "No. 96 EM 2010",
+  "first_page": "817",
+  "last_page": "817",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 817"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 301,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661809630602321
+    },
+    "sha256": "676b8a7f9719a3c5e97db2c4b6d91e00e47f2cac46557268bea87bff231e4275",
+    "simhash": "1:5494523751ef3992",
+    "word_count": 48
+  },
+  "last_updated": "2023-07-14T15:48:37.042050+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Selassi JONES, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 4th day of October, 2010, the \u201cMotion for Reconsideration Nunc Pro Tunc,\u201d treated as a Petition for Relief per Pa.R.A.P. 123, is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Selassi JONES, Petitioner.\nNo. 96 EM 2010.\nSupreme Court of Pennsylvania.\nOct. 4, 2010."
+  },
+  "file_name": "0817-01",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

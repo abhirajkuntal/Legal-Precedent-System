@@ -1,0 +1,569 @@
+{
+  "id": 7288406,
+  "name": "Stacia WOODEN, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Wooden v. United States",
+  "decision_date": "2010-10-28",
+  "docket_number": "No. 07-CF-308",
+  "first_page": "833",
+  "last_page": "843",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 833"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "130 S.Ct. 3020",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12455289,
+        3644508
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "3026, 3050"
+        },
+        {
+          "page": "3038"
+        },
+        {
+          "page": "3120, 3132",
+          "parenthetical": "Breyer, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/177/0894-01",
+        "/us/561/0742-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 3,
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "914 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8331923
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "8, 22-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/914/0001-01"
+      ]
+    },
+    {
+      "cite": "989 A.2d 1096",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292176
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1101"
+        },
+        {
+          "page": "note 51"
+        },
+        {
+          "page": "1101"
+        },
+        {
+          "page": "note 51"
+        },
+        {
+          "page": "1101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/1096-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8161642
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "150"
+        },
+        {
+          "page": "150"
+        },
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/963/0147-01"
+      ]
+    },
+    {
+      "cite": "964 A.2d 1282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8221186
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1287"
+        },
+        {
+          "page": "note 47"
+        },
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/1282-01"
+      ]
+    },
+    {
+      "cite": "289 Or. 359",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2165823
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "citing G. Neumann, Swords and Blades of the American Revolution, 6-15, 252-54 (1973)"
+        },
+        {
+          "page": "98",
+          "parenthetical": "citing G. Neumann, Swords and Blades of the American Revolution, 6-15, 252-54 (1973)"
+        },
+        {
+          "page": "note 39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/289/0359-01"
+      ]
+    },
+    {
+      "cite": "849 F.2d 273",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12027935
+      ],
+      "pin_cites": [
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/849/0273-01"
+      ]
+    },
+    {
+      "cite": "859 F.2d 1318",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537025
+      ],
+      "pin_cites": [
+        {
+          "page": "1318-19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/859/1318-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 1242",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "979 A.2d 630",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294459,
+        7294407
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "638-40"
+        },
+        {
+          "page": "642"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/0630-02",
+        "/a2d/979/0630-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 323",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291996
+      ],
+      "pin_cites": [
+        {
+          "page": "339-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/0323-01"
+      ]
+    },
+    {
+      "cite": "968 A.2d 39",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7331553
+      ],
+      "pin_cites": [
+        {
+          "page": "93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/0039-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 461",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11652245
+      ],
+      "weight": 7,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "468"
+        },
+        {
+          "page": "467-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0461-01"
+      ]
+    },
+    {
+      "cite": "307 U.S. 174",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138036
+      ],
+      "weight": 12,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "177",
+          "parenthetical": "in absence of evidence that possession or use of short-barrel shotgun has some reasonable relationship to preservation or efficiency of well regulated militia, Second Amendment does not guarantee right to keep and bear such instrument"
+        },
+        {
+          "parenthetical": "in absence of evidence that possession or use of short-barrel shotgun has some reasonable relationship to preservation or efficiency of well regulated militia, Second Amendment does not guarantee right to keep and bear such instrument"
+        },
+        {
+          "parenthetical": "in absence of evidence that possession or use of short-barrel shotgun has some reasonable relationship to preservation or efficiency of well regulated militia, Second Amendment does not guarantee right to keep and bear such instrument"
+        },
+        {
+          "page": "179"
+        },
+        {
+          "parenthetical": "quoting Blackstone"
+        },
+        {
+          "page": "179"
+        },
+        {
+          "page": "181"
+        },
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/307/0174-01"
+      ]
+    },
+    {
+      "cite": "128 S.Ct. 2783",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3677081
+      ],
+      "weight": 23,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "2821-22"
+        },
+        {
+          "page": "2788"
+        },
+        {
+          "page": "2797"
+        },
+        {
+          "page": "2797-98"
+        },
+        {
+          "page": "2801",
+          "parenthetical": "emphasis omitted"
+        },
+        {
+          "page": "2791-92"
+        },
+        {
+          "page": "2816"
+        },
+        {
+          "page": "2817"
+        },
+        {
+          "page": "2817"
+        },
+        {
+          "page": "2818"
+        },
+        {
+          "page": "2796"
+        },
+        {
+          "page": "2791, 2795"
+        },
+        {
+          "page": "2828"
+        },
+        {
+          "page": "2815"
+        },
+        {
+          "page": "2815-16"
+        },
+        {
+          "page": "2815"
+        },
+        {
+          "page": "2818"
+        },
+        {
+          "page": "2816"
+        },
+        {
+          "page": "2792"
+        },
+        {
+          "page": "2799",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    },
+    {
+      "cite": "452 A.2d 959",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7991072
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "961"
+        },
+        {
+          "page": "note 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/452/0959-01"
+      ]
+    },
+    {
+      "cite": "441 A.2d 644",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7958372
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "note 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/441/0644-01"
+      ]
+    },
+    {
+      "cite": "785 A.2d 321",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9457835
+      ],
+      "pin_cites": [
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/785/0321-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 725",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6237509
+      ],
+      "weight": 12,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "732-36"
+        },
+        {
+          "page": "note 3"
+        },
+        {
+          "page": "note 2"
+        },
+        {
+          "page": "note 3"
+        },
+        {
+          "page": "note 5"
+        },
+        {
+          "page": "732"
+        },
+        {
+          "page": "note 5"
+        },
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0725-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1368,
+    "char_count": 34224,
+    "ocr_confidence": 0.759,
+    "pagerank": {
+      "raw": 7.22095169385949e-08,
+      "percentile": 0.43118614251255577
+    },
+    "sha256": "93ad392abe26d20f7b6faf5888468e8a6377df99bf4168eaa369b1cc8aba72fe",
+    "simhash": "1:56e4a4aca9a5945f",
+    "word_count": 5504
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUIZ, Associate Judge, and FERREN and SCHWELB, Senior Judges."
+    ],
+    "parties": [
+      "Stacia WOODEN, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "FERREN, Senior Judge:\nThe Second Amendment provides in part: \u201c... the right of the people to keep and bear Arms, shall not be infringed.\u201d In this case, appellant contends that her conviction for carrying a dangerous weapon (CDW) \u2014 a knife \u2014 should be reversed because the court\u2019s instruction to the jury violated the Second Amendment. How? By permitting the jury to convict if appellant \u201cintended to use the [knife] as a dangerous weapon,\u201d even if her only purpose was to have it ready for \u201clawful self-defense.\u201d Because appellant did not make this claim at trial, both parties agree that we review for plain error. Finding none, we affirm.\nI.\nThe altercation at issue occurred between appellant, Stacia Wooden (the wife of John Cunningham), and Victoria Thomas (Cunningham\u2019s former girlfriend, with whom he had a daughter). The animosity between them was attributable primarily to appellant\u2019s learning that Thomas was still sexually involved with Cunningham. That led to a fight between them in late March of 2005, when Thomas, according to her own testimony, saw \u201ca knife on the ground\u201d and \u201cpicked the knife up,\u201d but \u201cstopped\u201d after Cunningham\u2019s mother intervened and \u201ccut her finger\u201d on it.\nTempers cooled over the next two months, but the animosity flared up as a rivalry developed between appellant and Thomas over caring for Cunningham\u2019s grandmother, Emma Cunningham. According to the government\u2019s evidence, on May 28, 2005, appellant was speaking with Emma over the telephone, insisting that she get ready for \u201cday camp\u201d (an elder care program), when Thomas, already at Emma\u2019s house, intercepted the call from a hall telephone. That morning, Emma had told Thomas that her \u201cheart hurt,\u201d and Thomas assured her, after appellant\u2019s call, that Thomas would take Emma to the hospital. As Thomas was going downstairs to retrieve her car, appellant entered the foyer through the front door. The two began to argue: appellant for day camp, Thomas for the hospital. Thomas stepped toward appellant, who then threw hot coffee on Thomas\u2019s face. A physical struggle began, and the women carried the fight outside onto the porch.\nAccording to the neighbor from next door, Linda Durett, the two were leaning against a brick half-wall that divided grandmother Emma\u2019s house from Durett\u2019s. Durett saw that Thomas \u201cwas bleeding from her forehead\u201d and that appellant had \u201ca little knife in her hand.\u201d Durett screamed. John Cunningham\u2019s brother, Jamel McCormick, came out of the house and took the knife from appellant, whereupon Durett\u2019s son, Troy, came out of his house and broke up the fight.\nII.\nUnder the CDW statute, as the jury was instructed, a defendant may be convicted for knowingly and intentionally carrying a deadly or dangerous weapon, openly or concealed on or about the person, with an intent to use it as a dangerous weapon\u2014 even though the intended dangerous use is limited to an anticipated need for self defense. Wooden expressly concedes this. According to his opening brief, \u201cat the time of trial it was clearly settled that a defendant to a CDW charge could not claim self-defense to justify possession of the weapon before the need for self-defense arose\u201d; the law \u201cclearly supported\u201d the judge\u2019s CDW instruction to the jury. To explain that acknowledgment, counsel for Wooden cited this court\u2019s 1982 decision in McBride, in which we said: \u201cA person who possesses a \u2018dangerous weapon\u2019 in good faith anticipation of a need to use it in self-defense may be guilty of a general-intent weapons offense,\u201d such as CDW. Accordingly, Wooden did not challenge the CDW instruction at trial because counsel perceived no statutory grounds for doing so.\nBecause we review for plain error, the question presented is whether the Second Amendment \u201cclearly\u201d or \u201cobviously\u201d incorporates a right to carry a dangerous weapon, here a knife, with an intention to use it only, if necessary, for the lawful purpose of self-defense. Put another way, is it clear or obvious that the Second Amendment trumps McBride\u2019s observation that carrying a dangerous weapon solely for purposes of anticipatory self-defense is unlawful?\nIn District of Columbia v. Heller the Supreme Court held that the District of Columbia\u2019s \u201cban on handgun possession in the home violates the Second Amendment, as does its prohibition against rendering any lawful firearm in the home operable for the purpose of immediate self-defense.\u201d The Court concluded that the Second Amendment \u201cguarantee^] the individual right to possess and carry weapons in case of confrontation,\u201d and it stressed that self-defense is \u201cthe central component of the right itself.\u201d Moreover, \u201cthe Second Amendment extends, prima facie, to all instruments that constitute bearable arms, even those that were not in existence at the time of the founding.\u201d\nOn the other hand, the Court recognized limitations:\nLike most rights, the right secured by the Second Amendment is not unlimited. From Blackstone through the 19th-cen-tury cases, commentators and courts routinely explained that the right was not a right to keep and carry any weapon whatsoever in any manner whatsoever and for whatever purpose. [Citations omitted.] For example, the majority of the 19th-century courts to consider the question held that prohibitions on carrying concealed weapons were lawful under the Second Amendment or state analogues.[]\nFurthermore, the Court appeared to agree with an earlier decision, United States v. Miller, to this extent: \u201cthe sorts of weapons protected were those \u2018in common use at the time,\u2019 \u201d a limitation \u201cfairly supported by the historical tradition of prohibiting the carrying of \u2018dangerous and unusual weapons.\u2019 \u201d Thus, \u201cthe Second Amendment does not protect those weapons not typically possessed by law-abiding citizens for lawful purposes, such as short-barreled shotguns. That accords with the historical understanding of the scope of the right[.]\u201d\nIII.\nAlthough appellant\u2019s trial preceded Heller, all parties agree that, in evaluating plain error, the Supreme Court\u2019s decision in Johnson v. United States controls: \u201cwhere the law at the time of trial was settled and clearly contrary to the law at the time of appeal[,] it is enough that an error be \u2018plain\u2019 at the time of appellate consideration.\u201d Appellant acknowledges that the CDW instruction pursuant to which she was convicted reflected settled law and argues that it is clearly contrary to Heller, now applicable to her case.\nAppellant argues more specifically, in light of Heller, that reversal and remand are required to permit the trial court to fashion jury instructions recognizing that (1) a knife, like a gun, is entitled to Second Amendment protection \u2014 even when intended for dangerous use \u2014 if held solely for purposes of self-defense; that (2) although \u201cdangerous and unusual weapons\u201d are not covered by the Second Amendment, the legislature has not necessarily excluded the kind of knife at issue here from such protection; that (B) although the Second Amendment may not protect possession of concealed weapons, the CDW statute and jury instructions, as currently crafted, require narrowing because they authorize conviction for weapons carried openly, as well as concealed, and thus permit conviction for carrying protected, as well as unprotected, weapons; and, finally, that (4) Heller does not limit Second Amendment protection to weapons possessed for use in defense of the home.\nIn short, appellant contends that we must impute error to the trial court\u2019s failure to fashion CDW instructions that incorporated the aforementioned four concepts. She says that if the jury had been properly instructed, it could not have lawfully convicted if it found that, solely for self-defense, she had carried openly, and outside the home, a knife that was not expressly outlawed. Absent proper instructions, stresses appellant, the current record is inadequate; evidentiary ambiguities as to the type of knife, for example, or as to whether the knife was carried openly or concealed, are meaningless because the jury was never asked to come to grips with these Heller issues. For that reason, appellant concludes, the court cannot simply undertake plain error review by evaluating the evidence in the light most favorable to the government from an undeveloped record.\nAccepting appellant\u2019s framework for analysis, can we say that the trial court\u2019s failure to give her suggested instructions amounts to \u201cerror\u201d that was \u201cplain\u201d \u2014 that is, \u201cclear\u201d and \u201cobvious\u201d?\nTwo of appellant\u2019s four instructional concerns call for jury findings as to whether her actions were exceptions to \u2014 that is, fell short of \u2014 the Second Amendment\u2019s reach. She argues that the jurors did not receive proper instructions requiring them to find whether her knife was protected by Heller (or instead was disqualified as \u201cdangerous\u201d or \u201cunusual\u201d). Nor was the jury instructed to find whether she had carried the knife openly or concealed (and thus not constitutionally protected). These two concerns addressed to Second Amendment exceptions, however, become relevant only if appellant\u2019s two basic propositions are sound, namely, that Heller \u201cclearly\u201d or \u201cobviously\u201d extends Second Amendment protection to knives and to carrying them exclusively for purposes of self-defense outside the home.\nIV.\nHeller concerned handguns as well as long guns \u201cfor self-defense in the home.\u201d What about knives? The word \u201cknife\u201d appears in Heller only once, where the opinion references a book on pacifism speculating that Quaker frontiersmen, \u201cforbidden to use arms to defend their families,\u201d must have been tempted on occasion \u201c \u2018to seize a hunting rifle or a knife in self-defense.\u2019 \u201d Heller also references \u201cbows and arrows\u201d (twice) and \u201cswords\u201d (once). Then there is the Supreme Court\u2019s earlier decision in Miller, on which the Heller Court relied to circumscribe Second Amendment protection by reference to weapons \u201cin common use at the time,\u201d which able-bodied men were expected to bring to their militias. Quoting from the laws governing militias in Massachusetts, New York, and Virginia, Miller mentions \u201cbayonet[s]\u201d and \u201csword[s]\u201d \u2014 military cutlery \u2014 but not knives. However, to reinforce its acknowledgment that \u201cthe Second Amendment does not protect those weapons not typically possessed by law-abiding citizens for lawful purposes, such as short-barreled shotguns,\u201d the Court in Heller also quoted from an opinion by the Supreme Court of Oregon: \u201c \u2018In the colonial and revolutionary war era, [small arms] weapons used by militiamen and weapons used in defense of person and home were one and the same.\u2019 \u201d The Oregon court\u2019s opinion then elaborated in a passage not quoted in Heller: \u201cA colonist usually had only one gun which was used for hunting, protection, and militia duty, plus a hatchet, sword, and knife.\u201d\nAll this said, the discourse in Heller is focused exclusively on \u201carms\u201d or \u201cweapons,\u201d meaning firearms when read in context. Indeed, Heller acknowledged the handgun as \u201cthe quintessential self-defense weapon.\u201d Furthermore, in citing the Oregon case, the Supreme Court only indirectly recognized the possible Second Amendment protection for knives in common use at the time; the Court did not elevate to Heller\u2019s text, and thus give express endorsement to, the list of colonial arms mentioned by the Oregon court and the secondary sources it cited.\nPerhaps a detailed Heller-type analysis would result in a conclusion that some kinds of knives today \u2014 perhaps ordinary pocket knives or key chain knives, if not switchblades \u2014 are analogous to arms \u201ctypically possessed by law-abiding citizens for lawful purposes\u201d in colonial days, even though \u201cnot in existence at the time of the founding.\u201d' If so, such knives may qualify for Second Amendment protection. But if Heller \u201cerror\u201d there be, we cannot find it \u201cplain\u201d \u2014 \u201cclear\u201d or \u201cobvious\u201d \u2014 that the Heller Court would extend its ruling to knives carried exclusively for use as a dangerous weapon in self-defense. Absent the kind of historical analysis the Court applied to guns, Heller does not give us the assurance necessary to find plain error in the CDW instructions as applied to knives.\nV.\nBut assume, nonetheless, solely for the sake of argument, that Heller would embrace the kind of knife that appellant allegedly can prove she carried for use exclusively in self-defense. That does not get her very far. In finding Second Amendment protection for possessing certain kinds of guns in the home for use in self-defense, the Supreme Court cautioned in Heller that it did \u201cnot read the Second Amendment to protect the right of citizens to carry arms for any sort of confrontation[.]\u201d In this case, appellant has acknowledged through counsel\u2019s briefs that she \u201ccarried the pocket knife in case of any future confrontation with Ms. Thomas,\u201d and that the instructions \u201crequired the jury to find that Ms. Wooden carried the knife outside her home.\u201d\nThe facts are undisputed. Appellant Wooden was preparing for a confrontation anywhere, not just in defense of her home. Indeed, the fight did not occur anywhere near her home. Although appellant\u2019s husband lived in his grandmother\u2019s house in the District of Columbia where the fight began, appellant lived with her son and cousin in Hyattsville, Maryland. No one disputes that she carried the knife from Maryland to the grandmother\u2019s home in the District of Columbia. Moreover, the altercation began when appellant entered the front door of the grandmother\u2019s house; appellant was not there to defend against an intruder. In fact, appellant herself testified that it was only after the fight spilled onto the porch that she had \u201copened the blade\u201d on her knife because she \u201cwanted to scare Victoria [Thomas] to get her to stop hitting me.\u201d Clearly, this is not at all the home-defense scenario contemplated in Heller.\nNot long ago in Sims v. United States, we rejected an argument for plain error under Heller when the appellant claimed Second Amendment protection by charging the facial invalidity of sundry weapons charges. Appellant had been carrying, then discarded, a semi-automatic pistol in an alley, away from his home. There was no evidence that he had been carrying the weapon for self-defense. We affirmed his convictions because it was \u201cnot \u2018clear\u2019 and \u2018obvious\u2019 \u201d that Heller \u201cdictates an understanding of the Second Amendment which would compel the District to license a resident to carry and possess a handgun outside the confines of his home, however broadly defined.\u201d We elaborated:\nIn Heller, ... the issue presented was the constitutionality of the District\u2019s gun prohibitions as applied to \u201cthe possession of usable handguns in the home.\u201d 128 S.Ct. at 2787-88 (2008) (emphasis added). The Court concluded that \u201cthe District\u2019s ban on handgun possession in the home violates the Second Amendment, as does its prohibition [see D.C.Code \u00a7 7-2507.02] against rendering any lawful firearm in the home operable for the purpose of immediate self-defense\u201d; and accordingly, it held that, \u201c[ajssuming ... Heller is not disqualified from the exercise of Second Amendment rights, the District must permit him to register his handgun and must issue him a license to carry it in the home.\u201d Id. at 2821-22 (emphasis added). Whatever else the Second Amendment might prohibit, the Court reiterated, it bars \u201cthe absolute prohibition of handguns held and used for self-defense in the home.\u201d Id. at 2822.[]\nIn applying Heller, therefore, the operative distinction for plain error purposes, as this Court has perceived it, is drawn between (1) possession of a qualifying weapon for purposes of self-defense in one\u2019s own home, which is entitled to Second Amendment protection, and (2) possession of such a weapon for self-defense or other uses outside one\u2019s home (or other uses in one\u2019s home). Neither self-defense as such, nor even self-defense in the home of another (with a weapon carried there), is entitled to such protection, as we have read Heller. This division of the court is disinclined on plain error review to revisit a distinction the court has pronounced, especially when a weapon not addressed in Heller \u2014 a knife \u2014 is at issue.\nVI.\nWooden, however, offers a rebuttal. Counsel on appeal notes that unlike typical plain error review, where appellant\u2019s lawyer could have, but failed, to raise an issue at trial, this court\u2019s established case law precluded invocation of self-defense in contesting a CDW charge (absent evidence that the defendant had seized the weapon \u201con the spot for use in self-defense\u201d). Counsel therefore asks us to exercise our discretion under Thomas v. United States to address claimed error under the Second Amendment. We decline to do so.\nIn Thomas, this court reviewed for plain error the trial court\u2019s failure to apply the confrontation-clause rule of Crawford, which the Supreme Court announced after Thomas\u2019s trial. The government urged the court to answer the threshold \u201cerror\u201d question because of the need for guidance in resolving \u201chundreds of drug cases prosecuted in Superior Court each year.\u201d Exercising our discretion, we agreed to do so. Evaluating and applying all four Ola-no factors, we found \u201cerror\u201d that was \u201cplain\u201d and affected Thomas\u2019s \u201csubstantial rights,\u201d but we affirmed his conviction because the error did not \u201c \u2018seriously affect[ ] the fairness, integrity, or public reputation of judicial proceedings.\u2019 \u201d\nThe question, therefore, is whether, as in Thomas, we should exercise our discretion to evaluate Second Amendment error, on the facts here, when we are satisfied that, whatever the answer, the error is not \u201cplain at the time of appellate consideration,\u201d meaning that it is not \u201cclear\u201d or \u201cobvious.\u201d We say no. Beginning with the approach taken in Thomas, we can assume that there are other CDW cases, tried under the standard jury instruction before Heller was decided, for which a decision on appeal is not yet final; and thus we can further assume that a ruling on whether the Second Amendment can provide protection for claimed \u201cself-defense (knife),\u201d outside the home, would be helpful to litigants and the courts. Unlike Thomas, however, and the Supreme Court decision it addressed {Crawford), we do not have a situation in which the Court\u2019s understanding of constitutional law, as applied to a knife carried outside the home, can be discerned with sufficient certainty to warrant our venturing a decision on the alleged \u201cerror\u201d in this case.\nIn the first place, Crawford announced a relatively straightforward rule that, as to testimonial evidence, a defendant was entitled to confront the witness in person, at trial, unless the witness was unavailable and the defendant had received an earlier opportunity to cross-examine that witness. In Thomas, that rule was easily applied to evidence supplied by a Drug Enforcement Administration chemist. To the contrary, in this case, it is not at all clear that Heller provides constitutional protection for carrying weapons outside the home, as occurred in this CDW prosecution. Nor, more recently, in McDonald v. City of Chicago, did the Court extend Heller\u2019s analysis to weapons carried outside the home.\nSecond, one cannot say that the Supreme Court, whether in Heller or Mc Donald \u2014 both firearm cases \u2014 has considered application of the Second Amendment to knives (or weapons other than firearms). While there are a few references to knife-type weapons in both opinions, they are included without analysis in quotations from secondary sources used by the authoring justices to address firearms. More importantly, in neither opinion has the Supreme Court supplied, for knives, the kind of historical analysis that went into developing the majority\u2019s conclusions about the right to bear firearms in Heller and McDonald. Nor have the briefs filed on behalf of Wooden given us a comprehensive analysis of \u201cSecond Amendment History: Knives\u201d that could serve as a basis for our venturing into that area.\nIn sum, we have concluded that any error the trial court may have committed in giving the standard, pre-Heller instruction for CDW is not \u201cplain,\u201d and thus that Wooden\u2019s conviction must be affirmed. Although in plain error review we have discretion, under Thomas, to resolve the threshold question of Second Amendment \u201cerror,\u201d we choose not to do so, as neither the Supreme Court nor Wooden herself has given us adequate grounds for reaching out to do so.\nHs H\u00ed H* H\u00ab H*\nWe need go no further. Given the distinctions from Heller\u2019s protective analysis we have presented above \u2014 the weapon (knife) and the confrontation outside (not inside) the home \u2014 we can find no \u201cerror\u201d that is \u201cplain,\u201d within the meaning of plain error review. That ends the matter.\nAffirmed.\n. U.S. Const. amend. II.\n. D.C.Code \u00a7 22-4504(a) (2001) (\u201cNo person shall carry within the District of Columbia either openly or concealed on or about their person, a pistol, without a license issued pursuant to District of Columbia law, or any deadly or dangerous weapon capable of being so concealed.\") (emphasis added).\n. The court instructed the jury on the elements of the CDW offense as follows:\nOne, that the defendant carried a deadly or dangerous weapon openly or concealed on or about her person; two, that she carried the weapon knowingly and intentionally.... Three, that she intended to use the object as a dangerous weapon; and, four, that the object could be concealed; and, five, that the defendant carried the deadly or dangerous weapon in a place other than her home, place of business, or land or premises possessed and controlled by her. (Emphasis added.)\n. Appellant's opening brief at 3.\n. For reversal, there must be [1] \"error\u201d that is [2] \"plain\" (meaning \"clear\" or \"obvious\u201d), that [3] \"affects substantial rights,\u201d and that, if not corrected, [4] would result in a \"miscarriage of justice\u201d (meaning conviction of an innocent defendant) or otherwise would \"seriously affect[ ] the fairness, integrity or public reputation of judicial proceedings.\u201d United States v. Olano, 507 U.S. 725, 732-36, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993); Wilson v. United States, 785 A.2d 321, 326 (D.C.2001) (same).\n. Supra note 3.\n. Appellant\u2019s opening brief at 21.\n. Appellant\u2019s opening brief at 11.\n. McBride v. United States, 441 A.2d 644, 649 n. 9 (D.C. 1982); see id. at 648 nn. 5 & 6; accord, Johnson v. United States, 452 A.2d 959, 961 (D.C.1982) (per curiam) (\" 'A defendant in a [weapons] prosecution ... cannot claim self-defense to justify possession of the weapon before its use in self-defense.\u2019\") (quoting McBride, 441 A.2d at 650 n. 11), quoted in appellant\u2019s opening brief at 11 n. 9.\n. See appellant\u2019s opening brief at 11.\n. - U.S.-, 128 S.Ct. 2783, 171 L.Ed.2d 637 (2008).\n. Id. at 2821-22. The first (handgun possession) clause of the Court\u2019s holding limits the enforcement of D.C.Code \u00a7\u00a7 7-2501.01(12), - 2502.01(a), -2502.02(a)(4), 22-4504(a), and 22-4506. The second (firearm operability) clause refers to the Court\u2019s striking down a statutory requirement that residents \"keep their lawfully owned firearms, such as registered long guns, 'unloaded and disassembled or bound by a trigger lock or similar device' unless they\u2019re located in a place of business or are being used for lawful recreational activities. See [D.C.Code] \u00a7 7-2507.02.\u201d Id. at 2788.\n. Heller, supra note 11, 128 S.Ct. at 2797. The Court added that the Second Amendment did not confer a right; it \"codified a preexisting right.\u201d The text of the amendment \"implicitly recognizes the pre-existence of the right and declares only that it 'shall not be infringed.' \" Id. at 2797-98.\n. Id. at 2801 (emphasis omitted).\n. Id. at 2791-92.\n. Id. at 2816.\n. 307 U.S. 174, 177, 59 S.Ct. 816, 83 L.Ed. 1206 (1939) (in absence of evidence that possession or use of short-barrel shotgun has some reasonable relationship to preservation or efficiency of well regulated militia, Second Amendment does not guarantee right to keep and bear such instrument).\n. Heller, supra note 11, 128 S.Ct. at 2817 (quoting Miller, supra note 17, 307 U.S. at 179, 59 S.Ct. 816).\n. Id. (quoting Blackstone).\n. Id. at 2815-16. The Court concluded its discussion of limitations by stressing that \"nothing in our opinion should be taken to cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally ill, or laws forbidding the carrying of firearms in sensitive places such as schools and- government buildings, or laws imposing conditions and qualifications on the commercial sale of arms. We identify these presumptively lawful regulatory measures only as examples; our list does not purport to be exhaustive.\u201d Id. at 2816-17 & n. 26.\n. 520 U.S. 461, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997).\n. Id. at 468, 117 S.Ct. 1544; Perez v. United States, 968 A.2d 39, 93 (D.C.2009) (quoting Johnson).\n. Heller, supra note 11, 128 S.Ct. at 2817.\n. Supra note 2.\n. Supra note 3.\n. In challenging the CDW statute and instructions, appellant does not appear to be making a facial challenge; in the briefs, her argument stresses that the statute, as applied, violated the Second Amendment because the third element of the jury instruction permitted conviction for carrying a knife intended solely for self-defense. At oral argument, however, counsel expanded appellant's position by making a facial attack on the statute, contending that it is void under the Second Amendment, more broadly, because it authorizes conviction for carrying every kind of dangerous weapon intended for any purpose whatsoever, including lawful ones \u2014 an argument that makes consideration of the type of weapon carried, or the place where it is carried, irrelevant. Although this argument comes too late, we can say that it amounts to the constitutional \"overbreadth'' argument that we have rejected in previous cases challenging other weapons statutes. See, e.g., Plummer v. United States, 983 A.2d 323, 339-40 (D.C.2009) (carrying a pistol without a license; possession of an unregistered firearm); Brown v. United States, 979 A.2d 630, 638-40 (D.C.2009) (carrying a pistol without a license).\n. As to the knife \u2014 which the police never recovered and was therefore not in evidence \u2014 appellant testified that the one she carried was on a \"key chain clip\u201d that also had a \u201cbottle opener\u201d and \u201ctwo screwdrivers\u201d on it. The government's witness, however, Jemal McCormick \u2014 who took the knife away from appellant \u2014 rejected the key chain description and characterized the weapon as a \"pocket flip knife.\u201d McCormick testified that the blade was three to four inches long, that it was \"actually inside the handle,\u201d and that \"you flip it open.\u201d The government has called it a \"switchblade\u201d knife, banned in interstate commerce as a common tool of criminals. See 15 U.S.C. \u00a7 1242 (2006); United. States v. Nelsen, 859 F.2d 1318, 1318\u201419 (8th Cir.1988); Crowley Cutleiy Co. v. United States, 849 F.2d 273, 278 (7th Cir.1988). Even taking the evidence in the light most favorable to the government, we cannot say for sure that the knife its witness described was assuredly a forbidden switchblade. Nor can we say that it assuredly was not. Appellant is therefore correct that if the \"forbidden knife\u201d issue becomes relevant, the present record affords no basis for resolving it, as neither counsel nor the jurors addressed the knife\u2019s nature in the detail required for a Heller finding.\n. As in the case of the knife, the \"concealment\u201d issue cannot be resolved on this record. According to the government's evidence, appellant acknowledged in court that the knife fit into the pocket of a jacket she had been wearing during the fight \u2014 evidence permitting an inference that she had concealed the knife there. Moreover, there is no evidence to indicate that anyone saw the knife on appellant until a neighbor, Linda Durett, noticed blood on Thomas\u2019s forehead and then saw \"a little knife\u201d in appellant\u2019s hand. Maintaining that the knife was on her key chain, appellant herself testified that she had carried the key chain \"in my hand,\u201d allowing an inference of concealment of a \"little knife.\u201d Finally, there was no defense evidence that appellant had been carrying the knife openly. Although the evidence presented leaves little room for a finding that appellant had been carrying the knife openly (and thus arguably subject to Heller protection), we must note again that the concealment issue was not joined before the jury, and thus the present record cannot serve as a definitive basis for resolving that issue were it to become relevant.\n. Heller, supra note 11, 128 S.Ct. at 2818.\n. Id. at 2796.\n. Id. (citing P. Brock, Pacifism in the United States 359 (1968)).\n. Id. at 2791, 2795.\n. Id. at 2828.\n. Supra note 17.\n. Heller, supra note 11, 128 S.Ct. at 2815 (quoting Miller, supra note 17, 307 U.S. at 179, 59 S.Ct. 816).\n. Supra note 17, 307 U.S. at 181, 59 S.Ct. 816.\n. Id. at 180, 59 S.Ct. 816.\n. Heller, supra note 11, 128 S.Ct. at 2815-16.\n. Id. at 2815 (quoting State v. Kessler, 289 Or. 359, 614 P.2d 94, 98 (1980) (citing G. Neumann, Swords and Blades of the American Revolution, 6-15, 252-54 (1973))).\n. Kessler, supra note 39, 614 P.2d at 98 (citing Neumann, supra note 39). The Oregon court continued: \"When the revolutionary war began, the colonists came equipped with their hunting muskets or rifles, hatchets, swords, and knives. The colonists suffered a severe shortage of firearms in the early years of the war, so many soldiers had to rely primarily on swords, hatchets, knives, and pikes (long staffs with a spear head).\u201d Id. (citing W. Moore, Weapons of the American Revolution 8 (1967)).\n. Heller, supra note 11, 128 S.Ct. at 2818.\n. Id. at 2816.\n. Id. at 2792.\n. Supra note 3.\n. Heller, supra note 11, 128 S.Ct. at 2799 (emphasis omitted).\n. (Appellant\u2019s opening brief at 28; appellant\u2019s reply brief at 5) (emphasis added). According to the fourth element of its instruction, supra note 3, the jury could not have convicted appellant of CDW without finding that she had \"carried the deadly or dangerous weapon in a place other than her home, place of business, or land or premises controlled by her.\" (Emphasis added.)\n. The government argues that \"it is not plain that appellant carried the flip knife solely for purposes of self-defense\u201d; rather, \"the government's evidence established that appellant carried and used the knife in a confrontation that she initiated.\u201d As indicated, however, with reference to the \"forbidden knife\u201d and \"concealment\u201d issues, see supra notes 27 and 28, the \"self-defense purpose\u201d for which appellant carried the knife would be a question for a properly instructed jury; it cannot be decided on this record which, by hypothesis, did not reflect a trial governed by Heller\u2019s teaching, and where appellant was acquitted of assaulting Thomas with a knife. Cf. Howerton v. United States, 964 A.2d 1282, 1287 (D.C.2009) (trial court did not plainly err in entering judgments of conviction on weapons charges where jury found appellant used gun in his own home to commit assault with a dangerous weapon but where there was no evidence of possessing gun for purposes of self-defense).\n. 963 A.2d 147 (D.C.2008).\n. Carrying a pistol without a license, D.C.Code \u00a7 22-4504 (2001); possession of an unregistered firearm, D.C.Code \u00a7 7-2502.01 (2001); and unlawful possession of ammunition, D.C.Code \u00a7 7-2506.01 (2001).\n. The court noted that even if Heller could be read to protect use of a handgun in public for self-defense\u2014\"an issue on which we express no opinion\"\u2014no evidence supported appellant\u2019s self-defense theory. Sims, supra note 48, 963 A.2d at 150 n. 3. See also Brown v. United States, 979 A.2d 630, 642 (D.C.2009) (assuming Second Amendment protected appellant's right to carry pistol for self-defense in parking lot, conviction must be affirmed because of evidence that he carried pistol on another occasion with, admittedly, no reason for self-defense).\n. Sims, supra note 48, 963 A.2d at 150. See Little v. United States, 989 A.2d 1096, 1101 (D.C.2010) (trial court did not plainly err in finding no Second Amendment barrier to conviction on weapons offenses when defendant hit victim on head with gun in victim\u2019s apartment, not for purposes of self-defense \"in his own home\u201d).\n. Sims, supra note 48, 963 A.2d at 150.\n. See Little, supra note 51, 989 A.2d at 1101; Howerton, supra note 47, 964 A.2d at 1287; Sims, supra note 48, 963 A.2d at 150.\n. McBride, supra note 9, 441 A.2d at 649 n. 9, 648 nn. 5 & 6, and 650.\n. 914 A.2d 1, 8 n. 7 (D.C.2006).\n. Crawford v. Washington, 541 U.S. 36, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004).\n. Thomas, 914 A.2d at 8 n. 7.\n. Olano, supra note 5, 507 U.S. at 732, 113 S.Ct. 1770.\n. Thomas, 914 A.2d at 8, 22-24 (quoting Olano, supra note 5, 507 U.S. at 736, 113 S.Ct. 1770).\n. Johnson, supra note 21, 520 U.S. at 467-68, 117 S.Ct. 1544.\n. See Little, supra note 51, 989 A.2d at 1101; Sims, supra note 48, 963 A.2d at 150 & n. 4.\n. -U.S.-, 130 S.Ct. 3020, 177 L.Ed.2d 894 (2010).\n. See id. at 3026, 3050; id at 3088, 3103-04 (Stevens, J., dissenting).\n. In addition to the references in Heller quoted above in Part IV, two similar references \u2014 to a \"dirk\u201d and a \"bowie knife\u201d \u2014 can be found in McDonald. See 130 S.Ct. at 3038; see also id. at 3120, 3132 (Breyer, J., dissenting).\n. On April 30, 2010, appellant filed a \"conditional motion to postpone resolution of appeal pending decision in a preserved case\u201d raising the same issue. The government filed its opposition on May 18, followed by a reply by appellant filed May 21. This court granted appellant's motion on June 15 and stayed this appeal \"pending further order of this court.\u201d By issuing this opinion, the court is vacating that stay.",
+        "type": "majority",
+        "author": "FERREN, Senior Judge:"
+      }
+    ],
+    "attorneys": [
+      "Christine A. Monta, Public Defender Service, with whom James Klein and Sa-mia Fam, Public Defender Service, were on the brief, for appellant.",
+      "Patricia A. Heffernan, Assistant United States Attorney, with whom Charming D. Phillips, Acting United States Attorney at the time the brief was filed, and Roy W. McLeese III, Assistant United States Attorney, were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Stacia WOODEN, Appellant, v. UNITED STATES, Appellee.\nNo. 07-CF-308.\nDistrict of Columbia Court of Appeals.\nArgued April 22, 2010.\nDecided Oct. 28, 2010.\nChristine A. Monta, Public Defender Service, with whom James Klein and Sa-mia Fam, Public Defender Service, were on the brief, for appellant.\nPatricia A. Heffernan, Assistant United States Attorney, with whom Charming D. Phillips, Acting United States Attorney at the time the brief was filed, and Roy W. McLeese III, Assistant United States Attorney, were on the brief, for appellee.\nBefore RUIZ, Associate Judge, and FERREN and SCHWELB, Senior Judges."
+  },
+  "file_name": "0833-01",
+  "first_page_order": 879,
+  "last_page_order": 889
+}

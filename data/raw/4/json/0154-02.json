@@ -1,0 +1,59 @@
+{
+  "id": 7284471,
+  "name": "Albert Lee KING, Appellant v. PA. DEPARTMENT OF CORRECTIONS, PA. Department of Probation and Parole, Appellees",
+  "name_abbreviation": "King v. Pa. Department of Corrections",
+  "decision_date": "2010-09-29",
+  "docket_number": "",
+  "first_page": "154",
+  "last_page": "155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 302,
+    "ocr_confidence": 0.692,
+    "sha256": "4efc351062e8c01fe9db9d7294620ca22df2bd06bac519d5b36f0db489d46cf4",
+    "simhash": "1:5d2b4d6043c3b5f6",
+    "word_count": 45
+  },
+  "last_updated": "2023-07-14T18:37:41.617876+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert Lee KING, Appellant v. PA. DEPARTMENT OF CORRECTIONS, PA. Department of Probation and Parole, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of September, 2010, the order of the Commonwealth Court is hereby AFFIRMED.\nJurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Albert Lee KING, Appellant v. PA. DEPARTMENT OF CORRECTIONS, PA. Department of Probation and Parole, Appellees.\nSupreme Court of Pennsylvania.\nSept. 29, 2010"
+  },
+  "file_name": "0154-02",
+  "first_page_order": 216,
+  "last_page_order": 217
+}

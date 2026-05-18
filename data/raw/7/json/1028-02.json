@@ -1,0 +1,107 @@
+{
+  "id": 7288102,
+  "name": "In re Peter A. ALLEN, Respondent",
+  "name_abbreviation": "In re Allen",
+  "decision_date": "2010-11-12",
+  "docket_number": "No. 10-BG-1028",
+  "first_page": "1028",
+  "last_page": "1029",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 1028"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    },
+    {
+      "cite": "764 A.2d 797",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11167520
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/764/0797-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 135,
+    "char_count": 1558,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828839055867735
+    },
+    "sha256": "1dc97e94a7d0243718d0e899353a55b6831a7a08aa99608f2591fce252f196c2",
+    "simhash": "1:291433126fe0c423",
+    "word_count": 252
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, Associate Judge, TERRY and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re Peter A. ALLEN, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the certified order of the Supreme Judicial Court of the Commonwealth of Massachusetts, see In re Peter A. Allen, BD-2009-095 (S.J.C. Mass Nov. 4, 2009), this court\u2019s September 2, 2010, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, respondent\u2019s statement requesting that his suspension be imposed nunc pro tunc to the date of his Massachusetts suspension, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that this court received respondent\u2019s D.C. Bar R. XI \u00a7 14(g) affidavit on October 14, 2010, it is\nORDERED that Peter A. Allen, Esquire, is hereby suspended from the practice of law in the District of Columbia for a period of one year and one day with a fitness requirement. See In re D\u2019Onofrio, 764 A.2d 797 (D.C.2001) (imposition of a fitness requirement is identical reciprocal discipline for suspension over a year); and In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C.2006) (rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s suspension began to run when he filed his D.C. Bar R. XI \u00a7 14(g) affidavit on October 14, 2010.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Peter A. ALLEN, Respondent.\nNo. 10-BG-1028.\nDistrict of Columbia Court of Appeals.\nFiled Nov. 12, 2010.\nBefore REID, Associate Judge, TERRY and KING, Senior Judges."
+  },
+  "file_name": "1028-02",
+  "first_page_order": 1056,
+  "last_page_order": 1057
+}

@@ -1,0 +1,92 @@
+{
+  "id": 7290234,
+  "name": "ALLEGHENY COUNTY DEPUTY SHERIFFS' ASSOCIATION, Petitioner v. PENNSYLVANIA LABOR RELATIONS BOARD, Respondent",
+  "name_abbreviation": "Allegheny County Deputy Sheriffs' Ass'n v. Pennsylvania Labor Relations Board",
+  "decision_date": "2010-08-12",
+  "docket_number": "",
+  "first_page": "867",
+  "last_page": "867",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 A.3d 867"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "502 Pa. 7",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1784512
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/502/0007-01"
+      ]
+    },
+    {
+      "cite": "460 Pa. 560",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482764
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/460/0560-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 633,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18831059262528432
+    },
+    "sha256": "7415e883def5a123f599b11af9e262513795b51d62473767a44d707bfc7f0e28",
+    "simhash": "1:faff93cddeadd997",
+    "word_count": 97
+  },
+  "last_updated": "2024-02-27T22:12:33.551687+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ALLEGHENY COUNTY DEPUTY SHERIFFS\u2019 ASSOCIATION, Petitioner v. PENNSYLVANIA LABOR RELATIONS BOARD, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 12th day of August, 2010, the Petition for Allowance of Appeal is hereby GRANTED. The issue, rephrased for clarity, is:\nWhether the Commonwealth Court erred in affirming the PLRB\u2019s dismissal of the sheriffs\u2019 association\u2019s petition to represent deputy sheriffs as police officers under Act 111, when the PLRB disregarded Hartshorn v. County of Allegheny, 460 Pa. 560, 333 A.2d 914 (1975), and Commonwealth v. PLRB, 502 Pa. 7, 463 A.2d 409 (1983).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ALLEGHENY COUNTY DEPUTY SHERIFFS\u2019 ASSOCIATION, Petitioner v. PENNSYLVANIA LABOR RELATIONS BOARD, Respondent.\nSupreme Court of Pennsylvania.\nAug. 12, 2010."
+  },
+  "file_name": "0867-02",
+  "first_page_order": 897,
+  "last_page_order": 897
+}

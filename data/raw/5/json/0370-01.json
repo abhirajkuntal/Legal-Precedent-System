@@ -1,0 +1,958 @@
+{
+  "id": 7286026,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Allen NMN KELLY, Appellant",
+  "name_abbreviation": "Commonwealth v. Kelly",
+  "decision_date": "2010-09-09",
+  "docket_number": "",
+  "first_page": "370",
+  "last_page": "383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 370"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "340 Pa.Super. 9",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        629093
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/340/0009-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 789",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11572353
+      ],
+      "pin_cites": [
+        {
+          "page": "790-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/737/0789-01"
+      ]
+    },
+    {
+      "cite": "957 A.2d 237",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8206144,
+        3989448
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/957/0237-01",
+        "/pa/598/0397-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 397",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3989448
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0397-01"
+      ]
+    },
+    {
+      "cite": "460 Pa. 149",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482786
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "465"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/460/0149-01"
+      ]
+    },
+    {
+      "cite": "756 A.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225921,
+        11244885
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1150",
+          "parenthetical": "citing Commonwealth v. Segers, 460 Pa. 149, 331 A.2d 462, 465 (1975)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0498-01",
+        "/a2d/756/1139-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 498",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225921
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Segers, 460 Pa. 149, 331 A.2d 462, 465 (1975)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0498-01"
+      ]
+    },
+    {
+      "cite": "280 Pa.Super. 427",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        151272
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/280/0427-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8472424
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/905/1003-01"
+      ]
+    },
+    {
+      "cite": "435 F.2d 1085",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2216675
+      ],
+      "pin_cites": [
+        {
+          "page": "1088-89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/435/1085-01"
+      ]
+    },
+    {
+      "cite": "386 F.2d 611",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2088191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/386/0611-01"
+      ]
+    },
+    {
+      "cite": "354 F.2d 698",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        845667
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/354/0698-01"
+      ]
+    },
+    {
+      "cite": "258 F.Supp. 175",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        1538234
+      ],
+      "pin_cites": [
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/258/0175-01"
+      ]
+    },
+    {
+      "cite": "19 L.Ed.2d 177",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 S.Ct. 131",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 U.S. 882",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11385186,
+        11385221,
+        11385125,
+        11385351,
+        11385291,
+        11384971,
+        11385009,
+        11385044
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0882-05",
+        "/us/389/0882-06",
+        "/us/389/0882-04",
+        "/us/389/0882-08",
+        "/us/389/0882-07",
+        "/us/389/0882-01",
+        "/us/389/0882-02",
+        "/us/389/0882-03"
+      ]
+    },
+    {
+      "cite": "375 F.2d 170",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2034789
+      ],
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/375/0170-01"
+      ]
+    },
+    {
+      "cite": "317 U.S. 269",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        303755
+      ],
+      "weight": 3,
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/317/0269-01"
+      ]
+    },
+    {
+      "cite": "78 L.Ed.2d 163",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 183",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 U.S. 859",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6394789,
+        6393660,
+        6394662,
+        6394345,
+        6393258,
+        6393900,
+        6393101,
+        6392749,
+        6393783,
+        6394515,
+        6393556,
+        6394172,
+        6392919,
+        6394044,
+        6393407
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0859-15",
+        "/us/464/0859-07",
+        "/us/464/0859-14",
+        "/us/464/0859-12",
+        "/us/464/0859-04",
+        "/us/464/0859-09",
+        "/us/464/0859-03",
+        "/us/464/0859-01",
+        "/us/464/0859-08",
+        "/us/464/0859-13",
+        "/us/464/0859-06",
+        "/us/464/0859-11",
+        "/us/464/0859-02",
+        "/us/464/0859-10",
+        "/us/464/0859-05"
+      ]
+    },
+    {
+      "cite": "706 F.2d 538",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1117101
+      ],
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/706/0538-01"
+      ]
+    },
+    {
+      "cite": "627 F.2d 32",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1287869
+      ],
+      "pin_cites": [
+        {
+          "page": "35-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/627/0032-01"
+      ]
+    },
+    {
+      "cite": "107 L.Ed.2d 518",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "641-42"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 517",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "493 U.S. 982",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11443205,
+        11442854,
+        11442807,
+        11442888,
+        11443049,
+        11442828,
+        11443021,
+        11443087,
+        11442991,
+        11442936,
+        11442770,
+        11442964,
+        11443159,
+        11443128,
+        11442909
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0982-15",
+        "/us/493/0982-04",
+        "/us/493/0982-02",
+        "/us/493/0982-05",
+        "/us/493/0982-11",
+        "/us/493/0982-03",
+        "/us/493/0982-10",
+        "/us/493/0982-12",
+        "/us/493/0982-09",
+        "/us/493/0982-07",
+        "/us/493/0982-01",
+        "/us/493/0982-08",
+        "/us/493/0982-14",
+        "/us/493/0982-13",
+        "/us/493/0982-06"
+      ]
+    },
+    {
+      "cite": "871 F.2d 635",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531733
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "642",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/871/0635-01"
+      ]
+    },
+    {
+      "cite": "357 F.3d 357",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9057688
+      ],
+      "pin_cites": [
+        {
+          "page": "362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/357/0357-01"
+      ]
+    },
+    {
+      "cite": "67 F.3d 1092",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7416096
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "1099-1101"
+        },
+        {
+          "page": "1099"
+        },
+        {
+          "page": "1100-02"
+        },
+        {
+          "page": "1101"
+        },
+        {
+          "page": "1100-01",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/67/1092-01"
+      ]
+    },
+    {
+      "cite": "879 A.2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8933777
+      ],
+      "pin_cites": [
+        {
+          "page": "257-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/879/0246-01"
+      ]
+    },
+    {
+      "cite": "761 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1366935,
+        11155351
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0347-01",
+        "/a2d/761/0541-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 347",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366935
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0347-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 62",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804587
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "67-68"
+        },
+        {
+          "page": "1061"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0062-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 790",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 908",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "513 U.S. 1114",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1333155,
+        1332548,
+        1335908,
+        1331367,
+        1330823,
+        1332649,
+        1334539,
+        1335854,
+        1333522,
+        1330995,
+        1330964,
+        1332982,
+        1331354,
+        1333724,
+        1335486
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/1114-08",
+        "/us/513/1114-11",
+        "/us/513/1114-12",
+        "/us/513/1114-05",
+        "/us/513/1114-02",
+        "/us/513/1114-01",
+        "/us/513/1114-15",
+        "/us/513/1114-13",
+        "/us/513/1114-14",
+        "/us/513/1114-03",
+        "/us/513/1114-06",
+        "/us/513/1114-10",
+        "/us/513/1114-04",
+        "/us/513/1114-09",
+        "/us/513/1114-07"
+      ]
+    },
+    {
+      "cite": "236 A.2d 805",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1912423
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/428/0210-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 527",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839657
+      ],
+      "weight": 4,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "539",
+          "parenthetical": "citing Commonwealth v. Johnson, 428 Pa. 210, 213, 236 A.2d 805, 807 (1968)"
+        },
+        {
+          "page": "1125",
+          "parenthetical": "citing Commonwealth v. Johnson, 428 Pa. 210, 213, 236 A.2d 805, 807 (1968)"
+        },
+        {
+          "page": "539"
+        },
+        {
+          "page": "1125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0527-01"
+      ]
+    },
+    {
+      "cite": "971 A.2d 1173",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4194565,
+        7299103
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1178-79",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0185-01",
+        "/a2d/971/1173-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 185",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194565
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "193-94",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0185-01"
+      ]
+    },
+    {
+      "cite": "992 A.2d 885",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "980 A.2d 124",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292694
+      ],
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/0124-01"
+      ]
+    },
+    {
+      "cite": "854 A.2d 489",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9215432,
+        1329394
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/854/0489-01",
+        "/pa/578/0587-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 587",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329394
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0587-01"
+      ]
+    },
+    {
+      "cite": "532 Pa. 317",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1835940
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/532/0317-01"
+      ]
+    },
+    {
+      "cite": "789 A.2d 764",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9401475
+      ],
+      "pin_cites": [
+        {
+          "page": "765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/789/0764-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 1282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3250976,
+        8353290,
+        8353259
+      ],
+      "pin_cites": [
+        {
+          "page": "1284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0412-02",
+        "/a2d/930/1282-02",
+        "/a2d/930/1282-01"
+      ]
+    },
+    {
+      "cite": "771 A.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11101915,
+        124751
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/771/0767-01",
+        "/pa/565/0079-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 79",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124751
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0079-01"
+      ]
+    },
+    {
+      "cite": "802 A.2d 620",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9403772
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/802/0620-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1496,
+    "char_count": 39803,
+    "ocr_confidence": 0.711,
+    "pagerank": {
+      "raw": 1.1009795299108422e-07,
+      "percentile": 0.5682956805589824
+    },
+    "sha256": "40b8b388c3c08beaa3c822583140ef2fcf0851cd242727cff6623db9a1c06dac",
+    "simhash": "1:d2be77837744bb20",
+    "word_count": 6619
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BOWES, J., McEWEN, P.J.E., and CLELAND , J."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Allen NMN KELLY, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nCLELAND, J.:\nAppellant, Allen Kelly (Kelly), appeals the judgment of sentence of the Court of Common Pleas of York County entered on December 11, 2008 after Kelly pleaded guilty to driving under the influence\u2014 highest rate of alcohol, 75 Pa.C.S.A. \u00a7 3802(c). Kelly argues the guilty plea was not knowingly, voluntarily, and intentionally tendered. Specifically, Kelly argues he was forced into accepting a guilty plea because the trial court erred in granting counsel\u2019s motion to withdraw on the eve of his trial. Because Kelly intentionally forfeited his right to counsel, we conclude his guilty plea was knowingly, voluntarily, and intentionally tendered. Accordingly, we affirm the judgment of sentence.\nThe relevant procedural history of the case is as follows: On June 19, 2008 Kelly pleaded guilty to count 2 of the criminal information, driving under the influence\u2014 highest rate of alcohol, third offense, 75 Pa.C.S.A. \u00a7 3802(c). At the hearing, presided by the Honorable John H. Chronis-ter, Kelly was represented by Anthony Tambourino, Esq. (Attorney Tambourino) of the York County Public Defender\u2019s Office. After it accepted Kelly\u2019s plea, the court agreed to defer sentencing for 90 days. N.T., 6/19/08, at 5. Specifically, the court noted that pursuant to the plea agreement:\nKelly will receive a sentence of one to five years and a $2,500 f\u00edne, plus all the standard DUI requirements. [Kelly] wants to serve it in the York County Jail, and the [c]ourt is granting permission to do so if he can obtain a job which would qualify.\nWe will schedule sentencing for September 22, 2008, at 9:00 a.m. before Judge Blackwell. At that time, if [Kelly] does not have a job, then the sentence that will be imposed would be one to five years in the state [correctional institution] with credit back to today. But, we hereby revoke his bail today so he can start getting credit on this count.\nWe further direct that if he can obtain employment which meets Outmate qualifications any time between now and then, and if counsel contacts the [c]ourt, a sentencing date will be scheduled so that he can go to work as soon as a job is available.\nWe note that we will make him eligible for Outmate if he does find a job which qualifies him.\nId. at 7-8.\nOn July 16, 2008 Kelly filed pro se a motion to \u201cbe placed in the work release housing unit and to be allowed to leave the prison Monday thru Friday from the hours of 7am till 2pm for the purposes of gaining employment.\u201d Motion for a Court Order, 7/16/08, at 1.\nOn July 23, 2008 the Honorable Penny L. Blackwell denied the motion because Kelly was \u201crepresented by counsel and [was] awaiting sentencing on September 22, 2008, at 9:00 AM.\u201d Order, 7/23/08, at 1.\nOn August 15, 2008, Kelly filed pro se a motion to withdraw his guilty plea. In his motion, Kelly argued his plea counsel (Attorney Tambourino) had been ineffective because \u201che failed to recognize and/or deliberate disregard the fully defective Affidavit of Probable Cause, which is a matter of \u2018Constitutional provisions.\u2019 \u201d Motion to Withdraw Guilty Plea, 8/15/08, at 1 (citations omitted). Kelly concluded as a result of plea counsel\u2019s ineffectiveness his guilty plea was not valid. Id. The court scheduled a hearing on Kelly\u2019s motion for September 22, 2008. Order, 8/20/08, at 1.\nOn September 22, 2008, at the hearing on Kelly\u2019s motion to withdraw his guilty plea, Kelly represented himself, while Ronald W. Jackson, Esq. (Attorney Jackson) of the York County Public Defender\u2019s Office, assisted Kelly as standby counsel. Judge Blackwell presided over the hearing. After the court warned Kelly of the consequences resulting from withdrawing the guilty plea, the court invited Kelly to discuss the matter with standby counsel. At the conclusion, the following exchange took place:\n[Attorney Jackson]: [Kelly] would like to withdraw his plea in this matter. I have advised him that it will be a trial, there will be no further offers by the Commonwealth in this case.\nAnd he is also asking for a court-appointed attorney because our office\u2014 he\u2019s alleging ineffectiveness against our office in that we won\u2019t let him or we won\u2019t file any motions on his behalf challenging the affidavit, which is his issue. [] And he is\u2014\n[Kelly]: One of the issues.\nAttorney Jackson: Apparently one of the issues.\nN.T., 9/22/08, at 4.\nThe trial court denied Kelly\u2019s oral motion for appointment of another court-appointed counsel and ordered Kelly to proceed with Attorney Jackson as standby counsel. Id. at 5. The court then granted Kelly\u2019s motion to withdraw his guilty plea. Id.\nIn preparation for trial, the parties next discussed other issues, including whether the parties would stipulate Kelly\u2019s blood alcohol content level. Id. at 6-7. Kelly refused to do so. Id. at 7.\nNext, at the same hearing, the parties discussed bail for this case and two other active parole cases (4569 CR 2008 and 5254 CR 2003). Id. at 7-9. The trial court set bail on this case on $5,000.00 secured. Id. at 8. The Commonwealth then sought to have a parole violation detainer to be lodged against Kelly on the other two cases. Id. at 8-9. After the court learned the Commonwealth had filed the petition for a detainer before Kelly\u2019s maximum release date, the court granted the Commonwealth\u2019s request. Id. at 9. Then the following exchange took place:\n[Kelly]: I thought you were defending me.\nAttorney Jackson: You\u2019re representing yourself.\n[Kelly]: You didn\u2019t defend this.\n[Judge Blackwell]: Sir, the petition was appropriately filed.\n[Kelly]: You didn\u2019t defend that. You\u2019re supposed to be my public defender.\nAttorney Jackson: I\u2019m not your public defender.\n[Kelly]: Please. You\u2019re right. Pretender.\nId. at 9.\nOn September 23, 2008, Kelly filed pro se an omnibus pretrial motion alleging that the original affidavit of probable cause accompanying the arrest warrant had not been signed by affiant, the affidavit of probable cause could not be amended by subsequently filing a signed affidavit, the copy of the affidavit of probable cause given him (which was unsigned) was the exact copy of the original affidavit of probable cause used for purposes of the arrest warrant and that, consequently, his arrest was illegal because it was based on an invalid arrest warrant. Omnibus Pretrial Motion for Relief, 9/23/08 at 1-2.\nOn November 3, 2008, the date scheduled for Kelly\u2019s trial, Kelly was acting pro se, assisted by Attorney Jackson as standby counsel, before Judge Blackwell. After the Commonwealth indicated it was ready to proceed, Attorney Jackson represented to the court Kelly wanted other counsel because there was an irreconcilable breakdown in communications and that Attorney Jackson could not fully represent Kelly. Kelly added: \u201cI feel that they refuse to argue my defense or my claims that I raised ... so that\u2019s ineffective counsel.\u201d N.T. 11/3/08 at 3. Next, the following exchange took place:\n[Judge Blackwell]: And I\u2019ve heard what Attorney Jackson has indicated in the [c]ourt. At this point, based upon what Attorney Jackson has indicated, I will be assigning \u2014 do you want a stand by or do you want full counsel?\n[Kelly]: Full counsel.\n[Judge Blackwell]: That I am checking to see, who would be available. I will appoint you counsel and you are assigned that counsel; do you understand that?\n[Kelly]: Yes, ma\u2019 am.\n[Judge Blackwell]: So at this point, this matter will be continued so as to have new counsel, who will be appointed by the [c]ourt to ... meet with [Kelly] [and] discuss [with him] various matters.\n[Attorney Jackson]: Are you going to keep it on the November trial term? [Judge Blackwell]: No, because counsel cannot get ready in time. Because if [Kelly] has a motion out there, they have to discuss it with his client or her client. Attorney Jackson, I\u2019ll be setting it for the November 18th or 20th pretrial.\nId. at 4-5.\nThe same day (November 3, 2008), the court appointed Attorney Scott A. McCabe (Attorney McCabe) to assist Kelly in the proceedings. On December 4, 2008 Attorney McCabe filed a petition to withdraw as counsel. In his petition, Attorney McCabe stated:\n5. Since November 3, 2008, the undersigned counsel has reviewed all of the discovery materials, met with Attorney Jackson and Assistant District Attorney [Karen] Comery [ (Attorney Comery) ], and has met with [Kelly] at the York County Prison to prepare for trial.\n6. However, there has been a complete breakdown in the attorney-client relationship. [Kelly] has, among other things, accused this counsel of lying to him, sent him letters alleging his ineffectiveness, asserts that the undersigned counsel is actually working for the Commonwealth in this prosecution, and utterly fails to effectively communicate with this counsel. [Kelly] refuses to discuss trial strategy with the undersigned counsel, stating he cannot trust his court-appointed counsel as I work for a corrupt county judicial system. [Kelly]\u2019s unreasonable conduct renders it unreasonably difficult, if not impossible, for this counsel to carry out his duties effectively.\nPetition to Withdraw as Counsel, 12/04/08, at 2.\nThe trial court set a hearing on counsel\u2019s motion to withdraw for December 9, 2008. At the hearing, after Attorney McCabe reiterated in court the content of his petition to withdraw, the following exchange took place:\n[Kelly]: Your Honor, Attorney McCabe has already showed he was ineffective. On November 3rd when you appointed Attorney McCabe to me, he came down to the holding cell and told me he was going to see me before the 18th, which was when my trial was supposed to be scheduled. That day came. He never showed up to see me.\nFinally, after that \u2014 he finally met me on December 3rd. I expressed my concern to him. He told me my arguments were F-ing bullshit. That\u2019s exactly what he told me. He also told me the argument I had was frivolous. That\u2019s basically saying the same thing the Public Defender is doing. That\u2019s ineffective to me.\n[Judge Blackwell]: Sir, I have indicated there has already been raised your concern about your contention [ie., validity of affidavit of probable cause]. This [c]ourt has indicated already that your contention has no merit.\n[Kelly]: Then he suggested that \u2014 I asked him what his suggestion would be. His suggestion was that I would take the one to five. If you are supposed to be my defense attorney, the suggestion shouldn\u2019t be take the one to five and be done with it. There should be some strategy for him to defend me.\n[Judge Blackwell]: If I understand\u2014 was there an offer made by the Commonwealth?\n[Attorney Comery]: There was. We have been through this before with [Kelly]. It is, obviously, apparent he didn\u2019t want to listen to what the attorney says. Since he knows it all, maybe he should just proceed pro se and go to trial. [Kelly]: I dispute that. They provide law libraries at the prison. I researched a lot of stuff there. I can quote a law. I have asked Attorney McCabe some of it. He hasn\u2019t proved to me about some of the arguments that it is frivolous.\n[Attorney McCabe]: Every issue that\u2019s raised to me. I have addressed in a letter that was sent to him last week with all my legal research, including that every issue that he has raised to me is without merit. So, I have done the legal research for him. I have shown it to him. He does not accept it.\n[Judge Blackwell]: [Y]ou have been through several attorneys. Now I am out of court-appointed counsel. You are at a point where \u2014 Attorney McCabe appears to be saying there is no attorney/client relationship. You are now at that point where you do not want to cooperate with counsel and you are left with representing yourself, which is fine. I mean, that\u2019s absolutely your right to do. But\u2014\n[Kelly]: Then there is the issue\u2014\n[Judge Blackwell]: Go ahead.\n[Kelly]: Then there is the issue of the detainer that I told him from my research, legal research from Westlaw, Probation and Parole, the detainer was placed on me illegally because my original term of probation expired.\n[Attorney McCabe]: I have also done the research on that, Your Honor. I have come to a contrary conclusion. I provided him with the law on that. He does not accept that.\n[Kelly]: He didn\u2019t show me no [sic] case law on that one, Your Honor.\n[Judge Blackwell]: Well, but you are at this point where either you work with Attorney McCabe or you are representing yourself. I have run out of options for counsel for you.\n[Kelly]: Well, Your Honor, if he is not going to defend me properly \u2014 and this is my freedom we are talking about, not his. He is not concerned with my \u2014 if he is not concerned with my freedom \u2014 it doesn\u2019t serve my best interest represent myself. I am not refusing counsel, though, so\u2014\n[Judge Blackwell]: But, sir, there comes a point where the [c]ourt is at an end. You have been through the attorneys. So, you are on your own.\n[Kelly]: The Sixth Amendment says I am entitled to representation.\n[Judge Blackwell]: You are entitled to counsel provided that you cooperate with counsel.\n[Kelly]: Not cooperate and accept a sentence, Your Honor.\n[Judge Blackwell]: That was a plea offer. It wasn\u2019t a sentence. It was a plea offer. You either \u2014 you have the right, as does anybody who is made an offer from the Commonwealth \u2014 to accept or reject. You reject it, it is a trial. And from what you have said, you have rejected it. So, now it is trial.\nAnd you have the right to an attorney so long as you are cooperative, which today you have failed to be.\n[Kelly]: Maybe I should restate that I have the right to effective counsel.\n[Judge Blackwell]: Sir, at this point, the [e]ourt will grant Attorney McCabe\u2019s motion. He is now withdrawn as your counsel, and you are now pro se and will stay on the trial list.\nAttorney McCabe, make sure he gets all the paperwork. He is on his own.\nN.T., 9/12/08, at 3-7.\nOn December 11, 2008, Kelly appeared before Judge Chronister for his trial. While Judge Chronister openly disagreed with Judge Blackwell\u2019s decision not to appoint Kelly other counsel, he nonetheless felt he was bound by that decision and could not reverse it. Accordingly, Judge Chronister would not consider appointing Kelly other counsel or continuing the case. However, Judge Chronister painstakingly and patiently reviewed with Kelly all the ins and outs and pros and cons of Kelly\u2019s options at that procedural junction. The review of the terms, conditions and consequences of the plea agreement as compared to the consequences of facing a trial spans over 30 pages of the notes of testimony.\nAfter carefully weighing his options, Kelly eventually accepted the plea agreement. Pursuant to the agreement, Kelly pleaded guilty to driving under the influence \u2014 highest rate of alcohol, 75 Pa.C.S.A. \u00a7 3802(c), whereas the remaining counts were nolle prossed. Judge Chronister, however, before accepting the plea, asked Kelly whether he wanted to check with Attorney McCabe regarding the plea. At that point, the following exchange took place:\n[Judge Chronister]: Maybe we should wait until 1:30 and get Attorney McCabe here for purposes of acting as standby [c]ounsel. Do you have an opinion in regard to that?\n[Kelly]: What good is that going to do me now?\n[Judge Chronister]: Well, we could give you a chance to talk to him if you wanted to and discuss all the things that we talked about this morning in further detail, if you had any further questions. You don\u2019t have to. You can say, \u201cAt this point I don\u2019t have any more questions, and everything that he could have possibly told me, the Judge told me.\u201d\n[Kelly]: Like I said, our relation wasn\u2019t good, because he refused to argue anything I wanted him to argue anyway, so it would be meaningless to me, really. [Judge Chronister]: So at this point you\u2019re willing to waive his presence here today, but you\u2019re not willing to waive the objection to the fact that you didn\u2019t have [c]ounsel who was willing to properly represent you? You still want to fight that issue, but you don\u2019t want [Attorney]\nMcCabe here because he didn\u2019t want anything more to do with you and asked to be out?\n[Kelly]: Correct.\nId. at 32.\nAfter Judge Chronister accepted the plea, he sentenced Kelly, inter alia, to \u201c1 year in the York County Jail, followed by the balance of 5 years on supervision, f\u00edne in the amount of $2,500, cost of [prosecution, $10 f\u00edne under Act 45.\u201d Id. at 34.\nSubsequently, Kelly made an oral motion to withdraw his plea \u201con the basis that Judge Blackwell\u2019s Order depriving him of [c]ounsel was improper.\u201d Id. at 38. Judge Chronister denied the motion because he \u201cwas bound by Judge Blackwell\u2019s Order.\u201d Id. Later, Judge Chronister appointed new counsel, Lori A. Yost, Esq. (Attorney Yost), to assist Kelly in the post-sentence/appeal proceedings. Order, 12/18/08 at 1.\nOn December 22, 2008, Attorney Yost filed a motion for reconsideration. A hearing on this motion was scheduled for January 12, 2009. At the hearing, Attorney Yost stated the motion had been withdrawn. N.T. 1/12/09, at 2.\nThis appeal followed. Both the trial court and Kelly complied with Pa.R.A.P. 1925.\nWith this factual and procedural background, we now address the issue Kelly raises on appeal. As noted above, Kelly argues the trial court erred in not granting his post-sentence motion to withdraw his guilty plea. In addressing this issue, this Court held:\n[P]ost-sentence motions for withdrawal are subject to higher scrutiny since courts strive to discourage entry of guilty pleas as sentence-testing devices. [Commonwealth v. Flick, 802 A.2d 620, 623 (Pa.Super.2002)]. A defendant must demonstrate that manifest injustice would result if the court were to deny his post-sentence motion to withdraw a guilty plea. Id., citing Commonwealth v. Gunter, 565 Pa. 79, 771 A.2d 767 (2001); [Commonwealth v. Kirsch, 930 A.2d 1282, 1284 (Pa.Super.2007) ]. \u201cManifest injustice may be established if the plea was not tendered knowingly, intelligently, and voluntarily.\u201d Commonwealth v. Hodges, 789 A.2d 764, 765 (Pa.Super.2002), citing Commonwealth v. Persinger, 532 Pa. 317, 615 A.2d 1305 (1992). In determining whether a plea is valid, the court must examine the totality of circumstances surrounding the plea. Commonwealth v. Flanagan, 578 Pa. 587, 854 A.2d 489, 500 (2004).\nCommonwealth v. Broaden, 980 A.2d 124, 129 (Pa.Super.2009), appeal denied, \u2014 Pa.-, 992 A.2d 885 (2010).\nKelly argues he did not waive or forfeit his right to counsel, and therefore, the trial court erred in granting counsel\u2019s motion to withdraw and refusing to appoint other counsel for him which left Kelly, at the time set for his trial, in the position of representing himself.\nIn addressing Kelly\u2019s claim, we consider the following authorities.\nThe Sixth Amendment to the United States Constitution provides that in all criminal prosecutions, the accused shall enjoy the right to have the assistance of counsel for his or her defense. Similarly, Article I, Section 9 of the Constitution of this Commonwealth affords to a person accused of a criminal offense the right to counsel. However, the constitutional right to counsel of one\u2019s own choice is not absolute. Rather, the right of an accused individual to choose his or her own counsel, as well as a lawyer\u2019s right to choose his or her clients, must be weighed against and may be reasonably restricted by the state\u2019s interest in the swift and efficient administration of criminal justice. Thus, while defendants are entitled to choose their own counsel, they should not be permitted to unreasonably clog the machinery of justice or hamper and delay the state\u2019s efforts to effectively administer justice.\nCommonwealth v. Lucarelli, 601 Pa. 185, 193-94, 971 A.2d 1173, 1178-79 (2009) (citations omitted).\nOur Supreme Court also noted:\nThe situation is different for a defendant who is not employing counsel at his own expense, and who, at public expense, seeks court-appointed counsel. Such a defendant does not have a right to choose the particular counsel to represent him. Commonwealth v. Moore, 534 Pa. 527, 539, 633 A.2d 1119, 1125 (1993) (citing Commonwealth v. Johnson, 428 Pa. 210, 213, 236 A.2d 805, 807 (1968)), cert. denied, 513 U.S. 1114, 115 S.Ct. 908, 130 L.Ed.2d 790 (1995). Nor, after counsel has been appointed, can he change to other assigned counsel unless a substantial reason exists for the change. Pa.R.Crim.P. 316(c)(ii) (delineating \u201cAssignment of Counsel\u201d) [Now Pa.R.Crim.P. 122]; Moore, 534 Pa. at 539, 633 A.2d at 1125; Commonwealth v. Williams, 514 Pa. 62, 67-68, 522 A.2d 1058, 1061 (1987).\nCommonwealth v. Rucker, 563 Pa. 347, 350, 761 A.2d 541, 542 n. 1 (2000).\nIn Lucarelli, our Supreme Court also stated:\nLike the Superior Court in Commonwealth v. Thomas, 879 A.2d 246, 257-59 (Pa.Super.2005), we find persuasive the distinction between waiver and forfeiture made by the Third Circuit Court of Appeals in United States v. Goldberg, 67 F.3d 1092, 1099-1101 (3d Cir.1995). Waiver is \u201can intentional and voluntary relinquishment of a known right.\u201d Id. at 1099. By contrast, forfeiture, as defined by the Third Circuit, does not require that the defendant intend to relinquish a right, but rather may be the result of the defendant\u2019s \u201cextremely serious misconduct\u201d or \u201cextremely dilatory conduct.\u201d United States v. Thomas, 357 F.3d 357, 362 (3d Cir.2004) (quoting Goldberg, supra at 1100-02).\nThe consequences of the distinction between waiver of the right to counsel and forfeiture of the right to counsel are significant because, we now hold, Pa. R.Crim.P. 121 and its colloquy requirements do not apply to situations where forfeiture is found. To hold otherwise would permit a recalcitrant defendant to engage in the sort of obstructive behavior that mandates the adoption of the distinction between forfeiture and waiver in the first instance. Should an unrepresented defendant choose not to engage in the colloquy process with the trial court, were there no provision for forfeiture of counsel, that defendant could impermissibly clog the machinery of justice or hamper and delay the state\u2019s efforts to effectively administer justice. Such a result would be untenable. See United States v. Thomas, supra at 362 (\u201cForfeiture can result regardless of whether the defendant has been warned about engaging in misconduct, and regardless of whether the defendant has been advised of the risks of proceeding pro se.\u201d) (quoting Goldberg, supra at 1101).\nId. at 194-95, 971 A.2d at 1179.\nThe factual background of this case clearly shows this is not a waiver of counsel case. Kelly never formally waived his right to counsel, nor did the trial court engage Kelly in a Rule 121 colloquy for waiver of counsel.\nThe trial court, instead, denied Kelly\u2019s right to counsel on another basis: intentional forfeiture by engaging in dilatory conduct.\nIn Goldberg, the Third Circuit defined \u201cintentional forfeiture\u201d as follows:\n[T]here is a hybrid situation (\u201cwaiver by conduct\u201d) that combines elements of waiver and forfeiture. Once a defendant has been warned that he will lose his attorney if he engages in dilatory tactics, any misconduct thereafter may be treated as an implied request to proceed pro se and, thus, as a waiver of the right to counsel.\nThese are not \u201cwaiver\u201d cases in the true sense of the word. In many situations there will be defendants who engage in dilatory conduct but who vehemently object to being forced to proceed pro se. These defendants cannot truly be said to be \u201cwaiving\u201d their Sixth Amendment rights because although they are voluntarily engaging in misconduct knowing what they stand to lose, they are not affirmatively requesting to proceed pro se. Thus, instead of \u201cwaiver by conduct,\u201d this situation more appropriately might be termed \u201cforfeiture with knowledge.\u201d\nGoldberg, 67 F.3d at 1100-01 (citations omitted).\nThe question is whether the trial court erred in making such finding. We conclude it did not.\nWhile neither the United States Supreme Court nor our Supreme Court has expressly ruled on the level of misconduct or defiance that may give rise to forfeiture, we hold, under the circumstances of the case, Kelly knowingly forfeited his right to counsel. In reaching this conclusion we are guided by federal cases that have found defendants\u2019 dilatory conduct resulted in forfeiture of their rights to be represented by assigned counsel.\nIn United States v. Fazzini, 871 F.2d 635 (7th Cir.), cert. denied, 493 U.S. 982, 110 S.Ct. 517, 107 L.Ed.2d 518 (1989), the Seventh Circuit summarized the procedural history as follows:\nDefendant went to trial without counsel after four court-appointed attorneys had either been dismissed by him or excused by the court. Defendant\u2019s first appointed attorney, Richard Leng, withdrew from the case on March 13, 1986. The court then appointed Sheila Murphy to represent the defendant. Murphy withdrew on August 5, 1986 and was replaced by Carl Clavelli. On September 12, 1986, the defendant told the court that he was discharging Mr. Clavelli because \u201che has neglected my case.\u201d At that point the trial court told the defendant that no new counsel would be appointed and expressly found that he had knowingly and voluntarily waived his right to counsel. Shortly thereafter, on September 16, the trial judge agreed to appoint Richard Kling as counsel for the defendant after Kling assured the judge that he was amenable to the appointment. The court warned the defendant that \u201c[t]his is it. If things don\u2019t work out with Mr. Kling, this is it....\u201d Fling's representation only lasted until October 8,1986, when he moved to withdraw from the case based on an \u201cirreparable conflict\u201d with the defendant. The court granted the motion and the defendant proceeded without counsel after the district court again expressly found that the defendant, through his actions, had knowingly and voluntarily waived the right to counsel. The court did, however, appoint Mr. Kling to act as shadow counsel for the defendant, a position in which Kling remained throughout the defendant\u2019s trial and sentencing.\nId. at 641-42.\nThe Seventh Circuit then noted:\nIn this case, the defendant claims that he did not knowingly and intentionally waive his right to appointed counsel since he continued to ask for counsel even after [fourth defense counsel] was excused from the case. Yet it is not necessary that a defendant verbally waive his right to counsel; so long as the district court has given the defendant sufficient opportunity to retain the assistance of appointed counsel, defendant\u2019s actions which have the effect of depriving himself of appointed counsel will establish a knowing and intentional choice. [Wilks v. Israel, 627 F.2d 32, 35-86 (7th Cir.1980) ]; United States v. Moore, 706 F.2d 538, 539 (5th Cir.), cert. denied, 464 U.S. 859, 104 S.Ct. 183, 78 L.Ed.2d 163 (1983).\nIn Moore, the trial court appointed \u201cseveral attorneys,\u201d each of whom was rejected by the defendant. Following the appointment of the defendant\u2019s third attorney, the judge, just as Judge Williams did in this case, warned the defendant that failure to cooperate with the fourth appointed attorney would signal a waiver of the right to counsel. Just prior to trial, the defendant moved to have new counsel appointed as a result of his inability to get along with counsel. The court refused to appoint new counsel and, after prevailing upon the fourth appointed attorney to act as shadow counsel, found that the defendant had waived his right to counsel. The defendant eventually was convicted and appealed claiming that the district court denied him his right to counsel. The appellate court rejected that claim holding that \u201ca persistent, unreasonable demand for dismissal of counsel and appointment of new counsel ... is the functional equivalent of a knowing and voluntary waiver of counsel.\u201d [Moore, 706 F.2d] at 540.\nThis case involves facts which closely parallel the facts in Moore. The district judge in this case, just like the district judge in Moore, faced a defendant who refused to cooperate with numerous appointed counsel, who was warned of the consequences that his failure to cooperate would have, and who insisted, despite his conduct, that he was not waiving his right to appointed counsel. We agree with the Fifth Circuit that given this set of circumstances, the defendant has knowingly and intelligently waived his right to appointed counsel.\nFazzini, 871 F.2d at 642 (footnote omitted).\nWe find also relevant the following analysis:\nThe Constitution does not force an unwanted attorney upon a defendant. [Adams v. United States ex rel. McCann, 317 U.S. 269, 63 S.Ct. 236, 87 L.Ed. 268 (1942)]; [Minor v. United States, 375 F.2d 170, 172 (8th Cir.), cert. denied, 389 U.S. 882, 88 S.Ct. 131, 19 L.Ed.2d 177 (1967)].\n[\u201c]If the defendant does not agree with his counsel, he has a right to present his own contentions; but the sovereign is under no duty to search for counsel until it finds one who will agree with him.[\u201d] [Jackson v. United States, 258 F.Supp. 175, 184 (N.D.Tex.1966) ].\nAnd in [Williams v. Beto, 354 F.2d 698 (5th Cir.1965)], involving a habeas attack upon the effectiveness of counsel, that Court stated:\n[When one seeks the assistance of counsel, he thereby confesses his own inadequacy in the field and stipulates his willingness, like any other client ... to be bound by the presumably superior knowledge of the professional man on whose assistance he proposes to depend. He agrees that this attorney will be in charge of his defense in the legal battle about to begin.... If the indigent client, conferred upon and trusted to the lawyer, knows more about what ought to be done in handling the case, then he needs no counsel and it is folly for him to ask for it.]\n[Id. at 705-706.]\nThe case here is not unlike that of [United States ex rel. Davis v. McMann, 386 F.2d 611 (2nd Cir.1967) ], wherein that Court, quoting at length from the record, held:\n[We have recognized a right of a defendant to proceed without counsel and to refuse the representation of assigned counsel.... He may not use this right to play a \u2018cat and mouse\u2019 game with the court ... or by ruse or stratagem fraudulently seek to have the trial judge placed in a position where, in moving along the business of the court, the judge appears to be arbitrarily depriving the defendant of counsel. More particularly is this so when, during trial, the defendant discharges his counsel.]\n[Id. at 618-19 (citations omitted) ].\nKates v. Nelson, 435 F.2d 1085, 1088-89 (9th Cir.1970).\nHere, the trial court faced a situation similar to Fazzini and Moore. Kelly was a criminal defendant who had been unwilling to cooperate with all three counsel assigned to him; who argued all counsel were incompetent because they refused to argue what he believed was the law; who, the day after his pro se motion to withdraw his first guilty plea was granted, filed pro se an omnibus pre-trial motion seeking suppression of evidence on a ground the trial court had already addressed (validity of search warrant); who wanted a counsel, but only one who would please him; who treated appointed counsel with disdain; whose trial had been, already postponed because he could not agree with assigned counsel (counsel 2); who had been warned by the trial court that failure to cooperate \u25a0with assigned counsel (counsel 3) would result in him representing himself pro se at trial; who sought to have other counsel appointed to him (who would have been counsel 4) and postpone the trial instead of trying to cooperate with counsel 3; and who clearly was not interested in listening closely what Judge Blackwell was telling him, consumed as he was in making his point counsel were ineffective and he knew the law better than assigned counsel. We have no difficulty concluding the trial court did not err in finding Kelly intentionally forfeited his right to counsel.\nIn considering all other circumstances surrounding the plea agreement, it is clear Judge Chronister gave Kelly all possible information to make an informed decision and Kelly carefully pondered his options. The following exchange illustrates this point:\n[Kelly]: In the meantime, I\u2019m forced to take that [ie., guilty plea] or \u2014 I\u2019m forced to take that on being violated, being violated in the process.\n[Judge Chronister]: You\u2019re not forced to do anything.\n[Kelly]: I understand that, but I\u2019m being violated in the process.\n[Judge Chronister]: Clearly I\u2019m not forcing you to do anything.\n[Kelly]: Right. I understand.\n[Judge Chronister]: All I\u2019m telling you is your options, and I think there [were] some things done improperly here. [Kelly]: Very improperly.\n[Judge Chronister]: Which I can\u2019t do anything about and you\u2019re stuck with. So you can say, \u201cI want to fight it, I\u2019m going to trial, and I don\u2019t care what happens.\u201d Be my guest, that\u2019s your right and privilege. Or you can say, \u201cyou know what, I really was over the limit on the blood test, and I better cut my losses and get out of this the best I can, because I\u2019ve got myself in pretty deep here through all these things that have happened, and if I don\u2019t cut my losses, it\u2019s going to be twice as bad.\u201d Th[ese are] basically your choices. You can cut your losses and take the year and be done with it and give up all this stuff that happened and say, \u2018Well, stuff happens,\u201d or you can say, \u201cI want to fight this whole thing, and I don\u2019t care,\u201d in which case we\u2019ll go ahead with the trial, you\u2019ll get your sentence, and you can go ahead and fight everything you want to fight, and it it\u2019s very possible in the long run you\u2019ll actually spend more time in jail as a result of doing it that way, and you won\u2019t be successful because even if you appeal and say, \u201cI should have had an attorney,\u201d and you\u2019ll be back here facing the same trial, and if you have an attorney, it really isn\u2019t going to help you if you\u2019re still going to admit, \u201cYes, I was drinking; yes, I took the test; yes, the result was this.\u201d Your attorney can\u2019t help you.\nN.T., 12/11/08, at 22-23.\nIn light of the foregoing, because Kelly\u2019s claim he was improperly deprived of his right to counsel is without merit, after reviewing the totality of the circumstances surrounding the plea, we conclude Kelly knowingly, voluntarily, and intelligently tendered his guilty plea and the trial court did not err in denying his post-sentence motion to withdraw it.\nJudgment of sentence affirmed.\n. We note there is no indication in the record how and when Attorney Tambourino had been permitted to withdraw from representing Kelly.\n. Kelly argued the affidavit of probable cause in support of the Commonwealth's request for his arrest was not valid because the affiant did not sign it. The Commonwealth argued the copy filed with the Magisterial District Court had been signed by the affiant. Attorney Jackson said the copy of the affiant included in the discovery packet was not signed but that a copy of the signed affidavit had been subsequently provided to Kelly. While Kelly acknowledged he received the signed copy of the affidavit he also argued the affidavit had been signed only \u201cafter the fact that [he] put a motion in.\u201d N.T., 9/22/08, at 4. Judge Blackwell, after hearing argument from both counsel and Kelly, concluded the issue was frivolous. Id. at 3.\n. It appears Judge Blackwell denied this motion. See N.T. 12/11/08, at 2. Other than a reference made by the Commonwealth at the time of trial/guilty plea on December 11, 2008 the record, again, is silent about the disposition of said motion.\n. The date of appointment is stated in Attorney McCabe\u2019s petition to withdraw; however, there is no formal entry in the record of Attorney McCabe\u2019s appointment.\n. Once again, it appears the notice of the court order setting a hearing on Attorney McCabe\u2019s petition must have been given to the parties informally because the actual order is not in the record.\n. Judge Blackwell's order of December 9, 2009, in relevant part, reads as follows: \u201cNo continuances will be granted on this withdrawal [i.e., Attorney McCabe's withdrawal] nor for the retention of new counsel.\u201d Order, 12/9/08, at 1. Because of our disposition of the case, we do not need to address the applicability of the coordinate jurisdiction rule here.\n. For Pennsylvania case law dealing with forfeiture as result of defendant's dilatory conduct, see Lucarelli, supra (defendant appeared without counsel at trial five weeks after the trial court had given defendant access to $20,000 specifically to retain new attorney); Commonwealth v. Coleman, 905 A.2d 1003 (Pa.Super.2006) (defendant, who had the financial means to retain counsel, appeared without counsel on several occasions after having dismissed them or engaged in conduct forcing them to withdraw); Commonwealth v. Wentz, 280 Pa.Super. 427, 421 A.2d 796 (1980) (defendant, who was not eligible for court-appointed counsel, appeared without counsel at his arraignment. Although the arraignment judge had already admonished defendant to retain counsel, he appeared at subsequent pre-trial colloquy without counsel and failed to give any reasonable explanation for not retaining counsel). We recognize, obviously, the case at hand differs from Lucarel-li, Coleman and Wentz in that Kelly here was eligible for court-appointed counsel.\n. In Fazzini, the Seventh Circuit framed the issue as one of waiver. However, as the Third Circuit noted in Goldberg, supra, defendant's conduct in Fazzini is more appropriate termed as \"intentional forfeiture.\u201d See Goldberg, 67 F.3d at 1101.\n. Here, as noted, Kelly did not (nor could he) discharge Attorney McCabe. Attorney McCabe, however, in light of Kelly\u2019s attitude, filed a petition to withdraw from representing Kelly, which Kelly did not oppose because he did not get along with him. Additionally, Kelly specifically asked the court to appoint other counsel to replace Attorney McCabe.\n. To the extent Kelly argues Judge Blackwell erred in not appointing other counsel after granting McCabe\u2019s petition to withdraw, the request, which could be construed as a motion for change of counsel, was properly denied. \"The decision of whether to appoint new counsel lies within the sound discretion of the trial court.\u201d Commonwealth v. Spotz, 562 Pa. 498, 756 A.2d 1139, 1150 (2000) (citing Commonwealth v. Segers, 460 Pa. 149, 331 A.2d 462, 465 (1975)). Commonwealth v. Collins, 598 Pa. 397, 446, 957 A.2d 237, 266 (2008). See also Pa.R.Crim.P. 122(C). Based on the circumstances of the case, we hold the trial court did not abuse its discretion in denying Kelly's motion for change of counsel.\n. See also Kelly's written guilty plea colloquy, questions 35 and 36. Question 35: \"Has anybody forced you, threatened you, or coerced you directly or indirectly to enter this plea(s) of guilty?\u201d Kelly answered \"No\u201d; Question 36: \"Are you doing this of your own free will?\u201d Kelly answered \"Yes.\u201d Kelly himself wrote the answers and the initials at the bottom of page. Guilty Plea Colloquy, 12/11/08, at 8. By arguing on appeal he was forced into taking the plea, Kelly is essentially saying he did not answer the above questions or Judge Chronister truthfully. We remind Kelly that \"[a] defendant is bound by the statements he makes during his plea colloquy, and may not assert grounds for withdrawing the plea that contradict statements made when he pled.\u201d Commonwealth v. Stork, 737 A.2d 789, 790-91 (Pa.Super.1999) (citation omitted). See also Commonwealth v. Cappelli, 340 Pa.Super. 9, 489 A.2d 813 (1985): \"A criminal defendant who elects to plead guilty has a duty to answer questions truthfully.\u201d Id. at 819 (citation omitted).",
+        "type": "majority",
+        "author": "CLELAND, J.:"
+      }
+    ],
+    "attorneys": [
+      "Lori A. Yost, York, for appellant.",
+      "Hugh S. Rebert, Asst. Dist. Atty., York, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Allen NMN KELLY, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted March 29, 2010.\nFiled Sept. 9, 2010.\nLori A. Yost, York, for appellant.\nHugh S. Rebert, Asst. Dist. Atty., York, for Com., appellee.\nBEFORE: BOWES, J., McEWEN, P.J.E., and CLELAND , J.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0370-01",
+  "first_page_order": 400,
+  "last_page_order": 413
+}

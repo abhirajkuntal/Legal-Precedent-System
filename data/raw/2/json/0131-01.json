@@ -1,0 +1,654 @@
+{
+  "id": 7285103,
+  "name": "Lisa ROBERTS, Plaintiff, v. DELMARVA POWER & LIGHT COMPANY, d/b/a/ Connectiv Power Delivery, Benjamin McDaniel, Cheswold Airport, Delaware River and Bay Authority and James Johnson, Defendants; Barbara L. Aubrey, Individually and Executor of the Estate of James R. Aubrey, Deceased, and Jennifer L. Aubrey, Plaintiffs, v. Delaware River and Bay Authority and Delaware Airpark and Pepco Holdings, Inc. and Delmarva Power & Light f/k/a Connectiv Power Delivery and Diamond Aviation Inc., and Harlan Durham, Defendants",
+  "name_abbreviation": "Roberts v. Delmarva Power & Light Co.",
+  "decision_date": "2009-01-30",
+  "docket_number": "C.A. No. 05C-09-015 (RBY)",
+  "first_page": "131",
+  "last_page": "147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del. Super. Ct.",
+    "id": 9286,
+    "name": "Delaware Superior Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.2d 897",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "901"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "416 A.2d 829",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "832-33"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 N.J. 417",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        351559
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/83/0417-01"
+      ]
+    },
+    {
+      "cite": "457 F.Supp.2d 505",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        8446801
+      ],
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/457/0505-01"
+      ]
+    },
+    {
+      "cite": "2008 WL 4444552",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 C.F.R. \u00a7 43.13",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1985 WL 189292",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WL 1579718",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "480 A.2d 647",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7903196
+      ],
+      "weight": 4,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/480/0647-01"
+      ]
+    },
+    {
+      "cite": "523 A.2d 518",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7912657
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "528"
+        },
+        {
+          "page": "531"
+        },
+        {
+          "page": "531"
+        },
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/523/0518-01"
+      ]
+    },
+    {
+      "cite": "747 F.Supp. 263",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7380979
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "269"
+        },
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/747/0263-01"
+      ]
+    },
+    {
+      "cite": "552 U.S. 364",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3675891
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "996"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/552/0364-01"
+      ]
+    },
+    {
+      "cite": "21 F.3d 399",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11312942
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/21/0399-01"
+      ]
+    },
+    {
+      "cite": "807 F.Supp. 1545",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7408938
+      ],
+      "pin_cites": [
+        {
+          "page": "1567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/807/1545-01"
+      ]
+    },
+    {
+      "cite": "455 F.2d 222",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        743059
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/455/0222-01"
+      ]
+    },
+    {
+      "cite": "602 F.2d 1326",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1448639
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/602/1326-01"
+      ]
+    },
+    {
+      "cite": "772 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11098010
+      ],
+      "pin_cites": [
+        {
+          "page": "798"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/772/0792-01"
+      ]
+    },
+    {
+      "cite": "169 A.2d 240",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "893 A.2d 542",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8983847
+      ],
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/893/0542-01"
+      ]
+    },
+    {
+      "cite": "337 A.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8054762
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/337/0514-01"
+      ]
+    },
+    {
+      "cite": "293 A.2d 547",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8048557
+      ],
+      "pin_cites": [
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/293/0547-01"
+      ]
+    },
+    {
+      "cite": "161 A.2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 U.S.C. \u00a7 44701",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "322 U.S. 292",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6143120
+      ],
+      "weight": 6,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "303"
+        },
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/322/0292-01"
+      ]
+    },
+    {
+      "cite": "742 A.2d 845",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11501371
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "848",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/742/0845-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 355",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12556
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "369"
+        },
+        {
+          "page": "369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0355-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 707",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207741
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "712-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0707-01"
+      ]
+    },
+    {
+      "cite": "719 A.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11684871
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "946"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/939-941-01"
+      ]
+    },
+    {
+      "cite": "181 F.3d 363",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11659184
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "365"
+        },
+        {
+          "page": "365"
+        },
+        {
+          "page": "376"
+        },
+        {
+          "page": "370, n. 10"
+        },
+        {
+          "page": "370"
+        },
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/181/0363-01"
+      ]
+    },
+    {
+      "cite": "14 C.F.R. \u00a7 77.23",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "761 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11149668
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "5"
+        },
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/0001-01"
+      ]
+    },
+    {
+      "cite": "1995 WL 653987",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "297 A.2d 37",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11249032
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/297/0037-01"
+      ]
+    },
+    {
+      "cite": "287 A.2d 682",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8073578
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "684"
+        },
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/287/0682-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "254"
+        },
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "794 A.2d 1141",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9444658
+      ],
+      "pin_cites": [
+        {
+          "page": "1149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/794/1141-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1592,
+    "char_count": 43718,
+    "ocr_confidence": 0.705,
+    "pagerank": {
+      "raw": 4.60167783687625e-08,
+      "percentile": 0.2887652909493951
+    },
+    "sha256": "32bd4029ce6df2a411cbf04a9cca36d12c0b5c90a3088b02b06458cc27b25d6e",
+    "simhash": "1:f0de8cf42e7cd6d9",
+    "word_count": 7049
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lisa ROBERTS, Plaintiff, v. DELMARVA POWER & LIGHT COMPANY, d/b/a/ Connectiv Power Delivery, Benjamin McDaniel, Cheswold Airport, Delaware River and Bay Authority and James Johnson, Defendants. Barbara L. Aubrey, Individually and Executor of the Estate of James R. Aubrey, Deceased, and Jennifer L. Aubrey, Plaintiffs, v. Delaware River and Bay Authority and Delaware Airpark and Pepco Holdings, Inc. and Delmarva Power & Light f/k/a Connectiv Power Delivery and Diamond Aviation Inc., and Harlan Durham, Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nYOUNG, J.\nThis decision addresses the multiple motions for summary judgment filed in Roberts, et al., v. Delmarva Power & Light Company, et al. The undisputed facts written below cover the controversy among all parties. The motions are addressed individually. Plaintiffs in this case are Lisa Roberts, Jennifer Aubrey, and Barbara Aubrey both as an individual and as executor of James R. Aubrey\u2019s (\u201cDecedent\u2019s\u201d) estate. They are referred to generally as Plaintiffs except when a different designation is necessary. Defendants are Delmarva Power and Light Co. (\u201cDP & L\u201d), Harlan Durham and Diamond Aviation (collectively referred to as \u201cDiamond\u201d), and Delaware River and Bay Authority and Benjamin Clendaniel (collectively referred to as \u201cDRBA\u201d, except when necessary to distinguish).\nI. Facts\nIn 1969, DP & L wished to place electrical poles and wires near Delaware Air-park. In compliance with the Federal Aviation Administration\u2019s (\u201cFAA\u201d) regulations concerning proposed construction of potential obstructions, DP & L sought a determination from the FAA\u2019s Administrator about the poles\u2019 effect on the Airpark\u2019s operations. The Administrator\u2019s determination declared that the proposed poles were not obstructions. It did, however, recommend that the poles be lighted for safety purposes.\nDRBA is a bi-state agency of Delaware and New Jersey. It was created by a compact between the two states to control traffic in and around the Delaware Bay. DRBA took control of Delaware Airpark before the accident occurred. DRBA operates the Airpark.\nDiamond Aviation and Harlan Durham operated a service garage for planes on the property of Delaware Airpark. Mr. Durham performed an annual inspection on Decedent\u2019s plane on November 5, 2002. This was eleven months and eight days prior to the accident. Mr. Durham\u2019s inspection report noted several problems with the plane\u2019s fuel gaskets. No problems noted were related to the plane\u2019s carburetor. The carburetor is significant, as the parties present evidence that carburetor failure was a key factor in the accident. The inspection followed the checklist required by the Federal Aviation Regulations concerning airplane inspections.\nIn late September 2003, Hurricane Isabel came up the Delaware Coast. It was reported that the power outages resulting from the hurricane were the worst in Delaware\u2019s history. Shortly thereafter, Benjamin Clendaniel, manager of Delaware Air-park, noticed the lights on poles 224, 225, and 226 (the poles within the displaced runway threshold of the Airpark) were out. He submitted a report to DP & L for repairs. After several days passed without repairs, Clendaniel called again. He called DP & L several times over the course of the few weeks before the accident. Mr. Clendaniel also issued a Notice to Airmen (\u201cNOTAM\u201d). This notice alerted pilots of the outage of the lights in question. The NOTAM was issued on September 29, 2003. The NOTAM was intended to be short-term, remaining in effect until the lights were repaired.\nDP & L trucks were seen at the poles making repairs a few days before the accident. The repairmen did not test the lights to see if they were working properly. DP & L\u2019s repairmen testified in deposition that the test was simply overlooked. On October 7, 2003, DP & L was notified again that the lights were inoperative. No other facts exist concerning whether any other repair attempts were made between October 7 and October 19, 2003. In any case, the lights were inoperative until approximately October 19, 2003.\nOn October 12, 2003, Decedent (\u201cpilot\u201d) and his daughter Jennifer (\u201cpassenger\u201d) were in flight from Hazleton, Pennsylvania to Cheswold, Delaware. Decedent flew a Piper Cherokee 180. Upon approaching the runway at the Delaware Airpark, the plane was flying lower than normal. Jennifer Aubrey testified that she noticed trees above the plane. Then she felt a bump. It is undisputed that this bump was the plane hitting a tree. The plane continued toward the runway. Decedent evidently then noticed an electrical pole. He attempted to increase his altitude to no avail. The plane struck the unlit utility pole located outside of the Airpark\u2019s property. This pole was approximately 56-63 feet high. The plane struck the pole 46 feet above the ground. The right wing of the plane separated from the fuselage. The plane then struck the ground in a vertical position. The accident occurred at approximately 7:05 p.m. Decedent died approximately 2 hours and 40 minutes later from injuries sustained during the crash. Passenger allegedly received severe physical injuries. She now also claims to suffer from Post Traumatic Stress Disorder.\nOn September 13, 2005, Lisa Roberts filed suit in Superior Court for Kent County against various defendants for the loss of her father (Decedent) in a wrongful death action. She alleges that she has suffered great mental anguish stemming from her father\u2019s death. She brought suit against various defendants, including Benjamin Clendaniel. This action did not name either Diamond Aviation or Harlan Durham as defendants.\nOn October 10, 2005, Jennifer Aubrey and her mother Barbara Aubrey filed a similar suit stemming from the plane crash in Superior Court for New Castle County. This suit named various defendants, including Diamond Aviation and Harlan Durham, but not Benjamin Clendaniel. Jennifer and Barbara Aubrey seek recovery for injuries and anguish resulting from the crash, recovery for the survival of Decedent, and punitive damages and costs.\nThis Court consolidated the two actions on April 7, 2006. On December 18, 2006, the three plaintiffs, Lisa Roberts, Jennifer Aubrey, and Barbara Aubrey, filed an Amended Consolidated Complaint. This complaint was the first complaint from Lisa Roberts to list Diamond as defendants. The complaint was the first from Jennifer and Barbara Aubrey to list Benjamin Clendaniel as a defendant.\nAll parties present large amounts of evidence in support of their respective cases. The most telling is the report of Donald Sommer. Mr. Sommer was Plaintiffs\u2019 expert. His report stated unequivocally that Decedent was flying about 60 feet too low. Mr. Sommer also stated that, but for the plane\u2019s having carburetor problems, Decedent could have avoided the poles and the accident. Mr. Sommer\u2019s report is contradictory in other areas. Those areas need not be explored for these motions.\nThe foregoing is undisputed.\nII. Standard of Review\nThis Court\u2019s standard when reviewing motions for summary judgment is to determine, first, if there are material facts in dispute. If not, and if the moving party is entitled to judgment as a matter of law, summary judgment is appropriate. A genuine issue of fact arises when \u201cany rational trier of fact would infer that plaintiffs have proven the elements of a prima facie case.\u201d This Court must view the facts in a light most favorable to the non-moving party. If properly supported, then the burden will shift to the non-moving party to show that specific facts exist to support their claim.\nNegligence claims add requirements to summary judgment. In a negligence claim, for Plaintiffs to avoid a defendant\u2019s motion for summary judgment, or be granted Plaintiffs\u2019 own motion, Plaintiffs must establish the following: Plaintiffs must show that each defendant was under a legal obligation \u2014 a duty \u2014 to protect plaintiff from the risks which led to the injury. Whether a legal duty exists is a question of law. The existence of a duty and its standard of care are determined by statutes, rules, principles, and precedents. The duty is determined by the Court. If the Court determines that a duty exists, the Court must then determine whether that duty was breached by determining whether the proper standard of care was followed. Additionally, this breach must be the proximate cause of Plaintiffs\u2019 injuries.\nIII. Plaintiffs\u2019 Motion for Partial Summary Judgment Against DP &L\nPlaintiffs must establish the above factors to prevail on their motion for summary judgment. Plaintiffs insist that DP & L violated several duties owed to Decedent. This violation is alleged to be the cause of the accident, entitling Plaintiffs to the recovery they seek. Plaintiffs\u2019 argument lies in several theories which, if true, would place DP & L in breach of these duties leading to a finding of negligence. Plaintiffs, however, do not have the support in law necessary for this Court to find as they request.\nAt the time the poles were erected, the Code of Federal Regulations listed an obstruction as any obstacle exceeding 100 feet in height, if such obstacle was within three statute miles of the approach to the runway. The DP & L poles did not exceed 100 feet; they were 63 feet high. The FAA issued a letter to DP & L BEFORE the erection of the poles, stating that the proposed poles were NOT a hazard, though indicating that they should be marked and lighted. The letter, given its actual finding, can be considered only a safety suggestion relative to the lighting. As mentioned, a duty is created by statute, rule, or precedent. The letter\u2019s language is insufficient to create a duty upon DP & L to light the poles, as the FAA Administrator determined upon his inspection of the proposed pole construction that the poles were not a hazard. The mere suggestion to demarcate is not enough to create a legal duty.\nPlaintiffs\u2019 claim insists that DP & L was negligent in failing to repair the lights promptly after DP & L was notified of the outage. Plaintiffs contend that DP & L\u2019s lack of adequate response breached the duty they owed to Plaintiffs to repair the lights. Plaintiffs also attempt to establish a duty on DP & L to bury the power lines, supported by testimony of one of Plaintiffs\u2019 experts.\nPlaintiffs cite no legal authority creating any such duty. Plaintiffs justify the existence of the duty by way of expert testimony. Experts are insufficient to create duties, as duties are to be established only by the Court. Experts can establish standards of care, from which the trier of fact determines whether a duty has been breached.\nLegal standards such as the Federal Aviation Act (FAAct) and Federal Administrative Regulations control the standard of care. Evidence exists that the poles in question did not intrude upon the approach to the runway. The FAA Administrator\u2019s letter to DP & L stated explicitly that the poles were not obstructions. The standard of care did not require DP & L to light the poles. DP & L, therefore, owed no duty under the FAAct. Plaintiffs\u2019 negligence action does not offer sufficient undisputed evidence to support their motion for summary judgment. The question of the reasonableness of DP & L\u2019s repair attempts is, at best, one for the trier of fact. Therefore, summary judgment is inappropriate.\nAlternatively, DP & L defends on the basis that they are not the proximate cause of the accident. DP & L presents evidence that it was not dark at the time of the accident. Whether illumination of the lights was the relevant cause of the accident, again, is a question for the trier of fact.\nDP & L also maintains that Mr. Aubrey was the sole proximate cause, as he was flying too low on his approach. DP & L presented facts to support these allegations. These facts, however, are in dispute. In this instance the disputed facts are material. It is also material what the proximate cause of the accident was. With conflicting evidence presented by both parties on these material issues, Plaintiffs\u2019 motion for partial summary judgment against DP & L is not well taken. This question is, at best, for the trier of fact. As such, summary judgment for Plaintiffs is DENIED.\nIV. DP & L\u2019s Motion on Federal Preemption Grounds\nDP & L moves for summary judgment against Plaintiffs on the grounds of federal preemption. DP & L urges that the FAAct proposes the applicable standards and claims. DP & L contends that the FAAct, as a federal act, precludes Plaintiffs\u2019 state law claims.\nFederal preemption stems from the Supremacy Clause of the United States Constitution. This clause stands for the premise that if a state law conflicts with a federal law, the federal law prevails as supreme law of the land. The Supremacy Clause has been interpreted as a bar to states passing laws which contradict federal laws, or make compliance with those federal laws impossible. Courts throughout the United States have held that preemption occurs in three scenarios:\nfirst, when Congress, in enacting a federal statute, has expressed a clear intent to preempt state law; second, when it is clear, despite the absence of explicit preemptive language, that Congress has intended, by legislating comprehensively, to occupy an entire field of regulation and has thereby \u201cleft no room for the States to supplement\u201d federal law; and, finally, when compliance with both state and federal law is impossible or when the state law \u201cstands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.\u201d\nIn Abdullah v. American Airlines, Inc., the Third Circuit Court of Appeals addressed the issue of the FAAct\u2019s preemption of state law. The Abdullah court held that federal standards of care apply under the FAAct. The standards used to assess negligence, recklessness, and carelessness are set forth in the FAAct. The court noted that the entire practice of aviation is a federal concern. The court derived this concept from Justice Jackson\u2019s concurring opinion in Northwest Airlines v. State of Minnesota. In that concurrence, Justice Jackson stated:\nCongress has recognized the national responsibility for regulating air commerce. Federal control is intensive and exclusive. Planes do not wander about in the sky like vagrant clouds. They move only by federal permission, subject to federal inspection, in the hands of federally certified personnel and under an intricate system of federal commands. The moment a ship taxies onto a runway it is caught up in an elaborate and detailed system of controls. It takes off only by instruction from the control tower, it travels on prescribed beams, it may be diverted from its intended landing, and it obeys signals and orders. Its privileges, rights, and protection, so far as transit is concerned, it owes to the Federal Government alone and not to any state government.\nThat philosophy of air travel is, of course, 65 years old, and was written at a time when air travel was, in many regards, a different animal than it now is. Nevertheless, the Third Circuit used this passage in determining that federal standards of care are necessary to control the field of aviation.\nPlaintiffs are suing under the Delaware Wrongful Death Statute. This statute allows recovery for death resulting from neglect. Based on the Third Circuit\u2019s holding in Abdullah, this standard of care for negligence claims initially comes from the FAAct, not traditional state law. While Abdullah arguably stands for the premise that the standards of care necessary for actions in negligence are preempted by the FAAct, an analysis of total preemption is called for.\nIn the motion before the Court, DP & L relies on Abdullah to preempt any liability that may arise. DP & L argues that under Abdullah, the only applicable standards of care are those from the FAAct. DP & L maintains that it has satisfied the applicable standard by seeking and receiving a no-hazard determination from the FAA Administrator. Certainly, that determination did not classify the utility poles in question as obstructions. Without a finding that the poles were obstructions under the FAAct, DP & L contends that they cannot be considered to have violated any standard of care. DP & L purports that it relied on the determination that did not require lighting of the poles.\nPlaintiffs contend that the standards laid out by the FAAct are but minimum standards. Congressional intent when creating the FAA charged the Federal Aviation Administrator with promulgating minimum standards for airports to promote safety. These regulatory standards proscribed by the Administrator are useful in determining negligence per se. In Delaware, negligence per se exists when there is a violation of a statutory or regulatory standard. A violation by DP & L of any regulation could suffice for the elements of duty and breach under the negligence per se doctrine, but not necessarily causation. If DP & L did not violate the federal regulation, it would not be proper to apply negligence per se. Negligence per se, however, is not the only avenue to a finding of negligence. Notwithstanding the holding in Abdullah, this Court holds that an actor may be negligent even when complying with the minimum standards of the FAAct.\nWithin the negligence analysis, this Court may find breach of duty after a showing of a violation of a standard of care owed to another. The standards of the FAAct are evidence of the standards of care, but this Court cannot stop its inquiry there. Negligence in Delaware requires application of the reasonable person standard of care. If a party owing a duty to another acts in an unreasonable manner, the party has breached that duty. If injury results, the party will be liable for negligence.\nEven though the Third Circuit Court of Appeals held in Abdullah that the Federal standards preempted state law standards of care, this Court recognizes other standards of care outside of those developed in the FAAct. When dealing with the FAAct and its standards placed on air traffic controllers, many courts have held that the FAAct standards are merely minimum standards. In situations when an emergency exists, the controller\u2019s duty is to act reasonably. In pilot situations, courts have stated that the FAAct standards are m\u00ednimums, but prudent pilots strive for greater care. These elevated standards and duties may be applied to the case at bar.\nThe inquiry into DP & L\u2019s actions does not conclude before a full analysis of negligence is made. It is possible that an actor may still be negligent even after complying with the standards of the FAAct. Preemption is necessary when the conflict makes compliance with both laws difficult or impossible. In its most basic sense, preemption works to preclude a state from regulating in an area or on an issue where the federal government regulates. In the context of aviation, preemption is certainly necessary in some instances. This is evident, as described in Justice Jackson\u2019s comments mentioned above, in that aviation is a complex field which works on a much broader scale than states are able to regulate.\nHence, allowing a state unlimited regulation within aviation would create a patchwork effect. While this Court is cautious of that possibility, it is not the final consideration for the Court.\nWhen dealing with the purpose of the Supremacy Clause and preemption, this Court does not find that applying a standard of care greater than that imposed by the regulations conflicts with or disregards the FAAct. While the Court\u2019s holding may allow a state to apply heightened duties to aviation, it does not operate in a way that creates difficulty in complying with the FAAct. By not preempting Delaware\u2019s traditional reasonable person standard of care, this Court prevents negligent actors from escaping liability simply because the federal government has regulated with proximity to the legal issue. It is possible that DP & L acted negligently when attempting to repair the light on the utility pole. This possible negligence may be determined by the trier of fact as a cause of Decedent\u2019s death. DP & L chose to place lights on the poles. It was not required to do so. Nevertheless, when the lights went out and DP & L engaged in repair efforts, it may have had a duty to make those repairs in a reasonable manner. DP & L should not escape liability merely because the field of aviation is complex and multi-jurisdictional, which would result if preemption were held to preclude Plaintiffs\u2019 action against DP & L.\nDP & L responded to the Administrator\u2019s recommendation by installing lights on the utility poles. The undertaking of this responsibility may be considered by a fact finder to have served as a recognition of the need for lights. After the outage, DP & L was placed on notice of the outage. It then sent a crew out to repair the lights. This crew attempted to repair the outage, but failed. The parties do not dispute this fact.\nIt is a question for ultimate trial whether DP & L had a duty to repair and, if so, acted reasonably in the undertaking of such duty. This is not an appropriate question for the Court on a motion for summary judgment.\nGiven that the purpose of Congress\u2019s establishing the FAA was to promote safety of aviation, if this Court were to apply preemption as a preclusion to Plaintiffs\u2019 suit against DP & L, the outcome arguably would fall short of the Congressional intent.\nAccordingly, DP & L\u2019s motion for summary judgment on federal preemption grounds is DENIED.\nV. DP & L\u2019s Motion on Punitive Damages\nDP & L also moves for summary judgment from Plaintiffs\u2019 claims for punitive damages. Punitive damages have been held to be not available in wrongful death claims. In other matters, punitive damages are available as a deterrent when reckless conduct is present. Plaintiffs\u2019 punitive claims therefore potentially exist in survival and personal injury issues.\nThus, the question is whether, under the undisputed facts of the case, punitive damages may be pursued in these claims. It appears through the exhibits that Mr. Aubrey died at approximately 9:45 p.m. on October 13, 2003. The crash occurred that same day at approximately 7:05 p.m. Mr. Aubrey was, therefore, alive after the crash for about 2 hours and 40 minutes. The estate\u2019s survival action would consist of damages relating to that period of time.\nThe parties dispute certain facts, concerning whether Defendants\u2019 conduct rose to the level of recklessness necessary for implementation of punitive damages. DP & L urges that summary judgment precluding punitive damages is proper, because punitive damages are not available for passive negligence, oversight, or error of judgment. The Delaware Supreme Court has so held. DP & L, is the moving party here. Therefore, the facts need to be analyzed in a light most favorable to Plaintiffs. Plaintiffs suggest that punitive damages are appropriate as DP & L was alerted to the outage several days prior to the accident. Further, when repairs were finally made, they were insufficient, since the \u201cglove test\u201d was not performed. The purpose of glove test was to ensure that the lights were operative.\nPlaintiffs claim this failure results in recklessness and wantonness on the part of DP & L. The actions of DP & L appear to have been mere oversight. For oversight or an error in judgment to rise to the level of wantonness, the oversight must have been made in conscious disregard of the outcome. This suggests that, in overlooking the glove test, DP & L consciously disregarded care in attempting to fix the lights. This also requires that DP & L was aware of the harm that their oversight would cause.\nEven when viewing the facts in a light most favorable to Plaintiff, no facts show a conscious disregard or wantonness sufficient to raise DP & L\u2019s actions to the level necessary for punitive damages. It appears through the undisputed facts that DP & L sent a truck to the location of the poles in question and replaced the bulbs. That they failed adequately to check to make sure the repairs were successful does not give rise to a claim for punitive damages. Therefore, DP & L\u2019s motion for partial summary judgment on the issue of punitive damages is GRANTED.\nVI. DP & L\u2019s Motion For Summary Judgment on Plaintiffs\u2019 Claims for Mental Anguish and Emotional Distress\nDP & L\u2019s third motion is one for partial summary judgment on Plaintiffs\u2019 claims for damages resulting from mental anguish and emotional distress. The Delaware Wrongful Death Statute provides explicitly for recovery for mental anguish. DP & L asserts that mental anguish in this instance requires a showing of physical injury. The Delaware Supreme Court held in Mergenthaler v. Asbestos Corp. of America that any claim in mental anguish requires physical injury. The standard in Delaware is that a claimant\u2019s mental anguish must manifest itself in the form of a physical injury. DP & L contends that Plaintiffs do not make a sufficient showing of physical injury to survive summary judgment. DP & L relies on Collins v. African Methodist Episcopal Zion Church, which holds that medical evaluation of physical injury is necessary for a finding of mental anguish and emotional distress. DP & L urges that the psychiatrist who diagnosed Jennifer Aubrey was not a sufficient expert to establish physical injury. DP & L further urges that Post Traumatic Stress Disorder and a showing of grief are insufficient to support a mental anguish claim.\nThe question remains as to whether the general common law regarding the necessity to show physical injury to recover for mental anguish in a tort claim is somehow, altered or abated or diminished when the claim arises out of a statutory wrongful death claim.\nThe import of the present Delaware statute, 10 Del. C. \u00a7 3724, relative to its predecessor was largely to expand the potential recovery of stated beneficiaries to include mental anguish. Nothing about that expanded right necessarily supports an expansion of the tort recovery requirements to demonstrate mental anguish. That is, the statute certainly does not indicate that it defines a common law term any differently from how it is defined in general tort law. The statute merely states that the element of recovery \u2014 otherwise defined by common law \u2014 is now available to wrongful death claimants.\nA Delaware Superior Court case has held to the contrary. In Okie, the Court held that the mental anguish elements stated in Mergenthaler do not apply in a case involving a wrongful death claim. Thus, no showing of physical injury was necessary. The basis for that, Okie stated, was that claimants in such a situation of grief concerning a spouse or parent may \u201cchoose to grieve on their own without the help of either medication or health care professionals.\u201d That may well be true, but it is no more so than in any other case where one can easily imagine that one person in any difficult circumstance may stoicly internalize the anguish, where another succumbs to physical manifestations. This is, in a manner of thought, the reverse of the \u201cegg shell plaintiff.\u201d The fact that one person is less capable of sustaining a blow than, say, the vast majority of people does not preclude his claiming damages which, in fact, he endured. Similarly, the fact that one person does not sustain an emotional impact, which might send the average person to a health care provider, does not open up a basis of recovery, whose elements are defined by law, on the speculation that an event could very well have been physically damaging.\nThe Delaware standard for recovery under mental anguish and emotional distress is Mergenthaler. Under the Mergenthaler doctrine, Plaintiffs must present evidence of physical injury to recover for mental anguish or emotional distress. Plaintiffs have not done so. Neither the briefs nor the exhibits filed with the Court offer support that Plaintiffs have suffered physical injuries stemming from mental anguish or emotional distress. The facts surrounding Plaintiffs\u2019 injuries are undisputed. It is a question for the Court whether Plaintiffs have made a showing of physical injury. They have not. Therefore, until the requirements of Mergen-thaler are modified, DP & L is entitled to summary judgment on this issue. It\u2019s Motion is, therefore, GRANTED.\nVII. Diamond\u2019s Motion for Summary Judgment Against Plaintiff Lisa Roberts\nThis Court need not address Diamond\u2019s motion against Lisa Roberts on the grounds of the two-year statute of limitations applicable to wrongful death actions. While Roberts did not name Diamond as a party to her action until after the consolidation of her case with the Aubrey Plaintiffs\u2019 case, a statute of limitations analysis is unnecessary.\nThis lack of necessity arises as Roberts has not presented any evidence concerning physical injury. Roberts action against all Defendants lies within the wrongful death statute. As discussed in section VI directly above, she must prove physical injury. Roberts has not done so. Therefore, her action against Diamond must be dismissed and the motion for summary judgment GRANTED.\nVIII. Diamond\u2019s Motion for Summary Judgment Against All Plaintiffs\nA. Negligence Claim against Diamond\nDiamond argues that because Plaintiffs have failed to exhibit that Diamond acted negligently, they are entitled to summary judgment as a matter of law. Their reasoning is: (1) Diamond fulfilled the duties owed to Plaintiffs, (2) Plaintiffs failed to prove that Diamond was a proximate cause, (3) superseding evidence relieves Diamond of any negligence, and (4) opinion evidence is unsupported by factual evidence.\nSummary judgment can be appropriate in a negligence action if Plaintiffs fail to establish the elements of negligence by a preponderance of the evidence, i.e. the burden Plaintiffs would have at trial. Preliminarily, though, a troublesome issue for this Court is whether Diamond breached any duty owed to Plaintiffs. The duties stem from the Federal Aviation Act and Federal Administrative Regulations. It seems, through the exhibits presented, that Diamond followed a checklist when inspecting the aircraft 11 months and 8 days prior to the accident.\nThe duty created by the FAAct is to certify the aircraft as airworthy. The standard of care from the FAAct involves following a checklist. It appears that Diamond followed this checklist. Presumably, therefore, a breach of duty would be supported if Diamond violated the standard of care set forth in the FAAct, i.e. strayed from the checklist or failed adequately to inspect any part of the plane. While no facts are presented which dispute Diamond\u2019s following the checklist, Plaintiffs do allege that Diamond was negligent in its certification of some of the items. These include most notably the state of the carburetor, which is one alleged cause of the accident. Ultimately, it must be established that Diamond was negligent in certifying various parts of the plane during that annual inspection in question. At this juncture, contradictory evidence exists from each party as to whether Diamond fully and accurately certified the state of Mr. Aubrey\u2019s plane. This is a material issue of fact. Therefore, the question of breach of duty is appropriate for the trier of fact, and not this Court on motion for summary judgment. Diamond\u2019s motion for summary judgment against Plaintiffs generally on this basis is DENIED.\nB. Misrepresentation\nDiamond next argues that summary judgment should be granted as Plaintiffs have not presented any evidence that Diamond made misrepresentations to the decedent concerning the plane\u2019s airworthiness. Misrepresentation requires, at the least, that an inaccuracy be put forth, made with either knowledge or belief, or with reckless indifference to its falsity, that Plaintiff would rely upon, and damage must result from that misrepresentation.\nIn this case, Diamond did inspect the plane. The evidence presented concerning the inspection shows that the inspection occurred in conformity with the FAA standards. Plaintiffs reject this contention however, alleging that in certifying the plane as \u201cairworthy\u201d by issuing a certificate of inspection, Diamond made the misrepresentation that the plane was sufficient for travel.\nIn this scenario, it appears that both Diamond and Plaintiffs differ concerning of what Diamond\u2019s certification actually consisted. It is unclear from the exhibits filed with the Court whether Mr. Aubrey relied on any \u201crepresentation\u201d that the plane was airworthy, or simply believed it sufficient for inspection purposes. It is also unclear whether the inspection\u2019s results were a proximate cause of the accident. For instance, facts exist that Mr. Aubrey was flying too low. While it may be argued that he was flying low due to a bad carburetor, or couldn\u2019t avoid the poles until it was too late because of the faulty carburetor, it is presently unclear what the actual cause of the crash was. In any event, no necessary elements of misrepresentation have been suggested.\nBecause of subsection A of Issue III, the negligence claim will survive this Motion. However, the claim for misrepresentation does not. Hence, Diamond\u2019s motion for summary judgment against Plaintiffs on the grounds of misrepresentation is GRANTED.\nC. Punitive Damages\nDiamond also moves for partial summary judgment as to Plaintiffs\u2019 claims for punitive damages. Punitive damages are not available in wrongful death claims. Punitive damages are available as a deterrent when reckless conduct is present. Plaintiffs\u2019 claims exist in both personal injury and wrongful death.\nFor the same reasons discussed in section V above, partial summary judgment as to the claims for punitive damages will be GRANTED. Plaintiffs put forth no evidence that Diamond acted in a reckless or wanton manner. Therefore, Plaintiffs have not met their burden in establishing an entitlement to punitive damages.\nIX. DRBA\u2019s Motion for Summary Judgment\nDRBA moves for summary judgment on many grounds. Because DRBA is protected by Delaware\u2019s state tort immunity statute, the Court need only to address immunity.\nA. State Tort Immunity\nDRBA relies on 2 Del. C. \u00a7 708. Section 708 grants tort immunity to political subdivisions and state agencies of Delaware. DRBA contends it is a subdivision of the state of Delaware and as such is immune from Plaintiffs\u2019 suit. DRBA is a compact between New Jersey and Delaware. In essence, DRBA is a multi-state agreement to control the Delaware River and Bay. DRBA operates the Delaware Airpark, where this dispute arises.\nDRBA draws its revenues from tolls across the Delaware Memorial Bridge and other fees assessed to users of the Delaware River and Bay. As the District Court of Delaware noted in Riley v. Delaware River and Bay Authority, the fact that DRBA pays its own operating costs prevents it from enjoying federal sovereign immunity. DRBA now claims that this is irrelevant, as Riley discussed federal immunity, not state tort immunity.\nDelaware\u2019s immunity statute is similar to that of New Jersey. New Jersey provides immunity to public entities sued in tort actions. Each of these statutes grants immunity to state agencies.\nPlaintiffs argue that DRBA is an agency of neither Delaware nor New Jersey, but rather a compact between the two. Plaintiffs urge that a compact between the two states cannot enjoy the same protections as an agency of one of the states.\nPlaintiffs\u2019 argument fails for several reasons. First, nowhere does the compact state that a bi-state agency is not an agency of either state individually. The most relevant authority holds that in order for one state\u2019s laws to be applied, the other state must have a similar law. Both Delaware and New Jersey have similar immunity statutes in this situation.\nSecond, Plaintiffs misinterpret the plain language of the DRBA compact. This compact states that the DRBA is to exist as \u201can agency of the state of Delaware and the state of New Jersey.\u201d The intention of the states when creating this compact was to give the DRBA dual-agency status. This status allows DRBA to exist as two separate agencies. One agency is an agency under the color of Delaware law, another is an agency under the color of New Jersey law.\nEven without the support of the similar Delaware and New Jersey immunity statutes, this Court must apply 2 Del. C. \u00a7 708. When a dispute arises concerning an actor, the appropriate law must be applied. If Delaware has an appropriate legal requirement, but New Jersey does not, could DRBA escape potential liability under the theory that both states must pass similar laws for those laws to affect DRBA. Application of one state\u2019s law is unavoidable. The Court must apply some law for a suit to exist. Plaintiffs cannot seek application of Delaware tort law, and in the same action ask that a Delaware statute not be applied. This Court cannot selectively apply one Delaware law, overlooking another. Therefore, Plaintiffs may not rely on the position that Delaware\u2019s Tort Immunity Statute does not apply. 2 Del. C. \u00a7 708 is applicable, barring Plaintiffs\u2019 actions against DRBA.\nEven assuming that DRBA would pay for its own claims, the possibility exists that Delaware could be responsible for DRBA\u2019s actions. For example, if the revenues of DRBA are insufficient to cover a claim, it is likely that the State of Delaware may have to bear the financial brunt of any recovery. Therefore, the fact that DRBA has financial autonomy from the State is not a complete bar to tort immunity, as is discussed regarding the standard for sovereign immunity in Riley. DRBA is expressly an agency of both Delaware and New Jersey. As such, it should receive agency treatment within Delaware. This includes application of 2 Del. C. \u00a7 708 to DRBA. For these reasons, DRBA\u2019s motion for summary judgment on grounds of state tort immunity is GRANTED.\nEven aside from barring Plaintiffs\u2019 claims against DRBA on immunity grounds, DRBA is entitled to summary judgment. To avoid summary judgment, Plaintiffs must present facts which would allow a reasonable trier of fact to conclude that DRBA was negligent. This negligence would occur in DRBA\u2019s managing of the Airpark. Plaintiffs have not presented sufficient evidence to allow a reasonable trier of fact to find DRBA negligent. The facts presented show that DRBA, through Mr. Clendaniel, not only issued a NOTAM, but also called and reported the outage multiple times. This exceeds the anticipation of what a reasonable person would do in the same situation. Plaintiffs have not met their burden, even at this stage, of showing that DRBA was negligent in any way.\nX. Conclusion\nAccordingly, based on the analysis and explanation above:\n1. Plaintiffs\u2019 Motion for Summary Judgment against DP & L: DENIED;\n2. DP & L\u2019s Motion for Summary Judgment on grounds of federal preemption: DENIED;\n3. DP & L\u2019s Motion for Summary Judgment on grounds of punitive damages:\nGRANTED;\n4. DP & L\u2019s Motion for Summary Judgment on grounds of mental anguish and emotional distress: GRANTED;\n5. Diamond\u2019s Motion for Summary Judgment against Plaintiff Lisa Roberts: GRANTED;\n6. Diamond\u2019s Motion for Summary Judgment against Plaintiffs generally: DENIED IN PART and GRANTED IN PART;\n7. DRBA\u2019s Motion for Summary Judgment on grounds of state tort immunity: GRANTED.\nSO ORDERED.\n. Super. Ct. Civ. R. 56(c).\n. Id.\n. Cerberus Intl., Ltd. v. Apollo Mgmt., L.P., 794 A.2d 1141, 1149 (Del.2002), citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 254, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986).\n. Plant v. Catalytic Constr. Co., 287 A.2d 682, 684 (Del.Super.1972), aff'd 297 A.2d 37 (Del. 1972).\n. Anderson, 477 U.S. at 248, 106 S.Ct. 2505.\n. Bryant v. Delmarva Power & Light Co., 1995 WL 653987 at *2 (Del.Super.).\n. Id.\n. Id.\n. Id.\n. Russell v. K-Mart Corp., 761 A.2d 1, 5 (Del.2000).\n. Id.\n. 14 C.F.R. \u00a7 77.23 (1968).\n. Bryant, 1995 WL 653987 at *2.\n. Id.\n. Id. at *12.\n. Id., see also Abdullah v. American Airlines, Inc., 181 F.3d 363, 365 (3rd Cir.1999).\n. Brower v. Metal Industries, Inc., 719 A.2d 941, 946 (Del. 1998).\n. Hillsborough County, Fla. v. Automated Medical Laboratories, Inc., 471 U.S. 707, 712-13, 105 S.Ct. 2371, 85 L.Ed.2d 714 (1985).\n. Id.\n. Louisiana Public Service Comm'n v. F.C.C., 476 U.S. 355, 369, 106 S.Ct. 1890, 90 L.Ed.2d 369 (1986).\n. O\u2019Malley v. Boris, 742 A.2d 845, 848 (Del. 1999) (internal citations omitted).\n. Abdullah v. American Airlines, Inc., 181 F.3d 363, 365 (3d Cir.1999).\n. Id. at 376.\n. Id.\n. Id. at 370, n. 10.\n. Id.\n. Northwest Airlines v. State of Minnesota, 322 U.S. 292, 303, 64 S.Ct. 950, 88 L.Ed. 1283 (1944).\n. Id.\n. Abdullah, 181 F.3d at 370.\n. 10 Del. C. \u00a7 3724.\n. Id.\n. 49 U.S.C. \u00a7 44701.\n. See Nance v. Rees, 161 A.2d 795, 797 (Del. 1960).\n. Id. See also Sammons v. Ridgeway, 293 A.2d 547, 549 (Del.1972).\n. McKinney v. Reardon, 337 A.2d 514, 515 (Del. Super. 1975).\n. Abdullah, 181 F.3d 363.\n. Sears, Roebuck Co. v. Midcap, 893 A.2d 542, 554 (Del.2006).\n. Robelen Piano Co. v. DiFonzo, 169 A.2d 240, 244 (1961).\n. New Haverford Partnership v. Stroot, 772 A.2d 792, 798 (Del.2001).\n. Abdullah, 181 F.3d 363.\n. See Rudelson v. U.S., 602 F.2d 1326 (9th Cir.1979), see also Spaulding v. U.S., 455 F.2d 222 (9th Cir. 1972).\n. Spaulding, 455 F.2d at 226.\n. Worthington v. U.S., 807 F.Supp. 1545, 1567 (S.D.Ga.1992) rev\u2019d on other grounds, 21 F.3d 399 (11th Cir. 1994).\n. Louisiana Public Service Comm\u2019n, 476 U.S. at 369, 106 S.Ct. 1890.\n. U.S. Const art. VI, cl. 2.\n. Northwest Airlines, 322 U.S. at 303, 64 S.Ct. 950.\n. Rowe v. New Hampshire Motor Transport Ass\u2019n, 552 U.S. 364, 128 S.Ct. 989, 996, 169 L.Ed.2d 933 (2008).\n. 49 U.S.C. \u00a7 44701.\n. Sterner v. Wesley College, Inc., 747 F.Supp. 263, 269 (D.Del.1990).\n. Jardel Co. Inc., v. Hughes, 523 A.2d 518, 528 (Del. 1987).\n. Id. at 531.\n. Plant, 287 A.2d at 684.\n. Jardel Co. Inc., 523 A.2d at 531.\n. Id.\n. 10 Del. C. \u00a7 3724.\n. 480 A.2d 647 (Del. 1984).\n. Id.\n. Collins v. African Methodist Episcopal Zion Church, 2006 WL 1579718 (Del.Super.).\n. Okie v. Owens, 1985 WL 189292 (Del.Super.).\n. Id. at *5.\n. Mergenthaler, 480 A.2d 647.\n. Id.\n. 10 Del. C. \u00a7 8107.\n. Russell, 761 A.2d at 5.\n. Bryant, 1995 WL 653987 at *2, see also Abdullah, 181 F.3d at 365.\n. 14 C.F.R. \u00a7 43.13 (2008).\n. Id.\n. Lee v. Linmere Homes, Inc., 2008 WL 4444552 at *5 (Del.Super.).\n. Sterner, 747 F.Supp. at 269.\n. Jardel Co. Inc., 523 A.2d at 528.\n. Riley v. Delaware River and Bay Authority, 457 F.Supp.2d 505, 514 (D.Del.2006).\n. See generally 2 Del. C. \u00a7 708, and N.J.Rev. Stat. \u00a7 59:2-1.\n. NJ.Rev.Stat. \u00a7 59:2-1.\n. See 2 Del. C. \u00a7 708, and NJ.Rev.Stat. \u00a7 59:2-1.\n. Bell v. Bell, 83 N.J. 417, 416 A.2d 829, 832-33 (1980).\n. See 2 Del. C. \u00a7 708, and NJ.Rev.Stat. \u00a7 59:2-1.\n. 17 Del. C. \u00a7 1701.\n. Id.\n. McGuire v. McCollum, 116 A.2d 897, 901 (Del.Super.1955).",
+        "type": "majority",
+        "author": "YOUNG, J."
+      }
+    ],
+    "attorneys": [
+      "John Grady, Esq., Grady & Hampton, Dover, Delaware, for Plaintiff Lisa Roberts.",
+      "Gary W. Aber, Esq., Aber, Goldlust, Baker & Over, Wilmington, Delaware, for Plaintiff Jennifer Aubrey.",
+      "David K. Sheppard, Esq., Blank, Rome, LLP, Wilmington, Delaware, for Plaintiff Barbara Aubrey.",
+      "Lisa C. McLaughlin, Esq., Phillips, Goldman & Spence, P.A., Wilmington, Delaware, for Defendant Delmarva Power & Light Co.",
+      "Stephen P. Casarino, Esq., Casarino, Christman & Shalk, Wilmington, Delaware, for Defendants James Johnson, Benjamin Clendaniel, Cheswold Airport and Delaware River & Bay Authority.",
+      "Christian J. Singewald, White and Williams, LLP, Wilmington, Delaware, for Defendant Precision Airmotive, LLC.",
+      "Todd L. Goodman, Esq., Pepeo Holdings, Inc., Wilmington, Delaware, for Defendants Pepeo and Delmarva Power & Light Company.",
+      "Thomas G. Whalen, Esq., Stevens & Lee, Wilmington, Delaware, for Defendant Harlan Durham."
+    ],
+    "corrections": "",
+    "head_matter": "Lisa ROBERTS, Plaintiff, v. DELMARVA POWER & LIGHT COMPANY, d/b/a/ Connectiv Power Delivery, Benjamin McDaniel, Cheswold Airport, Delaware River and Bay Authority and James Johnson, Defendants. Barbara L. Aubrey, Individually and Executor of the Estate of James R. Aubrey, Deceased, and Jennifer L. Aubrey, Plaintiffs, v. Delaware River and Bay Authority and Delaware Airpark and Pepco Holdings, Inc. and Delmarva Power & Light f/k/a Connectiv Power Delivery and Diamond Aviation Inc., and Harlan Durham, Defendants.\nC.A. No. 05C-09-015 (RBY).\nSuperior Court of Delaware, Kent County.\nSubmitted: Oct. 10, 2008.\nDecided: Jan. 30, 2009.\nJohn Grady, Esq., Grady & Hampton, Dover, Delaware, for Plaintiff Lisa Roberts.\nGary W. Aber, Esq., Aber, Goldlust, Baker & Over, Wilmington, Delaware, for Plaintiff Jennifer Aubrey.\nDavid K. Sheppard, Esq., Blank, Rome, LLP, Wilmington, Delaware, for Plaintiff Barbara Aubrey.\nLisa C. McLaughlin, Esq., Phillips, Goldman & Spence, P.A., Wilmington, Delaware, for Defendant Delmarva Power & Light Co.\nStephen P. Casarino, Esq., Casarino, Christman & Shalk, Wilmington, Delaware, for Defendants James Johnson, Benjamin Clendaniel, Cheswold Airport and Delaware River & Bay Authority.\nChristian J. Singewald, White and Williams, LLP, Wilmington, Delaware, for Defendant Precision Airmotive, LLC.\nTodd L. Goodman, Esq., Pepeo Holdings, Inc., Wilmington, Delaware, for Defendants Pepeo and Delmarva Power & Light Company.\nThomas G. Whalen, Esq., Stevens & Lee, Wilmington, Delaware, for Defendant Harlan Durham."
+  },
+  "file_name": "0131-01",
+  "first_page_order": 161,
+  "last_page_order": 177
+}

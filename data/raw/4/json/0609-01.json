@@ -1,0 +1,63 @@
+{
+  "id": 7287881,
+  "name": "Ali A. LUMUMBA, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA, Family Division, Respondent",
+  "name_abbreviation": "Lumumba v. Court of Common Pleas of Philadelphia",
+  "decision_date": "2010-09-14",
+  "docket_number": "No. 77 EM 2010",
+  "first_page": "609",
+  "last_page": "609",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 362,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.766178723262156
+    },
+    "sha256": "84f2251eb3af1272ee1ea4787a991139b9be4cbb23384659d0b62b173187f777",
+    "simhash": "1:5ca7ebb6c3f13f7a",
+    "word_count": 58
+  },
+  "last_updated": "2023-07-14T18:37:41.617876+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ali A. LUMUMBA, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA, Family Division, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of September, 2010, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus and/or Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ali A. LUMUMBA, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA, Family Division, Respondent.\nNo. 77 EM 2010.\nSupreme Court of Pennsylvania.\nSept. 14, 2010."
+  },
+  "file_name": "0609-01",
+  "first_page_order": 671,
+  "last_page_order": 671
+}

@@ -1,0 +1,542 @@
+{
+  "id": 7286768,
+  "name": "Anthony BOYLE and Maureen Boyle, h/w, Appellees v. INDEPENDENT LIFT TRUCK, INC. and Frank Fatiga, Jr., Appellants",
+  "name_abbreviation": "Boyle v. Independent Lift Truck, Inc.",
+  "decision_date": "2010-09-29",
+  "docket_number": "",
+  "first_page": "492",
+  "last_page": "498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "801 A.2d 546",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9409653,
+        312775
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/801/0546-01",
+        "/pa/569/0171-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 171",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312775
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0171-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 804",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4197056,
+        7292756
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0660-01",
+        "/a2d/985/0804-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 660",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197056
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0660-01"
+      ]
+    },
+    {
+      "cite": "647 A.2d 231",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706452,
+        7862477
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/436/0040-01",
+        "/a2d/647/0231-01"
+      ]
+    },
+    {
+      "cite": "436 Pa.Super. 40",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        706452
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/436/0040-01"
+      ]
+    },
+    {
+      "cite": "910 A.2d 20",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8445235,
+        2574884
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/910/0020-01",
+        "/pa/589/0576-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 576",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2574884
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0576-01"
+      ]
+    },
+    {
+      "cite": "540 A.2d 1370",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1371497
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1374",
+          "parenthetical": "concluding that any error by trial court's instruction was harmless in light of jury never reaching question of plaintiffs comparative negligence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/115/0512-01"
+      ]
+    },
+    {
+      "cite": "137 A.2d 880",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "883"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Pa.Super. 50",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        738535
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/185/0050-01"
+      ]
+    },
+    {
+      "cite": "329 Pa.Super. 139",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        608807
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "finding improper remarks regarding plaintiffs contributory negligence constituted harmless error as jury found, through answers to special interrogatories, that defendant was not negligent"
+        },
+        {
+          "page": "3-4",
+          "parenthetical": "finding improper remarks regarding plaintiffs contributory negligence constituted harmless error as jury found, through answers to special interrogatories, that defendant was not negligent"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/329/0139-01"
+      ]
+    },
+    {
+      "cite": "208 A.2d 789",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "791",
+          "parenthetical": "\"To constitute reversible error, a ruling on evidence or an instruction to a jury must be shown not only to have been erroneous but harmful to the party complaining.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 Pa. 87",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1894045
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "92",
+          "parenthetical": "\"To constitute reversible error, a ruling on evidence or an instruction to a jury must be shown not only to have been erroneous but harmful to the party complaining.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/417/0087-01"
+      ]
+    },
+    {
+      "cite": "750 A.2d 292",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        92994,
+        11525004
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0323-01",
+        "/a2d/750/0292-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        92994
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0323-01"
+      ]
+    },
+    {
+      "cite": "194 A.2d 343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "345"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "412 Pa. 292",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1887179
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/412/0292-01"
+      ]
+    },
+    {
+      "cite": "801 A.2d 602",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9409852
+      ],
+      "pin_cites": [
+        {
+          "page": "611"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/801/0602-01"
+      ]
+    },
+    {
+      "cite": "373 Pa.Super. 536",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        695990
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "80",
+          "parenthetical": "rejecting plaintiffs challenge to instruction on contributory negligence by holding that, even if erroneous, the error was harmless as jury found defendant not to be negligent and so the question of contributory negligence was removed from the case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/373/0536-01"
+      ]
+    },
+    {
+      "cite": "200 A. 644",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "646"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1184282
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "432"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/331/0429-01"
+      ]
+    },
+    {
+      "cite": "756 A.2d 1116",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225996,
+        11244791
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01",
+        "/a2d/756/1116-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225996
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "467"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01"
+      ]
+    },
+    {
+      "cite": "956 A.2d 967",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8209459,
+        3990495
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "970",
+          "parenthetical": "citing Harman ex rel. Harman v. Borah, 562 Pa. 455, 467, 756 A.2d 1116, 1122 (2000)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/0967-01",
+        "/pa/598/0331-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3990495
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "336",
+          "parenthetical": "citing Harman ex rel. Harman v. Borah, 562 Pa. 455, 467, 756 A.2d 1116, 1122 (2000)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0331-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 717",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292394,
+        7292427,
+        7292402,
+        3697235,
+        3698388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0717-01",
+        "/a2d/987/0717-03",
+        "/a2d/987/0717-02",
+        "/pa/605/0133-02",
+        "/pa/605/0133-01"
+      ]
+    },
+    {
+      "cite": "976 A.2d 1197",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 845,
+    "char_count": 20258,
+    "ocr_confidence": 0.741,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18827873748623955
+    },
+    "sha256": "34515b64fc958f0e4bf6f061d229ccd524fa9e33301167ca5b7926b0fabef70d",
+    "simhash": "1:9f29a5303e0cdd7c",
+    "word_count": 3247
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY and ORIE MELVIN, JJ."
+    ],
+    "parties": [
+      "Anthony BOYLE and Maureen Boyle, h/w, Appellees v. INDEPENDENT LIFT TRUCK, INC. and Frank Fatiga, Jr., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice TODD.\nIn this appeal by allowance, we consider the issue of whether the Superior Court erroneously ordered a new trial due to an allegedly improper special verdict sheet question regarding comparative negligence, where the jury never reached the issue of comparative negligence. For the reasons set forth below, we find that, where a jury never considered the issue of comparative negligence, any alleged error concerning the verdict sheet in that regard is harmless and a new trial is not warranted. Therefore, we reverse the order of the Superior Court, and remand for consideration of the remaining issues on appeal.\nBy way of background, on November 10, 2003, Appellant Frank Fatiga, Jr. and his father, Frank Fatiga, Sr., were repairing a forklift at Appellant Independent Lift Truck, Inc.\u2019s warehouse in Philadelphia, Pennsylvania (Frank Fatiga, Jr. and Independent Lift Truck, Inc. are collectively referred to as \u201cAppellants\u201d). As part of the repair, the men unbolted and removed the backrest of the forklift, and they leaned the backrest against the forklift. As the men expected to reattach the backrest in short order, they did not secure the backrest to the forklift. Subsequently, Appellee Anthony Boyle arrived at the premises to attend a business meeting. The backrest fell onto Boyle\u2019s right foot, causing severe injuries.\nAnthony Boyle and his wife, Appellee Maureen Boyle (collectively, \u201cAppellees\u201d), brought a personal injury action against Appellants. After a four-day trial, the jury returned a defense verdict for Appellants, finding they were not negligent. The trial court denied Appellees\u2019 motion for post-trial relief and entered judgment on the verdict. Appellees appealed to the Superior Court.\nOn April 21, 2009, a three-judge panel of the Superior Court vacated the judgment in an unpublished memorandum opinion. Boyle v. Independent Lift Truck, 976 A.2d 1197 (Pa.Super.2009) (table). While rejecting numerous issues as meritless or waived, the panel found that the trial court should not have included a question regarding Anthony Boyle\u2019s own negligence on the jury verdict sheet. The Superior Court opined that there was insufficient evidence to establish Boyle\u2019s negligence, and, thus, it was error to submit the question of comparative negligence to the jury. As the Superior Court concluded that the special verdict sheet introduced to the jury a legal concept that was unsupported by the evidence, it ordered a new trial. Since the Superior Court remanded for a new trial, it did not address certain other issues Appellants raised on appeal. President Judge Emeritus McEwen concurred in the result. Thereafter, Appellants appealed to our Court.\nOn December 31, 2009, we granted allo-catur on the issue of whether the Superior Court erred in ordering a new trial due to an allegedly improper verdict slip question on comparative negligence, where the jury never reached the issue of comparative negligence. Boyle v. Independent Lift Truck, Inc., 987 A.2d 717 (Pa.2009) (order).\nThe primary question before us is whether the verdict slip was defective so as to require a new trial. The award of a new trial is proper only where a trial court has committed an error of law or abuse of discretion which may have affected the verdict. Pennsylvania Dep\u2019t of Gen. Serv. v. U.S. Mineral Prod. Corp., 598 Pa. 331, 336, 956 A.2d 967, 970 (2008) (citing Harman ex rel. Harman v. Borah, 562 Pa. 455, 467, 756 A.2d 1116, 1122 (2000)). With this standard of appellate review in mind, we turn to the arguments of the parties.\nAppellants argue that a new trial is not warranted, despite trial court error, where the error did not cause prejudice. According to Appellants, Appellees failed to make a showing that any alleged error was prejudicial, and the Superior Court on appeal did not find, or even mention, prejudice. Rather, Appellants contend that the Superior Court improperly focused solely upon the lack of evidence to allow submission of the issue of comparative negligence to the jury. As an aside, Appellants vigorously disagree with this conclusion, contending that Frank Fatiga, Jr. testified that \u201cSomeone would have to hit [the backrest] to knock it over. They don\u2019t just fall.\u201d N.T., 6/12/07, at 55. This testimony, coupled with Anthony Boyle\u2019s testimony that he was the only one near the backrest, according to Appellants, was sufficient evidence to submit the issue of Anthony Boyle\u2019s negligence to the jury.\nNevertheless, Appellants assert that, even if the special verdict sheet introduced to the jury a legal concept unsubstantiated by the evidence, Appellees are not entitled to a new trial because such error was harmless, as Appellees suffered no prejudice by the error. Specifically, Appellants submit that the jury never reached the question of Anthony Boyle\u2019s negligence because the jury determined that Appellants were not negligent; thus, no prejudice resulted from the presence of the comparative negligence question on the special verdict sheet. Appellants offer various Pennsylvania cases which support the principle that allegations of error are rendered moot or harmless where the jury did not deliberate over issues of alleged error in order to reach its verdict. See, e.g., Whitton v. H.A Gable Co., 331 Pa. 429, 200 A. 644 (1938); Jewelcor Jewelers & Distrib., Inc. v. Corr, 373 Pa.Super. 536, 542 A.2d 72 (1988). Related thereto, Appellants stress that the trial court acted within its discretion in denying Appellees\u2019 request for a new trial as any alleged error in the verdict slip was harmless as a matter of law. Finally, Appellants maintain that, if the Superior Court\u2019s decision were to stand, the appellate court system would be flooded with appeals of trial court error, even in the absence of prejudice.\nAppellees counter that Appellants presented insufficient evidence to the jury that Anthony Boyle was negligent in any action or omission concerning his injuries to justify inserting a section on the special verdict sheet on comparative negligence. According to Appellees, the only evidence presented at trial was that Frank Fatiga, Jr. was climbing on shelves in the parts department and caused the backrest of the forklift to fall on Anthony Boyle; that Occupational Safety and Health Administration regulations required that a forklift must have its backrest on at all times; and that the backrest could have been secured. As such, Appellees claim that the Superior Court properly found that there was not conflicting evidence as to how the accident occurred, and, thus, no evidence for the jury to consider comparative negligence. Therefore, Appellees reason that the Superior Court properly determined that the trial court erred in submitting the question regarding comparative negligence to the jury, and that a new trial was required.\nFurthermore, although Appellees do not address in great detail Appellants\u2019 argument that there was no prejudice in including the question on comparative negligence on the verdict slip, they posit, \u201cHow are appellants to determine what the jurors were thinking during their deliberations? Appellants certainly cannot assume that the jurors didn\u2019t read and review the entire special verdict sheet as the trial court instructed them to do before rendering a verdict[.]\u201d Appellees\u2019 Brief at 18. Understanding the parties\u2019 arguments, we turn to resolution of the issue before us.\nAs a general proposition, a court should only charge the jury \u201con the law applicable to the factual parameters of a particular case and it may not instruct the jury on inapplicable legal issues.\u201d Cruz v. Northeastern Hosp., 801 A.2d 602, 611 (Pa.Super.2002). More specifically, when there is no evidence of plaintiffs negligence, no instruction to the jury on contributory negligence should be given. Greet v. Arned Corp., 412 Pa. 292, 296, 194 A.2d 343, 345 (1963).\nHere, while both parties hotly contest whether there was some evidence of Anthony Boyle\u2019s negligence, the Superior Court\u2019s order to remand the matter for a new trial was based upon its determination that there was insufficient evidence to submit the legal issue of comparative negligence to the jury. The Superior Court reasoned that inserting a question regarding comparative negligence on the special verdict sheet constituted reversible error.\nWe need not decide the issue of whether there was sufficient evidence to submit the question of comparative negligence to the jury, however, because, even if it were legal error to place the question of comparative negligence on the special verdict sheet, Appellees were required to demonstrate that they suffered prejudice, in order to be entitled to the award of a new trial. As discussed more fully below, we find that, because the jury never reached the issue of comparative negligence, Ap-pellees suffered no prejudice, and, thus, they were not entitled to a new trial on this basis.\nIt is well established that in order for a party to be awarded a new trial, the moving party must demonstrate that it was prejudiced by the alleged error of the trial court. See Aldridge v. Edmunds, 561 Pa. 323, 334, 750 A.2d 292, 298 (2000); Anderson v. Hughes, 417 Pa. 87, 92, 208 A.2d 789, 791 (1965) (\u201cTo constitute reversible error, a ruling on evidence or an instruction to a jury must be shown not only to have been erroneous but harmful to the party complaining.\u201d). More specifically, our Commonwealth\u2019s long-standing case-law holds that allegations of error are harmless where the jury is not required to deliberate over the issue out of which the alleged error arises in order to reach its verdict. In Whitton v. H.A. Gable Co., 331 Pa. 429, 200 A. 644 (1938), in an action arising out of injuries suffered by the plaintiff from a fall on ice, the jury returned a special finding of no negligence on the part of the defendant. Our Court, in addressing the plaintiffs counsel\u2019s objection to a charge on contributory negligence, opined that, once a jury finds no negligence on the part of a defendant, the issue of contributory negligence is no longer in the ease, and any error regarding the instruction is non-prejudicial:\n[A]s the jury found no negligence on the part of [defendant] the question of contributory negligence passes out of the case, and any error in the charge in this respect would not have been prejudicial.\nWhitton, 331 Pa. at 432, 200 A. at 646.\nSuperior Court and Commonwealth Court case law echoes the principle that where a jury finds no negligence on the part of a defendant, purported error regarding questions of comparative and/or contributory negligence are not prejudicial and cannot serve as a basis for the award of a new trial. See Jewelcor Jewelers, 542 A.2d at 80 (rejecting plaintiffs challenge to instruction on contributory negligence by holding that, even if erroneous, the error was harmless as jury found defendant not to be negligent and so the question of contributory negligence was removed from the case), (citing Whitton, supra); Robinson v. City of Philadelphia, 329 Pa.Super. 139, 478 A.2d 1, 3-4 (1984) (finding improper remarks regarding plaintiffs contributory negligence constituted harmless error as jury found, through answers to special interrogatories, that defendant was not negligent); Dean v. Trembley, 185 Pa.Super. 50, 137 A.2d 880, 883 (1958) (holding, based on the opinion of the trial court, that plaintiff was not entitled to a new trial due to emphasis on plaintiffs alleged contributory negligence as \u201c[t]he jury having found that the defendant was not guilty of negligence, it must be assumed that the matter of the alleged contributory negligence of plaintiff, as contended by the defendant, was never considered by the jury.\u201d); Sacco v. City of Scranton, 115 Pa.Cmwlth. 512, 540 A.2d 1370, 1374 (1988) (concluding that any error by trial court\u2019s instruction was harmless in light of jury never reaching question of plaintiffs comparative negligence).\nBased upon the clear precedent set forth above, we reaffirm our prior case law and hold that, where a jury, through a special verdict sheet, finds no negligence on the part of a defendant, any issue of comparative negligence no longer remains in the case, and any purported error regarding a question on comparative negligence is nonprejudicial, and does not serve as a basis for a new trial.\nIn applying this law to the facts before us, we note that the special verdict sheet at issue in this matter stated in relevant part:\nSPECIAL VERDICT QUESTIONS\n1. Was defendant, Independent Lift Truck, Inc., negligent?\nYes _\nNo X_\nIf you answer Question 1 Yes, please answer number 2. If you answer Question 1 No the plaintiff cannot recover and you should not answer any further questions and should return to the courtroom.\n2. Was the negligence of Independent Lift Truck, Inc. a factual cause of any injury to Anthony Boyle?\nYes _\nNo _\nIf you answer Question 2 Yes, please answer Question No. 3. If you answer Question 2 No, the plaintiff cannot recover and you should not answer any further questions and should return to the courtroom.\n3. Was plaintiff, Anthony Boyle negligent?\nYes _\nNo _\nIf you answer Question 3 yes, please answer number 4. If your answer to this interrogatory is No, please skip interrogatory number 4 and answer interrogatory number 5.\n4. Was the negligence of Anthony Boyle a factual cause of any injury to Anthony Boyle?\nYes _\nNo _\nPlease answer Question No. 5.\n5. Taking the combined negligence that was a factual cause of any injury to Plaintiff, Anthony Boyle, as 100%, what percentage of the causal negligence was attributable to each of the following:\nPercentage of Causal Negligence Attributable to Defendant, Independent Lift Truck _%\n(Answer only if you have answered \u201cYes\u201d to Questions 1 and 2).\nPercentage of Causal Negligence Attributable to Plaintiff, Anthony Boyle _%\n(Answer only if you have answered \u201cYes\u201d to Questions 3 and 4).\n\u2022Total 100 %\nSpecial Verdict Questions, 6/15/07 (R852a). Thus, but for the \u201cX\u201d placed next to \u201cNo\u201d on Question 1, the jury left the rest of the sheet blank.\nPursuant to the explicit directions contained in the special verdict sheet, once the jury found that Appellants were not negligent, Appellees could not recover, the jury was not to answer any further questions, and the jurors were to return to the courtroom. Thus, the jury, following the plain terms of the special verdict sheet, never reached the question of Anthony Boyle\u2019s negligence, because it determined that Appellants were not negligent. Therefore, even if the question regarding comparative negligence was erroneously included on the special verdict sheet, because the jury never reached the issue of Anthony Boyle\u2019s negligence, no prejudice resulted. See Whitton. As Appellees suffered no prejudice, any purported error was harmless. As the alleged error was harmless, there was no basis for the Superior Court to grant a new trial.\nFor the above-stated reasons, we reverse the order of the Superior Court and remand the matter to that court for consideration of Appellees\u2019 remaining issues on appeal.\nChief Justice CASTILLE, Justices SAYLOR, EAKIN, BAER, McCAFFERY and ORIE MELVIN join the opinion.\n. While the lower tribunals, and Appellees in the matter sub judice, speak of the doctrines of \u201ccomparative negligence\u201d and \"contributory negligence\u201d interchangeably, we note that, in 1978, the Pennsylvania General Assembly enacted the Comparative Negligence Act, 42 Pa.C.S.A. \u00a7 7102(a), to ameliorate the harshness of the common law doctrine of contributory negligence, which served as an absolute bar to recovery by plaintiffs who may have been only minimally responsible for their loss:\n(a) GENERAL RULE. \u2014 In all actions brought to recover damages for negligence resulting in death or injury to person or property, the fact that the plaintiff may have been guilty of contributory negligence shall not bar a recovery by the plaintiff or his legal representative where such negligence was not greater than the causal negligence of the defendant or defendants against whom recovery is sought, but any damages sustained by the plaintiff shall be diminished in proportion to the amount of negligence attributed to the plaintiff.\n42 Pa.C.S.A. \u00a7 7102. Thus, in situations involving negligence which results in death or injury to person or property, the doctrine of comparative negligence is employed to apportion the costs of an accident grounded upon the relative fault of both the plaintiff and the defendant. Pursuant to this statutory construct, where the factfinder finds the defendant is negligent, it then determines if the plaintiff was -contributorily negligent, and, if so, the factfinder assesses the relative percentages of fault. The Comparative Negligence Act permits a plaintiff to recover damages where the plaintiff's contributory negligence is equal to or less than the defendant\u2019s negligence. Id. Thus, the doctrine of contributory negligence still endures within a comparative negligence framework, but as modified by the statute. Id.; Krentz v. Consolidated Rail Corp., 589 Pa. 576, 588, 910 A.2d 20, 27 (2006). It is with this understanding that we refer to these doctrines.\n. A- backrest of a forklift is the back wall on the lifting portion of the lift. It is perpendicular to the forks and prevents the load from falling backwards onto the driver. Backrests can weigh over 100 pounds.\n. The Superior Court determined that Appel-lees failed to raise a challenge to the trial court\u2019s charge to the jury on comparative negligence in their post-trial motions, and, thus, concluded that Appellees\u2019 challenge to the trial court's jury instruction on comparative negligence was waived. Superior Court Memorandum Opinion at 4.\n. The Superior Court did not address the issues of: (1) Whether the trial court erred in refusing to instruct the juiy to enter judgment in favor of Appellees as a matter of law; (2) Whether the trial court erred in refusing to instruct the jury on Standard Jury Instruction 5.08 (Circumstantial proof of negligence) and Restatement (Second) of Torts section 23 8D (Res ipsa loquitur)-, (3) Whether the trial court erred in denying Appellees\u2019 motions for a directed verdict and judgment notwithstanding the verdict; and (4) Whether the trial court erred and abused its discretion in failing to grant a judgment notwithstanding the verdict in favor of Appellees.\n. Appellees point to the Superior Court\u2019s decision in Pascal v. Carter, 436 Pa.Super. 40, 647 A.2d 231 (1994), a medical malpractice matter in which the court found that the trial court improperly instructed the jury on con-tributary negligence and granted a new trial, after the jury returned a verdict in favor of the defendants. According to Appellees, Pascal supports the Superior Court\u2019s award of a new trial in this matter. Pascal is materially distinguishable from the facts present in the matter before us, as the defendants in Pascal admitted negligence at trial and the trial court instructed the jury that defendants were negligent as a matter of law. On that basis, not present in the matter sub judice, the Superior Court in Pascal found that the erroneous jury instruction influenced the jury. Pascal plainly does not suggest a different resolution of this appeal.\n. While both Independent Lift Truck, Inc. and Frank Fatiga, Jr. are listed as defendants in this appeal, the parties agreed that, to simplify matters, reference to only Independent Lift Truck, Inc. would be made in the special verdict sheet. N.T., 6/14/07, at 153-55.\n. The law presumes that the jury follows the court\u2019s instructions. Commonwealth v. Hairston, 603 Pa. 660, 670 n. 11, 985 A.2d 804, 810 n. 11 (2009); Paves v. Corson, 569 Pa. 171, 178, 801 A.2d 546, 550 (2002).",
+        "type": "majority",
+        "author": "Justice TODD."
+      }
+    ],
+    "attorneys": [
+      "Karyn Dobroskey Reinzi, Esq., Teresa Ficken Sachs, Esq., Charles .Spitz, Esq., Post & Schell, P.C., Philadelphia, for Independent Lift Truck, Inc., appellant.",
+      "William Joseph Cappol, Esq., John Thomas Dooley, Esq., for Anthony and Maureen Boyle, appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony BOYLE and Maureen Boyle, h/w, Appellees v. INDEPENDENT LIFT TRUCK, INC. and Frank Fatiga, Jr., Appellants.\nSupreme Court of Pennsylvania.\nArgued May 12, 2010.\nDecided Sept. 29, 2010.\nKaryn Dobroskey Reinzi, Esq., Teresa Ficken Sachs, Esq., Charles .Spitz, Esq., Post & Schell, P.C., Philadelphia, for Independent Lift Truck, Inc., appellant.\nWilliam Joseph Cappol, Esq., John Thomas Dooley, Esq., for Anthony and Maureen Boyle, appellees.\nBEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY and ORIE MELVIN, JJ."
+  },
+  "file_name": "0492-01",
+  "first_page_order": 538,
+  "last_page_order": 544
+}

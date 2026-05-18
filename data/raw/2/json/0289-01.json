@@ -1,0 +1,873 @@
+{
+  "id": 7286029,
+  "name": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. v. Jon E. SAUNDERS et al.",
+  "name_abbreviation": "Mortgage Electronic Registration Systems, Inc. v. Saunders",
+  "decision_date": "2010-08-12",
+  "docket_number": "",
+  "first_page": "289",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 79"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "74 Me. 359",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8844777
+      ],
+      "year": 1883,
+      "pin_cites": [
+        {
+          "page": "361-62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/74/0359-01"
+      ]
+    },
+    {
+      "cite": "79 A. 371",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Me. 110",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        655417
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/108/0110-01"
+      ]
+    },
+    {
+      "cite": "149 A. 297",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "298-99"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Me. 9",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        630791
+      ],
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "11-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/129/0009-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 85",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8247430
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 21"
+        },
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/948/1251-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 120",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291104
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0001-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 49",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7289539
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 4"
+        },
+        {
+          "page": "721"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/997/0720-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 116",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8352166
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 19"
+        },
+        {
+          "page": "1029"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/1025-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 136",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7292003
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "510"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "510",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "512"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0508-01"
+      ]
+    },
+    {
+      "cite": "639 A.2d 107",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859613
+      ],
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/639/0107-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 9",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9289933
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/0109-01"
+      ]
+    },
+    {
+      "cite": "431 A.2d 1313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7994890
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/431/1313-01"
+      ]
+    },
+    {
+      "cite": "682 A.2d 224",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7860042
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/682/0224-01"
+      ]
+    },
+    {
+      "cite": "398 A.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7977434
+      ],
+      "pin_cites": [
+        {
+          "page": "384"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/398/0382-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 154",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9170915
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 38"
+        },
+        {
+          "page": "901"
+        },
+        {
+          "page": "\u00b6 38"
+        },
+        {
+          "page": "901"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0890-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 68",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9135843
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "\u00b6 17"
+        },
+        {
+          "page": "1141"
+        },
+        {
+          "page": "\u00b6\u00b6 15-19"
+        },
+        {
+          "page": "1140-42",
+          "parenthetical": "approving the court's substitution of the road commissioner as the plaintiff for an unincorporated association that lacked capacity to sue"
+        },
+        {
+          "page": "\u00b6\u00b6 18-19"
+        },
+        {
+          "page": "1142"
+        },
+        {
+          "page": "\u00b6 19"
+        },
+        {
+          "page": "1142"
+        },
+        {
+          "parenthetical": "pointing to the unchanged facts and circumstances after substitution"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/822/1136-01"
+      ]
+    },
+    {
+      "cite": "270 Neb. 529",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        3793287
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that \"MERS has no independent right to collect on any debt because MERS itself has not extended credit, and none of the mortgage debtors owe MERS any money\""
+        },
+        {
+          "page": "788",
+          "parenthetical": "stating that \"MERS has no independent right to collect on any debt because MERS itself has not extended credit, and none of the mortgage debtors owe MERS any money\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/270/0529-01"
+      ]
+    },
+    {
+      "cite": "104 S.Ct. 3315",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11340114
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0737-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 787",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2000 ME 85",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11532806
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "1260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/750/1257-01"
+      ]
+    },
+    {
+      "cite": "915 A.2d 966",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8337896
+      ],
+      "pin_cites": [
+        {
+          "page": "968"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/0966-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 82",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8397764
+      ],
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/927/0391-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 187",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8191301
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b68"
+        },
+        {
+          "page": "541-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/961/0538-01"
+      ]
+    },
+    {
+      "cite": "770 N.W.2d 487",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7085164
+      ],
+      "pin_cites": [
+        {
+          "page": "500-01"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/770/0487-01"
+      ]
+    },
+    {
+      "cite": "357 B.R. 180",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6050500
+      ],
+      "pin_cites": [
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/357/0180-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 83",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9429121
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/797/0032-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 51",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7289599
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/997/0730-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 108",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8209392
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/951/0069-01"
+      ]
+    },
+    {
+      "cite": "130 A.2d 925",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "926",
+          "parenthetical": "demonstrating the limited role of a nominee in a contract case"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Me. 380",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        472582
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "382-83",
+          "parenthetical": "demonstrating the limited role of a nominee in a contract case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/152/0380-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 99",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9411222
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/800/0702-01"
+      ]
+    },
+    {
+      "cite": "8 N.Y.3d 90",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5687982
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "Kaye, C.J., dissenting"
+        },
+        {
+          "parenthetical": "Kaye, C.J., dissenting"
+        },
+        {
+          "page": "86",
+          "parenthetical": "Kaye, C.J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0090-01"
+      ]
+    },
+    {
+      "cite": "289 Kan. 528",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        3674254
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/289/0528-01"
+      ]
+    },
+    {
+      "cite": "385 A.2d 189",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7970500
+      ],
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/385/0189-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 21",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11484077
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "979"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/745/0975-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 28",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11209832
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/754/0334-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 727",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11723565
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "731"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0727-01"
+      ]
+    },
+    {
+      "cite": "670 A.2d 1377",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874676
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1379"
+        },
+        {
+          "page": "1379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/670/1377-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 58",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9439099
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 4"
+        },
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/794/0080-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1250,
+    "char_count": 31879,
+    "ocr_confidence": 0.719,
+    "pagerank": {
+      "raw": 5.139438462891192e-07,
+      "percentile": 0.9391128594755911
+    },
+    "sha256": "b185794d9de746230b90c666830c7633b921ec3b505aee11054ea0d659bf8f2f",
+    "simhash": "1:be1e03fef34d26be",
+    "word_count": 5413
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. v. Jon E. SAUNDERS et al."
+    ],
+    "opinions": [
+      {
+        "text": "GORMAN, J.\n[\u00b6 1] Jon E. Saunders and Belinda L. Saunders appeal from entry of a summary judgment in the District Court (Bridgton, Powers, J.) in favor of Deutsche Bank National Trust Company on Mortgage Electronic Registration Systems, Inc.\u2019s (MERS) complaint for foreclosure and sale of the Saunderses\u2019 home, pursuant to 14 M.R.S. \u00a7\u00a7 6321-6325 (2009). The Saun-derses contend that the court erred in granting summary judgment to the Bank because: (1) MERS did not have a stake in the proceedings and therefore had no standing to initiate the foreclosure action, (2) the substitution of parties could not be used to cure the jurisdictional defect of lack of standing and was therefore improper, and (3) there are genuine issues of material fact.\n[\u00b6 2] We conclude that although MERS is not in fact a \u201cmortgagee\u201d within the meaning of our foreclosure statute, 14 M.R.S. \u00a7\u00a7 6321-6325, and therefore had no standing to institute foreclosure proceedings, the real party in interest was the Bank and the court did not abuse its discretion by substituting the Bank for MERS. Because, however, the Bank was not entitled to summary judgment as a matter of law, we vacate the judgment and remand for further proceedings.\nI. BACKGROUND\n[\u00b6 3] In June of 2006, Jon Saunders executed and delivered a promissory note in the amount of $258,750 to Accredited Home Lenders, Inc. At the same time, both Jon and Belinda Saunders executed a mortgage document, securing that note, in favor of MERS, solely as \u201cnominee for [Accredited] and [AccreditedJ\u2019s successors and assigns.\u201d\n[\u00b6 4] When the Saunderses failed to make certain payments on the note, MERS filed a complaint for foreclosure in the District Court on February 4, 2009. The Saunderses filed an answer that denied the complaint\u2019s allegations and asserted, among others, the affirmative defense of lack of standing. MERS moved for summary judgment on its complaint on May 27, 2009. In its accompanying statement of material facts, MERS asserted that it was the \u201cholder\u201d of both the mortgage and the note, but neither indicated whether real property secured the note nor identified the real property of the Saunderses. The Saunderses controverted MERS\u2019s ownership of the note in their opposing statement of material facts, citing admissions that MERS had made pursuant to M.R. Civ. P. 36 that the Bank was in fact the holder of the note. The parties also disputed whether the Saunderses had received proper notice, whether the Saun-derses were in default, and the amount owed on the loan. The court denied summary judgment on September 9, 2009, stating only: \u201cMotion for summary judgment is denied as to [MERS], as there are issues of material fact preventing same and [MERS] is not entitled to judgment as a matter of law.\u201d\n[\u00b6 5] One day after the court denied that motion, the Bank moved pursuant to M.R. Civ. P. 25(c) to substitute itself for MERS in the foreclosure proceedings and also filed a reply to the Saunderses\u2019 additional statement of material facts. Just over one week later, the Bank, which was not yet a party, filed a motion to reconsider or amend the order denying MERS\u2019s motion for summary judgment, pursuant to M.R. Civ. P. 59(e), and a motion for further findings pursuant to M.R. Civ. P. 52(b). In support of its motions, the Bank filed: (1) an undated, two-page allonge indicating that Accredited transferred the note to the Bank, and (2) an assignment indicating that MERS had transferred any rights it had in the note or mortgage to the Bank. These transfers occurred on July 8, 2009, during the course of litigation. The Saunderses opposed both motions and filed a cross-motion for summary judgment arguing that they were entitled to judgment as a matter of law because neither MERS nor the Bank could show that MERS held the note at the time the suit commenced.\n[\u00b6 6] On November 18, 2009, the court granted the Bank\u2019s motion for substitution of parties, denied the Saunderses\u2019 cross-motion for summary judgment, and granted summary judgment to the Bank. On December 16, 2009, the court entered a judgment of foreclosure and sale. The \u25a0Saunderses filed a timely appeal pursuant to M.RApp. P. 2 and 14 M.R.S. \u00a7 1901 (2009).\nII. DISCUSSION\nA. MERS\u2019s Standing\n[\u00b6 7] The Saunderses contend that MERS had no stake in the outcome of the proceedings and therefore did not have standing to institute foreclosure. We review the threshold \u201cissue of a party\u2019s status for standing to sue de novo.\u201d Lowry v. KTI Specialty Waste Servs., Inc., 2002 ME 58, \u00b6 4, 794 A.2d 80, 81. At a minimum, \u201c[standing to sue means that the party, at the commencement of the litigation, has sufficient personal stake in the controversy to obtain judicial resolution of that controversy.\u201d Halfway House Inc. v. City of Portland, 670 A.2d 1377, 1379 (Me.1996) (citing Sierra Club v. Morton, 405 U.S. 727, 731, 92 S.Ct. 1361, 31 L.Ed.2d 636 (1972)). Typically, a party\u2019s personal stake in the litigation is evidenced by a particularized injury to the party\u2019s property, pecuniary, or personal rights. See, e.g., Tomhegan Camp Owners Ass\u2019n v. Murphy, 2000 ME 28, \u00b6 6, 754 A.2d 334, 336; Stull v. First Am. Title Ins. Co., 2000 ME 21, \u00b6 11, 745 A.2d 975, 979; cf. Fitzgerald v. Baxter State Park Autk, 385 A.2d 189, 196 (Me.1978).\n[\u00b6 8] The relationship of MERS to the transaction between the Saunderses and Accredited \u2014 mortgagors and the original mortgagee\u2014is \u201cnot subject to an easy description\u201d or classification. See Landmark Nat\u2019l Bank v. Kesler, 289 Kan. 528, 216 P.3d 158, 164 (2009). Then Chief Judge Kaye of the New York Court of Appeals described the role and purpose of MERS thusly:\n[MERS\u2019s] purpose is to streamline the mortgage process by eliminating the need to prepare and record paper assignments of mortgage, as had been done for hundreds of years. To accomplish this goal, MERS acts as nominee and as mortgagee of record for its members nationwide and appoints itself nominee, as mortgagee, for its members\u2019 successors and assigns, thereby remaining nominal mortgagee of record no matter how many times loan servicing, or the [debt] itself, may be transferred.\nMERSCORP, Inc. v. Romaine, 8 N.Y.3d 90, 828 N.Y.S.2d 266, 861 N.E.2d 81, 86 (2006) (Kaye, C.J., dissenting). In Maine, we follow the title theory of mortgages; a mortgage is a conditional conveyance vesting legal title to the property in the mortgagee, with the mortgagor retaining the equitable right of redemption and the right to possession. See Johnson v. McNeil, 2002 ME 99, \u00b6 10, 800 A.2d 702, 704. To determine whether MERS has standing in the present case, we must first examine what rights MERS had in the Saunderses\u2019 debt and the mortgage securing that debt.\n[\u00b6 9] In the note that Jon Saunders executed in favor of Accredited, there is no mention of MERS, and the Bank admitted in its statement of material facts that MERS never had an interest in the note. MERS is, however, included in the Saunderses\u2019 mortgage document. The mortgage first defines MERS as:\n(C) \u201cMERS\u201d is Mortgage Electronic Registrations Systems, Inc. MERS is a separate corporation that is acting solely as a nominee for Lender and Lender\u2019s successors and assigns. MERS is organized and existing under the Laws of Delaware, and has an address and telephone number of P.O. Box 2026, Flint, MI 48501-2026, tel. (888) 679-MERS. FOR PURPOSES OF RECORDING THIS MORTGAGE, MERS IS THE MORTGAGEE OF RECORD.\nThe remaining references to MERS in the mortgage document are in the subsequent sections conveying the mortgage and describing the property conveyed:\n[Borrowers] mortgage, grant and convey the Property to MERS (solely as nominee for Lender and Lender\u2019s successors and assigns), with mortgage covenants, subject to the terms of this Security Instrument, to have and to hold all of the Property to MERS (solely as nominee for Lender and Lender\u2019s successors and assigns), and to its successors and assigns, forever.\n[Borrowers] understand and agree that MERS holds only legal title to the rights granted by [Borrowers] in this Security Instrument, but, if necessary to comply with law or custom, MERS (as nominee for Lender and Lender\u2019s successors and assigns) has the right:\n(A) to exercise any or all of those rights, including, but not limited to, the right to foreclose and sell the Property; and\n(B) to take any action required of Lender including, but not limited to, releasing and canceling this Security Instrument.\n[Borrowers] grant and mortgage to MERS (solely as nominee for Lender and Lender\u2019s successors in interest) the Property described [below].\nEach reference to MERS within the Saun-derses\u2019 mortgage describes MERS solely as the \u201cnominee\u201d to the lender.\n[\u00b6 10] The only rights conveyed to MERS in either the Saunderses\u2019 mortgage or the corresponding promissory note are bare legal title to the property for the sole purpose of recording the mortgage and the corresponding right to record the mortgage with the Registry of Deeds. This comports with the limited role of a nominee. A nominee is a \u201cperson designated to act in place of another, usu[ally] in a very limited way,\u201d or a \u201cparty who holds bare legal title for the benefit of others or who receives and distributes funds for the benefit of others.\u201d Black\u2019s Law Dictionary 1149 (9th ed.2009); see also E. Milling Co. v. Flanagan, 152 Me. 380, 382-83, 130 A.2d 925, 926 (1957) (demonstrating the limited role of a nominee in a contract case). The remaining, beneficial rights in the mortgage and note are vested solely in the lender Accredited and its successors and assigns. The mortgage clearly provides that, by signing the instrument, the Saun-derses were \u201cgiving [the] Lender those rights that are stated in this Security Instrument and also those rights that Applicable Law gives to Lenders who hold mortgages on real property.\u201d (Emphasis added.) Not one of the mortgage covenants in the document, including the Saun-derses\u2019 obligations to make timely payments on the note, pay property taxes, obtain property insurance, and maintain and protect the property, is made to MERS or in favor of MERS. Each promise and covenant gives rights to the lender and its successors and assigns, whereas MERS\u2019s rights are limited solely to acting as a nominee. The Bank argues that MERS\u2019s status as a \u201cnominee\u201d for the lender and as the \u201cmortgagee of record\u201d within the document qualifies it as a \u201cmortgagee\u201d within 14 M.R.S. \u00a7 6321. We disagree.\n[\u00b6 11] As discussed above, MERS\u2019s only right is the right to record the mortgage. Its designation as the \u201cmortgagee of record\u201d in the document does not change or expand that right; and having only that right, MERS does not qualify as a mortgagee pursuant to our foreclosure statute, 14 M.R.S. \u00a7\u00a7 6321-6325. Section 6321 provides: \u201cAfter breach of condition in a mortgage of first priority, the mortgagee or any person claiming under the mortgagee may proceed for the purpose of foreclosure by a civil action-\u201d (Emphasis added.) It is a \u201cfundamental rule of statutory interpretation that words in a statute must be given their plain and ordinary meanings.\u201d Joyce v. State, 2008 ME 108, \u00b6 11, 951 A.2d 69, 72 (quotation marks omitted); accord Hanson v. S.D. Warren Co., 2010 ME 51, \u00b6 12, 997 A.2d 730, 733. The plain meaning and common understanding of mortgagee is \u201c[o]ne to whom property is mortgaged,\u201d meaning a \u201cmortgage creditor, or lender.\u201d Black\u2019s Law Dictionary 1104 (9th ed.2009). In other words, a mortgagee is a party that is entitled to enforce the debt obligation that is secured by a mortgage.\n[\u00b6 12] In order to enforce a debt obligation secured by a mortgage and note, a party must be in possession of the note. See Premier Capital, Inc. v. Doucette, 2002 ME 83, \u00b6 7, 797 A.2d 32, 34 (describing a note associated with a mortgage as a negotiable instrument). Pursuant to Maine\u2019s adoption of the Uniform Commercial Code, the only party entitled to enforce a negotiable instrument is:\n(1) The holder of the instrument;\n(2) A nonholder in possession of the instrument who has the rights of a holder; or\n(3) A person not in possession of the instrument who is entitled to enforce the instrument pursuant to section 3-1309 or 3-1418, subsection (4). A person may be a person entitled to enforce the instrument even though the person is not the owner of the instrument or is in wrongful possession of the instrument.\n11 M.R.S. \u00a7 3-1301 (2009). MERS does not qualify under any subsection of section 3-1301 because, on this record, there is no evidence it held the note, was in possession of the note, was purporting to enforce a lost, destroyed, or stolen instrument pursuant to 11 M.R.S. \u00a7 3-1309 (2009), or was purporting to enforce a dishonored instrument pursuant to 11 M.R.S. \u00a7 3-1418(4) (2009).\n[\u00b6 13] Alternatively, the Bank asserts that because the mortgage document itself purported to give MERS the right to foreclose the mortgage, MERS was entitled to enforce the mortgage as the \u201cmortgagee of record.\u201d In other jurisdictions utilizing wow-judicial foreclosure, MERS has been able to institute foreclosure proceedings based on its designation in the mortgage as the \u201cmortgagee of record.\u201d See, e.g., In re Huggins, 357 B.R. 180, 184 (Bankr. Mass.2006) (concluding that MERS had standing to institute foreclosure proceedings pursuant to the statutory power of sale in Massachusetts); Jackson v. Mortg. Elec. Registration Sys. Inc., 770 N.W.2d 487, 500-01 (Minn.2009) (approving MERS\u2019s ability to commence foreclosure as the legal title holder of the mortgage in non-judicial foreclosure proceedings in Minnesota). These cases are inapposite because non-judicial foreclosures do not invoke the jurisdiction of the courts. Nonjudicial foreclosures proceed wholly outside of the judiciary, typically utilizing local law enforcement to evict a mortgagor and gain possession of the mortgaged property.\n[\u00b6 14] Here, MERS sought to foreclose on the Saunderses\u2019 mortgage by filing a lawsuit, and, like any other plaintiff filing suit within our courts, must prove its standing to sue. Halfway House, 670 A.2d at 1379. Because standing to sue in Maine is prudential, rather than of constitutional dimension, we may \u201climit access to the courts to those best suited to assert a particular claim.\u201d Lindemann v. Comm\u2019n on Govtl. Ethics & Election Practices, 2008 ME 187, \u00b68, 961 A.2d 538, 541-42 (quoting Roop v. City of Belfast, 2007 ME 82, \u00b6 7, 915 A.2d 966, 968). In the present context, MERS, as the complaining party, must show that it has suffered an injury fairly traceable to an act of the mortgagor and that the injury is likely to be redressed by the judicial relief sought. See Collins v. State, 2000 ME 85, \u00b6 6, 750 A.2d 1257, 1260 (citing Allen v. Wright, 468 U.S. 787, 751, 104 S.Ct. 3315, 82 L.Ed.2d 556 (1984)); see also Stull, 2000 ME 21, \u00b6 11, 745 A.2d at 979.\n[\u00b6 15] Nothing in the trial court record demonstrates that MERS suffered any injury when the Saunderses failed to make payments on their mortgage. When questioned directly at oral argument about what injury MERS had suffered, the Bank responded that MERS did not need to prove injury to foreclose, only that it was a \u201cmortgagee.\u201d As we have already explained, MERS is not a mortgagee pursuant to 14 M.R.S. \u00a7 6321 because it has no enforceable right in the debt obligation securing the mortgage. In reality, the Bank was unable to suggest an injury MERS suffered because MERS did not suffer any injury when the Saunderses failed to make payments on their mortgage. See Mortg. Elec. Registration Sys., Inc. v. Neb. Dep\u2019t of Banking & Fin., 270 Neb. 529, 704 N.W.2d 784, 788 (2005) (stating that \u201cMERS has no independent right to collect on any debt because MERS itself has not extended credit, and none of the mortgage debtors owe MERS any money\u201d). The only right MERS has in the Saunderses\u2019 mortgage and note is the right to record the mortgage. The bare right to record a mortgage is unaffected by a mortgagor\u2019s default. The Bank admitted in its statement of material facts that Accredited had never assigned, transferred, or endorsed the note executed by Jon Saunders to MERS, and represented that Accredited had transferred the note directly to the Bank. Without possession of or any interest in the note, MERS lacked standing to institute foreclosure proceedings and could not invoke the jurisdiction of our trial courts.\nB. Substitution of the Bank for MERS\n[\u00b6 16] Having determined that MERS lacked standing, our next inquiry is whether the substitution of the Bank for MERS allowed the proceedings to continue. The Saunderses contend that the substitution of the Bank for MERS pursuant to M.R. Civ. P. 25(c) was improper because: (1) MERS did not have standing, and a substitution of parties cannot be used to cure a jurisdictional defect; and (2) the Bank, as a non-party, cannot file a motion to substitute parties. The Bank argues that the substitution of parties cured any impropriety in MERS commencing the foreclosure proceedings and that M.R. Civ. P. 17(a) prohibits dismissal until there has been a reasonable time to substitute the real party in interest. We review the grant or denial of a party\u2019s motion to substitute parties pursuant to both M.R. Civ. P. 17(a) and 25(c) for an abuse of the court\u2019s discretion. See M.R. Civ. P. 25(c) (\u201cIn case of any transfer of interest, the action may be continued by or against the original party .... \u201d (emphasis added)); Tisdale v. Rawson, 2003 ME 68, \u00b6 17, 822 A.2d 1136, 1141 (stating that Rule 17 authorizes \u201ca court to substitute an incorrectly named plaintiff with the real party in interest\u201d); Bates v. Dep\u2019t of Behavioral & Developmental Servs., 2004 ME 154, \u00b6 38, 863 A.2d 890, 901 (\u201cJudgmental decisions ... in areas where the court has choices will be reviewed for sustainable exercise of the court\u2019s discretion.\u201d).\n[\u00b6 17] Both Rule 17 and 25 are concerned with ensuring that the real party in interest is conducting the litigation. Rule 17 is used to correct an action that was filed and then maintained by the wrong party, or was filed in the name of the wrong party. See Tisdale, 2003 ME 68, \u00b6\u00b6 15-19, 822 A.2d at 1140-42 (approving the court\u2019s substitution of the road commissioner as the plaintiff for an unincorporated association that lacked capacity to sue); Royal Coachman Color Guard v. Marine Trading & Transp., Inc., 398 A.2d 382, 384 (Me.1979); 1 Field, McKusick, & Wroth, Maine Civil Practice \u00a7 17.1 at 348 (2d ed.1970) (\u201cThe purpose of Rule 17(a) is to provide that the plaintiff in an action shall be the person who by the substantive law possesses the right to be enforced.\u201d). Rule 25, in comparison, is used to substitute a second party for the original party when, in the course of litigation or pen-dency of an appeal, the original party\u2019s interest ends or is transferred, or the original party becomes incompetent. See Estate of Saliba v. Dunning, 682 A.2d 224, 225 n. 1 (Me.1996) (noting the substitution of an estate, pursuant to Rule 25, for the plaintiff after his death during the pen-dency of the suit); Gagne v. Cianbro Corp., 431 A.2d 1313, 1315 n. 1 (Me.1981) (noting the Rule 25 substitution of Cianbro for the original defendant on appeal after the originally named defendant transferred its interest to Cianbro).\n[\u00b6 18] The present case involves both situations: a suit brought by the wrong party and a transfer of interest mid-litigation. Although the court granted the Bank\u2019s Rule 25(c) motion for substitution, the proper procedural vehicle for substitution in this case was Rule 17(a). See Bouchard v. Frost, 2004 ME 9, \u00b6 8, 840 A.2d 109, 111 (indicating we may affirm a judgment on a ground not relied upon by the trial court). Our cases allow the Rule 17(a) substitution of plaintiffs when the correct party is difficult to determine or an understandable mistake has been made and the substitution \u201cdoes not alter in any way the factual allegations pertaining to events or participants involved in th[e] suit.\u201d Tisdale, 2003 ME 68, \u00b6\u00b6 18-19, 822 A.2d at 1142.\n[\u00b6 19] Accredited, as the party entitled to enforce the rights granted in the mortgage, was the real party in interest at the time MERS instituted foreclosure proceedings. Five months after MERS filed for foreclosure, the Bank became the real party in interest when Accredited transferred the Saunderses\u2019 mortgage and note to it. As we had not previously spoken on MERS\u2019s standing to foreclose a residential mortgage, the prosecution of the case in its name is an understandable mistake to which Rule 17(a) can be applied. See Tisdale, 2003 ME 68, \u00b6 19, 822 A.2d at 1142. Further, the transfer of interest did not alter the cause of action or create any prejudice to the Saunderses. MERS sought to foreclose on the Saunderses\u2019 real property after they failed to make payments on the note, and the Bank now seeks to foreclose on the same mortgage for their failure to make payments on the same note. See id. (pointing to the unchanged facts and circumstances after substitution). In defending MERS\u2019s motion for summary judgment, the Saunderses themselves argued that the Bank was the proper party to bring this action. The substitution of parties in this case was proper, and the court did not abuse its discretion by granting the Bank\u2019s motion for substitution. See Bates, 2004 ME 154, \u00b6 38, 863 A.2d at 901.\nC. Summary Judgment\n[\u00b6 20] Finally, the Saunderses contend that the court erred in granting summary judgment because of the flawed procedure that led to the court\u2019s entry of foreclosure and sale and because there are genuine issues of material fact and summary judgment was inappropriate. We agree with both contentions.\n[\u00b6 21] First, the procedure leading up to the summary judgment was fatally flawed. Except in certain circumstances not applicable here, substitution relates back to the date of the original complaint, and the effect of the substitution of parties was to treat the Bank as if it had been the party that commenced the litigation. See M.R. Civ. P. 17(a); 1 Field, McKusick, & Wroth, Maine Civil Practice \u00a7 17.1 at 349. As previously noted, the Bank filed a motion to alter or amend the order denying MERS\u2019s motion for summary judgment, which the court granted. Our rules do not allow a motion to alter or amend pursuant to M.R. Civ. P. 59(e)\u2014or a motion for further findings of fact pursuant to M.R. Civ. P. 52(b)\u2014in the absence of a final judgment. Because the denial of MERS\u2019s motion for summary judgment in the present case was not a final judgment upon which the Bank could file its motion, the court erred by granting the motion. See Dep\u2019t of Human Servs. v. Hart, 639 A.2d 107, 107 (Me.1994) (stating the general rule that a \u201cdenial of a summary judgment motion does not result in a final judgment\u201d). After substitution, the Bank should have filed its own independent motion for summary judgment with a statement of material facts and supporting affidavits. The Saunderses would then have had the opportunity to respond to the new motion and appropriately defend the foreclosure action against the real party in interest.\n[\u00b6 22] Second, the summary judgment record does not support the Bank\u2019s entitlement to judgment as a matter of law. See Chase Home Fin. LLC v. Higgins, 2009 ME 136, \u00b6 10, 985 A.2d 508, 510. \u201cWe review the grant of a motion for summary judgment de novo,\u201d and view \u201cthe evidence in the light most favorable to the party against whom judgment has been entered to decide whether the parties\u2019 statements of material facts and the referenced record evidence reveal a genuine issue of material fact.\u201d Wells Fargo Home Mortg., Inc. v. Spaulding, 2007 ME 116, \u00b6 19, 930 A.2d 1025, 1029; see also Salem Capital Grp., LLC v. Litchfield, 2010 ME 49, \u00b6 4, 997 A.2d 720, 721. We consider \u201conly the portions of the record referred to, and the material facts set forth, in the [M.R. Civ. P. 56(h) ] statements to determine whether ... the successful party was entitled to a judgment as a matter of law.\u201d Higgins, 2009 ME 136, \u00b6 10, 985 A.2d at 510 (quotation marks omitted). Further, we have said that\n[i]n the unique setting of summary judgment, strict adherence to the Rule\u2019s requirements is necessary to ensure that the process is both predictable and just. Even when a hearing is held in a summary judgment motion, the only record that may be considered is the record created by the parties\u2019 submissions.\nDeutsche Bank Nat\u2019l Trust Co. v. Raggiani, 2009 ME 120, \u00b6 7, 985 A.2d 1, 3; see also Camden Nat\u2019l Bank v. Peterson, 2008 ME 85, \u00b6 21, 948 A.2d 1251, 1257 (stating that a mortgagee seeking foreclosure must strictly comply with all the steps required by the foreclosure statute).\n[\u00b6 23] In Higgins, we outlined the minimum facts, \u201csupported by evidence of a quality that could be admissible at trial [that] must be included in the mortgage holder\u2019s statement ] of material facts.\u201d 2009 ME 136, \u00b6 11, 985 A.2d at 510-11. Pursuant to 14 M.R.S. \u00a7 6321, a party attempting to foreclose a mortgage must provide proof of the existence of a mortgage and its claim on the real estate and intelligibly describe the mortgaged premises, including the street address of the mortgaged property, if any, and the book and page number of the recorded mortgage. See also Higgins, 2009 ME 136, \u00b6 11, 985 A.2d at 510-11 (explaining the remaining facts that must be submitted in the statements of material facts before foreclosure can proceed by summary judgment).\n[\u00b6 24] The requirements of a street address and the book and page number were added to section 6321 after the commencement of foreclosure, but before the Bank filed its motion to alter or amend the judgment pursuant to M.R. Civ. P. 59(e). See P.L. 2009, ch. 402, \u00a7 17 (effective June 15, 2009). The prior version of the statute, in effect at the time MERS filed for foreclosure, only required the complaint to \u201cdescribe the mortgaged premises intelligibly.\u201d 14 M.R.S. \u00a7 6321 (2008). As we explained in Higgins, amendments to the foreclosure statute apply to all summary judgment motions filed after their effective date, regardless of the date foreclosure proceedings commenced. 2009 ME 136, \u00b6 11 n. 2, 985 A.2d at 510.\n[\u00b6 25] In the present case, even if the Bank\u2019s motion to alter or amend were deemed procedurally sound, it would fail under either standard because it failed to include any mention of the location of the mortgaged property in its statement of material facts. While the book and page number\u2014but not the mortgaged property\u2019s address\u2014were included in the affidavit supporting one of MERS\u2019s original statements of material fact, facts not set forth in the parties\u2019 statements of material facts are not part of the summary judgment record and not properly before us on appeal. See M.R. Civ. P. 56(h)(1); Higgins, 2009 ME 136, \u00b6 12, 985 A.2d at 511 n. 4. Viewed in the light most favorable to the Saunderses, the summary judgment record does not establish what property owned by the Saunderses actually secures the mortgage and the court erred by granting summary judgment to the Bank. See 14 M.R.S. \u00a7 6321 (2009); Higgins, 2009 ME 136, \u00b6 13, 985 A.2d at 512.\nIII. CONCLUSION\n[\u00b6 26] In summary, we hold that MERS could not institute this foreclosure action and invoke the jurisdiction of our courts because it lacks an enforceable right in the debt that secures the mortgage. Although MERS lacked standing in the present case, the jurisdictional flaw was corrected when the court appropriately granted the Bank\u2019s motion for substitution. The court erred, however, in granting the Bank\u2019s \u201crenewed\u201d motion for summary judgment, both because the Rules of Civil Procedure do not allow for reconsideration or amendment in the absence of a final judgment, and because the motion, even as amended, did not support a conclusion that the Bank was entitled to judgment as a matter of law.\nThe entry is:\nJudgment vacated. Remanded to the District Court for further proceedings consistent with this opinion.\n. The Bank was substituted as a party for Mortgage Electronic Registration Systems, Inc., pursuant to M.R. Civ. P. 25(c). Rule 25 provides:\n(c) Transfer of Interest. In case of any transfer of interest, the action may be continued by or against the original party, unless the court upon motion directs the person to whom the interest is transferred to be substituted in the action or joined with the original party. Service of the motion shall be made as provided in subdivision (a) of this rule.\nM.R. Civ. P. 25(c).\n. M.R. Civ. P. 59(e) provides that \"[a] motion to alter or amend the judgment shall be served not later than 10 days after entry of the judgment. A motion for reconsideration of the judgment shall be treated as a motion to alter or amend the judgment.\u201d\nM.R. Civ. P. 52 provides:\n(b) Amendment. The court may, upon motion of a party made not later than 10 days after notice of findings made by the court, amend its findings or make additional findings and, if judgment has been entered, may amend the judgment accordingly. The motion may be made with a motion for a new trial pursuant to Rule 59. When findings of fact are made in actions tried by the court without a jury, the question of the sufficiency of the evidence to support the findings may thereafter be raised whether or not the party raising the question has made in the trial court an objection to such findings or has made a motion to amend them or a motion for judgment.\n. We do not address the situation where the mortgage and note are truly held by different parties. See, e.g., Averill v. Cone, 129 Me. 9, 11-12, 149 A. 297, 298-99 (1930); Wyman v. Porter, 108 Me. 110, 120, 79 A. 371, 375 (1911); Jordan v. Cheney, 74 Me. 359, 361-62 (1883). When MERS filed its complaint against the Saunderses, Accredited was both the mortgagee and holder of the note, and MERS held only the right to record the mortgage.\n. We note that recent amendments to the foreclosure statute, although not applicable when MERS filed its complaint for foreclosure, mandate that a party seeking foreclosure provide evidence of both the mortgage and the note to proceed with the foreclosure. 14 M.R.S. \u00a7 6321 (2009) (\"The mortgagee shall certify proof of ownership of the mortgage note and produce evidence of the mortgage note, mortgage and all assignments and endorsements of the mortgage note and mortgage.\u201d). ,\n. M.R. Civ. P. 17(a) provides in relevant part:\nNo action shall be dismissed on the ground that it is not prosecuted in the name of the real party in interest until a reasonable time has been allowed after objection for ratification of commencement of the action by, or joinder or substitution of, the real party in interest; and such ratification, joinder, or substitution shall have the same effect as if the action had been commenced in the name of the real party in interest.\n. Rule 17 does not designate which party should file the motion. Because the Bank had standing to prosecute this foreclosure, it had standing to file the motion for substitution of parties. We also note that Rule 25(c) does not require the originally named party to move for substitution. M.R. Civ. P. 25(c) (\u201cIn case of any transfer of interest, the action may be continued by or against the original party, unless the court upon motion directs the person to whom the interest is transferred to be substituted ....\u201d (emphasis added)).\n. The Saunderses also raise several other arguments regarding the allonge and note that we do not address.",
+        "type": "majority",
+        "author": "GORMAN, J."
+      }
+    ],
+    "attorneys": [
+      "Michael K. Martin, Esq., Petruceelli, Martin & Haddow, Thomas A. Cox, Esq. (orally), Portland, ME, for Belinda and Jon Saunders.",
+      "Jerome J. Gamache, Esq., John A. Tur-cotte, Esq. (orally), Ainsworth, Thelin & Raftice, P.A., South Portland, ME, for Mortgage Electronic Registration Systems, Inc."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 79\nMORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. v. Jon E. SAUNDERS et al.\nSupreme Judicial Court of Maine.\nArgued: June 15, 2010.\nDecided: Aug. 12, 2010.\nMichael K. Martin, Esq., Petruceelli, Martin & Haddow, Thomas A. Cox, Esq. (orally), Portland, ME, for Belinda and Jon Saunders.\nJerome J. Gamache, Esq., John A. Tur-cotte, Esq. (orally), Ainsworth, Thelin & Raftice, P.A., South Portland, ME, for Mortgage Electronic Registration Systems, Inc.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0289-01",
+  "first_page_order": 319,
+  "last_page_order": 331
+}

@@ -1,0 +1,476 @@
+{
+  "id": 7291022,
+  "name": "Edward BALTIMORE, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee",
+  "name_abbreviation": "Baltimore v. District of Columbia",
+  "decision_date": "2011-01-06",
+  "docket_number": "Nos. 09-CV-759, 09-CV-760, 09-CV-761",
+  "first_page": "1141",
+  "last_page": "1156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 1141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "494 U.S. 820",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4945
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "823",
+          "parenthetical": "\"State courts ... are ... presumptively competent to adjudicate claims arising under the laws of the United States.\""
+        },
+        {
+          "parenthetical": "\"State courts ... are ... presumptively competent to adjudicate claims arising under the laws of the United States.\""
+        },
+        {
+          "parenthetical": "\"State courts ... are ... presumptively competent to adjudicate claims arising under the laws of the United States.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0820-01"
+      ]
+    },
+    {
+      "cite": "545 U.S. 469",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8209431
+      ],
+      "weight": 5,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/545/0469-01"
+      ]
+    },
+    {
+      "cite": "103 A.2d 575",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8131772
+      ],
+      "pin_cites": [
+        {
+          "page": "576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/103/0575-01"
+      ]
+    },
+    {
+      "cite": "831 A.2d 1006",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9090624
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1013"
+        },
+        {
+          "page": "1013"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/831/1006-01"
+      ]
+    },
+    {
+      "cite": "415 A.2d 1070",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7975127
+      ],
+      "pin_cites": [
+        {
+          "page": "1076"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/415/1070-01"
+      ]
+    },
+    {
+      "cite": "924 A.2d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8307941
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1045"
+        },
+        {
+          "page": "1045-6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/1040-01"
+      ]
+    },
+    {
+      "cite": "691 A.2d 1169",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11918683
+      ],
+      "pin_cites": [
+        {
+          "page": "1171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/691/1169-01"
+      ]
+    },
+    {
+      "cite": "742 A.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11501430
+      ],
+      "pin_cites": [
+        {
+          "page": "861"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/742/0856-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 564",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782964
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "569"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0564-01"
+      ]
+    },
+    {
+      "cite": "107 F.3d 32",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7635090,
+        3704277
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/107/-1544-01",
+        "/us-app-dc/323/0219-01"
+      ]
+    },
+    {
+      "cite": "323 U.S.App. D.C. 219",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3704277
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/323/0219-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11721238
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0056-01"
+      ]
+    },
+    {
+      "cite": "498 A.2d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7920961
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/498/1172-01"
+      ]
+    },
+    {
+      "cite": "843 A.2d 738",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9279857
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "742"
+        },
+        {
+          "page": "742"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/843/0738-01"
+      ]
+    },
+    {
+      "cite": "392 A.2d 1027",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8018320
+      ],
+      "pin_cites": [
+        {
+          "page": "1033"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/392/1027-01"
+      ]
+    },
+    {
+      "cite": "825 A.2d 939",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9117290
+      ],
+      "pin_cites": [
+        {
+          "page": "946"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/825/0939-01"
+      ]
+    },
+    {
+      "cite": "359 A.2d 8",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7966777
+      ],
+      "pin_cites": [
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/359/0008-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293519
+      ],
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/981/0610-01"
+      ]
+    },
+    {
+      "cite": "664 A.2d 1236",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7877125
+      ],
+      "pin_cites": [
+        {
+          "page": "1240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/664/1236-01"
+      ]
+    },
+    {
+      "cite": "881 A.2d 1087",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8924683
+      ],
+      "pin_cites": [
+        {
+          "page": "1094"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/881/1087-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 669",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294252
+      ],
+      "pin_cites": [
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/0669-01"
+      ]
+    },
+    {
+      "cite": "5 A.3d 653",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7288514
+      ],
+      "pin_cites": [
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/5/0653-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1617,
+    "char_count": 48869,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 2.2047434978559025e-07,
+      "percentile": 0.7755726299100836
+    },
+    "sha256": "dee024352fe880e491dca4705293735c15c7c574c819d184114c7c2fd7c7745b",
+    "simhash": "1:bf26fcf6457896f8",
+    "word_count": 7647
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, GLICKMAN, and BLACKBURNE-RIGSBY, Associate Judges."
+    ],
+    "parties": [
+      "Edward BALTIMORE, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "REID, Associate Judge:\nAppellants, several former residents of the Franklin School Men\u2019s Shelter (\u201cFranklin Shelter\u201d) and the Committee to Save Franklin Shelter (\u201cthe Committee\u201d) . (collectively \u201cappellants\u201d or \u201cplaintiffs\u201d), filed a complaint against the District of Columbia for declaratory and injunctive relief which alleged constitutional and statutory violations, negligence per se, and several tort claims. Consistent with the trial court\u2019s ruling, we hold that the District of Columbia Homeless Services Reform Act (\u201cthe HSRA\u201d) grants a homeless person or client a statutory entitlement to shelter in severe or frigid weather (as defined) but does not create a direct or implied entitlement to any other particular service. In addition, on this record, we do not discern denial by the District of any procedural rights to which appellants were entitled under the HSRA. We further conclude that a homeless person or client who receives medical or other services in the District from a provider does not have a protected property right or interest in those services grounded either in the Constitution or any District of Columbia statute; the exception is the statutory entitlement to shelter in severe or frigid weather. Finally, we agree with the trial court that appellants have not established legally viable claims for negligence per se, intentional infliction of emotional distress or conversion. Consequently, we conclude that the trial court did not err in granting summary judgment in favor of the District, nor did it err in denying other motions filed by appellants in the trial court. Hence, we affirm the judgment of the trial court.\nFACTUAL SUMMARY\nThe record reveals that the Franklin Shelter, which was located in the 900 block of 13th Street, in the Northwest quadrant of the District of Columbia, provided overnight accommodation for homeless males; the shelter was operated by Catholic Charities under a contract with the District government. Men were allowed to go through intake for the night\u2019s bed space starting at 4 p.m. They were required to leave at 7 a.m. the following morning. Although they could not stay at the Franklin Shelter during the day, they could leave personal belongings there in the footlockers.\nIn July 2008, the Council of the District of Columbia considered the closing of the Franklin Shelter. The shelter\u2019s staff conducted exit interviews with the residents on September 10, 2008. The Council approved the Franklin Shelter Closing Requirements Emergency Act of 2008 on September 16, 2008 (\u201cthe Shelter Closing Emergency Act\u201d), and the act was sent to the Mayor for signature.\nThe District closed the Franklin Shelter very early on the morning of September 26, 2008. Sometime in the afternoon on that same day, plaintiffs filed a complaint for declaratory and injunctive relief (Eric Sheptock v. Fenty, CAB6954-08). The Mayor signed the Shelter Closing Emergency Act into law on September 30, 2008. On September 30, and October 1, 2008, the trial court (the Honorable Stephanie Duncan-Peters) heard testimony on plaintiffs\u2019 motion for a temporary restraining order to preclude the closing of Franklin Shelter. Judge Duncan-Peters denied the motion, essentially because of her conclusion that the plaintiffs could not prevail on the merits of the lawsuit. The judge also determined that the Committee, an unincorporated association, did not have standing to sue.\nPlaintiffs voluntarily dismissed their complaint on October 21, 2008; however, they filed a second Complaint for Declaratory Judgment on October 22, 2008, and a Supplemental and Amended Complaint for Declaratory and Injunctive Relief on December 19, 2008 (Edward Baltimore v. District of Columbia, CAB7470-08). As the litigation unfolded and discovery proceeded, the parties filed numerous motions; these included the District\u2019s December 18, 2008 \u201cmotion to dismiss or in the alternative for summary judgment\u201d and its January 9, 2009 \u201cmotion to dismiss plaintiffs supplemental amended complaint for declaratory and injunctive relief or, in the alternative, for summary judgment.\u201d On February 3, 2009, the trial court held a hearing on the District\u2019s \u201cmotion to dismiss or in the alternative for summary judgment.\u201d Approximately one month after the hearing, plaintiffs filed their March 9, 2009 \u201cmotion to stay proceeding pending discovery and pending submission of federal claims in the United States District Court for the District of Columbia[,] or in the alternative[,] motion to amend complaint for preliminary and permanent injunction.\u201d\nOn May 11, 2009, the trial court resolved all of the outstanding motions. The trial court determined that (1) the plaintiffs\u2019 due process and takings claims failed because they were unable to establish a constitutionally protected right or interest in the continued operation of Franklin Shelter; (2) the Homeless Services Reform Act (\u201cHSRA\u201d) \u201cexpressly states that there is no entitlement to services except for shelter in severe weather pursuant to D.C.Code \u00a7 4-754.11(5)\u201d; (3) neither the HSRA nor the Frigid Temperature Protection Amendment Act (\u201cFrigid Temperature Act\u201d) mandate that the \u201cMayor ... provide specific shelter at a specific place\u201d; and (4) \u201cthe imminent closure was well known\u201d and since plaintiffs d[id] not have a constitutional right to shelter at the Franklin Shelter, there was no legal duty on the part of [the District] to provide notice and an opportunity to be heard before the actual closing.\u201d (Order at 6-7.)\nThe trial court further declared that the District did not violate the Shelter Closing Emergency Act which took effect on September 30, 2008, and expired on December 30, 2008, because (1) the Shelter Closing Emergency Act had not yet become law when Franklin Shelter closed on September 26, 2008; (2) it was no longer law when the February 3, 2009 hearing was held on the summary judgment motion; and that nevertheless, (3) the Mayor complied with the Shelter Closing Act\u2019s reporting requirement when it became law on September 30, 2008. (Order at 8.)\nWith respect to plaintiffs\u2019 tort claims, the trial court ruled that the claims for conversion and intentional infliction of emotional distress (\u201cIIED\u201d) failed. The conversion claim failed because the belongings of the men who slept at Franklin Shelter \u201cwere made available for [them] to pick up and at no time were converted to the public\u2019s use or benefit.\u201d The judge noted that the vast majority of footlockers transported from Franklin Shelter to the 801 East Shelter had been claimed, that \u201cthe District ha[d] not disposed of the property, and that presumably [the men] who ha[d] not already done so may still claim their property.\u201d Furthermore, the notice posted to Franklin Shelter on September 26, 2008, the day the shelter was closed, provided a telephone contact number if a person needed transportation to the 801 East Shelter. Franklin Shelter staff also stood outside the shelter on September 27, 2008 through October 4, 2008 (during regular intake hours) \u201cto inform residents of the closure, the location of their belongings, and [to] provide transport to retrieve them belongings.\u201d (Order at 9.) Regarding the IIED claim, the judge declared that plaintiffs \u201c[could not] establish, as a matter of law, [the element of] outrageous conduct\u201d because the District lawfully closed Franklin Shelter. The court found no evidence demonstrating that the District caused personal documents of men housed at the shelter to be \u201cabandoned\u201d outside Franklin Shelter. (Order at 10-13).\nANALYSIS\nAppellants essentially raise statutory and constitutional issues, negligence per se, and common law claims relating to the closing of the Franklin Shelter. Legal questions, including those relating to the grant of summary judgment, are subject to de novo review. See Sears v. Catholic Archdiocese of Washington, 5 A.3d 653, 657 (D.C.2010); Andrade-Sorto v. Allstate Ins. Co., 982 A.2d 669, 670 (D.C.2009). \u201c \u2018Summary judgment is properly granted only if there are no genuine issues of material fact in dispute and if the moving party is entitled to judgment as a matter of law.\u2019 \u201d New Econ. Capital, L.L.C. v. New Mkts. Capital Grp., 881 A.2d 1087, 1094 (D.C.2005) (quoting Jack Baker, Inc. v. Office Space Dev. Corp., 664 A.2d 1236, 1240 (D.C.1995)). \u201cWe review the trial court\u2019s grant of summary judgment de novo.\u201d Allen v. Schultheiss, 981 A.2d 610, 614 (D.C.2009) (citation omitted).\n\u201cIn construing a statute the primary rule is to ascertain and give effect to legislative intent and to give legislative words their natural meaning.\u201d Banks v. United States, 359 A.2d 8, 10 (D.C.1976) (internal quotation marks and citation omitted). \u201cStatutory interpretation is a holistic endeavor, and, at a minimum, must account for a statute\u2019s full text, language as well as punctuation, structure, and subject matter.\u201d Cook v. Edgewood Mgmt. Corp., 825 A.2d 939, 946 (D.C.2003) (internal quotation marks and citation omitted). Words \u201care inexact tools at best and for that reason there is wisely no rule of law forbidding resort to explanatory legislative history no matter how clear the words may appear on superficial examination.\u201d Citizens Ass\u2019n of Georgetown v. Zoning Comm\u2019n of the District of Columbia, 392 A.2d 1027, 1033 (D.C.1978) (citation omitted). \u201cIf related statutes conflict, we must reconcile them.\u201d Abadie v. District of Columbia Contract Appeals Bd., 843 A.2d 738, 742 (D.C.2004) (citing Gonzalez v. United States, 498 A.2d 1172, 1174 (D.C.1985)).\nThe Statutory Claims\nHomeless Services Reform Act of 2005\nIn essence, appellants contend that the District violated the HSRA by not providing certain services to homeless men who slept in the Franklin Shelter, a low barrier facility, and by denying them certain procedural rights to which they were entitled under the HSRA before the closing of the shelter. They claim that \u201c[t]he [s]helter\u2019s closure occurred without properly assessing the needs for shelter, without adequately informing the public or the Council, without adequate public hearings, and without properly determining how these heretofore unassessed needs are to be adequately provided.\u201d Moreover, they assert that \u201c[a]s a result of the District\u2019s actions many in need of mental health, health care and other related services have suddenly been deprived of mental and medical health care services, ... and now sleep in the wet and cold in the downtown area.\u201d\nWe have not previously considered or interpreted the HSRA. Therefore, we begin by summarizing the statutory provisions. By enacting the HSRA, the Council of the District of Columbia sought to implement the concept of \u201ccontinuum of care\u201d to address the problem of homelessness in the District of Columbia. The statute defines \u201ccontinuum of care\u201d as \u201cthe comprehensive system of services for individuals and families who are homeless or at imminent risk of becoming homeless and designed to serve clients based on their individual level of need.\u201d D.C.Code \u00a7 4-751.01(8) (2008 Repl.). The continuum of care \u201cmay include crisis intervention, outreach and assessment services, shelter, transitional housing, permanent supportive housing, and supportive services.\u201d Id. However, \u00a7 4-755.01(a) specifies that there is no statutory entitlement to these services, except for severe weather shelter.\nSubchapter III of the HSRA details services within the continuum of care and eligibility for those services. D.C.Code \u00a7\u00a7 4-753.01 and 4-753.02. The basic service concept is found in \u00a7 4-753.01(a):\nThe District\u2019s provision of homeless services shall be based on a Continuum of Care that offers a comprehensive range of services through various member agencies and is designed to meet the specific, assessed needs of individuals and families who are homeless or at imminent risk of becoming homeless. The District shall respond to the changing needs of individuals and families by ensuring that transfer between and among services within the Continuum of Care is fluid and allows clients to modify the intensity of services they receive to meet their needs, preferences, and changing circumstances.\nThe severe or frigid weather requirement was incorporated into the HSRA. Section 4-753.01(c) provides:\n(c) Whenever the actual or forecasted temperature, including the wind chill factor, falls below 32 degrees Fahrenheit, or whenever the actual or forecast-ed temperature or heat index rises above 95 degrees Fahrenheit, the District shall make available appropriate space in District of Columbia public or private buildings and facilities for any person in the District who is homeless and cannot access other shelter. In doing so, the District shall not use District of Columbia Public School buildings currently being used for educational purposes without the prior approval of the Board of Education.\nSubchapter IV of the HSRA contains provisions pertaining to rights and responsibilities of those receiving provider services, standards and requirements for those providing services, and administrative hearings and reviews. Client rights, which appear in Part B of Subchapter IV of the HSRA, include \u201c[tjimely notice, where required by \u00a7 4-754.33, of any decision of the Department [of Human Services] or a provider that adversely affects the client\u2019s receipt of services within the Continuum of Care.\u201d D.C.Code \u00a7 4-754.33(b) specifies, in part: \u201cAll providers shall give to any client to whom they have denied services oral and written notice of the right to appeal the denial.... \u201d And, \u00a7 4-754.33(c) states, in part: \u201cAll providers shall give written and oral notice to clients of their transfer to another provider ... at least 15 days prior to the effective date of the transfer.... \u201d Section 4-754.34 governs the transfer of clients, and \u00a7 4-754.34(a) specifies:\n(a) A provider may transfer a client to another provider to ensure the client receives the most appropriate services available within the Continuum of Care whenever:\n(1) The client consents to the transfer; or\n(2) The provider identifies and secures for the client a placement with another provider that more appropriately meets the client\u2019s medical, mental health, behavioral, or rehabilitative service needs in accordance with the client\u2019s service plan.\nSection 4-754.34(b) states, in part:\n(b) In addition to the circumstances under which a client may be transferred as described in subsection (a) of this section, a provider may transfer a client when a client fails or refuses to comply with the provider\u2019s Program Rules and the client responsibilities listed in \u00a7 4-754.13, or engages in any of the behaviors listed in \u00a7 4-756.36(2)....\nPart C of Subchapter IV contains standards applicable to providers who operate programs for the homeless within the Continuum of Care. Standards common to all providers are found in \u00a7 4-754.21 and include the requirement that providers \u201c[cjollaborate and coordinate with other service providers to meet the client\u2019s needs, as deemed appropriate by the provider and the client\u201d (\u00a7 4-754.21(4)). The HSRA includes additional standards for those providing \u201csevere weather shelter,\u201d \u201clow barrier shelter,\u201d and \u201ctemporary shelter and supportive housing.\u201d\nPart E of Subchapter IV contains provisions relating to hearings and administrative reviews. Under certain enumerated circumstances, a client may request a fair hearing under D.C.Code \u00a7 4-754.41 to appeal administrative review or provider decisions. Under D.C.Code \u00a7 4-754.42, the Department of Human Services has the right to review the decision that will be the subject of a fair hearing.\nIn examining the record before us, which contains a plethora of documents, including numerous articles and newspaper clippings, it is difficult to discern appellants\u2019 precise contentions on appeal regarding the District\u2019s alleged violations of specific provisions of the HSRA. In their supplemental and amended complaint, plaintiffs alleged violations of D.C.Code \u00a7\u00a7 4-754.11, .12, .21, .22, .24, .33, .41, and .42. During the February 3, 2009 hearing on the District\u2019s motion to dismiss or for summary judgment, the trial judge endeavored to pinpoint the provisions of the HSRA on which plaintiffs relied in seeking relief under the HSRA, that is, as plaintiffs\u2019 counsel puts it, \u201cto restore services\u201d \u2014 \u201cthe abundance of services that were provided to inhabitants of Franklin Shelter, including mental health counseling, psychiatric matching, psychiatric services, employment services, information about how handicap can access mass transit, information about day labor situations downtown.\u201d Plaintiffs emphasized services in the downtown area, and the individual\u2019s right to a hearing. In response to the judge\u2019s inquiry, counsel for plaintiffs referenced \u00a7\u00a7 4-754.11 through 4-754.39, and said that she would \u201cpin cite 4-743.33(c) [sic], ... 754.11 ...[,] [and] 754.41(d).\u201d Later, she also focused on the District\u2019s alleged violation of \u00a7 4-754.23 regarding case management services for low barrier shelters. On appeal, appellant\u2019s HSRA arguments range widely and generally over several HSRA provisions, but appear to center on \u00a7 4-753.01, \u00a7 4-754.11(15) which cross references \u00a7 4-754.33 which cross references \u00a7\u00a7 4-754.41 and .42; \u00a7 4-754.21, .22, and .23; and \u00a7\u00a7 4-754.34 and .35.\nWe concentrate first on appellants\u2019 argument that the District deprived the men who stayed at Franklin Shelter of \u201cmental and medical health care services,\u201d and that \u201conce services are being provided under the HSRA, the District is obliged to comply with the act, especially concerning the abrupt removal of services for a vulnerable population.\u201d Because there are potential ambiguities in the sections of the HSRA which pertain to services to the homeless, we must construe several provisions together (\u00a7\u00a7 4-753.01, 4-754.21, .22, .23, and 4-755.01) and reconcile them in order to determine what, if any, services mentioned in the HSRA constitute statutory entitlements. Abadie, supra, 843 A.2d at 742.\nWe do not read \u00a7\u00a7 4-753.01(a) and (b) as a statutory entitlement to services. Rather, \u00a7 4-753.01(a) describes the \u201ccomprehensive range of services\u201d that a provider may offer to the homeless as part of the District\u2019s commitment to a continuum of care. Indeed, \u00a7 4-753.01(b) specifies that \u201c[t]he Continuum of Care may include \u201d (emphasis added) five different types of services, including \u201coutreach and assessment.\u201d However, there is one clear statutory entitlement embodied in \u00a7 4-753.01(c), and that is the right to \u201cappropriate space in District of Columbia public or private buildings and facilities\u201d for a homeless person \u201cwho cannot access other shelter\u201d \u201c[w]henever the actual or fore-casted temperature, including the wind chill factor, falls below 32 degrees Fahrenheit, or whenever the actual or forecasted temperature or heat index rises above 95 degrees Fahrenheit.\u201d\nIn addition to \u00a7 4-753.01, we must examine other sections of the HSRA, particularly those pertaining to providers, to determine whether there is any other statutory entitlement. There is some ambiguity in \u00a7\u00a7 4-754.21, .22, and .23 because of the use of words that may convey different meanings: \u201cstandards\u201d compared with \u201crequirements\u201d and \u201cshall\u201d or \u201cshall provide.\u201d The section by section discussion in the Council\u2019s Committee Report on the HSRA legislation uses the word \u201cstandards\u201d in describing \u00a7 4-754.21 (\u201csection 12 outlines common standards for all providers including .... \u201d); \u00a7 4-754.22 (\u201csection 13 outlines additional standards for providers of severe weather shelter including-\u201d); and \u00a7 4-754.23 (\u201csection 14 outlines additional standards for low barrier shelters, which include the offer of case management services.... \u201d). In context, the word \u201cstandards\u201d suggests norms or what is acceptable or desirable, not a statutory entitlement. Nevertheless, each of these sections also uses the word \u201cshall\u201d or the words \u201cshall provide.\u201d However, when these sections, as well as \u00a7 4-753.01, are read together with \u00a7 4-755.01, it is clear that there is only one statutory entitlement conveyed by the act, and that is shelter in severe or frigid weather. Section 4-755.01(a) unambiguously states: \u201cNo provision of this chapter shall be construed to create an entitlement (either direct or implied) on the part of any individual or family to any services within the Continuum of Care, other than shelter in severe weather conditions as authorized by \u00a7 4-754.11(5)\u201d (\u201cClients served within the Continuum of Care shall have the right to shelter in severe weather conditions.\u201d). Hence, while the Continuum of Care with its range of comprehensive services is designed to guide providers as they address the needs of homeless individuals and families and those at imminent risk of homelessness, the continuum of care is not a statutory entitlement, except with respect to shelter in severe or frigid weather.\nWith respect to the right to shelter in severe weather, our review of the record, particularly the written declarations of men who slept at the Franklin Shelter prior to its closing, has not revealed any specific complaint about the denial of other shelter during severe weather conditions. In contrast, the declaration of Fred Swan, an administrator of the Department of Human Services\u2019 (\u201cDHS\u201d) Homeless Services Program, stated that DHS provided funds for the Center for Creative Non-Violence (\u201cCCNV\u201d), located in the downtown area, to operate 700 temporary beds and an additional 183 emergency/hypothermia beds for men during the winter season. Furthermore, the District operates a Shelter Hotline 24 hours a day during hypothermia season and men may request transportation to a shelter.\nWe now turn our attention to appellants\u2019 arguments concerning the alleged denial of procedural rights under the HSRA. These arguments require us to consider other sections of the HSRA pertaining to client rights, transfer of clients, suspension and termination of services, and administrative hearings and reviews. Appellants complain that under \u00a7 4-754.11(15) (located in the section on client rights), the District denied them timely notice of the Franklin Shelter\u2019s closing, and a fair hearing pursuant to \u00a7 4-754.41.\nSection 4-754.11(15) mandates timely notice only \u201cwhere required by \u00a7 4-754.33.\u201d Section 4-754.33 contains two pertinent subsections \u2014 (b) concerning the denial of services by a provider and (c) relating to the transfer, suspension or termination of services as a sanction. There is some ambiguity surrounding the word \u201ctransfer.\u201d The plain words of \u00a7 4-754.34(a) indicate that \u201c[]a provider may transfer a client to another provider ...\u201d even though the client manifests no behavioral problem. However, HSRA\u2019s legislative history as well as \u00a7\u00a7 4-754.33(c)(l) and (2) associate a transfer with a sanction or a denial of services, as evidenced by the required content of the notice. The discussion of \u00a7 19, the notice provision \u2014 \u00a7 4-754.11(15) \u2014 in the legislative history states that \u201cNotice shall include [a] clear statement of sanction or denial; [a] detailed statement of the factual basis and the dates that this factual basis occurred; [and a] reference to the statute pursuant to the sanction or denial....\u201d Committee Report at 8. At any rate, we do not interpret \u00a7 4-754.34(a) as granting to the client a pre-transfer right to a fair hearing since this particular subsection, which uses the words \u201cmay transfer,\u201d imposes no obligation on the provider to transfer a client to another program in the event its facility is scheduled for closing.\nFurthermore, as the trial court recognized, \u00a7 4-754.36 regarding termination of services, and \u00a7 4-754.35 involving suspension of services (which cross references 4-754.36), highlight misconduct and prohibited behavior such as possessing a weapon, possessing or selling drugs, assaulting a person, endangering the client\u2019s safety or that of others, and repeatedly violating a provider\u2019s program rules. Section 4-754.36(2)(A) through (G). The Committee Report appears to confirm this interpretation of these sections by asserting that \u00a7 19 (D.C.Code \u00a7 4-754.36) \u201cdescribes the grounds for termination of services to a client, only after attempts to transfer or suspend the client, and the client [possesses a weapon on the premises.... \u201d Committee Report at 9. On this record we discern neither a termination of services to the men in the Franklin Shelter, nor any charge of misconduct or bad behavior on the part of any of the clients that would require notice before a transfer to another program under \u00a7 4-754.34(b).\nMoreover, even assuming termination of services or misconduct or bad behavior on the part of one or more of the clients, on the record before us, we would be satisfied that the District provided timely notice of the Franklin Center\u2019s closing. Attached to the District\u2019s motion to dismiss supplemental and amended complaint are exit interview forms for several of the plaintiffs. These forms are dated September 10, 2008 and Terry Huff, Eric Sheptock, Djuan Bean, and Tommy Bennett answered yes to the question, \u201cHave you been informed that Franklin Shelter will close on October 1, 2008?\u201d Although Edward Baltimore, Lewis Cannao, and Kevin Gallon answered the question in the negative, they all received notice at least as of September 10, 2008 which met the fifteen-day notice required by \u00a7 4-754.33(c). Moreover, Mr. Swan\u2019s supplemental declaration, filed on February 17, 2009, in response to specific questions by Judge Hedge, indicates that the residents of Franklin Shelter were informed orally at a meeting in July 2008 that the shelter would close by October 1, 2008. In addition, flyers were posted on the doors of the shelter on September 27, 2008 informing the residents where they could pick up their belongings if they left them in the shelter, and as Judge Hedge found, staff members were stationed outside the shelter from September 27, 2008 through October 4, 2008, from about 4-6 p.m. to assist former residents with the retrieval of their belongings. Among those who picked up their belongings from another shelter were Edward Baltimore, Terry Huff, and Eric Sheptock. Furthermore, we see no indication in the record that any of the appellants ever requested a fair hearing pursuant to \u00a7 4-754.41. Consequently, even assuming the applicability of the procedural provisions, we are convinced that appellants would not prevail on their HSRA contentions.\nFranklin Center Closing Requirements Emergency Act of 2008\nAppellants contend in Count VI of their complaint that the District \u201cis liable for violating the Franklin Shelter Closing Requirements Emergency Act of 2008.\u201d Section 3(a) of that Act stated, in part: \u201cPrior to closing of the Franklin Shelter, ... the Mayor shall certify to the Council that no fewer than 300 men have been placed in supportive-housing units and submit the certification to the Council along with a report on the proposed Franklin Shelter that includes\u201d information identified in \u00a7 3(a)(1) through (6). The emergency act is silent as to any requirement if the Franklin Shelter closed before the act became law. On appeal appellants essentially argue that the May- or has never complied with the emergency act and that the September 30, 2008 \u201cReport on Supportive Housing Placements and Emergency Shelter Capacity in the District of Columbia,\u201d which the District sent to the Council, did not meet the requirements of the emergency act. But, as Judge Hedge properly found the emergency act \u201cwas not law when the Mayor authorized the closure of the Franklin Shelter,\u201d and hence, \u201c[t]he Mayor, and by extension the District, were not required to abide by what was only a bill at the time.\u201d We conclude that appellants cannot prevail on Count VI of their complaint.\nThe Constitutional Claims Due Process\nCount I of appellants\u2019 complaint alleges a due process cause of action. They claim a \u201cconstitutional right to [d]ue [p]roeess\u201d on the ground that the District \u201cfail[ed] to provide a proper notice and a fair hearing before denial of their property and liberty interests in remaining in the shelter and having access to services.\u201d Their due process claim also is based on their assertion that the District \u201cfail[ed] to provide notice and a fair hearing before depriving them of their belongings and personal property.\u201d\nIn order to prevail on their due process claim appellants must establish either a right to shelter traceable to the Constitution, or a right grounded in statute which is protected by the Fifth Amendment Due Process Clause. The first avenue was foreclosed in Lindsey v. Normet when the Supreme Court declared: \u201cWe do not denigrate the importance of decent, safe, and sanitary housing[,] [b]ut ... [w]e are unable to perceive in [the Constitution] any constitutional guarantee of access to dwellings of a particular quality ...\u201d and \u201c[a]bsent constitutional mandate, the assurance of adequate housing ... [is a] legislative, not judicial, functionf ].\u201d 405 U.S. 56, 74, 92 S.Ct. 862, 31 L.Ed.2d 36 (1972). The second avenue requires a statutory entitlement. As the court explained in Washington Legal Clinic for the Homeless v. Barry, 323 U.S.App. D.C. 219, 223, 107 F.3d 32, 36 (1997):\nThe Fifth Amendment\u2019s Due Process Clause prohibits the District of Columbia from depriving persons of property, without due process of law. Individuals are entitled to due process, however, only if they have a constitutionally protected property interest. To have a property interest in a government benefit, a person clearly must have more than an abstract need or desire for [the benefit]. He must have more than a unilateral expectation of it. He must, instead, have a legitimate claim of entitlement to it. Entitlements derive from an independent source such as state law, i.e., statutes or regulations that secure certain benefits and that support claims or entitlements to those benefits.\nId. at 36 (citing Board of Regents v. Roth, 408 U.S. 564, 569, 92 S.Ct. 2701, 33 L.Ed.2d 548 (1972)) (other citations and internal quotation marks omitted). We have established above that except for the right to shelter in severe or frigid weather, which is not at issue in this case, the District\u2019s legislature has not created a statutory entitlement to nor a protected property right or interest in shelter or shelter services. See D.C.Code \u00a7 4-755.01(a). Nor has the District\u2019s legislature established a statutory right of the homeless in the HSRA to a hearing before a shelter is closed. Consequently we discern no error in Judge Hedge\u2019s rejection of appellants\u2019 due process claim.\nThe Tort Claims\nIntentional Infliction of Emotional Distress\nIn Count III of their complaint, appellants allege intentional infliction of emotional distress (\u201cIIED\u201d) due to the closing of the Franklin Shelter. \u201cTo prove a claim of IIED, \u2018a plaintiff must show (1) extreme and outrageous conduct on the part of the defendant which (2) intentionally or recklessly (3) causes the plaintiff severe emotional distress.\u2019 \u201d Kitt v. Capital Concerts, Inc., 742 A.2d 856, 861 (D.C.1999) (quoting Crowley v. North Am. Telecomms. Ass\u2019n, 691 A.2d 1169, 1171 (D.C.1997)) (citations omitted); Kotsch v. District of Columbia, 924 A.2d 1040, 1045 (D.C.2007) (citing Waldon v. Covington, 415 A.2d 1070, 1076 (D.C.1980)). Regarding the first element, \u201c[[liability has been found only where the conduct has been so outrageous in character, and so extreme in degree, as to go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community.\u201d Kotsch v. District of Columbia, 924 A.2d 1040, 1045-6 (D.C.2007) (quoting Restatement (Second) of Torts \u00a7 46, cmt. D (1965)) (alteration in original). The record does not show that appellants can satisfy the element of extreme and outrageous conduct. To the contrary, the record reveals that the District attempted to close the shelter in a methodical manner. On April 2, 2008, the Mayor publicly announced that the Franklin Shelter would be closed. From that date until September 26, the beds in the shelter were gradually reduced as clients were assisted in locating alternative shelters. Many clients, including several of the appellants, participated in exit interviews conducted to assure awareness of the upcoming closure and to provide transitional assistance. On the morning of the closure, clients gathered their things and then the District, at the clients\u2019 requests, transported footlockers filled with personal belongings to the 801 East Shelter. And, after the closure, the District provided transportation to and from downtown and other shelters, including 801 East Shelter. To the extent that appellants rely on the documents found outside Franklin Shelter for their claim of IIED, they speculate and make conclusory statements but do not provide any credible evidence that shows (1) the District discarded the documents, or (2) the manner of the discarding constituted extreme and outrageous conduct by the District, or (3) the discarded documents caused them severe emotional distress. For the foregoing reasons, appellants\u2019 claim for IIED fails as a matter of law.\nConversion\nIn Count IV, appellants allege that the District \u201cis liable to plaintiffs for conversion where their personal belongings were intentionally taken from [them], and not returned.\u201d \u201cThe tort of conversion involves \u2018an unlawful exercise of ownership, dominion, and control over the personalty of another in denial or repudiation of his right to such property.\u2019 \u201d Dennis v. Edwards, 831 A.2d 1006, 1013 (D.C.2003) (citations omitted). The parties agree that appellants either willingly consented to the transport of their personal belongings in a footlocker or opted to assume responsibility for them. With respect to the footlockers, it is undisputed that the District did not \u201cunlawful[l]y exercise ... ownership, dominion and control over the personalty of [appellants] in denial or repudiation of [their] right[s] to such property.\u201d Dennis, 831 A.2d at 1013. The items lost or left behind rather than being placed in footlockers constituted abandoned property and appellants correctly state that a conversion claim cannot be grounded on abandoned property. See, e.g., Block v. Fisher, 103 A.2d 575, 576 (D.C.1954) (\u201cAbandonment of personal property is a complete defense to an action for conversion.\u201d). Furthermore, appellants fail to show that there was an \u201cunlawful exercise of ownership, dominion and control\u201d by the District and therefore their conversion claim fails.\nAccordingly, for the foregoing reasons, we affirm the judgment of the trial court.\nSo ordered.\n. Counsel for appellants identifies the individual parties to this appeal as Edward Baltimore, Terry Huff, and Eric Sheptock.\n. In their reply brief, appellants contend that \"Superior Court erroneously denied associational standing for the Committee to Save Franklin Shelter and they cite to the decision made by Judge Duncan-Peters during consideration of plaintiffs\u2019 first complaint pertaining to this matter on October 1, 2008. That complaint was voluntarily dismissed. The question of the Committee\u2019s standing in the case before us was not properly preserved in the trial court, and indeed that issue was not discussed in appellants\u2019 main brief in this case. After Judge Hedge declared during the February 3, 2009 hearing in this case that \"whether or not the association\u201d had standing, \"it certainly seems that [the individual plaintiffs] would have standing,\u201d and rejected the District\u2019s standing argument, plaintiffs did not press their contention about the Committee\u2019s standing. Therefore the issue of the Committee's standing has been waived.\n. The complaint contained six causes of action, and the supplemental and amended complaint added two other causes of action.\n. The Committee opposed the motion on January 5, 2009.\n. The District opposed this motion on March 25, 2009, and the Committee filed a reply on April 1, 2009.\n. The trial court granted the District\u2019s \u201cmotion to dismiss plaintiffs\u2019 supplemental amended complaint for declaratory and in-junctive relief or, in the alternative, for summary judgment\u201d and denied as moot the District\u2019s \u201cmotion to dismiss, or in the alternative, for summary judgment.\u201d The court either denied or denied as moot all of plaintiffs\u2019 pending motions: those relating to discovery or filing documents under seal, those pertaining to preliminary and permanent in-junctive relief and in forma pauperis status, and \"the motion to stay proceeding pending discovery and pending submission of federal claims in the United States District Court for the District of Columbia.\u201d\n. The HSRA was intended to \"support the vision\u201d of the District's 2005 \"Homeless No More Strategic Plan for Ending Homelessness in Washington, D.C. by 2014.\u201d Council of the District of Columbia, Committee on Human Services, Report on Bill 16-103, \u201cHomeless Services Reform Act of 2005,\u201d April 21, 2005 (\"Committee Report on HSRA\u201d), at 1-2.\n. D.C.Code \u00a7 4-755.01(a) (2008 Repl.) states: No provision of this chapter shall be construed to create an entitlement (either direct or implied) on the part of any individual or family to any services within the Continuum of Care, other than shelter in severe weather conditions as authorized by \u00a7 4-754.11(5).\n.Section 32(c) of the HSRA repealed the Frigid Temperature Protection Amendment Act of 1988.\n. D.C.Code \u00a7 4-754.11(15); \u00a7 4-754.11 pertains to rights of clients who are \"served within the Continuum of Care.\u201d Section 4-754.12 covers the rights of \"[c]lients residing in temporary shelter or supportive housing\u201d such as the right to receive visitors during specified hours and in designated places (\u00a7 4~ 754.12(1)) and the right to \"[rjeasonable privacy in caring for personal needs and in maintaining personal living quarters\u201d (\u00a7 4-754.12(5)). Section 4\u2014754.13 outlines the responsibilities of clients such as looking for employment or educational opportunities (\u00a7 4-754.13(2)).\n. Providers of low barrier shelter, such as Franldin Shelter, must \"provide: (1) [c]ase management services with an appropriately trained, qualified, and supervised case manager, which shall include the development of a service plan; (2) [h]ot shower facilities; and (3) [p]ersonal hygiene supplies.\u201d D.C.Code \u00a7 4-754.23. Severe weather shelter provider standards appear in \u00a7 4-754.22, and severe weather shelter is defined as \"hyperthermia shelter or hypothermia shelter\u201d (\u00a7 4-751.01(36)). Those governing temporary shelter and supportive housing are located in \u00a7 4-754.24. Temporary shelter does not include a low barrier shelter (\u00a7 4-751.01(40)); a low barrier shelter is defined as \"an overnight housing accommodation for individuals who are homeless, provided directly by, or through contract with or grant from, the District, for the purpose of providing shelter to individuals without imposition of identification, time limits, or other program requirements\u201d (\u00a7 4-751.01(26)).\n. D.C.Code \u00a7 4-754.41 provides, in part:\n(a) The Office of Administrative Hearings shall grant a fair hearing to any client or client representative who wishes to appeal a decision listed in subsection (b) of this section and who requests such a hearing, orally or in writing, within 90 days of receiving written notice of the adverse action. A request for a fair hearing shall be made to the client\u2019s provider, the Department, the Mayor, or the Mayor\u2019s designee. If the request is made orally, the individual receiving the request shall promptly acknowledge the request, reduce it to writing, and file the request for a fair hearing with the Office of Administrative Hearings.\n(b) A client or client representative may request a fair hearing to:\n(1) Appeal an administrative review decision made pursuant to \u00a7 4-754.42;\n(2) Review any decision of a provider of services, other than shelter or supportive housing, to:\n(A) Transfer the client to another provider;\n(B) Suspend provision of services to the client for a period longer than 10 days; or\n(C) Terminate services to the client; or (3) Obtain any legally available and practicable remedy for any alleged violation of:\n(A) The provider standards listed in \u00a7\u00a7 4-7512.2-4-754.25; or\n(B) The client rights listed in \u00a7\u00a7 4-754.11 and 4-754.12, including the denial of a request by an individual with a disability for a reasonable accommodation or modification of policies or practices.\n(d) In accordance with \u00a7 4-754.11(18), any client who requests a fair hearing within 15 days of receipt of written notice of a suspension or termination of shelter or supportive housing shall continue to receive shelter or supportive housing pending a final decision from the fair hearing proceedings. This right to continuation of shelter or supportive housing pending appeal shall not apply in the case of an emergency suspension or termination pursuant to \u00a7 4-754.38.\n(e) Upon receipt of a fair hearing request, the Mayor or the Mayor's designee shall offer the client or client representative an opportunity for an administrative review by the Department of the decision that is the subject of the fair hearing request.\n. D.C.Code 4-754.42 states, in part:\n(a) The purpose of the administrative review shall be to enable the Department to ascertain the legal validity of the decision that is the subject of the fair hearing request, and, if possible, achieve an informal resolution of the appeal.\n(b) Any administrative review conducted pursuant to subsection (a) of this section shall be completed within 15 days of the receipt of the administrative review request, except upon showing of good cause as to why such deadline cannot be met. If good cause is shown, a decision shall be rendered as soon as possible thereafter. If an extension of time for review is required for good cause, written notice of the extension shall be provided to the client or client representative prior to the commencement of the extension.\n(c) An administrative review must be completed before the Office of Administrative Hearings shall grant a fair hearing to any client or client representative.\nD.C.Code \u00a7 4-754.42\n. D.C.Code \u00a7 4-754.22 reads:\nIn addition to the standards in \u00a7 4-754.21, providers of severe weather shelter shall provide:\n(1) When severe weather conditions continue overnight, a clean bed with clean linens, pad, and blanket for each bed;\n(2) Basic needs, such as food and clothing and other supportive services, or informa-lion about where to obtain such basic needs and supportive services;\n(3) 24-hour, properly functioning toilet facilities;\n(4) Cool water, available via water cooler, fountain, or other means; and\n(5) Properly functioning heating and cooling systems during the appropriate seasons.\n. D.C.Code 4-754.23 states:\nIn addition to the requirements in \u00a7\u00a7 4-754.21 and 4-754.22, providers of low barrier shelter shall provide:\n(1) Case management services with an appropriately trained, qualified, and supervised case manager, which shall include the development of a service plan;\n(2) Hot shower facilities; and\n(3) Personal hygiene supplies.\n. D.C.Code \u00a7 4-754.21 provides, in part:\nProviders shall: ...\n(2) Maintain safe, clean, and sanitary facilities that meet all applicable District health, sanitation, fire, building, and zoning codes;\n(3) Assist clients to prepare for living in permanent housing, as deemed appropriate by the provider and the client;....\n. The right to space and a bed during severe or frigid conditions is also reflected in \u00a7 4-753.01(c), discussed above, and \u00a7 4-754.22(1) (\"providers of severe weather shelter shall provide ... [w]hen severe weather conditions continue overnight, a clean bed with clean linens, pad, and blanket for each bed\u201d).\n. We offer no opinion as to whether a contract between tire providers of homeless services and the District would create contractual rights in the homeless as third party beneficiaries, or whether the contract would give the District the right to enforce HSRA statutory provisions relating to providers.\n. Appellants\u2019 Appendix contains over forty declarations from men who received services from the Franklin Shelter; the names of the men were redacted after the trial court denied appellants' motion to file the declarations under seal. Many of the declarations show that men were able to obtain shelter at other shelters \u2014 Adams Place, La Casa, and New York Avenue. Men complained about transportation difficulties in accessing the 801 East Shelter in the Southeast quadrant of the District.\n. The declaration of Mr. Swan was attached to the District\u2019s motion to dismiss supplemental and amended complaint for declaratory and injunctive relief or, in the alternative, for summary judgment.\n. One of the documents attached to Mr. Swan\u2019s declaration was the 2008-2009 Winter Plan, developed by the Interagency Council on Homelessness, see D.C.Code \u00a7\u00a7 4-752.01, .02, and .03; the Winter Plan not only detailed the need for hypothermia services, but also the types of shelters available and their locations, as well as transportation schedules.\n. Count II of appellants' complaint contains another constitutional claim. They allege that the District \"is liable for violation ... of [their] constitutional right to just compensation for the taking of their belongings and personal property.\u201d The pertinent part of the Fifth Amendment states: \"[N]or shall private property be taken for public use without just compensation.\u201d Appellants\u2019 argue that under Kelo v. City of New London, 545 U.S. 469, 125 S.Ct. 2655, 162 L.Ed.2d 439 (2005), their personal possessions were taken for public use \"in order to clear the [Franklin Shelter] because of its alleged uninhabitability.\u201d Kelo was an eminent domain case concerning a challenge of nine landowners to the taking of their property by the City of New London as part of an economic development plan that included certain authorization by the local city council. In rejecting the landowners' challenge, the Court acknowledged that its prior cases had defined public purpose \"broadly, reflecting [the Court\u2019s] longstanding policy of deference to legislative judgments in this field.\u201d 545 U.S. at 480, 125 S.Ct. 2655. The situation here is not comparable to Kelo; this is not an eminent domain case, and there has been no legislative approval or authorization of any plan requiring the taking of the possessions of any of the plaintiffs for the public purpose of renovating the Franklin School. Moreover, although some of the declarations of the men who resided at the Franklin Shelter assert that they lost belongings, we see no evidence in the record that their personal belongings were taken at all by the District, let alone taken for public use. Mr. Swan's declaration shows that the District took steps to safeguard possessions that were left in the shelter and to transport them to another shelter. Under these circumstances, appellants cannot prevail on their contention that their personal belongings were taken for public use.\n. Appellants take issue with the trial court\u2019s denial of their motion to stay the proceedings in this action pending discovery and the submission of federal claims in the United States District Court for the District of Columbia. We are convinced that the trial court did not abuse its discretion in denying the motion. At the time they filed their motion, appellants already had lodged and subsequently voluntarily dismissed one complaint regarding the issues before us, and in the midst of the trial court\u2019s consideration of its second complaint, appellants decided the federal court would be a better forum for causes of action pertaining to two federal statutes, the Americans With Disabilities Act (\"ADA\u201d) and the Fair Housing Act (\"FHA\u201d), along with an additional District statute, the District of Columbia Human Rights Act (\"DCHRA\u201d). These causes of action could have been filed in the instant action and appellants offer no persuasive reason why they were not. See Yellow Freight System v. Donnelly, 494 U.S. 820, 823, 110 S.Ct. 1566, 108 L.Ed.2d 834 (1990) (\"State courts ... are ... presumptively competent to adjudicate claims arising under the laws of the United States.\u201d) (citations omitted). Moreover, plaintiffs could have filed a motion in Superior Court under Super. Ct. Civ. R. 56(f) to the extent they believed discovery was necessary to oppose the District\u2019s motion to dismiss or in the alternative for summary judgment.",
+        "type": "majority",
+        "author": "REID, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Jane Zara, for appellant.",
+      "Stacy L. Anderson, Assistant Attorney General, D.C., with whom Peter J. Nickles, Attorney General, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Edward BALTIMORE, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee.\nNos. 09-CV-759, 09-CV-760, 09-CV-761.\nDistrict of Columbia Court of Appeals.\nArgued April 1, 2010.\nDecided Jan. 6, 2011.\nJane Zara, for appellant.\nStacy L. Anderson, Assistant Attorney General, D.C., with whom Peter J. Nickles, Attorney General, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appellee.\nBefore REID, GLICKMAN, and BLACKBURNE-RIGSBY, Associate Judges."
+  },
+  "file_name": "1141-01",
+  "first_page_order": 1141,
+  "last_page_order": 1156
+}

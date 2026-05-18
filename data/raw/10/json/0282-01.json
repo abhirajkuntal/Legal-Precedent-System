@@ -1,0 +1,2124 @@
+{
+  "id": 7283852,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Imanuel Bassil ALI, a/k/a Emanuel Lester, Appellant",
+  "name_abbreviation": "Commonwealth v. Ali",
+  "decision_date": "2010-12-29",
+  "docket_number": "",
+  "first_page": "282",
+  "last_page": "321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "722 A.2d 997",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        765992,
+        11781367
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/554/0644-02",
+        "/a2d/722/0997-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 644",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765992,
+        765957
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/554/0644-02",
+        "/pa/554/0644-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 984",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5992321,
+        5935618,
+        5949155,
+        5896231,
+        5876776,
+        5887625,
+        6011242,
+        6000849,
+        3812273,
+        6017841,
+        3807986,
+        6014806,
+        5910744,
+        5929787,
+        5962045,
+        5932639
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0984-08",
+        "/us/546/0984-14",
+        "/us/546/0984-04",
+        "/us/546/0984-07",
+        "/us/546/0984-12",
+        "/us/546/0984-02",
+        "/us/546/0984-15",
+        "/us/546/0984-16",
+        "/us/546/0984-01",
+        "/us/546/0984-03",
+        "/us/546/0984-11",
+        "/us/546/0984-10",
+        "/us/546/0984-05",
+        "/us/546/0984-09",
+        "/us/546/0984-06",
+        "/us/546/0984-13"
+      ]
+    },
+    {
+      "cite": "540 U.S. 1115",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9028130,
+        9028387,
+        9027972,
+        9028166,
+        9028263,
+        9028203,
+        9028300,
+        9028114,
+        9027995,
+        9028340,
+        9028440,
+        9028185,
+        9028027,
+        9028413,
+        9028063
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/540/1115-06",
+        "/us/540/1115-13",
+        "/us/540/1115-01",
+        "/us/540/1115-07",
+        "/us/540/1115-10",
+        "/us/540/1115-09",
+        "/us/540/1115-11",
+        "/us/540/1115-05",
+        "/us/540/1115-02",
+        "/us/540/1115-12",
+        "/us/540/1115-15",
+        "/us/540/1115-08",
+        "/us/540/1115-03",
+        "/us/540/1115-14",
+        "/us/540/1115-04"
+      ]
+    },
+    {
+      "cite": "797 A.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9430040,
+        163744,
+        9430144,
+        163606
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "\"All claims for relief must be set out in the brief and [may] not [be] merely incorporated by reference\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/797/0232-01",
+        "/pa/568/0346-01",
+        "/a2d/797/0232-02",
+        "/pa/568/0346-02"
+      ]
+    },
+    {
+      "cite": "181 Pa.Super. 630",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        732190
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he jury was withdrawn from the court room and the court below heard testimony relative to the competency of the witness. This was proper and in accordance with accepted practice.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/181/0630-01"
+      ]
+    },
+    {
+      "cite": "817 A.2d 1033",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9368833,
+        716459
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1051-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/817/1033-01",
+        "/pa/572/0489-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 489",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716459
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0489-01"
+      ]
+    },
+    {
+      "cite": "301 A.2d 867",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 327",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947045
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0327-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804519
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0163-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167205
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "6-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0001-01"
+      ]
+    },
+    {
+      "cite": "960 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3990173,
+        8191455
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "28-29",
+          "parenthetical": "\"Where, as here, no objection was raised, there is no claim of 'prosecutorial misconduct' as such available. There is, instead, a claim of ineffectiveness for failing to object, so as to permit the trial court to rule.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0639-01",
+        "/a2d/960/0001-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 639",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3990173
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Where, as here, no objection was raised, there is no claim of 'prosecutorial misconduct' as such available. There is, instead, a claim of ineffectiveness for failing to object, so as to permit the trial court to rule.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0639-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839641
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]here is no constitutional right to hybrid representation either at trial or on appeal.... [A defendant may not] confuse and overburden the court by his own pro se filings of briefs at the same time his counsel is filing briefs on his behalf.\""
+        },
+        {
+          "page": "1139, 1141",
+          "parenthetical": "\"[T]here is no constitutional right to hybrid representation either at trial or on appeal.... [A defendant may not] confuse and overburden the court by his own pro se filings of briefs at the same time his counsel is filing briefs on his behalf.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0176-01"
+      ]
+    },
+    {
+      "cite": "956 A.2d 406",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3990016,
+        8207764
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "citing Pa.R.A.P. 302(a), which states that \"[ijssues not raised in the lower court are waived and cannot be raised for the first time on appeal\""
+        },
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0224-01",
+        "/a2d/956/0406-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3990016
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Pa.R.A.P. 302(a), which states that \"[ijssues not raised in the lower court are waived and cannot be raised for the first time on appeal\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0224-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9088752,
+        588049,
+        587990,
+        9088766
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1023"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/1014-01",
+        "/pa/574/0574-01",
+        "/pa/574/0573-02",
+        "/a2d/832/1014-02"
+      ]
+    },
+    {
+      "cite": "574 Pa. 574",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588049
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0574-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "weight": 2,
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "957 A.2d 237",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8206144,
+        3989448
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "244",
+          "parenthetical": "citing Strickland, 466 U.S. at 694, 104 S.Ct. 2052"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/957/0237-01",
+        "/pa/598/0397-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 397",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3989448
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Strickland, 466 U.S. at 694, 104 S.Ct. 2052"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0397-01"
+      ]
+    },
+    {
+      "cite": "163 L.Ed.2d 474",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 S.Ct. 564",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "870 A.2d 822",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9019547,
+        650373
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "829-30"
+        },
+        {
+          "page": "829"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/870/0822-01",
+        "/pa/582/0207-01"
+      ]
+    },
+    {
+      "cite": "582 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        650373
+      ],
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0207-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11805857,
+        765946,
+        765988,
+        11805966
+      ],
+      "pin_cites": [
+        {
+          "page": "701"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0693-01",
+        "/pa/554/0030-01",
+        "/pa/554/0031-01",
+        "/a2d/720/0693-02"
+      ]
+    },
+    {
+      "cite": "554 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0031-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1702005,
+        11635951
+      ],
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0299-01",
+        "/a2d/724/0326-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1702005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0299-01"
+      ]
+    },
+    {
+      "cite": "786 A.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        404536,
+        9454337,
+        9454361,
+        404591
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "213"
+        },
+        {
+          "page": "221-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0186-01",
+        "/a2d/786/0203-01",
+        "/a2d/786/0203-02",
+        "/pa/567/0185-01"
+      ]
+    },
+    {
+      "cite": "567 Pa. 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404536
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0186-01"
+      ]
+    },
+    {
+      "cite": "157 L.Ed.2d 906",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 S.Ct. 1053",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "826 A.2d 831",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9111753,
+        197189
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/826/0831-01",
+        "/pa/573/0426-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 426",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197189
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0426-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 455",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9167596,
+        1100645
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "460",
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0455-01",
+        "/pa/580/0647-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 647",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100645
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0647-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "694"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "952 A.2d 594",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8182960,
+        3923799
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "601"
+        },
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/952/0594-01",
+        "/pa/597/0572-01"
+      ]
+    },
+    {
+      "cite": "597 Pa. 572",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3923799
+      ],
+      "weight": 2,
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0572-01"
+      ]
+    },
+    {
+      "cite": "713 A.2d 81",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559404,
+        11805007
+      ],
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0009-02",
+        "/a2d/713/0081-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 9",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559404,
+        559293
+      ],
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0009-02",
+        "/pa/552/0009-01"
+      ]
+    },
+    {
+      "cite": "722 A.2d 997",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        765992,
+        11781367
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1008"
+        },
+        {
+          "page": "1002"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0644-02",
+        "/a2d/722/0997-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 644",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765992,
+        765957
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0644-02",
+        "/pa/554/0644-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 585",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11471640,
+        95775
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "as matter of jurisdiction, PCRA court cannot entertain new PCRA claims or new PCRA petition when prior petition is still under review on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0585-01",
+        "/pa/560/0487-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95775
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "as matter of jurisdiction, PCRA court cannot entertain new PCRA claims or new PCRA petition when prior petition is still under review on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0487-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841472
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0210-01"
+      ]
+    },
+    {
+      "cite": "568 Pa. 346",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        163744,
+        163606
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "\"All claims for relief must be set out in the brief and [may] not [be] merely incorporated by reference\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/568/0346-01",
+        "/pa/568/0346-02"
+      ]
+    },
+    {
+      "cite": "410 U.S. 284",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11957222
+      ],
+      "weight": 3,
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/410/0284-01"
+      ]
+    },
+    {
+      "cite": "887 A.2d 750",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9003178,
+        988566
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "758"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/887/0750-01",
+        "/pa/584/0640-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 640",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988566
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0640-01"
+      ]
+    },
+    {
+      "cite": "855 A.2d 27",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1329402,
+        12253311
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0641-01",
+        "/a2d/855/0027-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 641",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329402
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0641-01"
+      ]
+    },
+    {
+      "cite": "883 A.2d 570",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8908744,
+        988497
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/883/0570-01",
+        "/pa/584/0396-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 396",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988497
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0396-01"
+      ]
+    },
+    {
+      "cite": "817 A.2d 1060",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        716441,
+        9368884
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0535-01",
+        "/a2d/817/1060-01"
+      ]
+    },
+    {
+      "cite": "851 A.2d 883",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1329417,
+        9241534
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0284-01",
+        "/a2d/851/0883-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329417
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0284-01"
+      ]
+    },
+    {
+      "cite": "894 A.2d 716",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8434320,
+        5654665
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/894/0716-01",
+        "/pa/586/0366-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5654665
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0366-01"
+      ]
+    },
+    {
+      "cite": "927 A.2d 586",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8398300,
+        3556679
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/927/0586-01",
+        "/pa/592/0698-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 698",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3556679
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0698-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 202",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524661
+      ],
+      "weight": 3,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0202-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12787
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0079-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 465",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178753
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0465-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 365",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6208511
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "382-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0365-01"
+      ]
+    },
+    {
+      "cite": "513 U.S. 364",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1331336
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0364-01"
+      ]
+    },
+    {
+      "cite": "404 U.S. 270",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172479
+      ],
+      "weight": 5,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0270-01"
+      ]
+    },
+    {
+      "cite": "966 A.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8158876,
+        4194238
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0523-01",
+        "/pa/600/0329-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194238
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0329-01"
+      ]
+    },
+    {
+      "cite": "740 A.2d 219",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11548721,
+        837149
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "225",
+          "parenthetical": "statements by witness who overheard defendant and his brother (the victim) arguing were admissible as non-hearsay because not offered to prove truth of matter asserted, but rather to establish motive for killings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/740/0219-01",
+        "/pa/559/0358-01"
+      ]
+    },
+    {
+      "cite": "559 Pa. 358",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837149
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "statements by witness who overheard defendant and his brother (the victim) arguing were admissible as non-hearsay because not offered to prove truth of matter asserted, but rather to establish motive for killings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0358-01"
+      ]
+    },
+    {
+      "cite": "838 A.2d 663",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9299261,
+        16759
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "680",
+          "parenthetical": "defendant's statements threatening witness's family admissible as verbal acts, a form of non-hearsay, because evidence not offered to establish truth of matter asserted, but rather, to demonstrate fact of attempted influencing of witness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/838/0663-01",
+        "/pa/576/0023-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16759
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "defendant's statements threatening witness's family admissible as verbal acts, a form of non-hearsay, because evidence not offered to establish truth of matter asserted, but rather, to demonstrate fact of attempted influencing of witness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0023-01"
+      ]
+    },
+    {
+      "cite": "913 A.2d 220",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851924,
+        8436764
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0501-01",
+        "/a2d/913/0220-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851924
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0501-01"
+      ]
+    },
+    {
+      "cite": "513 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1802595
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/513/0366-01"
+      ]
+    },
+    {
+      "cite": "723 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1701944,
+        1702002,
+        11754452,
+        11754303
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0125-01",
+        "/pa/555/0125-02",
+        "/a2d/723/0162-02",
+        "/a2d/723/0162-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 125",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701944,
+        1702002
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0125-01",
+        "/pa/555/0125-02"
+      ]
+    },
+    {
+      "cite": "928 A.2d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3249550,
+        8357422
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1041"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0204-01",
+        "/a2d/928/1025-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3249550
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0204-01"
+      ]
+    },
+    {
+      "cite": "314 A.2d 275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "455 Pa. 154",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        582137
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/455/0154-01"
+      ]
+    },
+    {
+      "cite": "385 U.S. 363",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337414
+      ],
+      "weight": 6,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "363-64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/385/0363-01"
+      ]
+    },
+    {
+      "cite": "147 A.2d 313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "394 Pa. 335",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1280961
+      ],
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/394/0335-01"
+      ]
+    },
+    {
+      "cite": "468 Pa. 465",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1719715
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "prosecution's motive argument based solely upon witness's speculative statement found to be insufficiently supported by evidence"
+        },
+        {
+          "page": "290",
+          "parenthetical": "prosecution's motive argument based solely upon witness's speculative statement found to be insufficiently supported by evidence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/468/0465-01"
+      ]
+    },
+    {
+      "cite": "493 Pa. 360",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8732825
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "disapproving prosecution commentary suggesting that defendant intended to molest decedent-victim; setting of crime did not exclude that possibility, but evidence did not support inference of motive"
+        },
+        {
+          "page": "591-92",
+          "parenthetical": "disapproving prosecution commentary suggesting that defendant intended to molest decedent-victim; setting of crime did not exclude that possibility, but evidence did not support inference of motive"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/493/0360-01"
+      ]
+    },
+    {
+      "cite": "811 A.2d 994",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1070144,
+        9318906,
+        1070135,
+        9319023
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1006"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0112-02",
+        "/a2d/811/0994-01",
+        "/pa/571/0112-01",
+        "/a2d/811/0994-02"
+      ]
+    },
+    {
+      "cite": "571 Pa. 112",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070144,
+        1070135
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0112-02",
+        "/pa/571/0112-01"
+      ]
+    },
+    {
+      "cite": "941 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4088608,
+        8396606
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "668",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0119-01",
+        "/a2d/941/0655-01"
+      ]
+    },
+    {
+      "cite": "596 Pa. 119",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4088608
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0119-01"
+      ]
+    },
+    {
+      "cite": "301 A.2d 622",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947043
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0431-01"
+      ]
+    },
+    {
+      "cite": "391 Pa.Super. 100",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        477260
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "534"
+        },
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/391/0100-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 524",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745029
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "1012-13"
+        },
+        {
+          "page": "1012-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/480/0524-01"
+      ]
+    },
+    {
+      "cite": "322 A.2d 653",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "457 Pa. 310",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        478463
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/457/0310-01"
+      ]
+    },
+    {
+      "cite": "419 Pa.Super. 625",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        918215
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "witness knew defendant and \"had seen him on several occasions\" prior to murder; defendant not entitled to Kloiber instruction because witness's in-court identification was supported by independent basis"
+        },
+        {
+          "page": "1335-36",
+          "parenthetical": "witness knew defendant and \"had seen him on several occasions\" prior to murder; defendant not entitled to Kloiber instruction because witness's in-court identification was supported by independent basis"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/419/0625-01"
+      ]
+    },
+    {
+      "cite": "248 A.2d 840",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "841-42",
+          "parenthetical": "witness had known defendant for three years prior to robbery and murder; no trial court error in not issuing Kloiber instruction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "433 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1921029
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "witness had known defendant for three years prior to robbery and murder; no trial court error in not issuing Kloiber instruction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/433/0034-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 761",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381250,
+        716555
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "770-71",
+          "parenthetical": "Opinion Announcing Judgment of the Court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0761-01",
+        "/pa/572/0105-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716555
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "Opinion Announcing Judgment of the Court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0105-01"
+      ]
+    },
+    {
+      "cite": "715 A.2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559548,
+        11705437
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0331-01",
+        "/a2d/715/0404-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559548
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0331-01"
+      ]
+    },
+    {
+      "cite": "688 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366050,
+        468654
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1163",
+          "parenthetical": "citing Kloiber"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/688/1152-01",
+        "/pa/547/0071-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468654
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Kloiber"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0071-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed. 688",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 S.Ct. 112",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "348 U.S. 875",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6944960,
+        6945057,
+        6945028,
+        6945001,
+        6945112,
+        6945087
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/348/0875-01",
+        "/us/348/0875-04",
+        "/us/348/0875-03",
+        "/us/348/0875-02",
+        "/us/348/0875-06",
+        "/us/348/0875-05"
+      ]
+    },
+    {
+      "cite": "106 A.2d 820",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "378 Pa. 412",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1250885
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/378/0412-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822855
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0366-01"
+      ]
+    },
+    {
+      "cite": "156 A.2d 307",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 Pa. 615",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1286297
+      ],
+      "weight": 2,
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/397/0615-01"
+      ]
+    },
+    {
+      "cite": "1988 WL 38034",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "722 A.2d 643",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        766002,
+        11773621
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0559-01",
+        "/a2d/722/0643-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 559",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        766002
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0559-01"
+      ]
+    },
+    {
+      "cite": "124 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "696",
+          "parenthetical": "\"[T]he jury was withdrawn from the court room and the court below heard testimony relative to the competency of the witness. This was proper and in accordance with accepted practice.\""
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 2897,
+    "char_count": 120062,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1882607827715052
+    },
+    "sha256": "533530daf205244cde85b1a37f1448202d6fb6018431ae8c94ae0a31760e41c7",
+    "simhash": "1:c6ab6166d5eeddfa",
+    "word_count": 19217
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J, SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ.",
+      "Justices SAYLOR, EAKIN, BAER, TODD, McCAFFERY, and ORIE MELVIN join the opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Imanuel Bassil ALI, a/k/a Emanuel Lester, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nChief Justice CASTILLE.\nThis is a pro se capital appeal from the Order of the Court of Common Pleas of Philadelphia County denying appellant\u2019s petition for relief under the Post Conviction Relief Act (\u201cPCRA\u201d), 42 Pa.C.S. \u00a7\u00a7 9541-9546. For the reasons that follow, we affirm.\nOn November 12, 1991, a jury sitting before the Honorable Ricardo C. Jackson convicted appellant of first-degree murder, aggravated assault, and possessing an instrument of crime. The convictions arose from the brutal killing of Sheila Manigault, whose beaten and scalded body was found on the morning of April 6,1990 submerged in the bathtub of the West Philadelphia apartment that she shared with her three young children. After finding two aggravating circumstances and no mitigating circumstances, the same jury returned a sentencing verdict of death on the murder charge. See 42 Pa.C.S. \u00a7 9711(c)(1)(iv) (\u201c[T]he verdict must be a sentence of death if the jury unanimously finds at least one aggravating circumstance ... and no mitigating circumstance... .\u201d). On direct appeal, this Court unanimously affirmed appellant\u2019s convictions and judgment of sentence. Commonwealth v. Lester, 554 Pa. 644, 722 A.2d 997 (1998). This Court denied reargument on April 19, 1999.\nAppellant filed a timely pro se PCRA petition on June 25, 1999, and an amended petition on September 15, 1999. On January 12, 2000, the PCRA court appointed Lee Mandell, Esq., as counsel for appellant, but appellant soon requested permission to proceed pro se. Appellant filed pro se supplemental PCRA petitions on June 20, 2000 and November 3, 2000. In early 2001, the PCRA court ordered a mental health evaluation, which was conducted on February 23, 2001. The evaluation resulted in a report that appellant had no mental health issues or substance abuse issues at the time, understood the \u201cproper roles\u201d and \u201cmajor principles involved in a court of law,\u201d and was competent to assist in his own defense. Mental Health Evaluation Report of James G. Jones, M.D., 2/26/01, at 2 (unnumbered). The PCRA court also conducted an extensive colloquy with appellant on the record before granting his request to proceed pro se on March 23, 2001. The Court appointed Attorney Man-dell as advisory counsel. Thereafter, appellant filed an additional pro se supplemental PCRA petition on September 19, 2001; the Commonwealth filed a motion to dismiss on April 19, 2002; and appellant filed yet another supplemental pro se petition on May 30, 2002. The court sent appellant a notice of intention to dismiss pursuant to Pa.R.Crim.P. 907 on August 14, 2002. However, on September 13, 2002, the PCRA court found appellant incompetent to proceed pro se, based upon its further review of his submissions, and noted that appellant and Attorney Mandell had irreconcilable differences. The court thus allowed Attorney Mandell to withdraw and Daniel A. Rendine, Esq., was appointed as counsel for appellant on September 20, 2002. In November 2002, however, the PCRA court again permitted appellant to represent himself and directed Attorney Rendine to serve as back-up counsel. The court then held an evidentia-ry hearing on April 28, 2003 and, on June 27, 2003, denied PCRA relief and formally dismissed Attorney Rendine from the case.\nAfter appellant appealed to this Court, attorneys from the Defender Association of Philadelphia, Federal Court Division, Capital Habeas Unit (\u201cFederal Defender\u201d) entered appearances on behalf of appellant and filed a Pa.R.A.P. 1925(b) statement on appellant\u2019s behalf on April 12, 2004. Appellant then filed his own 1925(b) statement, which was dated April 12, 2004 and docketed on April 26, 2004. On May 16, 2006, appellant filed a pro se Petition to Remove Counsel and Proceed Pro Se. On June 6, 2006, the Federal Defender filed a Response, urging denial of appellant\u2019s petition. On June 15, 2006, this Court ordered the PCRA court to conduct a hearing on appellant\u2019s request to proceed pro se, pursuant to Commonwealth v. Grazier, 552 Pa. 9, 713 A.2d 81 (1998). We did not relinquish jurisdiction.\nAt a hearing on March 30, 2007, the Commonwealth asserted that since appellant clearly had no desire to cooperate with the Federal Defender or undergo further competency evaluation by doctors, the Grazier hearing should proceed \u201cwith all due haste.\u201d N.T., 3/30/07, at 4. The Federal Defender responded that in its view, appellant was not competent to waive counsel and that it had a written report from a doctor who did not believe appellant was competent. The Federal Defender sought to have a competency proceeding held prior to the Grazier hearing. The PCRA court took note of the \u201cstalemate\u201d created when appellant\u2019s refusal to cooperate with the Federal Defender respecting his competency led the Federal Defender to conclude that appellant was incompetent. The court stated that the matter could not be delayed any further, denied the request for a pre-Grazier competency hearing, and scheduled the Grazier hearing for April 27, 2007. The Federal Defender\u2019s appeal of that interlocutory ruling was quashed by this Court in an August 24, 2007 order.\nThe Grazier hearing was held on April 27, 2007. The Federal Defender attempted to raise new substantive claims in addition to the Grazier question, but the PCRA court declined to consider claims other than the one remanded to it. Following the hearing, the PCRA court issued an order on the same date finding appellant competent to waive counsel and permitting him \u201cto proceed pro se without standby counsel being appointed in accordance with [his] request at the Grazier hearing.\u201d The Federal Defender appealed that order and on July 25, 2007, the PCRA court issued an opinion on the Grazier issue. The PCRA court noted that its determination that appellant\u2019s waiver of counsel was knowing and voluntary was supported by the court-ordered mental health evaluation, the Grazier colloquy, and appellant\u2019s behavior at the Grazier hearing as well as at several previous hearings. The Federal Defender\u2019s unauthorized appeal from the grant of relief appellant himself had requested through the Grazier proceedings was ultimately quashed by order of this Court dated October 31, 2007.\nThe appeal has finally been briefed, ably enough by appellant, and is ready for disposition. Our general review of a PCRA court\u2019s decision is limited to examining whether the court\u2019s findings of fact are supported by the record and whether its legal conclusions are free of error. Commonwealth v. Cook, 597 Pa. 572, 952 A.2d 594, 601 (2008).\nDISCUSSION\nAll twelve of appellant\u2019s claims allege ineffective assistance of counsel. \u201cIt is settled that the test for counsel ineffectiveness is the same under both the Pennsylvania and Federal Constitutions: it is the performance and prejudice test set forth in Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984).\u201d Commonwealth v. Gribble, 580 Pa. 647, 863 A.2d 455, 460 (2004) (collecting cases). The contours of the inquiry are as follows:\nTo better focus the Strickland analysis, this Court has applied the performance part of the test by looking both to the arguable merit of the claim lodged against counsel as well as the objective reasonableness of the path taken, or not taken, by counsel. E.g., [Commonwealth v. Bomar, 573 Pa. 426, 826 A.2d 831, 855 n. 19 (2003), cert. denied, 540 U.S. 1115, 124 S.Ct. 1053, 157 L.Ed.2d 906 (2003) ]. Thus, the constitutional ineffectiveness standard requires the defendant to rebut the presumption of professional competence by demonstrating that: (1) his underlying claim is of arguable merit; (2) the particular course of conduct pursued by counsel did not have some reasonable basis designed to effectuate his interests; and (3) but for counsel\u2019s ineffectiveness, there is a reasonable probability that the outcome of the proceedings would have been different. Commonwealth v. (Michael) Pierce [567 Pa. 186], 786 A.2d 203, 213 (Pa.2001); Commonwealth v. Kimball [555 Pa. 299], 724 A.2d 326, 333 (Pa.1999). A failure to satisfy any prong of the test for ineffectiveness will require rejection of the claim. (Michael) Pierce, 786 A.2d at 221-23; see also Commonwealth v. Albrecht [554 Pa. 31], 720 A.2d 693, 701 (Pa.1998) (\u201cIf it is clear that Appellant has not demonstrated that counsel\u2019s act or omission adversely affected the outcome of the proceedings, the claim may be dismissed on that basis alone and the court need not first determine whether the first and second prongs have been met.\u201d).\nCommonwealth v. Spotz, 582 Pa. 207, 870 A.2d 822, 829-30 (2005), cert. denied, 546 U.S. 984, 126 S.Ct. 564, 163 L.Ed.2d 474 (2005). Respecting prejudice, \u201c[a] reasonable probability is a probability that is sufficient to undermine confidence in the outcome of the proceeding.\u201d Commonwealth v. Collins, 598 Pa. 397, 957 A.2d 237, 244 (2008) (citing Strickland, 466 U.S. at 694, 104 S.Ct. 2052).\nIn addition, because appellant was represented by new counsel on direct appeal, and his appeal was pending on collateral review prior to this Court\u2019s decision in Commonwealth v. Grant, 572 Pa. 48, 813 A.2d 726 (2002), those of appellant\u2019s ineffectiveness claims deriving from trial counsel\u2019s performance are cognizable only as \u201clayered\u201d claims. Id. at 739 n. 16. To secure relief as to these claims, appellant must plead and prove Strickland/Pierce ineffectiveness as to each relevant layer of representation. See Commonwealth v. McGill, 574 Pa. 574, 832 A.2d 1014, 1023 (2003).\nA. Failure to raise prosecutorial misconduct claim on appeal\nAppellant first claims that direct appeal counsel was ineffective for abandoning or undermining appellant\u2019s claim that the prosecutor committed \u201cmisconduct\u201d dui\u2019ing his opening statement and misled the jury when he asserted that the name appellant gave when he was arrested, Im-anuel Ali, was an alias used for purposes of concealment. Appellant\u2019s birth name was Emanuel Lester but, he argues, \u201cAli\u201d is now his legal surname, which he has been using since 1975, and had legally changed in 1983, eight years before the murder of Sheila Manigault. Appellant contends that the prosecutor knew or should have known that \u201cAli\u201d was his new surname and that the prosecutor\u2019s description of it as an alias created an unfair and prejudicial impression of appellant\u2019s evasiveness and consciousness of guilt and thereby deprived him of a fair trial under the constitutional guarantees of equal protection and due process. Appellant adds that the Commonwealth failed to disclose to the defense that it would be introducing evidence of appellant\u2019s use of different names on various documents and that this nondisclosure prejudiced him by preventing him from rebutting the Commonwealth\u2019s misrepresentation of the evidence and addressing the eventual jury instruction on flight/evasion. Appellant contends that if the jury had been made aware that at the time of his arrest, the name he gave was his then-legal name (Imanuel Ali) and that he possessed documents identifying him by that name, there is a strong possibility that it would have concluded that he displayed no consciousness of guilt.\nAppellant asserts that the foregoing claim was raised and preserved in his own pro se supplemental Rule 1925(b) statement as a distinct and independent claim of prosecutorial misconduct, but the claim was abandoned or undermined by direct appeal counsel\u2019s decision to present it as a matter of tidal counsel ineffectiveness. Appellant argues that the claim as he presented it post-verdict was stronger than the derivative ineffectiveness claim raised by direct appeal counsel and stood a better chance of success on appeal.\nIn response, the Commonwealth argues that appellant has waived any claim sounding in prosecutorial misconduct because he did not object at trial to the prosecutor\u2019s reference to \u201cImanuel Ali\u201d as an alias, much less did he assert a constitutional violation. The Commonwealth relatedly adds that appellant\u2019s claim that direct appeal counsel was ineffective for failing to assert this claim fails because appellant does not argue trial counsel\u2019s underlying ineffectiveness for failing to object and also because the claim was not included in appellant\u2019s present Rule 1925(b) statement in the present appeal. The Commonwealth also notes that appellant\u2019s claim is unsupported with case law or relevant legal argument. Finally, the Commonwealth posits that appellant\u2019s claim in this regard was previously litigated on direct appeal.\nThe PCRA court found that this claim was previously litigated on appellant\u2019s direct appeal, where this Court held:\nTrial counsel testified at the hearing on post-verdict motions that he did not know that appellant had changed his name to the name which the prosecution considered to be an alias. Counsel\u2019s failure to object to the characterization of the name as an alias was clearly reasonable given that counsel had no knowledge of appellant\u2019s name change.\n722 A.2d at 1008.\nThe failure to raise a contemporaneous objection to a prosecutor\u2019s comment at trial waives any claim of error arising from the comment. Commonwealth v. Powell, 598 Pa. 224, 956 A.2d 406, 423 (2008) (citing Pa.R.A.P. 302(a), which states that \u201c[ijssues not raised in the lower court are waived and cannot be raised for the first time on appeal\u201d). An appellant may, however, pursue a derivative and collateral claim based upon counsel ineffectiveness for failing to raise that contemporaneous objection. See id. at 428.\nWe agree with the Commonwealth that appellant\u2019s underlying claim of \u201cprosecutorial misconduct\u201d was waived at trial, and thus, direct appeal counsel cannot be deemed ineffective for pursuing the claim as one sounding in trial counsel ineffectiveness, rather than as a claim of trial court or prosecutorial error. At trial, the prosecutor said the following during his opening statement:\nYou will hear of the efforts of the assigned detective, Detective Dougherty, to locate Mr. Lester, because Mr. Lester never, as I said, appeared in [the area of the murder] again. He was up on Broad Street, and when the police arrested him he had a different name, he had the name Emanuel [sic] Ali, further evidence of his efforts to conceal what he had done and how he was arrested.\nN.T., 11/6/91, at 32. The transcript reveals no contemporaneous objection by defense counsel, which appellant does not dispute. Indeed, counsel\u2019s failure to object was the very basis for the derivative claim of trial counsel ineffectiveness that was specifically raised and rejected on direct appeal. Appellant\u2019s argument that he preserved the claim by raising it in his pro se Rule 1925(b) statement cannot undo the trial-level waiver: a Rule 1925(b) statement is not a substitute for the contemporaneous objection required at trial. Moreover, appellant was represented by counsel on appeal, so his pro se Rule 1925(b) statement was a legal nullity. See Commonwealth v. Ellis, 534 Pa. 176, 626 A.2d 1137, 1139, 1141 (1993) (\u201c[T]here is no constitutional right to hybrid representation either at trial or on appeal.... [A defendant may not] confuse and overburden the court by his own pro se filings of briefs at the same time his counsel is filing briefs on his behalf.\u201d).\nAccordingly, any primary claim of prose-cutorial misconduct or, more precisely, any claim of trial court error in responding to a preserved, contemporaneous objection to alleged prosecutorial misconduct based upon the above-quoted passage was waived. See Commonwealth v. Tedford, 598 Pa. 639, 960 A.2d 1, 28-29 (2008) (\u201cWhere, as here, no objection was raised, there is no claim of \u2018prosecutorial misconduct\u2019 as such available. There is, instead, a claim of ineffectiveness for failing to object, so as to permit the trial court to rule.\u201d). Furthermore, appellant specifically disavows any derivative claim of trial counsel ineffectiveness for failure to object, and for obvious reasons: that claim was previously litigated on direct appeal. Because appellant has not shown ineffectiveness on the part of direct appeal counsel for raising this issue as a cognizable claim of trial counsel ineffectiveness, rather than as an unavailable claim of trial court error, the present claim necessarily fails.\nB. Failure to object to expert testimony\nAppellant next claims that direct appeal counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness for failing to object to testimony by the Commonwealth\u2019s criminal evidence expert, Caesar Mujica. Mr. Mujica testified regarding the \u201cred substance\u201d visible on a toy kitchen set at the crime scene, which was also visible in a crime scene photograph. Appellant argues that neither the red substance nor the toy kitchen set was referenced on the property receipt listing the evidence collected at the scene and sent to the laboratory to be analyzed; thus, the expert could not properly say that the substance was the victim\u2019s blood or even blood at all. Appellant contends that trial counsel should have objected to Mr. Muji-ca\u2019s opinion that the substance was blood, which permitted the prosecutor to refer to the blood-smeared toy kitchen set in what appellant alleges was a \u201cmisrepresented\u201d characterization of the events surrounding the murder as an \u201curban horror story.\u201d That characterization, appellant argues, misled and inflamed the jury. Moreover, appellant labels these references as \u201cfabrications\u201d and deliberate misrepresentations in the Commonwealth\u2019s case against him.\nThe Commonwealth responds by arguing, inter alia, that trial counsel was not obliged to object simply because the Commonwealth had not tested every single bloody item from the crime scene. The Commonwealth asserts that Mr. Mujica\u2019s inference was supported by evidence that there was blood found throughout the victim\u2019s apartment, and that appellant has not shown that Mr. Mujica, as a matter of fact, was wrong. Furthermore, in the Commonwealth\u2019s estimation, the mere fact that \u201cone of the many places in which blood was found [at the scene] was on a child\u2019s toy is a minor point; its exclusion would not have likely changed the trial result.\u201d Commonwealth\u2019s Brief at 17-18 n. 14. Because there was nothing in either Mr. Mujica\u2019s statement or the prosecutor\u2019s comments that called for objection, the Commonwealth submits, trial counsel was not ineffective for failing to object, and direct appeal counsel cannot have been ineffective for not having pursued the matter on appeal.\nThe prosecution may not knowingly and deliberately misrepresent the evidence in order to gain a conviction. Miller v. Pate, 386 U.S. 1, 6-7, 87 S.Ct. 785, 17 L.Ed.2d 690 (1967). Nevertheless, a claim of purposeful prosecutorial misrepresentation will not stand if examination of the record fails to reveal any indication of deceptive tactics on the part of the prosecution. See Commonwealth v. Lobel, 514 Pa. 163, 523 A.2d 304, 308 (1987). Minor discrepancies in the Commonwealth\u2019s case will not be considered false evidence. Commonwealth v. Williams, 450 Pa. 327, 301 A.2d 867, 869 (1973); see also Commonwealth v. Harris, 572 Pa. 489, 817 A.2d 1033, 1051-52 (2002).\nRelevant to this claim, Mr. Mujica testified on direct examination as follows:\nQ: Did you obtain, I think in the vernacular you gentlemen use, did you obtain physical evidence which was termed red substance?\nA: That is correct.\nQ: That would be blood?\nA: Yes.\nQ: Can you tell the ladies and gentlemen of the jury in what particular areas, if you recall, a red substance, blood, was recovered or noted?\nA: It was all over the apartment.\nN.T., 11/6/91, at 78. Mr. Mujica then testified at length as to the various places throughout the apartment where he discovered a \u201cred substance,\u201d including the following description of a photograph of the murder scene: \u201cThis is a close up view showing a red substance on the outside of a toy kitchen set near the west wall of the southeast bedroom.\u201d Id. at 90.\nThe crime scene investigators\u2019 apparent failure to reference either the toy kitchen set or the red substance visible on the toy set on the master list of the evidence collected does not render Mr. Mujica\u2019s testimony, to which there was no objection, untrue, incorrect, or unsupported by the evidence of record; much less does it prove fabrication on the part of the prosecution, as appellant intemperately suggests. Mr. Mujica, as well as other witnesses, testified to the undisputed fact that there was blood found throughout the victim\u2019s apartment in the aftermath of the murder. The mere fact that the \u201cred substance\u201d on the toy set was not itself listed on the police evidence property receipt or tested at the laboratory does not mean that the photograph Mr. Mujica described was fabricated, nor does it make Mr. Mujica\u2019s testimony untrue, misleading, or a prosecutorial \u201cfabrication\u201d that obliged trial counsel to object.\nOf course, counsel could have objected to any reference to the substance on the toy set on grounds that it had not specifically been tested, but to what ultimate purpose? The investigators\u2019 failure to sample and test the \u201cred substance\u201d from that particular item does not defeat the logical inference that the substance on the toy set was blood, since it is indisputable that blood was found throughout the apartment. By the same token, appellant has not demonstrated that the references caused Strickland prejudice. In light of the extensive and undisputed presence of blood throughout the victim\u2019s apartment, appellant has not shown a reasonable probability that the verdict would have been different if an objection had been made to the above testimony of Mr. Mujica and the prosecutor\u2019s mention of blood on the toy kitchen set. Accordingly, this layered Strickland claim fails.\nC. Failure to object to in-court competency examination of child witness\nAppellant next claims that direct appeal counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness for failing to object to the trial court conducting the competency examination of the victim\u2019s daughter, N.M., in the presence of the jury. Appellant argues that at the time of his trial, it was \u201caccepted practice\u201d to hold competency inquiries outside the presence of the jury, citing Commonwealth v. Repyneck, 181 Pa.Super. 630, 124 A.2d 693, 696 (1956) (\u201c[T]he jury was withdrawn from the court room and the court below heard testimony relative to the competency of the witness. This was proper and in accordance with accepted practice.\u201d). Appellant further argues that since competency to testify is a legal determination that is irrelevant to the jury\u2019s role as factfinder, conducting the competency inquiry in the jury\u2019s presence likely led the jury to confuse competency with credibility. In particular, appellant contends that, by declaring N.M. competent in the jury\u2019s presence after the conclusion of the examination, the trial court unfairly bolstered the child\u2019s credibility.\nAppellant asserts that a claim based upon trial counsel\u2019s failure to object was raised in the nunc pro tunc post-sentencing motions filed by appellate counsel, but counsel then abandoned the claim on appeal. Appellant further relies upon Commonwealth v. Washington, 554 Pa. 559, 722 A.2d 643, 647 (1998), where this Court established a per se rule requiring that child witness competency hearings be conducted outside the presence of the jury. Washington was handed down on the same day this Court\u2019s opinion was filed in appellant\u2019s direct appeal. In appellant\u2019s view, if direct appeal counsel had pursued this ineffectiveness claim, there is a reasonable probability that appellant could have benefited from the new per se rule in Washington, even though Washington involved a preserved claim, not a collateral Strickland attack.\nAppellant argues in the alternative that trial counsel should have requested a special jury instruction distinguishing between competency and credibility and emphasizing the jury\u2019s role in the latter circumstance. Appellant adds that trial counsel\u2019s ineffectiveness in this regard should also have been pursued on appeal. Appellant speculates that without this specific instruction, the jury likely construed the trial court\u2019s ruling that N.M. was competent as approval of her credibility and veracity.\nThe Commonwealth responds, inter alia, that appellant\u2019s claim of trial counsel ineffectiveness fails because at the time of trial, there was no requirement that child witness competency hearings be conducted outside the presence of the jury. The Commonwealth adds that the court\u2019s general instructions to the jury as to witness credibility were sufficient and that appellant has not established what a specific instruction as to N.M.\u2019s competency would or should have said, by which authority such an instruction was required, or how such an instruction would likely have resulted in a different overall verdict.\nIn rejecting this layered claim, the PCRA court noted that the law at the time of appellant\u2019s trial did not prohibit holding competency hearings in the jury\u2019s presence, and thus appellant\u2019s underlying claim was meritless. The PCRA court added that even assuming there was a legal basis upon which to object, appellant failed to prove that the outcome of the trial would have been different if counsel had acted otherwise, in light of the overwhelming evidence of appellant\u2019s guilt and the fact that N.M.\u2019s testimony coincided with her prior implication of appellant, as well as the physical evidence and the autopsy results. The PCRA court also concluded that the trial court\u2019s competency finding did not bolster N.M.\u2019s credibility, particularly because the trial court said nothing to influence the jury\u2019s consideration of her veracity. In the PCRA court\u2019s estimation, the competency examination was conducted in accordance with governing legal requirements: both counsel questioned N.M. concerning her duty to tell the truth and her answers to those questions showed that she \u201cpossessed the requisite degree of awareness and ability to recall past events and ability to recount them accurately to be declared competent.\u201d The PCRA court did not separately address appellant\u2019s claim that trial counsel was ineffective for failing to request a special instruction con-eerning the distinction between competence and credibility. PCRA Ct. Op. at 8-13.\nWashington involved a direct appeal where the defendant specifically preserved an objection at trial to competency examinations of the two child witnesses being conducted in the presence of the jury; the witnesses were also the victims of the sexual assaults with which the defendant was charged. The Court majority noted first that competency is a legal issue to be decided by a judge, but expressed concern that, because assessing the truthfulness of a witness during trial is a function of the jury as factfinder, conducting competency proceedings in the jury\u2019s presence \u201cinvariably\u201d could influence the jury\u2019s credibility determination. The majority expressed particular concern that the trial judge\u2019s in-court ruling on competency could be viewed as a judicial \u201cendorsement\u201d of the witness\u2019s credibility. In addition, the majority noted, questions relevant to a competency examination, i.e., respecting the witness\u2019s appreciation for the importance of telling the truth, might be \u201cimproper during trial before the jury because they would be irrelevant, call for hearsay, or violate evidentiary rules and statutes\u201d and thus, \u201cconducting the hearing in the presence of the jury also gives rise to the risk that the jury may hear inadmissible testimony.\u201d 722 A.2d at 646.\nFollowing these preliminary observations, the Washington majority noted that the issue before it was \u201cone of first impression\u201d and surveyed the approach of other jurisdictions, which revealed \u201ca division of authority.\u201d Id. at 646. The Washington majority further acknowledged support for the contrary view that \u201cthere are valid reasons to allow a jury to observe voir dire of a child witness.\u201d Id. at 647. The opinion quoted an unreported decision from the Ohio Court of Appeals that relied upon \u201ccommentators\u201d who had addressed this issue and stated that:\nThere are occasions when no harm will result from the jury hearing foundational matters[, and] in such cases, convenience and time considerations are better served by not excusing the jury. Moreover, in many instances, the same evidence which is relevant to the foundation requirements is also relevant to weight and credibility. Allowing the jury to hear such foundational evidence avoids duplication and waste of time.\nId. (quoting State v. Harris, 1988 WL 38034 (Ohio App. 5 Dist.1988)). The Washington majority went on to note that the Hams court, while stating that \u201cit is not plain error\u201d to conduct a competency examination in the presence of the jury as long as the defendant does not object and the jury is properly charged, nevertheless believed the \u201cbetter practice\u201d was to excuse the jury. Id.\nThe Washington majority ultimately agreed with the Harris court that the better practice is to excuse the jury, and then decided to \u201cgo a step further\u201d and \u201ccreate a per se rule requiring the trial court to conduct a [child] competency hearing in the absence of a jury.\u201d Id. The majority opined that its prophylactic rule was warranted because conducting child witness competency hearings in the presence of the jury could improperly influence the jury\u2019s ability to determine the child witness\u2019s credibility, expose the jury to otherwise inadmissible testimony such as hearsay, and suggest the trial judge\u2019s endorsement of the child witness\u2019s credibility if the witness was deemed competent. The majority also opined that a cautionary charge could be insufficient because a competency proceeding in the presence of the jury \u201cinevitably permeates into the veracity assessment assigned exclusively to the jury.\u201d Id. at 647.\nThe Washington case does not support appellant\u2019s claim that, if his appeal counsel had claimed trial counsel ineffectiveness in failing to object to the competency examination being conducted in front of the jury, there is a reasonable probability that a new trial would have been granted on direct appeal. In Washington, this Court decided a preserved question of first impression seven years after appellant\u2019s trial and adopted what amounted to a prophylactic rule. Nor can trial counsel be faulted for failing to forward a request for the per se rule that the Washington majority ultimately devised. On the other hand, there was a basis in the law in 1991 for trial counsel to request that the court, in its discretion, conduct the competency examination outside the presence of the jury, see Repyneck, supra, and there was nothing to prevent counsel from requesting an explanatory charge. For purposes of decision, then, we will assume arguable merit in this underlying layered claim; we agree with the PCRA court, however, that appellant has not proven Strickland prejudice.\nAt trial, the competency examination of N.M. was brief. The prosecutor first asked N.M. whether she knew who the judge was; N.M. answered that she did. The prosecutor asked N.M. to state her age, what grade she was in at school, and what school she attended; she answered these questions. The prosecutor next asked N.M. whether she could tell the difference between the truth and lies, giving examples such as statements that it was snowing inside the room and that N.M.\u2019s dress was a different color than it really was. N.M. answered that she knew such statements would be lies; that she understood that it was bad to tell a lie and good to tell the truth; and that she promised to tell the truth and what she remembered. Defense counsel then asked N.M. if she knew the difference between \u201ca lie and a fairy tale\u201d and that \u201ca story is not real.\u201d N.M. indicated that she did know the difference. The court then stated: \u201cI find that [N.M.] is competent and she is capable of having the intelligence and understands the obligation of telling the truth.\u201d The competency examination was then concluded and the prosecutor immediately began direct examination of N.M. See N.T., 11/7/91, at 7-11.\nOn direct examination, N.M. testified that she recognized appellant in the courtroom because he had previously been at the apartment where she lived with her mother; she then described the night of the murder. N.M. testified that she had been sleeping when she was awakened by \u201cManny\u201d hitting her mother with a radio, that \u201cManny\u201d \u201cput an iron on her mother\u2019s head\u201d and that her mother had hollered. N.M. testified that she tried to stop \u201cMan-ny\u201d by hitting him, but he hit her, choked her, and put a pillow over her face, after which she was laying down for a time. She also saw \u201cManny\u201d hit her mother and put her mother in the bathtub with blood. She went to her neighbor Madeline\u2019s after \u201cManny\u201d left and told Madeline what she had seen. She recalled telling both the doctor at the emergency room and the police that \u201cManny\u201d had hurt her mother; she also remembered that she had recognized \u201cManny\u201d in the pictures the police showed her. See N.T., 11/7/91, at 11-20.\nOn cross-examination, counsel impeached N.M. with a prior statement in which she had indicated, in counsel\u2019s words, that she \u201cdid not see what Manny hit mommy with\u201d whereas she now testified that she had seen \u201cManny\u201d hit her mother with both a radio and an iron. Counsel also questioned N.M. about her recollection of the night of the murder and noted other inconsistencies between N.M.\u2019s testimony on direct examination and earlier statements, such as whether \u201cManny\u201d had a knife and whether her mother was in bed when \u201cManny\u201d entered the apartment. Counsel emphasized prior statements by N.M. indicating that after \u201cManny\u201d had pulled her mother off the bed, he closed the door to the bedroom, so that N.M. could not have seen what was going on; and that N.M. had gone back to sleep while the bedroom door was closed, had not seen any of the altercation that led to her mother\u2019s death, and had not heard her mother crying or screaming. See N.T., 11/7/91, at 20-32.\nOn re-direct, the prosecutor attempted to clarify N.M.\u2019s testimony that she had in fact seen appellant hit her mother. When defense counsel objected, the court asked N.M., \u201cDid you see Manny hit mommy?\u201d and \u201cYou did not see Manny hit mommy?\u201d N.M. answered \u201cNo\u201d to both questions. When the prosecutor resumed re-direct examination, he elicited testimony from N.M. that she had seen \u201cManny and mommy\u201d in the room and that \u201cManny\u201d had a radio and an iron in his hands. N.M. also testified that she remembered telling the detective after the murder that she had seen \u201cManny\u201d hit her mother with an iron and pull her mother\u2019s hair out. On recross examination, defense counsel attempted to further probe whether N.M. actually saw her mother get hit in the head with an iron, but the trial court sustained prosecution objections that the question form was inappropriate and defense counsel declined to pursue the matter any further. See N.T., 11/7/91, at 32-37.\nPreliminarily, we note that the fact that a child competency examination is conducted in front of the jury is not inherently prejudicial \u2014 and certainly not in a heightened Strickland, sense. The Washington Court recognized as much; its per se rule was adopted as a prophylactic measure. Nor does appellant claim that there was anything particularly prejudicial about the substance of the brief in-court competency examination and ruling in this case, beyond the bare fact that both the examination, and the court\u2019s finding of competency, were placed before the jury. Appellant also does not challenge the court\u2019s ruling, ie., he does not dispute that N.M. in fact was competent to testify. What remains, then, is the fact of the brief examination and the court\u2019s finding that N.M. was competent, ie., that she was \u201ccapable of having the intelligence and understands the obligation of telling the truth.\u201d\nThis record does not support a finding that actual prejudice inured to appellant, ie., that if N.M.\u2019s competency examination and determination had not occurred in front of the jury, the result of the trial would have been different. All witnesses swear or affirm an oath before testifying in front of a jury; the same promise is made by those who are unfailingly honest, and by those who intend to observe their promise only in the breach. Only certain witnesses, including the young, are subject to some additional screening and probing beyond the mere oath or affirmation. It is difficult to see how neutral questions implicating competency, if otherwise admissible at trial\u2014 questions probing the ability to perceive and relate events, the awareness of the duty to speak the truth \u2014 such as were posed here, could be deemed prejudicial in the Strickland sense.\nA court\u2019s in-court statement of its finding of competency, of course, can be another matter. But, in this case, the court\u2019s ruling was stated in neutral terms: the court spoke only of the child being \u201ccapable of having the intelligence and understands the obligation of telling the truth.\u201d This ruling did not suggest that the court believed that the child \u2014 who had not yet testified' \u2014 would, in fact, accurately relate events and would tell the truth; rather, the court spoke narrowly of capacity and obligation. Although it is from the mouth of the judge, in substance, this is what adult witnesses convey when they take an oath \u2014 even if they intend to violate it.\nFurthermore, the actual examination of N.M. plainly conveyed to the jury that her account was subject to question, the same as that of any other witness permitted to testify. Defense counsel cross-examined the child and exposed inconsistencies in her statements and her memory. The trial court itself elicited contradictory answers from the child concerning whether she had seen appellant strike her mother. On this record, it is difficult to discern any prejudice from the in-court competency examination alone, given that these inconsistencies in N.M.\u2019s testimony were exposed immediately after she, unlike other witnesses, was specifically questioned before the jury about her ability to recall and relate the truth.\nIn assessing the prospect of prejudice, we note also that the trial court made clear to the jury in its general introductory instructions that the jury was the sole judge of witness credibility:\nYou are the judge of the credibility and weight of all evidence, including the testimony of witnesses. By credibility of testimony or other evidence, I mean its truthfulness and accuracy.... You are not bound by any opinion you might think counsel or I have expressed concerning guilt or innocence, credibility of witnesses,' weight of evidence, facts proven by the evidence or inferences to be drawn from the facts.\nN.T., 11/6/91, at 18, 20. The trial court\u2019s closing instructions to the jury reiterated these points and added a list of suggestions the jury might consider in deciding witness credibility, including general references that obviously accounted for child witnesses, such as that the jury consider the witnesses\u2019 ages, their ability to have observed events, their ability to recollect events, and the extent to which a witness\u2019s testimony was contradicted or supported by other testimony and evidence. N.T., 11/12/91, at 60-62. In addition to the fact that trial counsel could rely on these instructions to dispel any possible spillover of prejudice from the in-court competency examination of N.M., the instructions square well with the modest nature of the court\u2019s finding on competency which, again, spoke in terms of N.M.\u2019s capacity and obligation, and not her credibility.\nFinally, in assessing prejudice and considering whether a different outcome might have ensued, had N.M.\u2019s competency examination taken place outside the presence of the jury, we note that while N.M. was an important eyewitness at trial, her identification of appellant as the killer and her general account of the killing were echoed by adult witnesses who testified as to what N.M. told them shortly after the murder. Madeline Dickerson, the victim\u2019s neighbor, testified that the morning after the murder, N.M. came to her door and told her that \u201cManny\u201d had hit her mother in the head with an iron and put her in the bathtub; N.M. also described to Ms. Dickerson all the blood at the scene. The emergency room doctor who treated the injuries appellant inflicted on N.M. testified from her own notes that N.M. told her: \u201cManny took me and put me on the bed. He hit mommy. He hit her with a knife, a big knife from the kitchen. He put my mommy in the bathtub. There was blood all over my mommy. There was blood in her mouth. Manny hit me here [N.M. pointed to her own face]. He hit me this morning.\u201d Finally, Detective Paul Rich of the Homicide Division, who interviewed N.M. later that same day, testified that N.M. selected appellant\u2019s photograph from a photo array and identified appellant as the one who attacked her mother. N.T., 11/7/91, at 39-41, 57-58, 68-72. Viewed in light of this testimony, appellant\u2019s particular assertion that the trial court finding N.M. competent in the jury\u2019s presence in some way bolstered N.M.\u2019s credibility to a prejudicial extent is unpersuasive. In light of the foregoing, we conclude that appellant has not established a reasonable probability that, if only the competency examination and ruling had qccurred outside the presence of the jury, the outcome of the trial would have been different. Therefore, appellant\u2019s underlying claim of trial counsel ineffectiveness fails and, as such, his derivative claim that direct appeal counsel was ineffective for failing to pursue that claim necessarily fails as well.\nAppellant\u2019s alternative layered claim concerning trial counsel\u2019s failure to request a jury instruction distinguishing between competency and credibility fails for the same inability to prove prejudice. As we have noted above, the court\u2019s ruling on competency was modest and narrow; the jury was separately and strongly instructed on credibility, including concerns obviously particular to child witnesses; inconsistencies in the child\u2019s testimony were highlighted for the jury; and other evidence corroborated the child\u2019s in-court account. Moreover, appellant fails to explain how a specific and additional instruction distinguishing between competence and credibility would have improved his prospects for a different result at trial. And, finally, the cases appellant cites do not support this claim. In Rosche v. McCoy, 397 Pa. 615, 156 A.2d 307 (1959), this Court set forth the standard for child witness competency and held that the determination was within the trial court\u2019s discretion, but did not suggest a need for specific instructions to the jury, much less did the Court outline what such an instruction should say. In Commonwealth v. Roldan, 524 Pa. 366, 572 A.2d 1214 (1990), which was not a competency case, this Court held that remarks and questions by the trial court to either witnesses or counsel were acceptable when they served the limited purpose of clarification. Notably, in Roldan, the trial court instructed the jury both before and at the close of evidence of its role as primary arbiter of credibility \u2014 the trial court here did so as well. The Roldan Court, declining to find reversible error, held:\nThese instructions served to stress to the jurors that it was their opinion and their opinion alone that mattered. That they resolved the credibility of the appellant\u2019s theories of defense against him was not the result of questioning from the bench but rather due to the fact that the evidence against this appellant was both overwhelming and credible.\nId. at 1216. Roldan does not support appellant\u2019s claim here.\nD. Failure to request Kloiber charge\nAppellant next claims that direct appeal counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness for failing to request a cautionary instruction regarding N.M.\u2019s identification testimony pursuant to Commonwealth v. Kloiber, 378 Pa. 412, 106 A.2d 820 (1954), cert. denied, 348 U.S. 875, 75 S.Ct. 112, 99 L.Ed. 688 (1954). Appellant alleges that N.M. wavered during cross-examination and then recanted her testimony that she actually saw appellant hit the victim, which appellant argues should have cast serious doubt on N.M.\u2019s identification of him as the perpetrator. Appellant alleges that the trial court compounded the problem and manifested bias by questioning N.M. on re-direct examination, which appellant says improperly influenced N.M.\u2019s testimony. Instead, appellant argues, the trial court should have sua sponte issued a Kloiber charge. Appellant further contends that the lighting was poor at the time of the murder, as it was nighttime, and that N.M. was not well-positioned to see what actually happened.\nThe Commonwealth responds that this claim is meritless because none of the established grounds for a Kloiber charge was met. The Commonwealth submits that appellant\u2019s claim is really an improper backdoor challenge to N.M.\u2019s credibility and is not within the ambit of Kloiber, which focuses on the circumstances of the out-of-court event and the actual physical ability of the witness to see and identify a defendant. The Commonwealth posits that N.M. plainly had an opportunity to view appellant, whom she knew well, during the length of the altercation, both when appellant was attacking her mother and when he was attacking her. The Commonwealth maintains that, even if the entirety of the assault was not in N.M.\u2019s direct line of vision at every moment, the fact remains that she was close enough to see and identify appellant clearly during crucial moments in the ordeal. The Commonwealth adds that any uncertainty in N.M.\u2019s testimony did not involve the identity of the attacker, but was limited to certain aspects of the ordeal. But, at no point, the Commonwealth emphasizes, was N.M. equivocal in her unfailing, repeated identification of appellant, whom she knew, as her mother\u2019s killer: to her neighbor, to the police, to her treating doctor, from a photographic array, at the preliminary hearing, and at trial. As there was no basis for a Kloiber instruction, the Commonwealth asserts, appellant cannot prove his layered claim of counsel ineffectiveness.\nThe PCRA court agreed that the trial record here did not support a Kloiber instruction. The court noted that N.M. knew appellant personally prior to the incident, adding that because N.M. was also physically attacked during the incident, logic suggests that she must have been close enough to the perpetrator to recognize him. The court further noted that the record indicated that there was sufficient light in the apartment for an identification. The court added that at no time had N.M. ever indicated that someone else was responsible for the attack, nor had she wavered in her identification of appellant as the perpetrator. Thus, the court concluded, trial counsel was not ineffective for failing to request a Kloiber charge and direct appeal counsel was not ineffective for failing to raise trial counsel\u2019s ineffectiveness in this regard.\nUnder Kloiber, \u201ca charge that a witnesses] identification should be viewed with caution is required where the eyewitness: (1) did not have an opportunity to clearly view the defendant; (2) equivocated on the identification of the defendant; or (8) had a problem making an identification in the past.\u201d Commonwealth v. Gibson, 547 Pa. 71, 688 A.2d 1152, 1163 (1997) (citing Kloiber). Where an eyewitness has had \u201cprotracted and unobstructed views\u201d of the defendant and consistently identified the defendant \u201cthroughout the investigation and at trial,\u201d there is no need for a Kloiber instruction. Commonwealth v. Dennis, 552 Pa. 331, 715 A.2d 404, 411 (1998). When the witness already knows the defendant, this prior familiarity creates an independent basis for the witness\u2019s in-court identification of the defendant and weakens ineffectiveness claims based on counsel failure to seek a Kloiber instruction. See Commonwealth v. Fisher, 572 Pa. 105, 813 A.2d 761, 770-71 (2002) (Opinion Announcing Judgment of the Court) (witness\u2019s in-court identification valid based on witness having known defendant for eleven years); Commonwealth v. [Freddie] Johnson, 433 Pa. 34, 248 A.2d 840, 841-42 (1969) (witness had known defendant for three years prior to robbery and murder; no trial court error in not issuing Kloiber instruction); see also Commonwealth v. [Clarence] Johnson, 419 Pa.Super. 625, 615 A.2d 1322, 1335-36 (1992) (witness knew defendant and \u201chad seen him on several occasions\u201d prior to murder; defendant not entitled to Kloiber instruction because witness\u2019s in-court identification was supported by independent basis).\nAppellant has not shown that any of the three disjunctive Kloiber circumstances was present here; thus, his underlying claim that counsel\u2019s performance was deficient lacks arguable merit. Although N.M. may not have witnessed the entirety of the attack upon her mother, particularly its grisly conclusion, she was present for enough of it \u2014 including when she herself was also attacked by appellant \u2014 to identify him as the perpetrator, especially since there is no disputing that she knew appellant already. In addition, although N.M.\u2019s testimony under cross-examination was uncertain as to some specific details of the killing, she never equivocated in her identification testimony, nor did appellant demonstrate any issue with N.M.\u2019s prior identifications of him as the assailant. Furthermore, N.M.\u2019s testimony established that she had protracted and unobstructed views of appellant during crucial parts of the attack, especially when she went to see what was happening to her mother and appellant attacked her. Any perceived weaknesses in N.M.\u2019s testimony attributable to her tender years, the circumstances of the horrific experience, the subject matter, and her ability to recall details were matters of credibility for the jury as factfinder to decide; but those issues did not undermine N.M.\u2019s actual physical ability to identify appellant at the time and place of the murder, so as to trigger the special identification testimony concerns underlying the Kloiber line of decisions. Accordingly, appellant\u2019s layered claim concerning the absence of a Kloiber charge fails.\nE. Failure to challenge absence of medical examiner\u2019s testimony\nAppellant next claims that direct appeal counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness for failing to adequately challenge the Commonwealth\u2019s failure to produce at trial Fredric N. Heilman, M.D., the medical examiner who performed the autopsy on the victim and drafted the autopsy report. Appellant argues that his counsel\u2019s default denied him his constitutional right to confrontation, which he asserts he preserved at trial by refusing to stipulate to Dr. Heilman\u2019s testimony.\nAppellant relatedly alleges that trial counsel was ineffective for failing to adequately challenge the trial court\u2019s error in permitting the deputy medical examiner, Ian C. Hood, M.D., to testify as to the cause of the victim\u2019s death. Appellant recognizes that Dr. Heilman did not testify at trial because he had since become a medical examiner at the Armed Forces Institute of Pathology outside of Washington, D.C. But, appellant claims that this circumstance was not sufficiently compelling to justify Dr. Heilman\u2019s absence. Appellant relies upon Commonwealth v. McCloud, 457 Pa. 310, 322 A.2d 653 (1974). Appellant acknowledges that trial counsel objected to Dr. Hood testifying in lieu of Dr. Heilman, but claims that counsel should have extended the challenge by moving for a mistrial.\nThe Commonwealth responds that appellant\u2019s claim lacks arguable merit. The Commonwealth notes that Dr. Hood was present during the victim\u2019s autopsy and supervised the procedure; he personally viewed the victim\u2019s body repeatedly; he reviewed the case with Dr. Heilman both before and after the autopsy; and he testified at trial as to his own observations, opinions, and conclusions. The Commonwealth also argues that because Dr. Hood was cross-examined in detail by appellant\u2019s trial counsel, there was no violation of appellant\u2019s confrontation rights. The Commonwealth cites two cases where a pathologist and a medical examiner were permitted to testify even though, unlike here, the respective witnesses had not even personally examined the victims\u2019 bodies: Commonwealth v. Smith, 480 Pa. 524, 391 A.2d 1009, 1012-13 (1978), and Commonwealth v. Mitchell, 391 Pa.Super. 100, 570 A.2d 532, 534 (1990). In the Commonwealth\u2019s view, McCloud is inapposite because in that case, the prosecution attempted to prove the cause of death by simply entering the autopsy report on the basis that the report was admissible under the business records exception to the hearsay rule. In short, the Commonwealth asserts that here, it presented a live witness at appellant\u2019s trial \u2014 the supervising medical examiner of the autopsy \u2014 who had observed the procedure, drawn his own conclusions as to the victim\u2019s cause of death, and was subject to cross-examination by the defense. Furthermore, the Commonwealth contends, appellant has not established: that Dr. Heilman would have testified differently; that Dr. Hood\u2019s testimony was in error; or even that a different cause of death was possible, given that the victim was found in a bloody bathtub with fluid in her lungs and pulmonary edema. The Commonwealth adds that since appellant\u2019s trial counsel did in fact object to Dr. Hood\u2019s testimony, his ineffectiveness on this point cannot be established; nor, similarly and derivatively, can direct appeal counsel be found ineffective.\nThe PCRA court held that because Dr. Hood was present at and supervised the victim\u2019s autopsy, he testified as to his own observations, opinions, and conclusions. The court also concluded that McCloud was inapposite and that appellant had not shown actual prejudice. We see no error in the ruling below. McCloud, indeed is inapposite. In that case, this Court held that the Commonwealth\u2019s attempt to read into evidence certain portions of the medical examiner\u2019s autopsy report was not permissible under the business records exception to the hearsay rule and that without the examiner\u2019s testimony, reversible error had occurred. This Court noted that, in the criminal context, medical information may be admissible under the business records exception for the \u201clegitimate purpose of establishing the fact of hospitalization and the treatment given,\u201d but not to prove medical opinion as to an essential element of a crime, such as the cause of death. 322 A.2d at 656 (quoting Commonwealth v. Mobley, 450 Pa. 431, 301 A.2d 622, 624 (1973)).\nThe two cases cited by the Commonwealth are more relevant. In Smith, the defendant argued that the Commonwealth did not lay a proper foundation for testimony as to cause of death by a pathologist who had not been present at the gunshot victims\u2019 autopsy and had not seen the bodies personally, but who had inspected the victims\u2019 vital organs after the fact and had also relied upon the autopsy report of the deputy coroner who had performed the autopsies. The deputy coroner also testified, but limited his testimony to his qualifications and the facts he observed in performing the autopsies and did not supply any medical opinions. This Court concluded that the deputy coroner was qualified to produce a report based upon the facts he observed during the course of the autopsies. Moreover, and to the point here, this Court held that the report, in combination with the pathologist\u2019s own observations of the gunshot victims\u2019 vital organs, was a proper basis from which the pathologist could draw conclusions with a reasonable degree of medical certainty as to the cause of death. 391 A.2d at 1012-13. Similarly, in Mitchell, the Superior Court rejected a Confrontation Clause challenge where the examiner who prepared the autopsy report had moved out of the country and was not available to testify, but the examiner who did testify relied upon the facts presented in the report and from them drew his own conclusions as to the cause of death. See 570 A.2d at 534.\nIn this case, Dr. Hood testified as follows during direct examination:\nQ: During the period, on the day in fact when Miss Manigault was brought to the Medical Examiner\u2019s Office for postmortem examination, did you have an opportunity to view the body?\nA: Yes.\nQ: Did you supervise the postmortem examination which was in fact performed by Dr. Heilman, who was a fellow at that time?\nA: I was present and looked over the case as he did it. The attending pathologist at the Medical Examiner\u2019s Office who was assigned for signing out cases that day was Dr. Hoyer, and his signature appears at least one place in this report. The principle [sic] person who did the autopsy was in fact Rick Heilman.\nQ: Have you had an opportunity since that time to review both the slides, all the appropriate documents and all the materials that are involved in the postmortem examination of Sheila Manigault?\nA: Yes. I went over this case with him before the autopsy and after.\nQ: After speaking with Dr. Heilman and reviewing the appropriate documents, did you view the slides as well?\nA: Yes.\nQ: Viewing the slides, were you able to reach an opinion to a reasonable degree of medical certainty as to the cause of death of Sheila Mani-gault?\n[Defense counsel objected and was overruled by the court.]\nA: I have no doubt that this lady died, as is documented here, from the effects of being beaten, scalded and finally drowned.\nN.T., 11/7/91, at 83-85. Dr. Hood also indicated in his testimony that a great many of the injuries inflicted on the victim had occurred before her death. See id. at 86-88, 93-94. Dr. Hood further noted that he lacked an independent specific recollection of every detail of this particular autopsy, in light of the fact that six other autopsies were occurring at the time, but that the autopsy was \u201csufficiently unusual that it sticks in my mind.\u201d N.T., 11/13/91, at 17.\nIn light of the testimony above and the decisions in Smith and Mitchell, which held that a medical expert who did not perform the autopsy may testify as to cause of death as long as the testifying expert is qualified and sufficiently informed, appellant\u2019s claim that trial counsel should have requested a mistrial lacks merit. Dr. Hood, who was qualified to render an opinion on cause of death, viewed the victim\u2019s body personally and consulted with Dr. Heilman both before and after the autopsy itself. Moreover, this circumstance is a far cry from McCloud, upon which appellant bases his claim. We also agree with the PCRA court that appellant has not shown Strickland prejudice. He has not shown that Dr. Heilman\u2019s testimony would have differed from that of Dr. Hood at all, or that cross-examination of Dr. Heilman would have revealed such different information that there is a reasonable probability of a different verdict. Instead, appellant confines himself to the procedural aspects of his complaint. Because appellant has not established ineffective assistance of trial counsel, his derivative claim of ineffective assistance of direct appeal counsel similarly fails.\nF. Failure to object to prosecutor\u2019s motive argument\nAppellant next claims that direct appeal counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness for failing to challenge the Commonwealth\u2019s alleged misrepresentation of the evidence when characterizing appellant\u2019s motive for committing the murder. Appellant argues that the Commonwealth\u2019s portrayal of him as having been put out of the house by the victim and then rejected by another woman, Joan Walker, and the insinuation that these circumstances led him to murder the victim, was speculation without any basis in the record. Appellant points to the cross-examinations of Joan Walker and Frank Casper, in which both testified that appellant never threatened them or anyone else, to their knowledge.\nThe Commonwealth responds that ample record evidence supported the trial prosecutor\u2019s characterization of appellant\u2019s motive, including other aspects of Ms. Walker\u2019s and Mr. Casper\u2019s testimony. The PCRA court did not address this issue in its opinion.\nThe standards governing challenges to statements by the prosecutor are well-settled:\nA prosecutor has reasonable latitude during his closing argument to advocate his case, respond to arguments of opposing counsel, and fairly present the Commonwealth\u2019s version of the evidence to the jury. A challenged statement by a prosecutor must be evaluated in the context in which it was made. Not every intemperate or improper remark mandates the granting of a new trial. Reversible error occurs only when the unavoidable effect of the challenged comments would prejudice the jurors and form in their minds a fixed bias and hostility toward the defendant such that the jurors could not weigh the evidence and render a true verdict.\nCommonwealth v. Cooper, 596 Pa. 119, 941 A.2d 655, 668 (2007) (citations omitted). Prosecutor remarks are not objectionable if the remarks \u201cwere based on the evidence or proper inferences therefrom .... \u201d Commonwealth v. [Aaron] Jones, 571 Pa. 112, 811 A.2d 994, 1006 (2002). On the other hand, of course, the prosecutor should not \u201cmisstate the evidence or mislead the jury as to the inference it may draw.\u201d Commonwealth v. Shain, 493 Pa. 360, 426 A.2d 589, 591-92 (1981) (disapproving prosecution commentary suggesting that defendant intended to molest decedent-victim; setting of crime did not exclude that possibility, but evidence did not support inference of motive); see also Commonwealth v. Adkins, 468 Pa. 465, 364 A.2d 287, 290 (1976) (prosecution\u2019s motive argument based solely upon witness\u2019s speculative statement found to be insufficiently supported by evidence).\nHere, the prosecutor stated during his opening remarks that the victim had allowed appellant to stay at her apartment when he had nowhere else to go, but that shortly thereafter, she wanted him to leave and told this fact to her neighbor Frank Casper, who helped the victim \u201cput [appellant] out\u201d by allowing appellant to stay with him in his apartment with Joan Walker for a few days. The prosecutor continued by noting that appellant did stay at least one night with Casper and Walker, but that very soon thereafter, Ms. Walker \u201cdidn\u2019t want [appellant] around anymore, either. He was starting to give her a bad feeling.\u201d See N.T., 11/6/91, at 24-27. In closing, the prosecutor reiterated that the victim had \u201ctaken in\u201d appellant but that he had become \u201cso threatening to her that she had to put him out.\u201d The prosecutor stated next that while the Commonwealth is not obligated to prove motive, if one exists, the jury should consider it, and that along those lines, appellant \u201chad been put out by a woman, scorned by a woman who wouldn\u2019t even speak to him and that malice, that hostility, that anger was in him.\u201d N.T., 11/12/91, at 39.\nAppellant\u2019s claim that there was no evidence to support the prosecutor\u2019s comments regarding motive is belied by the record. Frank Casper testified that he allowed appellant to stay with him for a few nights because the victim had told him that she did not want appellant staying with her. N.T., 11/6/91, at 55. Although Ms. Walker testified on cross-examination that appellant never actually threatened her, her testimony on direct examination indicated clearly that appellant scared her and that she sought to avoid him, going so far one time as to punch him and push a friend\u2019s apartment door closed on him in an effort to stay away from him after he had followed her. N.T., 11/6/91, at 39, 41, 42, 45, 49. This testimony supported the prosecutor\u2019s statements suggesting appellant\u2019s possible motive for killing the victim. The prosecutor\u2019s remarks were a fair inference from the evidence and were not excessive or incendiary. The jury was also instructed both at the beginning and at the end of trial that the arguments of counsel were not to be taken as evidence. N.T., 11/6/91, at 20; 11/12/91, at 54. In light of the foregoing, trial counsel cannot be faulted for failing to object to the prosecutor\u2019s remarks, and thus, appellant\u2019s claim lacks arguable merit. Moreover, appellant has not shown that had trial counsel objected, the trial outcome would have been different, such that appellant was prejudiced by the prosecutor\u2019s opening and closing comments suggesting motive. Because appellant has not established ineffective assistance of trial counsel, his derivative claim of ineffective assistance of direct appeal counsel necessarily fails.\nG. Failure to object to verdict slip\nAppellant next faults direct appeal counsel for failing to claim that trial counsel was ineffective for failing to request that the trial court include a separate line on the verdict slip of overall \u201cnot guilty,\u201d in addition to the guilty/not guilty option presented to the jury for the vaxious charges individually. Appellant argues that since he formally pleaded not guilty, the lack of a global \u201cnot guilty\u201d option on the verdict slip violated due process. Appellant notes that the prosecutor suggested inclusion of such a \u201cnot guilty\u201d option as a precaution against claims of prejudice by appellant, but that the court declined the suggestion, without objection by appellant\u2019s counsel. Citing Commonwealth v. Edwards, 394 Pa. 335, 147 A.2d 313 (1959), appellant speculates that the jury may not have believed that it was empowered to simply acquit him.\nAppellant adds that the verdict slip deficiency was compounded by the fact that the jury received misleading information from the court crier after the jury left the courtroom to begin deliberations. Appellant cites to a record exchange during which the court crier said, respecting the murder charges: \u201cWhen I give the verdict sheet, I explain to them [the jury] they can only select one of the two options, either first degree or third degree.\u201d Citing Parker v. Gladden, 385 U.S. 363, 87 S.Ct. 468, 17 L.Ed.2d 420 (1966), appellant argues that the court crier probably confused the jury regarding its ability to find appellant not guilty and that the jury was likely misled to an extent that could not have been countered by the court\u2019s instructions on the concepts of burden of proof and the presumption of innocence.\nThe Commonwealth responds that the trial court instructed the jury properly as to its ability and duty to find appellant \u201cnot guilty\u201d if the Commonwealth did not meet its burden of proof. The Commonwealth notes also that the verdict slip properly listed \u201cnot guilty\u201d as a possible verdict for both the first-degree and third-degree murder charges and that appellant has not shown that the jury was mistaken or confused in its completion of the verdict slip. The Commonwealth argues that Edwards is inapplicable because the trial judge there omitted \u201cnot guilty\u201d from the list of possible verdicts, which was not so here. The Commonwealth adds that appellant confuses the nature of the discussion between the prosecutor and the trial court regarding the verdict slip. In actuality, the Commonwealth explains, the prosecutor had merely expressed concern, ultimately unfounded, that the layout of the jury verdict slip might lead the jury to believe that it could return convictions of both first-degree murder and third-degree murder, not just one or the other. Concerning appellant\u2019s claims as to the court crier, the Commonwealth distinguishes Parker as having presented obviously improper conduct by the bailiff, who told several jurors that the defendant was \u201cwicked\u201d and \u201cguilty\u201d and that \u201c[i]f there is anything wrong (in finding petitioner guilty) the Supreme Court will correct it.\u201d Commonwealth\u2019s Brief at 34 (citing Parker, 385 U.S. at 363-64, 87 S.Ct. 468). Here, the Commonwealth notes, court personnel did not comment on appellant\u2019s guilt, nor was the jury precluded from rendering a not guilty verdict if it had seen fit to do so.\nThe PCRA court opined that appellant\u2019s claim respecting the court crier was not raised in any of his PCRA filings, so any such claim was waived. In a footnote, the court added that while appellant had raised \u201can issue involving the verdict slip\u201d in his May 2002 Fourth Supplemental and Amended Petition, he had not raised in that pleading \u201cany of the issues set forth above\u201d (referring presumably to appellant\u2019s claim regarding the court crier). In the alternative, on the merits, the court opined that appellant had not established any improper contact between the court crier and the jury. As such, the court concluded, all derivative claims of counsel ineffectiveness associated with the issue of the court crier\u2019s conduct were also merit-less. The court did not specifically address the merits of appellant\u2019s claim alleging layered ineffectiveness arising from the alleged defect in the verdict slip. PCRA Ct. Op. at 27.\nThe record reveals the following with respect to appellant\u2019s underlying complaints concerning the verdict slip and the court crier. First, the trial court defined both first-degree murder and third-degree murder for the jury and set forth in depth the distinct mens rea requirement for each. After describing the lesser charges against appellant, the trial court explained that appellant was presumed innocent, that the Commonwealth bore the burden of proving all elements of the crimes beyond a reasonable doubt, and that \u201cif the Commonwealth\u2019s evidence fails to meet its burden, then your verdict must be not guilty.\u201d N.T., 11/12/91, at 42-4, 50-52.\nThe verdict slip given to the jury, which is titled \u201cVerdict Report Form,\u201d reads as follows:\nPossible Verdicts:\nMurder \u2014 1st Degree Guilty or Not Guilty or\nMurder \u2014 3rd Degree Guilty or Not Guilty\nPossessing Instruments of Crime \u2014 Generally\nGuilty or Not Guilty\nAggravated Assault (victim: N.M.)\nGuilty or Not Guilty\nVerdict Report Form, 11/12/91. Thus, the verdict slip specifically reserved the option of guilty or not guilty with respect to each charge. After the jury had retired to deliberate, the court asked if there were \u201cany additions or corrections to the verdict slip.\u201d The following exchange then occurred:\nCourt: Are there any additions or corrections to the verdict slip?\nAssistant District Attorney (\u201cA.D.A.\u201d): The only thing I would suggest, if [the court crier] will alter it, as I have seen in the past for the murder bills, it says one of the above verdicts, guilty, guilty murder first degree, guilty murder third degree, not guilty.\nCourt: Let me see that.\nA.D.A.: It would require them [the jury] actually \u2014 for instance, if they acquit the defendant, they would have to find him not guilty of first, not guilty of third. In the alternative they may find the defendant guilty of first and third degree murder, and to me it just seems simpler and more straightforward if the verdict slip says one of the above three verdicts. Court [presumably directed to the court crier]: [T]he Commonwealth has requested the verdict slip be altered to read, \u201cYou may select one of the possible three verdicts.\u201d\nCourt Crier: The jurors know that. When I give the verdict sheet, I explain to them they can only select one of the two options, either first degree or third degree. That is explained to the jurors.\nA.D.A.: I understand that, but as I say again, that verdict slip doesn\u2019t have one line for not guilty. They could require them to circle not guilty \u2014 I don\u2019t want any claim of prejudice to arise against the defendant.\nCourt: This verdict slip as written by [the court crier] has withstood the test.\nCourt Crier: It has \u201cor,\u201d \u201cfirst or [third].\u201d\nCourt: That is correct. I\u2019ll leave it the way it is.\nN.T., 11/12/91, at 62-64. Appellant\u2019s counsel raised no objection.\nWhen the jury returned and announced its verdict of guilt, it had executed the verdict slip as follows: the jury wrote the word \u201cguilty\u201d in the blank after first-degree murder; left empty the blank after third-degree murder, and wrote the word \u201cguilty\u201d in the blanks after both possession of an instrument of crime and aggravated assault on N.M.\nAppellant\u2019s claim that counsel was obliged to object to the verdict slip, and to forward an argument along the lines of the suggestion made by the trial prosecutor, lacks merit. First, it must be remembered that the verdict slip exists to record the result of the jury\u2019s deliberation; it is not the deliberation itself, and the jury\u2019s deliberation is guided by the court\u2019s charge. The verdict slip here, as drafted and as executed by the jury, was consistent with the trial court\u2019s charge and instructions to the jury. Thus, contrary to appellant\u2019s assertions, the verdict slip made clear that a \u201cnot guilty\u201d verdict was available as to each of the charges. Although offering the jury a global \u201cnot guilty\u201d option is possible, nothing in the law requires that sort of redundancy on the verdict slip, and counsel could trust in the court\u2019s charge as well as the fact that the slip made clear that individual not guilty verdicts were available. Furthermore, it is difficult to discern any prejudice arising from the lack of a global \u201cnot guilty\u201d option on the verdict slip. Notably, there was no communication from the jury to the court during its deliberations indicating any confusion or difficulty. Any claim of prejudice arising from the verdict slip rests on pure speculation.\nThe Edwards case appellant cites in challenging the propriety of the verdict slip does not advance his claim. The dispute in Edwards did not involve a verdict slip, but rather the more important issue of the accuracy of the trial court\u2019s instructions regarding possible verdicts. Edwards admitted shooting his friend\u2019s abusive father (who survived the shooting), but claimed insanity. The trial court instructed the jury that it could find Edwards guilty of first-degree murder with the death penalty, first-degree murder with life imprisonment, second-degree murder, voluntary manslaughter, or not guilty because of insanity. However, the jury instruction did not present the option of a simple not guilty verdict. This Court reversed and ordered a new trial, concluding that even though Edwards had admitted the shooting, he was still entitled to the presumption of innocence and it was for the jury to decide whether he had a justification or excuse for the shooting such that outright acquittal was appropriate. Edwards reaffirms the importance of accuracy in the court\u2019s charge.\nIn this case, it is undisputed that the court\u2019s instructions made clear that a verdict of not guilty was available. Moreover, as noted, the verdict slip itself made clear the availability of a not guilty verdict on each charge. Because appellant\u2019s underlying claim challenging the verdict slip lacks merit, counsel cannot be deemed ineffective.\nAppellant\u2019s claim regarding the court crier warrants closer analysis, though not necessarily for the reason appellant specifies. A court crier\u2019s responsibilities are properly limited to logistics and purely ministerial functions, such as escorting the jury in and out of the courtroom. Instructions on the law, and the deliberative process, should come from the court alone, and should be on the record. The verdict slip falls in a gray area. As noted, the slip is intended merely to record the result of the jury\u2019s substantive deliberation. Nevertheless, the fact remains that the slip is with the jury during deliberations, and it should be accurate, so as not to mislead, just as special interrogatories should be carefully considered for accuracy and usefulness before submission in a civil case. Given this fact, the better course is for the trial court to explain to the jury, in open court and on the record, the mechanics of recording its verdict on the jury slip. That instruction should not be delegated to a court officer, particularly where the communication is off the record. Our review of the court\u2019s charge to the jury here reveals no discussion of the verdict slip. See N.T., 11/12/91, at 42-62. Unfortunately, it appears, the court here left it to the court crier to distribute and explain the slip. For the reasons set forth above, we caution against that practice.\nTurning to the substance of the court crier\u2019s off-the-record interaction with the jury concerning the verdict slip, the court crier\u2019s account could indeed be problematic \u2014 which confirms our concern that such a task should not be delegated to a court officer. If the court crier meant to convey that he had informed the jury that it was to render a verdict on only one of the murder \u201coptions\u201d on the verdict slip, that advice would be accurate only for purposes of recording a murder conviction; an acquittal on both murder charges would require the jury to pass upon both charges, and the slip should be executed to reflect verdicts on both chai-ges. But, the court crier\u2019s account was posed in response to the trial court noting the prosecutor\u2019s concern that it would be simpler if the jury were told that it could render one of three possible verdicts on the murder charges (ie., guilty of first-degree murder, guilty of third-degree murder, or not guilty of either). Notably, the court crier began his response by saying, \u201c[t]he jurors know that,\u201d and then recounting that he had informed the jurors that they could only choose first-degree or third-degree murder, which, presumably, was the court crier\u2019s way of addressing the conviction scenario.\nCounsel obviously could have lodged an objection at this point, pursued the matter further with the court crier on the record, and/or asked for supplemental instructions from the court itself concerning execution of the verdict slip. At a minimum, an objection would have afforded the prospect of a better record concerning exactly what the jury was told out-of-court. Nevertheless, we do not believe appellant has proven the Strickland prejudice he alleges on this record.\nAppellant speculates that the court crier\u2019s comment to the jury that \u201cthey can only select one of the two options, either first degree or third degree\u201d was harmful because it confused the jury into believing that it could not render a verdict of not guilty. But, given the context of the exchange we have set forth above, it is not' clear that that is what the crier conveyed to the jury; it is just as likely that all he conveyed was that any recorded guilty verdict for murder had to be limited to first-degree or third-degree murder, and not both. More importantly, appellant\u2019s suggestion of juror confusion during deliberation over the availability of a \u201cnot guilty\u201d verdict on both murder charges conflates the verdict slip with the court\u2019s charge. As noted above, the verdict slip exists merely to record the jury\u2019s conclusion after it has deliberated. The verdict slip does not frame deliberations; the court\u2019s charge does. Nothing in the truncated explanation of the court crier, or in appellant\u2019s proffer, suggests that the court crier\u2019s communication with the jury, concerning the mere logistics of recording the verdict on the slip, affected the court\u2019s charge or the actual deliberative process of the jury.\nFurthermore, for purposes of prejudice analysis on collateral review, the fact remains that the court\u2019s charge and the verdict slip both made clear to the jury the availability of a verdict of \u201cnot guilty\u201d as to each charge, the jury indicated no confusion with its task, and its verdict as announced was clear and unambiguous. There has been no showing of actual prejudice arising from the trial court\u2019s admittedly unfortunate practice of permitting the court crier to explain the logistics of executing the verdict slip. Thus, appellant\u2019s layered claim of counsel ineffectiveness fails.\nH. Failure to present alibi defense\nAppellant next claims that direct appeal counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness for failing to investigate, develop, and produce alibi evidence. Appellant acknowledges that his alibi witness, David El, died before trial, but argues that El had given a signed statement to police detectives James Dougherty and Paul Raley, who also signed the statement as witnesses, which supported an alibi. El\u2019s statement indicated that he was at home asleep on the morning of the murder when appellant, whom he called \u201cManny,\u201d knocked at about 6:00 a.m. and asked to stay. Appellant had stayed overnight at El\u2019s home in the past. El let appellant in and appellant fell asleep on the couch. Several hours later, while appellant was still there, El went to a bar nearby, where he learned that the victim had been murdered and that the police were looking for appellant. El returned to his home, told appellant that the police were looking for him and asked appellant to leave. Appellant left and El did not see him again before speaking to police detectives later that month.\nAppellant interprets El\u2019s statement as proving that he was with El in El\u2019s home at the approximate time the Commonwealth alleged that the murder occurred. Appellant asserts that he informed trial counsel that he wished to assert an alibi based on El\u2019s statement and that El\u2019s statement was available to trial counsel, but counsel did not pursue the alibi. Citing Commonwealth v. Toth, 455 Pa. 154, 314 A.2d 275 (1974), appellant contends that El\u2019s statement was admissible, notwithstanding his unavailability to testify at trial, merely to prove that a potentially exculpatory statement was made and not for the truth of the matter asserted in the statement. Appellant also contends that counsel should have called Detectives Dougherty and Raley to testify to their opinions of the reliability of El\u2019s statement. Finally, appellant layers his claim by alleging direct appeal counsel ineffectiveness for failing to raise trial counsel\u2019s failure to pursue this alibi.\nThe Commonwealth responds, first, that appellant\u2019s current theories arguing that El\u2019s statement was admissible under Toth, either as proof that an exculpatory statement was made or through the testimony of the police detectives, were not raised in any of appellant\u2019s various PCRA petitions and are therefore waived. Commonwealth\u2019s Brief at 36 (citing Commonwealth v. Cousar, 593 Pa. 204, 928 A.2d 1025, 1041 (2007) and Commonwealth v. Arroyo, 555 Pa. 125, 723 A.2d 162, 170 (1999)). The Commonwealth also argues that these waived theories lack merit; we need not reach that point because we agree with the Commonwealth\u2019s primary argument that these particular sub-theories have not been preserved. Appellant did not cite Toth in any of his PCRA petitions or amendments. Appellant\u2019s pro se Rule 1925(b) statement (at \u00b6 8) and the Federal Defender\u2019s Rule 1925(b) statement (at \u00b6 34) both identify the claim as premised on allegations that trial counsel failed to investigate and develop alibi evidence, but both statements frame the issue in general terms and do not mention Toth or^the theory that the police could testify to a hearsay statement\u2019s reliability. Thus, these sub-claims are waived.\nOn the merits of appellant\u2019s general ineffectiveness/alibi claim, the Commonwealth argues that appellant\u2019s theory that El\u2019s out-of-court statement establishes an alibi clearly entails use of El\u2019s statement for the truth of the matter asserted, which is prohibited hearsay under Pennsylvania Rules of Evidence 801, 802, and 804. The Commonwealth posits that the only potentially applicable hearsay exception would be Rule 804(b)(3), \u201cstatement against interest,\u201d in which case the police detectives\u2019 testimony might be admissible to corroborate the statement\u2019s trustworthiness. But, according to the Commonwealth, El\u2019s statement was clearly not against El\u2019s interest and there is no other basis for its admissibility. Commonwealth\u2019s Brief at 36-37.\nMore fundamentally, the Commonwealth argues, El\u2019s statement that appellant was at his apartment on the morning of the murder from about 6:00 a.m. or 7:00 a.m. until after 10:00 a.m. does not qualify as alibi evidence. This is so because the evidence would not conclusively exclude appellant as the murderer since, according to Dr. Hood\u2019s testimony, the killing occurred between 4:00 a.m. and 10:00 a.m., and perhaps even as early as midnight. That time frame left sufficient time for appellant to both commit the murder and appear at El\u2019s residence afterwards. The Commonwealth also notes that several aspects of El\u2019s statement would have been harmful to appellant even if the statement was admitted, including: El\u2019s assertion that it was unusual for appellant to appear at his home in the early morning; that appellant\u2019s appearing at that time gave El a feeling \u201cthat something had happened\u201d; and El\u2019s description of suspicious conduct on appellant\u2019s part, including that when El told appellant that the police were looking for him, appellant did not inquire as to a reason, but simply left El\u2019s apartment; and that appellant \u201cdisappeared\u201d and had no contact with El after the attack on the victim became known. Thus, the Commonwealth argues, even if El\u2019s statement had been admitted and credited, it was not reasonably likely to have convinced the jury to overlook the Commonwealth\u2019s substantial evidence of appellant\u2019s guilt.\nThe PCRA court concluded that appellant\u2019s underlying claim premised upon El\u2019s statement as an alibi was merit-less because El\u2019s death prior to trial made his statement inadmissible hearsay. PCRA Ct. Op. at 46 (citing Commonwealth v. Sims, 513 Pa. 366, 521 A.2d 391 (1987)) (written out-of-court statements of eyewitnesses inadmissible hearsay when witnesses cannot be found to testify). We agree.\n\u201cHearsay, which is a statement made by someone other than the declarant while testifying at trial and is offered into evidence to prove the truth of the matter asserted, is normally inadmissible at trial.\u201d Commonwealth v. Carson, 590 Pa. 501, 913 A.2d 220, 254 (2006); See Pa.R.E. 801(c) & 802. Of course, out-of-court statements by an unavailable declarant may be admissible if they fit within one of several recognized hearsay exceptions, such as former testimony, a statement under belief of impending death, a statement against interest, or a statement of personal or family history. See Pa.R.E. 804. In the alternative, out-of-court statements may be admissible because they are non-hearsay, in which case they are admissible for some relevant purpose other than to prove the truth of the matter asserted. See Commonwealth v. [Raymond] Johnson, 576 Pa. 23, 838 A.2d 663, 680 (2003) (defendant\u2019s statements threatening witness\u2019s family admissible as verbal acts, a form of non-hearsay, because evidence not offered to establish truth of matter asserted, but rather, to demonstrate fact of attempted influencing of witness); Commonwealth v. Puksar, 559 Pa. 358, 740 A.2d 219, 225 (1999) (statements by witness who overheard defendant and his brother (the victim) arguing were admissible as non-hearsay because not offered to prove truth of matter asserted, but rather to establish motive for killings).\n\u201cGenerally, an alibi is a defense that places the defendant at the relevant time in a different place than the scene involved and so removed therefrom as to render it impossible for him to be the guilty party.... At the core of an alibi defense is, of course, consistency between the date and time of the crime and that of the defendant\u2019s alibi.\u201d Commonwealth v. [Raymond] Johnson, 600 Pa. 329, 966 A.2d 523, 538 & n. 5 (2009).\nHere, the PCRA court correctly determined that appellant\u2019s underlying claim lacks merit because El\u2019s statement was inadmissible hearsay. El\u2019s statement could only be relevant to establish alibi if it was proffered for the truth of the matter asserted therein (that appellant supposedly was elsewhere, with El, when the victim was murdered). The bald fact that El\u2019s statement was made proves nothing, and certainly does not support an alibi. El\u2019s statement therefore was hearsay, unlike in Johnson and Puksar. Nor has appellant argued that El\u2019s statement fits within any of the recognized hearsay exceptions, such that it could be proffered for its truth, notwithstanding El\u2019s unavailability. In addition, as the Commonwealth notes, El\u2019s statement concerning appellant\u2019s whereabouts from 6:00 a.m. to 10:00 a.m. would not have established an alibi because Dr. Hood\u2019s testimony established that the killing occurred between 4:00 a.m. and 10:00 a.m. and perhaps even earlier. El\u2019s account, thus, would not \u201crender it impossible\u201d for appellant to have been the murderer. Trial counsel cannot be faulted for failing to pursue an alibi defense, premised upon an inadmissible hearsay statement of an unavailable witness that would not even establish alibi; appellant\u2019s derivative claim respecting appeal counsel necessarily fails as well.\nI. Failure to \u201cfederalize\u201d state claims\nAppellant next raises a confused claim sounding in direct appeal counsel\u2019s supposed ineffectiveness for failing to ade-\nquately \u201cfederalize\u201d twenty-five of appellant\u2019s twenty-seven direct appeal claims by citing additional supportive federal decisions and constitutional provisions. Appellant claims that counsel\u2019s failure deprived him of the opportunity to have his claims adjudicated under federal constitutional standards. Appellant cites Picard v. Connor, 404 U.S. 270, 92 S.Ct. 509, 30 L.Ed.2d 438 (1971) and Duncan v. Henry, 513 U.S. 364, 115 S.Ct. 887, 130 L.Ed.2d 865 (1995) in support of this theory. In addition to this general claim, appellant more specifically faults appeal counsel for failing to raise trial counsel\u2019s ineffectiveness for failing to seek suppression of the clothes iron appellant used to beat the victim. Appellant notes that the clothes iron was the basis for his conviction of possession of an instrument of crime. In a non-sequitur to his suppression argument, appellant asserts that a clothes iron is not commonly used for criminal purposes and that the admission of the clothes iron here, without objection by counsel, tainted the entire trial. Appellant contends that an argument for suppression of the clothes iron should have been federalized by direct appeal counsel pursuant to Kimmelman v. Morrison, 477 U.S. 365, 106 S.Ct. 2574, 91 L.Ed.2d 305 (1986).\nThe Commonwealth responds that appellant\u2019s overall federalization complaint fails to state a cognizable claim under the PCRA. The Commonwealth argues that appellant has not provided sufficient legal authority for this abstract claim, nor has he explained how appeal counsel\u2019s \u201cfailure to federalize\u201d his claims caused actual prejudice such that, but for appeal counsel\u2019s alleged lapse, the result of appellant\u2019s direct appeal would have been different. To the Commonwealth, appellant\u2019s claim is nothing more than an assertion that appeal counsel\u2019s alleged ineffectiveness might adversely affect appellant in some hypothetical future federal habeas corpus proceeding, which is not a cognizable ground for relief under the PCRA.\nThe Commonwealth also argues that Kimmelman, a federal habeas decision, does not speak to whether state direct appeal counsel may be found ineffective on this type of claim. Regarding the clothes iron, the Commonwealth notes that the evidence showed that the iron was specially adapted for criminal use when appellant used it to beat the victim; the iron therefore became an instrument of crime pursuant to 18 Pa.C.S. \u00a7 907(d)(2). The Commonwealth asserts that because a motion to suppress the iron would have been mer-itless, trial counsel cannot have been ineffective for failing to seek suppression.\nPicard and Duncan do not speak in terms of due process rights, but instead in terms of federal habeas exhaustion requirements for state prisoners who would seek to collaterally attack their final state convictions in federal court. In Picard, the U.S. Supreme Court held that state courts must have the first opportunity to hear a federal claim that a state prisoner anticipates raising in federal habeas proceedings so that all state remedies will be properly exhausted before federal review; in short, such claims generally must be \u201cfairly presented\u201d at the state court level before a federal complaint can be heard. 404 U.S. at 275, 92 S.Ct. 509. Duncan then speaks to the mechanics of exhaustion: to properly exhaust federal claims, state prisoners must present them expressly and specifically enough so that the state court addressing them will \u201csurely be alerted to the fact that the prisoners are asserting claims under the United States Constitution.\u201d 513 U.S. at 365, 115 S.Ct. 887. In short, on federal habeas review, state prisoners should not be heard to complain about a state court\u2019s supposed rejection of federal claims that were not first identified and argued as such to the state courts.\nObviously, appellant\u2019s global ineffectiveness/\u201cfederalization\u201d claim proves nothing in the abstract; to secure relief, he must prove ineffectiveness with respect to some specific federal claim that he feels was inadequately presented on direct appeal. The only claim appellant identifies with any specificity is his Kimmelman claim respecting trial counsel\u2019s failure to seek suppression of the clothes iron. But Kim-melman, like Picard and Duncan, speaks to a procedural matter, ie., the cognizability, on federal habeas review, of claims of counsel ineffectiveness arising from defaulted Fourth Amendment claims. The U.S. Supreme Court held that while Fourth Amendment claims in and of themselves cannot be litigated on federal habe-as, pursuant to Stone v. Powell, 428 U.S. 465, 96 S.Ct. 3037, 49 L.Ed.2d 1067 (1976), a derivative Sixth Amendment ineffective assistance of counsel claim, based upon a defaulted Fourth Amendment issue, may be so litigated, subject to the settled test for ineffective assistance of counsel under Strickland. Kimmelman, 477 U.S. at 382-83, 106 S.Ct. 2574.\nHere, appellant, who obviously has confused the theoretical availability of claims with what is necessary to prove them, has not set forth any basis to conclude that the clothes Aon was admitted in violation of the Fourth Amendment, such that a motion to suppress the Aon should have been made. Appellant\u2019s argument that a clothes Aon is not commonly used for criminal purposes is no basis for suppression of relevant evidence. It is a claim implicating evidentiary sufficiency. Notably, that very issue was resolved by this Court on direct appeal. See Lester, 722 A.2d at 1002 (holding that clothes Aon was \u201cspecially adapted\u201d for criminal purpose of murder pursuant to 18 Pa.C.S. \u00a7 907(d) when appellant broke handle off, used plate or front of iron to inflict lacerations on victim\u2019s head, and used handle to inflict punctures and lacerations around her left eye). Appellant\u2019s \u201cfederalization\u201d claim, therefore, fails.\nJ. Brady Claims\nAppellant next presents two claims primarily based upon Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963), but also alleges ineffective assistance of trial and dAect appeal counsel to the extent that they could or should have uncovered the evidence implicated in these claims. FAst, appellant claims that the prosecution withheld evidence regarding the time of the victim\u2019s death, specifically, an unsigned handwritten report by an unnamed medical examiner\u2019s investigator that appellant alleges was in the medical examiner\u2019s file. Appellant contends that the contents of this report could have been used to suggest that the time of death was within the period during which he was at El\u2019s apartment (according to El\u2019s out-of-court statement).\nSecond, appellant claims that the Commonwealth withheld potential impeachment evidence regarding Joan Walker, whose testimony placed appellant in the victim\u2019s building on the night of the murder and portrayed him in an unfavorable and threatening light. Appellant claims that the prosecution did not inform the defense that at the time of appellant\u2019s trial, Ms. Walker had two felony drug charges pending against her for which bench warrants were still outstanding.\nThe Commonwealth responds that both of appellant\u2019s Brady claims are waived because, inter alia, they were not properly raised in his PCRA petition and amendments below. In addition, the Commonwealth argues, appellant\u2019s claim alleging suppression of the medical examiner investigator\u2019s report was not raised in appellant\u2019s Rule 1925(b) statement. The Commonwealth recognizes that the Federal Defender attempted to raise these new claims after the case was remanded to the PCRA court for the sole purpose of conducting the Grazier hearing. But, the Commonwealth argues, once appellant appealed the PCRA court\u2019s 2003 dismissal of his various PCRA petitions, the PCRA court had no jurisdiction to consider any new claims. The Commonwealth further notes that this Court\u2019s remand for the Grazier hearing was limited to that purpose and was not intended as an opportunity to present new not-of-record PCRA claims.\nThe PCRA court\u2019s original opinion, issued in 2005, obviously did not address the Brady claim regarding the unsigned medical examiner\u2019s investigator report. Regarding Ms. Walker\u2019s status, both appellant and the Federal Defender identified this new claim in their Rule 1925(b) statements. But, the PCRA court held, the claim was not preserved for review because appellant did not raise it in his PCRA petition.\nAppellant did not raise either of these Brady claims prior to his 2003 appeal. Indeed, Federal Defender Shawn Nolan, Esq., conceded as much at the April 27, 2007 Grazier hearing:\nMr. Nolan: As you are aware, we filed some new claims in the case. Once the Supreme Court had remanded the case for a Grazier [h]earing, their actual remand order was silent on the question of jurisdiction [to hear new claims]. And so in an abundance of caution, we filed an amended petition with some new claims....\nI just wanted to be clear that the record is clear and that the Court is finding that there is only jurisdiction for a Grazier hearing and not for other additional filings that were filed?\nThe Court: That\u2019s correct.\nN.T., 4/27/07, at 4-6. In its opinion on the Grazier issue, the PCRA court addressed the Federal Defender\u2019s attempt to raise new claims at the Grazier remand, as follows:\nAs for counsel\u2019s next contention that this Court erred in not considering the amendments made to the PCRA petition, it should be noted that the amendments were filed after [appellant] had filed an appeal to the [Supreme] Court. In addition, the remand order from the [Supreme] Court instructed this Court only to conduct a Grazier colloquy. As stated by [Pa.R.A.P.] 1701, \u201cAfter an appeal is taken ... the trial court ... may no longer proceed further in the matter.\u201d Therefore, this [c]ourt did not address the additional issues raised in the amended PCRA petition.\u201d\nPCRA Ct. Op., 7/25/07, at 4 (internal citation omitted).\nThe PCRA court was correct. This Court\u2019s order of June 15, 2006, remanded the case for a single purpose, to conduct a Grazier hearing on appellant\u2019s request to proceed pro se. We did not relinquish jurisdiction, much less did we invite appellant to raise new issues or to file what would amount to a serial PCRA petition. Indeed, our retention of jurisdiction deprived the PCRA court of authority to act other than with respect to the Gra-zier issue upon which we remanded., In light of the foregoing, appellant\u2019s Brady claims are not reviewable by this Court.\nK. Failure to raise Batson objection\nAppellant finally claims that direct appeal counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness for failing to argue that the prosecutor violated Batson v. Kentucky, 476 U.S. 79, 106 S.Ct. 1712, 90 L.Ed.2d 69 (1986) at trial by exercising peremptory challenges in a racially discriminatory manner. Appellant also alleges, at great length, that at the time of his trial, the Philadelphia District Attorney\u2019s Office as a whole engaged in similar discrimination in a systematic manner, which is prohibited under Swain v. Alabama, 380 U.S. 202, 85 S.Ct. 824, 13 L.Ed.2d 759 (1965)., Appellant maintains that this claim is based, in part, on newly discovered evidence of purported systematic discrimination that came to light after appellant lodged his current appeal.\nThe Commonwealth responds that appellant\u2019s Batson/Swain claims are waived for the same reason his Brady claims are waived: they were not raised in the PCRA petitions and amendment that were the subject of the PCRA court\u2019s 2003 order denying relief. Instead, the Commonwealth asserts that appellant first raised the claims, which are stock fare for the Federal Defender in Philadelphia cases (indeed, it appears that appellant has merely attached pages from the Defender\u2019s late pleadings), after this Court remanded in 2006 for the limited purpose of a Grazier hearing. The Commonwealth argues that appellant could not properly raise any new claims at that point because the PCRA court lacked jurisdiction to consider such claims.\nThe PCRA court likewise concluded, inter alia, that these claims were waived because they were not raised in the pleadings that were the subject of the court\u2019s 2003 ruling. Given our disposition of appellant\u2019s Brady claims, the resolution of these claims is straightforward. Appellant did not timely raise these claims before the PCRA court (in either an individualized or systematic form), and our limited Grazier remand did not open the case for the addition of new collateral claims. Thus, these claims are unreviewable.\nCONCLUSION\nFor the foregoing reasons, we affirm the order of the PCRA court.\nJustices SAYLOR, EAKIN, BAER, TODD, McCAFFERY, and ORIE MELVIN join the opinion.\n. The facts underlying appellant's convictions are set forth in detail in Commonwealth v. Lester, 554 Pa. 644, 722 A.2d 997 (1998).\n. The two aggravating circumstances that the jury found were: (1) in the commission of the offense, the defendant knowingly created a grave risk of death to another person in addition to the victim of the offense, 42 Pa.C.S. \u00a7 9711(d)(7); and (2) the offense was committed by means of torture, 42 Pa.C.S. \u00a7 9711(d)(8).\n. In particular, the PCRA court noted that: (1) it \"undertook a prolonged process in determining [appellant\u2019s competency\u201d; (2) the mental health evaluation revealed no psychological disorders that would prevent appellant from competently litigating his appeal; (3) during the Grazier hearing, appellant \"exhibited an understanding and appreciation for the gravity of his decision to proceed without counsel\"; and (4) at each opportunity the court had to observe appellant, including at several hearings, the court found appellant to \"exhibit[ ] a more than usual understanding of the law and its procedures.\u201d PCRA Ct. Op., 7/25/07, at 3, 6. A motion subsequently filed by the Commonwealth requesting a remand, another competency hearing, and appointment of counsel was denied by order of this Court dated September 28, 2007.\n. As this Court has repeatedly noted, the Pierce and Strickland standards themselves are substantively coextensive. See, e.g., Commonwealth v. Washington, 592 Pa. 698, 927 A.2d 586, 594 n. 8 (2007); Commonwealth v. Hawkins, 586 Pa. 366, 894 A.2d 716, 721 n. 10 (2006); Commonwealth v. Spotz, 582 Pa. 207, 870 A.2d 822, 829 (2005); Commonwealth v. Edmiston, 578 Pa. 284, 851 A.2d 883, 890 (2004); Commonwealth v. Busanet, 817 A.2d 1060, 1066 n. 10, 11 (2002).\n. The PCRA court did not address this issue in its opinion. Review of the record indicates that appellant included it in his September 15, 1999 pro se amended PCRA petition at pp. 5-6. The counseled Rule 1925(b) statement filed on petitioner\u2019s behalf on April 12, 2004 by the Federal Defender does not mention this claim either, but appellant referenced this claim at # 3 of his own pro se Rule 1925(b) statement filed on April 26, 2004. As the claim is resolvable on the existing record, we will pass upon it.\n. For example, Detective James Dougherty of the Philadelphia Police Department\u2019s Homicide Division testified, without objection, as follows:\nQ: As regards blood stains and splatters that you saw, there were splatters in the bathroom, living room, kitchen, the hallway and bathroom as well?\nA: Yes, sir, that is correct.\nN.T., 11/6/91, at 112.\n. N.M. was four years old at the time of die murder in April 1990; she was six years old when she testified at trial. N.T., 11/7/91, at 8.\n. In Harris, the children witnesses were the victims of the defendant's sexual assaults, which led to his conviction on, inter alia, three counts of rape. The appellate court affirmed, noting first that this was a matter within the trial court's discretion and that, generally, as long as the jury is properly instructed, no legislative direction or interest of justice precluded competency determinations from being held in the jury's presence. In association with this general discussion, the Harris court quoted from several Ohio treatises on evidence, including the language from \"Weissenberger\u2019s Ohio Evidence\u201d that this Court also quoted in Washington.\n. Madame Justice Newman filed a concurring opinion, in which she disagreed with adoption of a per se rule and expressed preference for leaving the decision whether to hold a child witness competency examination before the jury within the discretion of the trial judge; Justice Newman would also have required that if the trial court holds the examination before the juiy, an explanatory instruction regarding the difference between competency and credibility be issued. 722 A.2d at 647-48 (Newman, J., concurring). This author dissented, opining that the examination should be before the juiy, with an appropriate cautionary charge instructing the jury that the court's finding of competency is not an assessment of credibility and that the jury is the sole judge of credibility. 722 A.2d at 648-49 (Castille, J., dissenting).\n. This is not to say that there might not be strategic reasons to prefer that the competency examination and determination be made in front of the juiy in a particular case. An attorney may believe that it would benefit his client for the jury to observe a witness's performance in a competency qualification. But, no such claim is forwarded by the Commonwealth here, nor do we have any account of trial counsel\u2019s subjective thinking in this case.\n. Although witnesses generally are presumed to be competent in Pennsylvania, see Pa.R.E. 601(a), this Court historically has required that witnesses under the age of fourteen be subject to judicial inquiry into their testimonial capacity. See Rosche v. McCoy, 397 Pa. 615, 156 A.2d 307, 310 (1959); accord Commonwealth v. Dowling, 584 Pa. 396, 883 A.2d 570, 576 (2005); Commonwealth v. Delbridge, 578 Pa. 641, 855 A.2d 27, 39 (2003).\n. Appellant also claims trial court error for failure to instruct the jury sua sponte as appellant indicates; any such claim of trial court error is waived for failure to raise it before the trial court. See Pa.R.A.P. 302(a); Commonwealth v. May, 584 Pa. 640, 887 A.2d 750, 758 (2005). Even if it is assumed that the trial court had such a sua sponte duty at trial, appellant could have raised the claim of supposed trial court error on post-verdict motions and on appeal, but did not, and so the claim is waived under the PCRA.\n. To the extent appellant suggests a sua sponte duty of the trial court to issue the charge, any such claim again is waived for the same reasons set forth in footnote 12, supra.\n. On direct examination, N.M. initially indicated that she had seen \"Manny\u201d in the courtroom earlier that day (appellant had since been removed, upon his own request in open court before the jury, to the robing room, where he watched the proceedings on closed circuit television). N.T., 11/7/91, at 7, 13. Thereafter, N.M. answered \"Yes\u201d when asked \"Did [Manny] ever come there?\u201d with regard to the apartment where N.M. lived with her mother (the victim), younger brother, and baby sister. Id. at 13. Joan Walker and Aaron Casper, adult witnesses who knew both appellant and the victim, also testified that appellant had actually stayed at the victim's apartment some time prior to the murder. See N.T., 11/6/91, at 39, 54.\n. Appellant adds that direct appeal counsel was independently ineffective for failing to challenge the trial court's erroneous failure to \"inject itself\u201d sua sponte on appellant\u2019s behalf when trial counsel allegedly failed to protect his confrontation right. This claim of underlying trial court error in failing to discharge a supposed sua sponte duty differs from the sua sponte trial error claims appellant has raised above and which were addressed in footnotes 12 & 13, supra. In this instance, appellant seems to suggest that the claim was available to direct appeal counsel, but was defaulted at that level. As with the \u201csua sponte \" allegations appended to his prior claims, appellant has identified no authority \u2014 for there is none. \u2014 for his assertion that the trial judge was obliged to take this action without request from the defense, and so the underlying claim is waived.\n. The Commonwealth argues that appellant never raised this claim in any of his various amended PCRA petitions. It appears that appellant did in fact raise this issue in his May 30, 2002 \"Fourth Supplement\u201d to his amended PCRA petition at \u00b6\u00b6 195-204. Because we find that the claim is resolvable on the record, we proceed to decide it even though it was not addressed by the PCRA court.\n. Appellant refers to the court crier as a \"bailiff,\u201d but we will employ the proper term.\n. Appellant also faults trial counsel for failing to request a jury instruction that a global \"not guilty\" verdict was possible and for making statements during jury selection and in closing that, appellant says, amounted to a concession of appellant's guilt. Appellant noted these sub-claims in his Fourth Supplemental and Amended Petition, filed 5/30/02, at \u00b6\u00b6 206, 211. However, neither appellant's pro se Rule 1925(b) statement nor the Federal Defender's statement mentions these sub-claims and the PCRA court did not address them. Accordingly, these claims are waived.\n. In fact, our review of the record reveals that appellant did raise a claim pertaining to the court crier, as well as the alleged deficiency of the verdict slip, in his May 2002 Fourth Supplemental and Amended Petition at \u00b6\u00b6 205-17. Appellant asserted ineffective assistance of trial counsel for failure to object to the court crier's \"erroneous directives to the jury concerning the constitutionally infirm/deficient verdict slip (options), while simultaneously failing to request trial court, for appropriate instruction to go out to the jury.\u201d Id. at 11 217. Furthermore, the Federal Defender\u2019s Rule 1925(b) statement challenged the conduct of the court crier, overlarding the claim with an allegation of layered ineffectiveness, while appellant's pro se Rule 1925(b) statement sought relief on the basis that \"trial court officials restricted [the] jury\u2019s possible conclusion to a number of verdict options which excluded not guilty.\u201d Federal Defender\u2019s Rule 1925(b) statement, 4/12/04, at \u00b6 12; appellant\u2019s pro se Rule 1925(b) Statement, 4/26/04, at \u00b6 11. Accordingly, we will proceed to the merits of these layered sub-claims, which we find are resolvable on the record.\n. This case obviously is distinguishable from Parker, supra, upon which appellant relies. In Parker, the court officer offered several jurors his gratuitous opinion of the defendant's guilt and then compounded matters and undermined tire seriousness of the jury\u2019s obligation by suggesting that if they convicted the defendant in error, the Supreme Court would correct the mistake. The prejudice in Parker was apparent; such is not the case here.\n. It is not clear precisely when El died. Both sides refer in their briefs to a death certificate that appellant apparently attached to his September 2001 PCRA filing that fixed El's death as occurring on July 19, 1990. This would have been several months after the murder and over a year prior to appellant's November 1991 trial. The death certificate, however, does not appear to be in the official record on appeal. At any rate, there is no dispute that El died prior to trial. See Commonwealth\u2019s Brief at 35.\n.The Commonwealth notes that the version of El\u2019s statement included in appellant's PCRA petition appears to have been altered because it indicates that appellant arrived at El\u2019s residence between 5:00 a.m. and 6:00 a.m., an hour earlier than the time reflected on the copy of the same document attached by the Commonwealth to its April 19, 2002 Motion to Dismiss. Appellant responds that the alteration he made should be disregarded since his petition agreed with the affidavit of probable cause for his arrest warrant, which stated that appellant arrived at El's at about 6:00 a.m. and left at about 11:00 a.m. Although we obviously do not approve of the alteration of the document, we will proceed to the merits of the claim based upon the un-doctored version of El's statement.\n. Dr. Hood testified for the Commonwealth that, in his opinion, the victim had been dead for six to twelve hours, and perhaps as long as sixteen hours prior to when he and Dr. Heilman examined the body initially at about 4:00 p.m. later in the day after the victim was found. Roughly speaking, then, Dr. Hood placed the victim\u2019s time of death as occurring between 4:00 a.m. and 10:00 a.m. that morning, but perhaps as early as midnight, although the \"further back you go the less certain the ability to determine time of death becomes.\u201d See N.T., 11/7/91, at 95-97.\n. Included in the section of appellant's brief outlining his ineffectiveness/alibi argument, appellant also claims trial counsel ineffectiveness for failing to make use of the emergency room (\"E.R.\u201d) records from N.M.'s treatment after the murder. Those records, appellant asserts, would have placed the time of N.M.'s injuries at 9:00 a.m. or 10:00 a.m. The Commonwealth responds that appellant failed to raise an argument regarding the E.R. records before the PCRA court and, therefore, this argument is waived. Our review of the pleadings below confirms that appellant did not raise a time-based argument involving the E.R. records. Appellant appears to allege in his brief that a copy of the E.R. chart was attached as \u201cExh-K'' to his \u201cChief Amend. Petit.\u201d Appellant's Brief at 49 n. 22. It is unclear, however, to which of appellant's many petitions he refers and our review of all such petitions does not reveal any argument, discussion, or mention of the E.R. records. This claim, therefore, is waived. See Pa. R.A.P. 302(a).\nAppellant also alleges in this section of his brief that, if counsel had mounted an alibi defense based on El's statement, he would have been entitled to a jury instruction on alibi. That goes without saying. But, because El's statement was inadmissible hearsay and did not support an alibi, this argument is a non-starter.\nIn yet another ill-developed, spin-off subsidiary argument, appellant alleges that he should have been afforded the opportunity to testify to alibi. Our review of the pleadings below reveals no claim of ineffectiveness premised upon counsel's supposed interference with, or unreasonable guidance respecting, appellant's now-alleged desire to testify to alibi. Hence, this claim is waived. See Cousar, supra; see also Arroyo, supra.\n. The PCRA court also addressed an argument by appellant that El\u2019s statement was admissible because it was \"inherently reliable\u201d under Chambers v. Mississippi, 410 U.S. 284, 93 S.Ct. 1038, 35 L.Ed.2d 297 (1973). Appellant does not pursue that theory here.\n. The PCRA court did not address this issue in its opinion, notwithstanding that appellant raised his \"federalization\u201d claim in his June 2000 pro se \"Supplemental Petition Under the PCRA\u201d (pp. 17-22) and also in his pro se Rule 1925(b) statement (\u00b6 9). Nevertheless, because appellant\u2019s claim of direct appeal counsel ineffectiveness for failing to \"federalize\u201d appellant\u2019s claims is easily resolvable on the record and the briefs, we will decide it.\n. In a footnote, appellant indicates that he undertook to identify additional insufficiently federalized claims in an \"addendum\u201d that he provided to \"the courts.\" This \"addendum,\u201d which was attached to appellant's pro se supplemental PCRA petition of June 20, 2000, set forth twenty allegations of trial court error and ineffective assistance of counsel. In each such allegation, appellant claimed, inter alia, Fourteenth Amendment due process and equal protection violations and cited various purportedly supportive cases. Appellant has not, however, attended to any of these twenty claims with specificity in his brief to this Court. As such, these claims warrant no further review. Commonwealth v. Lambert, 568 Pa. 346, 797 A.2d 232, 237 n. 4 (2001) (\"All claims for relief must be set out in the brief and [may] not [be] merely incorporated by reference\u201d). See also Commonwealth v. Edmiston, 535 Pa. 210, 634 A.2d 1078, 1092 n. 3 (1993) (same).\n. Appellant has attached a copy of this report to his brief, but it does not appear to have been presented to the PCRA court and is not of record.\n. We have already passed upon appellant's claim alleging trial counsel ineffectiveness for failing to pursue an alibi defense premised upon El\u2019s statement. See Op., supra, at Section H.\n.The Commonwealth offers alternative arguments on the merits, which we will not reach since we agree that these claims are waived.\n. The body of that order reads as follows:\nAND NOW, this 15th day of June, 2006, the Philadelphia County Court of Common Pleas is directed to conduct a hearing within forty-five (45) days of the date of this order to determine whether [appellant's] waiver of his right to counsel on his pending appeal is knowing, intelligent and voluntary. See Commonwealth v. Grazier [552 Pa. 9], 713 A.2d 81 (Pa. 1998).\n. The Federal Defender, in its unauthorized appeal from the PCRA court\u2019s order granting appellant relief under Grazier, attempted to argue that these new claims were preserved. That appeal was quashed by this Court in its October 31, 2007 order.\n. See Commonwealth v. Lark, 560 Pa. 487, 746 A.2d 585 (2000) (as matter of jurisdiction, PCRA court cannot entertain new PCRA claims or new PCRA petition when prior petition is still under review on appeal). Moreover, because appellant's Brady claims herein are new, they are subject to the serial petition and time-bar restrictions of the PCRA.\n. Appellant refers to materials that have been the basis for a number of similar if not identical claims raised by other defendants: a 1987 videotaped training seminar given by then-Philadelphia Assistant District Attorney Jack McMahon; a 1990 jury selection lecture given by then-Philadelphia Assistant District Attorney Bruce Sagel; and notes of that lecture taken by then-Assistant District Attorney Gavin Lentz. See, e.g., Commonwealth v. Cook, 597 Pa. 572, 952 A.2d 594, 601 (2008). None of these prosecutors was involved in the selection of appellant's jury.\n. Appellant\u2019s brief acknowledges that aspects of Swain were overruled by Batson, which eased the defendant's evidentiary burden to establish purposeful discrimination in an individual case. The brief relies, rather, upon the theory that the portion of Swain condemning systematic, widespread and clearly consistent patterns of discrimination remains viable.\n. The Prothonolary of the Supreme Court is directed to transmit a complete record of dris case to the Governor in accordance with 42 Pa.C.S. \u00a7 971 l(i).",
+        "type": "majority",
+        "author": "Chief Justice CASTILLE."
+      }
+    ],
+    "attorneys": [
+      "Imanuel Bassil Ali, pro se.",
+      "Hugh J. Burns Jr., Anthony V. Pomer-anz, Philadelphia District Attorney\u2019s Office, Philadelphia, Amy Zapp, Harrisburg, for Commonwealth of Pennsylvania."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Imanuel Bassil ALI, a/k/a Emanuel Lester, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted Dec. 5, 2008.\nDecided Dec. 29, 2010.\nSee also, 554 Pa. 644, 722 A.2d 997.\nImanuel Bassil Ali, pro se.\nHugh J. Burns Jr., Anthony V. Pomer-anz, Philadelphia District Attorney\u2019s Office, Philadelphia, Amy Zapp, Harrisburg, for Commonwealth of Pennsylvania.\nCASTILLE, C.J, SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+  },
+  "file_name": "0282-01",
+  "first_page_order": 288,
+  "last_page_order": 327
+}

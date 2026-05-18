@@ -1,0 +1,571 @@
+{
+  "id": 7285656,
+  "name": "Phyllis ZALEPPA, Appellee v. Kristen SEIWELL and James Seiwell. Appeal of Kristen Seiwell, Appellant",
+  "name_abbreviation": "Zaleppa v. Seiwell",
+  "decision_date": "2010-11-17",
+  "docket_number": "",
+  "first_page": "632",
+  "last_page": "640",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 632"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "908 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2573216,
+        8458804
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that federal court decisions are persuasive, rather than binding, authority"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0296-01",
+        "/a2d/908/0875-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 296",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2573216
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that federal court decisions are persuasive, rather than binding, authority"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0296-01"
+      ]
+    },
+    {
+      "cite": "825 A.2d 1261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "573 Pa. 697",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "795 A.2d 388",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        163546,
+        9423764,
+        9423822
+      ],
+      "pin_cites": [
+        {
+          "page": "397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/568/0263-01",
+        "/a2d/795/0388-01",
+        "/a2d/795/0388-02"
+      ]
+    },
+    {
+      "cite": "680 A.2d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7865428,
+        769239
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/680/1181-01",
+        "/pa-super/452/0032-01"
+      ]
+    },
+    {
+      "cite": "452 Pa.Super. 32",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        769239
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/452/0032-01"
+      ]
+    },
+    {
+      "cite": "500 F.3d 19",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3699973
+      ],
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/500/0019-01"
+      ]
+    },
+    {
+      "cite": "509 F.3d 517",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3330155
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "523"
+        },
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/509/0517-01"
+      ]
+    },
+    {
+      "cite": "574 F.3d 92",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3675093
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/574/0092-01"
+      ]
+    },
+    {
+      "cite": "42 C.F.R \u00a7 411.22",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 C.F.R \u00a7 411.24",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 C.F.R. \u00a7 411.22",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "specifying that a primary payer must make payment to either \"an entity designed to receive repayments,\" such as a plaintiff receiving a judgment in her favor, or \"[a]s directed in a recovery demand letter\" from Medicare"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 C.F.R. \u00a7 411.24",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(h)"
+        },
+        {
+          "page": "(g)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002 WL 32356399",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "346 F.3d 386",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9092934
+      ],
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/346/0386-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291260,
+        4196542
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/986/0063-01",
+        "/pa/604/0352-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 352",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196542
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0352-01"
+      ]
+    },
+    {
+      "cite": "399 U.S. 267",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169743
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "297-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/399/0267-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 152",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5276
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0152-01"
+      ]
+    },
+    {
+      "cite": "688 A.2d 703",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357307,
+        468676
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/688/0703-01",
+        "/pa/547/0041-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468676
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0041-01"
+      ]
+    },
+    {
+      "cite": "962 A.2d 632",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3440818,
+        8186950
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "636",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0534-01",
+        "/a2d/962/0632-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 534",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3440818
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0534-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292808,
+        4197106
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/0641-01",
+        "/pa/603/0180-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197106
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0180-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 561",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8937242,
+        687718
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/880/0561-01",
+        "/pa/583/0608-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 608",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687718
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0608-01"
+      ]
+    },
+    {
+      "cite": "854 A.2d 968",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "578 Pa. 717",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "814 A.2d 766",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9344803
+      ],
+      "pin_cites": [
+        {
+          "page": "771"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/814/0766-01"
+      ]
+    },
+    {
+      "cite": "932 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8343808
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "132"
+        },
+        {
+          "page": "132",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/932/0128-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1067,
+    "char_count": 26334,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 1.8721885223809971e-07,
+      "percentile": 0.7264410010004444
+    },
+    "sha256": "e38ab53a6000a3dda8e0f7c14e09f484a5e7ca6dad12ba9dab3d685243e213d1",
+    "simhash": "1:9fa81e3ed50e5d54",
+    "word_count": 4276
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: ALLEN, MUNDY, and COLVILLE, JJ."
+    ],
+    "parties": [
+      "Phyllis ZALEPPA, Appellee v. Kristen SEIWELL and James Seiwell. Appeal of Kristen Seiwell, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nMUNDY, J.:\nAppellant, Kristen Seiwell, appeals from the judgment entered on October 26, 2009 in the Luzerne County Court of Common Pleas. The judgment was entered following a trial in which the jury returned a verdict in the amount of $15,000.00 against Seiwell and in favor of Appellee, Phyllis Zaleppa. Seiwell alleges that the trial court erred in denying her post-trial motion, which requested that the court enter an order directing her to pay the verdict either (1) by naming Medicare, along with Zaleppa and her attorneys, as payees on the draft satisfying the verdict or (2) by paying the verdict into court pending notification from Medicare that all outstanding Medicare liens have been satisfied. After careful consideration, we conclude that there is no legal basis under either federal or Pennsylvania law to assert the interests of the United States government as to the reimbursement of Medicare liens. Thus, the trial court properly denied Seiwell\u2019s post-trial motion. Accordingly, we affirm.\nThe relevant facts and procedural history are as follows. On October 29, 2004, Seiwell and Zaleppa were involved in an automobile accident. The accident occurred when Seiwell backed her 1998 Saturn out of her driveway and struck the passenger side of the 2000 Chevy Tracker in which Zaleppa was a front seat passenger. As a result of this accident, Zaleppa sustained bodily injury to her cervical, thoracic, and lumbar spine regions. At the time of the accident, Zaleppa was 69 years old. On October 16, 2006, Zaleppa instituted this lawsuit against Seiwell by writ of summons. Subsequently, she filed her complaint on February 6, 2007, in which she sought payment for medical expenses, loss of wages, and pain and suffering. Certified Record (C.R.) at 8. Her complaint also included as a co-defendant, Sei-well\u2019s father, James Seiwell, the owner of the vehicle that his daughter was driving at the time of the accident.\nSeiwell ultimately admitted liability in regard to the accident as well as Zaleppa\u2019s resulting injures. On May 7, 2009, this matter proceeded to a jury trial on the limited issue of damages only. On May 8, 2009, the jury entered a verdict in the amount of $15,000.00, which consisted of $5,000.00 for \u201cfuture medical expenses\u201d and $10,000.00 for \u201cpast, present and future physical pain and suffering, mental anguish and distress, embarrassment and humiliation, and loss of the pleasures and enjoyment of life.\u201d Trial Court Opinion, 1/19/10, at 1. Both parties filed post-trial motions. In her post-trial motion, Seiwell argued that the terms of the Medicare Secondary Payer Act (MSPA) require all parties in litigation to protect Medicare\u2019s interests when resolving claims involving conditional payments made by Medicare. C.R. at 71. As such, in regard to the payment of the verdict, Seiwell requested that the trial court allow her to either (a) \u201c[ijnclude and identify [Zaleppa], her attorneys and Medicare as payees on the draft that satisfies the verdict\u201d or (b) \u201c[p]ay the verdict into [the trial] [c]ourt pending notification from Medicare to the [trial] [c]ourt that the Medicare lien is satisfied.\u201d Id. On October 22, 2009, the trial court denied both parties\u2019 post-trial motions. On October 26, 2009, the trial court entered judgment in favor of Zalep-pa and against Seiwell in the amount of $15,000.00. C.R. at 73. Then, on November 20, 2009, Appellant filed a notice of appeal. The trial court filed its Rule 1925(a) opinion on January 19, 2010.\nOn appeal, Seiwell raises two issues for our review.\n[1.] Did the Trial Court err in refusing to include and identify [Zaleppa], her attorneys and Medicare as payees on the draft that satisfies the verdict, or alternatively [... ]\n[2.] Did the Trial Court err in refusing to order payment of the verdict into Court pending notification from Medicare to the Court that the Medicare lien is satisfied?\nAppellant\u2019s Brief at 4. Both of Seiwell\u2019s issues address the same legal question, whether the MSPA either requires or allows a private entity to assert the rights of the United States government regarding a potential claim for reimbursement of a Medicare lien. We, therefore, shall discuss these issues concurrently.\nSeiwell contends that the trial court erred or abused its discretion in denying her motion for post-trial relief because the MSPA \u201crequire[s] parties in litigation to protect Medicare\u2019s interests when resolving claims involving conditional payments made by Medicare.\u201d Appellant\u2019s Brief at 7. According to Seiwell, she risks the potential of future liability stemming from the MSPA and its corresponding regulations unless evidence is produced demonstrating that Medicare\u2019s interests are protected. Id. Seiwell argues that under 42 U.S.C.A. \u00a7 1395y(b)(2)(B)(ii) of the MSPA, she and her liability insurer are considered the \u201cprimary plan\u201d responsible for reimbursing Medicare for conditional payments made to Zaleppa. Id. at 8. As such, Seiwell claims the trial court should have ordered that either Medicare be added as a payee on the draft satisfying the verdict, or payment of the verdict be made into the trial court pending notification from Medicare that any and all pertinent Medicare liens have been satisfied. Id. at 14.\nOur review of the trial court\u2019s denial of Seiwell\u2019s motion for post-trial relief is limited to determining whether the trial court abused its discretion or committed an error of law. See Paliometros v. Loyola, 932 A.2d 128, 132 (Pa.Super.2007). \u201cAn abuse of discretion exists when the trial court has rendered a judgment that is manifestly unreasonable, arbitrary, or capricious, has failed to apply the law, or was motivated by partiality, prejudice, bias, or ill will.\u201d Stalsitz v. Allentown Hospital, et al., 814 A.2d 766, 771 (Pa.Super.2002) (citations omitted), appeal denied, 578 Pa. 717, 854 A.2d 968 (2004). \u201cIf the alleged mistake concerned an error of law, we will scrutinize for legal error.\u201d Paliometros, supra at 132 (citation omitted). \u201cOn questions of law, our standard of review is de novo and our scope of review is plenary.\u201d Straub v. Cherne Industries, 583 Pa. 608, 880 A.2d 561, 566 (2005).\nIn the case sub judice, the trial court denied Seiwell\u2019s motion for post-trial relief, in part, because \u201cthere were no copies of bills or explanations of benefits attached to [Seiwell]\u2019s Motion that indicated any payments were made by Medicare.\u201d Trial Court Opinion, 1/19/10, at 2. The trial court further expounded upon the reasons underlying its decision by noting the following.\n[I]n [Zaleppa]\u2019s memorandum in response to [Seiwell]\u2019s Motion, [Zaleppa] stated that Medicare had not paid any of her past medical bills and, for that reason, [Zaleppa] had made no claim for past medical expenses. In fact, as indicated above, the Jury Verdict Interrogatories filed of record in this matter clearly do not include any award for past medical expenses. Because there was no evidence before the Court that Medicare had actually paid any of [Zaleppa]\u2019s accident-related medical bills and because the jury\u2019s verdict did not include any award for the same, the Court denied [Seiwell]\u2019s Motion.\nId.\nAlthough our independent review has revealed that the certified record is devoid of any evidence indicating that Medicare paid any of Zaieppa\u2019s medical bills, we are not persuaded that this lack of evidence is determinative. If Seiwell\u2019s proffered interpretation of the MSPA is valid, the MSPA requires litigants to protect Medicare\u2019s interest in the reimbursement of conditional payments. According to Sei-well, in order to protect Medicare\u2019s interest, the MSPA obligates her to confirm that all potential Medicare liens have been satisfied before paying the verdict award. Otherwise, as Seiwell avers, she risks being held liable to the United States government under the MSPA. Thus, in order to determine whether the trial court abused its discretion or committed an error of law by denying Seiwell\u2019s motion for post-trial relief, we must first ascertain Seiwell\u2019s obligations under the MSPA by interpreting the pertinent sections of the statute.\nIn general, \u201c[t]he object of all interpretation and construction of statutes is to ascertain and effectuate the intention of the [legislature].\u201d Spectrum Arena L.P. v. Commonwealth, 603 Pa. 180, 983 A.2d 641, 647 (2009); see also 1 Pa.C.S. \u00a7 1921(a). \u201cWhen the words of a statute are clear and free from all ambiguity, their plain language is generally the best indication of legislative intent.\u201d Penn Jersey Advance, Inc. v. Grim, 599 Pa. 534, 962 A.2d 632, 636 (2009) (citation omitted). When interpreting a federal statute, we apply the following principles.\nThe construction of a federal statute is a matter of federal law. In re: Estate of Romani 547 Pa. 41, 688 A.2d 703, 708 n. 18 (1997). Under federal rules of statutory construction, in determining the meaning of a federal statute, the courts look not only to particular statutory language, but also to the design of the statute as a whole and to its purposes. Crandon v. United States, 494 U.S. 152, 158, 110 S.Ct. 997, 108 L.Ed.2d 132 (1990). Furthermore, when the courts confront circumstances not plainly covered by the terms of a statute, suggesting that Congress did not contemplate the issue, they endeavor to give statutory language the meaning that advances the policies underlying the legislation. United States v. Sisson, 399 U.S. 267, 297-98, 90 S.Ct. 2117, 26 L.Ed.2d 608 (1970).\nCouncil 13, American Federation of State, County and Mun. Employees, AFL-CIO ex rel. Fillman v. Rendell, 604 Pa. 352, 986 A.2d 63, 80 (2009).\nUnder the MSPA, Medicare \u201cmay make payment [... ] with respect to an item or service if a primary plan described in subparagraph [42 U.S.C.A. \u00a7 1395y(b)(2)(A)(ii) ] has not made or cannot reasonably be expected to make payment with respect to such an item or service promptly[.]\u201d 42 U.S.C.A. \u00a7 1395y(b)(2)(B)(i). The MSPA, however, \u201cassigns primary responsibility for medical bills of Medicare recipients to private health plans when a Medicare recipient is also covered by private insurance.\u201d Fanning v. United States, 346 F.3d 386, 389 (3d Cir.2003). The MSPA classifies these private insurance plans as \u201cprimary,\u201d whereas it classifies Medicare as \u201cthe \u2018secondary\u2019 payer responsible only for paying amounts not covered by the primary plan.\u201d Id.; see also United States v. Weinberg, 2002 WL 32356399, *2 (E.D.Pa.) (explaining that the MSPA \u201ctransforms Medicare into a secondary payment system for those patients in need of medical care already covered by certain forms of insurance\u201d). As such, in the event that a private insurer is legally required to pay for the treatment for which Medicare has already paid, the MSPA provides that Medicare must be reimbursed for the expense. 42 U.S.C.A. \u00a7 1395y(b)(2)(B)(i) (stating that \u201c[a]ny such payment [... ] shall be conditioned on reimbursement to the appropriate Trust Fund\u201d). An entity which receives payment from a primary plan must reimburse Medicare within 60 days. See 42 C.F.R. \u00a7 411.24(h).\nThe MSPA specifically delineates the obligations of both the recipient and primary insurance plan as follows.\n(ii) Primary plans\nA primary plan, and an entity that receives payment from a primary plan, shall reimburse the appropriate Trust Fund for any payment made by the Secretary under this subchapter with respect to an item or service if it is demonstrated that such primary plan has or had a responsibility to make payment with respect to such item or service. A primary plan\u2019s responsibility for such payment may be demonstrated by a judgment, a payment conditioned upon the recipient\u2019s compromise, waiver, or release (whether or not there is a determination or admission of liability) of payment for items or services included in a claim against the primary plan or the primary plan\u2019s insured, or by other means. If reimbursement is not made to the appropriate Trust Fund before the expiration of the 60-day period that begins on the date notice of, or information related to, a primary plan\u2019s responsibility for such payment or other information is received, the Secretary may charge interest (beginning with the date on which the notice or other information is received) on the amount of the reimbursement until reimbursement is made (at a rate determined by the Secretary in accordance with regulations of the Secretary of the Treasury applicable to charges for late payments).\n42 U.S.C.A \u00a7 1395y(b)(2)(B)(ii). As the express language indicates, the MSPA imposes a duty upon a \u201cprimary plan\u201d and \u201can entity that receives payment from a primary plan\u201d to reimburse Medicare if the primary plan is responsible to pay for the medical treatment provided. Id. Thus, if an outstanding Medicare lien existed, we recognize that the MSPA requires that either Zaleppa, as the \u201centity that reeeive[d] payment from [the] primary plan[,]\u201d or Seiwell and her insurer, as the primary plan, must reimburse Medicare. Id. Importantly for our review, the regulations under the MSPA indicate that only a recovery demand letter, which is issued by Medicare and directed specifically to the primary plan, triggers the primary plan\u2019s duty to reimburse the Medicare trust fund. 42 C.F.R. \u00a7 411.22(c) (specifying that a primary payer must make payment to either \u201can entity designed to receive repayments,\u201d such as a plaintiff receiving a judgment in her favor, or \u201c[a]s directed in a recovery demand letter\u201d from Medicare). Seiwell, however, contends that the existence of this statutory obligation requires and enables her and her insurer, as a primary plan, to seek post-trial relief which affirmatively asserts the United States government\u2019s interest in reimbursement. See Appellant\u2019s Brief at 7,14. We disagree.\nSeiwell\u2019s statutory obligation to reimburse Medicare is distinct from Medicare\u2019s statutory right of reimbursement. Nothing in \u00a7 1395y(b)(2)(B)(ii), or any other provision of the MSPA, expressly authorizes a primary plan to assert Medicare\u2019s right to reimbursement as a preemptive means of guarding against its own risk of liability. The MSPA sets forth only one method for the United States government to recover the funds which it dispersed through conditional Medicare payments. Under the MSPA, only the Unites States government is authorized to pursue its own right to reimbursement. 42 U.S.C.A \u00a7 1395y(b)(2)(B)(iii). Specifically, the MSPA provides that \u201c[i]n order to recover payment made [... ] for an item or service, the United States may bring an action against any or all entities that are or were required or responsible [... ] to make payment with respect to the same item or service (or any portion thereof) under a primary plan.\u201d Id. The United States may also recover \u201cfrom any entity that has received payment from a primary plan or from the proceeds of a primary plan\u2019s payment to any entity.\u201d Id. Although the United States government \u201cmay initiate recovery as soon as it learns that payment has been made or could be made under workers\u2019 compensation, any liability or no-fault insurance, or an employer group health plan,\u201d we determine that the government\u2019s power to seek recovery must be read consistent with the regulations clarifying a primary plan\u2019s payment obligations. See 42 C.F.R \u00a7 411.24(b). As such, we discern from the regulations that the government may only seek recovery directly from a primary plan after it has issued a recovery demand letter to that primary plan. See 42 C.F.R \u00a7 411.22(c). Otherwise, the MSPA would allow the government to seek recovery from a primary plan though the primary plan\u2019s reimbursement obligation had not been triggered. Id.\nWe further note that although 42 U.S.C.A. \u00a7 1395y(b)(3)(A) establishes a \u201cprivate cause of action for damages,\u201d a consensus among the Federal Circuit Courts of Appeal has determined that the MSPA does not allow a private party to bring suit on behalf of the United States government for the reimbursement of conditional Medicare payments. See e.g., Woods v. Empire Health Choice, Inc., 574 F.3d 92, 100 (2d Cir.2009) (holding that the MSPA only permits a private party to bring suit \u201cwhere the private party has itself suffered an injury\u201d); Stalley v. Catholic Health Initiatives, 509 F.3d 517, 523 (8th Cir.2007) (\u201cconcluding] that the [MSPA] actually allows a private plaintiff to assert his own rights, not those of the government\u201d); United Seniors Ass\u2019n v. Philip Morris USA, 500 F.3d 19, 23 (1st Cir.2007). As such, the statutory scheme established by the MSPA is not designed to enable private parties to act on behalf of the United States government as \u201cprivate attorneys generalf.]\u201d Stalley, supra at 522.\nOur review of the statute as a whole reveals that the intent of Congress, found within the express language of the MSPA, bestowed only the United States government with the authority to recover outstanding conditional Medicare payments. The MSPA expressly provides that only the United States government, not a private entity, may file a lawsuit in which the rights of the government are asserted. We note that the goal of interpreting a federal statute is to effectuate the intent of Congress, which may require that \u201ccourts look not only to the particular statutory language, but also to the design of the statute as a whole and to its purposes.\u201d Rendell, supra at 80. As a result, we discern no reason why Congress\u2019 intent should not extend beyond the capability to commence a lawsuit. Congress\u2019 intent to allow only the United States government to vindicate its own interests in reimbursement must be applied throughout the MSPA. Thus, as the MSPA bars private entities from filing lawsuits on behalf of the United States government, by extension, we conclude that the MSPA also pro-Mbits private entities from asserting the interests of the United States government in a post-trial motion or at any other phase of litigation. The statutory scheme demonstrates Congress did not intend that the authority to assert the United States government\u2019s right to reimbursement would arise from a primary plan\u2019s potential liability.\nFurthermore, had the trial court granted Seiwell\u2019s motion for post-trial relief, we observe that the verdict itself would have remained unchanged. Notably, in her motion, Seiwell does not seek to alter the obligations created by the verdict; rather, she only seeks to alter the method by which the verdict may be satisfied. Specifically, Seiwell requests that the court permit her to satisfy the verdict by adding Medicare as a payee to the award payment or by paying the verdict into the trial court pending notification from Medicare that no outstanding liens exist. As such, the rights and obligations of the parties as determined by the verdict would remain unchanged once the verdict was reduced to judgment. Moreover, if Seiwell had attempted to alter the verdict itself, our above discussion demonstrates that she could not rely upon the MSPA for support.\nAccordingly, we determine that granting Seiwell\u2019s post-trial motion would leave both her and Zaleppa in an untenable position under Pennsylvania law. We note that a party has an obligation to satisfy a judgment once it has been entered. Only a complete discharge of all obligations created under a judgment will satisfy that judgment. Black\u2019s Law Dictionary 1370 (Brian A. Garner ed., 8th ed.2004). Thus, in order to satisfy a judgment for monetary damages, payment of the underlying debt must be tendered in full and must be made payable to the party specified in the judgment. See Hanover Plumbing Supply, Inc. v. Russell, 452 Pa.Super. 32, 680 A.2d 1181, 1183 (1996). A judgment is the \u201cfinal determination of the rights and obligations of the parties in a case.\u201d Black\u2019s Law Dictionary, supra at 858 (emphasis added). Here, Zaleppa, as the claimant, asserted her individual right against Seiwell and Seiwell\u2019s insurer to compensate her for the injuries which she sustained as a result of the accident. See id. at 265. Under Pennsylvania law, to satisfy the judgment entered against her, Seiwell must pay the full award to Zalep-pa. See Hanover Plumbing Supply, supra at 1183. Seiwell could not satisfy the judgment if she added Medicare as a payee to the award check because, in doing so, she would fail to discharge all of her obligations pursuant to the judgment. The judgment entered in this case only determines the rights and obligations of Zalep-pa and Seiwell, as they are the only parties involved in this action. Because the United States government is not a party, the obligations that either Zaleppa or Seiwell owe Medicare are irrelevant with respect to satisfying the judgment entered in this case. Adding Medicare as a payee would interfere with the rights of Zaleppa as affirmed by the judgment. Therefore, Pennsylvania law provides independent grounds that prohibit Seiwell and her insurer from asserting the interest of the United States government by adding Medicare as a payee.\nTherefore, having now determined that neither the MSPA nor Pennsylvania law authorize a private entity to assert the interests of the United States government in any context, we conclude that Seiwell and her insurer have failed to offer an adequate legal basis for the post-trial relief which they seek. Contrary to Seiwell\u2019s interpretation, the MSPA does not authorize the trial court to grant Seiwell\u2019s motion for post-trial relief requesting that either Medicare be added as a payee to the draft satisfying the verdict or that the verdict award be paid into escrow until receiving notification that no outstanding Medicare liens exist. Similarly, under Pennsylvania law, Seiwell and her insurer cannot satisfy the judgment entered in favor of Zaleppa if Medicare is added as a payee to the award check. As such, under Pa.R.C.P. 227.1(a)(5), the post-trial relief sought in this case is not an appropriate order for the trial court to enter. See Pa.R.C.P. 227.1(a)(5). Thus, we conclude that the trial court acted appropriately in denying Seiwell\u2019s motion for post-trial relief.\nJudgment affirmed.\n. While James Seiwell was originally included as a co-defendant, the October 26, 2009 judgment was entered against Kristen Seiwell only, and James Seiwell is not party to this appeal. See C.R. at 73.\n. Zaleppa asserts that, under Pennsylvania Motor Vehicle Financial Responsibility Law, 75 Pa.C.S.A. \u00a7 1722, she was precluded from pleading, proving or recovering past medical expenses because she had not yet exhausted her medical benefits through her automobile insurance carrier. See Zaleppa's Brief at 7, 9.\n. We acknowledge that the Pennsylvania Association for Justice has filed an amicus curiae brief in support of Appellee. The Association posits that neither Appellant nor Appellant's insurance carrier State Farm has standing to ask that the trial court require her/it to include Medicare as a payee on the check it must issue to Appellee as the verdict winner. Amicus Brief at 5.\n. We note that the trial court did not order Seiwell to file a statement of errors complained of on appeal pursuant to Pa.R.A.P. 1925(b).\n. We note the trial court found it significant that the jury\u2019s verdict did not include any award for past medical expenses. Seiwell argues that the jury verdict\u2019s failure to specify an award for past medical bills should not be dispositive. Appellant\u2019s Brief at 12. Seiwell contends that \u201d[t]he fact a plaintiff decides not to include a specific request for an award of damages for these conditional [Medicare] payments does not change the nature of their obligation or ultimately the obligation of the defendant (or their liability insurance carrier).\u201d Id. at 12-13. We recognize that the allocation of the verdict award may serve as an adequate basis for denying Seiwell's motion. See Fanning v. Davne, 795 A.2d 388, 397 (Pa.Super.2002) (holding that to offset a jury's damage award, a separate third-party insurance award must cover the same loss which served as the basis for the jury award), appeal denied, 573 Pa. 697, 825 A.2d 1261 (2003). Nevertheless, because Seiwell\u2019s argument alleges that her liability under the MSPA is not influenced by the specific wording of the jury award, we shall not end our inquiry here. Seiwell's argument requires us to look more broadly at the obligations set forth by the MSPA.\n. The MSPA defines the term \"primaiy plan\u201d as \"a group health plan or large group health plan [...], and a workmen\u2019s compensation law or plan, an automobile or liability insur-anee policy or plan (including a self-insured plan) or no fault insurance[.]\u201d 42 U.S.C.A. \u00a7 1395y(b)(2)(A)(ii).\n. The regulations which clarify the MSPA specifically entitle the United States government \"to recover its payments from any entity, including a beneficiary, provider, supplier, physician, attorney, State agency or private insurer that has received a primary payment.\u201d 42 C.F.R. \u00a7 411.24(g). As such, this regulation allows the United States government to pursue the personal assets of the recipient as well as the personal assets of the recipient\u2019s attorney and essentially any other entity which acted as an intermediary for the recipient. Id.; see also Weinberg, supra at *3.\n. On issues of federal law, we are free to consider federal court decisions as persuasive authority. Stone Crushed Partnership v. Kas sab Archbold Jackson & O\u2019Brien, 589 Pa. 296, 908 A.2d 875, 884 n. 10 (2006) (noting that federal court decisions are persuasive, rather than binding, authority).\n. Pennsylvania Rule of Civil Procedure 227.1 allows a trial court to grant post-trial relief \u2018\u2018[a]fter trial and upon the written Motion for Post-Trial Relief filed by any party[.]\u201d Pa. R.C.P. 227.1 enumerates the following five types of post-trial relief which a trial court may grant.\n(1)order a new trial as to all or any of the issues; or\n(2) direct the entry of judgment in favor of any party; or\n(3) remove a nonsuit; or\n(4) affirm, modify or change the decision; or\n(5) enter any other appropriate order. Pa.R.C.P. 227.1(a).",
+        "type": "majority",
+        "author": "MUNDY, J.:"
+      }
+    ],
+    "attorneys": [
+      "Norman D. Namey, Harrisburg, for appellant.",
+      "Christine Lezinski, Scranton, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Phyllis ZALEPPA, Appellee v. Kristen SEIWELL and James Seiwell. Appeal of Kristen Seiwell, Appellant.\nSuperior Court of Pennsylvania.\nArgued Sept. 22, 2010.\nFiled Nov. 17, 2010.\nNorman D. Namey, Harrisburg, for appellant.\nChristine Lezinski, Scranton, for appel-lee.\nBEFORE: ALLEN, MUNDY, and COLVILLE, JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0632-01",
+  "first_page_order": 654,
+  "last_page_order": 662
+}

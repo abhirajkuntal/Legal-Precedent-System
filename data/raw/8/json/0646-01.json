@@ -1,0 +1,455 @@
+{
+  "id": 7286829,
+  "name": "F.R. CARROLL, INC. v. TD BANK, N.A.",
+  "name_abbreviation": "F.R. Carroll, Inc. v. TD Bank, N.A.",
+  "decision_date": "2010-11-09",
+  "docket_number": "",
+  "first_page": "646",
+  "last_page": "651",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 646"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "1999 ME 33",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11638883
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/725/0541-01"
+      ]
+    },
+    {
+      "cite": "554 A.2d 1193",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7909241
+      ],
+      "pin_cites": [
+        {
+          "page": "1194-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/554/1193-01"
+      ]
+    },
+    {
+      "cite": "32 A. 897",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1895,
+      "pin_cites": [
+        {
+          "page": "899",
+          "parenthetical": "\"This decision, however, should not be extended beyond the facts in this particular case\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Me. 271",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        652546
+      ],
+      "year": 1895,
+      "pin_cites": [
+        {
+          "page": "277",
+          "parenthetical": "\"This decision, however, should not be extended beyond the facts in this particular case\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/87/0271-01"
+      ]
+    },
+    {
+      "cite": "105 A. 405",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "408",
+          "parenthetical": "'We think that the decision in each of these cases must be regarded as based upon and limited by the facts of the particular case ...Shaw v. Young, 87 Me. 271, 277, 32 A. 897, 899 (1895) (\"This decision, however, should not be extended beyond the facts in this particular case\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Me. 34",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        6096098
+      ],
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "40",
+          "parenthetical": "'We think that the decision in each of these cases must be regarded as based upon and limited by the facts of the particular case ...Shaw v. Young, 87 Me. 271, 277, 32 A. 897, 899 (1895"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/118/0034-01"
+      ]
+    },
+    {
+      "cite": "116 A.2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "667",
+          "parenthetical": "\"Consent may be inferred from circumstances.\""
+        },
+        {
+          "page": "667",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Me. 145",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        976252
+      ],
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "151",
+          "parenthetical": "\"Consent may be inferred from circumstances.\""
+        },
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/151/0145-01"
+      ]
+    },
+    {
+      "cite": "182 A.2d 473",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "475",
+          "parenthetical": "\"It has been generally held that whether consent appears in any given case depends wholly upon the facts in that case.\""
+        },
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Me. 204",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        942632
+      ],
+      "weight": 2,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "207",
+          "parenthetical": "\"It has been generally held that whether consent appears in any given case depends wholly upon the facts in that case.\""
+        },
+        {
+          "page": "206-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/158/0204-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 55",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7298442
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "749-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/973/0743-01"
+      ]
+    },
+    {
+      "cite": "1998 ME 265",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11788398
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "194-95"
+        },
+        {
+          "page": "\u00b6 2"
+        },
+        {
+          "page": "193"
+        },
+        {
+          "page": "193-94"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "195"
+        },
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/721/0193-01"
+      ]
+    },
+    {
+      "cite": "496 F.3d 41",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5703418
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/496/0041-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 101",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7297861
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "1276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/1270-01"
+      ]
+    },
+    {
+      "cite": "431 F.3d 25",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1618085
+      ],
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/431/0025-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 67",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7294434
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/974/0286-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 120",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291104
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 5"
+        },
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0001-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 63",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8387740
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 11-12"
+        },
+        {
+          "page": "1214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/945/1211-01"
+      ]
+    },
+    {
+      "cite": "100 F.3d 228",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11934899
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/100/0228-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 735,
+    "char_count": 13285,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 1.3056269623876865e-07,
+      "percentile": 0.6231546704074253
+    },
+    "sha256": "5bffa388dda1e292e632c3df318a5888d9c415320163c8fd2abf76ac5d83a0fa",
+    "simhash": "1:6ccc2963020fd22d",
+    "word_count": 2196
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: ALEXANDER, LEVY, SILVER, MEAD, and JABAR, JJ."
+    ],
+    "parties": [
+      "F.R. CARROLL, INC. v. TD BANK, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "JABAR, J.\n[\u00b6 1] This case comes to us following cross-motions for summary judgment. In ruling on the motions, the District Court (Springvale, Douglas, J.) concluded that F.R. Carroll, Inc. had completed paving work on a. construction project with TD Bank, N.A.\u2019s \u201cconsent,\u201d as that term is used in 10 M.R.S. 3251 (2009). Consequently, F.R. Carroll\u2019s mechanic\u2019s lien was given priority over the Bank\u2019s mortgage on property owned by Village Station, LLC. On appeal, the Bank challenges the court\u2019s conclusion regarding the issue of consent. Because neither party is entitled to summary judgment, we vacate the judgment and remand for further proceedings.\nI. BACKGROUND\n[\u00b6 2] The following facts are not in dispute. In June 2005, Village Station executed two promissory notes in favor of the Bank to finance the construction of a commercial building in Cornish. The two notes, in the principal amounts of $442,500 and $354,000, were secured by separate mortgages on Village Station\u2019s property.\n[\u00b6 3] Prior to executing the notes, Village Station and the Bank engaged in discussions regarding the proposed project. The Bank was provided with a \u201cCost Estimate,\u201d which itemized certain expenses and included a total estimated cost of $1,037,210 for the project. Although \u201csite work\u201d and \u201csite improvement\u201d were listed among the itemized costs, the Cost Estimate did not specifically apportion expenses for paving. Plans for the project, reviewed by the Bank, depicted a paved parking lot.\n[\u00b6 4] The Bank disbursed funds for the project based on a series of requests by Village Station. These requests, identifying the completed work for which Village Station sought payment, were made between July 6, 2005, and September 20, 2006. None of the requests referred to paving work.\n[\u00b6 5] During the course of construction on the project, the Bank received periodic updates and occasionally withheld funds because of incomplete work. On March 6, 2006, the Bank received a memo concerning the status of the project, which stated in part: \u201c[Village Station] has provided ... a work schedule which shows completion, including final paving and signage, by May 31st.\u201d On September 26, 2006, the Bank received photographs of the project site showing an unpaved parking lot. The Bank issued its final payment, pursuant to the September 20 request by Village Station, on September 28, 2006.\n[\u00b6 6] On October 27, 2006, Village Station contracted with F.R. Carroll to pave the building parking lot for $26,405. In entering the contract, F.R. Carroll believed that the project was being funded by a construction loan from the Bank. However, neither F.R. Carroll nor Village Station informed the Bank of the contract, and the Bank was unaware that Village Station was incurring paving-related expenses after the final disbursement. F.R. Carroll\u2019s work was completed between October 30 and 31, 2006, and passed inspection on November 7, 2006. Although an invoice was submitted, F.R. Carroll never received payment.\n[\u00b6 7] In February 2007, after filing a lien certificate on Village Station\u2019s property, F.R. Carroll filed a complaint against Village Station and the Bank in the District Court. The Bank moved for a summary judgment against F.R. Carroll in February 2009, arguing that its mortgage interest in Village Station\u2019s property was entitled to priority over F.R. Carroll\u2019s mechanic\u2019s lien. F.R. Carroll opposed the motion and filed a cross-motion for a summary judgment. After holding a hearing, the court denied the Bank\u2019s motion and granted summary judgment in favor of F.R. Carroll, concluding that F.R. Carroll\u2019s lien had priority because the Bank had \u201cconsented\u201d to the paving work. Following the entry of a default judgment against Village Station, the Bank filed this appeal.\nII. DISCUSSION\nA. Standard of Review\n[\u00b6 8] \u201cCross motions for summary judgment neither alter the basic Rule 56 standard, nor warrant the grant of summary judgment per se. \u201d Wightman v. Springfield Terminal Ry. Co., 100 F.3d 228, 230 (1st Cir.1996). Thus, we apply familiar principles: We review the court\u2019s ruling on cross-motions for summary judgment de novo, see Raisin Mem\u2019l Trust v. Casey, 2008 ME 63, \u00b6\u00b6 11-12, 945 A.2d 1211, 1214, \u201cconsidering only the portions of the record referred to, and the material facts set forth in the [M.R. Civ. P. 56(h) ] statements,\u201d Deutsche Bank Nat'l Trust Co. v. Raggiani, 2009 ME 120, \u00b6 5, 985 A.2d 1, 3 (quotation marks omitted). Summary judgment is appropriate \u201cif the record reflects that there is no genuine issue of material fact and the movant is entitled to a judgment as a matter of law.\u201d Picher v. Roman Catholic Bishop of Portland, 2009 ME 67, \u00b6 7, 974 A.2d 286, 289 (quotation marks omitted). We analyze each motion separately, giving the opposing party the benefit of any reasonable inferences that can be drawn from the presented facts. See Medeiros v. Vincent, 431 F.3d 25, 29 (1st Cir.2005); Blue Star Corp. v. CKF Props., LLC, 2009 ME 101, \u00b6 23, 980 A.2d 1270, 1276. \u201c[W]hen facts, though undisputed, are capable of supporting conflicting yet plausible inferences\u2014 inferences that are capable of leading a rational factfinder to different outcomes in a litigated matter depending on which of them the factfinder draws \u2014 then the choice between those inferences is not for the court on summary judgment.\u201d Ramirez-Carlo v. United States, 496 F.3d 41, 50 n. 5 (1st Cir.2007) (quotation marks omitted).\nB. Consent\n[\u00b6 9] F.R. Carroll\u2019s mechanic\u2019s lien is governed by statute. The particular provision at issue, 10 M.R.S. 3251, states, in relevant part:\nWhoever performs labor or furnishes labor or materials ... used in erecting, altering, moving or repairing a house, building or appurtenances, ... by virtue of a contract with or by consent of the owner, has a lien thereon and on the land on which it stands and on any interest such owner has in the same, to secure payment thereof, with costs.\nFor purposes of this statute, a mortgagee is considered an \u201cowner\u201d to the extent of its mortgage interest. Gagnon\u2019s Hardware & Furniture, Inc. v. Michaud, 1998 ME 265, \u00b6 6, 721 A.2d 193, 194. Because there is no contract between the Bank and F.R. Carroll, the issue here is whether the Bank consented to F.R. Carroll\u2019s work.\n[\u00b6 10] We have interpreted \u201cconsent,\u201d which is not defined in the Maine lien statutes, as requiring a contractor to \u201cprove (1) knowledge on the part of the owner of the nature and extent of the work being performed on the premises, and (2) conduct on the part of the owner justifying the expectation and belief on the part of the [contractor] that the owner had consented.\u201d Platz Assocs. v. Finley, 2009 ME 55, \u00b6 23, 973 A.2d 743, 749-50 (quotation marks omitted). If these requirements are satisfied, a mechanic\u2019s lien may take priority over a previously-recorded mortgage. See Gagnon\u2019s Hardware, 1998 ME 265, \u00b6 7, 721 A.2d at 194-95.\n[\u00b6 11] We have repeatedly emphasized the fact-specific nature of the consent inquiry. See Carey v. Boulette, 158 Me. 204, 207, 182 A.2d 473, 475 (1962) (\u201cIt has been generally held that whether consent appears in any given case depends wholly upon the facts in that case.\u201d); Bangor Roofing & Sheet Metal Co. v. Robbins Plumbing Co., 151 Me. 145, 151, 116 A.2d 664, 667 (1955) (\u201cConsent may be inferred from circumstances.\u201d); E. Corey Co. v. H.P. Cummings Constr. Co., 118 Me. 34, 40, 105 A. 405, 408 (1919) (\u2018We think that the decision in each of these cases must be regarded as based upon and limited by the facts of the particular case ...Shaw v. Young, 87 Me. 271, 277, 32 A. 897, 899 (1895) (\u201cThis decision, however, should not be extended beyond the facts in this particular case\u201d). Inherently factual questions are ill-suited for resolution at the summary judgment stage unless the evidence permits only one reasonable conclusion. Such is not the case here.\n[\u00b6 12] Many of cases relied upon by the parties were not decided on summary judgment, and are thus inapposite based on the standard of review. See, e.g., Parker-Danner Co. v. Nickerson, 554 A.2d 1193, 1194-95 (Me.1989) (reviewing consent determination for clear error); Bangor Roofing, 151 Me. at 151, 116 A.2d at 667 (same). Our opinion in Gagnon\u2019s Hardware, which was resolved on summary judgment, is also distinguishable. There, a developer requested a loan from a bank to purchase real estate for business purposes. Gagnon\u2019s Hardware, 1998 ME 265, \u00b6 2, 721 A.2d at 193. During a meeting with a bank officer, the developer discussed plans to renovate the property, which the bank encouraged. Id. \u00b62, 721 A.2d at 193-94. After closing on the loan, the developer purchased materials and supplies from Gagnon\u2019s. Id. \u00b6 3, 721 A.2d at 194. Although the bank officer met with Gagnon\u2019s once to determine the extent of the renovations, the bank never contracted with Gagnon\u2019s for the materials and did not \u201csurvey, view, or visit the premises to assess the progress or nature of any renovations, improvements or alterations.\u201d Id. After Gagnon\u2019s brought a complaint for a mechanic\u2019s lien, the court granted a summary judgment in favor of the bank, concluding that the bank\u2019s mortgage had priority over Gagnon\u2019s mechanic\u2019s lien. Id. \u00b6 4, 721 A.2d at 194.\n[\u00b6 13] We affirmed on appeal, concluding that \u201c[e]ven though [the bank] had knowledge at the time of the closing of the intended conversion of the property, it did not have knowledge of any specific details of the actual work to be performed or of the actual delivery of goods and services subsequently made by Gagnon\u2019s.\u201d Id. \u00b6 8, 721 A.2d at 195. The bank officer\u2019s meeting with Gagnon\u2019s failed to establish consent because it was irrelevant to the work that had already been completed, and because \u201c[k]nowledge that prior work had been performed is not sufficient to raise a genuine issue of fact whether [the bank] had knowledge of any future work to be performed.\u201d Id. \u00b6 9, 721 A.2d at 195.\n[\u00b6 14] Unlike Gagnon\u2019s Hardware, the Bank here had knowledge of specific details of the project, including the paved parking lot. Further, through photos, periodic updates, and Village Station\u2019s requests for funds, the Bank was aware of the progress and nature of the renovations, including that, as of September 26, 2006, the parking lot had not been paved. Viewing all reasonable inferences in the light most favorable to F.R. Carroll, the evidence would permit a fact-finder to conclude that the Bank had knowledge that paving work would be performed on the project.\n[\u00b6 15] This is not, however, the only reasonable conclusion. The Bank agreed to loan Village Station a specific amount of money, all of which had been disbursed before F.R. Carroll contracted to pave the parking lot. The Bank was (1) unaware that Village Station was incurring expenses for paving work after the final disbursement, (2) never asked and never agreed to advance additional funds, and (3) unaware of F.R. Carroll\u2019s contract with Village Station. Although the Bank knew that paving had originally been planned, it could be reasonably inferred that the Bank had no knowledge that the paving work would be completed.\n[\u00b6 16] Our analysis with respect to the second prong of the \u201cconsent\u201d test\u2014 whether the Bank\u2019s conduct justified F.R. Carroll\u2019s belief that the Bank had consented to the paving work \u2014 follows a similar path. We discern no inevitable conclusion to be reached on this issue, particularly given the multitude of relevant facts, including the nature of the construction loans, the loan-disbursement system, the timing of F.R. Carroll\u2019s contract, and the Bank\u2019s monitoring of the construction process. Conflicting, reasonable inferences may be drawn from the evidence presented.\n[\u00b6 17] Because, on this record, the issue of consent could not be determined as a matter of law, the court\u2019s grant of summary judgment was in error.\nThe entry is:\nSummary judgment in favor of F.R. Carroll, Inc. vacated. Remanded for further proceedings consistent with this opinion.\n. Included in the mortgages were provisions (1) prohibiting Village Station from incurring unauthorized liens on the property, and (2) requiring Village Station to take any \"action reasonably requested\u201d by the Bank to preserve first priority status for the Bank's mortgage.\n. In addition to the $796,500 loaned by the Bank, Village Station agreed to contribute $240,710 of its own capital to finance the project.\n. We dismissed the Bank\u2019s first appeal, which had been filed before entry of the default judgment, as interlocutory.\n. Although we construe and apply 10 M.R.S. \u00a7 3251 (2009) \u201cliberally to further [its] equity and efficacy, when it is clear that the lien has been honestly earned,\u201d John W. Goodwin, Inc. v. Fox, 1999 ME 33, \u00b6 15, 725 A.2d 541, 544 (quotation marks omitted), we have also stressed that \"the rights of the owner should be fairly protected,\u201d Carey v. Boulette, 158 Me. 204, 206-07, 182 A.2d 473, 475 (1962).",
+        "type": "majority",
+        "author": "JABAR, J."
+      }
+    ],
+    "attorneys": [
+      "David M. Hirshon, Esq., Marshall J. Tinkle, Esq., Tompkins, Clough, Hirshon & Langer, P.A., Portland, ME, for TD Bank, N.A.",
+      "Debra L. Brown, Esq., Law Offices of Debra L. Brown, P.A., Portland, ME, for F.R. Carroll, Inc."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 115\nF.R. CARROLL, INC. v. TD BANK, N.A.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Sept. 23, 2010.\nDecided: Nov. 9, 2010.\nDavid M. Hirshon, Esq., Marshall J. Tinkle, Esq., Tompkins, Clough, Hirshon & Langer, P.A., Portland, ME, for TD Bank, N.A.\nDebra L. Brown, Esq., Law Offices of Debra L. Brown, P.A., Portland, ME, for F.R. Carroll, Inc.\nPanel: ALEXANDER, LEVY, SILVER, MEAD, and JABAR, JJ."
+  },
+  "file_name": "0646-01",
+  "first_page_order": 672,
+  "last_page_order": 677
+}

@@ -1,0 +1,568 @@
+{
+  "id": 7286072,
+  "name": "Albert LOCKLEY, Appellee v. CSX TRANSPORTATION INC., Appellant",
+  "name_abbreviation": "Lockley v. CSX Transportation Inc.",
+  "decision_date": "2010-09-13",
+  "docket_number": "",
+  "first_page": "383",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "753 S.W.2d 306",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9974309,
+        9974446
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/753/0306-01",
+        "/sw2d/753/0306-02"
+      ]
+    },
+    {
+      "cite": "401 Pa.Super. 430",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        889631
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding that trial court did not abuse its discretion in admitting evidence of reports of other burn incidents involving similar, but not identical, products for the limited purpose of demonstrating notice because the similarities outweighed the differences"
+        },
+        {
+          "page": "1006-07",
+          "parenthetical": "concluding that trial court did not abuse its discretion in admitting evidence of reports of other burn incidents involving similar, but not identical, products for the limited purpose of demonstrating notice because the similarities outweighed the differences"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/401/0430-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765123
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0108-01"
+      ]
+    },
+    {
+      "cite": "378 Pa.Super. 430",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        706167
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/378/0430-01"
+      ]
+    },
+    {
+      "cite": "687 A.2d 1157",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7361937,
+        947433
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1162-63",
+          "parenthetical": "citations and internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/687/1157-01",
+        "/pa-super/455/0256-01"
+      ]
+    },
+    {
+      "cite": "455 Pa.Super. 256",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        947433
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "citations and internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/455/0256-01"
+      ]
+    },
+    {
+      "cite": "560 F.3d 426",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3428556
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/560/0426-01"
+      ]
+    },
+    {
+      "cite": "240 F.3d 1233",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11141651
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/240/1233-01"
+      ]
+    },
+    {
+      "cite": "788 A.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9401444
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "399"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/788/0390-01"
+      ]
+    },
+    {
+      "cite": "579 F.Supp.2d 924",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3867523
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "933",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "933",
+          "parenthetical": "concluding that under 49 C.F.R. 229.119(a), a cab seat is a part or appurtenance for purposes of the FLIA because it is prescribed by federal regulations"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/579/0924-01"
+      ]
+    },
+    {
+      "cite": "2007 WL 3046456",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "774 A.2d 765",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11090261
+      ],
+      "pin_cites": [
+        {
+          "page": "771"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/774/0765-01"
+      ]
+    },
+    {
+      "cite": "211 W.Va. 285",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        11381287
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/211/0285-01"
+      ]
+    },
+    {
+      "cite": "85 A.L.R.2d 851",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00a7 3"
+        },
+        {
+          "page": "\u00a7 8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003 U.S Dist. LEXIS 8066",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003 U.S. Dist. LEXIS 8066",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003 WL 21091390",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 Pa.Super. 166",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        588368
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/320/0166-01"
+      ]
+    },
+    {
+      "cite": "765 A.2d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11077538
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/765/1123-01"
+      ]
+    },
+    {
+      "cite": "815 P.2d 989",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10378235
+      ],
+      "pin_cites": [
+        {
+          "page": "990"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/815/0989-01"
+      ]
+    },
+    {
+      "cite": "166 A.2d 18",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding that trial court properly refused to strike jurors because they were acquaintances or clients of an attorney and/or members of the firm"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 Pa. 7",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1296611
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding that trial court properly refused to strike jurors because they were acquaintances or clients of an attorney and/or members of the firm"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/402/0007-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 1117",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8364950
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/1117-01"
+      ]
+    },
+    {
+      "cite": "729 A.2d 614",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11621397
+      ],
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/729/0614-01"
+      ]
+    },
+    {
+      "cite": "756 A.2d 1116",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225996,
+        11244791
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01",
+        "/a2d/756/1116-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225996
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01"
+      ]
+    },
+    {
+      "cite": "49 U.S.C. \u00a7 20701",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 U.S.C. \u00a7\u00a7 51-60",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "929 A.2d 1162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "593 Pa. 740",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "912 A.2d 318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8440693
+      ],
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/912/0318-01"
+      ]
+    },
+    {
+      "cite": "329 Pa.Super. 139",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        608807
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "4"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/329/0139-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1427,
+    "char_count": 38418,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 1.2223891231540252e-07,
+      "percentile": 0.5984416465979291
+    },
+    "sha256": "37851795caccf0e1246aa5b64a3b1b296828d609cbabf317d2f331127ffd6f2b",
+    "simhash": "1:dfebc32e934c19e4",
+    "word_count": 5992
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: ALLEN, LAZARUS, and FREEDBERG , JJ."
+    ],
+    "parties": [
+      "Albert LOCKLEY, Appellee v. CSX TRANSPORTATION INC., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nALLEN, J.:\nCSX Transportation Inc. (\u201cAppellant\u201d) appeals from the judgment entered in favor of Albert Lockley (\u201cPlaintiff\u2019) following a jury trial. We affirm.\nThe trial court summarized the facts and procedural history of this case as follows:\n[Plaintiff,] Albert Lockley, age 53, commenced this litigation against [Appellant], pursuant to the Federal Employer\u2019s Liability Act (FELA), 45 U.S.C. \u00a7\u00a7 51-60, and the Federal Locomotive Inspection Act (FLIA), 49 U.S.C. \u00a7 20701 et seq.\nPlaintiff alleged that [Appellant] failed to provide him with a reasonably safe place to work during 84 years of employment on [Appellant\u2019s] yard locomotives. Plaintiff also alleged that [Appellant] violated the FLIA by providing faulty seats in the locomotive cab. [Plaintiff] sought damages for cumulative trauma injuries, including disabling herniated discs, failed surgery on his cervical spine and other serious medical conditions caused by and/or aggravated by, inter alia, whole body vibrations, jolts and shocks, awkward postures and defectively mounted seats.\n[Appellant] responded by asserting that [Plaintiff] was provided with a reasonably safe workplace. [Appellant] contended that Plaintiff\u2019s spinal condition [was] the result of age related degenerative changes. [Appellant] presented the jury with its safety training programs and manuals. Further, [Appellant] argued that [Plaintiff] should have been more proactive to express complaints about neck and back problems. [Appellant] also denied that its seats were not securely mounted and braced.\nDuring two weeks of trial in Spring, 2008, the jury heard from fourteen witnesses, watched several site files and videos, and reviewed hundreds of documents and photos from Plaintiff and [Appellant], Multiple expert witnesses were presented by each party in the specialty areas of orthopedics, occupational medicine, egonomics, biomechan-ics, economics, neurology, pain management, and, rehabilitation and vocational counseling. The jury also heard from many fact witnesses who described the work of a Locomotive Yard Engineer. On May 2, 2008, the jury returned a verdict in favor of [Plaintiff] in the amount of $2 million. The jury also determined that [Plaintiff] was 22 percent comparatively negligent for his injuries.\nTrial Court Opinion (T.C.O.), 3/30/08, at 1-2.\nFollowing the jury\u2019s verdict, Appellant filed post-sentence motions. In these motions, Appellant contended that the trial court committed reversible error during the discovery phase of the litigation because it did not permit Appellant to take discovery pertaining to Plaintiff\u2019s medical condition after Plaintiff had surgery. Appellant further contended that the trial court erred in striking a juror for cause after the jury was impaneled. In addition, Appellant, on various grounds, claimed that it was entitled to judgment notwithstanding the verdict (\u201cJNOV\u201d) because Plaintiffs theory for relief was preempted and/or precluded by applicable federal law. Finally, Appellant requested a new trial on the ground that the trial court abused its discretion in allowing Plaintiff to submit into evidence previous, similar claims made against Appellant to establish foreseeability of Plaintiff\u2019s injuries and notice of the improper condition of the seats.\nOn March 30, 2009, the trial court denied Appellant\u2019s post-trial motions. On that same date, judgment was entered in favor of Plaintiff.\nOn appeal, Appellant raises the following issues for review:\n1. Whether the trial court erred in failing to compel (i) depositions of plaintiff and his surgeon and (ii) an independent medical examination of plaintiff\u2019s pre-trial surgery[?]\n2. Whether the trial court erred in striking a competent, qualified juror after the jury had already been impaneled and sworn[?]\n3. Whether the trial court erred in allowing the jury to hold [Appellant] liable based on allegations that [Appellant] failed to install headrests and other equipment that [Appellant] is not required to install under federal law[?]\n4. Whether the trial court erred in admitting evidence of previous claims against [Appellant] despite plaintiffs failure to demonstrate that those claims involved injuries and circumstances that were substantially similar to the injury and circumstances alleged here[?]\nBrief for Appellant at 3.\nMost of Appellant\u2019s issues on appeal claim that it was entitled to a new trial due to the trial court\u2019s alleged errors during the course of the pre-trial and trial proceedings.\nThere is a two-step process that a trial court must follow when responding to a request for new trial ... First, the trial court must decide whether one or more mistakes occurred at trial. These mistakes might involve factual, legal, or discretionary matters. Second, if the trial court concludes that a mistake (or mistakes) occurred, it must determine whether the mistake was a sufficient basis for granting a new trial ... The harmless error doctrine underlies every decision to grant or deny a new trial. A new trial is not warranted merely because some irregularity occurred during the trial or another trial judge would have ruled differently; the moving party must demonstrate to the trial court that he or she has suffered prejudice from the mistake.\nHarman v. Borah, 562 Pa. 455, 756 A.2d 1116, 1122 (2000).\nThus, we consider whether the trial court made an erroneous ruling and, if so, whether the mistake constituted harmless error or whether Appellant suffered any prejudice. See id. We \"will not reverse an order denying a new trial unless the trial court committed an error of law that controlled the outcome of the case. Coward v. Owens-Corning Fiberglas Corp., 729 A.2d 614, 624 (Pa.Super.1999).\nIn its first issue, Appellant contends that the trial court erred in denying its motion to conduct post-surgical discovery of Plaintiff\u2019s medical condition. Brief for Appellant at 26-30. We conclude that Appellant is not entitled to relief because it has failed to establish the requisite prejudice.\n\u201cGenerally, on review of an order concerning discovery, an appellate court applies an abuse of discretion standard. To the extent that the question involves a pure issue of law, our scope ... of review [is] plenary.\u201d Berkeyheiser v. A-Plus Investigations, Inc., 936 A.2d 1117, 1125 (Pa.Super.2007) (citations and internal quotation marks omitted).\nHere, Appellant concedes that it conducted pre-surgical depositions of Plaintiff and his surgeon, and obtained an independent medical examination (\u201cIME\u201d) of Plaintiff. The case management order provided for discovery to conclude on October 1, 2007. R.R. at 61. On September 18, 2007, Appellant filed a motion for extraordinary relief, contending that Plaintiff was scheduled for spinal surgery on November 7, 2007. R.R. at 49. Appellant sought to take the deposition testimony of Plaintiff and his surgeon and requested that Plaintiff submit to another IME. R.R. at 49. On September 24, 2007, Plaintiff also filed a motion for extraordinary relief, requesting that the trial court extend the discovery deadline so that the parties could conduct post-surgical discovery regarding Plaintiff\u2019s medical condition. R.R. at 53. The trial court denied both motions without any meaningful analysis.\nWe agree with Appellant that the trial court had no legitimate basis upon which to deny it the right to conduct post-surgical discovery of Plaintiffs medical condition. Appellant, however, has failed to establish that it suffered the prejudice necessary for this Court to grant it a new trial.\nIn its brief, Appellant boldly alleges that it sustained prejudice because it was \u201cprevented ... from fully investigating the merits of Plaintiffs allegations and from adequately preparing its defense.\u201d Brief for Appellant at 26. Appellant additionally asserts that Plaintiff testified that his neck pain became worse after the surgery. Id. Finally, Appellant claims that it sustained prejudice because Plaintiff used his post-surgical condition \u201cto affirmatively ridicule [Appellant\u2019s] vocational expert, Dr. Ku-liek.\u201d Id. at 30. Upon our review of the record, we disagree.\nSignificantly, Appellant has failed to demonstrate how Plaintiffs physical condition underwent a substantial change after surgery or resulted in the assertion of a different theory of damages and/or functional capacity. At trial, Plaintiffs expert testified that Plaintiff was totally and permanently disabled before surgery and remained totally and permanently disabled after surgery because the surgery was ultimately unsuccessful. R.R. at 364-68, 774; see R.R. at 530. Although Plaintiff testified that his pain was worse post-operatively, Plaintiff also testified that the numbness in his arm was feeling better. R.R. at 453-54. Notably, Plaintiff\u2019s expert filed a supplemental report before trial stating that Plaintiff was not capable of working after surgery, and this report was consistent with the expert\u2019s presurgieal report and opinion that Plaintiff was totally and permanently disabled. Additionally, Plaintiff provided Appellant with all his post-surgical records, including a supplemental expert report, and Appellant does not articulate how Plaintiff or his expert\u2019s testimony at trial contained information that was not discernable from these records.\nPrior to trial, Appellant retained Dr. Menachem Meller, who performed a pre-surgieal IME of Plaintiff and wrote a post-surgical supplemental report, opining that Plaintiffs surgery was successful and that Plaintiff was capable of working. R.R. at 78-80; 162-64. For reasons that are unknown, Appellant did not call Dr. Meller to testify at trial. Appellant, however, presented expert testimony contesting Plaintiffs disability and employment capacity at trial, relying, in part, on Dr. Meller\u2019s post-surgical expert report. T.C.O., 3/30/08, at 57. In fact, Appellant used Plaintiffs post-surgical records, via a vocational expert, Dr. Kulick, to reach the conclusion that Plaintiff did not have any remarkable problems since surgery. R.R. at 513, 529. Dr. Kulick\u2019s opinion was based on her consideration of the post-surgery supplemental report of Dr. Meller and Plaintiffs post-surgical medical records. R.R. at 505, 513. Ultimately, Dr. Kulick testified that Plaintiff was capable of working. R.R. at 515.\nBesides Dr. Kulick, the vocational expert, Appellant also called Dr. Stephen Dawkins to testify. Dr. Dawkins testified that in his expert opinion, Plaintiffs injuries were caused by his age and not his employment with Appellant. R.R. at 561.\nTherefore, Appellant cogently rebutted Plaintiffs contention that he was totally and permanently disabled and that Appellant was responsible for Plaintiff\u2019s injuries. In its brief, Appellant does not demonstrate how Plaintiffs post-surgical condition hampered its experts\u2019 ability to render their opinions.\nContrary to Appellant\u2019s assertion, Dr. Kulick was never \u201cridiculed\u201d with Plaintiffs post-operative medical condition on cross-examination. Rather, Plaintiff clarified that Dr. Kulick was basing her opinion on Plaintiffs postoperative medical records, and not on a particular doctor\u2019s deposition testimony. R.R. at 529.\nIn short, Appellant claims prejudice, but does not show any concrete, actual prejudice with regard to its ability to defend the action. Appellant does not explain how it was unfairly disadvantaged at trial because it could not conduct a post-operative IME or discovery related to Plaintiffs medical condition. Further, Appellant does not explain how an IME or additional discovery would have changed the outcome of the trial or the jury\u2019s determination of damages.\nThe only plausible claim to prejudice that Appellant advances is the fact that Plaintiff testified that the pain in his neck was worse following surgery. This information, however, was made available to Appellant prior to trial, and Appellant cannot now claim that it was surprised that Plaintiff would tender testimony to this effect. Moreover, Appellant had Plaintiffs post-surgical records, which detailed the fusion in Plaintiffs neck, and served as the medical basis for Plaintiffs claim that he experienced more pain following surgery. Although Dr. Meller filed a supplemental expert report opining that Plaintiff would not require narcotics to manage his pain after surgery, and that Plaintiffs post-surgical pain would eventually subside, Appellant did not call Dr. Meller to testify at trial. R.R. at 164-65. Finally, against the backdrop of Plaintiffs extensive evidence concerning his limited functional capacity, combined with various experts\u2019 testimony detailing the degenerative condition of Plaintiffs spinal cord, Plaintiffs testimony that the pain in his neck was worse after surgery was overall insignificant in documenting the extent of his pain and physical condition. In light of this record, we conclude that Appellant has failed to demonstrate the requisite prejudice, and its first issue does not merit relief.\nIn its second issue, Appellant argues that the trial court erred in striking a juror for cause after the juror was empaneled. Brief for Appellant at 30-34. While we conclude that the trial court abused its discretion in striking the juror, Appellant is not entitled to a new trial due to the lack of discernable prejudice.\nHere, after the jury panel was sworn in, Plaintiff moved to strike a juror because of an attenuated relationship with Plaintiffs counsel. Particularly, the questionable juror was an executive in a company whose Chief Executive Officer was a close friend of Plaintiffs counsel. The trial court, in an abundance of caution, stuck the juror for cause. In opposition, Appellant claimed that the juror was competent to serve on the jury. An alternate took the place of the stricken juror.\nWe agree with Appellant that the trial court abused its discretion in striking the juror for cause as the juror was competent to serve on the panel. See Linsenmeyer v. Straits, 402 Pa. 7, 166 A.2d 18, 28 & n. 2 (1960) (concluding that trial court properly refused to strike jurors because they were acquaintances or clients of an attorney and/or members of the firm). Citing a Colorado intermediate appellate court case, Faucett v. Hamill, 815 P.2d 989, 990 (Colo.Ct.App.1991), Appellant argues that this Court should presume that Appellant suffered prejudice and automatically award it a new trial. Brief for Appellant at 38-34. According to Appellant, the effect of the trial court\u2019s erroneous grant of a for-cause challenge was to give Plaintiff an additional preemptory challenge, which Appellant submits is reversible error. Brief for Appellant at 33-34.\nWe disagree with Appellant\u2019s position. At the outset, we note that this is not a situation where the complaining party exhausted its preemptory challenges, the trial court failed to strike a juror for cause, and the impermissible juror sat on the jury. In such a case, prejudice is presumed because the impermissible juror never should have been seated on the jury. See Commonwealth v. Dye, 765 A.2d 1123 (Pa.Super.2000). Rather, this case involves the converse situation, where the trial court erroneously struck a competent juror from otherwise serving on the jury. In these circumstances, we decline to presume prejudice.\nUpon our review of the law, we decline to follow the rule set forth in Hamill because that case runs contrary to the spirit of existing Pennsylvania law. For example, Pennsylvania has enacted a statute that evinces a strong policy against presuming prejudice in errors that occur during jury selection. In its entirety, 42 Pa. C.S.A. \u00a7 4527 states:\n\u00a7 4527. Effect of verdict on jury selection errors\nExcept as otherwise prescribed by general rule, errors and omissions in the selection of jurors under this subchapter shall not constitute grounds to set aside any jury verdict in any civil or criminal matter or to arrest, reverse, open or strike any judgment entered on a jury verdict, and the trial by jury and its rendition of a verdict in any matter shall constitute a waiver of all such errors and omissions.\nId.\nIn Commonwealth v. Pittman, 320 Pa.Super. 166, 466 A.2d 1370 (1983), this Court concluded that where a trial court erred in permitting the Commonwealth to strike a juror peremptorily after the juror was accepted, the defendant must still establish prejudice to be entitled to a new trial. Relying on established case law, the Pittman court reiterated: \u201cThe defendant ... has no standing in an appellate court to complain ... unless the error contributed to the result reached by the jury.\u201d Id. at 1376 (citation omitted).\nIn Kelley v. Wegman\u2019s Food Mkts., Inc., 2003 WL 21091390, 2003 U.S. Dist. LEXIS 8066 (E.D.2003), the Eastern District declined to presume prejudice where it erred in striking a juror for cause. Like Appellant in this case, the aggrieved party in Kelley asserted that as a result of the error, the opposing party was effectively granted an extra preemptory challenge. In rejecting this assertion, the Eastern District reasoned that the aggrieved party and the opposing party were entitled under statute to three preemptory challenges, and regardless of any error on the part of the court, each party received three preemptory challenges. Id. at *4, 2003 U.S Dist. LEXIS 8066 at *11. Thus, the court\u2019s error did not contravene the aggrieved party\u2019s statutory right to a particular number of preemptory challenges. Id. The Eastern District further commented:\n[W]hen in doubt, it behooves a district judge to err on the side of caution and strike potential jurors for cause. Otherwise, a district judge commits reversible error whenever a party is forced to use one of its peremptory strikes to strike a juror who should have been struck for cause. If I were to follow [the aggrieved party\u2019s] argument, it would be equally dangerous to err on the side of caution and strike a questionable juror, who in hindsight, should not have been struck. Accepting this argument would create a catch-22 situation where a district court judge would be reversed whether he or she did or did not strike a potential juror and it turned out that, in hindsight, the decision was incorrect. As mentioned earlier, a litigant is entitled only to a fair trial and not a perfect trial.\nId. at *4 (citation and internal quotation marks omitted).\nIn light of the foregoing, we conclude that in Pennsylvania, a party aggrieved by a trial court\u2019s erroneous decision to strike a juror for cause must establish prejudice in order to be granted relief in the form a new trial. This is apparently the view taken by a vast majority of the jurisdictions that have decided the issue. 85 A.L.R.2d 851, \u00a7 3 (stating that \u201cthe general rule is that the erroneous allowance of a challenge for cause is no ground for complaint where a competent and unbiased jury is finally selected\u201d).\nIn this case, Appellant is unable to establish prejudice. As the trial court astutely observed:\n[Appellant] has not alleged that the jury seated was biased. [Appellant] has been unable to articulate in what manner it has been prejudiced. It has not claimed that [Plaintiff] acquired an unfair advantage. The final jury verdict was unanimous and there is no reason to believe that the twelve jurors who sat through the trial were impacted by the substitution of the alternate. There has not been an allegation that the removal of the juror had any influence on the outcome. Indeed, [Appellant] has not distinguished these facts from the more frequent occurrence of juror\u2019s dismissal due to illness, transportation problems or other personal matters, when alternates replace a missing juror mid-trial.\nT.C.O., 3/30/08, at 49.\nWe agree with the trial court that Appellant did not suffer prejudice. The alternate juror was agreed upon by both parties, there was no evidence that the jury was partial, and Appellant does not claim that any of the sitting jurors should have been stricken for cause. Moreover, contrary to Appellant\u2019s contention, the trial court\u2019s error did not have the practical effect of granting Plaintiff an extra preemptory challenge. Rather, the trial court\u2019s error was simply that \u2014 an error, in and of itself, that is subject to appellate review to determine whether the error affected the outcome of the proceedings. As explained by the court in Kelley, because a trial court commits automatic reversible error when it fails to strike a juror for cause, it is imperative that any doubt the court might have regarding the impartiality of a juror must be resolved in favor of the party seeking to strike the prospective juror. Kelley, supra; O\u2019Dell v. Miller, 211 W.Va. 285, 565 S.E.2d 407, 410 (2002). That is precisely what the trial court did in this case, and the trial court granted Plaintiffs request to strike a potentially-biased juror with the goal of preserving the integrity of the empaneled jury as a whole. Because the jury consisted of competent and unbiased jurors, Appellant has not sustained any discernable prejudice as a result of an alternate taking the place of an impaneled juror erroneously stricken for cause. See 85 A.L.R.2d 851, \u00a7 8. Therefore, Appellant\u2019s second issue lacks merit.\nIn its third issue, Appellant presents a series of interrelated arguments, essentially claiming that as a matter of law, it was entitled to JNOV.\nThere are two bases upon which a [JNOV] can be entered: one, the mov-ant is entitled to judgment as a matter of law, and/or two, the evidence was such that no two reasonable minds could disagree that the outcome should have been rendered in favor of the movant. With the first, a court reviews the record and concludes that even with all factual inferences decided adverse to the movant the law nonetheless requires a verdict in his favor, whereas with the second, the court reviews the evidentia-ry record and concludes that the evidence was such that a verdict for the movant was beyond peradventure.\nSchindler v. Sofamor, Inc., 774 A.2d 765, 771 (Pa.Super.2001).\nFirst, Appellant argues that Plaintiffs claim is based on the assertion that Appellant was at fault because its seats lacked headrests. Brief for Appellant at 34-37. According to Appellant, its failure to install headrests is not actionable under the FLIA because a headrest is not an essential part of a locomotive. Brief for Appellant at 34-37. We disagree. Appellant misconstrues the nature of Plaintiffs claim and his theory of liability.\nHere, Plaintiff did not argue that the lack of headrests constituted a violation of the FLIA. Although Plaintiff contended that the lack of headrests aggravated his spinal injuries, Plaintiff sought to impose liability on Appellant because Appellant\u2019s seats were not securely mounted. Particularly, Plaintiff asserted that the seats were rusted or corroded, and that the resulting vibrations were the primary cause of his injuries. Indeed, the trial court did not instruct the jury that it could find Appellant liable under the FLIA for failing to install headrests. Instead, the trial court instructed the jury that it could find Appellant liable under the FLIA if Appellant\u2019s seats were not securely mounted and braced. R.R. at 619-20. We conclude, accordingly, that Plaintiffs claim against Appellant was based on the theory that Appellant\u2019s seats were not securely mounted and braced.\nCongress enacted the FLIA to promote the safety of railroad employees. Stierwalt v. CSX Transportation, 2007 WL 3046456, *5 (N.D.Ohio 2007). The FLIA imposes strict liability on railroad carriers for violating federal safety standards. Id. at *3.\nThe [F]LIA requires railroads to equip its locomotives with certain parts and appurtenances. Despite the [F]LIA\u2019s liberal construction, railroads cannot be held liable under the [F]LIA for failure to install equipment unless the equipment constitutes a \u201cpart or appurtenance.\u201d As interpreted by the Supreme Court, \u201cparts and appurtenances\u201d are \u201c[wjhatever in fact is an integral or essential part of a completed locomotive, and all parts or attachments definitely prescribed by lawful order of the [Federal Railroad Safety Act] are within the statute.\u201d\nMunns v. CSX Transp., Inc., 579 F.Supp.2d 924, 933 (N.D.Ohio 2008) (citations omitted).\nUnder federal regulations, a cab seat is a locomotive part and appurtenance. 49 C.F.R. 229.119(a). Specifically, federal regulations require that cab seats be \u201csecurely mounted and braced.\u201d 49 C.F.R. 229.119(a). Because Plaintiffs theory of liability falls squarely within the scope of 49 C.F.R. 229.119(a), Plaintiffs claim against Appellant was actionable under the FLIA. Munns, 579 F.Supp.2d at 933 (concluding that under 49 C.F.R. 229.119(a), a cab seat is a part or appurtenance for purposes of the FLIA because it is prescribed by federal regulations).\nSecond, Appellant argues that the trial court abused its discretion when it failed to instruct the jury that defects in seat belts and arm rests are not actionable under the FLIA because they are not an integral part of a locomotive. Brief for Appellant at 37. We disagree.\nThis Court will not grant a new trial because of an erroneous jury instruction \u201cunless the jury charge in its entirety was unclear, inadequate, or tended to mislead or confuse the jury.\u201d Hall v. Jackson, 788 A.2d 390, 399 (Pa.Super.2001) (citation omitted). Further, \u201ca trial judge has wide latitude in his or her choice of language when charging a jury, provided always that the court fully and adequately conveys the applicable law.\u201d Id.\nRather than issue a potentially confusing jury instruction about what is not actionable under the FLIA, as Appellant suggested, the trial court correctly instructed the jury on what type of claim is actionable:\nThe plaintiffs right, if any, to recover in this case is governed by the provisions of the [FLIA].\nIf you should find from a preponderance of the evidence, that is, the greater weight of the evidence, that [Appellant] violated the [FLIA] and that the violation was a cause, in whole or in part, of the injury to the plaintiff, then the plaintiff is entitled to recover from [Appellant] such damages as you shall find from a preponderance of the evidence that the plaintiff actually sustained as a result of the violation of the [FLIA] without any requirement or showing of negligence on the part of [Appellant]. Title 49, Section 229.119 of the code of Federal regulations provides under Subsection A: Cab seats shall be securely mounted and braced.\nIf you find by a preponderance of the evidence that the locomotive seats violated this provision because they were not securely mounted and braced, then you should find that [Appellant] violated the [FLIA],\nR.R. at 618-19.\nThe trial court\u2019s instruction clearly and accurately conveyed the applicable law to the jury. As the trial court noted, Appellant was free to argue the evidence and its inferences during closing, claiming that Plaintiffs evidence did not establish that the cab seats were insecurely mounted or braced. T.C.O., 3/30/08, at 68-69. Finding no error in the trial court\u2019s jury instruction, we conclude that Appellant\u2019s claim lacks merit.\nThird, Appellant asserts that Plaintiffs FELA claim was preempted by the standards of the FLIA. Brief for Appellant at 38. We disagree. The FLIA does not create an independent cause of action for personal injuries, and an injured party must rely on the FELA to recover damages caused by a FLIA violation. Matson v, Burlington Northern Santa Fe Railroad, 240 F.3d 1233, 1235 (10th Cir. 2001). As explained above, Plaintiff correctly asserted an FLIA violation in averring that the cab seats were not securely mounted or braced. Consequently, Plaintiff properly asserted a FLIA violation through the vehicle of the FELA.\nFourth, Appellant broadly maintains that Plaintiffs FELA claim is preempted by the Federal Railroad Safety Act (the \u201cFRSA\u201d) because Plaintiff sought to impose additional duties on Appellant beyond those required by federal regulations. Brief for Appellant at 39-43. This particular argument, however, was not asserted in Appellant\u2019s Pa.R.A.P. 1925(b) statement. As such, Appellant\u2019s contention is waived. Pa.R.A.P. 1925(b)(4)(vii).\nTo the extent that Appellant\u2019s argument could be deemed not waived, it lacks merit as it is dependent on the success of Appellant\u2019s previous arguments. Under the FRSA, a FELA claim is precluded only if it would require a railroad to assume additional duties than those imposed by federal regulations. See Nickels v. Grand Trunk Western R.R., 560 F.3d 426 (6th Cir.2009). Here, Appellant\u2019s FELA claim was premised on a violation of the FLIA, particularly 49 C.F.R. 229.119(a), asserting that the seats were not securely mounted or braced. Therefore, Appellant\u2019s FELA claim merely sought compliance with federal regulations, and did not seek to impose any duties on Appellant beyond what was required as a matter of federal law. Appellant\u2019s argument to the contrary lacks merit.\nIn its fourth and final issue, Appellant maintains that the trial court abused its discretion in admitting evidence of previous, similar claims that other employees brought against Appellant. Brief for Appellant at 43-46. We disagree.\nEvidence of prior accidents involving the same instrumentality is generally relevant to show that a defect or dangerous condition existed or that the defendant had knowledge of the defect. However, this evidence is admissible only if the prior accident is sufficiently similar to the incident involving the plaintiff which occurred under sufficiently similar circumstances. The burden is on the party introducing the evidence to establish this similarity before the evidence is admitted.\nValentine v. Acme Markets, Inc., 455 Pa.Super. 256, 687 A.2d 1157, 1162-63 (1997) (citations and internal quotation marks omitted). A wide degree of latitude in the determination of whether such evidence should be admitted is vested in the trial court. Lynch v. McStome & Lincoln Plaza Associates, 378 Pa.Super. 430, 548 A.2d 1276, 1279 (1988).\nIn its Pa.R.A.P. 1925(a) opinion, the trial court adequately explained the similarity and relevancy of the prior claims as follows:\nDuring the pre-trial discovery period, [Appellant] provided to [Plaintiff] a list of the locomotive engineers who notified [Appellant] that while working between 1990 to 2007, they were exposed to whole body vibration, awkward postures, slack action jolts and shocks or poor seats, and they developed spinal diseases and/or spinal injuries....\nAll of the claims were musculoskeletal and orthopedic which provide[d] notice to [Appellant] that steps for prevention [were] warranted in order to provide a reasonably safe workplace environment.\nThe list of the fifty-nine locomotive engineers which was prepared and verified by [Appellant] was relevant to show a pattern of notice to [Appellant] and foreseeability of injury. Gallick v. Baltimore and Ohio Railroad Co., 372 U.S. 108, 83 S.Ct. 659, 9 L.Ed.2d 618 (1963) and cases cited.\nT.C.O., 3/30/08, at 41-42.\nWe conclude that evidence of the previous claims were substantially similar to Plaintiffs claim in terms of the relevant time period and the type of injuries that Plaintiff sustained. Although Appellant contends that most of the claims were \u201clow back cases\u201d asserted by \u201croad engineers,\u201d not yard engineers like Plaintiff, Brief for Appellant at 44, these inquiries go to the weight of the evidence and not its admissibility. In short, there was an adequate foundation to establish that evidence of the previous claims consisted of similar accidents occurring at substantially the same place and under similar circumstances as the accident in question. The admissibility of the evidence, moreover, was limited to its relevancy; that is, to establish notice and forseeability. Accordingly, we conclude that the trial court did not abuse its discretion in admitting evidence of prior claims made against Appellant. See Rogers v. Johnson & Johnson Products, Inc., 401 Pa.Super. 430, 585 A.2d 1004, 1006-07 (1990) (concluding that trial court did not abuse its discretion in admitting evidence of reports of other burn incidents involving similar, but not identical, products for the limited purpose of demonstrating notice because the similarities outweighed the differences).\nFor the above-stated reasons, we affirm the judgment entered in favor of Plaintiff.\nJudgment affirmed.\nJudge FREEDBERG files a Dissenting Opinion.\n. Indeed, by limiting their defense to attacking Plaintiff\u2019s medical condition on grounds of causation and employment capacity, Appellant appears to have made a tactical decision to forego challenging the substance of Plaintiff's medical diagnosis at trial with their primary medical expert, Dr. Meller. Appellant does not submit that Dr. Meller was not called to testily because he could not render an opinion due to his inability to conduct an IME of Plaintiff. As such, any claim that Appellant may have to prejudice is severely undermined by its own actions, because Dr. Meller, despite filing expert reports concerning Plaintiff\u2019s post-operative medical condition, was never called to testify at trial.\n. In its brief, Appellant cites numerous cases from foreign jurisdictions in an attempt to substantiate its assertion of error. However, only one of those cases, Wegeng v. Flowers, 753 S.W.2d 306, 308 (Mo.Ct.App. 1988), involved an appellate court ordering a new trial due to the defendant being denied post-surgical discovery of the plaintiff's medical condition. In contrast to the circumstances presented herein, in Wegeng, the plaintiff first claimed \"soft tissue\u201d injuries and then obtained surgery to fuse his cervical bone; thus, the plaintiff\u2019s case was unexpectedly converted from a soft tissue injury case into something much more serious medically \u2014 Le. a \"broken bone\u201d case. Because in this case there were no comparable, substantial changes in Plaintiff\u2019s medical condition prior to and following surgery, we find Wegeng distinguishable and unpersuasive.",
+        "type": "majority",
+        "author": "ALLEN, J.:"
+      },
+      {
+        "text": "DISSENTING OPINION BY\nFREEDBERG, J.\nI agree with the majority that Appellant is not entitled to post trial relief on issues pertaining to the jury\u2019s determination of liability. However, because Appellant was prejudiced by the decision not to allow a postsurgical medical examination and deposition of Appellee\u2019s surgeon, I respectfully dissent and would grant a new trial as to damages.\nBoth Appellant and Appellee sought leave to depose the surgeon. Appellant also sought a medical examination of Ap-pellee by its expert to evaluate the impact of the surgery. The majority concludes that the trial court had \u201cno legitimate basis\u201d to deny these requests. However, the majority holds that Appellant has not established prejudice. I disagree. At trial, the jury was instructed that it could award damages for the nature and extent of Ap-pellee\u2019s injuries; future pain and suffering; the value of future medical care and supplies; future lost earnings; and future household services. Calculation of the amount of these damages is impacted upon by the result of the surgery. Appellant should have been allowed to depose the surgeon and to have its expert examine Appellee so it could determine whether there was relevant evidence on these damage issues.\nTo obtain a new trial on damages, the appellant must demonstrate how the alleged trial error caused an incorrect result. Robinson v. City of Philadelphia, 329 Pa.Super. 139, 478 A.2d 1, 4 (1984). The complained-of ruling must be erroneous and prejudicial to appellant\u2019s case to constitute reversible error. Id. This Court has defined prejudice as \u201cany substantial diminution of a party\u2019s ability to properly present its case at trial.\u201d Florig v. Estate of O\u2019Hara, 912 A.2d 318, 325 (Pa.Super.2006) (citation omitted), appeal denied, 593 Pa. 740, 929 A.2d 1162 (2007) (table).\nIn the instant matter, the judge who presided at the trial was not the judge who ruled on Appellant\u2019s motion. The motions judge did not issue an opinion explaining why the requests were denied. In its opinion denying Appellant\u2019s post-trial motions, the trial court states only that Appellant was not prejudiced because it was able to review post-surgical medical records. There is no explanation why the court did not grant a limited delay in commencement of the trial to allow the examination and deposition, given the significance of the Appellee\u2019s damage claims.\nAt trial, Appellee testified that his pain worsened after the surgery. In response to questioning Appellee stated:\nAppellee: I have more neck pain after the surgery.\nCounsel: In terms of your range of motion in your neck, are you able to turn your neck to the left?\nAppellee: Yes, I can turn to the left.\nCounsel: Demonstrate.\nAppellee: (Indicating)\nCounsel: That type of range of motion, was it limited like that before your surgery?\nAppellee: No. I had almost full range of motion.\nCounsel: The pain that you have now in your neck, how would you compare that to the pain that you were experiencing in your neck before the surgery? Appellee: The pain I have now is greater than before the surgery.\nR.R. at 453-54. Appellant should have been permitted to have him undergo a post-surgical medical examination to test this claim. Appellant should have had the opportunity to ask the surgeon whether the operation had increased Appellant\u2019s pain and limitation of motion.\nThe majority holds that because Appellant had access to Appellee\u2019s post-surgical medical records, this was sufficient to avoid prejudice. A review of such records is not the equivalent of the opportunity to depose the surgeon and to have a medical examination conducted by Appellant\u2019s medical expert.\nIn sum, Appellant\u2019s ability to prepare for trial, to cross-examine Appellee and his witnesses, and to plan strategy was prejudiced by the refusal to allow the requested deposition and examination. The ruling substantially diminished Appellant\u2019s ability to properly contest Appellee\u2019s damage claims. Appellant did not have a level playing field.\nI would remand to permit the requested discovery and medical examination and for a new trial solely with respect to damages.",
+        "type": "dissent",
+        "author": "FREEDBERG, J."
+      }
+    ],
+    "attorneys": [
+      "Andrew E. Tauber, Washington, DC, for appellant.",
+      "Lawrence A. Katz, Bala Cynwyd, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Albert LOCKLEY, Appellee v. CSX TRANSPORTATION INC., Appellant.\nSuperior Court of Pennsylvania.\nArgued May 18, 2010.\nFiled Sept. 13, 2010.\nAndrew E. Tauber, Washington, DC, for appellant.\nLawrence A. Katz, Bala Cynwyd, for appellee.\nBEFORE: ALLEN, LAZARUS, and FREEDBERG , JJ.\nRetired Senior Judge assigned to Superior Court."
+  },
+  "file_name": "0383-01",
+  "first_page_order": 413,
+  "last_page_order": 427
+}

@@ -1,0 +1,511 @@
+{
+  "id": 7284193,
+  "name": "Brian STEWART, Individually and as Personal Representative of the Estates of Connie and Sarah Stewart, Deceased, and as Natural Parent, Guardian and Conservator of Caryn Stewart, and Natural Guardian of Christian Stewart, Greg Bryan, Individually and as Personal Representative of the Estate of Andrew Bryan, Deceased, Sheila Bryan, Individually and as Personal Representative of the Estate of Andrew Bryan, Deceased, and Doug Bryan, Individually, Appellees v. PRECISION AIRMOTIVE, LLC, Precision Airmotive Corporation, and AVCO Corporation, on behalf of its Lycoming Engines Division, Appellants",
+  "name_abbreviation": "Stewart v. Precision Airmotive, LLC",
+  "decision_date": "2010-09-13",
+  "docket_number": "",
+  "first_page": "266",
+  "last_page": "277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 266"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "49 U.S.C. \u00a7 40101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1129"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Stat. 1552",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Cal. Rptr.2d 124",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Cal.App.4th 681",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        196718
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/78/0681-01"
+      ]
+    },
+    {
+      "cite": "968 A.2d 1253",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7338337,
+        7338378,
+        4193446,
+        4193375
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1257",
+          "parenthetical": "noting that issues not properly preserved befoi-e the trial court may not be x-aised on appeal, including where an issue has been identified in a Pa.R.A.P.1925(b) statement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/1253-01",
+        "/a2d/968/1253-02",
+        "/pa/600/0515-01",
+        "/pa/600/0515-02"
+      ]
+    },
+    {
+      "cite": "600 Pa. 515",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4193446,
+        4193375
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that issues not properly preserved befoi-e the trial court may not be x-aised on appeal, including where an issue has been identified in a Pa.R.A.P.1925(b) statement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0515-01",
+        "/pa/600/0515-02"
+      ]
+    },
+    {
+      "cite": "14 C.F.R. \u00a7 21.3",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 C.F.R. \u00a7 21.303",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "A PMA authorizes the manufacture of \"a modification or replacement part for sale for installation on a type certificated product.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "929 F.Supp. 380",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        19153
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/929/0380-01"
+      ]
+    },
+    {
+      "cite": "923 F.Supp. 1453",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7808528
+      ],
+      "pin_cites": [
+        {
+          "page": "1456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/923/1453-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 1117",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8364950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/1117-01"
+      ]
+    },
+    {
+      "cite": "977 A.2d 1121",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297336,
+        4194839
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/977/1121-01",
+        "/pa/602/0065-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194839
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0065-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8333448,
+        3015731
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Pridgen II\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/0619-01",
+        "/pa/591/0305-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3015731
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Pridgen II\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0305-01"
+      ]
+    },
+    {
+      "cite": "515 U.S. 304",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1563897
+      ],
+      "weight": 9,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "313-320"
+        },
+        {
+          "page": "433-434"
+        },
+        {
+          "page": "313-20"
+        },
+        {
+          "page": "313-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/515/0304-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 1112",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9150334
+      ],
+      "pin_cites": [
+        {
+          "page": "1117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/860/1112-01"
+      ]
+    },
+    {
+      "cite": "836 A.2d 42",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        630394,
+        9295547
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "47"
+        },
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0264-01",
+        "/a2d/836/0042-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630394
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0264-01"
+      ]
+    },
+    {
+      "cite": "483 Pa. 68",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1751206
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/483/0068-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 422",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3787744,
+        8467330,
+        8467266,
+        3787565,
+        3787443,
+        8467288
+      ],
+      "weight": 7,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Pridgen I\""
+        },
+        {
+          "page": "426"
+        },
+        {
+          "page": "432"
+        },
+        {
+          "page": "424-425",
+          "parenthetical": "noting two discrete exceptions to the general period of repose"
+        },
+        {
+          "page": "432"
+        },
+        {
+          "page": "435-436",
+          "parenthetical": "distinguishing the appropriate interpretation of the term, \"manufacturer,\" in the context of the rolling provision from \"manufacturer with respect to a type certificate\" in the fraud exception"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0404-01",
+        "/a2d/905/0422-03",
+        "/a2d/905/0422-01",
+        "/pa/588/0403-02",
+        "/pa/588/0405-01",
+        "/a2d/905/0422-02"
+      ]
+    },
+    {
+      "cite": "588 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3787443
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Pridgen I\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0405-01"
+      ]
+    },
+    {
+      "cite": "482 Pa. 615",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1749647
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/482/0615-01"
+      ]
+    },
+    {
+      "cite": "904 A.2d 958",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8474446
+      ],
+      "pin_cites": [
+        {
+          "page": "963"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/904/0958-01"
+      ]
+    },
+    {
+      "cite": "974 A.2d 1166",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7298264,
+        4194319,
+        7298215
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1171"
+        },
+        {
+          "page": "1171"
+        },
+        {
+          "page": "1172",
+          "parenthetical": "quashing an appeal which presented a question of fact"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/974/1166-02",
+        "/pa/601/0487-01",
+        "/a2d/974/1166-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1168,
+    "char_count": 33668,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 7.250810279592395e-08,
+      "percentile": 0.4323578324450576
+    },
+    "sha256": "24fa5f66fbaabf8284f7ccec8a7e80fcf2dd4d01a6879c3ef3ac7d69fa4d1ae9",
+    "simhash": "1:4eeac516570cb77a",
+    "word_count": 5186
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: ALLEN, LAZARUS and FREEDBERG, JJ."
+    ],
+    "parties": [
+      "Brian STEWART, Individually and as Personal Representative of the Estates of Connie and Sarah Stewart, Deceased, and as Natural Parent, Guardian and Conservator of Caryn Stewart, and Natural Guardian of Christian Stewart, Greg Bryan, Individually and as Personal Representative of the Estate of Andrew Bryan, Deceased, Sheila Bryan, Individually and as Personal Representative of the Estate of Andrew Bryan, Deceased, and Doug Bryan, Individually, Appellees v. PRECISION AIRMOTIVE, LLC, Precision Airmotive Corporation, and AVCO Corporation, on behalf of its Lycoming Engines Division, Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nFREEDBERG, J.:\nAppellants, Precision Airmotive, LLC, and Precision Airmotive Corporation (collectively, \u201cPrecision\u201d) and AVCO Corporation, on behalf of its Lycoming Engines Division (\u201cLycoming\u201d) appeal from the orders of the trial court denying in part their respective motions for summary judgment. The Appellees are Brian Stewart, individually and as the personal representative of the Estates of Connie and Sarah Stewart, deceased, as natural parent, guardian and conservator of Caryn Stewart, and as natural guardian of Christian Stewart; Greg Bryan, individually and as personal representative of the Estate of Andrew Bryan, deceased; Sheila Bryan, individually and as personal representative of the Estate of Andrew Bryan, deceased, and Doug Bryan, individually (collectively, \u201cAppellees\u201d). We quash the appeals in part and affirm the order of the trial court in part.\nOn March 27, 2005, a Piper Cherokee aircraft crashed in West Union, Iowa, killing Andrew Bryan, Connie Stewart and Sarah Stewart. Caryn Stewart was critically injured in the crash. The aircraft was manufactured in 1964. It was equipped with a Lycoming O-540-B4B5 engine. The engine included a Marvel Schebler MA-4-5 carburetor manufactured by the Marvel Schebler Division of Borg Warner Corporation. In March 1991, the aircraft engine underwent an overhaul, during which the carburetor received a float system replacement.\nPrecision purchased the Marvel Sche-bler carburetor product line in 1990 and obtained a FAA issued Parts Manufacturer Approval (PMA) certificate. The float system replacement was manufactured by a predecessor to Precision.\nAppellees filed suit against Precision and Lycoming, alleging that a malfunction in the aircraft engine\u2019s carburetor caused the crash. Appellees asserted claims of strict liability, negligence, negligent infliction of emotional distress, misrepresentation and concert of action.\nOn May 4, 2009, Lycoming moved for summary judgment on three grounds. First, according to Lycoming, the engine and carburetor were more than 40 years old. Therefore, the 18-year statute of repose included in the General Aviation Revitalization Act of 1994 (hereinafter \u201cGARA\u201d) bars any personal injury claims against Lycoming. See GARA \u00a7 2(a). Second, Lycoming did not manufacture the carburetor float system replacement parts installed on the aircraft in 1991. Therefore, according to Lycoming, the rolling exception to the statute of repose, set forth in GARA \u00a7 2(a)(2), does not apply to Lycoming. Third, according to Lycoming, Appellees failed to plead with the required specificity, and could not prove, a knowing misrepresentation, withholding or concealment of required information from the FAA, which causally related to the alleged harm suffered by them so as to invoke the fraud exception set forth in GARA \u00a7 2(b).\nThe trial court granted Lycoming\u2019s motion in part, but it denied the motion with respect to Appellees\u2019 claims of misrepresentation and concert of action. See Order of the Trial Court, 8/5/09 (\u201cLycoming Order\u201d). Lycoming timely filed a notice of appeal: It complied with the trial court\u2019s order to file a concise statement of errors complained of on appeal pursuant to Pa. R.A.P.1925, essentially claiming that the trial court erred in its application of GARA \u00a7\u00a7 2(a)(1), (2) and 2(b)(1). See Lycoming\u2019s Pa.R.A.P.1925(b) Statement, The trial court issued a Pa.R.A.P.1925(a) opinion addressing Lycoming\u2019s claims on October 5, 2009 (\u201cLycoming Opinion\u201d).\nOn May 4, 2009, Precision moved for summary judgment, on three grounds. First, according to Precision, it did not manufacture or sell the engine, carburetor or carburetor part's at issue in this case. Second, according to Precision, it is not a successor in interest to the carburetor\u2019s manufacturer; accordingly, Precision contended it may not be held liable to Appel-lees. Third, according to Precision, GARA \u00a7 2(a) prohibits the claims against it. Precision\u2019s motion did not address the applicability of GARA \u00a7 2(b)(1) and did not specifically challenge Appellees\u2019 claim of misrepresentation. Rather, Precision generally requested that the court dismiss \u201call claims that are based on alleged defects in the original carburetor.\u201d Precision Motion, at 6 \u00b6 19.\nThe trial court granted Precision\u2019s motion in part, but it denied the motion with respect to Appellees\u2019 claims of misrepresentation and concert of action and specifically found that \u201cthere remains a question of fact as to knowing misrepresentation, concealment, [and/or] withholding of required information from the [FAA].\u201d Order of the Trial Court, October 14, 2009, at 1-2 (\u201cPrecision Order\u201d). Precision timely filed a notice of appeal. It complied with the trial court\u2019s order to file a concise statement of errors complained of on appeal pursuant to Pa.R.A.P.1925, challenging the relevance of GARA, the trial court\u2019s application of GARA \u00a7 2(b)(1) and the court\u2019s finding that there remained a question of fact. See Precision\u2019s Pa.R.A.P. 1925(b) Statement. The trial court issued an opinion addressing Precision\u2019s claims. Trial Court\u2019s Opinion, 12/10/09 (\u201cPrecision Opinion\u201d).\nPreliminarily, we address Appel-lees\u2019 motions to quash the -appeals of Ly-coming and Precision, as they challenge the jurisdiction of this Court. See Pridgen v. Parker Hannifin Corp., 974 A.2d 1166, 1171 (Pa.Super.2009) (\u201cPridgen III\u201d), citing Moyer v. Gresh, 904 A.2d 958, 963 (Pa.Super.2006). An order denying summary judgment is interlocutory and, generally, not appealable. See Pennsylvania Turnpike Commission v. Atlantic Richfield Co., 482 Pa. 615, 394 A.2d 491 (1978); Pa.R.A.P. 311 and 341. Recently, the Pennsylvania Supreme Court recognized that the collateral order doctrine may provide a narrow exception to the general rule. Pridgen v. Parker Hannifin Corp., 588 Pa. 405, 905 A.2d 422 (2006) (\u201cPridgen I\u201d).\n\u201cAn appeal may be taken as of right from a collateral order of ... [a] lower court.\u201d Pa.R.A.P. 313(a); Pridgen I, 905 A.2d at 426; Pugar v. Greco, 483 Pa. 68, 394 A.2d 542, 545 (1978).\nA collateral order is an order [1] separable from and collateral to the main cause of action where [2] the right involved is too important to be denied review and the question presented is such that if review is postponed until final judgment in the case, the claim will be irreparably lost.\nPa.R.A.P. 313(b). All three factors must be present before an order may be considered collateral. Melvin v. Doe, 575 Pa. 264, 836 A.2d 42, 47 (2003); Pridgen III, 974 A.2d at 1171, citing J.S. v. Whetzel, 860 A.2d 1112, 1117 (Pa.Super.2004).\nIn Pridgen I, the Supreme Court permitted review of a legal question involving the scope of a manufacturer\u2019s ongoing product liability under GARA\u2019s statute of repose. Pridgen I, 905 A.2d at 432. The Court adopted the approach taken by the United States Supreme Court, which has recognized a \u201cdistinction between summary judgment orders reflecting legal versus factual determinations.\u201d Pridgen I at 432, citing Johnson v. Jones, 515 U.S. 304, 313-320, 115 S.Ct. 2151, 132 L.Ed.2d 238 (1995).\nAs the United States Supreme Court has explained, the distinction is consistent with the \u201cseparateness\u201d element of the collateral order doctrine and serves a rational narrowing function in terms of which issues may be considered as of right on interlocutory appellate review. At the same time, it leaves open an avenue for review of a comparatively smaller category of orders where the interests at stake outweigh those underpinning the final order rule.\nPridgen I at 432 n. 11 (citation omitted). Having concluded that the legal/factual distinction is consistent with the collateral order doctrine, the Pennsylvania Supreme Court addressed the GARA question raised by the appellants within the framework of the collateral order doctrine and determined that jurisdiction was proper. Id. at 433-434.\nThe appellants in Pridgen I also sought appellate review of whether there existed \u201cmaterial facts in dispute concerning the application of the misrepresentation, concealment, and withholding exception.\u201d Id. at 432 n. 9. The Supreme Court declined to resolve that question \u201cbecause its resolution [would] entail a fact-based review of affidavits, depositions, and other discovery materials, as opposed to resolution of a central legal controversy.\u201d Id.; see also Johnson, 515 U.S. at 313-20, 115 S.Ct. 2151 (concluding that a summary judgment order that determines a question of evidence sufficiency is not appealable); Pridgen III, 974 A.2d at 1172 (quashing an appeal which presented a question of fact). Therefore, in the context of a claim to which the scope of GAEA is applicable and where the issue presented is a question of law, as opposed to a question of fact, an appellant is entitled to review of a denial of summary judgment under the collateral order doctrine. However, where the issue presented deals with the sufficiency of evidence, appellate jurisdiction to review denial of summary judgment does not exist. Compare Pridgen I; Pridgen III.\nLycoming frames its question before us as \u201cidentical to that previously addressed in Pridgen I and in Pridgen v. Parker Hannifin Corp., 591 Pa. 305, 916 A.2d 619 (2007) (\u201cPridgen II\u201d), which is whether a general aviation manufacturer can be held liable under GARA for replacement parts, installed on a general aviation aircraft, that it did not physically manufacture.\u201d Lycoming\u2019s Answer in Opposition to Ap-pellees\u2019 Motion to Quash, 10/15/09, at 1 (\u201cLycoming\u2019s Answer\u201d). For its part, Precision maintains that it seeks review of whether \u201cthe trial court incorrectly held that Precision can be liable under GARA, particularly the GARA fraud exception, even though [it] did not manufacture any part of the accident aircraft.\u201d Precision\u2019s Opposition to Motion to Quash, 1/25/10, at 1 (\u201cPrecision\u2019s Answer\u201d).\nThe Pennsylvania Supreme Court has emphasized that the collateral order doctrine is narrow. Rae v. Pennsylvania Funeral Directors Association, 602 Pa. 65, 977 A.2d 1121 (2009); Melvin v. Doe, 836 A.2d at 46; see also Berkeyheiser v. A-Plus Investigations, Inc., 936 A.2d 1117 (Pa.Super.2007). In furtherance of this conception, the Supreme Court has adopted an issue-by-issue approach and restricted collateral appeals to those issues which independently satisfy the collateral order test. Rae, 977 A.2d at 1129. Accordingly, we preliminarily review those specific legal questions identified by the Appellants in their answers to Appellees\u2019 motions to quash.\nLycoming\u2019s statement of the legal issue entitled to collateral review does not accurately reflect the conclusions of the trial court or Appellees\u2019 theory of liability. Ly-coming intimates that the trial court concluded that it could be held liable under GARA for replacement parts that it did not manufacture. See, supra, Lycoming\u2019s Answer, at 1. This is incorrect. In fact, the trial court granted Lycoming summary judgment on Appellees\u2019 claims of strict liability and negligence, thus absolving Ly-coming of any liability premised upon the manufacture of replacement parts for the accident aircraft\u2019s engine. See Lycoming Order; Lycoming Opinion, at 4 (\u201c[Lycom-ing] was entitled to GARA\u2019s protection under \u00a7 2(a)(2) ... because [it] did not manufacture the replacement parts installed on the aircraft that allegedly caused the accident.\u201d) (emphasis added). The trial court denied Lycoming summary judgment on Appellees\u2019 claims of misrepresentation and concert of action, concluding \u201c[u]pon review of the [motion], responses, memoranda, and record, this [c]ourt has determined that there remains a question of fact as to whether GARA\u2019s \u00a7 2(b)(1) knowing concealment exception applies to [Lycoming].\u201d Lycoming Opinion, at 3.\nAppellees\u2019 claims against Lycoming, which survived the summary judgment motion, are not premised upon Lycoming having manufactured defective replacement parts. Instead, Appellees seek to impose liability upon Lycoming for:\nfalse representations that the engines and fuel delivery systems used on aircraft similar to the accident aircraft were safe and that various carburetor and valve defects as described herein were not in the 0-540 engines or the Precision fuel delivery systems of said engines, and said misrepresentations were intended to induce and mislead persons to believe that the engines and fuel delivery systems installed on the aircraft similar to the accident aircraft were safe.\nComplaint, 3/26/2007, at 64 \u00b6 166. Appel-lees further allege that Lycoming had a duty to disclose any known defects in the engine, carburetor or carburetor parts to regulatory authorities, including the FAA. See, generally, Complaint, at 19-25 \u00b6\u00b6 55-79. Thus, Appellees seek to hold Lycom-ing liable for breaching the duty to inform the FAA of any known defects in the engine or its component parts that would adversely affect the continued airworthiness of aircraft similar to the accident aircraft.\nLycoming also offers a series of derivative arguments, which are variations on its inaccurate characterization of the trial court decision. Lycoming argues:\n(1) The trial court failed to grant it summary judgment under GARA \u00a7 2(a)(2).\n(2) the trial court relied upon the fraud exception to toll the period of repose relative to any claims which asserted that Lycoming manufactured defective replacement parts.\n(3) the trial court applied the fraud exception to preserve claims involving replacement parts otherwise subject to repose.\nSee Lycoming\u2019s Answer, at 7-9.\nAs with their initial, broad statement of the issue, Lycoming\u2019s derivative arguments do not accurately reflect the decision of the trial court or Appellees\u2019 theory of liability. Further, Lycoming has conflated the application of two exceptions to the general period of GARA repose: the rolling period of ongoing liability for replacement part manufacturers defined in Section 2(a)(2) and the fraud exception defined in Section 2(b)(1). See n. 7 and 8, supra. These exceptions are distinct and work to toll the general period of repose under very different circumstances. See Pridgen I, 905 A.2d at 424-425 (noting two discrete exceptions to the general period of repose), 432 (noting the distinction between the appellees\u2019 claims implicating GARA\u2019s rolling provision and the fraud exception), 435-436 (distinguishing the appropriate interpretation of the term, \u201cmanufacturer,\u201d in the context of the rolling provision from \u201cmanufacturer with respect to a type certificate\u201d in the fraud exception).\nFinally, Lycoming contends that Appellees did not plead facts relevant to the fraud exception with the required specificity and, therefore, are not entitled to prove the exception. Lycoming cites Rickert v. Mitsubishi Heavy Industries, Ltd., 923 F.Supp. 1453, 1456 (D.Wyo.1996) (\u201cRickert I\u201d), reversed, Rickert v. Mitsubishi Heavy Industries, Ltd., 929 F.Supp. 380 (D,Wyo.1996) (\u201cRickert II\u201d), in support of its contention. Lycoming\u2019s citation of Rickert I does not advance its cause. At their core, both Rickert I and Rickert II address whether or not the plaintiff could establish a question of fact. Fact-based inquiries are forbidden in the context of the collateral order doctrine. Johnson; Pridgen I; Pridgen III, at 1171 (rejecting an assertion by the appellants that the appellees failed to sufficiently plead and/or prove \u201cscienter\u201d as an element of the fraud exception).\nLycoming\u2019s formulation of the central legal issue and its derivative arguments do not accurately reflect the trial court\u2019s conclusions or Appellees\u2019 theory of liability. Further, the trial court\u2019s decision to deny Lycoming summary judgment on Appellees\u2019 claims of misrepresentation and concert of action are based upon its review of the factual record and its determination that the record established a question of fact regarding whether Lycoming affirmatively and/or fraudulently breached its ongoing duty to inform the FAA of known defects in the engine or its component parts. In accordance with Pridgen I and Pridgen III, Lycoming is not entitled to collateral review of the trial court\u2019s decision.\nPrecision has also presented an issue that does not accurately reflect the conclusions of the trial court or Appellees\u2019 theory of liability. According to Precision, the trial court improperly created a new cause of action rooted in the GARA fraud exception. Precision\u2019s Answer, at 1; see also Precision\u2019s Appellate Brief, at 40. The trial court responded to a similar assertion in its opinion:\nPrecision alleges that this [c]ourt committed error in holding that it may be liable under, GARA\u2019s \u00a7 2(b)(1) exception because the exception itself does not provide a basis for liability. This [c]ourt is cognizant of the fact that \u00a7 2(b)(1) of GARA does not provide an independent basis for liability, but operates to allow claims that are otherwise time-barred by the statute to proceed against a defendant if the requisite elements for knowing misrepresentation, concealment, and/[or jwithholding of information are met.\nGARA precludes civil actions \u201cfor damages for death or injury to persons or damage to property\u201d against manufacturers arising from aviation accidents occurring after an eighteen year period. [GARA \u00a7 2(a) ]. Thus, if a plaintiff establishes that GARA\u2019s \u00a7 2(b)(1) exception applies, a civil claim otherwise precluded by the statute may proceed.\nHere, [Appellees] assert claims against Precision for strict liability, negligence, misrepresentation, and concert of action, [n. 3] [See Complaint]. This [c]ourt\u2019s partial grant of Precision\u2019s Summary judgment Motion disposes of [Appel-lees\u2019] claims for strict liability and negligence, as this [c]ourt determined that Precision did not manufacture or have successor liability for the defective carburetor. However, [Appellees\u2019] claims for misrepresentation and concert of action are still pending.\nPrecision Opinion, at 6-7. This clear statement by the trial court renders Precision\u2019s assertion meritless. See also Precision Order (granting Precision summary judgment in part). Accordingly, Precision is not entitled to collateral review because the trial court\u2019s ruling was not premised on an incorrect assessment of \u00a7 2(b)(1) as creating a cause of action.\nPrecision offers a series of subsidiary claims, which it asserts are also entitled to collateral review. In its first and third subsidiary claims, Precision contends that the trial court misunderstood and misapplied the term \u201cmanufacturer\u201d in the context of GARA, in that it interpreted the term differently in the rolling provision and the fraud exception. See Precision\u2019s Answer, at 8, 9. In Pridgen I, the appellants focused on \u201cthe scope of an original manufacturer\u2019s ongoing liability under GARA\u2019s rolling provision for the alleged failure of replacement parts that it did not physically manufacture.\u201d Pridgen I, 905 A.2d at 432. Similarly, Precision\u2019s claims implicate the appropriate scope of the term \u201cmanufacturer.\u201d Accordingly, they are entitled to collateral review.\nPrecision\u2019s premise that GARA applies only to airplane \u201cmanufacturers\u201d is correct. However, Precision\u2019s assertion that the term \u201cmanufacturer\u201d is uniform in scope throughout GARA is incorrect. In Pridgen I, the Supreme Court stated, \u201c[W]e believe that the status of type certificate holder and/or designer fall under the umbrella of manufacturer conduct for purposes of GARA.\u201d Pridgen I, at 436. Nevertheless, the Court narrowed its interpretation of \u201cmanufacturer\u201d within the context of the rolling provision in order to avoid \u201cwholly undermining] the general period of repose.\u201d Id. The Supreme Court concluded that the term \u201cmanufacturer,\u201d in the context of the rolling provision, is limited to the actual manufacturer of a replacement product, or one who supplies the replacement product as its own. Pridgen I, at 437.\nPrecision\u2019s status as a PMA certificate holder does not place it outside the GARA conceptions of \u201cmanufacturer\u201d or \u201cmanufacturer conduct.\u201d The role of the PMA certificate holder is inextricable from that of the type certificate holder. See 14 C.F.R. \u00a7 21.303 (A PMA authorizes the manufacture of \u201ca modification or replacement part for sale for installation on a type certificated product.\u201d). The fraud exception expressly provides that a manufacturer may be held liable in its capacity as a type certificate holder. GARA \u00a7 2(b)(1). Further, the Supreme Court has stated that the fraud exception \u201cexpressly contemplates the duties and obligations arising out of the type certificate.\u201d See Pridgen I, 905 A.2d at 435-436 (distinguishing the appropriate interpretation of the term, \u201cmanufacturer,\u201d in the context of the rolling provision from \u201cmanufacturer with respect to a type certificate\u201d in the fraud exception). Therefore, Precision\u2019s claims are without merit. The trial court did not err in concluding that Precision qualifies as a manufacturer within the meaning of the fraud exception. See Precision Opinion, at 4. We affirm the order of the trial court in this regard.\nIn its second claim, Precision asserts that the fraud exception is not applicable, because the allegedly defective replacement parts were installed in the aircraft, which crashed within the rolling period of ongoing liability, thus tolling the general period of repose. See Precision\u2019s Answer, at 9. As we have stated previously, the trial court absolved both Appellants from any liability arising from the manufacture of allegedly defective replacement parts. Precision has misconstrued Appellees\u2019 theory of liability. See, supra, at 272-73.\nPrecision\u2019s fourth and fifth issues implicate a question of law, but ultimately present a question of fact not entitled to collateral review. In its fourth issue, Precision questions the extent of its reporting obligations under 14 C.F.R. \u00a7 21.3. In its fifth issue, Precision questions whether evidence produced by Appellees is \u201crequired information\u201d under the GAEA fraud exception. See Precision\u2019s Answer, at 9-10; Precision\u2019s Appellate Brief, at 50-54.\nThe trial court noted:\nPrecision generally complains that the elements of GARA\u2019s \u00a7 2(b)(1) knowing concealment exception were not satisfied as a matter of law. Without the benefit of a more specific complaint, we are hard-pressed to know [sic] we can only attempt to address each of the elements of the exception.\nPrecision Opinion, at 7. After reviewing evidence purporting to establish that Precision was aware of defects in its carburetors and component parts, the trial court concluded as follows:\nIn order to invoke the [fraud] exception, however, a plaintiff still must show that a defendant was required to report the information to the FAA and that the information was causally related to the harm suffered. Plaintiffs submitted evidence that Precision was subject to the reporting requirements contained in 14 C.F.R. \u00a7 21.3 and produced the expert report of Mr. William Twa that Precision had violated its reporting duty. Ex. A. pp. 6, 10-11; Plaintiffs Response to Defendants\u2019 Motion for Summary Judgment, Ex. 34.\nPrecision Opinion, at 10. The trial court concluded that Appellees established an issue of fact. Therefore, resolution of Precision\u2019s issues would require that we evaluate evidence presented to the trial court. See Precision\u2019s Answer, at 10 (expressly requesting such review). This is not permitted on collateral review. See Johnson, 515 U.S. at 313-20, 115 S.Ct. 2151 (concluding that a summary judgment order that determines a question of evidence sufficiency is not appealable); Pridgen I; Pridgen III.\nTo the extent that Precision is arguing against the recognition of a legal duty to report certain information to the FAA, we note the following. First, Precision failed to x-aise this issue with the trial coui*t in its motion for summary judgment. Therefore, it has waived consideration of this issue. Steiner v. Markel, 600 Pa. 515, 968 A.2d 1253, 1257 (2009) (noting that issues not properly preserved befoi-e the trial court may not be x-aised on appeal, including where an issue has been identified in a Pa.R.A.P.1925(b) statement); Pa. R.A.P. 302(a). Second, Precision has failed to properly bi-ief this issue within the framework identified by our Supreme Court in Pridgen I, addx-essing whether (1) the existence of a legal duty to report information to the FAA is sepax-ate and collateral to the main cause of action, (2) the right involved is too impoi*tant to be denied review and (3) the question presented is such that if review is postponed until final judgment in the case, the claim will be irreparably lost. Pa.R.A.P. 311(b). Therefore, a finding of waiver is peimissi-ble on this basis as well. Pa.R.A.P. 2101, 2119.\nNevei'theless, Pi'ecision\u2019s question i'e-garding the existence of a duty to report information to the FAA in accordance with fedei-al regulation l-egarding the ainvorthiness of an aircraft, its engine or its component parts is not entitled to collateral review. First, and foremost, Precision has l'epeatedly acknowledged in this litigation and elsewhere that it has a duty to report information in accoi'danee with federal regulations. See Precision\u2019s Answer, at 9-11; Precision\u2019s Appellate Brief, at 50-54; see generally, Burroughs v. Precision Airmotive Corp., 78 Cal.App.4th 681, 93 Cal. Rptr.2d 124 (2000). Second, the existence and scope of Precision\u2019s duty to report information to the FAA is defined by federal safety regulations, not GARA. See, e.g., 14 C.F.R. Part 21. Therefore, Precision\u2019s characterization of this issue as rooted in GARA is incorrect, and its attempt to transm\u00fatate an acknowledged duty into a question of law implicating the scope of GARA runs afoul the reasoning of our Supreme Court in Rae, which warned against bootstrapping otherwise unappealable claims onto meritorious collateral issues. See Rae, at 1129 (rejecting the \u201cwhole order approach\u201d).\nAt root, Precision questions whether Ap-pellees\u2019 evidence constitutes proof of a breach of this acknowledged duty. That is a question of fact, the resolution of which is inextricably related to the underlying cause of action. Therefore, it fails the \u201cseparateness\u201d element of the collateral order doctrine. See Pridgen I at 432 n. 11.\nFurther, unlike the right to repose afforded by GARA, an airplane manufacturer\u2019s duty to report does not implicate the concerns recognized by Congress in passing GARA: \u201cthe impact of long-tail liability on a declining American aviation industry, ... regeneration of essential domestic enterprises, creating employment opportunities for citizens, and favorably affecting the balance of trade between the United States and its trading partners.\u201d Pridgen I, at 429 (citing Congressional records). Unlike the right to repose, postponing review of this issue until after a final judgment has been entered will not eliminate an important right. Pridgen I, at 430 (citing federal precedent recognizing that immunity claims, double jeopardy claims and Speech and Debate Clause challenges must not be postponed).\nWith one exception regarding Precision\u2019s qualification as a manufacturer within the meaning of the fraud exception, Appellants do not present an underlying or dispositive question of law. The trial court based its decision, as to both Appellants, on its conclusion that Appellees came forward with factual evidence in support of their allegations that Appellants engaged in misrepresentations such as would establish an exception to the general statute of repose in GARA. Appellants dispute these facts. The recognition of this factual dispute is the foundation of the trial court\u2019s decision. Accordingly, we dispose of Precision\u2019s sole claim entitled to collateral review on its merits but quash the appeals in all other respects.\nAppeals quashed in part. The order of the trial court appealed at 3156 EDA 2009 is affirmed in part. Requests for costs and fees denied. This matter is remanded to the trial court. Jurisdiction relinquished.\n. The appeals were consolidated on December 14, 2009. Order of Superior Court, December 14, 2009 (per curiam ).\n. Lycoming remains the Type Certificate holder for this engine type. A Type Certificate is issued by the Federal Aviation Administration (FAA) and authorizes the holder to manufacture a particular aircraft engine for sale in the United States. See 14 C.F.R. Part 21.\n. A PMA authorizes the holder to manufacture \"a modification or replacement part for sale for installation on a type certificated product.\" 14 C.F.R. \u00a7 21.303.\n. The trial court granted summary judgment in favor of Appellants on the claim for negligent infliction of emotional distress on July 14, 2009.\n. Pub.L. No. 103-298, 108 Stat. 1552 (codified as amended at 49 U.S.C. \u00a7 40101, Note).\n. GARA \u00a7 2(a) provides:\nExcept as provided in subsection (b), no civil action for damages for death or injury to persons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred ... after the applicable limitation period [of eighteen years].\n. GARA \u00a7 2(a)(2) extends the general statute of repose an additional 18 years from the date of the installation of replacement parts in the following manner:\nwith respect to any new component, system, subassembly, or. other part which replaced another component, system, subas-sembly, or other part originally in, or which was added to, the aircraft, and which is alleged to have caused such death, injury, or damage, after the applicable limitation period beginning on the date of completion of the replacement or addition.\n.GARA \u00a7 2(b)(1) provides that the statute of repose does not apply:\nif the claimant pleads with specificity the facts necessary to prove, and proves, that the manufacturer with respect to a type certificate or airworthiness certificate for, or obligations with respect to continuing airworthiness of, an aircraft or a component, system, subassembly, or other part of an aircraft knowingly misrepresented to the Federal Aviation Administration, or concealed or withheld from the Federal Aviation Administration, required information that is material and relevant to the performance or the maintenance or operation of such aircraft, or the component, system, subassembly, or other part, that is causally related to the harm which the claimant allegedly suffered.\n. On August 5, 2009, the trial court denied, generally, the motion for summary judgment as to the claim of misrepresentation, but granted the motion as to a specific claim of misrepresentation as to the mating of brass and stainless steel in the carburetor float sys- . tem. Subsequently, Appellees' sought and were granted permission to amend their specific claim of misrepresentation as to the mating of brass and stainless steel in the carburetor float system. See Appellees' Motion, August 6, 2009; Order, September 23, 2009.\n. Notably, the trial court had granted Ly-coming\u2019s motion for summary judgment based upon GARA \u00a7 2(a)(1) and (a)(2).\n. This stands in contrast to the \"whole order approach,\" which would permit review of all issues surrounding a collateral order, provided that any one issue satisfied the test. Rae at 1127. The Court warned that \"the whole order approach would almost certainly have the effect of increasing collateral review by encouraging creative advocates to raise claims which, while sufficient to satisfy Rule 313, are unlikely to prevail, so as to achieve immediate appellate review of secondary and otherwise unappealable claims.\u201d Id. at 1129.\n. In its second derivative argument, Lycom-ing expressly charges the trial court with conferring \u201cmanufacturer status under GARA\u201d upon Lycoming \u201cin direct conflict with Prid-gen I.\" Lycoming\u2019s Answer, at 8. This charge does not accurately reflect the Supreme Court\u2019s analysis. See, infra, at 16-17.\n. Lycoming\u2019s contention mischaracterizes the conclusions of the trial court. In fact, the trial court granted Lycoming summary judg-menl for Appellees\u2019 failure to sufficiently plead certain allegations. See Lycoming Order; see also n. 9, supra.\n. We note that Appellees\u2019 response to Precision's motion for summary judgment quotes trial testimony from Precision\u2019s President and General Manager, Scott L. Grafenauer, acknowledging that Precision must report unsafe conditions in a model carburetor for which it holds the PMA certificate, even if Precision did not manufacture the carburetor. Appellees\u2019 response identifies the location of this testimony as Exhibit 43. We could not locate this exhibit in the certified record. Nevertheless, Precision did not object to this evidence.",
+        "type": "majority",
+        "author": "FREEDBERG, J.:"
+      }
+    ],
+    "attorneys": [
+      "Catherine Slavin, Philadelphia, for appellant.",
+      "William J. Conroy, Wayne and Mary P. Gaston, Seattle, WA, for Precision Airmo-tive, appellee.",
+      "Bradley J. Stoll, Philadelphia, for Stewart, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Brian STEWART, Individually and as Personal Representative of the Estates of Connie and Sarah Stewart, Deceased, and as Natural Parent, Guardian and Conservator of Caryn Stewart, and Natural Guardian of Christian Stewart, Greg Bryan, Individually and as Personal Representative of the Estate of Andrew Bryan, Deceased, Sheila Bryan, Individually and as Personal Representative of the Estate of Andrew Bryan, Deceased, and Doug Bryan, Individually, Appellees v. PRECISION AIRMOTIVE, LLC, Precision Airmotive Corporation, and AVCO Corporation, on behalf of its Lycoming Engines Division, Appellants.\nSuperior Court of Pennsylvania.\nArgued May 19, 2010.\nFiled Sept. 13, 2010.\nReargument Denied Nov. 22, 2010.\nCatherine Slavin, Philadelphia, for appellant.\nWilliam J. Conroy, Wayne and Mary P. Gaston, Seattle, WA, for Precision Airmo-tive, appellee.\nBradley J. Stoll, Philadelphia, for Stewart, appellee.\nBEFORE: ALLEN, LAZARUS and FREEDBERG, JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0266-01",
+  "first_page_order": 294,
+  "last_page_order": 305
+}

@@ -1,0 +1,536 @@
+{
+  "id": 7285846,
+  "name": "In re HIGERA N. et al.",
+  "name_abbreviation": "In re Higera N.",
+  "decision_date": "2010-08-10",
+  "docket_number": "",
+  "first_page": "265",
+  "last_page": "276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 265"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 77"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "1 U.S.C.S. \u00a7 1",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "LexisNexis 1993"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "690 S.W.2d 605",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9977367
+      ],
+      "pin_cites": [
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/690/0605-01"
+      ]
+    },
+    {
+      "cite": "723 N.W.2d 449",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WL 2058322",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "792 P.2d 118",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10379475
+      ],
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/792/0118-01"
+      ]
+    },
+    {
+      "cite": "652 N.E.2d 616",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "619",
+          "parenthetical": "\"[T]he PKPA preempts a care and protection proceeding in the [non-emergency] circumstances of this case.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "420 Mass. 879",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        826219
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he PKPA preempts a care and protection proceeding in the [non-emergency] circumstances of this case.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/420/0879-01"
+      ]
+    },
+    {
+      "cite": "612 N.E.2d 174",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10834044
+      ],
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/612/0174-01"
+      ]
+    },
+    {
+      "cite": "147 Ariz. 584",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1470055
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/147/0584-01"
+      ]
+    },
+    {
+      "cite": "147 Ariz. 527",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1470075
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/147/0527-01"
+      ]
+    },
+    {
+      "cite": "2005 ME 123",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8992397
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b633"
+        },
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/0297-01"
+      ]
+    },
+    {
+      "cite": "94 Stat. 3566",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "670 N.Y.S.2d 377",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        525163
+      ],
+      "weight": 7,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "727"
+        },
+        {
+          "parenthetical": "holding that a \"child protective proceeding is not a 'custody determination' within the meaning of the PKPA\""
+        },
+        {
+          "parenthetical": "holding that a \"child protective proceeding is not a 'custody determination' within the meaning of the PKPA\""
+        },
+        {
+          "page": "727",
+          "parenthetical": "holding that a \"child protective proceeding is not a 'custody determination' within the meaning of the PKPA\""
+        },
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0306-01"
+      ]
+    },
+    {
+      "cite": "91 N.Y.2d 806",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 Neb. 84",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        5240328
+      ],
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he State ... acting in the role of parens patriae, does not fit within th[e] definition [of 'contestant'].\""
+        },
+        {
+          "page": "501",
+          "parenthetical": "\"[T]he State ... acting in the role of parens patriae, does not fit within th[e] definition [of 'contestant'].\""
+        },
+        {
+          "parenthetical": "holding that \"the PKPA does not apply to dependency proceedings\" and that \"[t]he act, unlike (he [UCCJA], does not incorporate child neglect and dependency proceedings\"), State ex rel. Dep't of Human Servs. v. Avinger, 104 N.M. 255, 720 P.2d 290, 292 (1986"
+        },
+        {
+          "page": "500",
+          "parenthetical": "holding that \"the PKPA does not apply to dependency proceedings\" and that \"[t]he act, unlike (he [UCCJA], does not incorporate child neglect and dependency proceedings\"), State ex rel. Dep't of Human Servs. v. Avinger, 104 N.M. 255, 720 P.2d 290, 292 (1986"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/241/0084-01"
+      ]
+    },
+    {
+      "cite": "25 U.S.C.S. \u00a7 1903",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(1)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Stat. 3069",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 N.M. 255",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1594961
+      ],
+      "weight": 4,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "292"
+        },
+        {
+          "parenthetical": "\"[I]t was error for the Court of Appeals ... to hold that the PKPA preempts the [UCCJA] with respect to child neglect and dependency proceedings.\""
+        },
+        {
+          "page": "292",
+          "parenthetical": "\"[I]t was error for the Court of Appeals ... to hold that the PKPA preempts the [UCCJA] with respect to child neglect and dependency proceedings.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/104/0255-01"
+      ]
+    },
+    {
+      "cite": "890 P.2d 647",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10347614
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "661"
+        },
+        {
+          "page": "661-62"
+        },
+        {
+          "page": "662",
+          "parenthetical": "noting that Congress sought to discourage child snatching when it enacted the PKPA and holding, \"The PKPA, like the UCCJA, was not meant to preclude the state from protecting its resident children.\""
+        },
+        {
+          "page": "662-63",
+          "parenthetical": "\"[T]he PKPA does not apply to dependency and neglect proceedings, and ... does not, therefore, preempt state law.\""
+        },
+        {
+          "page": "655",
+          "parenthetical": "\"[Tjhe entire focus of the proceedings in a dependency and neglect action is to protect and shelter children who are susceptible to profound harm.... [T]he safety of the ... child, and not the custodial interest of the parent, is the paramount concern.\""
+        },
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/890/0647-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 149",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8318265
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "803"
+        },
+        {
+          "parenthetical": "\"[I]f the plain language of the statute is ambiguous ... we look beyond that language to other indicia of legislative intent.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/938/0801-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 83",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7296963
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "927"
+        },
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "927"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/0924-01"
+      ]
+    },
+    {
+      "cite": "484 U.S. 174",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        599613
+      ],
+      "weight": 6,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "177"
+        },
+        {
+          "parenthetical": "\"Once a State exercises jurisdiction consistently with the provisions of the [PKPA], no other State may exercise concurrent jurisdiction over the custody dispute, even if it would have been empowered to take jurisdiction in the first instance .... \" (citation omitted)"
+        },
+        {
+          "parenthetical": "\"Once a State exercises jurisdiction consistently with the provisions of the [PKPA], no other State may exercise concurrent jurisdiction over the custody dispute, even if it would have been empowered to take jurisdiction in the first instance .... \" (citation omitted)"
+        },
+        {
+          "page": "177"
+        },
+        {
+          "parenthetical": "stating that once a state exercises jurisdiction consistently with the PKPA, no other state may exercise concurrent jurisdiction over a custody dispute governed by the PKPA, and \"all States must accord full faith and credit to the first State's ... custody decree\""
+        },
+        {
+          "parenthetical": "stating that once a state exercises jurisdiction consistently with the PKPA, no other state may exercise concurrent jurisdiction over a custody dispute governed by the PKPA, and \"all States must accord full faith and credit to the first State's ... custody decree\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0174-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 16",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8212514
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/0644-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 24",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8332101
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "227"
+        },
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "227",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "227",
+          "parenthetical": "noting trial court's reliance on guardian's report in making termination findings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/0225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1337,
+    "char_count": 34821,
+    "ocr_confidence": 0.717,
+    "pagerank": {
+      "raw": 2.904896638108239e-07,
+      "percentile": 0.845355076685938
+    },
+    "sha256": "2afdbf5003fd223f8ee653dac399200026f6c4534dfe7bc8621227cded1c8a14",
+    "simhash": "1:eb1fcb223085f243",
+    "word_count": 5809
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "In re HIGERA N. et al."
+    ],
+    "opinions": [
+      {
+        "text": "MEAD, J.\n[\u00b6 1] The father of Higera N., Hwida N., Diera N., Tuta N., and Thon B. appeals from a judgment of the District Court (Portland, Powers, J.) terminating his parental rights to the children pursuant to 22 M.R.S. \u00a7 4055 (2009). He contends that (1) the Parental Kidnaping Prevention Act (PKPA), 28 U.S.C.S. \u00a7 1738A (LexisNexis 2003), deprived the court of subject matter jurisdiction because a South Dakota court had previously entered an interim custody order; (2) the Department of Health and Human Services (Department) failed to act in good faith with regard to his efforts to reunify with the children; and (3) the court erred in finding by clear and convincing evidence that he is an unfit parent. Because we conclude that the PKPA does not apply to this child protection action and otherwise discern no error, we affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] The District Court found the following facts, which are supported by competent evidence in the record and therefore are not clearly erroneous. See In re Marcus S., 2007 ME 24, \u00b6 6, 916 A.2d 225, 227. Nyawar N. (mother) and Sadiq K. (father) are the natural parents of five children: Higera (now age ten), Hwida (age nine), Diera (age seven), Tuta (age five), and Thon (age three). Until November 2006, the family lived in South Dakota. At that time, after filing for divorce, the mother moved to Maine with the four oldest children. Thon was born in Maine in February 2007. By the time of the termination of parental rights (TPR) hearing in March of 2009, the parents were still married, although separated, and it appeared that the mother was once again living in South Dakota.\n[\u00b6 3] In South Dakota, the parents had a history with law enforcement of domestic violence incidents committed against each other with the children present. The court described their relationship there as \u201cchaotic and violent.\u201d The girls saw their parents fight in their presence. South Dakota police reports show that the mother was arrested twice for assaulting the father, once with a knife, and the father was arrested once for assaulting the mother and, on another occasion, for assaulting a man whom he suspected was involved with her. In October 2006, shortly before the mother moved to Maine, the South Dakota Circuit Court entered an order of protection against domestic abuse on behalf of the mother against the father.\n[\u00b6 4] In addition, the mother physically abused the girls while the father was present; the father once told the mother that she could kick the girls but not the boy, Tuta. The court found that the father made an implicit admission to the children\u2019s guardian ad litem that he knew the mother abused the children, and it found unpersuasive the father\u2019s testimony denying that he knew of the abuse. The father himself disciplined the older girls by pinching them hard enough to leave marks for up to two days. His denial that he did so \u201ccause[d] the court to doubt his overall credibility.\u201d\n[\u00b6 5] In January 2007, Diera, then age three, was taken by ambulance to Maine Medical Center with what a physician specializing in child abuse described as potentially life-threatening injuries, including a spiral fracture of the femur, a fractured clavicle, scalp lacerations, and burns caused by boiling water. The District Court later found it \u201chighly likely\u201d that once in Maine, the mother had committed brutal, horrific physical and emotional abuse against the three girls, particularly Diera.\n[\u00b6 6] On January 18, 2007, the Department filed a petition for a child protection order as to Higera, Hwida, Diera, and Tuta. On February 4, the day he was born, the Department filed a petition as to their brother, Thon. The court entered preliminary child protection orders and granted the Department custody of the five children. See 22 M.R.S. \u00a7 4084(2) (2009). The mother waived her right to a summary preliminary hearing. The father exercised his right, and a summary hearing was held on February 12. The court (Bradley, J.) found that the children would be in immediate risk of serious harm if returned to the father and ordered that they remain in the custody of the Department. See 22 M.R.S. \u00a7 4034(4) (2009). On September 4, the court (Powers, J.) held a jeopardy hearing. By agreement, the court found jeopardy as to all five children against both parents. See 22 M.R.S. \u00a7 4035(2) (2009). The Department retained custody and was ordered to pursue reunification with the father; it was relieved of any reunification obligation to the mother. See 22 M.R.S. \u00a7 4036-B(4) (2009).\n[\u00b6 7] One year later, following three judicial reviews, the Department filed a petition to terminate the parental rights of both parents as to all of the children. See 22 M.R.S. \u00a7 4052 (2009). In March 2009, six months after the TPR petition was filed, and less than two weeks before the TPR hearing, the father moved to dismiss the petition, asserting that the PKPA deprived the court of subject matter jurisdiction. The basis of the motion was an order entered by the South Dakota Circuit Court in the parents\u2019 South Dakota divorce action on December 19, 2006, thirty days before the District Court issued its first preliminary child protection order. The father had registered the South Dakota order in the District Court on March 1, 2007. Noting the mother\u2019s failure to appear for a custody and contempt hearing, the South Dakota order provided that\n[the father] shall be awarded the care, custody and control of the parties minor children [naming the four oldest children], commencing immediately; and\nIT IS FURTHER ORDERED that [the father] shall retain custody of the parties minor children until [the mother] schedules a hearing, and [the mother] and the four minor children shall be present at said hearing, to address the issues of custody and visitation and any other remaining issues that pertain to the best interests of the children and upon further order of the Court.\nFollowing a hearing on March 13, 2009, the court denied the motion to dismiss the petition, finding that the PKPA did not apply to a child protection proceeding.\n[\u00b6 8] A four-day hearing on the TPR petition was held March 16-19, 2009. The mother did not appear. The court heard testimony from a Department caseworker, three licensed clinical social workers, two therapeutic foster parents, the father, and the guardian ad litem. Based on all of the evidence presented, the court concluded by clear and convincing evidence that the mother was unfit because she had abandoned the children and had acted toward Diera \u201cin a manner that is heinous or abhorrent to society.\u201d See 22 M.R.S. \u00a7 4055(l)(B)(2)(b)(i), (ii), (iii), (1-A)(A). It concluded that the father was unfit because his failure to protect the children from domestic violence, coupled with his failure to understand their many special needs and to cope with those needs, left him unable to protect them from jeopardy and to take responsibility for them within a time reasonably calculated to meet their needs. See 22 M.R.S. \u00a7 4055(l)(B)(2)(b)(i), (ii). The court also found by clear and convincing evidence that termination was in the best interest of each child. See 22 M.R.S. \u00a7 4055(l)(B)(2)(a). Accordingly, it entered a judgment terminating both parents\u2019 rights to all five children and granting continued custody to the Department.\n[\u00b6 9] The father moved for further findings of fact and for an amended judgment; in response, the court entered additional written findings. This appeal by the father followed; the mother has not appealed. In response to our invitation, South Dakota and the United States have filed briefs as amici curiae addressing the jurisdiction issue raised by the father.\nII. DISCUSSION\nA. Jurisdiction\n[\u00b6 10] The father contends that the PKPA barred the District Court from exercising jurisdiction over the TPR petition because of the pre-existing South Dakota interim custody order. We address this issue before reaching his other claims because absent subject matter jurisdiction, the court had no authority to act. Ewing v. Me. Dist. Court, 2009 ME 16, \u00b6 12, 964 A.2d 644, 647. Whether the court had jurisdiction is an issue of law that we review de novo. Id.\n[\u00b6 11] As an initial matter, we note that ordinarily the District Court has jurisdiction over child protection petitions \u201cregardless of other decrees regarding a child\u2019s care and custody,\u201d and its orders in a child protection proceeding \u201ctake[ ] precedence over any prior order regarding the child\u2019s care and custody.\u201d 22 M.R.S. \u00a7 4031(1)(A), (3) (2009). That jurisdictional grant controls here unless the PKPA bars Maine courts from exercising jurisdiction in this case. 28 U.S.C.S. \u00a7 1738A(a); see Thompson v. Thompson, 484 U.S. 174, 177, 108 S.Ct. 513, 98 L.Ed.2d 512 (1988) (\u201cOnce a State exercises jurisdiction consistently with the provisions of the [PKPA], no other State may exercise concurrent jurisdiction over the custody dispute, even if it would have been empowered to take jurisdiction in the first instance .... \u201d (citation omitted)); Hamilton v. Hamilton, 2009 ME 83, \u00b6 15, 976 A.2d 924, 927 (stating that, if the statutes conflict, the PKPA preempts the Maine Uniform Child Custody Jurisdiction and Enforcement Act, 19-A M.R.S. \u00a7\u00a7 1731-1783 (2009)).\n[\u00b6 12] Accordingly, in order to decide whether the District Court had jurisdiction to terminate the father\u2019s parental rights, we must first determine whether the PKPA applies to a child protection petition brought by the Department. If it does not, we need not reach the subsidiary questions of whether the South Dakota order satisfies the PKPA\u2019s requirements to qualify for full faith and credit, or whether one of the exception provisions in the PKPA nonetheless allows Maine to assume jurisdiction in this matter.\n[\u00b6 13] The PKPA provides, in part, \u201cThe appropriate authorities of every State shall enforce according to its terms, and shall not modify except as provided in ... this section, any custody determination or visitation determination made consistently with the provisions of this section by a court of another State.\u201d 28 U.S.C.S. \u00a7 1738A(a). A \u201ccustody determination\u201d is defined as \u201ca judgment, decree, or other order of a court providing for the custody of a child, and includes permanent and temporary orders, and initial orders and modifications.\u201d Id. \u00a7 1738A(b)(3).\n[\u00b6 14] The South Dakota order, which by its plain terms allocates temporary custody to the father over the mother, is clearly a \u201ccustody determination\u201d within the meaning of the PKPA. See id. The question we face, one of first impression in Maine, is whether the TPR order entered by the District Court as part of a child protection case was likewise a \u201ccustody determination\u201d purporting to modify the earlier South Dakota order.\n[\u00b6 15] As evidenced by the split of authority among states that have decided it, the answer to that question is not obvious. Some states have said that the phrase \u201cmodify ... any custody determination\u201d encompasses virtually all custody allocations made by a court, including those made in child protection actions; others have held that a child protection action is a different specie altogether from a custody dispute between private parties, and that Congress did not intend that it be included in the PKPA definition. Statutory language is ambiguous if it is reasonably susceptible to more than one interpretation. L\u2019Heureux v. Michaud, 2007 ME 149, \u00b6 7, 938 A.2d 801, 803. We, like several of the other states that have interpreted this provision of the PKPA, cannot determine Congress\u2019s intent solely from the plain language of the statute. Therefore, because the extent of the prohibition that we not \u201cmodify ... any custody determination\u201d is ambiguous in the context of a child protection case, we look to other language in the PKPA and to the stated purpose of Congress in enacting it for illumination. Id. (\u201c[I]f the plain language of the statute is ambiguous ... we look beyond that language to other indicia of legislative intent.\u201d).\n[\u00b6 16] There are indications in the PKPA that suggest that Congress did not intend it to apply to child protection petitions. The PKPA is largely modeled on the Uniform Child Custody Jurisdiction Act (UCCJA), which was enacted in Maine and then later replaced by the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), 19-A M.R.S. \u00a7\u00a7 1731-1783. See Levy, Maine Family Law \u00a7 2.4.1 at 2-10 to 2-11 (6th ed.2009). All three acts define a \u201ccustody determination,\u201d but only the UCCJA and UCCJEA contain definitions for a \u201ccustody proceeding.\u201d Unif. Child Custody Jurisdiction Act \u00a7 2(3), 9 U.L.A. pt. 1A, at 286 (1999); Unif. Child Custody Jurisdiction & Enforcement Act \u00a7 102(4), 9 U.L.A. pt. 1A, at 658 (codified at 19-A M.R.S. \u00a7 1732(4)). The UCCJA defines a \u201ccustody proceeding\u201d as including \u201cchild neglect and dependency proceedings,\u201d and the UCCJEA definition of a \u201cchild custody proceeding\u201d includes \u201ca proceeding for ... neglect, abuse ... [and] termination of parental rights.\u201d Id.\n[\u00b6 17] The omission of a similar definition from the PKPA, which would have explicitly brought child protection actions within the ambit of the Act, is telling and indicates that child protection actions are not custody proceedings when applying the PKPA. See L.G. v. People, 890 P.2d 647, 661 (Colo.1995); State ex rel. Dep\u2019t of Human Servs. v. Avinger, 104 N.M. 255, 720 P.2d 290, 292 (1986). We infer that the omission was deliberate because, in enacting the Indian Child Welfare Act two years before it enacted the PKPA, Congress included a definition for \u201cchild custody proceeding\u201d that encompassed both \u201cany action removing [a] ... child from its parent ... for temporary placement in a foster home,\u201d and \u201cany action resulting in the termination of the parent-child relationship.\u201d Indian Child Welfare Act of 1978, Pub.L. No. 95-608, \u00a7 4(1)(i), (ii), 92 Stat. 3069, 3069-70 (codified at 25 U.S.C.S. \u00a7 1903(1)(i), (ii) (LexisNexis 2004)). Congress could have easily included a similar provision in the PKPA, but did not.\n[\u00b6 18] Furthermore, the PKPA provides that a state making a \u201cchild custody ... determination\u201d has continuing jurisdiction so long as that state has jurisdiction under its own law, and \u201csuch State remains the residence of the child or of any contestant.\u201d 28 U.S.C.S. \u00a7 1738A(d); see id. \u00a7 1738A(c)(l). A \u201ccontestant\u201d is \u201ca person ... who claims a right to custody or visitation of a child.\u201d Id. \u00a7 1738A(b)(2). When the Department petitions the District Court for a child protection order, it does not do so as a \u201cperson,\u201d nor does it \u201cclaim[ ] a right to custody.\u201d See In re L.W., 241 Neb. 84, 486 N.W.2d 486, 501 (1992) (\u201c[T]he State ... acting in the role of parens patriae, does not fit within th[e] definition [of \u2018contestant\u2019].\u201d). The Department may ask the court for temporary custody in order to protect the child involved, but it does not assert any right to custody beyond its statutory authority and the necessities of the situation at hand. The fact that Congress chose to define \u201ccontestant\u201d in a way that excludes the State in its role as parens patriae suggests that it did not intend for the PKPA\u2019s continuing jurisdiction provision to extend to child protection cases in which the State is a party.\n[\u00b6 19] Examining the purpose of the PKPA further strengthens the conclusion that Congress enacted it as a way to limit concurrent jurisdiction between states over child custody disputes between private parties, see L.G., 890 P.2d at 661-62, not to prevent states from exercising parens patriae authority to protect children within their borders from abuse or neglect, see In re Sayeh R., 91 N.Y.2d 806, 670 N.Y.S.2d 377, 693 N.E.2d 724, 727 (1997). Congress found that the PKPA was necessary because of \u201ca large and growing number of cases annually involving disputes between persons claiming rights of custody and visitation of children,\u201d and that the inconsistent way in which states resolved those disputes \u201ccontribute[d] to a tendency of parties involved in such disputes to frequently resort to the seizure, restraint, concealment, and interstate transportation of children.\u201d Parental Kidnaping Prevention Act of 1980, Pub.L. No. 96-611, \u00a7 7(a)(1), (3), 94 Stat. 3566, 3568-69. One of the general purposes of the PKPA is to \u201cdeter interstate abductions and other unilateral removals of children undertaken to obtain custody and visitation awards.\u201d Id. \u00a7 7(c)(6), 94 Stat. at 3569.\n[\u00b6 20] The dangers that Congress sought to remedy with the PKPA are not presented when the State seeks to protect a child from abuse or neglect in a child protection proceeding like the one at bar. As discussed above, the Department is not a \u201cperson,\u201d and does not \u201cclaim[ ] rights of custody\u201d when it brings- a petition, 28 U.S.C.S. \u00a7 1738A(b)(2), nor does it \u201cresort to the seizure, restraint, [or] concealment\u201d of children in doing so, Parental Kidnaping Prevention Act of 1980, Pub.L. No. 96-611, \u00a7 7(a)(3), 94 Stat. at 3569. Nor does the exercise of a state\u2019s parens patriae authority promote \u201cinterstate abductions and other unilateral removals of children undertaken to obtain custody and visitation awards,\u201d id. \u00a7 7(c)(6), 94 Stat. at 3569, because a parent or another party who brings a child to Maine and then alleges that the child has been abused and requires protection has no assurance that he or she will be awarded custody. See supra n. 7.\n[\u00b6 21] Unlike a divorce complaint or parental rights and responsibilities complaint where a court generally determines which of the two parents is to have primary physical custody, a child protection petition often results in an order granting custody to the Department or a third person. Because a court acting on a child protection petition is primarily concerned with the child\u2019s safety, and does not presume that custody in such a case should be determined by deciding between the child\u2019s parents, there is no incentive to forum shop by bringing a child to Maine and then asserting that the court should intervene because the child has been abused or neglected. Because the incentive to remove a child to another state in an effort to obtain a more favorable custody ruling is the chief evil the PKPA seeks to prevent, and that incentive is not present in a child protection action, it is logical to conclude that Congress did not contemplate that child protection actions would be barred by the PKPA. See L.G., 890 P.2d at 662 (noting that Congress sought to discourage child snatching when it enacted the PKPA and holding, \u201cThe PKPA, like the UCCJA, was not meant to preclude the state from protecting its resident children.\u201d).\n[\u00b6 22] Finally, \u201c[i]n furtherance of the purposes of [the PKPA],\u201d Congress encourages courts to award \u201cnecessary travel expenses, attorneys\u2019 fees, costs of private investigations, witness fees or expenses, and other expenses\u201d when \u201ca contestant\u201d has wrongfully removed a child from the custody of a person entitled to custody. Pub.L. No. 96-611, \u00a7 8(e), 94 Stat. at 3571. As discussed above, the Department is not a \u201ccontestant,\u201d nor does it unlawfully remove children from their custodians when a court acting on a child protection petition orders it to assume custody. The fact that the fees and expenses outlined are appropriate in a custody case between private litigants, not in a matter involving a state agency, also makes it plain that Congress contemplated disputes between individuals when it fashioned this provision of the PKPA.\n[\u00b6 23] Based on the foregoing analysis of the language used in, and omitted from, the PKPA, and on Congress\u2019s stated reasons for enacting it, we conclude that the TPR judgment entered by the District Court is not a \u201ccustody determination\u201d modifying the South Dakota interim custody order within the meaning of 28 U.S.C.S. \u00a7 1738A(a), and therefore conclude that the PKPA does not apply to this child protection case. Accordingly, the court had subject matter jurisdiction pursuant to 22 M.R.S. \u00a7 4031(1)(A), (3). We note that both South Dakota and the United States, appearing as amici curiae, agree with our construction of the PKPA and our holding that the District Court had jurisdiction in this matter.\nB. Reunification Plan\n[\u00b6 24] The father contends that the Department\u2019s alleged lack of good faith in following the reunification plan, as required by statute, should have resulted in the District Court returning the children to South Dakota for monitoring in a placement with the father there. His contention is based largely on his assertion that a call made by the Department to its South Dakota counterpart improperly resulted in an unfavorable recommendation on a South Dakota home study.\n[\u00b6 25] South Dakota conducted two home studies on the father in response to Maine\u2019s requests pursuant to the Interstate Compact on the Placement of Children (ICPC). See 22 M.R.S. \u00a7 4255(1) (2009). The first, in July 2007, recommended against placement with the father. The second, in September 2008, initially recommended against placement; that decision was then changed in November 2008. A Department caseworker testified at the TPR hearing that a note in the Department\u2019s file indicated that her supervisor had called South Dakota to check on the second home study\u2019s progress, and an official there said that it had been denied. The caseworker said she did not think that anyone from Maine had asked that it be denied. It is the delay in approving the second home study that the father points to as evidence of the Department\u2019s lack of good faith.\n[\u00b6 26] There is no evidence in the record that the phone call highlighted by the father was in any way nefarious, however. The second home placement study, initially denied by South Dakota, bears the unremarkable notation \u201c[South Dakota Department of Social Services] has made the decision to not follow the recommendation of the ... home study writer.\u201d An explanatory memorandum outlines the South Dakota official\u2019s concerns with the father without making any mention of a phone call from Maine. A subsequent letter from the South Dakota Department of Social Services to a South Dakota attorney simply says that the home study had subsequently been approved and that Maine had been notified of that fact.\n[\u00b6 27] The father acknowledges that the Department had a reunification plan in place. That plan required substantial effort by the Department. The trial court found:\nSince this case began, [the father] has had supervised visits with his children in Maine. He has not shown any desire to move to Maine, as he is settled in South Dakota. As of the [TPR] hearing date, [the father] had 36 or more supervised visits in Maine, largely funded by [the Department]. The visits are up to four hours and usually over a mealtime. He has participated in family team meetings, [and] meetings with the caseworker....\n[\u00b6 28] Given those efforts, and the lack of any evidence of bad faith on the part of the Department, there is no support for the father\u2019s contention that a lack of compliance with the reunification plan requires us to vacate the judgment.\nC. Evidence of Parental Unfitness\n[\u00b6 29] The father finally challenges the sufficiency of the evidence supporting the District Court\u2019s finding that he is an unfit parent because he is unable to (1) protect the children from jeopardy within a time reasonably calculated to meet their needs, and (2) take responsibility for them within that time. See 22 M.R.S. \u00a7 4055(l)(B)(2)(b)(i), (ii). He does not challenge the court\u2019s other required finding that termination of his parental rights was in the children\u2019s best interest. See 22 M.R.S. \u00a7 4055(l)(B)(2)(a). We review the trial court\u2019s determination of parental unfitness to see if \u201ca review of the entire record demonstrates that the trial court rationally could have found clear and convincing evidence in that record to support the necessary factual findings as to the bases for termination.\u201d In re Marcus S., 2007 ME 24, \u00b6 6, 916 A.2d at 227 (quotation marks omitted).\n[\u00b6 30] The court made the following factual findings concerning the father\u2019s unfitness, which are supported by the record:\n1. He participated in domestic violence involving the mother in the presence of the older children, and \u201chas learned little ... regarding ... [the] effects of domestic violence.\u201d The children \u201chave been in counseling for many months, focusing on their turbulent past that they need to escape.\u201d\n2. He failed to protect the children from the mother\u2019s physical abuse.\n3. Although he participated in classes recommended by the Department and in meetings, he does not sufficiently understand the extent of the children\u2019s needs, the effect of past parental actions on the oldest children, or how to discipline and control them. He has learned little about proper parenting during two years of services.\n4. He discounts the fear expressed by the two oldest children over the possibility of living with him in the home where they were previously abused, or the possibility of living with him at all; his plan is to \u201cput all five children back in the same home where awful memories began and see what develops.\u201d There is nothing to prevent the father from associating with the mother, who subjected some of the children to \u201chorrible,\u201d \u201creprehensible,\u201d \u201cincredible\u201d abuse.\n5. During almost forty supervised visits, he had ongoing difficulty in supervising the children and in setting appropriate boundaries for them. Little emotion was displayed in their interactions. He \u201chas not, despite multiple visits, been able to develop a loving relationship with these children and has not made at least the older girls feel safe.\u201d\n6. His failure to protect the oldest four children from abuse \u201cplaces them at risk, as it is highly likely [he] does not understand his children\u2019s needs and has no plans to meet such needs.\u201d After two years, the oldest four \u201chave serious residual problems from their violent upbringing.\u201d\n7. He has no ml relationship with Thon, who was born after the mother moved to Maine.\n[\u00b6 31] At the time of the TPR hearing, the children had not lived with either parent for more than two years. See In re Thomas H., 2005 ME 123, \u00b633, 889 A.2d 297, 309 (stating, in discussing the importance of permanency for children, that \u201c[i]n the lives of pre-adolescent children ... more than two years[ ] is an eternity\u201d). They are in therapeutic foster care; the youngest three in an adoptive home. Summarizing the children\u2019s status, the court found that \u201c[t]hey are generally happy, safe, and on the \u2018right track\u2019 emotionally in their placements.\u201d The court found persuasive the findings and recommendations of the experienced guardian ad litem, who filed seven thorough reports with the court over a twenty-month time period as this case progressed. The guardian recommended termination of the father\u2019s parental rights, saying that it would be \u201cdevastating\u201d and \u201ctraumatic\u201d to the children to be returned to his custody. See In re Marcus S., 2007 ME 24, \u00b6 7, 916 A.2d at 227 (noting trial court\u2019s reliance on guardian\u2019s report in making termination findings).\n[\u00b6 32] On whole, the trial court\u2019s finding that the father is an unfit parent is fully supported by this record.\nThe entry is:\nJudgment affirmed.\n. The Parental Kidnaping Prevention Act clearly does not apply in the case of the youngest child, Thon, because he was bom in Maine after the South Dakota custody order at issue was entered, and the order does not name or purport to concern him. South Dakota, as amicus curiae, agrees that its order made no custody determination concerning \u25a0 Thon.\n. See, e.g., 28 U.S.C.S. \u00a7 1738A(c)(2)(C)(ii) (LexisNexis 2003).\n. If the termination of parental rights (TPR) order was not a \"custody determination,\u201d then it did not \"modify\u201d the South Dakota order within the meaning of the PKPA. 28 U.S.C.S. \u00a7 1738A(b)(5) (LexisNexis 2003) (defining \"modification\u201d as \"a custody ... determination which modifies, replaces, [or] supercedes ... a prior custody ... determination\").\n. Compare In re Pima County Juvenile Action No. J-78632, 147 Ariz. 527, 711 P.2d 1200, 1206 (App.1985) (holding that PKPA applied to dependency proceeding where State acted as parens patriae because \"there is nothing to indicate that [the PKPA] was intended to be limited solely to custody disputes between parents\" and the plain language of the PKPA encompasses a custody award in a dependency proceeding), rev'd on other grounds, 147 Ariz. 584, 712 P.2d 431 (1986), In re E.H., 612 N.E.2d 174, 183 (Ind.Ct.App.1993) (disagreeing, when applying the PKPA, with Child Protective Services' assertion that a court \"may automatically exercise jurisdiction to the exclusion of all other courts when it files a petition alleging a child to be in need of services\u201d), In re Vivian, 420 Mass. 879, 652 N.E.2d 616, 619 (1995) (\"[T]he PKPA preempts a care and protection proceeding in the [non-emergency] circumstances of this case.\u201d), and In re D.S.K., 792 P.2d 118, 130 (Utah Ct.App.1990) (\"[W]e determine that the PKPA is applicable to all interstate custody proceedings affecting a prior custody award by a different state, including neglect and dependency proceedings.\u201d), with L.G. v. People, 890 P.2d 647, 662-63 (Colo. 1995) (\"[T]he PKPA does not apply to dependency and neglect proceedings, and ... does not, therefore, preempt state law.\u201d), In re K.A.K., No. 6-262/06-0334, 2006 WL 2058322, at *1, 2006 Iowa App. LEXIS 775, at *4 (Iowa Ct.App.) (noting that \"the PKPA does not apply to dependency or neglect proceedings, such as [children in need of assistance] cases\u201d), reported at 723 N.W.2d 449 (Iowa Ct.App.2006), In re L.W., 241 Neb. 84, 486 N.W.2d 486, 500 (1992) (holding that \"the PKPA does not apply to dependency proceedings\u201d and that \"[t]he act, unlike (he [UCCJA], does not incorporate child neglect and dependency proceedings\u201d), State ex rel. Dep\u2019t of Human Servs. v. Avinger, 104 N.M. 255, 720 P.2d 290, 292 (1986) (\"[I]t was error for the Court of Appeals ... to hold that the PKPA preempts the [UCCJA] with respect to child neglect and dependency proceedings.\u201d), In re Sayeh R., 91 N.Y.2d 306, 670 N.Y.S.2d 377, 693 N.E.2d 724, 727 (1997) (holding that a \"child protective proceeding is not a 'custody determination\u2019 within the meaning of the PKPA\"), and Williams v. Knott, 690 S.W.2d 605, 609 (Tex. App.1985) (\"[W]e do not read [the PKPA\u2019s definition of \u2018custody determination\u2019] to subject suits ... where the proceeding is in the form of a suit to terminate parental rights to the full faith and credit provisions of the [PKPA].\u201d).\n. See 28 U.S.C.S. \u00a7 1738A(b)(3) (LexisNexis 2003); Unif. Child Custody Jurisdiction Act \u00a7 2(2), 9 U.L.A. pt. 1A, at 286 (1999); Unif. Child Custody Jurisdiction & Enforcement Act \u00a7 102(3), 9 U.L.A. pt. 1A, at 658 (codified at 19-A M.R.S. \u00a7 1732(3) (2009)).\n. Pursuant to federal law, \u201c[i]n determining the meaning of any Act of Congress, unless the context indicates otherwise ... the word[ ] \u2018person\u2019 ... include[s] corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals.\u201d 1 U.S.C.S. \u00a7 1 (LexisNexis 1993). Presumably Congress would have included state agencies in this extensive defin\u00edtion if it intended that they be considered a \"person\u201d for the purpose of federal statutes.\n. The father argues that child protection cases are different in Maine than in other states because the party bringing a child protection petition need not be a state agency, but may simply be \"[t]hree or more persons.\u201d 22 \u25a0 M.R.S. \u00a7 4032(1)(C) (2009). That fact does not change our analysis because, regardless of the party bringing the petition, the focus of the District Court in a child protection case is to determine whether a child requires protection in the first instance, not to determine who should have custody. The custody question is reached only if the court first finds that the child is in immediate risk of serious harm, or finds that the child's health or welfare is in jeopardy. 22 M.R.S. \u00a7\u00a7 4034(2), 4035(2) (2009); see also 22 M.R.S. \u00a7 4036 (2009). Even then, the court may award custody to the Department or to a person other than one of the persons bringing the petition. Regardless of how it begins, a child protection action is an exercise of the State's parens patriae authority, not a custody battle between \"contestants.\u201d See L.G., 890 P.2d at 655 (\"[Tjhe entire focus of the proceedings in a dependency and neglect action is to protect and shelter children who are susceptible to profound harm.... [T]he safety of the ... child, and not the custodial interest of the parent, is the paramount concern.\u201d).\n. Our holding does not ignore the PKPA's intent that states give full faith and credit to the custody orders of other states. See Thompson v. Thompson, 484 U.S. 174, 177, 108 S.Ct. 513, 98 L.Ed.2d 512 (1988) (stating that once a state exercises jurisdiction consistently with the PKPA, no other state may exercise concurrent jurisdiction over a custody dispute governed by the PKPA, and \u201call States must accord full faith and credit to the first State's ... custody decree\u201d). If this case were not brought as a child protection petition but rather as a custody dispute between the parents, the UCCJEA and PKPA would control, Hamilton v. Hamilton, 2009 ME 83, \u00b6 15, 976 A.2d 924, 927, resulting in recognition of the South Dakota order. Likewise, if the District Court had found no basis for entering a child protection order and dismissed the petition, we would recognize and enforce the South Dakota order. For the reasons we have discussed, a child protection case is not a custody dispute, and so is not governed by the UCCJEA and PKPA. See L.G., 890 P.2d at 655; In re Sayeh R., 670 N.Y.S.2d 377, 693 N.E.2d at 727.\n. The applicable statute requires that the Department develop a rehabilitation and reunification plan and then \"[m]ake good faith efforts to cooperate with the parent in the pursuit of the plan.\u201d 22 M.R.S. \u00a7 4041(1-A)(A)(1), (3) (2009).",
+        "type": "majority",
+        "author": "MEAD, J."
+      }
+    ],
+    "attorneys": [
+      "Robert C. Andrews, Esq. (orally), Portland, ME, for the father.",
+      "Janet T. Mills, Attorney General, Nora Sosnoff, Asst. Atty. Gen., Martha J. Halli-sey-Swift, Asst. Atty. Gen. (orally), Office of the Attorney General, Augusta, ME, for Maine Department of Health and Human Services.",
+      "Tony West, Asst. Atty. Gen., Paula D. Silsby, United States Atty., Michael Jay Singer, Esq., Howard S. Scher, Esq., Department of Justice, Civil Division, Washington, DC, for amicus curiae United States.",
+      "Marty J. Jackley, Attorney General, Jeremy D. Lund, Spec. Asst. Atty. Gen., Pierre, SD, for amicus curiae State of South Dakota.",
+      "Jennifer Carey, Esq., Portland, ME, Guardian ad litem."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 77\nIn re HIGERA N. et al.\nSupreme Judicial Court of Maine.\nArgued: June 16, 2010.\nDecided: Aug. 10, 2010.\nRobert C. Andrews, Esq. (orally), Portland, ME, for the father.\nJanet T. Mills, Attorney General, Nora Sosnoff, Asst. Atty. Gen., Martha J. Halli-sey-Swift, Asst. Atty. Gen. (orally), Office of the Attorney General, Augusta, ME, for Maine Department of Health and Human Services.\nTony West, Asst. Atty. Gen., Paula D. Silsby, United States Atty., Michael Jay Singer, Esq., Howard S. Scher, Esq., Department of Justice, Civil Division, Washington, DC, for amicus curiae United States.\nMarty J. Jackley, Attorney General, Jeremy D. Lund, Spec. Asst. Atty. Gen., Pierre, SD, for amicus curiae State of South Dakota.\nJennifer Carey, Esq., Portland, ME, Guardian ad litem.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0265-01",
+  "first_page_order": 295,
+  "last_page_order": 306
+}

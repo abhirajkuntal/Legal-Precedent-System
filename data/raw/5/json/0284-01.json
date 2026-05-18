@@ -1,0 +1,450 @@
+{
+  "id": 7285420,
+  "name": "In the Matter of J.C., a Minor. Appeal of P.B., Legal Guardian",
+  "name_abbreviation": "In re J.C.",
+  "decision_date": "2010-08-16",
+  "docket_number": "",
+  "first_page": "284",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "903 A.2d 1164",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8410953,
+        3787998
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/903/1164-01",
+        "/pa/588/0194-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 194",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3787998
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0194-01"
+      ]
+    },
+    {
+      "cite": "871 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        650304,
+        8979914,
+        650365,
+        8979949
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0370-01",
+        "/a2d/871/0792-01",
+        "/pa/582/0370-02",
+        "/a2d/871/0792-02"
+      ]
+    },
+    {
+      "cite": "582 Pa. 370",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        650304,
+        650365
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "373-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0370-01",
+        "/pa/582/0370-02"
+      ]
+    },
+    {
+      "cite": "923 A.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8308482
+      ],
+      "pin_cites": [
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/923/0517-01"
+      ]
+    },
+    {
+      "cite": "723 A.2d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "555 Pa. 708",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "693 A.2d 607",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11994795
+      ],
+      "pin_cites": [
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/693/0607-01"
+      ]
+    },
+    {
+      "cite": "792 A.2d 1254",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "568 Pa. 618",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "778 A.2d 670",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9496698
+      ],
+      "pin_cites": [
+        {
+          "page": "677"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/778/0670-01"
+      ]
+    },
+    {
+      "cite": "13 A.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1940,
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1201236
+      ],
+      "year": 1940,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/339/0157-01"
+      ]
+    },
+    {
+      "cite": "243 A.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "432 Pa. 307",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1919665
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/432/0307-01"
+      ]
+    },
+    {
+      "cite": "332 Pa.Super. 88",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        614764
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Callery v. Blythe Township Municipal Authority, 432 Pa. 307, 243 A.2d 385 (1968) and Naffah v. City Deposit Bank, 339 Pa. 157, 13 A.2d 63 (1940)"
+        },
+        {
+          "page": "1202",
+          "parenthetical": "citing Callery v. Blythe Township Municipal Authority, 432 Pa. 307, 243 A.2d 385 (1968) and Naffah v. City Deposit Bank, 339 Pa. 157, 13 A.2d 63 (1940)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/332/0088-01"
+      ]
+    },
+    {
+      "cite": "317 A.2d 258",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 Pa. 102",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        584437
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/456/0102-01"
+      ]
+    },
+    {
+      "cite": "904 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8468552
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "6-7"
+        },
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/904/0001-01"
+      ]
+    },
+    {
+      "cite": "868 A.2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9178021
+      ],
+      "pin_cites": [
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/868/0582-01"
+      ]
+    },
+    {
+      "cite": "837 A.2d 1247",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9305089
+      ],
+      "pin_cites": [
+        {
+          "page": "1251"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/837/1247-01"
+      ]
+    },
+    {
+      "cite": "954 A.2d 577",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "598 Pa. 750",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "882 A.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8917701
+      ],
+      "pin_cites": [
+        {
+          "page": "513"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/882/0507-01"
+      ]
+    },
+    {
+      "cite": "927 A.2d 268",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8397276
+      ],
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/927/0268-01"
+      ]
+    },
+    {
+      "cite": "801 A.2d 614",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9409887
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "617-18"
+        },
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/801/0614-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 915,
+    "char_count": 18850,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 1.535342395719366e-07,
+      "percentile": 0.6718717963865847
+    },
+    "sha256": "cb088dc241334a7fbc945e44a801ca3a6f2c4c9aedee1252fc286f2970ab72f3",
+    "simhash": "1:31aad88664882bd9",
+    "word_count": 3123
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: DONOHUE, SHOGAN and LAZARUS, JJ."
+    ],
+    "parties": [
+      "In the Matter of J.C., a Minor. Appeal of P.B., Legal Guardian."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nDONOHUE, J.:\nP.B., Maternal Grandmother (\u201cGrandmother\u201d), appeals from the trial court\u2019s order entered on August 13, 2009, denying Grandmother\u2019s motion to dismiss the Philadelphia Department of Human Services\u2019 (\u201cDHS\u2019s\u201d) dependency petition and adjudicating J.C., age 11 (\u201cChild\u201d), dependent. The order also committed Child to DHS, ordered that visits with C.B. (\u201cMother\u201d) and Grandmother be supervised, and ordered Mother to have a drug screen at the Clinical Evaluation Unit (\u201cCEU\u201d). We affirm.\nThe facts underlying this appeal are as follows. The matter originally came to the attention of DHS based upon a General Protective Services (\u201cGPS\u201d) report dated September 23, 2008. Earlier that day, D.H.S. attempted to visit the home, but Child\u2019s aunt informed them that Mother was not home and refused to allow DHS permission to enter the home. Motion to Compel Cooperation, 9/29/08, at 3. The next day DHS attempted another visit, but Mother refused to permit DHS to enter her home and refused to cooperate with the investigation. Id. DHS met with Child at school, and he appeared clean and healthy. Id.\nIn a Motion to Compel Cooperation filed by DHS on September 29, 2008, DHS alleged, inter alia, that the family home had missing and cardboard covered windows, that the kitchen ceiling was caving in, paint was chipping off the walls, and that water from the upstairs bathroom toilet leaked into the kitchen below. Id. DHS further alleged that during the previous school year, Child had often attended school unkempt and had worn dirty clothes. Id. According to DHS, Mother had a history of drug use and that two of Child\u2019s five siblings had already been committed to DHS. Id. at 3^4.\nOn August 4, 2009, two Philadelphia police officers pulled over a car near the corner of 67th Street and Woodland Avenue, Philadelphia, Pennsylvania. N.T., 8/13/09, at 14-15. At that time, the police officers noticed Child walking up to them dressed in nothing but boxer shorts underwear. Id. Child had his hands inside his crotch area. Id. After completing the car stop, the officers attempted to assist Child, being concerned since the neighborhood was \u201ccrime-infested\u201d and frequented by \u201cpeople who like to deal with little kids not at a good level.\u201d Id. at 21. The officers asked Child to identify his parents and where he lived, but discovered that as a result of his special needs (he has Down\u2019s Syndrome), Child could not effectively converse with them. Id. at 15.\nTo find Child\u2019s home, the officers drove Child up and down several blocks in the neighborhood, checking with neighbors regarding Child\u2019s residence. Id. When they identified Mother\u2019s home, the officers knocked unsuccessfully at the door for approximately fifteen minutes before Child\u2019s teenage sister finally answered the door and informed them that Mother was asleep upstairs. Id. at 16. Mother eventually came downstairs and spoke to the officers. Id. at 17. She was slurring her words and refused to give any information other than her first name. Id. When the officers informed Mother that Child was in the police car and was being taken to DHS, she did nothing and made no attempt to see Child. Id.\nBefore arriving at DHS, the officers first took Child to McDonald\u2019s to get him some food since he appeared hungry. Id. at 19. Shortly after the officers left Child at DHS, Mother and Grandmother arrived with dirty clothes for Child to wear. Id. DHS social worker, Suzanne Liss (\u201cLiss\u201d), spoke with both Mother and Grandmother. Id. at 4-5. Liss already knew the family since she had been providing in-home services for them since 2007. Id.\nIn her discussion with Liss, Mother stated that she had been asleep and did not know that Child had left the home. Liss noted her concern for Child\u2019s safety since this was not the first time that Child had wandered away from Mother\u2019s home, and because his special needs left him unable to carry on a normal conversation with anyone trying to help him. Id. at 7-8.\nDuring their discussions with Liss, Mother and Grandmother informed her that Grandmother was Child\u2019s legal guardian, and showed her a copy of a custody agreement from 2001 obtained from the Domestic Relations Branch of the Family Court. Id. at 5-6; Dependency Petition, 8/7/09, at 8. Liss noted that although she had instituted in-home services in Mother\u2019s home for two years, she had never previously been informed of the agreement. Id. at 8.\nOn August 4, 2009, the trial court granted DHS\u2019s Application for an Order of Protective Custody and placed Child in kinship foster care with a maternal great aunt. Id. at 4. At an evidentiary hearing on August 18, 2009, Grandmother presented an oral motion to dismiss DHS\u2019s dependency petition. Following the hearing, the trial court denied Grandmother\u2019s motion, adjudicated Child dependent, and ordered him committed to the care of DHS. Id. at 21-22.\nOn August 14, 2009, Grandmother filed a timely notice of appeal in which she raises the following three issues for our review:\n1. Did the trial court err by denying the Legal Guardian\u2019s Motion to Dismiss the Petition?\n2. Did the trial court err in finding that the Department of Human Services had proven that the child was dependent by clear and convincing evidence?\n3. Did the trial court err in finding that it was clearly necessary to commit the child to the Department of Human Services?\nGrandmother\u2019s brief at 4.\nWe will address Grandmother\u2019s first two issues together, as they essentially raise the same issue, namely whether the trial court erred in adjudicating Child a dependent child. Our review of this issue is governed by the following standard.\nThe standard of review which this Court employs in cases of dependency is broad. However, the scope of review is limited in a fundamental manner by our inability to nullify the fact-finding of the lower court. We accord great weight to this function of the hearing judge because he is in the position to observe and rule upon the credibility of the witnesses and the parties who appear before him. Relying upon his unique posture, we will not overrule his findings if they are supported by competent evidence.\nIn re D.A., 801 A.2d 614, 617-18 (Pa.Super.2002) (en banc). Furthermore, \u201c[i]t is this Court\u2019s responsibility to ensure that the record represents a comprehensive inquiry and that the hearing judge has applied the appropriate legal principles to that record.\u201d In re F.B., 927 A.2d 268, 272 (Pa.Super.2007) (quoting In the Interest of C.M., 882 A.2d 507, 513 (Pa.Super.2005)), appeal denied, 598 Pa. 750, 954 A.2d 577 (2008).\nPursuant to the Juvenile Act, 42 Pa.C.S.A. \u00a7 6301 et seq., a \u201cdependent child\u201d is defined in relevant part as one who is\nwithout proper parental care or control, subsistence, education as required by law, or other care or control necessary for his physical, mental, or emotional health, or morals. A determination that there is a lack of proper parental care or control may be based upon evidence of conduct by the parent, guardian or other custodian that places the health, safety or welfare of the child at risk, including evidence of the parent\u2019s, guardian\u2019s or other custodian\u2019s use of alcohol or a controlled substance that places the health, safety or welfare of the child at risk[.]\n42 Pa.C.S.A. \u00a7 6302. Dependency must be proven by clear and convincing evidence, which is defined as evidence \u201cthat is so \u2018clear, direct, weighty and convincing as to enable the trier of fact to come to a clear conviction, without hesitance, of the truth of the precise facts in issue.\u2019 \u201d D.A., 801 A.2d at 617; In re J.L.C., 837 A.2d 1247, 1251 (Pa.Super.2003).\nGrandmother asserts that all of the evidence presented by DHS in this case, including the substance abuse and lack of proper parental care, went exclusively to Mother\u2019s failures with respect to Child. Grandmother argues that there is no evidence that she, as Child\u2019s legal guardian, has used alcohol or controlled substances, has abandoned Child, or has failed to provide proper parental care. Grandmother\u2019s Brief at 20. As a result, Grandmother argues that the trial court erred in failing to conduct an independent determination regarding whether Child is dependent \u201cas to\u201d her.\nGrandmother\u2019s argument fails for at least two reasons. First, there is no evidence in the record on appeal that Grandmother is in fact Child\u2019s legal guardian. In its written opinion, the trial court indicates that at the evidentiary hearing it was shown a copy of what appeared to be a copy of a joint custody agreement between Mother and Grandmother. Trial Court Opinion, 1/21/10, at 9. As the trial court indicates and our review of the record has confirmed, however, no such document was admitted into evidence. It is well established that this Court \u201cmay not consider anything that is not part of the certified record\u201d and that \u201c[a]ny document which is not part of the official certified record is considered to be non-existent.\u201d Commonwealth v. Kennedy, 868 A.2d 582, 593 (Pa.Super.2005); see also Commonwealth v. Preston, 904 A.2d 1, 6-7 (Pa.Super.2006) (\u201cSimply put, if a document is not in the certified record, the Superior Court may not consider it.\u201d); Pa.R.A.P. 1921 note (\u201cAn appellate court may consider only the facts which have been duly certified in the record on appeal.\u201d)(citing Commonwealth v. Young, 456 Pa. 102, 115, 317 A.2d 258, 264 (1974)). As we have emphasized, \u201c[t]his requirement is not a mere \u2018technicality\u2019,\u201d Preston, 904 A.2d at 7, as it precludes meaningful appellate review of the issues before us.\nOn appeal, Grandmother now asks this Court to take judicial notice of the existence of the custody order. Grandmother\u2019s Brief at 13. We may not do so, as this Court will not take judicial notice \u201cof records in another case, even when the case arose in the same court and the contents of the records are known to the court.\u201d In re Estate of Brockerman, 332 Pa.Super. 88, 480 A.2d 1199, 1202 (1984) (citing Callery v. Blythe Township Municipal Authority, 432 Pa. 307, 243 A.2d 385 (1968) and Naffah v. City Deposit Bank, 339 Pa. 157, 13 A.2d 63 (1940)). Moreover, this Court \u201cwill not take judicial notice of evidence of which the trial court was not requested to take judicial notice.\u201d Id. As Grandmother\u2019s alleged custody order is contained in the records of a separate proceeding, and because Grandmother did not request that the trial court take judicial notice of it, we will not do so here.\nSecond, the dependency of a child is not determined \u201cas to\u201d a particular person, but rather must be based upon two findings by the trial court: whether the child is currently lacking proper care and control, and whether such care and control is immediately available. In re R.T., 778 A.2d 670, 677 (Pa.Super.), appeal denied, 568 Pa. 618, 792 A.2d 1254 (2001); Matter of Read, 693 A.2d 607, 609 (Pa.Super.1997), appeal denied, 555 Pa. 708, 723 A.2d 1025 (1998). Based upon the evidence presented, the trial court reached both of these factual findings.\nFirst, the trial court found that Child was currently without care and control. The record supports this determination. Two Philadelphia police officers testified at the dependency hearing that Child, who suffered from Down\u2019s Syndrome, was found during the early morning hours of August 4, 2009, dressed in a pair of underwear, without additional clothing or shoes, wandering on a highway in an area known for its high level of criminal activity including shootings, stabbings, and other violent crimes. N.T., 8/13/09, at 14. The officers further testified that Child, who is nonverbal, and unable to carry on a conversation, was unable to tell them where he lived. Id. at 15. The officers testified that Child was identified at the home by his sister. Id. at 16. They also noted that there were other people in the home, and that it appeared that a party or get together had taken place at the house. Id. at 16, 18.\nWhen Mother finally appeared at the front door, she was uncooperative with the police officers and refused to answer basic questions. Id. at 16-17. Liss testified that DHS had previously received similar reports about Child wandering outside the home. Id. at 7-8. Liss further testified that, as a result of Child\u2019s special needs, DHS considered Child to be a high-risk child. It was Liss\u2019 opinion that Mother and Grandmother had failed to provide adequate parental care. Id. at 12.\nSecond, the trial court also found that proper parental care and control were not immediately available to Child since Mother and Grandmother were not capable of providing it. Trial Court Opinion, 1/21/10, at 18. The trial court determined that Grandmother fully cooperated with Mother despite Mother\u2019s inability to care for Child, and that Grandmother did not herself provide care for Child. Id. In particular, the trial court expressed its concern that if Child was placed in Grandmother\u2019s custody, Grandmother would allow Child to once again reside with Mother. Id. As the trial court\u2019s findings are supported by the record on appeal, we find no error in its determination that Child is dependent.\nWith regard to Grandmother\u2019s third issue on appeal, Grandmother argues that the trial court abused its discretion by committing Child to the custody of DHS rather than allowing Child to remain with Grandmother. The disposition of a child adjudged to be dependent is governed by section 6351 of the Juvenile Act, which provides in relevant part as follows:\n(a) General rule. \u2014 If the child is found to be a dependent child the court may make any of the following orders of disposition best suited to the safety, protection and physical, mental, and moral welfare of the child:\n(1) Permit the child to remain with his parents, guardian, or other custodian, subject to conditions and limitations as the court prescribes, including supervision as directed by the court for the protection of the child.\n(2) Subject to conditions and limitations as the court prescribes transfer temporary legal custody to any of the following:\n(i)Any individual resident within or without this Commonwealth, including any relative, who, after study by the probation officer or other person or agency designated by the court, is found by the court to be qualified to receive and care for the child.\n(ii) An agency or other private organization licensed or otherwise authorized by law to receive and provide care for the child.\n(iii) A public agency authorized by law to receive and provide care for the child.\n(2.1) Subject to conditions and limitations as the court prescribes, transfer permanent legal custody to an individual resident in or outside this Commonwealth, including any relative, who, after study by the probation officer or other person or agency designated by the court, is found by the court to be qualified to receive and care for the child. A court order under this paragraph may set forth the temporary visitation rights of the parents. The court shall refer issues related to support and continuing visitation by the parent to the section of the court of common pleas that regularly determines support and visitation.\n42 Pa.C.S.A. \u00a7 6351(a).\nAs indicated above, there is no evidence of record that Grandmother is Child\u2019s legal guardian, and thus placement with Grandmother is not authorized under section 6351(a)(1). As a relative, Grandmother could qualify for custody of child under section 6351(a)(2)(i), but based upon the evidence presented at the evidentiary hearing, the trial court found that Grandmother was not qualified to receive and care for Child. In particular, the trial court found that Grandmother used the purported custody order to create the illusion of shared custody while actually abdicating control of Child to Mother. Trial Court Opinion, 1/21/10, at 18. Moreover, and more importantly, the trial court found that Grandmother would likely abdicate control of Child to Mother again if given the opportunity to do so. Id.\nThese findings are supported by substantial evidence of record. Although Grandmother contends that Child merely visited with Mother on occasion, the trial court found credible the testimony of Liss, who indicated that Child had received assistance under the Services to Children in their Own Home (SCOH) program in Mother\u2019s home, that she knew Child to be living with Mother, and that even though she had been working with Child since February 2007, the purported joint custody order was not brought to her attention until Child was temporarily committed to DHS in 2009. Id. at 17-18. Furthermore, school records and direct mailings addressed to Child were sent to the address of Mother\u2019s home, not Grandmother\u2019s. Id. at 17. As a result, the entirety of the evidence demonstrates that Child was not a visitor at Mother\u2019s house, but rather lived there substantially all of the time. Despite her alleged custody of Child, Grandmother did not maintain custody of Child but rather abdicated her responsibilities entirely to Mother. As a result, we conclude that the trial court did not abuse its discretion by placing Child with DHS rather than with Grandmother.\nAccordingly, the dependency order is reasonable in light of the evidence of record.\nOrder affirmed.\n. The whereabouts of Child's biological father, M.C. (\"Father\u201d), are unknown to DHS. Father is not involved in Child\u2019s care.\n. In the absence of any evidence of record that Grandmother is the legal guardian of Child, arguably she was not a proper party to the proceedings in the trial court. In the Interest of B.S., 923 A.2d 517, 521 (Pa.Super.2007). Ordinarily, only parties to an action have standing to appeal, Pa.R.A.P. 501, and appeals by non-parties will be quashed. In re Barnes Foundation, 582 Pa. 370, 373-74, 871 A.2d 792, 794 (2005).\nStanding to appeal is a waivable issue, however, because it is not jurisdictional. This Court may not raise standing to appeal sua sponte. In re Nomination Petition of deYoung, 588 Pa. 194, 201, 903 A.2d 1164, 1168 (2006). Accordingly, because DHS has not raised the issue of Grandmother\u2019s lack of standing to appeal or otherwise moved this Court to quash Grandmother\u2019s appeal on this basis, it has been waived.\n. In her Rule 1925(b) statement, Grandmother also argues that the trial court abused its discretion by restricting her to supervised visitation. Because Grandmother did not raise this argument with the trial court, however, it is waived for purposes of appeal. Pa.R.A.P. 302(a).",
+        "type": "majority",
+        "author": "DONOHUE, J.:"
+      }
+    ],
+    "attorneys": [
+      "Edward M. Flannery, Philadelphia, for appellant.",
+      "Michael E. Angelotti, Philadelphia, for Dept, of Human Services, appellee.",
+      "Neil M. Krum, Philadelphia, for J.C., appellee.",
+      "James W. Martin, Philadelphia, for mother of child, Participating Party."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of J.C., a Minor. Appeal of P.B., Legal Guardian.\nSuperior Court of Pennsylvania.\nSubmitted April 12, 2010.\nFiled Aug. 16, 2010.\nEdward M. Flannery, Philadelphia, for appellant.\nMichael E. Angelotti, Philadelphia, for Dept, of Human Services, appellee.\nNeil M. Krum, Philadelphia, for J.C., appellee.\nJames W. Martin, Philadelphia, for mother of child, Participating Party.\nBEFORE: DONOHUE, SHOGAN and LAZARUS, JJ."
+  },
+  "file_name": "0284-01",
+  "first_page_order": 314,
+  "last_page_order": 321
+}

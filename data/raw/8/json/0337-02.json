@@ -1,0 +1,222 @@
+{
+  "id": 7284770,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. James Dennis GRIMES, Appellee",
+  "name_abbreviation": "Commonwealth v. Grimes",
+  "decision_date": "2010-11-23",
+  "docket_number": "",
+  "first_page": "337",
+  "last_page": "339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "672 A.2d 769",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461476,
+        461606,
+        7359343,
+        461590,
+        7359095,
+        7359165
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/543/0449-01",
+        "/pa/543/0447-01",
+        "/a2d/672/0769-03",
+        "/pa/543/0448-01",
+        "/a2d/672/0769-01",
+        "/a2d/672/0769-02"
+      ]
+    },
+    {
+      "cite": "543 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461476
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/543/0449-01"
+      ]
+    },
+    {
+      "cite": "534 U.S. 266",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9108176
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "273-74"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/534/0266-01"
+      ]
+    },
+    {
+      "cite": "735 A.2d 673",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11536992,
+        838534
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "674-75",
+          "parenthetical": "affirming denial of a motion to suppress contraband discarded by defendant as he fled from the police"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/735/0673-01",
+        "/pa/558/0050-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 50",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838534
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "affirming denial of a motion to suppress contraband discarded by defendant as he fled from the police"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/558/0050-01"
+      ]
+    },
+    {
+      "cite": "781 A.2d 1161",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706229,
+        9480622
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1164"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/566/0445-01",
+        "/a2d/781/1161-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 445",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706229
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/566/0445-01"
+      ]
+    },
+    {
+      "cite": "528 U.S. 119",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9476180
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "124-25"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/528/0119-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 429,
+    "char_count": 7036,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18826696073786542
+    },
+    "sha256": "e096c4de86f4ee1a67750caff888fe05d079b23db1ecf9c50e3afa2942c18762",
+    "simhash": "1:42a2f1707966bb4e",
+    "word_count": 1100
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice ORIE MELVIN did not participate in the consideration or decision of this case.",
+      "Justice McCAFFERY files a dissenting statement."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. James Dennis GRIMES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 23rd day of November, 2010, the appeal is dismissed as having been improvidently granted.\nJustice ORIE MELVIN did not participate in the consideration or decision of this case.\nJustice McCAFFERY files a dissenting statement.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      },
+      {
+        "text": "Justice McCAFFERY,\ndissenting.\nI respectfully dissent from the decision to dismiss this appeal as having been improvidently granted because I believe this case affords the Court an opportunity to clearly state, and apply, the law regarding fleeing suspects in high-crime areas and regarding fleeing suspects who exactly match the description of an individual reportedly engaged in illegal activity. I believe the Court has an obligation to grapple with these significant recurrent issues and to provide guidance to the bench and bar.\nAs established by the evidence introduced by the Commonwealth at the suppression hearing, Appellee was observed at a specific location in a high-crime drug trafficking area at a time when he was under surveillance by an Allegheny County detective. The detective had received a phone call approximately one hour earlier from a confidential informant, who said that an individual exactly matching Appel-lee\u2019s appearance was offering crack cocaine for sale at that specific location. Ap-pellee did not engage in any suspicious behavior during the ten-minute period during which this detective, alone, observed him. However, when another officer arrived shortly thereafter in a marked patrol car and pulled next to where Appellee was standing, Appellee removed his jacket, threw it and his cell phone onto the street, and fled in the opposite direction. The officer and the detective gave chase, overtaking Appellee by using a Taser. The police recovered Appellee\u2019s jacket from the street, searched it, and seized cocaine and an open pack of latex gloves from the right pocket. After a hearing on Appellee\u2019s subsequent motion to suppress, the trial court denied the motion. Appellee was convicted of possession of controlled substance, possession with intent to deliver, and possession of drug paraphernalia. On appeal to the Superior Court, Appellee\u2019s judgment of sentence was reversed on the basis that Appellee had been arrested without probable cause.\nIn Illinois v. Wardlow, 528 U.S. 119, 124-25, 120 S.Ct. 673, 145 L.Ed.2d 570 (2000), the United States Supreme Court held that, as a matter of federal constitutional law, a police officer is justified in reasonably suspecting that an individual is involved in criminal activity when that individual is present in a high-crime area and engages in unprovoked, headlong flight after noticing the police. Specifically, the High Court held that the existence, in combination, of two specific factors supported reasonable suspicion, to wit, 1) presence in a high-crime area; and 2) unprovoked flight. This Court subsequently recognized the significance of the Wardlow holding, and stated \u201cit is evident that unprovoked flight in a high crime area is sufficient to create a reasonable suspicion to justify a Terry stop under the Fourth Amendment.\u201d In re D.M., 566 Pa. 445, 781 A.2d 1161, 1164 (2001). Further, in In re D.M., this Court held, as a matter of both federal and state constitutional law, that where a person, who exactly matches an anonymous caller\u2019s physical description of a man wielding a gun at a specified location, flees upon observing the arrival of a police officer, there is sufficient reasonable suspicion to justify a Terry stop. Id. Specifically, this Court held that the existence, in combination, of two specific factors supported reasonable suspicion, to wit, 1) an exact match in the physical description of an individual reportedly engaged in illegal activity; and 2) unprovoked flight.\nUnder Wardlow, then, once the existence of unprovoked flight in a high-crime area is established, that is the end of the inquiry. Similarly, under In re D.M., once the existence of unprovoked flight by a person who exactly matches the physical description of an individual reportedly engaged in illegal activity is established, that also is the end of the inquiry. The Commonwealth has thereby, and without more, fulfilled its obligation to demonstrate that the pursuing police officer had reasonable suspicion that the fleeing suspect was engaged in criminal activity.\nThus, Wardlow and In re D.M. identify two separate instances where the existence of two circumstances, if proven in combination, are of themselves sufficient to establish reasonable suspicion. In essence, two exceptions to the totality of the circumstances analysis have been created by the United States Supreme Court and this Court. Yet, Pennsylvania courts, at every level, routinely fail to appreciate what Wardlow and In re D.M. hold is the dis-positive effect of unprovoked flight by a person in a high-crime area or by a person who exactly matches the physical description of an individual reportedly engaged in illegal activity, in the determination of the existence of reasonable suspicion to conduct an investigative detention. I believe it is incumbent upon this Court to supply the guidance necessary so that suppression motion rulings regarding the existence of reasonable suspicion are rendered under the appropriate legal standard. Accordingly, I would not dismiss this appeal. Rather, I would apply the holdings of Wardlow and In re D.M., and accordingly would reverse the order of the Superior Court, and reinstate the judgment of sentence.\n. If the police possess reasonable suspicion at the time they observe property being discarded by a suspect during the suspect's flight from them, then the police may properly recover that property. See Commonwealth v. Cook, 558 Pa. 50, 735 A.2d 673, 674-75 (1999) (affirming denial of a motion to suppress contraband discarded by defendant as he fled from the police). Here, the Superior Court engaged in a misguided analysis of whether the police had probable cause to arrest Appellee after his flight and after recovery of the jacket.\n. The Supreme Court re-asserted the general applicability of the totality of the circumstances test in United States v. Arvizu, 534 U.S. 266, 273-74, 122 S.Ct. 744, 151 L.Ed.2d 740 (2002).\n. Notably, the question of whether reasonable suspicion to stop a fleeing suspect existed was not before the Court in Commonwealth v. Matos, 543 Pa. 449, 672 A.2d 769 (1996), wherein the sole issue was whether contraband discarded by a person fleeing a police officer was the fruit of an illegal seizure where the officer concededly possessed neither probable cause to arrest the individual nor reasonable suspicion to stop him for a Terry frisk. See In re D.M., supra at 1164, n. 1.",
+        "type": "dissent",
+        "author": "Justice McCAFFERY,"
+      }
+    ],
+    "attorneys": [
+      "Amy Elizabeth Constantine, Allegheny County District Attorney\u2019s Office, for Commonwealth of Pennsylvania.",
+      "Scott Bruce Rudolf, Allegheny County Public Defender\u2019s Office, for James Dennis Grimes."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant v. James Dennis GRIMES, Appellee.\nSupreme Court of Pennsylvania.\nArgued April 13, 2010.\nDecided Nov. 23, 2010.\nAmy Elizabeth Constantine, Allegheny County District Attorney\u2019s Office, for Commonwealth of Pennsylvania.\nScott Bruce Rudolf, Allegheny County Public Defender\u2019s Office, for James Dennis Grimes."
+  },
+  "file_name": "0337-02",
+  "first_page_order": 371,
+  "last_page_order": 373
+}

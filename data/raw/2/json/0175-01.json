@@ -1,0 +1,1546 @@
+{
+  "id": 7285473,
+  "name": "DISTRICT OF COLUMBIA and the American University in Dubai, Appellants, v. The AMERICAN UNIVERSITY, Appellee",
+  "name_abbreviation": "District of Columbia v. American University",
+  "decision_date": "2010-08-12",
+  "docket_number": "Nos. 08-CV-1625, 08-CV-1626",
+  "first_page": "175",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "234 U.S. 579",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        675102
+      ],
+      "weight": 3,
+      "year": 1914,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/234/0579-01"
+      ]
+    },
+    {
+      "cite": "594 A.2d 70",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366943
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/594/0070-01"
+      ]
+    },
+    {
+      "cite": "693 A.2d 1084",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12004924
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1087"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/693/1084-01"
+      ]
+    },
+    {
+      "cite": "253 U.S. 113",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        189383
+      ],
+      "weight": 3,
+      "year": 1920,
+      "pin_cites": [
+        {
+          "page": "116",
+          "parenthetical": "\"The subsequent legislation .... renders the case moot.\""
+        },
+        {
+          "parenthetical": "\"The subsequent legislation .... renders the case moot.\""
+        },
+        {
+          "parenthetical": "\"The subsequent legislation .... renders the case moot.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/253/0113-01"
+      ]
+    },
+    {
+      "cite": "841 A.2d 328",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9282332
+      ],
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/841/0328-01"
+      ]
+    },
+    {
+      "cite": "389 Md. 27",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        560154
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "considerable deference \"is ordinarily only shown to an agency's longstanding interpretation\" of the statute it is charged with administering"
+        },
+        {
+          "page": "867",
+          "parenthetical": "considerable deference \"is ordinarily only shown to an agency's longstanding interpretation\" of the statute it is charged with administering"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/389/0027-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 1125",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "930 A.2d 200",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0200-01"
+      ]
+    },
+    {
+      "cite": "535 U.S. 274",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        354232
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0274-01"
+      ]
+    },
+    {
+      "cite": "45 Stat. 1505",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 S.Ct. 238",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1918,
+      "opinion_index": 0
+    },
+    {
+      "cite": "246 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8285106
+      ],
+      "weight": 3,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/246/0079-01"
+      ]
+    },
+    {
+      "cite": "326 U.S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 3,
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "50 U.S.C. \u00a7 403",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Stat. 498",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "486 U.S. 592",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221672
+      ],
+      "weight": 8,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "594, 600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0592-01"
+      ]
+    },
+    {
+      "cite": "387 U.S. 136",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11335008
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/387/0136-01"
+      ]
+    },
+    {
+      "cite": "455 A.2d 910",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7995076
+      ],
+      "pin_cites": [
+        {
+          "page": "912"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/455/0910-01"
+      ]
+    },
+    {
+      "cite": "612 A.2d 186",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7937724
+      ],
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/612/0186-01"
+      ]
+    },
+    {
+      "cite": "945 A.2d 1193",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8387532
+      ],
+      "pin_cites": [
+        {
+          "page": "1198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/945/1193-01"
+      ]
+    },
+    {
+      "cite": "764 A.2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11167563
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/764/0798-01"
+      ]
+    },
+    {
+      "cite": "313 A.2d 587",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8032673
+      ],
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/313/0587-01"
+      ]
+    },
+    {
+      "cite": "92 F.2d 478",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1014334
+      ],
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/92/0478-01"
+      ]
+    },
+    {
+      "cite": "129 S.Ct. 1800",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3653713
+      ],
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1811",
+          "parenthetical": "\"a reasoned explanation is needed for disregarding facts and circumstances that underlay or were engendered by the prior policy\"; \"to ignore such matters\" in adopting a new policy \"would be arbitrary or capricious\""
+        },
+        {
+          "parenthetical": "\"a reasoned explanation is needed for disregarding facts and circumstances that underlay or were engendered by the prior policy\"; \"to ignore such matters\" in adopting a new policy \"would be arbitrary or capricious\""
+        },
+        {
+          "page": "1811"
+        },
+        {
+          "page": "1830-31",
+          "parenthetical": "Breyer, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0502-01"
+      ]
+    },
+    {
+      "cite": "470 A.2d 751",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7991970
+      ],
+      "pin_cites": [
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/470/0751-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 462",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12048240
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0462-01"
+      ]
+    },
+    {
+      "cite": "845 A.2d 525",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9271894
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "534"
+        },
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/845/0525-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8466237
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "152"
+        },
+        {
+          "page": "152",
+          "parenthetical": "\"Laws enacted with good intention, when put to the test, frequently, and to the surprise of the lawmaker himself, turn out to be mischievous, absurd or otherwise objectionable. But in such case the remedy lies with the law making authority, and not with the courts.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/905/0147-01"
+      ]
+    },
+    {
+      "cite": "973 A.2d 692",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7298093
+      ],
+      "pin_cites": [
+        {
+          "page": "697"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/973/0692-01"
+      ]
+    },
+    {
+      "cite": "364 A.2d 803",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8018388
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/364/0803-01"
+      ]
+    },
+    {
+      "cite": "993 A.2d 595",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289536
+      ],
+      "pin_cites": [
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/993/0595-01"
+      ]
+    },
+    {
+      "cite": "379 F.2d 818",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2069537
+      ],
+      "pin_cites": [
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/379/0818-01"
+      ]
+    },
+    {
+      "cite": "431 A.2d 11",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7950976
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "trial court may deny motion to intervene under Rule 24(a)(2) \"when an existing party seeks the same ultimate objective as the [absent party]\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/431/0011-01"
+      ]
+    },
+    {
+      "cite": "87 F.3d 1838",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "pin_cites": [
+        {
+          "page": "1351"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 S.Ct. 2783",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3677081
+      ],
+      "weight": 2,
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    },
+    {
+      "cite": "589 A.2d 17",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11289379
+      ],
+      "pin_cites": [
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/589/0017-01"
+      ]
+    },
+    {
+      "cite": "661 A.2d 652",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874978
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "653"
+        },
+        {
+          "page": "656",
+          "parenthetical": "\"while an agency may change over time the interpretation it gives to a controlling statutory term, an agency changing its course is obligated to supply a reasoned analysis for the change\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/661/0652-01"
+      ]
+    },
+    {
+      "cite": "455 A.2d 417",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7978968
+      ],
+      "pin_cites": [
+        {
+          "page": "419, 422-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/455/0417-01"
+      ]
+    },
+    {
+      "cite": "675 A.2d 484",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862483
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/675/0484-01"
+      ]
+    },
+    {
+      "cite": "743 A.2d 1231",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11495514
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/743/1231-01"
+      ]
+    },
+    {
+      "cite": "410 U.S. 614",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11957849
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "619"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/410/0614-01"
+      ]
+    },
+    {
+      "cite": "778 A.2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9495460
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "309"
+        },
+        {
+          "page": "308",
+          "parenthetical": "\"if the Mayor does choose to take action, his decision may be contested one way or another\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/778/0296-01"
+      ]
+    },
+    {
+      "cite": "956 A.2d 684",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8208746
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "690"
+        },
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/0684-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 821",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300314
+      ],
+      "weight": 11,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "881"
+        },
+        {
+          "page": "831"
+        },
+        {
+          "page": "830"
+        },
+        {
+          "page": "826"
+        },
+        {
+          "page": "830"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0821-01"
+      ]
+    },
+    {
+      "cite": "817 F.2d 149",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1670955
+      ],
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/817/0149-01"
+      ]
+    },
+    {
+      "cite": "478 U.S. 221",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205024
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/0221-01"
+      ]
+    },
+    {
+      "cite": "670 A.2d 354",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7861144
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "359"
+        },
+        {
+          "page": "359"
+        },
+        {
+          "page": "356, 357-61"
+        },
+        {
+          "page": "860"
+        },
+        {
+          "page": "360"
+        },
+        {
+          "page": "357"
+        },
+        {
+          "page": "358",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/670/0354-01"
+      ]
+    },
+    {
+      "cite": "115 S.Ct. 386",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1332416,
+        6117237
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that if a judgment has become moot while awaiting review, an appellate court may not consider its merits, but should reverse or vacate the judgment below and remand with a direction to dismiss."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0018-01",
+        "/br/173/0386-01"
+      ]
+    },
+    {
+      "cite": "513 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1332416
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "21",
+          "parenthetical": "explaining that if a judgment has become moot while awaiting review, an appellate court may not consider its merits, but should reverse or vacate the judgment below and remand with a direction to dismiss."
+        },
+        {
+          "parenthetical": "explaining that if a judgment has become moot while awaiting review, an appellate court may not consider its merits, but should reverse or vacate the judgment below and remand with a direction to dismiss."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0018-01"
+      ]
+    },
+    {
+      "cite": "912 A.2d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8446780
+      ],
+      "pin_cites": [
+        {
+          "page": "1195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/912/1192-01"
+      ]
+    },
+    {
+      "cite": "898 A.2d 902",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8419493
+      ],
+      "pin_cites": [
+        {
+          "page": "905"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/898/0902-01"
+      ]
+    },
+    {
+      "cite": "483 A.2d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7936033
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1190-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/483/1172-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 440",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215707
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "454",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/491/0440-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 150",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12050959
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/397/0150-01"
+      ]
+    },
+    {
+      "cite": "479 U.S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217100
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "396-97",
+          "parenthetical": "noting that, in Ass'n of Data Processing Serv. Orgs. v. Camp, 397 U.S. 150, 90 S.Ct. 827, 25 L.Ed.2d 184 (1970"
+        },
+        {
+          "parenthetical": "noting that, in Ass'n of Data Processing Serv. Orgs. v. Camp, 397 U.S. 150, 90 S.Ct. 827, 25 L.Ed.2d 184 (1970"
+        },
+        {
+          "parenthetical": "noting that, in Ass'n of Data Processing Serv. Orgs. v. Camp, 397 U.S. 150, 90 S.Ct. 827, 25 L.Ed.2d 184 (1970"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/479/0388-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 37",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11304612
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "42",
+          "parenthetical": "looking to the ordinary meaning of a statutory term \"at the time Congress enacted the statute\""
+        },
+        {
+          "parenthetical": "looking to the ordinary meaning of a statutory term \"at the time Congress enacted the statute\""
+        },
+        {
+          "parenthetical": "looking to the ordinary meaning of a statutory term \"at the time Congress enacted the statute\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/444/0037-01"
+      ]
+    },
+    {
+      "cite": "21 App.D.C. 49",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1346166
+      ],
+      "year": 1903,
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/app-dc/21/0049-01"
+      ]
+    },
+    {
+      "cite": "40 App.D.C. 1",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1773783
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/app-dc/40/0001-01"
+      ]
+    },
+    {
+      "cite": "217 U.S. 91",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        407847
+      ],
+      "weight": 3,
+      "year": 1910,
+      "pin_cites": [
+        {
+          "page": "100, 105"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/217/0091-01"
+      ]
+    },
+    {
+      "cite": "452 U.S. 161",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313717
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "Rehnquist, X, dissenting"
+        },
+        {
+          "parenthetical": "Rehnquist, X, dissenting"
+        },
+        {
+          "parenthetical": "Rehnquist, X, dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/452/0161-01"
+      ]
+    },
+    {
+      "cite": "837 F.Supp. 1259",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        11296611
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1302"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/837/1259-01"
+      ]
+    },
+    {
+      "cite": "308 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138661
+      ],
+      "weight": 3,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "198",
+          "parenthetical": "\"When there are two acts upon the same subject, the rule is to give effect to both if possible\""
+        },
+        {
+          "parenthetical": "\"When there are two acts upon the same subject, the rule is to give effect to both if possible\""
+        },
+        {
+          "parenthetical": "\"When there are two acts upon the same subject, the rule is to give effect to both if possible\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/308/0188-01"
+      ]
+    },
+    {
+      "cite": "44 U.S. 556",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3317202
+      ],
+      "weight": 3,
+      "year": 1845,
+      "pin_cites": [
+        {
+          "page": "564-65",
+          "parenthetical": "\"The correct rule of interpretation is, that if divers statutes relate to the same thing, they ought all to be taken into consideration in construing any one of them\""
+        },
+        {
+          "parenthetical": "\"The correct rule of interpretation is, that if divers statutes relate to the same thing, they ought all to be taken into consideration in construing any one of them\""
+        },
+        {
+          "parenthetical": "\"The correct rule of interpretation is, that if divers statutes relate to the same thing, they ought all to be taken into consideration in construing any one of them\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/44/0556-01"
+      ]
+    },
+    {
+      "cite": "358 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3651377
+      ],
+      "weight": 3,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "90",
+          "parenthetical": "reasoning that \"the meaning which a later Congress ascribed\" pointed to a conclusion about what an earlier Congress intended to be the scope of FHA insurance"
+        },
+        {
+          "parenthetical": "reasoning that \"the meaning which a later Congress ascribed\" pointed to a conclusion about what an earlier Congress intended to be the scope of FHA insurance"
+        },
+        {
+          "parenthetical": "reasoning that \"the meaning which a later Congress ascribed\" pointed to a conclusion about what an earlier Congress intended to be the scope of FHA insurance"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/358/0084-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 184",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299003
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/470/0184-01"
+      ]
+    },
+    {
+      "cite": "596 A.2d 569",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11302084
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "578",
+          "parenthetical": "Sehwelb, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/596/0569-01"
+      ]
+    },
+    {
+      "cite": "48 Stat. 592",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1934,
+      "opinion_index": 1
+    },
+    {
+      "cite": "490 A.2d 1140",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7912395
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/490/1140-01"
+      ]
+    },
+    {
+      "cite": "295 F. 990",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3630937
+      ],
+      "year": 1924,
+      "pin_cites": [
+        {
+          "parenthetical": "citing People's Tobacco for the proposition that \"it is the settled law that the practice of sending soliciting agents into a state does not amount to that doing of business which subjects the corporation to the local jurisdiction for the purpose of service of process upon it\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f/295/0990-01"
+      ]
+    },
+    {
+      "cite": "12 F.2d 169",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1644378,
+        4069667
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/12/0169-01"
+      ]
+    },
+    {
+      "cite": "12 F.2d 166",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4068432,
+        1644327
+      ],
+      "pin_cites": [
+        {
+          "page": "169"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/12/0166-01"
+      ]
+    },
+    {
+      "cite": "205 U.S. 530",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3637591
+      ],
+      "weight": 3,
+      "year": 1907,
+      "pin_cites": [
+        {
+          "page": "53233, 534"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/205/0530-01"
+      ]
+    },
+    {
+      "cite": "38 S.Ct. 233",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        8285106,
+        8286251
+      ],
+      "year": 1918,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/246/0079-01",
+        "/us/246/0253-01"
+      ]
+    },
+    {
+      "cite": "234 U.S. 579",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        675102
+      ],
+      "weight": 3,
+      "year": 1914,
+      "pin_cites": [
+        {
+          "page": "586, 587",
+          "parenthetical": "agreeing that company was doing business in Kentucky where its agents solicited orders there and \"there was a continuous course of shipment of machines into Kentucky\""
+        },
+        {
+          "parenthetical": "agreeing that company was doing business in Kentucky where its agents solicited orders there and \"there was a continuous course of shipment of machines into Kentucky\""
+        },
+        {
+          "parenthetical": "agreeing that company was doing business in Kentucky where its agents solicited orders there and \"there was a continuous course of shipment of machines into Kentucky\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/234/0579-01"
+      ]
+    },
+    {
+      "cite": "594 A.2d 70",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366943
+      ],
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/594/0070-01"
+      ]
+    },
+    {
+      "cite": "693 A.2d 1084",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12004924
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1087"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/693/1084-01"
+      ]
+    },
+    {
+      "cite": "246 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8285106
+      ],
+      "weight": 2,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/246/0079-01"
+      ]
+    },
+    {
+      "cite": "326 U.S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 3,
+      "year": 1945,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "92 F.2d 478",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1014334
+      ],
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/92/0478-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 821",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300314
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "830"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/470/0821-01"
+      ]
+    },
+    {
+      "cite": "483 A.2d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7936033
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1179"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/483/1172-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2479,
+    "char_count": 79635,
+    "ocr_confidence": 0.725,
+    "pagerank": {
+      "raw": 1.1723967561023432e-07,
+      "percentile": 0.5867203068595891
+    },
+    "sha256": "1828039f7bf74ce120f15867d83fc15706598a78d75b0cc5148bbf414f278176",
+    "simhash": "1:ac2fdca481890328",
+    "word_count": 12869
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before GLICKMAN, THOMPSON, and OBERLY, Associate Judges."
+    ],
+    "parties": [
+      "DISTRICT OF COLUMBIA and the American University in Dubai, Appellants, v. The AMERICAN UNIVERSITY, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nThis litigation represents the continuation of an effort by appellee American University (\u201cAU\u201d) to stop appellant American University in Dubai (\u201cAUD\u201d) from holding a license from the District of Columbia Educational Licensure Commission (\u201cthe Commission\u201d) while AUD continues to have the word \u201cAmerican\u201d in its name. The underpinning for the litigation is D.C.Code \u00a7 29-618 (Supp.2009), which generally prohibits an educational institution that is organized under District of Columbia law or that \u201cshall undertake to do business in the District of Columbia or to confer degrees or certificates therein\u201d from using \u201cas its title, in whole or in part the words United States, federal, American, national, or civil service, or any other words which might reasonably imply an official connection with the government of the United States.... f For reasons that we shall explain, we conclude that AU\u2019s challenge to AUD\u2019s (former) District licen-sure is moot. We affirm, however, the trial court\u2019s order insofar as it directs the Commission to revoke the license of AUD\u2019s agent. Judge Thompson dissents from the latter conclusion.\nI. Legal and Factual Background\nThe District of Columbia laws governing the licensure of post-secondary educational institutions are found in Title 29, Chapter 6 and Title 38, Chapter 13 of the D.C.Code. See D.C.Code \u00a7\u00a7 29-615 to -619 (2001 & Supp.2009) and 38-1301 to -1313 (2001 & Supp.2009). They provide that no person or entity may undertake to confer any degree or operate a post-secondary educational institution in the District of Columbia without first obtaining a license from the Commission. See D.C.Code \u00a7\u00a7 29-615, 38-1309(a) (Supp.2009). Commission licensure of an educational institution \u201cshall be contingent upon said educational institution\u2019s compliance with all rules, regulations and criteria promulgated by the Commission, as well as compliance with all other applicable D.C. laws and regulations.\u201d D.C.Code \u00a7 38-1302(12) (Supp.2009). One such applicable law is D.C.Code \u00a7 29-618, enacted by Congress in 1929 as part of legislation known as the Diploma Mill Act.\nD.C.Code \u00a7 38-1310(a) describes several \u201cexclu[sions] from the coverage of this chapter [ie., D.C.Code \u00a7\u00a7 38-1301 to - 1313],\u201d including an exclusion for any \u201ceducational institution that is organized or chartered outside of the District of Columbia and does not operate in the District....\u201d D.C.Code \u00a7 38-1310(a)(6) (2001). Thus, an educational institution that is not organized under District law and that does not operate in the District is exempt from licensure by the Commission, \u201cexcept that any agent of an institution who operates in the District shall not be exempt, and the Commission may apply the standards of this chapter to the institution in determining whether to license an agent.\u201d Id. D.C.Code \u00a7 38-1302(1) defines \u201cagent\u201d as \u201cany person owning any interest in, employed by, or representing for remuneration, an educational institution, whether such institution is located within or outside the District, and who solicits or offers to enroll in the District students or enrollees for such institution, or who holds himself or herself out to residents of the District ... as representing an educational institution for any such purpose.\u201d D.C.Code \u00a7 38-1302(1).\nAppellee AUD is a private, for-profit, accredited degree-granting institution with its campus in Dubai, United Arab Emirates. AUD has no facilities and provides no educational instruction in the District, but does provide information about its programs in Dubai and enrolls students for its Dubai campus through an agent, Michael Goldstein, who, for remuneration, acts on AUD\u2019s behalf from an office on New Hampshire Avenue, N.W. In past years, the Commission licensed AUD directly. However, by early 2008, the Commission began to apply an interpretation that an educational institution without a physical presence in the District could not be licensed by the Commission. In addition, in August 2008, the Council of the District of Columbia enacted the Education Licensure Commission Amendment Act of 2008 (\u201cthe 2008 Amendment Act\u201d), legislation that made revisions to Chapter 13 of Title 38 that affect whether an educational institution may \u201coperate\u201d \u2014 and thus whether it is eligible for licensure \u2014 in the District. As modified by the 2008 Amendment Act, D.C.Code \u00a7 38-1309 provides that an educational institution may not \u201coperate\u201d in the District \u2014 and thus, it may not obtain a Commission license, which constitutes \u201capproval to operate,\u201d see D.C.Code \u00a7 38-1302(12) \u2014 unless it maintains in the District a \u201cfacility\u201d from or through which \u201ceducation is offered or given, or educational credentials are offered or granted.\u201d D.C.Code \u00a7\u00a7 38-1309, -1302(11). The 2008 Amendment Act also added to section 38-1302 a definition of the term \u201cfacility\u201d that specifies that the term means \u201ca physical structure located in the District, including suitable housing, classrooms, laboratories, and library resources, as required by the nature of the program or the student body.\u201d D.C.Code \u00a7 38-1302(14).\nAUD does not maintain a \u201cfacility\u201d in the District within the meaning of section 38-1302(14). Since February 28, 2008, Mr. Goldstein has been licensed as AUD\u2019s agent, and, effective the same date, AUD withdrew its application for renewal of its Commission license.\nII. Procedural Background\nThis appeal follows our decision in American Univ. in Dubai, a case that arose out of a 2003 suit in which AU complained that the Commission had renewed AUD\u2019s degree-granting license despite what AU alleged was AUD\u2019s violation of the prohibition set out in D.C.Code \u00a7 29-618, by having \u201cAmerican\u201d in its name. AU sought a judgment \u201cprohibiting AUD from using \u2018American\u2019 in its title[,]\u201d a declaration that it was unlawful for the Commission to license AUD so long as the school remained in violation of section 29-618, and an order requiring the Commission to revoke AUD\u2019s license. 930 A.2d at 204. The trial court entered summary judgment in favor of AU and ordered the Commission to revoke AUD\u2019s license within 30 days unless, prior to that deadline, AUD changed its name to comport with section 29-618. After learning of the court\u2019s order, and instead of changing its name, AUD filed a motion to intervene, which the trial court denied. Id. at 204-OS. In compliance with the trial court\u2019s order, the Commission revoked AUD\u2019s license. AUD sought review by this court, and we vacated the trial court\u2019s order and the Commission order revoking AUD\u2019s license. We did so on the ground that AUD was an indispensable party and that AU should not have been allowed to proceed with its suit without naming AUD as a party. Id. at 210. We directed the trial court to dismiss AU\u2019s complaint. Id.\nIn December 2007, AU filed a new complaint, naming both the Commission and AUD as defendants, seeking virtually the same relief as in the earlier litigation except that AU did not request a declaration that AUD is precluded from using the word \u201cAmerican\u201d in its title. In December 2008, the trial court entered summary judgment in favor of AU. The court reasoned that AUD was in violation of section 29-618 because the \u201cstatute prohibits the use of ... the word \u2018American\u2019 in the title of an institution[, and] AUD is a for-profit institution with the word \u2018American\u2019 in its title.\u201d The court ordered the Commission to revoke both AUD\u2019s license and the agent\u2019s license of Mr. Goldstein (who, having obtained the license months after AU filed its complaint, was not a party to the suit), within 30 days of the order. This appeal followed.\nIII. Analysis\nWe address the issues on appeal as follows. First, we conclude that AU\u2019s challenge to AUD\u2019s licensure is moot. Second, we hold \u2014 contrary to the District\u2019s argument \u2014 that AU\u2019s ability to obtain review of the Commission\u2019s licensure of AUD and Goldstein does not hinge on whether the Diploma Mill Act creates a private right of action. Third, we reject AUD\u2019s argument that the trial court should have dismissed AU\u2019s complaint under Super. Ct. Civ. R. 19 for failure to join necessary parties. Fourth, and finally, we hold that the Commission abused its discretion by granting a license to AUD\u2019s agent.\nA. AU\u2019s challenge to AUD\u2019s licensure.\nAppellants argue that, even before the trial court issued its order, the dispute about AUD\u2019s licensure by the Commission was rendered moot by the 2008 Amendment Act, the legislation that clarified that an educational institution may be licensed to \u201coperate\u201d in the District only if it maintains a \u201cfacility\u201d here, i.e., \u201ca physical structure ... including suitable housing, classrooms, laboratories, and library resources, as required by the nature of the program or the student body.\u201d D.C.Code \u00a7\u00a7 38-1302(11), (14) and 38-1309(a)(2). Both the District and AUD take the position that the 2008 Amendment Act rendered AUD ineligible for licensing, since AUD \u201chas no physical presence in the District of Columbia ... [ie.,] it has no facilities, no employees, leases no space and provides no educational services [within] the District of Columbia\u201d; both acknowledge that AUD\u2019s license has expired; and AUD affirms that it is \u201cno longer even qualified for a Degree Granting License as of August 16, 2008,\u201d the effective date of the 2008 Amendment Act. We accept the District\u2019s interpretation (which also is AUD\u2019s interpretation) that AUD is ineligible for licensure, inasmuch as the interpretation is a reasonable construction of the statutory language, contravenes nothing in the (scant) legislative history, and represents the position of the Commission, the agency charged with implementing the relevant statutory provisions. See Nova Univ. v. Educational Inst. Licensure Comm\u2019n, 483 A.2d 1172, 1190-91 (D.C. 1984) (applying, in evaluating Commission\u2019s position, principle that \u201cwhen an agency\u2019s decision is based on an \u2018interpretation of the statute and regulations it administers, [that interpretation] will be sustained unless shown to be unreasonable or in contravention of the language or legislative history of the statute.\u2019 \u201d) (citation omitted). Although AU appears to be correct that the Commission rather abruptly changed its interpretation even prior to enactment of the 2008 Amendment Act, and even though an agency\u2019s changed interpretation of a statute may command less deference than a longstanding interpretation, the amendments to Chapter 13 effected through the 2008 Amendment Act amply explain and justify the Commission\u2019s changed interpretation. Those amendments effectively nullified AUD\u2019s license. We conclude therefore that the 2008 legislation deprived the trial court of the ability to grant, and that this court has no power to sustain, the initial relief that AU sought \u2014 an order that the Commission revoke AUD\u2019s license. Accordingly, we agree with appellants that the issue of AUD\u2019s licensure is moot. See Settlemire v. District of Columbia Office of Emp.' Appeals, 898 A.2d 902, 905 (D.C.2006) (explaining that an event that renders relief unnecessary renders a matter moot); Thorn v. Walker, 912 A.2d 1192, 1195 (D.C.2006) (\u201c[I]f ... the appellate court can provide no effective relief, the ease is moot.\u201d). Consequently, we vacate that portion of the court\u2019s order requiring the Commission to revoke AUD\u2019s license. See U.S. Bancorp Mortg. Co. v. Bonner Mall P\u2019ship, 513 U.S. 18, 21, 115 S.Ct. 386, 130 L.Ed.2d 233 (1994) (explaining that if a judgment has become moot while awaiting review, an appellate court may not consider its merits, but should reverse or vacate the judgment below and remand with a direction to dismiss.)\nB. The private right of action argument.\nThe District\u2019s principal argument is that AU cannot obtain review of the Commission\u2019s licensing decisions because the \u201cDiploma Mill Act does not create a private right of action to enforce D.C.Code \u00a7 29-618.\u201d This argument fails for two reasons.\nAs a threshold matter, the District\u2019s \u201cprivate right of action\u201d argument is squarely foreclosed by our holding nearly fifteen years ago that \u201c[j]udicial reviewa-bility of agency action does not depend on the creation of a private right of action in the statute sought to be enforced.\u201d District of Columbia v. Sierra Club, 670 A.2d 354, 359 (D.C.1996) (citing Japan Whaling Ass\u2019n v. American Cetacean Soc\u2019y, 478 U.S. 221, 230-31 n. 4, 106 S.Ct. 2860, 92 L.Ed.2d 166 (1986)). As then-Judge Breyer explained in a case involving the federal Administrative Procedures Act, \u201cit is difficult to understand why a court would ever hold that Congress, in enacting a statute that creates federal obligations, has implicitly created a private right of action against the federal government, for there is hardly ever any need for Congress to do so. That is because federal action is nearly always reviewable for conformity with statutory obligations without any such \u2018private right of action.\u2019 \u201d NAACP v. Secretary of Hous. & Urban Dev., 817 F.2d 149, 152 (1st Cir.1987) (quoted in Sierra Club, 670 A.2d at 359). What is true of suits against federal agencies for alleged violations of federal duties is true of suits against District agencies for alleged violations of duties imposed by District law. Thus, in Sierra Club, we held that Sierra Club, an environmental organization, had a right to judicial review of its allegation that the District suspended its recycling program in violation of District law; following NAACP (and other cases), we emphatically rejected the District\u2019s contention that a private right of action analysis had any bearing on the question whether the District\u2019s actions were reviewable by a private party that was aggrieved by those actions. Sierra Club, 670 A.2d at 356, 357-61. Similarly in this case, AU\u2019s complaint involves a routine challenge to agency action. Thus, AU\u2019s ability to obtain review of the Commission\u2019s actions does not depend on the existence of a private right of action.\nThe District\u2019s claim that \u00a7 29-618 \u2014 the Diploma Mill Act provision that bars educational institutions from using the word \u201cAmerican\u201d in their titles \u2014 does not create privately enforceable rights also overlooks the fact that AU is not suing anybody for violating \u00a7 29-618. Rather, AU is suing the Commission for violating the ELC Act by granting a license to AUD and to Gold-stein. True, AU\u2019s theory for why the Commission abused its discretion under the ELC Act is that the Commission could not issue a license to AUD so long as the latter was in violation of \u00a7 29-618. But AU does not allege (how could it?) that the Commission itself violated \u00a7 29-618. Therefore, the District is battling a straw-man when it claims that \u00a7 29-618 does not create a private right of action.\nIn its reply brief, the District makes an argument different from its \u201cprivate right of action\u201d claim; it relies on the principle that agency decisions not to prosecute or not to enforce are presumptively unreviewable. E.g., Heckler v. Chaney, 470 U.S. 821, 881, 105 S.Ct. 1649, 84 L.Ed.2d 714 (1985); Tucci v. District of Columbia, 956 A.2d 684, 690 (D.C.2008); J.C. & Assocs. v. District of Columbia Bd. of Appeals & Review, 778 A.2d 296, 309 (D.C.2001); Sierra Club, 670 A.2d at 860. We have no quarrel with this proposition as a general matter. Indeed, we have held that \u201c \u2018the determination whether and when to institute enforcement proceedings against a specific individual is a core executive responsibility which may reasonably be viewed as having been committed to agency discretion so as to preclude substantive judicial review.\u2019\u201d Tucci, 956 A.2d at 690 (quoting Sierra Club, 670 A.2d at 360) (brackets omitted). Tucci concerned two District residents \u2014 the Tuccis \u2014 who were frustrated by, among other things, their neighbors\u2019 alleged failure properly to dispose of garbage. Id. at 687-88. In response to this grievance, the Tuccis sued the District seeking a court order requiring \u201cmore robust enforcement\u201d of the Litter Control Administration Act against their neighbors. Id. at 690. We affirmed the trial court\u2019s grant of summary judgment in favor of the District on this claim, holding that the enforcement action that the Tuccis sought was \u201ca core executive function committed to the discretion\u201d of the District, which in turn meant that judicial review of the Tuccis\u2019 suit was \u201cprecluded.\u201d Id.\nThe presumption that enforcement decisions are not reviewable is inapplicable in this case for the simple reason that, unlike the plaintiffs in Tucci, AU is challenging actions that the Commission has taken\u2014to wit, the Commission\u2019s grants of licenses to AUD and Goldstein. See Chaney, 470 U.S. at 831, 105 S.Ct. 1649; J.C. & Assocs., 778 A.2d at 308 (\u201cif the Mayor does choose to take action, his decision may be contested one way or another\u201d). The unreviewa-bility presumption of course may resurface later in the struggle between AU and the Commission. For instance, if after our decision in this case the Commission revokes AUD\u2019s license but fails to seek other enforcement against AUD, the Commission likely will rely on the presumption in order to resist AU\u2019s attempt to force its hand further. (And because \u201ca private citizen lacks a judicially cognizable interest in the prosecution or nonprosecution of another,\u201d Linda R.S. v. Richard D., 410 U.S. 614, 619, 93 S.Ct. 1146, 35 L.Ed.2d 536 (1973), AU also will not be able to force the U.S. Attorney\u2019s Office to prosecute AUD.) At this juncture, however, the presumption of unreviewability does not bar review of the Commission\u2019s actions.\nIn the end, as far as reviewability is concerned, this case is no different from the host of challenges to District agency actions that we hear each year. Consider, for example, challenges to decisions by District regulators to permit new construction, sign off on zoning variances, or the like. See, e.g., Cathedral Park Condo. Comm. v. District of Columbia Zoning Comm\u2019n, 743 A.2d 1231 (D.C.2000); Downtown Cluster of Congregations v. District of Columbia Bd. of Zoning Adjustment, 675 A.2d 484 (D.C.1996); Dupont Circle Citizens Ass\u2019n v. Barry, 455 A.2d 417, 419, 422-23 (D.C.1983); see also Brentwood, 661 A.2d 652, 653 (D.C.1995) (holding that \u201cholders of liquor licenses in the same neighborhood\u201d as a license recipient had standing \u201cto assert the violation of a regulation prohibiting the issuance of a liquor license to an establishment located within 400 feet of another licensee\u201d). We have never suggested in such cases that an aggrieved party\u2019s right to judicial review of the agency\u2019s decision is conditioned on the existence of a private right of action in the statutes that the agencies are alleged to have violated. In short, although our review of agency action often is deferential, the notion that no review at all can be had in this case \u201ccannot be reconciled with the applicable precedents or with the sound reasons of policy that underlie them.\u201d Sierra Club, 670 A.2d at 357.\nC. The Rule 19 argument.\nAlthough we have concluded that AU\u2019s challenge to the Commission\u2019s licensure of AUD is moot, AU\u2019s challenge to the Commission\u2019s licensure of AUD\u2019s agent is live because the agent continues to hold that license. As we shall explain below, we hold that the Commission abused its discretion by granting a license to AUD\u2019s agent. Before discussing the merits, however, we must address AUD\u2019s argument that the trial court erred by failing to dismiss AU\u2019s action for failing to name necessary parties under Super. Ct. Civ. R. 19(a).\nAs mentioned above, when AU first sued the Commission over its licensure of AUD, we held that AUD was an indispensable party and that AU should not have been allowed to proceed with its suit without naming AUD as a party. 930 A.2d at 210. So AU returned to the trial court and filed a new complaint in which it named AUD as a co-defendant along with the Commission. AUD says that was not enough. According to AUD, AU also was required to join as defendants seven other institutions\u2014 ranging from the American Petroleum Institute to the National Housing Corporation Learning Center \u2014 that AUD says will be affected by AU\u2019s suit. We agree with AU that its failure to join entities other than AUD did not require the trial court to dismiss the case.\n\u201cJoinder of necessary parties is governed by Rule 19, which makes it clear that questions of compulsory joinder are to be resolved on the basis of practical considerations.\u201d Raskauskas v. Temple Realty Co., 589 A.2d 17, 20 (D.C.1991) (quotation marks omitted). AUD relies on Rule 19(a), which says, as relevant here, that where an absent party \u201cclaims an interest relating to the subject of the action and is so situated that the disposition of the action in the person\u2019s absence may ... as a practical matter impair or impede the person\u2019s ability to protect that interest,\u201d the court must join that party. Citing AUD I, AUD argues that the trial court should have dismissed AU\u2019s action for failing to join certain institutions that, according to AUD, also stand to lose their licenses as a result of AU\u2019s action. We are not persuaded.\nThe difference between AUD I and this case is straightforward. In AUD I, we held that AU should have joined AUD as a defendant because \u201cAUD\u2019s right to retain its license was at the center of the Superi- or Court dispute and the very reason why AU filed a complaint in the Superior Court seeking declaratory and injunctive relief.\u201d 930 A.2d at 208. In contrast, the licenses of the seven institutions whose rights AUD now seeks to invoke were neither \u201cat the center of the Superior Court dispute\u201d nor \u201cthe very reason\u201d why AU sued the Commission in Superior Court. Id. True, a holding that the Commission acted unlawfully in granting licenses to AUD and AUD\u2019s agent could well create a \u201cnegative precedent\u201d for a host of entities. But few cases are sui generis; litigation often produces decisions that have effects that extend beyond the parties before the court. That does not mean, however, that every case of potentially broad import requires the joinder under Rule 19 of each person and entity that stands to gain or lose from the litigation. Were the rule otherwise, every challenge to gun control regulations in the wake of District of Columbia v. Heller, \u2014 U.S. \u2014, 128 S.Ct. 2783, 171 L.Ed.2d 637 (2008), would require the join-der of millions of gun owners, would-be gun purchasers, and state and local governmental bodies. That is not the law. Similarly, in this case, the potential impact of this litigation on parties not before the court did not require the joinder of those parties.\nNor are we persuaded by the District\u2019s argument that AU was required to amend its complaint to join Goldstein. (Goldstein obtained his agent\u2019s license after AU filed its complaint, and was not named as a defendant in AU\u2019s action). It is notable that AUD \u2014 which certainly knows how to raise procedural objections and has the most to lose from a holding that the Commission abused its discretion in granting Goldstein an agent\u2019s license\u2014 has not claimed that AU\u2019s failure to join Goldstein is of any moment. And with good reason. Although Goldstein plainly has an interest in this case, his interests and AUD\u2019s interests are for all intents and purposes identical. Therefore, and because AUD adequately represents Gold-stein\u2019s interest, Goldstein was not a necessary party. See Ramah Navajo Sch. Bd., Inc. v. Babbitt, 87 F.3d 1838, 1351 (D.C.Cir.1996) (\u201cIf the nonparties\u2019 interests are adequately represented by a party, the suit will not impede or impair the nonparties\u2019 interests, and therefore the nonparties will not be considered \u2018necessary.\u2019 \u201d); see also Vale Props., Ltd. v. Canterbury Tales, Inc., 431 A.2d 11, 15 (D.C. 1981) (trial court may deny motion to intervene under Rule 24(a)(2) \u201cwhen an existing party seeks the same ultimate objective as the [absent party]\u201d). This is not a case where the absent party \u201cis without a friend in [the] litigation.\u201d Atlantis Dev. Carp., Ltd. v. United States, 379 F.2d 818, 825 (5th Cir.1967).\nD. The merits.\nHaving cleared the procedural underbrush, we turn to the question whether the Commission abused its discretion by granting Goldstein a license. We conclude that the answer to this question is yes. But because Goldstein obtained a license solely to represent AUD, we must begin our analysis by explaining why the Commission\u2019s grant of a license to AUD was never reconcilable with the plain language of the ELC Act and the Diploma Mill Act, even before AUD became ineligible to hold a license by virtue of not maintaining a \u201cfacility\u201d in the District. See pages ISO-82, supra.\nThe ELC Act, \u00a7 38-1302(12), says that the Commission\u2019s licensure of an educational institution \u201cshall be contingent upon said educational institution\u2019s compliance ... with all other applicable D.C. laws.\u201d One of the applicable laws is \u00a7 29-618, the portion of the Diploma Mill Act that makes it a crime for \u201cany individual or individuals, association, or incorporation outside of the District of Columbia which shall undertake to do business in the District of Columbia or to confer degrees or certificates therein\u201d to \u201cuse as its title, in whole or in part, the word ... American.\u201d American University in Dubai has the word \u201cAmerican\u201d in its name. By soliciting clients in the District with Goldstein\u2019s help, AUD is doing business in the District. See Black\u2019s Law DictionaRY (8th ed. 2004) (defining \u201cdoing business\u201d as \u201c[t]he act of engaging in business activities; specif., the carrying out of a series of similar acts for the purpose of realizing a pecuniary benefit, or otherwise accomplishing a goal, or doing a single act with the intention of starting a series of such acts\u201d). AUD thus is violating \u00a7 29-618, and thus is not eligible for licensure.\nThe arguments raised by AUD and the District as to why we should reject the straightforward reading of the statutes are not persuasive. AUD says that \u00a7 29-618 cannot mean what it says because otherwise absurd results will ensue in cases involving certain other entities \u2014 such as, for instance, the International Graduate University. We fail to see what relevance an absurd result in a hypothetical case has in the case at hand; our task here is to apply the relevant statutes to the facts before us, not to conduct an overbreadth analysis involving hypothetical fact patterns. See Everton v. District of Columbia, 993 A.2d 595, 598 (D.C.2010) (appellant \u201cha[d] no standing to challenge [a] statute based on a hypothetical application to a different situation\u201d) (citing Leiss v. United States, 364 A.2d 803, 807 (D.C. 1976)); Gorgone v. District of Columbia Bd. of Zoning Adjustment, 973 A.2d 692, 697 (D.C.2009) (petitioner could not \u201crely on the rights of others to avoid a result that [was] just as to him\u201d); see also Ball v. Arthur Winn Gen. P\u2019ship/Southern Hills Apartments, 905 A.2d 147, 152 (D.C.2006) (\u201ccourts may not rewrite statutory language merely because when pressed to an extreme application it yields a seemingly absurd result\u201d). In this case, there is nothing absurd in the conclusion that American University in Dubai is ineligible for licensure because it violates the prohibition in \u00a7 29-618 that an education institution not have the word \u201cAmerican\u201d in its name. Far from absurd, it is the only defensible reading of \u00a7 29-618, especially when coupled with the dictate in \u00a7 38-1302(12) that to obtain a license an institution must comply with all applicable D.C. laws. To the extent that AUD believes that the result makes for poor policy, its remedy lies with the legislative branch. See Ball, 905 A.2d at 152 (\u201cLaws enacted with good intention, when put to the test, frequently, and to the surprise of the lawmaker himself, turn out to be mischievous, absurd or otherwise objectionable. But in such case the remedy lies with the law making authority, and not with the courts.\u201d) (quotation marks omitted).\nFor its part, the District does not seriously contest that AUD comes within the plain text of \u00a7 29-618. The District argues, nonetheless, that we should ignore that plain language because House and Senate Reports accompanying that section allegedly show that the Act was \u201cnot designed to prevent the operation of educational institutions that are clearly not defrauding the public by using \u2018deception by way of implying official connection with the United States Government.\u2019 \u201d But \u201c[b]y delving into the legislative history before establishing that the statutory language is ambiguous, [the District] violate[s] a fundamental principle of statutory interpretation. \u2018In interpreting a statute, we first look to the plain meaning of its language, and if it is clear and unambiguous and will not produce an absurd result, we will look no further.\u2019 \u201d Beaner v. United States, 845 A.2d 525, 534 (D.C.2004) (quoting In re D.H., 666 A.2d 462, 469 (D.C. 1995)). Thus, to the extent that the legislative history evidences a narrower intent than the plain language of the Diploma Mill Act, the statutory text must prevail. See id. Cases stating that legislative history may elucidate the meaning of statutory language of \u201csuperficial clarity,\u201d e.g., Peoples Drug Stores, Inc. v. District of Columbia, 470 A.2d 751, 754 (D.C.1983) (en banc), are not to the contrary because there is nothing \u201csuperficial\u201d about the clarity of \u00a7 29-618.\nAt the risk of gilding the lily, we add that what is plain to us today has long been plain to the District \u2014 as applied to all educational institutions, that is, except AUD. For instance, in 1984, the office of Corporation Counsel wrote that \u201cNational University\u201d could not be licensed to do business in the District because it had the word \u201cnational\u201d in its name; as Corporation Counsel explained, there was \u201cno authority ... to provide exemption\u201d on this point. Similarly in 1991, the Deputy Corporation Counsel advised the Commission that National Graduate University was \u201cnot eligible for licensure by the Commission due to the use of the term \u2018national\u2019 in its name.\u201d And in July 2000, the Department of Consumer and Regulatory Affairs took the position that \u201cAmerican University of Asia, Inc.,\u201d was not eligible for licen-sure because it had the word \u201cAmerican\u201d in its name. Yet, notwithstanding how it interpreted \u00a7 29-618 with respect to others, the Commission for some reason approved AUD\u2019s license in 1998. Perhaps sensing that its interpretation was absurd, twice in 2001 the ELC approved six month renewals of AUD\u2019s license, each time subject to the requirement that AUD \u201cchange [its] name.\u201d But AUD gamely informed the ELC before the second renewal that it was \u201cunwilling to abandon its name\u201d and never did. So in 2002, the ELC suddenly, and without explanation, approved a three-year renewal of AUD\u2019s license, removing the condition that AUD change its name. Curiouser still, in 2004, following the unexplained renewal of AUD\u2019s license despite its violation of District law, the ELC on at least two occasions informed the \u201cAmerican Academy of Traditional Chinese Medicine\u201d and the \u201cAmerican Institute of Business Studies\u201d of the prohibition in \u00a7 29-618 of using the word \u201cAmerican\u201d in the name of their institutions. The deviation (without explanation) of the ELC\u2019s longstanding policy against licensing institutions in violation of \u00a7 29-618 solely for the benefit of AUD is the quintessential example of arbitrary and capricious government action to which we owe no deference. See FCC v. Fox Television Stations, Inc., \u2014 U.S. -, 129 S.Ct. 1800, 1811, 173 L.Ed.2d 738 (2009) (\u201ca reasoned explanation is needed for disregarding facts and circumstances that underlay or were engendered by the prior policy\u201d; \u201cto ignore such matters\u201d in adopting a new policy \u201cwould be arbitrary or capricious\u201d).\nIn short, AUD is violating \u00a7 29-618, and thus is ineligible for licensure. It follows, we conclude, that AUD cannot employ Goldstein to do indirectly what it cannot do directly. To hold otherwise would render essentially toothless and meaningless the statement in \u00a7 38-1302(12) that to obtain a license an institution must comply with \u201call ... applicable D.C. laws and regulations.\u201d Nothing in the ELC Act suggests that the Council intended to permit institutions to evade \u00a7 38-1302(12) by the simple expedient of hiring agents. Of course, the Council could have written the ELC Act so as to deviate from the \u201cancient maxim of the law that what is forbidden to a person to do himself he cannot do by the agency of another.\u201d Thompson v. Deal, 92 F.2d 478, 486 (D.C.Cir.1937); accord J.H. Marshall & Assocs., Inc. v. Burleson, 313 A.2d 587, 597 (D.C.1973). But nothing in the language of the ELC Act supports the conclusion that the Council intended to permit this counterintuitive result. Therefore, the \u201csensible construction,\u201d School St. Assocs. Ltd. P\u2019ship v. District of Columbia, 764 A.2d 798, 805 (D.C.2001) (quotation marks omitted), of the ELC Act is that it does not permit the Commission to grant a license to an agent of an institution that itself is not eligible for licensure.\nWe also reject the Commission\u2019s decision to grant a license to Goldstein because it brings the ELC Act and the Diploma Mill Act into needless conflict with one another. Under the Commission\u2019s reading of the two Acts, Goldstein may obtain a license under the ELC Act even though he is helping AUD violate \u00a7 29-618. But statutory interpretation is a holistic endeavor; to the extent possible, we attempt to harmonize statutes, not read them in a way that makes them run headlong into one another. See, e.g., In re Jacoby, 945 A.2d 1193, 1198 (D.C.2008); M.M. & G., Inc. v. Jackson, 612 A.2d 186, 192 (D.C.1992); Floyd E. Davis Mortg. Corp. v. District of Columbia, 455 A.2d 910, 912 (D.C.1983) In this case, the way to harmonize the ELC Act with the Diploma Mill Act is to read the former as not permitting the Commission to grant a license to an agent of an institution who is helping the institution violate the latter. Indeed, in a regulation implementing the ELC Act, the Commission itself appears to recognize this point. See DCMR 5-A8003.2 (recognizing that the Commission has some discretion in imposing requirements on educational institutions, but noting that the Commission \u201cmay not waive a requirement of any statute\u201d in exercising that authority).\nTo be sure, we recognize that \u00a7 38-1310(a)(6) says that \u201cin determining whether to license an agent\u201d the Commission \u201cmay apply\u201d the standards of the ELC Act governing the licensure of institutions. All that this section means, however, is that the Commission may use different standards for determining whether to license an institution as opposed to the institution\u2019s agent. To give one logical example, the Commission requires that institutions seeking a license demonstrate that they have libraries, see DCMR 5-A8003, but does not require the same showing of agents. It does not follow, however, that just because \u00a7 38 \u2014 1310(a)(6) permits the Commission to apply different standards to agents than institutions, the Commission also has discretion to grant a license to an agent where the institution itself is ineligible for licensure on account of being in violation of criminal law.\nThe dissent would read the use of \u201cmay\u201d in \u00a7 38-1306(a) as vesting the Commission with unreviewable discretion to license agents. We respectfully disagree with this analysis. \u201cOnly upon a showing of clear and convincing evidence of a contrary legislative intent should the courts restrict access to judicial review.\u201d Sierra Club, 670 A.2d at 358 (quotation marks omitted) (citing Abbott Labs. v. Gardner, 387 U.S. 136, 141, 87 S.Ct. 1507, 18 L.Ed.2d 681 (1967)). In our view, such clear and convincing evidence is lacking in this case. Contrary to what the dissent suggests, see Post at 197-98, the use of the word \u201cmay\u201d is not sufficient to establish that the legislature intended to preclude review of agency action. Indeed, even cases that conclude that a statute precludes review do not rest their analysis on the use of the word \u201cmay\u201d alone. For instance, in Webster v. Doe, 486 U.S. 592, 108 S.Ct. 2047, 100 L.Ed.2d 632 (1988), the Supreme Court held that a provision of the National Security Act of 1947, 61 Stat. 498, that provided that \u201cthe Director of Central Intelligence may, in his discretion, terminate the employment of any officer or employee of the Agency whenever he shall deem such termination necessary or advisable in the interests of the United States,\u201d 50 U.S.C. \u00a7 403(c), precluded judicial review of a termination decision made by the Director. Webster, 486 U.S. at 594, 600, 108 S.Ct. 2047. The Court did not rely, however, simply on the fact that the statute said \u201cmay.\u201d Rather, in concluding that the statute \u201cfairly exude[d] deference\u201d to the Director, the Court focused on the statute\u2019s use of the language \u201cdeem ... advisable.\u201d Id. The Court reasoned this language demonstrated that \u201c[s]hort of permitting cross-examination of the Director concerning his views of the Nation\u2019s security and whether the discharged employee was inimical to those interests,\u201d there was \u201cno basis on which a reviewing court could properly assess an agency termination decision.\u201d Id. In addition, the Court reasoned that judicial review of the Director\u2019s decision to terminate an employee would unduly undermine the CIA\u2019s \u201ceff\u00edcacy[ ] and the Nation\u2019s security,\u201d because both \u201cdepend in large measure on the reliability and trustworthiness of the Agency\u2019s employees.\u201d Id.\nThe ELC Act does not have anything resembling the broad language analyzed in Webster. Nor does review of the Commission\u2019s decision to issue a license to an agent whose principal is ineligible for li-censure implicate the weighty policy concerns that the Court identified in Webster as weighing against review. Therefore, we do not believe that the use of the word \u201cmay\u201d in \u00a7 38 \u2014 1310(a)(6) precludes review in this case.\nNor are we persuaded by the dissent\u2019s reliance on Chaney, 470 U.S. at 830, 105 S.Ct. 1649, for the proposition that the ELC Act does not provide \u201cjudicially manageable standards ... for judging how and when an agency should exercise its discretion,\u201d thereby making it \u201cimpossible\u201d for us to evaluate the Commission\u2019s action in this case. Post at 198. The \u201cnarrow exception\u201d that Chaney recognized, 470 U.S. at 826,105 S.Ct. 1649, does not change the outcome in this case. Although difficult cases may arise under \u00a7 38\u20141310(a)(6), this case is not hard. The \u201cjudicially manageable standards,\u201d Chaney, 470 U.S. at 830, 105 S.Ct. 1649, upon which we rely in analyzing an agent\u2019s eligibility for licen-sure under the ELC Act are found in the standards that apply to the licensure of institutions (ie., the entities that agents seek to represent), the text of the ELC and the Diploma Mill Acts, and settled principles of statutory construction.\nE. The dissent\u2019s remaining arguments.\nWe now turn to the arguments advanced in the dissent that we have not addressed already. The dissent begins by suggesting (though not firmly deciding) that AUD does not do business in the District through Goldstein for the purposes of the Diploma Mill Act. In reaching this conclusion, the dissent places heavy reliance on cases decided around the time that the Diploma Mill Act was enacted that interpreted the term \u201cdoing business\u201d for the purposes of deciding whether service of process was effective. See Post at 193-94. We do not believe that those cases provide a useful point for analysis, and not simply because, as the dissent acknowledges, see id. at 194, those cases were \u201cimplicitly rejected\u201d by International Shoe Co. v. Washington, 326 U.S. 310, 66 S.Ct. 154, 90 L.Ed. 95 (1945). The reason, rather, is that the dissent is mixing apples and oranges. In service of process and personal jurisdiction cases, \u201cdoing business\u201d is a term of art; the question in those cases, in the words of a decision cited by the dissent, is whether the level of business that a defendant conducts in the jurisdiction where it is sued is \u201cof such nature and character as to warrant the inference\u201d that the defendant \u201cby its duly authorized officers or agents is present within the state or district where service is attempted.\u201d People\u2019s Tobacco Co. v. American Tobacco Co., 246 U.S. 79, 86, 38 S.Ct. 238, 62 L.Ed. 587 (1918). Late-nineteenth and early-twentieth century cases took a narrow view of \u201cdoing business\u201d in this context because \u201ctraditional notions of jurisdiction were based on a territorial conception that permitted actions to be brought against a defendant only in the jurisdiction in which he was found and personally served with process.\u201d 4 Wright & Miller, Federal Practioe & Procedure \u00a7 1066, at 352 (3d ed. 2002); see also generally id., at \u00a7 1064.\nThe dissent does not explain why \u00a7 29-618 comes with this crabbed reading, and we find no indication in the statute that Congress intended to limit it to those entities that were doing business in the District within the meaning of cases such as People\u2019s Tobacco. Rather, the prohibition in \u00a7 29-618 is worded broadly, and applies equally to entities that were incorporated in the District as well as to entities that were incorporated outside of the District and that \u201cundert[ook] to do business\u201d in the District \u201cor to confer degrees or certificates therein.\u201d 45 Stat. 1505, ch. 523 (Mar. 2, 1929). In view of this sweeping language, we see no reason to import service of process case law into the analysis whether an entity is undertaking to do business for the purposes of \u00a7 29-618.\nNor are we persuaded by the dissent\u2019s analysis of legislative history discussing the 1934 amendment to the Diploma Mill Act. See Post at 194-95. The dissent hones in on the following passage from a House Committee Report accompanying that amendment:\nSo far as the committee can determine, there was no intent to forbid the use of the word \u201cAmerican\u201d in the titles of institutions of learning in foreign lands where the word served solely to indicate place of origin, such as the \u201cAmerican Academy at Rome,\u201d the \u201cAmerican School of Classical Studies at Athens,\u201d the \u201cAmerican University at Beirut,\u201d and other well-known schools and colleges abroad. H. Rep. No. 1040, 73d Cong, 2 Sess. 2 (Mar. 23,1934).\nIf Congress thought that \u201cAmerican University at Beirut\u201d was okay, the reasoning goes, see Post at 194-95, then what can be wrong with \u201cAmerican University in Dubai\u201d?\nThe Committee Report does not cause us to alter our reading of the act. As we mentioned above, we do not find resort to legislative history in this case helpful because we think that the Diploma Mill Act is clear on its face. See Beaner, 845 A.2d at 534. Moreover, we do not find the dissent\u2019s reading of the Committee Report persuasive because the report itself is rather tentative on the matter (\u201cSo far as the committee can determine\u201d). Finally, assuming arguendo that the dissent is correct that the Committee Report shows that Congress though it unnecessary to amend the statute to grandfather institutions such as American University in Beirut, this congressional inaction strikes us as too shaky a foundation to rely on in this case. See United States v. Craft, 535 U.S. 274, 287, 122 S.Ct. 1414, 152 L.Ed.2d 437 (2002).\nThe dissent also suggests that our analysis is wrong because it would lead to \u201cpeculiar\u201d results in cases involving not-for-profit institutions. Post at 196. AUD, however, is a /or-profit institution, and the dissent does not suggest that there is anything peculiar about the result we reach as to AUD. We thus do not believe that an allegedly peculiar result in a hypothetical case involving a not-for-profit institution has any relevance here. This is especially so because the Diploma Mill Act in fact treats not-for-profits differently than for-profits: \u00a7 29-618 gives the Commission discretion, under certain circumstances, to \u201cwaive the prohibition\u201d of that section for not-for-profits, but does not authorize the Commission to make such a waiver in respect to for-profits.\nIV. Conclusion\nThe trial court\u2019s order is vacated insofar as it required the Commission to revoke AUD\u2019s license, and is affirmed insofar as it required the Commission to revoke Gold-stein\u2019s license.\nSo ordered.\n. As we noted in our opinion in American Univ. in Dubai v. District of Columbia Educ. Licensure Comm\u2019n, AU \u201cwas created by a special act of Congress and is the only University specifically exempted from D.C.Code \u00a7 29-618 (2001) and authorized to use the name 'American' in its title.\u201d 930 A.2d 200, 202 n. 3 (D.C.2007).\n. The Commission was established by the Education Licensure Commission Act of 1976 (\u201cthe ELC Act\u201d), D.C. Law 1-104, Apr. 6, 1977 (now codified at D.C.Code \u00a7\u00a7 38-1301 to -1313), to \"license postsecondary educational institutions ... and their agents,\u201d and to \u201censure authenticity and legitimacy of the educational institutions....\u201d D.C.Code \u00a7 38-1303 (Supp.2009).\n. See also DCMR 5-A8003.1 (2009) (\"The Commission shall license degree granting institutions and institutions that give instruction that results in credit toward a degree, and that the Commission determines are in compliance with the requirements of law and this chapter.\").\n.Act of Mar. 2, 1929, Pub.L. No. 70-950, \u00a7 586e, f, 45 Stat. 1505 (now codified as amended at D.C.Code \u00a7\u00a7 29-614 to -619). Under D.C.Code \u00a7 29-619 (2001), originally enacted as part of the same legislation, an educational institution that undertakes to do business in the District while using in its title any of the words prohibited by section 29-618 may be subject to criminal and civil penalties. See id. (providing that \"[a]ny person or persons who shall ... violate the provisions of \u00a7 29-618 shall be deemed guilty of a misdemeanor, and upon conviction thereof in the Superior Court of the District of Columbia shall be punished by a fine of not more than $2,000, or imprisonment for not more than 2 years, or both\" and that \"[cjivil fines, penalties, and fees may be imposed as alternative sanctions....\u201d).\n. Mr. Goldstein reported to the Commission in 2008 that none of AUD\u2019s 2,858 students enrolled as of the Fall of 2007 were District residents.\n. D.C. Law 17-219, \u00a7\u00a7 4009-10, Aug. 16, 2008.\n. This is notwithstanding the fact that the Commission\u2019s regulations governing the licen-sure of agents of educational institutions, see DCMR 5-A8000 to 5-A8099, 5-A8100 to 5-A8199 (2009) include provisions that address the licensure of agents for non-degree-conferring institutions, but contain none that address licensure of agents for degree-granting institutions. Compare DCMR 5-A8001.1 (\"This chapter shall apply to all educational institutions which offer instruction that results in credit toward a degree, which are required to be licensed....\u201d) with DCMR 5-A8101.1 (\"This chapter shall apply to all private, postsecondary non-degree schools, and their agents [.]\u201d) (emphasis added).\nAUD represents that \u201d[o]n April 30, 2009, at a public meeting, the [Commission] considered, and unanimously granted, Mr. Gold-stein\u2019s Application to Renew the Agent\u2019s License of Michael B. Goldstein for the period ending April 30, 2010.\u201d\n. The record indicates that AU also pursued relief through a suit against AUD brought under the federal Lanham Act, 15 U.S.C. \u00a7 1125.\n. See Committee of the Whole Report on Bill 17-678 (May 13, 2008); Committee on Government Operations Report on Bill 7-86 (November 9, 1988); Committee on Education and Libraries Comments on Bill 7-253 (June 14, 1988); Committee on Government Operations Report on Bill 7-253 (May 12, 1988); and S.Rep. No. 611, 70th Cong., 1st Sess. 2 (1928).\n. See Brentwood Liquors, Inc. v. District of Columbia Alcoholic Beverage Control Bd., 661 A.2d 652, 656 (D.C. 1995) (\"while an agency may change over time the interpretation it gives to a controlling statutory term, an agency changing its course is obligated to supply a reasoned analysis for the change\") (quotation marks and citation omitted); Public Serv. Comm\u2019n v. Wilson, 389 Md. 27, 882 A.2d 849, 867 (2005) (considerable deference \"is ordinarily only shown to an agency's longstanding interpretation\u201d of the statute it is charged with administering). For a recent debate on the issue, see the majority and dissent in PCC v. Fox Television Stations, Inc., - U.S. -, 129 S.Ct. 1800, 1811, 173 L.Ed.2d 738 (2009); id. at 1830-31 (Breyer, J., dissenting).\n. The issue that AU raises as to AUD\u2019s eligibility for licensure could arise again if, for example, AUD were to establish classrooms and begin teaching courses in the District pursuant to a Commission license. However, we decline to issue an advisory opinion that looks to that possibility (which no one has suggested is on the horizon). Cf. Cropp v. Williams, 841 A.2d 328, 330 (D.C.2004) (per curiam) (rejecting argument that this court should issue an advisory opinion to \"forestall[] hypothetical future clashes between\u201d the parties).\n. The trial court rejected AUD\u2019s and the District's mootness arguments on the ground that \"[t]here [was] no indication in the record that the [Commission] took any action regarding AUD\u2019s license,\u201d reasoning that the issue was not moot because \"AUD\u2019s license remains in effect.\u201d But it is well-established that a matter may be rendered moot by legislation, see United States v. Alaska S.S. Co., 253 U.S. 113, 116, 40 S.Ct. 448, 64 L.Ed. 808 (1920) (\"The subsequent legislation .... renders the case moot.\u201d), and this is such a case.\n. We understand the dissent to agree on this principle, though not its application in this case. See Post at 197 (stating that \"we must construe actions by an earlier and later legislature on the same subject 'as though the different legislatures enacted them together,' reconciling them if possible\u201d) (quoting United States Parole Comm'n v. Noble, 693 A.2d 1084, 1087 (D.C. 1997)).\n. The dissent cites In re J.D.C., 594 A.2d 70 (D.C.1991), for the proposition that the statute\u2019s use of the word \"may\u201d dispositively shows that the Council intended to preclude review. But J.D.C. had nothing to do with reviewability of administrative action. Instead, J.D.C. concerned a trial court's denial of a motion to exclude members of the media from a factfinding hearing in a juvenile murder case. Id. at 74.\n. Incidentally, we are far less certain than the dissent appears to be that a court in 1929 would have held that AUD was not doing business in the District for the purposes of service of process. See International Harvester Co. v. Kentucky, 234 U.S. 579, 34 S.Ct. 944, 58 L.Ed. 1479 (1914) (defendant was \u201cdoing business\u201d in Kentucky for purposes of service of process when, inter alia, defendant was involved in a \"continuous course of business in the solicitation of orders\u201d within Kentucky and employed an agent with authority to receive \"payment in money, checks, or drafts\u201d in Kentucky).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      },
+      {
+        "text": "THOMPSON, Associate Judge,\nconcurring in part and dissenting in part:\nI agree with that portion of the court\u2019s opinion that concludes that the issue of AUD\u2019s licensure is moot and vacates the order requiring revocation of AUD\u2019s license. However, I do not share my colleagues\u2019 confidence that AUD has \u201cundertake[n] to do business in the District of Columbia\u201d within the meaning of D.C.Code \u00a7 29-618, because the scope of that statutory phrase is not plain and because, in my view, the best indicators we have of legislative intent tell us that the legislature did not use the phrase to refer to the type of activities that AUD is conducting in the District of Columbia through its agent, Mr. Goldstein. In light of those indicators, I believe the court has an insufficient basis for disturbing the Education Licensure Commission\u2019s licensing decision as to Mr. Goldstein. I also see no basis for concluding, as the court does, that \u201cthe Commission abused its discretion in granting Gold-stein an agent\u2019s license.\u201d Therefore, I do not join in the decision to affirm the order requiring the Commission to revoke Mr. Goldstein\u2019s agent\u2019s license.\nA.\nAccording to my colleagues in the majority, the problem with the Commission\u2019s licensure of agent Goldstein is that he is \u201chelping\u201d AUD violate section 29-618. I believe that the majority\u2019s premise \u2014 that AUD is violating section 29-618 \u2014 is either outright mistaken or sufficiently in doubt that it ought not to be the basis for court-ordered revocation of Mr. Goldstein\u2019s license.\nIt is evident that AUD has \u201cAmerican\u201d in its name, legitimately raising a question about whether a violation of section 29-618 is afoot. But answering the question of whether AUD is violating section 29-618 requires considerable additional analysis, both as to the facts of record and the law. To recap and slightly expand upon some of the relevant facts: AUD began as a branch campus of American InterContinental University, a university incorporated in the State of Georgia and accredited by the Commission on Colleges of the Southern Association of Colleges and Schools (the \u201cSouthern Association\u201d). In 2008, AUD ceased to be a branch campus of American InterContinental University and obtained separate Southern Association accreditation. AUD has no classroom or other educational facilities in the District of Columbia, leases no space here, and does not teach, provide instruction, or confer degrees in the District of Columbia. Rather, it provides educational services from its campus in Dubai, United Arab Emirates. According to the affidavit of AUD President de Masi, AUD retained the services of an agent, Michael Gold-stein, who is knowledgeable about study-abroad programs, to \u201cinform prospective students and their parents within [the] District of Columbia about AUD and its programs and offerings in Dubai and to enroll students should they decide to enroll in any of AUD\u2019s programs or offerings in Dubai.\u201d Mr. Goldstein maintains an office on New Hampshire Avenue, N.W. In his testimony before the Commission, Gold-stein explained:\nThe purpose of having the agent office here is that one of the things that the school has found is there is a large Middle Eastern population going back and forth between countries in the Middle East and Washington in particular, and ... we are finding a certain number of students with an interest in enrolling or in learning about educational opportunities in Dubai while they are here and we would provide an access point for that information.\nMr. Goldstein\u2019s business card states that he is \u201can authorized AGENT to enroll students in the District of Columbia on behalf of\u2019 AUD. In short, as far as the record discloses, what AUD does in the District of Columbia through its agent is provide information about and enroll students for educational opportunities in Dubai.\nThe prohibition contained in section 29-618 is applicable to any educational institution chartered in the District of Columbia under the provisions of Title 29 subchapter 601 et seq. and to any other educational institution that \u201cshall undertake to do business in the District of Columbia or to confer degrees or certificates therein.\u201d Because AUD is not chartered in the District of Columbia and does not confer degrees here, it is subject to the prohibition of section 29-618 only if it \u201cshall undertake to do business in the District of Columbia\u201d while it retains \u201cAmerican\u201d in its name. Neither Chapter 600 of Title 29 nor Chapter 13 of Title 38 of the D.C.Code defines the term \u201cundertake to do business,\u201d and the Commission\u2019s regulations also contain no definition of the term. To answer the question of whether AUD is doing business in the District, the majority turns immediately, and exclusively, to the Black\u2019s Law Dictionary definition of \u201cdoing business\u201d and quickly concludes that AUD is doing business here because (through agent Goldstein) it is carrying out acts for the purpose of realizing a pecuniary benefit. It often is appropriate to rely on dictionary definitions when, as here, the legislature has not defined a term used in the relevant statute. But, since our objective must always be to discern the legislative intent and, as far as possible, to read the various provisions of a statute harmoniously, I believe we should be careful not to rely on the dictionary exclusively when there are other indicators of what the legislature meant by the terms it used and what it meant to prohibit, and when a dictionary definition makes it difficult to harmonize the various portions of an existing statute.\nCongress enacted the name prohibition and \u201cdoing business\u201d provisions of section 29-618 in 1929. There are many court decisions of roughly the same vintage that addressed what it meant for a company to \u201cdo business\u201d in a jurisdiction (for purposes of being amenable to service of process in the jurisdiction, or for purposes of state statutes that denied foreign companies doing business in a state the right to sue in the state\u2019s courts without a certificate of authorization to do business). In People\u2019s Tobacco Co. v. Am. Tobacco Co., 246 U.S. 79, 87, 38 S.Ct. 233, 62 L.Ed. 587 (1918), for example, the Supreme Court held that a foreign corporation\u2019s \u201cpractice of advertising its wares in Louisiana and sending into it agents having no authority beyond solicitation\u201d did not constitute doing business within the State for the purpose of service of process. In Green v. Chi, Burlington & Quincy Ry. Co., 205 U.S. 530, 53233, 534, 27 S.Ct. 595, 51 L.Ed. 916 (1907), the Court held that where \u201c[t]he business shown ... was in substance nothing more than that of solicitation\u201d \u2014 defendant employed an agent who, working from an office in Pennsylvania, took money from customers and issued prepaid orders that they could exchange for tickets to transfer to defendant\u2019s railroad in Chicago \u2014 the defendant was not \u201cdoing business\u201d in Pennsylvania for purposes of in personam jurisdiction. See also Cancelmo v. Seaboard Air Line Ry., 12 F.2d 166, 169 (D.C.Cir.1926) (holding that a railroad company that had no tracks within a district was not doing business therein where it \u201chire[d] an office and employ[ed] an agent for the merely incidental business of solicitation of freight and passenger traffic\u201d); Knobel v. Seaboard Air Line Ry. Co., 12 F.2d 169 (D.C.Cir.1926) (same); Chase Bag Co. v. Munson S.S. Line, 295 F. 990 (D.C.Cir. 1924) (citing People\u2019s Tobacco for the proposition that \u201cit is the settled law that the practice of sending soliciting agents into a state does not amount to that doing of business which subjects the corporation to the local jurisdiction for the purpose of service of process upon it\u201d) (internal quotation marks omitted). The rulings in many of these in personam jurisdiction cases were \u201cimplicitly rejected\u201d in Int\u2019l Shoe Co. v. Washington, 326 U.S. 310, 66 S.Ct. 154, 90 L.Ed. 95 (1945), see Hughes v. A.H. Robins Co., 490 A.2d 1140, 1145 n. 5 (D.C.1985), but the rulings nevertheless provide some insight into what Congress would have meant in 1929 by \u201cunder-tak[ing] to do business\u201d in the District of Columbia. They make it questionable whether, by using the term \u201cundertake to do business in the District of Columbia,\u201d Congress meant to include within the reach of section 29-618 an educational institution whose presence in the District of Columbia consists only of the activities of an agent who advertises the institution\u2019s programs and solicits or enrolls students for educational services to be delivered entirely outside the District of Columbia. The cases should make us proceed cautiously in concluding that AUD is undertaking to do business in the District of Columbia by virtue of its arrangement with agent Goldstein. This is especially so because other indicators of the legislature\u2019s intent suggest that a contrary interpretation is more likely the correct one.\nCongress amended section 29-618 in 1934 to grandfather, and thereby exempt from the naming prohibition, American University at Cairo, a District-chartered educational institution, and any other District-chartered educational institutions that received their charters before April 16, 1934. See 73 Pub.L. 163, 48 Stat. 592 (Apr. 16, 1934). Discussing the 1929 legislation, the accompanying Committee Report of the Committee on the District of Columbia explains why other, non-District-chartered \u201cinstitutions of learning in foreign lands\u201d were not in need of relief from section 29-618:\nSo far as the committee can determine, there was no intent to forbid the use of the word \u201cAmerican\u201d in the titles of institutions of learning in foreign lands where the word served solely to indicate place of origin, such as the \u201cAmerican Academy at Rome,\u201d the \u201cAmerican School of Classical Studies at Athens,\u201d the \u201cAmerican University at Beirut,\u201d and other well-known schools and colleges abroad.\nH.R.Rep. No. 1040, at 2 (Mar. 28, 1934). This court has recognized that \u201c[t]he views of a subsequent legislature are not conclusive as to the intent of an earlier one,\u201d Winters v. Ridley, 596 A.2d 569, 578 (D.C. 1991) (Sehwelb, J., concurring), and so caution is once again in order as we consider whether to accept the views of the 1934 Congress as indicative of what the 1929 Congress intended when it passed section 29-618. Nevertheless, the views of the later Congress \u201ccarry \u2018considerable retrospective weight.\u2019 \u201d Id. (quoting Heckler v. Turner, 470 U.S. 184, 211, 105 S.Ct. 1138, 84 L.Ed.2d 138 (1985)). Thus, we should give some weight to the 1934 Committee\u2019s understanding \u2014 an understanding of the 1929 Congress\u2019s intent that the 1934 Committee gleaned at a time that was at most five years out from the enactment of section 29-618 \u2014 that section 29-618 was not targeted at \u201cinstitutions of learning in foreign lands\u201d bearing names that indicate their United States origin. The institutions that the 1934 Committee understood not to be targeted bore names quite similar to AUD\u2019s name (compare \u201cAmerican University in Dubai\u201d to \u201cAmerican University at Beirut\u201d). And, like the institutions that the 1934 Committee singled out, AUD is a non-District-chartered institution that provides instruction and confers degrees from its campus in a foreign land and bears a name that reflects its origin (as a branch of an accredited university) in the United States.\nThere is an additional step in the analysis \u2014 consideration of a 1988 amendment to section 29-618 \u2014 that persuades me that the majority\u2019s conclusion that AUD is acting in violation of section 29-618 is incorrect. In 1988, the Council of the District of Columbia amended section 29-618 \u201cto permit an educational institution[ ] incorporated and licensed outside of the District of Columbia with the word \u2018national\u2019 or \u2018American\u2019 in its name to offer courses in the District of Columbia.\u201d Specifically, the 1988 amendment authorized the Commission to exempt a not-for-profit institution incorporated in any jurisdiction from the statute\u2019s name restrictions if the institution meets specified conditions, including that the institution \u201cotherwise meets all applicable licensing requirements.\u201d D.C.Code \u00a7 29-618(4). To obtain a Commission license, which constitutes \u201capproval to operate\u201d in the District, see D.C.Code \u00a7 38-1302(12), an institution must maintain in the District a \u201cfacility\u201d from or through which \u201ceducation is offered or given, or educational credentials are offered or granted.\u201d D.C.Code \u00a7\u00a7 38-1302(11), 38-1309. The term \u201cfacility\u201d means \u201ca physical structure located in the District, including suitable housing, classrooms, laboratories, and library resources, as required by the nature of the program or the student body.\u201d D.C.Code \u00a7 38-1302(14). Taken together, these provisions establish that, pursuant to the 1988 amendment, the Commission may exempt a not-for-profit institution from the section\u2019s name restrictions if the institution meets all applicable licensing requirements, which include the requirement that the institution have educational facilities in the District of Columbia.\nIt would be very peculiar to require a not-for-profit institution not intending to provide educational courses in the District of Columbia to meet the additional hurdle of establishing educational facilities here\u2014 so as to meet licensure requirements \u2014 just to qualify for an exemption from the name restrictions of section 29-618. This peculiarity persuades me that, in addition to applying to entities that \u201cconfer degrees or certificates\u201d in the District of Columbia, D.C.Code \u00a7 29-618, (1) the name prohibition set out in section 29-618 applies in the first instance only to institutions that can qualify for Commission licensure because they have (or propose to have) educational facilities in the District of Columbia (and in that way have undertaken to do business here); and (2) the prohibition does not apply to an institution such as AUD, which has no educational facility in the District and confers no degrees or certificates here. In short, the Council\u2019s 1988 amendment to section 29-618 provides what I think is a compelling reason to reject an interpretation that AUD \u201cdoes business in the District of Columbia\u201d within the meaning of section 29-618 merely by virtue of retaining an agent to provide information to prospective students and to enroll students for educational programs to be provided in Dubai. One can read the statute as an integrated whole \u2014 i.e., as though they were enacted together \u2014only by rejecting that interpretation. See U.S. Parole Comm\u2019n v. Noble, 693 A.2d 1084, 1087 (D.C.1997) (recognizing that we must construe actions by an earlier and later legislature on the same subject \u201cas though the different legislatures enacted them together,\u201d reconciling them if possible).\nThe objection that might be raised that, in relying on the interpretation reflected in the Council\u2019s 1988 amendment to section 29-618,1 am improperly relying on the act of a later, amending legislature (ie. the Council) to interpret the law enacted by an earlier legislature (Congress). My response is that often, \u201clater law is entitled to weight when it comes to the problem of construction.\u201d FHA v. Darlington, Inc., 358 U.S. 84, 90, 79 S.Ct. 141, 3 L.Ed.2d 132 (1958) (reasoning that \u201cthe meaning which a later Congress ascribed\u201d pointed to a conclusion about what an earlier Congress intended to be the scope of FHA insurance); see also United States v. Freeman, 44 U.S. 556, 564-65, 3 How. 556, 11 L.Ed. 724 (1845) (\u201cThe correct rule of interpretation is, that if divers statutes relate to the same thing, they ought all to be taken into consideration in construing any one of them\u201d), and United States v. Borden Co., 308 U.S. 188, 198, 60 S.Ct. 182, 84 L.Ed. 181 (1939) (\u201cWhen there are two acts upon the same subject, the rule is to give effect to both if possible\u201d). I believe we should reject an interpretation of the reach of the original language of section 29-618 that would \u201ccompel [the] odd result\u201d I have described above.\nB.\nThere is an additional reason why I cannot join in the majority\u2019s decision to uphold the order directing the Commission to revoke Goldstein\u2019s agent\u2019s license on the basis of section 29-618. My colleagues in the majority assert that the Educational Licensure Commission Act \u201cdoes not permit the Commission to grant a license to an agent of an institution that itself is not eligible for licensure,\u201d and they further assert that the Commission \u201cabused its discretion by granting Goldstein a license.\u201d I cannot agree with either point.\nFirst, educational institution licensure is available only if an educational institution that is not chartered by the District of Columbia \u201coperates\u201d in the District; if such an institution does not operate in the District of Columbia, it is exempt from licensure, \u201cexcept that any agent of an institution who operates in the District shall not be exempt....\u201d D.C.Code \u00a7 38-1310(a)(6). In other words, contrary to the majority\u2019s reasoning, the ELC statute specifically contemplates that the Commission will \u201cgrant a license to an agent of an institution that itself is not eligible for licensure.\u201d\nSecond, section 38-1310(a)(6) further provides that the Commission \u201cmay apply the standards of this chapter to the institution in determining whether to license an agent\u201d (italics added). The \u201cstandards of this chapter\u201d include the requirement of D.C.Code \u00a7 38-1302(12) that licensure of an educational institution \u201cshall be contingent upon said educational institution\u2019s compliance ... with all other applicable D.C. laws\u201d \u2014 including, we may presume, section 29-618. Thus \u2014 even if section 29-618 does not apply on its own terms to AUD\u2014the Commission may apply section 29-618 to AUD in determining whether to license an agent for AUD. We have recognized repeatedly that \u201cthe word \u2018may ... is quintessential^ permissive,\u201d and does not create an enforceable mandate. In re J.D.C., 594 A.2d 70, 75 (D.C.1991). Accordingly, section 38 \u2014 1310(a)(6) must be read as conferring upon the Commission discretion to license an agent of an educational institution even if the institution itself could not do business in the District without running afoul of section 29-618. Further, not only is the decision in such a matter (here, whether to apply section 29-618 to AUD in determining whether to license AUD\u2019s agent) committed to the Commission\u2019s discretion, but also nothing in Title 38 Chapter 13, the Educational Licensure Commission statute, establishes a standard for how the Commission should exercise its discretion. \u201c[I]f no judicially manageable standards are available for judging how and when an agency should exercise its discretion, then it is impossible to evaluate agency action for \u2018abuse of discretion.\u2019 \u201d Heckler v. Chaney, 470 U.S. 821, 830, 105 S.Ct. 1649, 84 L.Ed.2d 714 (1985); see also Reich v. Valley Nat\u2019l Bank, 837 F.Supp. 1259, 1302 (S.D.N.Y. 1993) (explaining that the language of ERISA provision stating that \u201cthe Secretary [of Labor] may prescribe such regulations as he finds necessary and appropriate to carry out the provisions of this title\u201d and that \u201csuch regulations may define accounting, technical and trade terms used in such provisions\u201d is \u201cquintessentially permissive, such that the Secretary\u2019s action or inaction under this section is not subject to judicial review\u201d) (italics omitted). I cannot discern on what basis the majority has concluded that the Commission \u201cabused its discretion\u201d in not subjecting AUD to the name prohibition screen of section 29-618 in determining to issue a license to agent Goldstein.\nFor all the foregoing reasons, I respectfully dissent.\n. My colleagues invoke the maxim that \u201cwhat is forbidden to a person to do himself he cannot do by the agency of another.\u201d Thompson v. Deal, 92 F.2d 478, 486 (D.C.Cir. 1937). I accept that \u201cancient maxim,\u201d id.., as a venerable one that applies broadly. But, for reasons I shall explain, the maxim is inappo-site in this case.\n. According to the affidavit of Lance de Masi, AUD's President, \"the Clinton Foundation, established by former President Bill Clinton, has established a study-abroad scholarship program for American students who wish to spend one or more terms\u201d at AUD.\n. We have looked to the definitions in Chapter 13 of Title 38 in construing Chapter 600 of Title 29. See Nova Univ. v. Educ. Inst. Licensure Comm\u2019n, 483 A.2d 1172, 1179 (D.C.1984) (looking to the definition of \"operate\u201d in D.C.Code \u00a7 31-1602 (1981) (now codified as section 38-1302) to interpret D.C.Code \u00a7 29-815 (now codified as section 29-615)).\n. \"Rather than make a fortress out of the dictionary, ... the Court should instead attempt to implement the legislative intent of Congress.\u201d Cnty. of Wash. v. Gunther, 452 U.S. 161, 198 n. 10, 101 S.Ct. 2242, 68 L.Ed.2d 751 (1981) (Rehnquist, X, dissenting).\n. But see Int'l Text-Book Co. v. Pigg, 217 U.S. 91, 100, 105, 30 S.Ct. 481, 54 L.Ed. 678 (1910) (holding that Pennsylvania company was doing its correspondence-school business in Kansas where it employed an agent in Kansas who solicited and accepted applications from students and collected and forwarded money to the company, which forwarded instructional papers and apparatus to the students in Kansas); Int\u2019l Harvester Co. v. Kentucky, 234 U.S. 579, 586, 587, 34 S.Ct. 944, 58 L.Ed. 1479 (1914) (agreeing that company was doing business in Kentucky where its agents solicited orders there and \"there was a continuous course of shipment of machines into Kentucky\u201d).\n. But see Wendell v. Holland Am. Line, 40 App.D.C. 1, 6 (D.C.Cir.1913) (distinguishing Green as a case where the agent\u2019s work was \"subject to ratification by the [foreign] company,\u201d and holding that the defendant was doing business in the District so as to subject it to in personam jurisdiction here where it paid commissions to an agent who, from an office in the District, sold tickets for passage on the defendant's steamships and \"complete[d], on behalf of defendant, the contract of transportation, no part of said contract remaining open for confirmation or approval by defendant\u201d).\n. See also Beitzell v. District of Columbia, 21 App.D.C. 49, 59 (D.C.Cir. 1903) (discussing a 1902 statute that declared that \"no person shall engage in or carry on any business ... in the District of Columbia, for which a license tax is imposed by the terms of this section, without having first obtained a license to do so\" but provided that \u201ca licensed brewer\u2019s solicitor, whose business is confined to soliciting orders for his principal, shall not be liable for the license tax\" (emphasis added)).\n. See Perrin v. United States, 444 U.S. 37, 42, 100 S.Ct. 311, 62 L.Ed.2d 199 (1979) (looking to the ordinary meaning of a statutory term \"at the time Congress enacted the statute\u201d). Because the relevant point is what the 1929 Congress would likely have understood and meant by the statutory language it chose to set the parameters and reach of the section 29-618 prohibition, it is entirely irrelevant that these early-twentieth-century cases had a narrow focus and have been largely superseded.\n. The cases thus provide some reason for accepting appellee District of Columbia\u2019s suggestion that we should construe section 29-618 in pari materia with provisions of the Business Corporation Act (\"BCA\u201d), also codified in Title 29 of the D.C.Code (and should interpret the term \"undertake to do business in the District of Columbia\u201d to mean \"operate\" an educational facility in the District of Columbia). The District cites in particular D.C.Code \u00a7 29-101.99 (2001), which provides in its subsection (a) that a foreign corporation \"shall procure a certificate of authority from the Mayor before its transacts business in the District,\" but states in subsection (b) that foreign corporations need not obtain certificates of authority \u201cmerely ... by reason of the appointment of an agent for the solicitation of business not to be transacted in the District. ...\"\n.As the first sentence of section 29-618 indicates, District-chartered institutions are subject to the statute\u2019s name restrictions without regard to whether they otherwise \"undertake to do business\u201d in the District.\n. See also Clarke v. Sec. Indus. Ass\u2019n, 479 U.S. 388, 396-97, 107 S.Ct. 750, 93 L.Ed.2d 757 (1987) (noting that, in Ass'n of Data Processing Serv. Orgs. v. Camp, 397 U.S. 150, 90 S.Ct. 827, 25 L.Ed.2d 184 (1970), the Court \"relied on the legislative history of a much later statute, ... the Bank Service Corporation Act of 1962, in holding that [plaintiffs] satisfied the \u2018zone of interest\u2019 test\u201d under an earlier statute, the National Bank Act of 1934).\n. The Committee Report explains that the bill (S. 193) that resulted in the 1934 amendment to section 29-618 had passed the Senate in the Seventy-first and Seventy-second Congresses. See H.R.Rep. No. 1040, at 1. Thus, it reflected views held (and, possibly, gleaned) just a few years after the passage of section 29-618 by the Seventieth Congress.\n. The legislative history of section 29-618 reveals that, instead, Congress was concerned about institutions, operating with names that suggested United States government affiliation or endorsement, selling worthless correspondence degrees for which little or no academic work was required, to individuals in the United States and abroad. See S.Rep. No. 611, at 23 (Mar. 24, 1928) (\"The degrees are sold also by correspondence to persons resident abroad, and this evil had become so great that several foreign governments have made representations to our State Department on the subject. When the degree is sold to some one abroad_to an ignorant person[,] ... this diploma comes with all the insignia of the recognition and authority of the United States Government.\u201d).\n.My colleagues in the majority reason that it has \"long been plain to the District\u201d that section 29-618 \"applied to all educational institutions ... except AUD,\u201d but the examples they cite to support this proposition do nothing to prove the point. The correspondence in the record shows that National University, the subject of a 1984 opinion by the Office of Corporation Counsel, ran afoul of section 29-618 because it proposed to have a \u201cD.C. Center\u201d location. National Graduate University, the subject of a 1991 opinion by the Office of Corporation Counsel, ran into the section 29-618 prohibition because it was incorporated under District of Columbia law and also because it was offering \"seminars and continuing education courses\u201d in the District. Similarly, American University of Asia, Inc. was turned away in July 2000 by the Department of Consumer and Regulatory Affairs because it was incorporated under the D.C. Nonprofit Corporations Act. And it appears from Commission correspondence that the American Academy of Traditional Chinese Medicine and the American Institute of Business Studies likewise ran into a section 29-618 roadblock because they were incorporated under Chapter 6 of Title 29 of the D.C.Code. None of these examples shows that the District previously found \"plain\u201d that institutions similarly situated with AUD \u2014 i.e., not incorporated under District law, not holding classes in the District, and with no educational facilities here \u2014 violate section 29-618 by having \"American\u201d or \"National\u201d in their names.\n. D.C. Council, Committee on Education and Libraries Report on Bill 7-253 at 1 (June 14, 1988).\n. The Council gave the Commission this waiver authority in response to a proposal by the National University of San Diego to provide educational courses to members of the District of Columbia National Guard from educational facilities at the D.C. Armory. See D.C. Council, Committee on Government Operations Report on Bill 7-253 at 1 (May 12, 1988); D.C. Council, Committee on Education and Libraries Report on Bill 7-253 at 2.\n. Pub. Citizen v. U.S. Dep't of Justice, 491 U.S. 440, 454, 109 S.Ct. 2558, 105 L.Ed.2d 377 (1989) (citation omitted).\n. It is circular to reason merely that the Commission abused its discretion by not applying to AUD statutory standards that the statute says the Commission may (or may not) choose to apply to AUD.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "THOMPSON, Associate Judge,"
+      }
+    ],
+    "attorneys": [
+      "James C. McKay, Jr., Senior Assistant Attorney General, with whom Peter J. Niekles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appellant the District of Columbia.",
+      "Frederick D. Cooke, Jr., with whom Leslie H. Wiesenfelder, Washington, DC, was on the brief, for appellant The American University in Dubai.",
+      "Christopher T. Handman, with whom William D. Nussbaum and Liana G.T. Wolf, Washington, DC, were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "DISTRICT OF COLUMBIA and the American University in Dubai, Appellants, v. The AMERICAN UNIVERSITY, Appellee.\nNos. 08-CV-1625, 08-CV-1626.\nDistrict of Columbia Court of Appeals.\nArgued March 28, 2010.\nDecided Aug. 12, 2010.\nJames C. McKay, Jr., Senior Assistant Attorney General, with whom Peter J. Niekles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appellant the District of Columbia.\nFrederick D. Cooke, Jr., with whom Leslie H. Wiesenfelder, Washington, DC, was on the brief, for appellant The American University in Dubai.\nChristopher T. Handman, with whom William D. Nussbaum and Liana G.T. Wolf, Washington, DC, were on the brief, for appellee.\nBefore GLICKMAN, THOMPSON, and OBERLY, Associate Judges."
+  },
+  "file_name": "0175-01",
+  "first_page_order": 205,
+  "last_page_order": 228
+}

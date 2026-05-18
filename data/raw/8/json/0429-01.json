@@ -1,0 +1,301 @@
+{
+  "id": 7285584,
+  "name": "Theodore J. and Sue L. DELGAIZO, Petitioners v. COMMONWEALTH of Pennsylvania, Respondent; Frederick W. and Joan R. Vosbury, Petitioners v. Commonwealth of Pennsylvania, Respondent",
+  "name_abbreviation": "Delgaizo v. Commonwealth",
+  "decision_date": "2010-11-18",
+  "docket_number": "",
+  "first_page": "429",
+  "last_page": "434",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "704 A.2d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11869744
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/704/0205-01"
+      ]
+    },
+    {
+      "cite": "692 A.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11913187
+      ],
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/692/0289-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 37",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 85",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "513 U.S. 822",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1335877,
+        1332326,
+        1331433,
+        1331049,
+        1331949,
+        1334317,
+        1335790,
+        1335117,
+        1330607,
+        1334323,
+        1333751
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0822-02",
+        "/us/513/0822-05",
+        "/us/513/0822-07",
+        "/us/513/0822-03",
+        "/us/513/0822-08",
+        "/us/513/0822-09",
+        "/us/513/0822-04",
+        "/us/513/0822-10",
+        "/us/513/0822-11",
+        "/us/513/0822-06",
+        "/us/513/0822-01"
+      ]
+    },
+    {
+      "cite": "637 A.2d 607",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7358600,
+        1843152
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "610"
+        },
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/637/0607-01",
+        "/pa/536/0010-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 10",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843152
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "16"
+        },
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0010-01"
+      ]
+    },
+    {
+      "cite": "279 A.2d 53",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "55",
+          "parenthetical": "\"So long as a statute is constitutional, the Legislature is the sole judge of its necessity or expediency and a court cannot refuse to enforce it on any ground that it is unjust, unwise, inexpedient, obsolete or contrary to any supposed policy or custom.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "444 Pa. 38",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1938612
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "40-41",
+          "parenthetical": "\"So long as a statute is constitutional, the Legislature is the sole judge of its necessity or expediency and a court cannot refuse to enforce it on any ground that it is unjust, unwise, inexpedient, obsolete or contrary to any supposed policy or custom.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/444/0038-01"
+      ]
+    },
+    {
+      "cite": "791 S.W.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9995170
+      ],
+      "pin_cites": [
+        {
+          "page": "392"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/791/0390-01"
+      ]
+    },
+    {
+      "cite": "884 A.2d 966",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8913774
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "971"
+        },
+        {
+          "page": "971"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/884/0966-01"
+      ]
+    },
+    {
+      "cite": "507 Pa. 317",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792349
+      ],
+      "weight": 9,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "320-21"
+        },
+        {
+          "page": "1351"
+        },
+        {
+          "page": "320"
+        },
+        {
+          "page": "1351"
+        },
+        {
+          "page": "321"
+        },
+        {
+          "page": "1352"
+        },
+        {
+          "page": "321"
+        },
+        {
+          "page": "1352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0317-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 689,
+    "char_count": 15012,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 7.652755215285648e-08,
+      "percentile": 0.45183715344021985
+    },
+    "sha256": "840996f23c9f7ef1ff2e861f11dec3bd5d0c67a404c3d23754c96fa7b3e31013",
+    "simhash": "1:b2cf697c71469652",
+    "word_count": 2332
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEAVITT, Judge, and BROBSON, Judge and BUTLER, Judge."
+    ],
+    "parties": [
+      "Theodore J. and Sue L. DELGAIZO, Petitioners v. COMMONWEALTH of Pennsylvania, Respondent. Frederick W. and Joan R. Vosbury, Petitioners v. Commonwealth of Pennsylvania, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge BROBSON.\nThese consolidated petitions for review concern the assessment of Pennsylvania personal income tax for the 2004 tax year against Theodore J. and Sue L. Del-Gaizo (Mr. and Mrs. DelGaizo) and Frederick W. and Joan R. Vosbury (Mr. and Mrs. Vosbury), collectively referred to as \u201cTaxpayers.\u201d Mr. and Mrs. DelGaizo petition for review of an order of the Board of Finance and Revenue (Board), dated June 24, 2008, which upheld the Pennsylvania Department of Revenue\u2019s (Department) assessment of Pennsylvania personal income tax, plus applicable interest and penalties. Mr. and Mrs. Vosbury petition for review of an order of the Board, dated December 16, 2008, which upheld the Department\u2019s assessment of Pennsylvania personal income tax, plus applicable interest. The issue before this Court is whether Section 307.10(b) of the Tax Reform Code of 1971 (Code) violates the Uniformity Clause of the Pennsylvania Constitution or the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution.* For the reasons that follow, we affirm the decisions of the Board.\nMr. and Mrs. DelGaizo and Mr. and Mrs. Vosbury are married individuals residing in Downingtown, Pennsylvania. Mr. DelGaizo and Mr. Vosbury are both shareholders in MLEA, Inc. (MLEA), an engineering firm located in Exton, Pennsylvania. On December 28, 2001, the shareholders of MLEA, including Mr. Del-Gaizo and Mr. Vosbury, elected to treat MLEA as a Pennsylvania S-corporation for taxation purposes, effective January 1, 2002. See generally 72 P.S. \u00a7\u00a7 7307-7307.2 (regarding Pennsylvania S-corporation election). As a Pennsylvania S-corporation, MLEA was not subject to Pennsylvania corporate net income tax for the 2004 tax year; rather, MLEA\u2019s shareholders were subject to Pennsylvania personal income tax based on their pro rata share of MLEA\u2019s income. See 72 P.S. \u00a7\u00a7 7307.8-7307.9.\nFor the 2004 tax year, MLEA issued a Form PA Schedule RK-1 to Mr. Del-Gaizo and Mr. Vosbury showing a \u201cPA Taxable Business Income (Loss) from Operations\u201d of $250,986.00 and $149,949.00, respectively. (Respondent\u2019s Brief, App. A, Ex. G; App. B, Ex. G.) Instead of reporting the amounts shown on their respective 2004 Form PA Schedule RK-1, Taxpayers attempted to offset the 2004 income attributable to their respective interests in MLEA by carrying-over unuti-lized MLEA losses allegedly incurred in 2002 and 2003. Mr. and Mrs. DelGaizo reported $915.00 as their 2004 \u201cNet Income or Loss from the Operation of a Business, Profession, or Farm\u201d and $3,691.00 as their 2004 \u201cPA Tax Liability.\u201d (Respondent\u2019s Brief, App. A, Ex. D.) Mr. and Mrs. Vosbury reported $0.00 as their 2004 \u201cNet Income or Loss from the Operation of a Business, Profession, or Farm\u201d and $5,296.00 as their 2004 \u201cPA Tax Liability.\u201d (Respondent\u2019s Brief, App. B, Ex. D.)\nOn July 16, 2007, the Department issued an assessment to Mr. and Mrs. DelGaizo. The Department calculated $250,986.00 as Mr. and Mrs. DelGaizo\u2019s 2004 \u201cNet Income or Loss from the Operation of a Business, Profession, or Farm\u201d and $11,369.00 as their \u201cPA Tax Liability.\u201d (Respondent\u2019s Brief, App. A, Ex. H.) The Department also assessed an understatement penalty of $383.85, an estimated tax penalty of $200.06, and interest of $1,159.48. (Respondent\u2019s Brief, App. A, Ex. H.) Mr. and Mrs. DelGaizo appealed the assessment to the Department\u2019s Board of Appeals. Because the Board of Appeals failed to render a decision within six months, the appeal was deemed statutorily denied. See 72 P.S. \u00a7 7341. Mr. and Mrs. DelGaizo next appealed to the Board, which upheld the Department\u2019s assessment by order dated June 24, 2008.\nOn February 5, 2008, the Department issued an assessment to Mr. and Mrs. Vosbury. The Department calculated $149,949.00 as Mr. and Mrs. Vosbury\u2019s 2004 \u201cNet Income or Loss from the Operation of a Business, Profession, or Farm\u201d and $9,899.00 as their \u201cPA Tax Liability.\u201d (Respondent\u2019s Brief, App. B, Ex. H.) The Department also assessed an understatement penalty of $280.15 and interest of $895.13. (Respondent\u2019s Brief, App. B, Ex. H.) Mr. and Mrs. Vosbury appealed to the Department\u2019s Board of Appeals. The Board of Appeals abated the assessed penalties, but sustained the assessed tax and interest. Mr. and Mrs. Vosbury next appealed to the Board, which upheld the Department\u2019s assessment by order dated December 16, 2008.\nMr. and Mrs. DelGaizo petitioned this Court for review of the Board\u2019s June 24, 2008 order. Mr. and Mrs. Vosbury petitioned this Court for review of the Board\u2019s December 16, 2008 order. By order dated May 27, 2010, this Court consolidated the petitions for review.\nOn appeal, Taxpayers argue that Section 307.10(b) of the Code violates the Uniformity Clause of the Pennsylvania Constitution and the Equal Protection Clause of the United States Constitution. Specifically, Taxpayers contend that Section 307.10(b) of the Code unconstitutionally treats shareholders of Pennsylvania S-corporations differently than shareholders of Pennsylvania C-corporations by prohibiting carryover of losses by shareholders of Pennsylvania S-corporations while permitting carryover of losses by Pennsylvania C-Corporations. See 72 P.S. \u00a7 7401(3) (regarding carryover of losses by Pennsylvania C-corporations). The following excerpt from Taxpayers\u2019 brief best illustrates Taxpayers\u2019 position:\nWhen a C-corporation shareholder receives a dividend, the income is taxed to the shareholder in the year of the dividend. If the C-corporation had carryover losses from prior years, the losses (subject to time and dollar limitations) would be applied to net profits prior to calculating corporate net-profits for the year. The shareholder pays taxes on funds actually received and receives the benefits of carry-over losses where existing, because the corporation has additional funding to distribute due to the favorable tax treatment. In no case does a C-corporation shareholder pay tax on distributions that are not actually received in cash by the shareholder.\nIn the case of S-corporations, the shareholder pays tax ... whether or not a distribution is actually made. The corporate entity pays no tax but passes the entire tax burden to the shareholder. If the S-corporation shareholder can not deduct carry-over losses (as in PA), the result is that the shareholder may pay tax on nonexistent profits, profits that were not earned (due to past expenses), and distributions that were not received. Taxes on nonexistent profits are unjust and therefore can not be mandated by the Pennsylvania tax code. Furthermore, tax payment on non-existent profits is a burden only on the S-corporation shareholder, causing the non-uniform treatment of corporate shareholders.\n(Taxpayers\u2019 Brief at 10.)\nA taxpayer challenging the constitutionality of tax legislation bears a heavy burden. Leonard v. Thornburgh, 507 Pa. 317, 320-21, 489 A.2d 1349, 1351 (1985). The legislature has wide discretion in matters of taxation. Id. at 320, 489 A.2d at 1351. It is well-established that tax legislation is presumed to be constitutionally valid and will not be declared unconstitutional unless it \u201cclearly, palpably, and plainly violates the Constitution.\u201d Free Speech, LLC v. City of Philadelphia, 884 A.2d 966, 971 (Pa.Cmwlth.2005). Furthermore, \u201c[a]ny doubts regarding the constitutionality of tax legislation should be resolved in favor of upholding its constitutionality.\u201d Id.\nAlthough the Uniformity Clause and Equal Protection Clause do not require absolute equality and perfect uniformity in taxation, the legislature cannot treat similarly situated taxpayers differently. Leonard, 507 Pa. at 321, 489 A.2d at 1352. Where the validity of a tax classification is challenged, \u201cthe test is whether the classification is based upon some legitimate distinction between the classes that provides a non-arbitrary and \u2018reasonable and just\u2019 basis for the difference in treatment.\u201d Id. at 321, 489 A.2d at 1352. In other words, \u201c[w]hen there exists no legitimate distinction between the classes, and, thus, the tax scheme imposes substantially unequal tax burdens upon persons otherwise similarly situated, the tax is unconstitutional.\u201d Id.\nIn this case, Taxpayers have failed to demonstrate that Section 307.10(b) of the Code \u201cclearly, palpably, and plainly violates the Constitution.\u201d Free Speech, LLC, 884 A.2d at 971. As this Court stated in Scott Electric, \u201cS Corporations and C Corporations are not similarly situated taxpayers by virtue of the S election and the financial benefits for which S election is made.\u201d Scott Electric, 692 A.2d at 292 (citing Tool Sales, 536 Pa. at 25, 637 A.2d at 614-15). The critical difference between the two business forms is that Pennsylvania S-corporations are generally not subject to Pennsylvania corporate net income tax, whereas Pennsylvania C-corporations are. In the ease of a Pennsylvania C-corporation, income is taxed at the corporate level through the imposition of Pennsylvania corporate net income tax, and again at the shareholder level when the Pennsylvania C-corporation makes distributions to its shareholders. By contrast, income of a Pennsylvania S-corporation is passed through directly to its shareholders, who are subject to Pennsylvania personal income tax based on their distributive interest in the Pennsylvania S-corporation. Thus, due to the legitimate distinctions between Pennsylvania S-corporations and Pennsylvania C-corporations, it follows that shareholders of Pennsylvania S-corporations are not similarly situated to shareholders of Pennsylvania C-corporations.\nFurthermore, a business entity can only become a Pennsylvania S-corporation through election of its owners. Mr. DelGaizo and Mr. Vosbury, along with the remaining shareholders of MLEA, voluntarily chose to be treated as a Pennsylvania S-corporation. MLEA\u2019s shareholders could have decided to continue as a Pennsylvania C-corporation, allowing MLEA to carryover losses, but instead elected Pennsylvania S-corporation status because of the financial benefits of doing so. MLEA\u2019s shareholders \u201ccannot have the benefits of the S election without the burdens.\u201d Wolff v. Dir. of Revenue, 791 S.W.2d 390, 392 (Mo.1990). Section 307.10(b) of the Code, therefore, does not violate the Uniformity Clause or the Equal Protection Clause.\nThe question of whether it is a sound policy to prohibit shareholders of S-corporations from carrying-over losses is not one for this Court to decide. Our role is limited to determining the constitutionality of the challenged tax legislation; we may not second-guess the legislation\u2019s wisdom or the purpose of its enactment. Amidon v. Kane, 444 Pa. 38, 40-41, 279 A.2d 53, 55 (1971) (\u201cSo long as a statute is constitutional, the Legislature is the sole judge of its necessity or expediency and a court cannot refuse to enforce it on any ground that it is unjust, unwise, inexpedient, obsolete or contrary to any supposed policy or custom.\u201d) Taxpayers\u2019 claims of unfairness are more properly directed toward the General Assembly.\nAccordingly, the decisions of the Board are affirmed.\nORDER\nAND NOW, this 18th day of November, 2010, the orders of the Board of Finance and Revenue (Board), dated June 24, 2008, and December 16, 2008, are hereby AFFIRMED.\nUnless exceptions are filed within 30 days pursuant to Pa. R.A.P. 1571(i), this order shall become final.\n. Act of March 4, 1971, P.L. 6, as amended, added by the Act of December 23, 1983, P.L. 370, 72 P.S. \u00a7 7307.10(b). Section 307.10(b) of the Code provides: \"There shall be no carryover of losses by the shareholders of the Pennsylvania S corporation.\u201d\n. Pa. Const, art. VIII, \u00a7 1. The Uniformity Clause of the Pennsylvania Constitution provides: \"All taxes shall be uniform, upon the same class of subjects, within the territorial limits of the authority levying the tax, and shall be levied and collected under general laws.\u201d\n.U.S. Const, amend. XIV, \u00a7 1. The Equal Protection Clause of the United States Constitution provides: \"No State shall ... deny to any person within its jurisdiction the equal protection of the laws.\u201d\n. In matters of taxation, \u201d[t]he analysis to be applied in determining the reasonableness of classifications under the Uniformity Clause of the Pennsylvania Constitution and the Equal Protection Clause of the United States Constitution are the same.\u201d Tool Sales & Serv. Co. v. Bd. of Fin. & Revenue, 536 Pa. 10, 16, 637 A.2d 607, 610 (1993), cert. denied sub nom. Tom Mistick & Sons, Inc. v. Pennsylvania, 513 U.S. 822, 115 S.Ct. 85, 130 L.Ed.2d 37 (1994).\n. Sections 307-307.2 of the Code, Act of March 4, 1971, P.L. 6, as amended, added by the Act of December 23, 1983, P.L. 370, 72 P.S. \u00a7\u00a7 7307-7307.2.\n. Sections 307.8-307.9 of the Code, Act of March 4, 1971, P.L. 6, as amended, added by the Act of December 23, 1983, P.L. 370, 72 P.S. \u00a7\u00a7 7307.8-7307.9.\n. Pennsylvania S-corporations must file a Form PA Schedule RK-1 to report each resident shareholder\u2019s distributive share of income, losses, and credits. In turn, Form PA Schedule RK-1 directs shareholders of Pennsylvania S-corporations to enter this information on their Pennsylvania personal income tax returns.\n. Taxpayers\u2019 attempt to carryover losses from 2002 and 2003 in computing Taxpayers' 2004 Pennsylvania personal income tax is expressly prohibited by Section 307.10(b) of the Code.\n. Section 341 of the Code, Act of March 4, 1971, P.L. 6, as amended, added by the Act of August 31, 1971, P.L. 362, 72 P.S. \u00a7 7341.\n. Our standard of review in this matter is covered by Rule 1571 of the Pennsylvania Rules of Appellate Procedure. See Pa. R.A.P. 1571. \"Appeals taken from the Board of Finance and Revenue are de novo in nature, with no record being certified by the board.\u201d Tool Sales & Serv. Co. v. Bd. of Fin. & Revenue, 536 Pa. at 16, 637 A.2d at 610. \"Although the Court hears these cases under its appellate jurisdiction, the Court functions essentially as a trial court.\u201d Scott Elec. Co. v. Com., 692 A.2d 289, 291 (Pa.Cmwlth.1997), exceptions dismissed, 704 A.2d 205 (Pa.Cmwlth.1998).\n.Section 401(3) of the Code, Act of March 4, 1971, P.L. 6, as amended, 72 P.S. \u00a7 7401.\n. This distinction is particularly significant under the present scenario because carryover losses are utilized by Pennsylvania C-corporations in the computation of Pennsylvania corporate net income tax. See 72 P.S. \u00a7 7401(3).\n. Although we are not constrained to follow decisions of the Missouri Supreme Court, we find the reasoning in Wolff to be persuasive. Wolff involved a similar equal protection challenge to Missouri\u2019s corporate tax scheme.",
+        "type": "majority",
+        "author": "Judge BROBSON."
+      }
+    ],
+    "attorneys": [
+      "Theodore J. DelGaizo, Downingtown, for petitioners.",
+      "Jo Ann P. Collins, Sr. Deputy Atty. Gen., Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Theodore J. and Sue L. DELGAIZO, Petitioners v. COMMONWEALTH of Pennsylvania, Respondent. Frederick W. and Joan R. Vosbury, Petitioners v. Commonwealth of Pennsylvania, Respondent.\nCommonwealth Court of Pennsylvania.\nArgued Oct. 14, 2010.\nDecided Nov. 18, 2010.\nTheodore J. DelGaizo, Downingtown, for petitioners.\nJo Ann P. Collins, Sr. Deputy Atty. Gen., Harrisburg, for respondent.\nBEFORE: LEAVITT, Judge, and BROBSON, Judge and BUTLER, Judge."
+  },
+  "file_name": "0429-01",
+  "first_page_order": 455,
+  "last_page_order": 460
+}

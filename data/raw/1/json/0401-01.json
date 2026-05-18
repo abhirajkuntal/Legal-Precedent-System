@@ -1,0 +1,504 @@
+{
+  "id": 7286624,
+  "name": "Brenda BROWN v. Roger HABRLE",
+  "name_abbreviation": "Brown v. Habrle",
+  "decision_date": "2010-08-05",
+  "docket_number": "",
+  "first_page": "401",
+  "last_page": "408",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 A.3d 401"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "629 A.2d 1228",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7372091
+      ],
+      "pin_cites": [
+        {
+          "page": "1230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/629/1228-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 105",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11509099
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/752/0176-01"
+      ]
+    },
+    {
+      "cite": "382 F.Supp.2d 150",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        8934926
+      ],
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/382/0150-01"
+      ]
+    },
+    {
+      "cite": "526 A.2d 1390",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7928081
+      ],
+      "pin_cites": [
+        {
+          "page": "1391"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/526/1390-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 61",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11460159
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 2-3, 10"
+        },
+        {
+          "page": "998, 1000"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/748/0996-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 50",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9516979
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "1100-01"
+        },
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "1100-01"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/792/1093-01"
+      ]
+    },
+    {
+      "cite": "480 A.2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7903990
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "723-25"
+        },
+        {
+          "page": "723-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/480/0718-01"
+      ]
+    },
+    {
+      "cite": "572 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7383399
+      ],
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/572/0498-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 147",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9189847
+      ],
+      "weight": 2,
+      "year": 1602,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "636",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/861/0634-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 74",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8379882
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "\u00b6 4"
+        },
+        {
+          "page": "416"
+        },
+        {
+          "page": "\u00b6\u00b6 5-6, 9"
+        },
+        {
+          "page": "416-17",
+          "parenthetical": "concluding that the recent amendment to section 1602-C requiring that judgments state the rate of post-judgment interest does not alter the \"long-standing practice\" that a party is entitled to such interest absent a waiver thereof"
+        },
+        {
+          "page": "\u00b6\u00b6 5-6"
+        },
+        {
+          "page": "416-17"
+        },
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "417"
+        },
+        {
+          "page": "\u00b6\u00b6 10-11"
+        },
+        {
+          "page": "417-18",
+          "parenthetical": "holding that Walsh was entitled to post-judgment interest on child support arrearage, but vacating and remanding the arrearage judgment because the judgment did not state the interest rate or specify that the interest was fully or partially waived as required by section 1602-C"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/946/0414-01"
+      ]
+    },
+    {
+      "cite": "1997 ME 192",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        12013662
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "1073"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/698/1071-01"
+      ]
+    },
+    {
+      "cite": "2005 ME 58",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8982715
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 24"
+        },
+        {
+          "page": "1244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/871/1237-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 17",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8308318
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/1091-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 115",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8457659
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/908/0640-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 128",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11081538
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "837"
+        },
+        {
+          "page": "836",
+          "parenthetical": "finding court abused its discretion in waiving post-judgment interest where party had a history of nonpayment, so that \"without post-judgment interest [the other party] may not ever receive the money to which it is legally entitled\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/777/0831-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 105",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11509099
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 21"
+        },
+        {
+          "page": "181-82"
+        },
+        {
+          "page": "\u00b6\u00b6 21, 25"
+        },
+        {
+          "page": "182, 183",
+          "parenthetical": "holding that waiver of interest was proper where there had been a long delay in the enforcement action"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/752/0176-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 61",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11460159
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 9-10"
+        },
+        {
+          "page": "1000"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "1000",
+          "parenthetical": "finding waiver of interest was not an abuse of discretion considering the payee's delay of the process"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/748/0996-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 50",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9516979
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "1101"
+        },
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "1100-01",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/792/1093-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 74",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8379882
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "416-17"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/946/0414-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 845,
+    "char_count": 21045,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 6.49032862904919e-08,
+      "percentile": 0.3993051332336364
+    },
+    "sha256": "eff5a2d088c720e11acbb2b3e6d65750b4a90130fa0aea2174c3abf0ded62394",
+    "simhash": "1:9b660ded67e78e4c",
+    "word_count": 3457
+  },
+  "last_updated": "2024-02-27T22:12:33.551687+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, GORMAN, and JABAR, JJ.",
+      "Majority: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, GORMAN, and JABAR, JJ.",
+      "Concurrence: SAUFLEY, C.J., and SILVER and JABAR, JJ."
+    ],
+    "parties": [
+      "Brenda BROWN v. Roger HABRLE."
+    ],
+    "opinions": [
+      {
+        "text": "ALEXANDER, J.\n[\u00b6 1] This appeal presents the question of whether prejudgment or post-judgment interest may be awarded incident to a marital property division in a divorce action. We determine that; (1) prejudgment interest, pursuant to 14 M.R.S. \u00a7 1602-B (2009), may not be awarded incident to a marital property division in a divorce action; but (2) post-judgment interest, pursuant to 14 M.R.S. \u00a7 1602-C (2009), may be awarded from the date a party becomes obligated to make a payment of money by a final judgment in a divorce action until the date the payment obligation is satisfied. Accordingly, on the issue of prejudgment interest, we affirm. On the issue of post-judgment interest, we vacate and remand for determination of the appropriate amount of post-judgment interest that is due.\nI. CASE HISTORY\n[\u00b6 2] Roger Habrle appeals from a judgment entered in the District Court (Houlton, O\u2019Mara, J.) denying his motion to enforce that sought an order requiring Brenda Brown, Habrle\u2019s former wife, to pay Habrle prejudgment and post-judgment interest with respect to a cash payment ordered incident to the marital property division in the underlying divorce judgment.\n[\u00b6 3] This divorce action began when Brown filed a complaint for divorce on September 18, 2001. Habrle filed a counterclaim for divorce on October 12, 2001. Following extended pretrial proceedings, the parties agreed to submit the case to a referee pursuant to M.R. Civ. P. 53. After a hearing, the referee filed a report with the court in August 2005. The parties were not notified that the report was filed. When neither party made a timely objection, the District Court, pursuant to M.R. Civ. P. 53(e)(2), adopted the referee\u2019s report as the divorce judgment. That judgment was entered on September 6, 2005.\n[\u00b6 4] Habrle appealed the judgment based on the failure of notice. We vacated the judgment and remanded the case to the District Court for further proceedings. See Brown v. Habrle, 2006 ME 115, 908 A.2d 640.\n[\u00b6 5] Following remand to the District Court, Habrle filed objections to the referee\u2019s report and a hearing was held. Except for one change not relevant to this appeal, the District Court adopted the referee\u2019s report and entered the divorce judgment on February 2, 2007. The divorce judgment ordered that Brown pay Habrle $450,827 as Habrle\u2019s share of the marital property that was otherwise awarded to Brown. The divorce judgment provided:\n[Brown] is given six (6) months to comply with the requirements herein, with an extension of ninety (90) days granted only upon prudent professional financial advice that can be articulated to [Habrle].\n[\u00b6 6] Thus, Brown was given an outside limit of nine months, or until approximately November 2, 2007, within which to pay Habrle the $450,327. The judgment also ordered Brown to pay Habrle $10,000 toward the cost of appraisal fees, to be paid within thirty days of judgment. The divorce judgment did not address prejudgment or post-judgment interest.\n[\u00b6 7] Habrle appealed from the divorce judgment, and we affirmed the judgment in a decision certified on January 29, 2008. See Brown v. Habrle, 2008 ME 17, 940 A.2d 1091. The District Court received the mandate and entered final judgment on February 14, 2008. The sums due pursuant to the divorce judgment were subsequently paid to Habrle over the course of several months, with payment completed in September 2008.\n[\u00b6 8] On August 12, 2009, Habrle filed a motion to enforce, seeking payment of prejudgment and post-judgment interest on the $450,327 due for the marital property division and, apparently, the $10,000 due for a share of the appraisal cost. Brown objected to the motion, arguing that the divorce judgment did not order the payment of interest and that Habrle was not entitled to interest on the divorce judgment. The parties agreed before the trial court, and agree on appeal, that Brown paid the $460,327 due under the divorce judgment within the grace period following the February 14, 2008, date that the judgment was finally entered following our decision on the second appeal.\n[\u00b6 9] After a non-testimonial hearing, the court denied Habrle\u2019s request for prejudgment and post-judgment interest in an order dated December 3, 2009. The court concluded, as a matter of law, that prejudgment interest was not available as to a no-fault divorce judgment and that, because the judgment had been paid within the requisite grace period following resolution of the appeal, post-judgment interest was not available. Habrle appeals from that judgment.\nII. LEGAL ANALYSIS\nA. Prejudgment Interest\n[\u00b6 10] We generally review the discretionary grant of a partial or complete waiver of prejudgment interest for abuse of discretion. Profit Recovery Group, USA, Inc. v. Comm\u2019r, Dep\u2019t of Admin. & Fin. Servs., 2005 ME 58, \u00b6 24, 871 A.2d 1237, 1244. However, when the trial court declines to assess interest, not as a matter of discretion but as a matter of law, we review its order de novo. Id.; see also Osgood v. Osgood, 1997 ME 192, \u00b6 7, 698 A.2d 1071, 1073 (stating that we review the construction of the prejudgment interest statute for errors of law). Accordingly, our review of the trial court\u2019s decision here is de novo.\n[\u00b6 11] Entitlement to prejudgment interest on judgments is derived from statute. See Walsh v. Cusack, 2008 ME 74, \u00b6 4, 946 A.2d 414, 416 (discussing post-judgment interest). Title 14 M.R.S. \u00a7 1602-B (3) provides that prejudgment interest is \u201callowed,\u201d at the one-year United States Treasury bill rate plus 3%, in \u201ccivil actions\u201d other than small claims and claims involving contracts or notes, to which other rules apply. Prejudgment interest accrues:\n[F]rom the time of notice of claim setting forth under oath the cause of action, served personally or by registered or certified mail upon the defendant until the date on which an order of judgment is entered. If a notice of claim has not been given to the defendant, prejudgment interest accrues from the date on which the complaint is filed.... If the prevailing party at any time requests and obtains a continuance for a period in excess of 30 days, interest is suspended for the duration of the continuance. On petition of the nonprevailing party and on a showing of good cause, the trial court may order that interest awarded by this section be fully or partially waived.\n14 M.R.S. \u00a7 1602-B(5).\n[\u00b6 12] The prejudgment interest statute entitles the prevailing party \u201cto interest as a matter of right,\u201d Avery v. Kennebec Millwork, Inc., 2004 ME 147, \u00b6 8, 861 A.2d 634, 636 (discussing 14 M.R.S. \u00a7 1602-B in light of its predecessor statute, section 1602) (quotation marks omitted), which right is \u201cdefeasible only when the prevailing party obtains a continuance of longer than thirty days or when the nonprevailing party petitions and shows good cause that it should be waived altogether,\u201d Sawyer v. Walker, 572 A.2d 498, 499 (Me.1990) (discussing the predecessor statute to section 1602-B).\n[\u00b6 13] A divorce proceeding is a civil action. Raymond v. Raymond, 480 A.2d 718, 723-25 (Me.1984) (holding that, because divorce proceedings are civil actions resulting in an order for judgment, post-judgment interest was due under the statute on withheld alimony payments).\n[\u00b6 14] Raymond explicitly addressed post-judgment interest. The language of section 1602-B, referring to the \u201cprevailing party\u201d and \u201cnonprevailing party,\u201d makes application of the prejudgment interest statute problematic for divorce actions in which those terms, arguably, do not have the same meaning as they do in other types of civil actions. Unlike civil actions for damages or on contracts, the filing of a divorce action does not establish any right or entitlement to any property, or to a particular amount of money or debt, as the case may be. The marital estate is the property of both parties until divided by a divorce judgment. Rights or entitlements to particular property arise only after the court\u2019s entry of a final divorce judgment, here the February 2, 2007, judgment. See generally Levy, Maine Family Law \u00a7 7.1 at 7-7 (6th ed.2009) (\u201cThe distribution of property upon the termination of a marriage should be treated, as nearly as possible, like the distribution of assets incident to the dissolution of a partnership.\u201d (quoting Unif. Marriage & Divorce Act \u00a7 307, 9 U.L.A. 457 (Master ed.1973))).\n[\u00b6 15] In this case, and in most divorces, the divorce is awarded to both parties, with a division of marital property and/or debt, and in some cases orders relating to parental rights, child support or spousal support. There is no traditional prevailing party. Although the issue has not previously been presented to us directly, we recognize that usual practice in the trial courts has not awarded prejudgment interest in divorce actions, except in a few cases of preliminary orders addressing ordered but unpaid child support or spousal support. There is good reason for that practice, as discussed above.\n[\u00b6 16] Given these considerations, we hold that, as a matter of law, prejudgment interest is not available with respect to awards that accomplish the division of marital property in divorce proceedings, or that effect an agreement to share a cost such as an appraisal fee. Accordingly, we affirm the trial court\u2019s decision regarding prejudgment interest.\nB. Post-Judgment Interest\n[\u00b6 17] Title 14 M.R.S. \u00a7 1602-0(1) provides that post-judgment interest is allowed in all civil actions. Post-judgment interest\naccrues from and after the date of entry of judgment and includes the period of any appeal. In actions involving a contract or note that contains a provision relating to interest, the rate of interest is fixed as of the date of judgment. If the prevailing party at any time requests and obtains a continuance for a period in excess of 30 days, interest is suspended for the duration of the continuance. On petition of the nonprevailing party and on a showing of good cause, the trial court may order that interest awarded by this section be fully or partially waived.\n14 M.R.S. \u00a7 1602-0(2).\n[\u00b6 18] \u201c[T]he assessment of interest on a judgment is mandatory, absent an express waiver of interest for good cause by the court,\u201d even in the absence of a request for post-judgment interest. Walsh, 2008 ME 74, \u00b6\u00b6 5-6, 9, 946 A.2d at 416-17 (concluding that the recent amendment to section 1602-C requiring that judgments state the rate of post-judgment interest does not alter the \u201clong-standing practice\u201d that a party is entitled to such interest absent a waiver thereof). \u201cPost-judgment interest is an enforcement tool to ensure that, once litigants have successfully invoked the power of the courts, the award of just compensation will not be diminished by delay in payment.\u201d Carter v. Williams, 2002 ME 50, \u00b6 31, 792 A.2d 1093, 1100-01.\n[\u00b6 19] Although the post-judgment interest statute, section 1602-C, contains references to the prevailing and nonpre-vailing party, similar to the language in section 1602-B, we have long held that a party is entitled to post-judgment interest in a divorce proceeding, recognizing such entitlement for amounts due in awards of specific sums in marital property distributions, as well as for delinquent child and spousal support payments, subject to a showing of good cause to waive post-judgment interest. See, e.g., Austin v. Austin, 2000 ME 61, \u00b6\u00b6 2-3, 10, 748 A.2d 996, 998, 1000 (concluding that trial court did not abuse its discretion in declining, for good cause shown, to charge the husband with post-judgment interest with respect to the payment of the value of half of his 401(k) plan, awarded to the wife as part of the marital property distribution under the divorce judgment, because the wife failed for several months to submit the necessary QDRO to effect the transfer). The recognized, historical purpose of post-judgment interest supports this application of section 1602-C. See Carter, 2002 ME 50, \u00b6 31, 792 A.2d at 1100-01.\n[\u00b6 20] Given the plain language of the post-judgment interest statute, our prece-dential case law, and the fact that the divorce judgment did not either expressly (1) waive post-judgment interest for good cause, see Walsh, 2008 ME 74, \u00b6\u00b6 5-6, 946 A.2d at 416-17, or (2) establish an interest obligation pursuant to the court\u2019s authority under 19-A M.R.S. \u00a7 953(1) (2009) (establishing the court\u2019s authority to equitably \u201cdivide the marital property in proportions the court considers just\u201d), in lieu of awarding post-judgment interest pursuant to 14 M.R.S. \u00a7 1602-C(2), see Wormelle v. Howard, 526 A.2d 1390, 1391 (Me.1987), we conclude that Brown became a judgment debtor and became obligated to pay Habrle when the post-judgment grace period expired on or about November 2, 2007. The obligation to pay post-judgment interest began running upon the expiration of the court-ordered grace period and was not deferred during the period when the divorce judgment was being appealed. Title 14 M.R.S. \u00a7 1602-C(2) expressly states that post-judgment interest \u201caccrues from and after the date of entry of judgment and includes the period of any appeal,\u201d except for good cause shown. Thus, absent a finding of good cause, Brown was obligated to pay post-judgment interest from on or about November 2, 2007, to the date when the sums ordered in the divorce judgment were fully paid in 2008.\nThe entry is:\nJudgment regarding prejudgment interest affirmed. Judgment regarding post-judgment interest vacated. Remanded for further proceedings.\n. M.R. Civ. P. 53(e)(2) allows parties ten days after service of notice to file objections to a referee's report and then states, in pertinent part: \"If no objections have been timely filed, the court shall forthwith enter judgment on the referee\u2019s report.\u201d\n. An amended order was entered on December 22, 2009, to correct a typographical error.\n. Prejudgment interest awarded to a successful defendant on a counterclaim accrues from the date the counterclaim, not the plaintiff's complaint, is filed. Uncle Henry\u2019s, Inc. v. Plaut Consulting, Inc., 382 F.Supp.2d 150, 154 (D.Me.2005) (interpreting 14 M.R.S. \u00a7 1602-B(5) (2009)).\n. We recognized an exception to this general rule with respect to post-judgment interest on certain child support arrearage claims, which were deemed to be a \"unique area of the law.\u201d Walsh v. Cusack, 2008 ME 74, \u00b6 9, 946 A.2d 414, 417.\n. See also Walsh, 2008 ME 74, \u00b6\u00b6 10-11, 946 A.2d at 417-18 (holding that Walsh was entitled to post-judgment interest on child support arrearage, but vacating and remanding the arrearage judgment because the judgment did not state the interest rate or specify that the interest was fully or partially waived as required by section 1602-C); Tarbuck v. Jaeckel, 2000 ME 105, \u00b6 25 n. 5, 752 A.2d 176, 183 (holding that the District Court did not abuse its discretion by waiving post-judgment interest, reviewing the predecessor to section 1602-C, on child support arrearage for good cause, noting that this Court was required to assume that the court made all necessary findings to support that decision because the parties failed to file a transcript or statement in lieu thereof); Allen v. Allen, 629 A.2d 1228, 1230 (Me.1993) (discussing post-judgment interest due on child support arrearage, vacating only as to computation of such interest); Raymond v. Raymond, 480 A.2d 718, 723-26 (Me. 1984) (holding, as a mutter of law, that divorce actions are civil actions within the meaning of the post-judgment interest statute and that the wife was entitled to post-judgment interest under the statute with respect to unpaid spousal support payments ordered under a divorce judgment).\n. Because the September 2005 divorce judgment was vacated on appeal, the February 2, 2007, judgment is the relevant final judgment to trigger the post-judgment interest obligation. As the final judgment imposed a payment obligation that became absolute only after expiration of the grace period approximately nine months after the date of judgment, Brown was obligated to pay post-judgment interest on sums remaining unpaid from on or about November 2, 2007, to the date that all sums had been paid. The grace period began running when the divorce judgment was entered in February 2007 and was not deferred by the filing of this appeal.",
+        "type": "majority",
+        "author": "ALEXANDER, J."
+      },
+      {
+        "text": "SILVER, J.,\nwith whom SAUFLEY, C.J. and JABAR, J., join, concurring.\n[\u00b6 21] I concur in the Court\u2019s opinion, including its holding that the District Court erred in determining that the post-judgment interest statute was not implicated in this case. I agree that post-judgment interest can legally be assessed on the judgment amount. I write separately to emphasize that the court should, on remand, determine the issue of whether Brown has shown good cause for a waiver of that post-judgment interest.\n[\u00b6 22] Title 14 M.R.S. \u00a7 1602-C(2) (2009) provides for post-judgment interest accruing from the entry of judgment, except that \u201c[o]n petition of the nonprevail-ing party and on a showing of good cause, the trial court may order that interest awarded by this section be fully or partially waived.\u201d Brown\u2019s submissions to the court are sufficient to meet the statute\u2019s requirement of a petition for waiver. See Tarbuck v. Jaeckel, 2000 ME 105, \u00b6 21, 752 A.2d 176, 181-82 (finding arguments sufficient to raise issue of waiver of post-judgment interest, \u201c[ajlthough not well articulated or clearly presented\u201d); Austin v. Austin, 2000 ME 61, \u00b6\u00b6 9-10, 748 A.2d 996, 1000 (finding implicit petition for waiver in party\u2019s written argument to the court because it \u201cnotified both the court and the opposing party of his intention to avoid being taxed interest\u201d). However, because the trial court erroneously concluded that no post-judgment interest had been incurred, it did not reach the question of whether good cause had been shown to waive post-judgment interest. Therefore, this issue should be determined on remand.\n[\u00b6 23] A court\u2019s decision to grant or deny a waiver petition is discretionary. See Carter v. Williams, 2002 ME 50, \u00b6 31, 792 A.2d 1093, 1101. A number of facts could support a determination of good cause here. First is the fact that Habrle filed the appeal and thus caused the delay. Although appealing the judgment was an exercise of Habrle\u2019s legal rights, the court could decide that Brown should not be penalized for a delay that she did not control. Cf. Tarbuck, 2000 ME 105, \u00b6\u00b6 21, 25, 752 A.2d at 182, 183 (holding that waiver of interest was proper where there had been a long delay in the enforcement action); Austin, 2000 ME 61, \u00b6 10, 748 A.2d at 1000 (finding waiver of interest was not an abuse of discretion considering the payee\u2019s delay of the process). \u201cPost-judgment interest is an enforcement tool to ensure that, once litigants have successfully invoked the power of the courts, the award of just compensation will not be diminished by delay in payment.\u201d Carter, 2002 ME 50, \u00b6 31, 792 A.2d at 1100-01 (quotation marks omitted). Because Brown did not intentionally delay payment or avoid her responsibility to pay, \u201cthe legislative policy of providing a disincentive for delay of payment is not called into play here.\u201d A.F.A.B., Inc. v. Town of Old Orchard Beach, 2001 ME 128, \u00b6 18, 777 A.2d 831, 837 (Saufley, J., dissenting); cf. id. \u00b6 13, 777 A.2d at 836 (finding court abused its discretion in waiving post-judgment interest where party had a history of nonpayment, so that \u201cwithout post-judgment interest [the other party] may not ever receive the money to which it is legally entitled\u201d).\n[\u00b6 24] Waiver of post-judgment interest may also be supported by the fact that the delay in payment was apparently based on a misunderstanding, shared by the court, of which judgment date triggered the running of the payment period. Finally, the court may consider that post-judgment interest was not addressed in the divorce judgment, as the statute requires, see 14 M.R.S. \u00a7 1602-C(1) (2009), and therefore Brown received less notice that post-judgment interest would start to accrue than the statute contemplates. Although this Court has held that interest is mandatory absent a waiver even where a judgment fails to state the interest rate, see Walsh v. Cusack, 2008 ME 74, \u00b6 6, 946 A.2d 414, 416-17, that does not preclude considering it as a potential source of good cause to waive the interest.\n[\u00b6 25] In conclusion, I concur in the Court\u2019s decision to vacate and remand the judgment on the post-judgment interest issue, and would further hold that on remand the court should determine whether good cause exists for a waiver of that interest.",
+        "type": "concurrence",
+        "author": "SILVER, J.,"
+      }
+    ],
+    "attorneys": [
+      "Barbara A. Cardone, Esq., Bangor, ME, for Roger L. Habrle.",
+      "Richard L. Currier, Esq., Anthony A. Trask, Esq., Currier & Trask, P.A., Pres-que Isle, ME, for Brenda R. Brown."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 72\nBrenda BROWN v. Roger HABRLE.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: July 7, 2010.\nDecided: Aug. 5, 2010.\nBarbara A. Cardone, Esq., Bangor, ME, for Roger L. Habrle.\nRichard L. Currier, Esq., Anthony A. Trask, Esq., Currier & Trask, P.A., Pres-que Isle, ME, for Brenda R. Brown.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, GORMAN, and JABAR, JJ.\nMajority: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, GORMAN, and JABAR, JJ.\nConcurrence: SAUFLEY, C.J., and SILVER and JABAR, JJ."
+  },
+  "file_name": "0401-01",
+  "first_page_order": 431,
+  "last_page_order": 438
+}

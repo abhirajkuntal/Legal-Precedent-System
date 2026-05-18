@@ -1,0 +1,214 @@
+{
+  "id": 7290619,
+  "name": "Audrey J. PROCYSON, Petitioner v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent",
+  "name_abbreviation": "Procyson v. Unemployment Compensation Board of Review",
+  "decision_date": "2010-09-22",
+  "docket_number": "",
+  "first_page": "1124",
+  "last_page": "1130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 1124"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "960 A.2d 864",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8196755
+      ],
+      "pin_cites": [
+        {
+          "page": "875"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/960/0864-01"
+      ]
+    },
+    {
+      "cite": "833 A.2d 1217",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9085809
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/833/1217-01"
+      ]
+    },
+    {
+      "cite": "708 A.2d 884",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11822093
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/708/0884-01"
+      ]
+    },
+    {
+      "cite": "448 A.2d 713",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "714-715",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "368 A.2d 1384",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "776 A.2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11083257
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1021"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/776/1018-01"
+      ]
+    },
+    {
+      "cite": "687 A.2d 409",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7349825
+      ],
+      "pin_cites": [
+        {
+          "page": "412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/687/0409-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 894",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8989413
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "896"
+        },
+        {
+          "page": "896"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/892/0894-01"
+      ]
+    },
+    {
+      "cite": "776 A.2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11083257
+      ],
+      "pin_cites": [
+        {
+          "page": "1021"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/776/1018-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 710,
+    "char_count": 17510,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 8.375049770086047e-08,
+      "percentile": 0.48182075480076253
+    },
+    "sha256": "19b5a9c30765c5ebdb2a819e717cc983477ec4777c55352da7df94438391b231",
+    "simhash": "1:4463a9ac009c247e",
+    "word_count": 2786
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: COHN JUBELIRER, Judge, and LEAVITT, Judge, and FRIEDMAN, Senior Judge."
+    ],
+    "parties": [
+      "Audrey J. PROCYSON, Petitioner v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge LEAVITT.\nAudrey Procyson (Claimant) petitions for review of an adjudication of the Unemployment Compensation Board of Review (Board) denying her claim for unemployment compensation benefits. In doing so, the Board agreed with the Referee that Claimant was not eligible for benefits under Section 402(b) of the Unemployment Compensation Law (Law) because she voluntarily left her job without a necessitous and compelling reason. In this appeal, we consider whether the Board erred in concluding that Claimant\u2019s sudden departure from work after an upsetting conversation with her supervisor constituted a voluntary quit.\nClaimant was employed by Jonico, Inc. (Employer) as a pharmacy technician beginning in November 2007, and her last day of work was January 9, 2009. Claimant applied for unemployment compensation benefits, and the Altoona UC Service Center denied the application. It found that Claimant had voluntarily quit her job and, thus, was ineligible for benefits.\nClaimant appealed, and a hearing was held before the Referee at which Claimant appeared and gave testimony. Employer also appeared and presented testimony from its president, Jonathan Jacobs, and Claimant\u2019s coworker, Michele Ralston.\nClaimant testified that she worked full-time for Employer from November 2007 until November 2008, when she was injured in a biking accident, which caused her to miss five weeks of work. She then returned part-time, working ten to thirteen hours a week, with medical restrictions. During Claimant\u2019s absence and reduced hours, the general manager, Aimee Jacobs, hired her brother to fill in for Claimant. In early January 2009, Claimant\u2019s doctor approved her return to full-time work. While at work on Friday, January 9, 2009, Claimant telephoned Aimee Jacobs and requested a return to a full-time work schedule. Jacobs responded that she would have to talk to the pharmacist, Michele Ralston, and to Employer\u2019s president, Jonathan Jacobs, about Claimant\u2019s return to full-time employment. Jacobs then told Claimant that both she and Michele Ralston agreed that Jacobs\u2019 brother was able to do the job faster than Claimant.\nClaimant became very upset and started to cry. She then gathered her things; called Ralston two-faced; and left. Claimant testified that Ralston followed Claimant through the building and out into the parking lot, imploring \u201cdon\u2019t leave like this.\u201d Notes of Testimony, May 20, 2009, at 9. Claimant shouted back \u201cno, leave me alone\u201d and left. Id.\nClaimant acknowledged that she walked out without completing her shift, but denied that she had quit. She explained that she went home because she did not want the customers to see her upset and crying. Claimant testified that she loved her job and would never quit.\nClaimant reported for her next scheduled shift on Tuesday, January 13th. Upon doing so, Claimant was called to the office of the president, Jonathan Jacobs. According to Claimant, the president accused her, in what she called a loud voice, of yelling and screaming in the store the previous Friday. He then told Claimant that she was fired, should leave and never come back.\nRalston testified on behalf of Employer. She saw Claimant become upset after her telephone conversation with Aimee Jacobs on January 9th. Ralston followed Claimant to the parking lot in an effort to persuade her not to leave. Because Claimant did not call or return to work later that day, Ralston assumed she had quit. However, Ralston acknowledged that Claimant never said she was quitting.\nJonathan Jacobs testified that he did not fire Claimant. As far as he was concerned, Claimant abandoned her position when she walked out on Friday, January 9th, without explaining her intentions. When Jacobs did not hear from Claimant, he changed the schedule on Sunday, January 11th to strike Claimant from the work schedule. When Claimant returned to work on January 13th, he told her to leave.\nThe Referee determined that Claimant was ineligible for benefits under Section 402(b) of the Law because she had abandoned her position and did not take reasonable steps to preserve her employment. The Referee found the conversation between Claimant and Jonathan Jacobs on January 13th to be immaterial, because Claimant had already quit when it took place.\nClaimant appealed to the Board, which made its own findings. The Board found that Claimant voluntarily terminated her employment on January 9, 2009, by her conduct, i. e., by walking out of work and giving Employer no \u201cinkling that she intended to return.\u201d Board\u2019s Decision at 2; Finding of Fact 8. The Board rejected, as not credible, Claimant\u2019s testimony that she intended to return to work. The Board determined that Claimant walked out of work because she became upset at Aimee Jacobs\u2019 comments about Claimant\u2019s job performance, which is not a necessitous and compelling reason to quit. Based on the foregoing, the Board denied Claimant benefits. It also determined that Claimant had received a non-fault overpayment of benefits. Claimant now petitions this Court for review.\nOn appeal, Claimant argues that the Board erred in concluding, based on the evidence, that she quit her job. The law requires evidence of a conscious intention to abandon a job, but Claimant never expressed such a conscious intention. Claimant points out that the fact that a claimant leaves work before the end of a shift does not, in itself, establish an intent to quit. Iaconelli v. Unemployment Compensation Board of Review, 892 A.2d 894, 896 (Pa.Cmwlth.2006). Claimant argues that the real reason for her separation from employment was the action of the president, Jonathan Jacobs, who told her to leave when she reported for her next scheduled work day on January 13th.\nWhether the claimant\u2019s separation from employment is the result of a voluntary resignation is a question of law subject to our review and must be determined from the facts of the individual case. Key v. Unemployment Compensation Board of Review, 687 A.2d 409, 412 (Pa. Cmwlth.1996). A voluntary quit requires a finding that the claimant had a conscious intention to leave employment. Fekos Enterprises v. Unemployment Compensation Board of Review, 776 A.2d 1018, 1021 (Pa. Cmwlth.2001). In determining the claimant\u2019s intent, this Court must consider \u201cthe totality of the circumstances surrounding the incident.\u201d Id.\nThis Court has specifically addressed the question of whether a claimant who abruptly leaves work without permission has manifested an intention to quit. We have explained that\nan employee who is absent from work without authorization and without taking steps to preserve the relationship by telling the employer if and when he may return may be held to have voluntarily quit. Unemployment Compensation Board of Review v. Metzer [Metzger], 28 Pa.Commonwealth Ct. [Pa.Cmwlth.] 571, 368 A.2d 1384 (1977). However, the majority of these disputes have resulted from either unreasonable or inordinately long absence periods.\nRyan v. Unemployment Compensation Board of Review, 68 Pa.Cmwlth. 207, 448 A.2d 713, 714-715 (1982) (emphasis in original). An employee who abruptly leaves work has\na reasonable period of time in which [the] employee has the opportunity to manifest an intent to quit and the employer has the opportunity to contact the employee or vice-versa.\nIaconelli, 892 A.2d at 896 (citing Ryan, 68 Pa.Cmwlth. 207, 448 A.2d 713). In other words, leaving the workplace in high dudgeon before the end of a shift does not, in itself, manifest an intention to quit.\nIn Ryan, the claimant took her handbag and left work during her shift after having an argument with her parents, who employed her. Several hours later, her father called her and told her not to return to work. While noting that the evidence concerning the claimant\u2019s intention to return to work was conflicting, this Court held that the evidence nevertheless did not support a conclusion that she quit; rather, she was discharged by her father.\nThe Board argues that Claimant\u2019s abrupt departure on January 9th, coupled with her failure to contact Employer over the next three days, before her next scheduled shift, demonstrated an intention to quit. In support, the Board relies on Iaco-nelli.\nIaconelli concerned a claimant who became angry and upset because she believed her employer was accusing her of theft. She left work before the end of her shift and never again returned to work or spoke to her employer. The claimant applied for unemployment compensation benefits, asserting that her employer had discharged her by, inter alia, changing the locks the day she left. We concluded that the claimant had voluntarily quit, not because she left work before the end of her shift, but because she never contacted her employer before applying for unemployment compensation. This failure to take any steps to preserve her employment relationship rendered her ineligible for benefits. Id. at 897.\nThe Board\u2019s reliance on Iaconelli is misplaced. The only similarity between that case and the present controversy is that both claimants became upset and walked out before the end of their work day. However, unlike the claimant in Iaconelli, who never contacted her employer again, Claimant reported for work at her next scheduled shift. When she did so, she was told by Employer to leave.\nThe totality of the circumstances does not support the Board\u2019s conclusion that Claimant voluntarily terminated her employment. Claimant was hoping to return to work full-time when the altercation developed at work. She never said \u201cI quit.\u201d Although she abruptly left work without completing her shift, Ryan established that such conduct does not, in itself, manifest a conscious intention to quit. Claimant was a part-time employee who worked only ten to thirteen hours a week. She left work on Friday and returned on Tuesday, at her next shift. This is not an \u201cinordinately long absence.\u201d Ryan, 448 A.2d at 715. It is not reasonable to infer that by not calling Employer on her days off, Claimant expressed an intention to quit. Indeed, Employer had the \u201copportunity to contact the employee,\u201d Iaconelli, 892 A.2d at 896, but chose, instead, to drop Claimant from the Tuesday schedule without calling her. By reporting to work at her next shift, Claimant acted to preserve the employment relationship.\nFor these reasons, we reverse the decision of the Board and remand for the computation of benefits that are due Claimant.\nORDER\nAND NOW, this 22nd day of September, 2010, the order of the Unemployment Compensation Board of Review in the above-captioned matter, dated August 12, 2009, is hereby REVERSED and the matter is remanded to the Board for a computation of benefits.\nJurisdiction relinquished.\n. Section 402(b) of the Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. \u00a7 802(b), provides in relevant part:\nAn employe shall be ineligible for compensation for any week\u2014\n* * *\n(b) In which his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature ....\n43 P.S. \u00a7 802(b).\n. Employer also presented testimony from another co-worker, Steve Digruttolo, but it was not relevant to this appeal and, thus, is not discussed.\n. It is not clear from the record what \u201cthings\u201d Claimant took with her when she left, i.e., whether she merely took her purse or whether she cleared out her work area. This point was not developed at the hearing or relied upon by the Board; it is, therefore, immaterial.\n. Our scope of review is limited to determining whether constitutional rights have been violated, errors of law were committed, or whether findings of fact are supported by substantial evidence. Sheets v. Unemployment Compensation Board of Review, 708 A.2d 884, 885 n. 3 (Pa.Cmwlth. 1998). Substantial evidence has been defined as such relevant evidence as a reasonable mind might accept as adequate to support a conclusion. Korpics v. Unemployment Compensation Board of Review, 833 A.2d 1217, 1219 n. 1 (Pa.Cmwlth. 2003).\n. The dissent correctly points out that the Board did not make a finding that Claimant reported for work at her next scheduled shift on Tuesday, January 13th. However, the Board\u2019s omission of this factual finding is of no moment. It is undisputed that Claimant was reporting for work when she came to the pharmacy on the 13th. All of Employer's witnesses testified that Claimant reported for work, and even Employer\u2019s president testified that Claimant was \"punching in\u201d when he directed her to leave. Notes of Testimony, May 20, 2009, at 26. The only inference to be drawn from the evidence is that Claimant returned to the pharmacy to work. Therefore, remanding to the Board would be fruitless; the Board would be required by Employer's own evidence to find that Claimant returned for her next scheduled work shift.\n. The Board stated that it did \u201cnot find the claimant's testimony credible that she intended to return to work.\u2019\u2019 Board Adjudication, Discussion at 2. The dissent finds this credibility determination dispositive, but it is actually immaterial because Claimant did return to work at her next shift. In any case, a negative credibility finding is not substantial evidence that can be used to support a factual finding. Yi v. State Board of Veterinary Medicine, 960 A.2d 864, 875 (Pa.Cmwlth.2008).\nThe dissent also suggests that Claimant filed for unemployment compensation before she returned to work on January 13, 2009. The Board found that she applied for benefits effective January 11, 2009, which is a Sunday. It appears that the date of January 11, 2009, merely identifies the week benefits were to commence. The Board did not make a finding about the date Claimant submitted an application. Employer initially cited lack of work as the reason for Claimant's separation, and she collected benefits for two months. Thus, Claimant was entitled to compensation for her reduced hours effective the week of January 11, 2009.\n. The issue of whether Claimant was fired on January 13, 2009, for willful misconduct is not before us. Neither the Referee nor the Board considered the issue and Employer denies that it fired Claimant. Its position all along has been that Claimant voluntarily quit.",
+        "type": "majority",
+        "author": "Judge LEAVITT."
+      },
+      {
+        "text": "DISSENTING OPINION BY\nJudge COHN JUBELIRER.\nBecause I would affirm the Unemployment Compensation Board of Review\u2019s (Board) order denying Audrey J. Procyson (Claimant) unemployment compensation benefits, I must respectfully dissent. The majority opinion is correct that, in determining whether an employee voluntarily leaves his or her employment, the totality of the circumstances surrounding the incident must be reviewed. Procyson v. Unemployment Compensation Board of Review, 4 A.3d 1124, 1127 (Pa.Cmwlth.2010) (quoting Fekos Enterprises v. Unemployment Compensation Board of Review, 776 A.2d 1018, 1021 (Pa.Cmwlth.2001)). However, I believe that the Board properly concluded that, based on the record and its credibility determinations, the totality of the circumstances here demonstrated Claimant\u2019s conscious intention to voluntarily quit her employment with Jonico, Inc. (Employer) when she left work on January 9, 2009, despite Claimant\u2019s return to Employer\u2019s pharmacy at her next scheduled shift. Those circumstances included: (1) Claimant gathering her \u201cstuff\u2019 and abruptly leaving Employer\u2019s pharmacy and premises shortly after being told that she may not be able to return to full-time work; (2) Claimant calling Employer\u2019s pharmacist \u201ctwo-faced\u201d; (8) the pharmacist asking Claimant not to leave and to call Employer\u2019s general manager about her work schedule, which Claimant ignored; (4) the pharmacist testifying and Claimant admitting that Claimant yelled across Employer\u2019s pharmacy on Claimant\u2019s last day; (5) Claimant failing to advise the pharmacist if she would be returning to work; and (6) Claimant filing for benefits effective January 11, 2009, the Monday before Claimant\u2019s next scheduled work shift. (Board Op. Findings of Fact (FOF) \u00b6\u00b6 5-8, 11; Referee Hr\u2019g Tr. at 9, 20.)\nFurthermore, I note that the Board made no finding of fact that \u201cClaimant reported for work at her next scheduled shift.\u201d Procyson, 4 A.3d at 1128. The lack of this finding, and the fact that the Board did not find Claimant credible regarding her intent to return to work, leads to the inference that the Board did not think that Claimant was actually returning to the pharmacy to work on January 13th. With regard to Claimant\u2019s filing for benefits effective January 11, 2009, the majority states that \u201cClaimant was entitled to compensation for her reduced hours effective the week of January 11, 2009.\u201d Id. at 1128 n. 5. However, the Board found that Employer\u2019s general manager expressed the general manager\u2019s need to speak with Employer\u2019s president and the pharmacist before changing Claimant\u2019s work schedule and increasing Claimant\u2019s hours. (FOF \u00b6 3.) Thus, there is no finding by the Board that Claimant\u2019s request for full-time hours was actually denied on the Friday before the effective date of Claimant\u2019s application for benefits. For these reasons, I would affirm the Board.",
+        "type": "dissent",
+        "author": "Judge COHN JUBELIRER."
+      }
+    ],
+    "attorneys": [
+      "Dennis N. Persin, Greensburg, for petitioner.",
+      "Janet M. Taray, Asst. Counsel and Gerard M. Mackarevich, Deputy Chief Counsel, Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Audrey J. PROCYSON, Petitioner v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs Jan. 29, 2010.\nDecided Sept. 22, 2010.\nDennis N. Persin, Greensburg, for petitioner.\nJanet M. Taray, Asst. Counsel and Gerard M. Mackarevich, Deputy Chief Counsel, Harrisburg, for respondent.\nBEFORE: COHN JUBELIRER, Judge, and LEAVITT, Judge, and FRIEDMAN, Senior Judge."
+  },
+  "file_name": "1124-01",
+  "first_page_order": 1186,
+  "last_page_order": 1192
+}

@@ -1,0 +1,108 @@
+{
+  "id": 7284865,
+  "name": "STATE of Maine v. David VAUGHAN",
+  "name_abbreviation": "State v. Vaughan",
+  "decision_date": "2010-11-30",
+  "docket_number": "",
+  "first_page": "500",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 500"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 122"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "276 Va. 689",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        12642158
+      ],
+      "weight": 4,
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/se2d/668/0141-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 63",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7296984
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "934"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/974/0930-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 213,
+    "char_count": 2848,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18826869829090423
+    },
+    "sha256": "1287b5db11f72795a26c747017bde0a6a01127a5aba737a9ee64dc104482a9aa",
+    "simhash": "1:7c4ff872568b3ef3",
+    "word_count": 477
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. David VAUGHAN."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\n[\u00b6 1] David Vaughan appeals from a judgment of conviction for operating under the influence (Class D), 29-A M.R.S. \u00a7 2411(1-A)(A) (2008) entered in the Unified Criminal Docket (Cumberland County, Warren, J.) on his conditional guilty plea pursuant to U.C.D.R.P.-Cumberland County 11(a)(2).\n[\u00b6 2] In 2007, Vaughan pleaded not guilty to operating under the influence (Class D), 29-A M.R.S. \u00a7 2411(1-A)(A), and violation of a condition of release (Class E), 15 M.R.S. \u00a7 1092(1)(A) (2009). We vacated the grant of Vaughan\u2019s subsequent motion to suppress in State v. Vaughan (Vaughan I), 2009 ME 63, \u00b6 14, 974 A.2d 930, 934, for reasons we need not reiterate here. On remand, with the agreement of the State and the approval of the court, Vaughan entered a conditional guilty plea for operating under the influence (Class D), 29-A M.R.S. 2411(1-A)(A), in exchange for the State\u2019s dismissal of the violation of a condition of release charge. The court sentenced Vaughan to a $750 f\u00edne and a ninety-day license suspension. Vaughan now appeals a second time.\n[\u00b6 3] We do not address the substance of Vaughan\u2019s contentions because his conditional plea was entered in violation of U.C.D.R.P.-Cumberland County 11(a)(2), and Vaughan\u2019s appeal is therefore not properly before us. Rule 11(a)(2), pursuant to which Vaughan purported to enter his conditional plea, expressly preserves for appellate review only a \u201cpretrial motion and the ruling thereon.\u201d U.C.D.R.P.Cumberland County 11(a)(2). In this appeal, however, Vaughan does not seek review of a pretrial ruling by the trial court; he is attempting to secure a second appellate review of the issues we decided in Vaughan I. In these circumstances, notwithstanding the agreement of the State and the approval of the court, a conditional plea was not a procedural mechanism available to Vaughan. We vacate the entry of Vaughan\u2019s conditional plea and remand the case to the trial court.\nThe entry is:\nJudgment vacated and remanded for further proceedings consistent with this opinion.\n. Section 2411(1\u2014A)(A) has since been amended. P.L.2009, ch. 447, \u00a7 37 (effective Sept. 12, 2009).\n. Vaughan seeks this appeal \"in light of the decision in Virginia v. Harris,\u201d 276 Va. 689, 668 S.E.2d 141 (2008). We note that Harris v. Virginia, 276 Va. 689, 668 S.E.2d 141 (2008), is a Virginia Supreme Court decision, and therefore not binding, and was issued in 2008, well prior to our decision in Vaughan I.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Stephanie Anderson, Dist. Atty., William J. Barry, ADA, Portland, ME, for State.",
+      "Michael B. Whipple, Esq., Molly Butler Bailey, Esq., The Hallett Law Firm, Portland, ME, for David Vaughan."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 122\nSTATE of Maine v. David VAUGHAN.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Nov. 17, 2010.\nDecided: Nov. 30, 2010.\nStephanie Anderson, Dist. Atty., William J. Barry, ADA, Portland, ME, for State.\nMichael B. Whipple, Esq., Molly Butler Bailey, Esq., The Hallett Law Firm, Portland, ME, for David Vaughan.\nPanel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0500-01",
+  "first_page_order": 522,
+  "last_page_order": 523
+}

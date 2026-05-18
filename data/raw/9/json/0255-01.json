@@ -1,0 +1,477 @@
+{
+  "id": 7283510,
+  "name": "UPPER GWYNEDD TOWAMENCIN MUNICIPAL AUTHORITY, Petitioner v. DEPARTMENT OF ENVIRONMENTAL PROTECTION, Respondent; Lower Salford Township Authority, Petitioner v. Department of Environmental Protection, Respondent",
+  "name_abbreviation": "Upper Gwynedd Towamencin Municipal Authority v. Department of Environmental Protection",
+  "decision_date": "2010-11-30",
+  "docket_number": "",
+  "first_page": "255",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "928 A.2d 990",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3248573,
+        8357375
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "997"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0146-01",
+        "/a2d/928/0990-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 146",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3248573
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0146-01"
+      ]
+    },
+    {
+      "cite": "972 A.2d 53",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294232
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "57-8"
+        },
+        {
+          "page": "58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/972/0053-01"
+      ]
+    },
+    {
+      "cite": "297 F.3d 877",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11451996
+      ],
+      "pin_cites": [
+        {
+          "page": "880-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/297/0877-01"
+      ]
+    },
+    {
+      "cite": "411 F.3d 1103",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8956866
+      ],
+      "pin_cites": [
+        {
+          "page": "1106-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/411/1103-01"
+      ]
+    },
+    {
+      "cite": "200 A. 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "37-38"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1184381
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "122-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/331/0117-01"
+      ]
+    },
+    {
+      "cite": "100 A.2d 595",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "598",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "375 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1244402
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "394-95",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/375/0390-01"
+      ]
+    },
+    {
+      "cite": "870 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        650353,
+        9019627
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0234-01",
+        "/a2d/870/0838-01"
+      ]
+    },
+    {
+      "cite": "582 Pa. 234",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        650353
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0234-01"
+      ]
+    },
+    {
+      "cite": "664 A.2d 1326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470752,
+        470754,
+        7878907,
+        7878764
+      ],
+      "pin_cites": [
+        {
+          "page": "1331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0564-01",
+        "/pa/541/0563-01",
+        "/a2d/664/1326-02",
+        "/a2d/664/1326-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 564",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470752
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0564-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 759",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196642,
+        4196457,
+        7292874,
+        7292782,
+        7292752,
+        4197048
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0491-01",
+        "/pa/604/0492-01",
+        "/a2d/986/0759-03",
+        "/a2d/986/0759-02",
+        "/a2d/986/0759-01",
+        "/pa/604/0493-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 493",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197048
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0493-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 680",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6198775
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "720-21"
+        },
+        {
+          "page": "721"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0680-01"
+      ]
+    },
+    {
+      "cite": "946 F.2d 717",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10523854
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/946/0717-01"
+      ]
+    },
+    {
+      "cite": "482 U.S. 755",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220396
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "760-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/482/0755-01"
+      ]
+    },
+    {
+      "cite": "532 U.S. 598",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9301812
+      ],
+      "weight": 8,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "633"
+        },
+        {
+          "page": "627"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/532/0598-01"
+      ]
+    },
+    {
+      "cite": "569 A.2d 422",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1399192
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/131/0077-01"
+      ]
+    },
+    {
+      "cite": "659 A.2d 1055",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7881492
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1065"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/659/1055-01"
+      ]
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 1313",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        },
+        {
+          "parenthetical": "Emphasis added."
+        },
+        {
+          "page": "(c)(2)(A)"
+        },
+        {
+          "page": "(d)(1)(C)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1449,
+    "char_count": 45334,
+    "ocr_confidence": 0.707,
+    "pagerank": {
+      "raw": 1.6662563103742997e-07,
+      "percentile": 0.6952235439209004
+    },
+    "sha256": "c24cd683be3163103cc4632c4e75943bf34c960689e9d0ed0e9eb87278e2c831",
+    "simhash": "1:3386e184a45c73e1",
+    "word_count": 7293
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "UPPER GWYNEDD TOWAMENCIN MUNICIPAL AUTHORITY, Petitioner v. DEPARTMENT OF ENVIRONMENTAL PROTECTION, Respondent. Lower Salford Township Authority, Petitioner v. Department of Environmental Protection, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge BROBSON.\nIn these consolidated petitions for review, petitioners Upper Gwynedd Towam-encin Municipal Authority (UG) and Lower Salford Township Authority (LS) (collectively, where appropriate, \u201cthe Authorities\u201d) challenge orders of the Environmental Hearing Board (EHB) relating to the Authorities\u2019 applications for recovery of attorneys\u2019 fees and costs (fee applications) from the Department of Environmental Protection (DEP). EHB (1) denied the Authorities\u2019 fee applications under Section 307(b) of the Clean Streams Law (Law), and (2) denied the Authorities\u2019 request for reconsideration of EHB\u2019s order denying their fee applications.\nI. BACKGROUND\nA. Statutory Background\nThis matter arises under Section 303(d) of the federal Clean Water Act (Act), 33 U.S.C. \u00a7 1313(d), which provides in pertinent part:\n(d) Identification of areas with insufficient controls; maximum daily load; certain effluvient limitations revision.\n(1)(A) Each State shall identify those waters within its boundaries for which the effluent limitations required by section 301(b)(1)(A) and section 301(b)(1)(B) are not stringent enough to implement any water quality standard applicable to such waters ...\n(C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection, and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 304(a)(2) as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality....\n(2) Each State shall submit to the Administrator from time to time, with the first such submission not later than one hundred and eighty days after the date of publication of the first identification of pollutants under section 304(a)(2)(D), for his approval the waters identified and the loads established under paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) of this subsection. The Administrator shall either approve or disapprove such identification and load not later than thirty days after the date of submission. If the Administrator approves such identification and load, such State shall incorporate them into its current plan under subsection (e) of this section. If the Administrator disapproves such identification and load, he shall not later than thirty days after the date of such disapproval identify such waters in such State and establish such loads for such waters as he determines necessary to implement the water quality standards applicable to such waters and upon such identification and establishment the State shall incorporate them into its current plan under subsection (e) of this section.\n(Emphasis added.)\nThus, the Act vests with each state numerous responsibilities, including the establishment of water quality standards for bodies of water within the boundaries of the state. The Act requires states first to evaluate the use of a body of water. Based upon the particular use of a body of water, such as recreation or consumption, the state must then determine the water quality standards the body of water must meet in order to serve the designated use. Part of the evaluation of these standards involves determining the maximum amount of various pollutants the body of water may contain before its designated use is impaired. The amount of permitted effluents is referred to as \u201ctotal maximum daily load\u201d or TMDLs.\nSection 303(d) of the Act, which is at issue in this case, requires states to perform two key functions: (1) to create a list of bodies of water within a state that do not meet established water quality standards\u2014a \u201c303(d) list,\u201d which the Environmental Protection Agency (EPA) may approve or disapprove; and (2) to establish, for each body of water on its 303(d) list, TMDLs. As with the 303(d) list, EPA has the power to approve or disapprove a state-established TMDL for a particular body of water. Under Section 303(d) of the Act, EPA must establish a TMDL if it disapproves a state-established TMDL.\nB. Historical Background Regarding Pennsylvania\u2019s Compliance with the Requirements of Section 303(d) of the Act\nIn January 1996, the American Littoral Society and the Public Interest Research Group of Pennsylvania filed a complaint in the United States District Court for the Eastern District of Pennsylvania. (See Consent Decree; Lower Salford Township Authority Reproduced Record (L.S.R.R.) at 295a-331a.) The lawsuit sought to challenge the alleged failure of EPA to comply with its responsibilities under Section 303(d) of the Act. (Id.)\nThe parties in that case reached an agreement, the terms of which were incorporated into a Consent Decree. (Id.) The Consent Decree set forth a process by which EPA could ensure compliance with the Act\u2019s directive for the identification of bodies of water for placement on the 303(d) list and the establishment of TMDLs for those water ways. (Id.) The Consent Decree appears to provide broad power to EPA to establish TMDLs when a state has been unable to or is incapable of establishing TMDLs. (Id.)\nIn 1997, as a means of complying with its responsibilities under the Consent Decree with regard to Pennsylvania, EPA entered into a Memorandum of Understanding (MOU) with DEP. (L.S.R.R. at 507a-512a.) The MOU acknowledged that DEP has lead responsibility under Section 303(d) of the Act to identify bodies of water to be placed on the 303(d) list and to establish TMDLs. (L.S.R.R. at 508a, Preamble to MOU.) The MOU also provides that \u201cDEP, subject to available resources, will use its best efforts to work with EPA to establish required TMDLs for [bodies of water on the list] within ten years of the execution [of the MOU].\u201d (L.S.R.R. at 509a; MOU, Section IV(C).) Further, the MOU provides that \u201cDEP\u2019s performance of Section IV(C) is contingent on EPA providing DEP the necessary assistance to enable DEP to become technically proficient ... to prepare TMDLs.\u201d (L.S.R.R. at 509a; MOU, Section IV(E).) Section IV(F) of the MOU is also significant in that it provides that \u201c[a]t the request of EPA, DEP will share any existing and readily available water quality related data with EPA to assist EPA in establishing TMDLs for [303(d) water ways].\u201d Id. (Emphasis added.) These provisions of the MOU demonstrate that, although EPA and DEP understood the primary roles the Act vests with states, DEP and EPA anticipated that circumstances might warrant EPA\u2019s assuming the primary responsibility for establishing TMDLs.\nC. The Issuance of the TMDLs for Skippack Creek\nA document identified as \u201cTotal Maximum Daily Load for Skippack Creek\u201d (hereafter EPA TMDL Document) indicates that the TMDLs set forth in the document were \u201cestablished April 8, 2005.\u201d (L.S.R.R. at 2a-219a.) The EPA TMDL Document, generated by EPA, is signed on the front page by Jon Capacasa, as Director of the Water Protection Division of EPA, Region III. (L.S.R.R. 2a.) The EPA TMDL Document includes sections identifying problems, assessment of sources of pollutants, sediment TMDL development, and nutrient TMDL development for Skippack Creek. The EPA TMDL Document also refers to and includes a report generated by Hunter J. Carrick, Ph.D., suggesting certain limits on phosphorous for the Skippack Creek and the consequences of such limits on algal and nuisance growth. The report indicates that Dr. Carrick submitted the report to DEP on December 11, 2004. (EPA TMDL Document, Appendix D-6.; U.G.R.R. at 234a.)\nD. Procedural Background\nFollowing the issuance of the EPA TMDL Document, the Authorities filed an appeal with EHB, naming DEP as respondent and challenging the TMDLs in the EPA TMDL Document. (L.S.R.R. at 267a-291a; U.G.R.R. at 299a-323a.) The Authorities made various averments in their appeals, including a reference to public hearings that \u201cwere held\u201d in February 2005. UG averred that \u201c[DEP] received timely comments from various members of the public\u201d in response to draft TMDLs for Skippack Creek. (U.G.R.R. at 304a.) We note, however, that the EPA TMDL Document provides:\nEPA regulations require that the public must be allowed 30 days to review and comment prior to establishing a TMDL,\u201d and that \u201c[a] public meeting was conducted on February 16, 2005 ... at the Skippack Township Building. During the meeting EPA presented details and answered questions regarding the proposed ... TMDLs. Based on the inputs from interested parties and the general public on the proposed TMDL document, EPA has addressed all comments and revised the TMDL report.\n(EPA TMDL Document; U.G.R.R. at 218a; emphasis added.)\nThe Authorities\u2019 appeals also included averments relating to EHB\u2019s purported jurisdiction, stating that EHB has jurisdiction over DEP \u201cactions,\u201d and that, although the establishment of TMDLs bore characteristics of both a regulation and administrative \u201caction,\u201d the establishment of TMDLs affected the Authorities\u2019 property rights and thereby provided EHB with jurisdiction over the appeal. (L.S.R.R. at 273a.) In fact, the Authorities claimed that, according to DEP, a party could not wait to challenge the methodology used to develop TMDLs in the course of a National Pollution Discharge Elimination System (NPDES) permit proceeding. (L.S.R.R. at 274a.) Consequently, the Authorities argued that the only opportunity to challenge TMDLs (which would govern NPDES permit applications) is an immediate appeal from the decision establishing the TMDLs. (L.S.R.R. at 274a; U.G.R.R. at 306a.) The Authorities did not indicate whether EPA\u2019s final approval authority under Section 303(d) of the Act has any bearing on their position.\nThe Authorities averred that, despite the existence of the EPA TMDL Document, DEP, not EPA, actually established the TMDLs for Skippack Creek. (L.S.R.R. at 274a.) In making this claim, the Authorities pleaded facts indicating that the EPA TMDL Document described or established DEP\u2019s participatory role. Specifically, DEP employees were involved with the development of the TMDLs, DEP collected data (including information from a DEP \u201cNutrient Database\u201d) incorporated into the TMDL, and DEP made decisions regarding certain aspects of the development process such as sampling locations and TMDL \u201cendpoints\u201d and the \u201cQUAL2K Model\u201d used for nutrient TMDLs. Moreover, DEP\u2019s assessment of algal growth and determination of TMDL endpoints were critical in the development of the TMDLs. The Authorities\u2019 appeal also placed great significance on Dr. Carrick\u2019s report, because Dr. Carrick submitted the report to DEP, and the conclusions in his report regarding phosphorous concentrations provided a significant basis for the established TMDLs. (L.S.R.R. at 274a-280a.)\nThe Authorities made several other legal arguments in support of their position, urging that, even if EPA had actually issued the TMDLs, (1) the \u201cactions\u201d DEP took in participating in the process meant that EHB has the power to alter the established TMDLs (despite EPA\u2019s ultimate responsibility to approve TMDLs); (2) the establishment of the TMDLs, by operation of law, resulted in the incorporation of the TMDLs into DEP\u2019s \u201cContinuing Planning Process\u201d (CPP), and the CPP will affect the Authorities\u2019 rights; and (8) DEP has purportedly acknowledged in a Pennsylvania Bulletin notification that the TMDLs, whether established by DEP or EPA, constitute an \u201caction\u201d of DEP based upon the argument that DEP stated in a Pennsylvania Bulletin notification, which provided that EPA\u2019s completion of the work on the TMDLs, and EPA\u2019s approval of the TMDLs, satisfied DEP\u2019s obligations under the Act. (L.S.R.R. at 280a-285a, specifically Para. 43(C)(1)(8).)\nWith regard to the merits, the bulk of the Authorities\u2019 claim challenging the TMDLs rested on alleged problems in Dr. Carrick\u2019s analysis, which EPA (and/or DEP) used in the development of at least some of the TMDLs.\nIn response to the appeal, DEP filed a Motion to Dismiss, arguing that EHB did not have jurisdiction. DEP argued that it was EPA action, pursuant to the Consent Decree, that established the TMDLs, not a DEP action. EHB denied the Motion to Dismiss on October 24, 2005, concluding that factual issues remained regarding whether EPA or DEP established the TMDLs. (L.S.R.R. at 539a-554a.)\nThe parties engaged in discovery, and, thereafter, on July 24, 2006, DEP filed a motion for summary judgment, raising again the question of whether EHB had jurisdiction over a challenge to the TMDLs. EHB denied the motion in a September 18, 2006 order, concluding that the Act and the Consent Decree gave ultimate responsibility for establishing TMDLs to the Commonwealth. (L.S.R.R. at 920a-934a.) The Authorities, during the course of discovery that followed, provided expert reports regarding their challenge to the TMDLs. The Authorities assert that, on January 8, 2007, DEP indicated in a conference call that the TMDLs were to be withdrawn shortly.\nOn or around September 27, 2007, EPA sent a letter to DEP indicating that it was withdrawing the TMDLs and issued a document called \u201cDecision Rationale for the Withdrawal of the Nutrient TMDLs for the Skippack Creek Watershed\u201d \u25a0 (TMDL Withdrawal Document; L.S.R.R. at 437a-467a). The letter accompanying the TMDL Withdrawal Document provided in pertinent part:\nSince EPA established the nutrient TMDLs in 2005, the fundamental equation that was used for determining the in-stream endpoint (sufficient to achieve beneficial water uses and criterion) has been modified by its authors for valid scientific reasons ... Since the TMDLs were established by the EPA, additional water quality modeling and literature review shows that it would be appropriate to further review other approaches to establishing the TMDL endpoint, the contributions of nonpoint sources and several other factors that may impact the growth of algae, such as shading and flooding events.\nEPA is withdrawing the existing TMDLs that were established by EPA in 2005 ... based on our determination that the 2005 nutrient TMDLs were not sufficient to attain and maintain existing water quality standards and water uses. EPA will re-evaluate the nutrient TMDLs ... by June 30, 2008.\n(U.G.R.R. at 420a; emphasis added.)\nOn January 6, 2009, the parties entered into a Stipulation of Settlement that essentially provided:\n1. EPA withdrew the TMDLs;\n2. DEP and the Authorities believe respectively that EPA or DEP established the TMDLs for Skippack Creek;\n3. the parties agreed to withdrawal of the appeal to avoid further litigation;\n4. the settlement provides for withdrawal \u201cwithout prejudice to the Authorities to raise any and all factual or legal issues raised\u201d in any future appeals involving the development of application of the Skippack TMDLs, and DEP retains any and all defenses; and\n5. the Authorities retain the right to seek attorneys\u2019 fees and costs, and DEP retains any defenses pertinent thereto.\n(L.S.R.R. at 935a-939a.)\nBased upon the stipulation, on January 23, 2009, EHB issued an order dismissing the appeal. (L.S.R.R. at 942a.) The Authorities filed separate applications for attorneys\u2019 fees under Section 307(b) of the Clean Streams Law. (L.S.R.R. at 944a-1134a). EHB denied the applications without hearing, concluding that EPA, rather than DEP, had withdrawn the TMDLs for Skippack Creek. (L.S.R.R. at 1455a-1467a.) The Authorities requested reconsideration of EHB\u2019s denial. (L.S.R.R. at 1469a-1482a.) EHB denied reconsideration on July 10, 2010. (L.S.R.R. at 1485a-1489a.) LS filed a timely petition for review with this Court, challenging EHB\u2019s order denying its fee application. As noted above, UG filed a petition for review challenging only EHB\u2019s order denying reconsideration.\nII. DISCUSSION\nA. Appeal of EHB\u2019s January 5, 2010 Orders Denying Reconsideration\nWe first address UG\u2019s challenge to EHB\u2019s denial of reconsideration. Our standard of review of that decision is limited to considering whether EHB abused its discretion in denying reconsideration. West Penn Power Comp. v. Pub. Utility Comm\u2019n, 659 A.2d 1055 (Pa.Cmwlth.1995). An abuse of discretion occurs only when a decision reflects bad faith, fraud, capricious action, or an abuse of power. Id. at 1065. UG argues that EHB erred in rendering its decisions without first conducting a hearing to determine various factual issues, such as whether DEP was responsible for EPA\u2019s decision to withdraw the TMDLs. We cannot conclude that UG has raised any issues that suggest that EHB\u2019s decisions denying reconsideration reflect bad faith, fraud, abuse of power, or caprice. Consequently, we affirm EHB\u2019s denial of reconsideration.\nB. LS\u2019s Appeal of EHB\u2019s December 15, 2001 Order Denying LS\u2019s Application for Attorney\u2019s Fees and Costs\nOn appeal, LS raises the following issues in its petition for review:\n1.Whether EHB applied an improper standard in analyzing LS\u2019s fee application?\n2. Whether EHB erred in its application of the standard it applied?\n3. \"Whether EHB erred in concluding that EPA, rather than DEP, withdrew the TMDLs (1) without first holding a hearing and (2) by basing that determination on the stipulation that EPA had withdrawn the TMDLs?\n4. Whether EHB erred as a matter of law in concluding that LS did not satisfy its burden of proof in its claim for attorneys\u2019 fees and costs under Section 307(b) of the Law?\n5. Whether the \u201claw of the case\u201d doctrine precluded EHB from concluding that EPA withdrew the TMDLs in light of EHB\u2019s prior decisions denying DEP\u2019s motions to dismiss and for summary judgment?\n6. Whether EHB\u2019s determinations that EPA will reestablish the TMDLs for Skippack by June 30, 2008, and that the TMDLs were withdrawn because it was not strict enough are against the weight of the evidence?\nI. Standard Applicable to Applications for Attorneys\u2019 Fees and Costs\nIn Kwalwasser v. Department of Environmental Resources, 131 Pa.Cmwlth. 77, 569 A.2d 422, 424 (1990), this Court developed a four-factor test for determining when a party is entitled to fees and costs under Section 4(b) of the Surface Mining Conservation and Reclamation Act: (1) EHB must have issued a final order; (2) the applicant for fees and costs must be the prevailing party; (3) the applicant must have achieved some degree of success on the merits; and (4) the applicant must have made a substantial contribution to a full and final determination of the issues.\nMore recently, in Solebury, our Supreme Court approved the use of these factors, but concluded that this Court had applied the four factors too conservatively. The Supreme Court noted first that, based upon the language of Section 307(b) of the Law, EHB\u2019s discretion to award attorneys\u2019 fees also encompasses its ability to adopt standards by which it may evaluate fee requests. Nevertheless, the Supreme Court observed that Section 307(b) of the Law did not contain language used in other federal fee-shifting statutes limiting the definition of the term \u201cprevailing party.\u201d Therefore, because the language of the federal fee-shifting laws did not track our own and did not clearly reflect the same public policy underlying our fee-shifting provision, our Supreme Court held that the decisions interpreting those federal laws could not support EHB\u2019s narrow application of the Kwalwasser test with regard to a request for fees under Section 307(b) of the Law.\nIn reviewing this Court\u2019s decision, the Supreme Court agreed with us \u201cthat the practical relief sought ... should be considered when characterizing [the requesting party] as [a] prevailing part[y] for the purpose of the Kwalwasser test.\u201d Solebury, 593 Pa. at 170, 928 A.2d at 1004. In assessing this question, however, our Supreme Court looked with approval to Justice Ginsburg\u2019s dissent in Buckhannon Board and Care Home, Inc. v. West Virginia Department of Health and Human Resources, 532 U.S. 598, 121 S.Ct. 1835, 149 L.Ed.2d 855 (2001), wherein Justice Ginsburg opined that a formal declaration that a party is correct on the merits is not necessary when \u201cthe ultimate goal of litigation is not an arbiter\u2019s approval, but a favorable alteration of actual circumstances.\u201d Id. at 170, 928 A.2d at 1005 (quoting Buckhannon, 532 U.S. at 633,121 S.Ct. 1835 (Ginsburg, J., dissenting)). Thus, our Supreme Court opined that if and when applying the Kwalwasser standard under Section 307(b) of the Law, EHB should not limit its consideration of whether a party \u201cprevailed\u201d to situations in which a party obtains an actual judgment or consent decree.\nOf importance to our review in this case is the Supreme Court\u2019s comment that \u201cEHB\u2019s exclusive focus on the dismissal of the case as moot, without conducting a hearing or making further factual findings and legal conclusions, does not justify its holding that [Solebury] did not achieve some degree of success on the merits and did not make a substantial contribution to the full and final determination of the issues.\u201d Id. Ultimately, the Supreme Court summarized its conclusion, noting that EHB\u2019s application of Kwalwasser was too narrow, based upon the broader language of Section 307(b) of the Law and the public policy favoring liberal construction of the provision. The Supreme Court indicated that the record was insufficient to review EHB\u2019s decision and directed a remand to EHB.\nEHB in this case noted the Supreme Court\u2019s decision in Solebury, observing two key principles: (1) a party need not obtain a formal final judgment or consent decree in the underlying litigation, and (2) because the Supreme Court accepted Justice Ginsburg\u2019s dissenting view in Buck-hannon, the Supreme Court thereby indicated that EHB could incorporate Justice Ginsburg\u2019s \u201ccatalyst\u201d approach in analyzing fee-shifting applications. EHB summarized the so-called \u201ccatalyst\u201d rule as follows: (1) the applicant must show that the opposing party provided some of the benefit the fee-requesting party sought in the underlying suit, (2) the applicant must show that the suit stated a genuine claim, and (3) the applicant must show that the suit was a substantial or significant reason why the opposing party, voluntarily or otherwise, provided the benefit or partial benefit that the fee-requesting party sought in the underlying suit. EHB opined that the \u201ccatalyst\u201d analysis was more liberal than the Kwalwasser test and consistent with the direction in Solebury to take into account the public policy of Section 307(b) of the Law favoring a liberal construction of fee-shifting provisions. Solebury, 593 Pa. at 170, 928 A.2d at 1004.\nWe conclude that EHB did not err in electing to use the catalyst approach in reviewing LS\u2019s fee application. The primary distinction between a liberal Kwal-wasser analysis and EHB\u2019s catalyst approach is that the latter requires a fee-seeking party to demonstrate that the opposing party in the underlying action provided some of the relief the fee applicant sought in the litigation. We do not view the inclusion of this additional requirement as veering substantially from the Supreme Court\u2019s directive to apply Kwalwasser more liberally. Federal decisions arising before Buckhannon (which applied a more relaxed standard to determine whether a party was \u201cprevailing,\u201d as reflected in the Buckhannon dissent), refer to a 1987 decision of the United States Supreme Court, Hewitt v. Helms, 482 U.S. 755, 107 S.Ct. 2672, 96 L.Ed.2d 654 (1987), wherein the Supreme Court interpreted the term \u201cprevailing party\u201d as one whose lawsuit\nsometimes produces voluntary action by the defendant that affords the plaintiff all or some of the relief he sought through a judgment\u2014e.g., a monetary settlement or a change in conduct that redresses the plaintiffs grievances. When that occurs, the plaintiff is deemed to have prevailed despite the absence of a formal judgment in his favor.\nHewitt, 482 U.S. at 760-61, 107 S.Ct. 2672 (emphasis added).\nEHB\u2019s catalyst approach reflects both our Supreme Court\u2019s directive not to limit fee awards to judgment or consent decree situations and the United States Supreme Court\u2019s reference in its pre-Buckhannon decision in Hewitt to permit fee awards based upon \u201cvoluntary action by [a] defendant.\u201d\n2. EHB\u2019s Application of the Catalyst Approach\nAlthough we conclude that the catalyst approach is a reasonable method by which EHB may consider a request for attorneys\u2019 fees under Section 307(b) of the Law, we must consider whether EHB erred in its application. The first issue, then, is whether EHB was correct in concluding that LS was not a prevailing party based upon the solitary fact that EPA withdrew the TMDLs and that DEP did not provide \u201csome of the benefit sought,\u201d Buckhannon, 532 U.S. at 627, 121 S.Ct. 1835, by the lawsuit.\nDEP, in addressing this issue, refers us to the United States Court of Appeals for the Ninth Circuit decision in Idaho Conservation League, Inc. v. Russell, 946 F.2d 717 (9th Cir.1991). In that case, an environmental group initiated an action against EPA under the Act, asserting that EPA failed to perform a mandatory duty to issue water quality regulations for the state of Idaho. The state of Idaho intervened in the matter. After the environmental group reached an agreement with the state of Idaho, whereby Idaho would adopt water quality standards, the environmental group moved to dismiss its lawsuit against EPA, but also sought attorneys\u2019 fees from EPA. A federal district court granted that application. EPA appealed the decision to the Ninth Circuit, which reversed the award of attorneys\u2019 fees. The Ninth Circuit applied the catalyst rule, observing that all an applicant for fees needs to demonstrate is that the fee-seeking party obtained the relief it sought in the lawsuit as a consequence of bringing the lawsuit and that the lawsuit had a genuine basis in law.\nThe Ninth Circuit reasoned that, in considering fee requests, courts should look to the objective of the plaintiff in bringing the lawsuit and what the plaintiff actually obtained as a result of the lawsuit. This inquiry involves an examination of cause and effect. In the matter before it, the environmental group obtained what it was seeking in the lawsuit\u2014state water quality standards. The court reflected upon EPA\u2019s failure to comply with the Act\u2019s mandate that EPA should promulgate water quality regulations if a state fails to do so. Id. at 720.\nThe Ninth Circuit, however, agreed with EPA that in order to constitute a prevailing party, a party must prevail over a party against which it brought its lawsuit. Relying upon a United States Supreme Court decision, Ruckelshaus v. Sierra Club, 463 U.S. 680, 103 S.Ct. 3274, 77 L.Ed.2d 938 (1983), the Ninth Circuit noted that the traditional view in fee-shifting applications warrants the award of fees against the losing party\u2014the party responsible for providing relief on the merits. In other words, in any litigation, there might be more than one party from which a plaintiff seeks relief, but the plaintiff will only be prevailing as to those defendants which ultimately provide some of the relief, including the practical relief, requested. Id. at 720-21.\nThe Ninth Circuit acknowledged that the environmental group\u2019s lawsuit acted as a catalyst that prompted an opposing party (the state of Idaho) to take action, but the lawsuit never prompted the party from which the group sought fees, EPA, to provide the relief the group sought. Id. at 721. In other words, as stated in the Buckhannon dissent, the environmental group did not demonstrate that the party from which it sought fees \u201cprovided some of the benefit\u201d sought in the lawsuit.\nDistilling the principles from the holdings in the Buckhannon dissent and Idaho Conservation League, we summarize the burden of a party seeking to obtain- attorneys\u2019 fees under the law as follows: The party must demonstrate that (1) the lawsuit brought about a change in an opposing party\u2019s conduct, and that (2) the change in conduct caused the plaintiff to obtain some of the relief it sought. With regard to the first requirement, this element is essentially the same as the third element EHB identified\u2014that the applicant\u2019s lawsuit was a significant factor in prompting an opposing party to alter its conduct. Both of these elements are relative to the essential question of whether an applicant for a fee award was a \u201cprevailing party.\u201d\nIn her dissenting view in Buckhannon, Justice Ginsburg opined that the plaintiffs, who had brought a lawsuit challenging a state law against the state of West Virginia and certain state agencies, constituted prevailing parties. The plaintiffs alleged in their fee-award application that their lawsuit caused the state legislature, technically a non-party, to change the law that the plaintiffs challenged in their lawsuit.\nThe facts in this case are somewhat similar to those in Buckhannon in that EPA here, a non-party, by virtue of its own clear statements in the TMDL Withdrawal Document, took the direct action that provided the Authorities with the relief they were seeking. This case is, nevertheless, distinct. In Buckhannon, the state legislature certainly was closely connected with the defendant parties (the state and state agencies) against which the plaintiffs brought their claim. In this case, EPA and DEP, other than having similar roles within the respective federal and state governments, are not similarly connected. In Buckhannon, the state had created the challenged law, and it had the power to amend the law. In this case, although LS contests the question of whether EPA or DEP established the TMDLs, the record is clear that EPA withdrew the TMDLs.\nNevertheless, we do not believe that we are constrained to preclude plaintiffs (LS) from seeking fee awards from a defendant (DEP) that may have played a role in the decision-making process by a non-party (EPA), which ultimately provides relief that the plaintiff had sought from the defendant. We believe the catalyst rule can be applied in certain circumstance where a plaintiff obtains some of the relief it sought through a lawsuit from a non-party as a result of some action or change of conduct by the party against which the plaintiff brought the lawsuit.\nIn this case, the catalyst rule warrants an examination of the question of whether the lawsuit against DEP triggered EPA\u2019s action to withdraw the TMDLs, because if LS can establish a significant cause and effect relationship between DEP\u2019s conduct and EPA\u2019s withdrawal, the facts could demonstrate that DEP \u201cprovided some of the benefit\u201d LS sought.\nBecause the documents we have reviewed strongly suggest the primary role EPA had in establishing, approving, and withdrawing the TMDLs, the connection between DEP\u2019s conduct and EPA\u2019s decision to withdraw the TMDLs must be significant to warrant an award of attorneys\u2019 fees. The record in this case casts some doubt as to DEP\u2019s power to have effectuated on its own any of the relief LS sought. If DEP had no power to effectuate change on its own, the awarding of attorneys\u2019 fees and costs would appear to be unjust. Although the Act places primary responsibility on a state to establish TMDLs, the Consent Decree and the MOU also provided EPA with the power to establish the TMDLs, which from the record appears to be exactly what happened here.\nEven more significant is the fact that the Act itself places with EPA the ultimate power to approve TMDLs. This ultimate authority of EPA raises the question of whether, even if DEP had established the TMDLs, DEP could take any action to withdraw the TMDLs once EPA approved them. Consequently, if DEP has no legal authority to effectuate or direct EPA to approve or withdraw TMDLs, then there appears to be no change in conduct on the part of DEP that would have resulted in LS obtaining any or some of the relief it sought in its action against DEP. Nonetheless, because we conclude that EHB was too restrictive in its analysis under the catalyst approach, on remand, EHB will have to grapple with the question of whether DEP\u2019s involvement in EPA\u2019s decision-making process was sufficient to justify an award of attorneys\u2019 fees in this case.\nIn summary, we conclude that EHB did not err in electing to apply the catalyst approach to the fee applications, but it did so in an overly restrictive fashion. Because the possibility exists that DEP\u2019s conduct may have played a significant role in EPA\u2019s withdrawal decision, EHB must reconsider LS\u2019s fee application to determine what, if any, role DEP\u2019s conduct played in the decision. If EHB determines that some conduct on the part of DEP was a significant factor in EPA\u2019s withdrawal decision, then EHB could conclude that LS is entitled to an award of fees. In order to fulfill this requirement, EHB must consider whether the current record is sufficient to support necessary factual findings on this issue. If the record is not sufficient, EHB must conduct a hearing in order to supplement the record to support the findings necessary for reconsideration of LS\u2019s application.\nC. Additional Issues\n1. Law of the Case\nLS also argues that EHB violated the law of the case doctrine by altering its legal conclusion regarding whether DEP or EPA was responsible for establishing the Skippack Creek TMDLs. LS argues that EHB had earlier concluded that, although both DEP and EPA may have contributed to the development of the TMDLs, by operation of the Law, DEP must be the party \u201cresponsible\u201d for the TMDLs. DEP argues that the doctrine does not apply to later decisions by the same judicial officer (or office). The \u201claw of the case\u201d doctrine:\nrefers to a family of rules which embody the concept that a court involved in the later phases of a litigated matter should not reopen questions decided by another judge of that same court or by a higher court in the earlier phases of the matter. See 21 C.J.S. Courts \u00a7 149a; 5 Am. Jur.2d Appeal and Error \u00a7 7U. Among the related but distinct rules which make up the law of the case doctrine are that: (1) upon remand for further proceedings, a trial court may not alter the resolution of a legal question previously decided by the appellate court in the matter; (2) upon a second appeal, an appellate court may not alter the resolution of a legal question previously decided by the same appellate court; and (3) upon transfer of a matter between trial judges of coordinate jurisdiction, the transferee trial court may not alter the resolution of a legal question previously decided by the transferor trial court.\nCom. v. Fletcher, 604 Pa. 493, 986 A.2d 759, 776 n. 20 (2009) (emphasis added) (citing Com. v. Starr, 541 Pa. 564, 664 A.2d 1326, 1331 (Pa.1995), and Com. v. Wallace, 582 Pa. 234, 870 A.2d 838, 847 (2005)).\nFurther, our Supreme Court has commented regarding the doctrine as follows:\n[W]hen an appellate court has considered and decided a question submitted to it upon appeal, it will not, upon a subsequent appeal on another phase of the same case, reverse its previous ruling even though convinced that it was erroneous.... It is not, however, inflexible. It does not have the finality of the doctrine of res judicata.... The rule of \u201cthe law of the case\u201d is one largely of convenience and public policy, both of which are served by stability in judicial decisions.... Thus there is an abundance of authority to the effect that where a prior decision is palpably erroneous, it is competent for the court, not as a matter of right but of grace, to correct it upon a second review ... where, following the decision on a former appeal, the court in another case has laid down a different rule either expressly or by necessary implication overruling the previous decision.\nBurke v. Pittsburgh Limestone Corp., 375 Pa. 390, 394-95, 100 A.2d 595, 598 (1953) (citations omitted) (quoting Reamer\u2019s Estate, 331 Pa. 117, 122-23, 200 A. 35, 37-38 (1938)).\nEHB\u2019s decision did not alter a resolution by an appellate court. Further, although the question EHB decided in addressing DEP\u2019s motion to dismiss and summary judgment motion was legal in nature, we do not perceive the matter as having been \u201ctransferred\u201d between adjudicators of coordinate jurisdiction. Further, as noted above, where a court determines that an earlier decision is wrong, the doctrine does not necessarily preclude an alternative resolution by a different court. EHB here, based upon a fuller record and review of pertinent documents concluded that DEP was not \u201cresponsible\u201d for the withdrawal of the TMDLs for the purpose of considering whether the Authorities are entitled to attorneys\u2019 fees. Therefore, we do not believe the doctrine was applicable to EHB\u2019s resolution of the application for attorneys\u2019 fees.\n2. State\u2019s Duty Under Section 303(d) of the Act\nAdditionally, LS asserts that EHB erred when it ignored the language of Section 303(d) of the Act, which vests states with the duty to establish TMDLs. We believe that our discussion above essentially addresses this argument. We also observe that whether the Act vests only the states with such a duty is irrelevant if DEP had no authority to withdraw TMDLs established and approved by EPA.\n3. Legal Effect of EPA\u2019s Stated Intent to File More Stringent TMDLs in the Future\nLS also asserts that EHB erred in basing its decision in part upon the comment in the Decision Rationale that EPA intended to establish more stringent TMDLs in the future. We conclude that LS is correct in this regard. The focus of EHB\u2019s inquiry should be on whether LS obtained from DEP some of the relief it sought. Although the question remains whether LS has or can establish that it obtained relief from DEP, the withdrawal did provide LS with the relief it was seeking. EPA\u2019s action essentially created a \u201cclean slate,\u201d and the speculative question of whether future TMDLs are more or less stringent is not relevant to the discrete issue of whether LS obtained relief, albeit possibly relief of an impermanent nature. If either EPA or DEP establish TMDLs in the future, LS may need again to challenge such action.\nIII. CONCLUSION\nEHB must reconsider LS\u2019s fee application in the manner described above, addressing the factual question of whether DEP\u2019s conduct had some influence upon EPA\u2019s ultimate decision to withdraw the Skippack Creek TMDLs, and if so, the degree to which DEP\u2019s conduct caused EPA to withdraw the TMDLs. If necessary, EHB must conduct a hearing on the factual questions necessary to resolve these issues. Accordingly, we will vacate EHB\u2019s order with regard to LS and remand the matter to EHB with the direction to take any action, including conducting a hearing, necessary to resolve the matter consistent with this opinion.\nORDER\nAND NOW, this 30th day of November, 2010, the order of the Environmental Hearing Board, dated January 5, 2010, denying the Upper Gwynedd Towamencin Municipal Authority\u2019s motion for reconsideration, is hereby AFFIRMED. The order of the Environmental Hearing Board, dated December 15, 2009, denying Lower Salford Township Authority\u2019s application for recovery of attorneys\u2019 fees and costs is hereby VACATED, and the matter is REMANDED to the Environmental Hearing Board for additional proceedings on Lower Salford Township Authority\u2019s application for attorneys\u2019 fees and costs, consistent with the accompanying opinion.\nJurisdiction relinquished.\n. Act of June 22, 1937, P.L. 1987, as amended, 35 P.S. \u00a7 691.307. This Section provides that \"[a]ny person having an interest which is or may be adversely affected by any action of the department under this section may proceed to lodge an appeal with the Environmental Hearing Board ... The ... Board, upon the request of any party, may in its discretion order the payment of costs and attorney\u2019s fees it determines to have been reasonably incurred by such party in proceedings pursuant to this act.\u201d\n. 33 U.S.C. \u00a7 1313(c)(2)(A).\n. 33 U.S.C. \u00a7 1313(d)(1)(C).\n. We also note that there is federal case law holding that, notwithstanding the terms of the Act directing states to establish TMDLs, the EPA has a mandatory duty to establish a state\u2019s TMDLs when a state has failed over a long time period to submit TMDLs to the EPA. Such inaction on the part of a state may constitute a \" 'constructive submission\u2019 of an inadequate TMDL, thus triggering the EPA\u2019s duty\u201d under the Act to establish TMDLs for the state. City of Arcadia v. EPA, 411 F.3d 1103, 1106-07 (9th Cir.2005) (citing San Francisco BayKeeper v. Whitman, 297 F.3d 877, 880-84 (9th Cir.2002)). Although holdings of federal courts generally are not binding on this Court, we may accept them as persuasive authority.\n. The EPA also sent a letter to DEP on April 8, 2005, which begins by stating that \u201d[t]he U.S. [EPA] is establishing [TMDLs] for the Skippack Creek Watershed ... These TMDLs were established in accordance with Section 303(d)(1)(C) and (2) of the Clean Water Act to address impairments of water quality as identified on Pennsylvania's 1996, 1998, and 2002 Section 303(d) lists. The TMDLs address the following impairments....\u201d (Upper Gwyn-edd Municipal Authority Reproduced Record (U.G.R.R.) at 325a; emphasis added.)\n. The Act includes provisions relating to NPDES permits. NPDES permits \"establish the amount of pollutants that each point source may discharge into Pennsylvania waters.\u201d Borough of Bedford v. Dep\u2019t of Envtl. Protection, 972 A.2d 53, 57-8 (Pa.Cmwlth.2009). Under the Act, either the EPA or a state environmental agency may administer the NPDES permit process. Id. at 58. In Pennsylvania, DEP administers the NPDES system. Id. DEP has promulgated regulations pertaining to the issuance of NPDES permits. Id.\n. DEP filed an application for reconsideration with a request to amend its order to permit interlocutory review by this Court, and the EHB denied that application on November 17, 2005. On December 14, 2005, DEP filed with this Court a petition for review of the EHB\u2019s order denying reconsideration and an amending order. On January 10, 2006, this Court denied that petition for review.\n. We note also that in May 2007, the EPA filed an \u201cUnopposed Motion to Modify Consent Decree to Extend Deadline\u201d in the Pennsylvania federal litigation. In its brief, LS characterizes the Motion to Modify the Consent Decree as \"EPA\u2019s request for an extension of the deadline to complete the establishment of the final TMDLs.\u201d LS points out, however, that the Motion also acknowledges that the Act requires states to establish TMDLs.\n. Although UG acknowledged during oral argument that it had only sought this Court\u2019s review of the EHB's denial of reconsideration, its brief in support of its petition for review addresses the merits and purports to challenge the EHB's decision denying its fee application in addition to the EHB's denial of reconsideration. Even if UG had included a challenge to the fee application decision in its petition for review, its petition for review is untimely as to that decision. Consequently, with respect to UG's appeal, we are limited in our review to the challenge to the EHB's decision denying reconsideration.\n. In reviewing the EHB\u2019s order denying LS's fee application, our consideration is limited to determining whether the EHB abused its discretion in denying the award. Solebury Twp. v. Dep\u2019t of Envtl. Protection, 593 Pa. 146, 158, 928 A.2d 990, 997 (2007).\n. Act of May 31, 1945, P.L. 1198, as amended, 52 P.S. \u00a7 1396.4(b). Although the Surface Mining Conservation and Reclamation Act and its fee-shifting provisions are not at issue here, we note that our Supreme Court in Solebury observed that different statutory fee-shifting provisions may require the application of different standards, depending upon the specific language of the particular fee-shifting provision. Kwalwasser, therefore, provides guidance for our analysis but does not establish an inflexible test that binds us.\n. Requiring some nexus between the action that triggered the favorable result and the party against whom fees are sought appears to also comport with a sense of fundamental fairness. It seems unduly harsh and punitive to require an opposing party to pay attorneys' fees and costs under a fee-shifting provision, where, due solely to actions of a third-party, the applicant achieves a favorable result that renders moot its claim against the party from whom fees are sought.\n. DEP and LS assert, respectively, that the EPA was prompted to withdraw the TMDLs based upon (1) information it received from non-litigant third parties relating to a change to the \"Dodds Regression\" (DEP Surreply in Opposition to Appellants' Applications for Attorneys' Fees and Costs at 1-2; Original Record Tab 15), and (2) indications that the report of Dr. Carrick identified in the EPA TMDL Document was based upon erroneous assumptions.",
+        "type": "majority",
+        "author": "Judge BROBSON."
+      }
+    ],
+    "attorneys": [
+      "Paul A. Logan, King of Prussia, for petitioner, Upper Gwynedd Towamencin Municipal Authority.",
+      "Steven A. Hann, Lansdale, for petitioner, Lower Salford Township Authority.",
+      "William H. Gelles, III, Norristown, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "UPPER GWYNEDD TOWAMENCIN MUNICIPAL AUTHORITY, Petitioner v. DEPARTMENT OF ENVIRONMENTAL PROTECTION, Respondent. Lower Salford Township Authority, Petitioner v. Department of Environmental Protection, Respondent.\nCommonwealth Court of Pennsylvania.\nArgued Sept. 13, 2010.\nDecided Nov. 30, 2010.\nPaul A. Logan, King of Prussia, for petitioner, Upper Gwynedd Towamencin Municipal Authority.\nSteven A. Hann, Lansdale, for petitioner, Lower Salford Township Authority.\nWilliam H. Gelles, III, Norristown, for respondent.\nBEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0255-01",
+  "first_page_order": 277,
+  "last_page_order": 292
+}

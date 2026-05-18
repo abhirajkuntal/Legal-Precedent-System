@@ -1,0 +1,698 @@
+{
+  "id": 7284774,
+  "name": "Ahmed TAGOUMA, Appellant v. INVESTIGATIVE CONSULTANT SERVICES, INC., and Michael S. Zeigler, Appellees",
+  "name_abbreviation": "Tagouma v. Investigative Consultant Services, Inc.",
+  "decision_date": "2010-08-10",
+  "docket_number": "",
+  "first_page": "170",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "939 A.2d 363",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8301983
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/939/0363-01"
+      ]
+    },
+    {
+      "cite": "304 Pa.Super. 537",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        199286
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/304/0537-01"
+      ]
+    },
+    {
+      "cite": "919 A.2d 356",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8326131
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/919/0356-01"
+      ]
+    },
+    {
+      "cite": "698 A.2d 85",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11999144
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/698/0085-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 274",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292500
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/981/0274-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 90",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291982
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/0090-01"
+      ]
+    },
+    {
+      "cite": "995 A.2d 1253",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291628
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/995/1253-01"
+      ]
+    },
+    {
+      "cite": "646 A.2d 1205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        945872,
+        12057500
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1210",
+          "parenthetical": "\"While not binding, we find several cases from other jurisdictions to be very persuasive in this area of law.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/435/0499-01",
+        "/a2d/646/1205-01"
+      ]
+    },
+    {
+      "cite": "435 Pa.Super. 499",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        945872
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "\"While not binding, we find several cases from other jurisdictions to be very persuasive in this area of law.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/435/0499-01"
+      ]
+    },
+    {
+      "cite": "743 A.2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11492897,
+        95835
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "police use of thermal imaging device to scan private residence for heat from suspected marijuana growing operation was impermissible"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/743/0898-01",
+        "/pa/560/0222-02"
+      ]
+    },
+    {
+      "cite": "560 Pa. 222",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95769,
+        95835
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "police use of thermal imaging device to scan private residence for heat from suspected marijuana growing operation was impermissible"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0222-01",
+        "/pa/560/0222-02"
+      ]
+    },
+    {
+      "cite": "313 Pa.Super. 346",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        214863
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "no reasonable expectation of privacy in an open field where police took aerial photographs by helicopter"
+        },
+        {
+          "parenthetical": "no reasonable expectation of privacy in an open field where police took aerial photographs by helicopter"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/313/0346-01"
+      ]
+    },
+    {
+      "cite": "978 A.2d 1000",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297370
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/978/1000-01"
+      ]
+    },
+    {
+      "cite": "263 A.2d 904",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "FBI agent's observation of illegal activities while standing on a ladder using binoculars was not unreasonable"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Pa.Super. 177",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        790583
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "FBI agent's observation of illegal activities while standing on a ladder using binoculars was not unreasonable"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/216/0177-01"
+      ]
+    },
+    {
+      "cite": "309 A.2d 391",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "454 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        579903
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/454/0023-01"
+      ]
+    },
+    {
+      "cite": "401 Pa.Super. 580",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        889608
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "police observation of two narcotic street transactions through binoculars was proper"
+        },
+        {
+          "parenthetical": "police observation of two narcotic street transactions through binoculars was proper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/401/0580-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8304290
+      ],
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/0514-01"
+      ]
+    },
+    {
+      "cite": "494 Pa. 496",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1769040
+      ],
+      "weight": 6,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "966"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/494/0496-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736929
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/476/0543-01"
+      ]
+    },
+    {
+      "cite": "1999 WL 345592",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "365 Pa.Super. 332",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        676311
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "1091"
+        },
+        {
+          "parenthetical": "violation of expectation of privacy when police observed, through a zoom lens, illegal activity in a residential greenhouse from an unlawful vantage point"
+        },
+        {
+          "parenthetical": "violation of expectation of privacy when police observed, through a zoom lens, illegal activity in a residential greenhouse from an unlawful vantage point"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/365/0332-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 207",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12541
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "211"
+        },
+        {
+          "page": "1812"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0207-01"
+      ]
+    },
+    {
+      "cite": "389 U.S. 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339173
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "Harlan, J., concurring"
+        },
+        {
+          "parenthetical": "Harlan, J., concurring"
+        },
+        {
+          "parenthetical": "Harlan, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0347-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 735",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532082
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "740",
+          "parenthetical": "citing Katz v. United States, 389 U.S. 347, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967) (Harlan, J., concurring)"
+        },
+        {
+          "page": "2580",
+          "parenthetical": "citing Katz v. United States, 389 U.S. 347, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967) (Harlan, J., concurring)"
+        },
+        {
+          "parenthetical": "citing Katz v. United States, 389 U.S. 347, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967) (Harlan, J., concurring)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0735-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 109",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194938
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "113"
+        },
+        {
+          "page": "1656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0109-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 463",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512280
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "469",
+          "parenthetical": "quoting United States v. Jacobsen, 466 U.S. 109, 113, 104 S.Ct. 1652, 1656, 80 L.Ed.2d 85 (1984)"
+        },
+        {
+          "page": "2782",
+          "parenthetical": "quoting United States v. Jacobsen, 466 U.S. 109, 113, 104 S.Ct. 1652, 1656, 80 L.Ed.2d 85 (1984)"
+        },
+        {
+          "parenthetical": "quoting United States v. Jacobsen, 466 U.S. 109, 113, 104 S.Ct. 1652, 1656, 80 L.Ed.2d 85 (1984)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0463-01"
+      ]
+    },
+    {
+      "cite": "315 Pa.Super. 231",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        85876
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[W]e have been further guided by a discussion of arson in criminal cases.\""
+        },
+        {
+          "page": "1257",
+          "parenthetical": "\"[W]e have been further guided by a discussion of arson in criminal cases.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/315/0231-01"
+      ]
+    },
+    {
+      "cite": "2004 WL 1153678",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "771 N.E.2d 1276",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        9415402
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1279"
+        },
+        {
+          "page": "1281"
+        },
+        {
+          "page": "1283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/771/1276-01"
+      ]
+    },
+    {
+      "cite": "189 A.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "410 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1884616
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/410/0192-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 758",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292614
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0758-01"
+      ]
+    },
+    {
+      "cite": "335 Pa.Super. 141",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        620717
+      ],
+      "weight": 8,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1383"
+        },
+        {
+          "page": "1383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/335/0141-01"
+      ]
+    },
+    {
+      "cite": "994 A.2d 611",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289594
+      ],
+      "pin_cites": [
+        {
+          "page": "615-616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/994/0611-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1227,
+    "char_count": 24990,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 1.162830446352189e-07,
+      "percentile": 0.584474616087656
+    },
+    "sha256": "e86811adeecdb7df4c0addc1b0375f682148e9d109be5f1acb879b1d150937c4",
+    "simhash": "1:8bbb4142215e447d",
+    "word_count": 3989
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MUSMANNO, LAZARUS and OLSON, JJ."
+    ],
+    "parties": [
+      "Ahmed TAGOUMA, Appellant v. INVESTIGATIVE CONSULTANT SERVICES, INC., and Michael S. Zeigler, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nOLSON, J.:\nAppellant, Ahmed Tagouma, appeals from the order entered on May 27, 2009, granting summary judgment in favor of Appellees, Investigative Consultant Services, Inc. (\u201cICS\u201d) and Michael S. Zeigler (\u201cZeigler\u201d) and dismissing Appellant\u2019s cause of action for intrusion upon seclusion and abuse of process. Upon careful consideration, we affirm.\nThe salient facts of this case, as aptly summarized by the trial court, are as follows:\nOn April 8, 2004, [Appellant] fell at work while employed at Arnold Industries. He suffered an acute fracture of his right hand. [Appellant] was later diagnosed with Reflex Sympathetic Dystrophy Syndrome (RSD). [Appellant] sought workers\u2019 compensation benefits and Arnold Logistics contested his claim. While the claim was pending, the workers\u2019 compensation carrier, Sentry Insurance, retained [Appellee, ICS,] to perform surveillance on [Appellant], [Zeigler], an investigator with ICS, was assigned to conduct the surveillance.\n[Appellant], currently 53 years old, is a[] Moroccan immigrant and a Muslim who worshipped at the Al-Hikmeh Institute, which is housed on the first floor of [the] Islamic Center of PA, located at 4704 Carlisle Pike, Mechanicsburg. The Islamic Center of PA is a non-descript two-story building that most closely resembles an apartment building. [Appellant] describes the Al-Hikmeh portion of the building as a mosque. A large sign in front of the Center visible to passersby identifies the property as \u201cThe Islamic Center of PA \u2014 Al-Hikmeh Institute\u2014 Daily Worship, Arabic/Islamic Studies.\u201d The Islamic Center sits to the south of Carlisle Pike (U.S. Highway Route 11), which is a commercial highway that runs generally east-west in the area in question. The record indicates that there are no public sidewalks along Carlisle Pike although all areas in front of the businesses in the vicinity are paved such that public parking is abundant.\nThe Islamic Center of PA is situated just to the rear of two businesses that sit, respectively, just in front of it to its left and just in front of it to its right. A driveway runs between these two businesses and leads to the Islamic Center, where public parking exists at its front, side and rear. Persons traveling by car on Carlisle Pike can see The Islamic Center from the highway though their view is limited by the businesses to its front right and left, respectively. A number of other buildings housing various businesses are also located in the area, including a three-store strip mall located immediately across the Carlisle Pike (on its north side) from The Islamic Center.\nAccording to [ ] Zeigler, on April 7, 2005, at approximately 9:10 p.m., he parked in front of the three-store strip mall in a public lot, though at the time he parked there, all three businesses were closed. Zeigler observed [Appellant] from across Carlisle Pike as [Appellant] stood inside in the Al-Hikmeh portion [of] The Islamic Center near a window on the building\u2019s north side. Zeigler was between 79 and 80 yards away from The Islamic Center windows. [ ] Zeigler videotaped [Appellant] for 45 minutes with a Sony 8 mm video camera and used the camera\u2019s zoom feature.\nZeigler testified that at first he was unsure what the people inside The Islamic Center were doing, though after a while, he began to think \u201cthey might be praying.\u201d He believed that since Plaintiff was in plain view, he could videotape him. He was trained to videotape subjects so long as they were \u201cin public\u201d or \u201cin plain view,\u201d even if inside a public building. The videotape was subsequently shown to a workers\u2019 compensation judge.\n[Appellant] was not aware that Zeig-ler was conducting surveillance of him or videotaping him until a later time. He testified he was standing six to eight feet from the window through which he was recorded and that the Al-Hikmeh Institute was lit inside. He was standing up and praying in the video; his prayer consisted of standing up, kneeling and placing his head upon the floor. [Appellant] testified that \u201cwhen I go in front of God, that\u2019s my own privacy, my own prayer between me and God, my sacred place, my sacred time, and nobody has the right to interfere or invade that time with God \u2014 with me and God.\u201d\nTrial Court Opinion, 5/27/2009, at 1-3 (footnotes and record citations omitted).\nOn April 6, 2006, Appellant filed a complaint against Appellees asserting abuse of legal process and invasion of privacy, more specifically, intrusion on seclusion. The parties filed cross motions for summary judgment. On May 27, 2009, the trial court granted Appellees\u2019 motion and dismissed Appellant\u2019s cause of action. This timely appeal followed.\nOn appeal, Appellant presents the following issues for our review:\n1. When an individual is participating in a worship service in a sanctuary and in the act of praying, does he [have] a reasonable expectation of privacy and the right to be free from an intrusion on his seclusion by surveillance while in the act of worshipping?\n2A. Because the privacy standard is a reasonable expectation of privacy the means of surveillance should [ ] be [limited] to the sense of sight and sense of hearing can encompass and not whatever the most current technological development in video camera and audio recording can provide?\n2B. Is it a jury question whether [Appellant] had a reasonable expectation of privacy under the facts of this case where the mosque sat in a secluded location with visibility limited to a 33 foot wide driveway, no sidewalks, no street parking, vehicles passing the driveway between .56 seconds and 2.25 seconds, between 9:00 p.m. and 10:00 p.m. with businesses with a view of the mosque closed?\nAppellant\u2019s Brief at 12.\nIn his first issue presented, Appellant contends that \u201can individual engaged in prayer during a worship service has a privacy right in the form of freedom from intrusion on their right of seclusion when they are communing with their god.\u201d Id. at 17. Appellant argues that even in public areas, privacy may be constitutionally protected. Id. at 20. He contends that he had an actual, or subjective, expectation of privacy during worship and that society should be prepared to recognize such expectation of privacy as reasonable. Id. at 20-21.\nWhen reviewing a grant of summary judgment, the scope and standard of review are as follows:\n[A]n appellate court may reverse the entry of a summary judgment only where it finds that the lower court erred in concluding that the matter presented no genuine issue as to any material fact and that it is clear that the moving party was entitled to a judgment as a matter of law. In making this assessment, we view the record in the light most favorable to the nonmoving party, and all doubts as to the existence of a genuine issue of material fact must be resolved against the moving party. As our inquiry involves solely questions of law, our review is de novo.\nThus, our responsibility as an appellate court is to determine whether the record either establishes that the material facts are undisputed or contains insufficient evidence of facts to make out a prima facie cause of action, such that there is no issue to be decided by the fact-finder. If there is evidence that would allow a fact-finder to render a verdict in favor of the non-moving party, then summary judgment should be denied.\nKurowski v. Burroughs, 994 A.2d 611, 615-616 (Pa.Super.2010) (internal citation omitted).\n\u201cIt is well established in Pennsylvania that a violation of the right of privacy is an actionable tort.\u201d Harris by Harris v. Easton Pub. Co., 335 Pa.Super. 141, 483 A.2d 1377, 1383 (1984). \u201cUnder Pennsylvania law, invasion of privacy involves four separate torts: (1) unreasonable intrusion upon the seclusion of another; (2) appropriation of another\u2019s name or likeness for commercial purposes; (3) publicity given to another\u2019s private life; and (4) publicity that unreasonably places another in a false light before the public.\u201d Doe v. Wyoming Valley Health Care System, Inc., 987 A.2d 758, 765 (Pa.Super.2009). In this case, Appellant asserts that invasion of privacy occurred when Appellees unreasonably intruded upon his seclusion by viewing and taping his private affairs. Our Supreme Court has not officially adopted the definition of intrusion upon seclusion as set forth in the Restatement (Second) of Torts; however, our Court has relied upon \u00a7 652B in analyzing such claims. Id. Intrusion upon seclusion has been defined as:\n\u00a7 652B. Intrusion upon Seclusion\nOne who intentionally intrudes, physically or otherwise, upon the solitude or seclusion of another or his private affairs or concerns, is subject to liability to the other for invasion of his privacy, if the intrusion would be highly offensive to a reasonable person.\nRestatement (Second) of Torts \u00a7 652B; see also Harris, 483 A.2d at 1383.\nMoreover, the comments to Section 652B are instructive. An action pursuant to this section \u201cdoes not depend upon any publicity given to the person whose interest is invaded or to his affairs.\u201d Id., Comment a. The invasion may be (1) \u201cby physical intrusion into a place where the plaintiff has secluded himself;\u201d (2) \u201cby use of the defendant\u2019s senses to oversee or overhear the plaintiffs private affairs;\u201d or (3) \u201csome other form of investigation or examination into plaintiffs private concerns.\u201d Id., Comment b. \u201cThe defendant is subject to liability under this Section only when he has intruded into a private place, or has otherwise invaded a private seclusion that the plaintiff has thrown about his person or affairs.\u201d Id., Comment c. For example, there is no liability \u201cfor observing [ ] or even taking [a] photograph while [a person] is walking on the public highway, since he is not then in seclusion, and his appearance is public and open to the public eye.\u201d Id. \u201cThere is also no liability unless the interference with the plaintiffs seclusion is substantial and would be highly offensive to the ordinary reasonable person.\u201d Id., Comment d.\nBefore we examine the merits of Appellant\u2019s claim, we note that a workers\u2019 compensation claimant has a diminished expectation of privacy. Our Supreme Court\u2019s 1963 pronouncement in Forster v. Manchester, 410 Pa. 192, 189 A.2d 147 (1963) provided that there was no cause of action for invasion of privacy when a private investigator, Manchester, followed and took photos of Forster on public streets subsequent to her claim for personal injuries sustained in a car accident. Ultimately, our Supreme Court determined:\nIt is not uncommon for defendants in accident cases to employ investigators to check on the validity of claims against them. Thus, by making a claim for personal injuries appellant must expect reasonable inquiry and investigation to be made of her claim and to this extent her interest in privacy is circumscribed. It should be noted that all of the surveil-lances took place in the open on public thoroughfares where appellant\u2019s activities could be observed by passers-by. To this extent appellant has exposed herself to public observation and therefore is not entitled to the same degree of privacy that she would enjoy within the confines of her own home.\nMoving to the question of whether [the investigator\u2019s] conduct is reasonable, we feel that there is much social utility to be gained from these investigations. It is in the best interests of society that valid claims be ascertained and fabricated claims be exposed.\nForster, 189 A.2d at 150. Here, Appellant had a claim for workers\u2019 compensation benefits. Appellees were hired by Appellant\u2019s employer to perform surveillance of him. Appellant \u201cmust expect reasonable [...] investigation\u201d and, thus, his \u201cinterest in privacy [was] circumscribed.\u201d Id.\nTurning now to Appellant\u2019s intrusion upon seclusion claim, as the trial court accurately noted in this case, \u201cthere is no case law in Pennsylvania on point of the level of privacy to be afforded persons in houses of worship.\u201d Trial Court Opinion, 5/27/2009, at 9. As such, the trial court relied upon two cases, Creel v. I.C.E. & Assoc., Inc., 771 N.E.2d 1276 (Ind.Ct.App.2002) and Fiorillo v. Berkley Administrators, 2004 WL 1153678, 2004 Conn.Super. LEXIS 1210 (Conn.Super.2004) (unreported), when it concluded that \u201ca house of worship is a public place.\u201d Id. We will examine Creel in depth for guidance herein.\nIn Creel, Myra Creel filed an invasion of privacy claim against a private investigator that videotaped her playing piano during a church service. Creel was receiving long-term benefits under an employer disability insurance plan following a motor vehicle accident wherein she suffered a broken clavicle. Subsequently, her employer retained a licensed private investigator to test the validity of her medical claim. The investigator posed as a parishioner to gain entry into Creel\u2019s church, hid a video camera in an arm sling, and then surreptitiously videotaped her during the religious service. In their cause of action for invasion of privacy and intentional infliction of emotional distress, much like Appellant in this case, the Creels asserted that a \u201c[c]hurch sanctuary is unlike any other public place because it is a place where people go to seek peace of mind, solitude and physical seclusion from the world\u2019s problems as they seek and intimate relationship with the God of their choice.\u201d Creel, 771 N.E.2d at 1279. The Indiana Court of Appeals dismissed the cause of action finding the services were open to the public, observed by many, and the church did not prohibit videotaping. Id., at 1281. Ultimately, the court concluded that while the private investigator\u2019s method of procuring the video footage was \u201cdistasteful,\u201d Creel did not have an expectation of privacy in her public activity. Id. at 1283. We find this case persuasive and the trial court\u2019s reliance upon it proper.\nFurther, although very little case law in the civil context exists, we have examined the expectation of privacy in the criminal context for additional direction. Giambra v. Aetna Cas. & Sur. Co., 315 Pa.Super. 231, 461 A.2d 1256, 1257 (1983) (\u201c[W]e have been further guided by a discussion of arson in criminal cases.\u201d). The Fourth Amendment of the United States Constitution and Article I, Section 8 of the Pennsylvania Constitution afford citizens the right to be free from unreasonable search and seizure:\nThe Fourth Amendment protects \u201c[t]he right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures.\u201d U.S. Const, amend. IV; Pa. Const, art. 1, \u00a7 8. A search within the meaning of the Fourth Amendment \u201coccurs when \u2018an expectation of privacy that society is prepared to consider reasonable is infringed.\u2019 \u201d Maryland v. Macon, 472 U.S. 463, 469, 105 S.Ct. 2778, 2782, 86 L.Ed.2d 370 (1985) (quoting United States v. Jacobsen, 466 U.S. 109, 113, 104 S.Ct. 1652, 1656, 80 L.Ed.2d 85 (1984)). Whether or not a person who invokes the protection of the Fourth Amendment may claim a \u201creasonable expectation of privacy\u201d is determined by two inquiries: (1) whether, by his conduct, the person has \u201cexhibited an actual (subjective) expectation of privacy;\u201d and (2) whether that expectation of privacy is \u201cone that society is prepared to recognize as reasonable.\u201d Smith v. Maryland, 442 U.S. 735, 740, 99 S.Ct. 2577, 2580, 61 L.Ed.2d 220 (1979) (citing Katz v. United States, 389 U.S. 347, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967) (Harlan, J., concurring)).\nIt is now well established that a person cannot have a reasonable or justifiable expectation of privacy in things or activities which are generally visible from some public vantage point. California v. Ciraolo, 476 U.S. 207, 211, 106 S.Ct. 1809, 1812, 90 L.Ed.2d 210 (1986).\nCommonwealth v. Lemanski, 365 Pa.Super. 332, 529 A.2d 1085, 1091 (1987). Pennsylvania appellate courts have found, in the criminal arena, no expectation of privacy in the following places: an airport, a vehicle parked on a public street, a front porch, a rooftop, a courthouse, or a storefront.\nBased on all of the foregoing, in the case sub judice, Appellant has failed to show that he had an expectation of privacy while praying in public. First, Appellant had a diminished expectation of privacy because of his workers\u2019 compensation claim. Second, it is undisputed that the Islamic Center was open to the public and Appellant was praying directly in front of a plate glass window. Appellant contends that the act of worship is entitled to a reasonable expectation of privacy because \u201ceven though he participated in the worship service with others, he sought to keep the service free from interference of the world[,] and in particular to keep his prayers to his god private to himself_\u201d Appellant\u2019s Brief at 21. Such an argument is a red herring. In essence, Appellant asks this Court to create a privacy expectation based on religion, but ignores the fact that he was in public at the time of surveillance. However, merely assigning a purpose to the activity cannot save Appellant\u2019s claim for intrusion upon seclusion. For purposes of the tort, Appellant\u2019s physical activities and not his thoughts, prayers, or even expressions of prayer were viewed. Witnessing Appellant kneeling in the Al-Hikmeh Institute would be no different than viewing someone kneeling in another public forum. Based upon our standard of review and applicable law, we discern no abuse of discretion by the trial court in granting Appellee\u2019s motion for summary judgment and dismissing Appellant\u2019s complaint. As such, Appellant\u2019s first issue fails.\nIn his second issue presented, Appellant argues that Zeigler\u2019s use of vision enhanced photographic equipment was impermissible. Appellant\u2019s Brief at 28-26. He contends that the Islamic Center was secluded because: (1) it was set back from Carlisle Pike behind two buildings that partially obstructed it on either side; (2) was located at a much lower elevation than the main road; (3) there was no parking or a sidewalk on Carlisle Pike, thereby limiting pedestrian observers; (4) the speed limit was 40 miles per hour on Carlisle Pike, making it virtually impossible for drivers to get more than a quick glimpse of the Center; (5) all of the surrounding businesses were closed; and (6) the parking lot across the street where Zeigler took photos was 82 yards away. Id. at 7-9; 25-28. Appellant maintains that \u201cthe permissible distance for videotaping [should] be the same distance that the human eye can see\u201d otherwise the privacy standards of the Commonwealth \u201cwould be the horrors of George Orwell\u2019s novel 1984.\u201d Id. at 29.\nInitially, we reject Appellant\u2019s reliance on DiGirolamo v. D.P. Anderson & Associates, Inc., 1999 WL 345592, 1999 Mass Super LEXIS 190 (Massachusetts, May 1999). DiGirolamo is a memorandum decision from Massachusetts and we may not rely upon it. 210 Pa.Code \u00a7 65.37. Moreover, that case dealt with surveillance of a private residence and the expectation of privacy protected under the Fourth Amendment and the Pennsylvania Constitution has been held to be greatest in one\u2019s home. Commonwealth v. Shaw, 476 Pa. 543, 383 A.2d 496, 499 (1978).\nLikewise, Appellant\u2019s citation to Commonwealth v. Williams, 494 Pa. 496, 431 A.2d 964 (1981) is misplaced. Williams actually supports the trial court\u2019s decision in this matter. We note that similar to DiGirolamo, Williams dealt with police surveillance of a private home wherein there is a heightened expectation of privacy. In Williams, our Supreme Court determined that police invaded Williams\u2019 privacy where they used a \u201cstartron,\u201d a device to observe in the dark, to conduct a warrantless search of the subject apartment. The Williams Court concluded that police conducted illegal surveillance, based upon use of the startron, but also because the investigation took place over the course of nine days and included watching two people, unrelated to the investigation, engaged in sexual intercourse. Williams, 431 A.2d at 966. However, the Williams Court recognized that police also observed Williams engaged in illegal \u201cactivities within the apartment with their naked eyes and binoculars.\u201d Id. Ostensibly, the Court found this police activity permissible, stating that upon retrial the Commonwealth was not permitted to \u201cintroduce evidence obtained by the startron[,]\u201d but implied that the Commonwealth could present the other police observations. Id. In addition, the Williams Court also noted that it was not creating a blanket prohibition of the use of a startron by police. Id.\nUnder both the Fourth Amendment and the Pennsylvania Constitution, there is no expectation of privacy if police have lawful access to objects seen in plain view. Commonwealth v. Dean, 940 A.2d 514, 519 (Pa.Super.2008). Pennsylvania appellate courts have consistently concluded that law enforcement is permitted to use various types of vision-enhancing equipment from a lawful vantage point, without violating an expectation of privacy. See Commonwealth v. Jenkins, 401 Pa.Super. 580, 585 A.2d 1078 (1991) (police observation of two narcotic street transactions through binoculars was proper); Commonwealth v. Lawson, 454 Pa. 23, 309 A.2d 391 (1973) (same); Commonwealth v. Hernley, 216 Pa.Super. 177, 263 A.2d 904 (1970) (FBI agent\u2019s observation of illegal activities while standing on a ladder using binoculars was not unreasonable); Commonwealth v. Jones, 978 A.2d 1000 (Pa.Super.2009) (use of police vehicle\u2019s spotlight to illuminate the porch of a suspected drug house at night did not infringe on reasonable expectations of privacy); Commonwealth v. Beals, 313 Pa.Super. 346, 459 A.2d 1263 (1983) (no reasonable expectation of privacy in an open field where police took aerial photographs by helicopter); compare Commonwealth v. Lemanski, 365 Pa.Super. 332, 529 A.2d 1085 (1987) (violation of expectation of privacy when police observed, through a zoom lens, illegal activity in a residential greenhouse from an unlawful vantage point); Commonwealth v. Gindlesperger, 560 Pa. 222, 743 A.2d 898 (1999) (police use of thermal imaging device to scan private residence for heat from suspected marijuana growing operation was impermissible).\nIn this case, it is undisputed that Zeigler was standing at a lawful vantage point in the parking lot across the street from the Islamic Center. His use of a zoom lens, similar to using binoculars, was not unreasonable. Moreover, the Islamic Center was not completely obstructed from the view from the street. Zeigler could have just as easily walked down the public driveway and taken photos from directly outside the window. Further, as the trial court aptly noted:\nWhile some individuals might expect a certain level of privacy in a house of worship, the specific intrusion here concerned observation of [Appellant] that any member of the non-trespassing public could have observed simply by driving up to the building in which [Appellant] was located. As such, a reasonable person videotaped under similar circumstances could not have considered such conduct \u201chighly offensive\u201d or have taken \u201cserious offense\u201d to it.\nTrial Court Opinion, 5/27/2009, at 12 (citation omitted). We agree.\nBased on the foregoing, we conclude that Appellant failed to establish his right to privacy, even with Zeigler\u2019s use of vision-enhanced photographic equipment, and Appellant\u2019s second issue fails.\nOrder affirmed.\n. On appeal, Appellant does not challenge the grant of summary judgment on the abuse of process claim.\n. Superior Court Internal Operating Procedure \u00a7 65.37 provides that \u201can unpublished memorandum decision shall not be relied upon or cited by a Court or party in any other action or proceeding_\" 210 Pa.Code \u00a7 65.37. Accordingly, we may not rely on the Fiorillo decision.\n. While a decision from another jurisdiction is certainly not binding, it may be persuasive. Commonwealth v. Koren, 435 Pa.Super. 499, 646 A.2d 1205, 1210 (1994) (\u201cWhile not binding, we find several cases from other jurisdictions to be very persuasive in this area of law.\u201d). This is so especially in light of the fact that Creel interpreted an invasion of privacy claim within the confines of a place of worship.\n. Commonwealth v. Hudson, 995 A.2d 1253 (Pa.Super.2010).\n. Commonwealth v. Turner, 982 A.2d 90 (Pa.Super.2009).\n. Commonwealth v. Gibbs, 981 A.2d 274 (Pa.Super.2009); Commonwealth v. Jones, 978 A.2d 1000 (Pa.Super.2009).\n. Commonwealth v. Thomas, 698 A.2d 85 (Pa.Super.1997).\n. Minich v. County of Jefferson, 919 A.2d 356 (Pa.Cmwlth.2007).\n. Commonwealth v. Sweeper, 304 Pa.Super. 537, 450 A.2d 1368 (1982); Commonwealth v. Sodomsky, 939 A.2d 363 (Pa.Super.2007) (no reasonable expectation of privacy of video files on a computer serviced at a public store).",
+        "type": "majority",
+        "author": "OLSON, J.:"
+      }
+    ],
+    "attorneys": [
+      "David W. Knauer, Mechanicsburg, for appellant.",
+      "Kimberly A. B oyer-Cohen, Philadelphia, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Ahmed TAGOUMA, Appellant v. INVESTIGATIVE CONSULTANT SERVICES, INC., and Michael S. Zeigler, Appellees.\nSuperior Court of Pennsylvania.\nArgued June 9, 2010.\nFiled Aug. 10, 2010.\nDavid W. Knauer, Mechanicsburg, for appellant.\nKimberly A. B oyer-Cohen, Philadelphia, for appellees.\nBEFORE: MUSMANNO, LAZARUS and OLSON, JJ."
+  },
+  "file_name": "0170-01",
+  "first_page_order": 232,
+  "last_page_order": 240
+}

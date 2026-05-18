@@ -1,0 +1,341 @@
+{
+  "id": 7286177,
+  "name": "Andrew J. HOWARD v. Linda J. HOWARD",
+  "name_abbreviation": "Howard v. Howard",
+  "decision_date": "2010-08-19",
+  "docket_number": "",
+  "first_page": "318",
+  "last_page": "324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 318"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "995 A.2d 282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 ME 42",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7287589
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/995/0232-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 43",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9358242
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1051-52"
+        },
+        {
+          "page": "1053-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/818/1050-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 64",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9259024
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b68"
+        },
+        {
+          "page": "412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/847/0411-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 127",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9083041
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 17"
+        },
+        {
+          "page": "944"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/834/0938-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 84",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9373481
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/853/0214-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 145",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8205359
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 7-14"
+        },
+        {
+          "page": "115-16"
+        },
+        {
+          "page": "114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/0110-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 141",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8207623
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/955/0212-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 173",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8191958
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b67"
+        },
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/960/0324-01"
+      ]
+    },
+    {
+      "cite": "124 S.Ct. 906",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        8897340,
+        9066734
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/540/0443-01",
+        "/br/303/0906-01"
+      ]
+    },
+    {
+      "cite": "540 U.S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8897340
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/540/0443-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 85",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9377125
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "750"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/853/0749-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 123",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8352432
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b66"
+        },
+        {
+          "page": "1091"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/1088-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 29",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8159382
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 19"
+        },
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/0690-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 745,
+    "char_count": 14328,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.3476689181492821
+    },
+    "sha256": "dad730ff01007ca66ad19a0f7b6d3bc9b1727c8c714e043bffe0b8044ab3229c",
+    "simhash": "1:cf8a4c092bba76b6",
+    "word_count": 2373
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Andrew J. HOWARD v. Linda J. HOWARD."
+    ],
+    "opinions": [
+      {
+        "text": "SILVER, J.\n[\u00b6 1] This appeal involves the procedure for addressing claims of third parties to marital property that is the subject of a divorce action. Andrew J. Howard fraudulently conveyed marital real estate to Saco-North Street, LLC, which he owned with his brother, attorney Clayton N. Howard. Clayton and Saco-North Street argue that the District Court (Biddeford, J melle, J.) lacked jurisdiction to order a receiver to sell the property and distribute all of the proceeds to Linda J. Howard because Saco-North was not a party to the divorce action. We hold that the court has subject matter jurisdiction, but we vacate and remand so Saco-North, Clayton, and any others as necessary can be made parties to a separate action to resolve any ownership dispute concerning the North Street property.\nI. BACKGROUND\n[\u00b6 2] Andrew and Linda were married in 1986. During and after the marriage, Andrew was engaged in a number of financial transactions with Clayton. Andrew and Linda bought the property at issue, a residential duplex on North Street in Saco, in 1999 with $13,000 of marital funds and a $13,000 gift from Clayton. Andrew and Linda held it as joint tenants subject to a mortgage. Clayton was not liable on the mortgage. Shortly before Andrew filed the divorce complaint, he persuaded Linda to convey this property to Saco-North. At the time of the conveyance and continuing through the time of the divorce judgment, Saco-North was owned by Andrew and Clayton. Andrew did not inform Linda before she conveyed the property that she would have no ownership interest in the company. Although Linda received no consideration for conveying the property, she remained liable on the mortgage.\n[\u00b6 3] During the divorce litigation, Clayton\u2019s law firm, Howard & Bowie Law Offices, represented Andrew. At trial, Andrew asserted that as a result of the conveyance, he and Linda together owned a one-half interest in the property, and Clayton owned the other half. The court, however, found that Andrew acted in bad faith and with the intent to deprive Linda of her share of this marital property. It held that the entire property was part of the marital estate and awarded Linda half of the equity in the property. In addition, the court ordered Andrew to attempt to release Linda from all liabilities on the property, including the mortgage. If Andrew was not successful in obtaining a release for Linda, he was ordered to attempt a sale at fair market value to a bona fide third-party purchaser and divide the net proceeds equally. He was ordered not to further encumber the property until Linda received her share of the equity.\n[\u00b6 4] The court also found evidence of Andrew\u2019s economic misconduct and bad faith regarding other real property and business interests, including violation of a discovery order pertaining to the parties\u2019 finances; significant encumbrances of marital assets through a number of transactions that were not in the ordinary course of business; and closure of joint accounts with transfers of those funds to accounts to which Linda had no access. The court ordered that a full audit of Clayton\u2019s business entities would take place if necessary to locate marital funds and enforce the divorce judgment.\n[\u00b65] Andrew appealed the judgment and we affirmed on the basis that the court did not err in its equitable division of the marital estate; the court\u2019s findings were sufficient to support its division of the marital property; the finding that Andrew committed economic misconduct was not clearly erroneous; and the court\u2019s award of spousal support was within the bounds of its discretion. Howard v. Howard, Mem-08-160 (Sept. 4, 2008).\n[\u00b6 6] Linda tried to enforce the judgment through a writ of execution but when that proved unsuccessful she filed a motion to disqualify Clayton Howard and his firm and to appoint a receiver. The court granted Linda\u2019s motion, noting that Andrew\u2019s counsel stated that he no longer represented Andrew; he was not authorized to accept service for Andrew; Andrew was somewhere in Southeast Asia, with specific whereabouts unknown; and Andrew had no intent to return to the United States. The court found that less restrictive measures to achieve compliance with the divorce judgment had been attempted and further attempts would be futile. The court gave the receiver, attorney Frank K.N. Chowdry, broad authority to buy and sell the properties that are subject to the divorce judgment and take other steps needed to enforce the divorce judgment.\n[\u00b6 7] The order appointing the receiver contains several findings of economic misconduct by Andrew and Clayton. The court found that (1) the conveyance to Saco-North was fraudulent; (2) Andrew had not paid any of the money that the divorce judgment had ordered him to pay, including spousal support, child support, or health insurance for the minor child; (3) one of the parties\u2019 properties, a camp in Damariseotta, was in foreclosure and Clayton committed misconduct regarding that property when, acting under Andrew\u2019s power of attorney, he cancelled a closing \u201cat the eleventh hour\u201d; and (4) Andrew willfully disregarded the preliminary injunction by leasing another property to a third party without Linda\u2019s consent and by continuing to encumber marital assets.\n[\u00b6 8] The receiver entered into a purchase and sale agreement for the North Street property but the buyer raised concerns regarding the receiver\u2019s authority to sell and convey the property, so the receiver filed a motion to specify his authority. Linda\u2019s affidavit in support of the receiver\u2019s motion states that she understood that Clayton was now the sole owner of Saco-North. The court granted the receiver\u2019s motion and made additional findings of economic misconduct by both Andrew and Saco-North. Unlike the divorce judgment, which granted Linda half the proceeds from the sale of the North Street property, the order specifying the receiver\u2019s powers grants Linda all of the proceeds because Andrew did not comply with any of the allocations or distributions ordered in the divorce judgment.\n[\u00b6 9] The court stayed the order for thirty days to give Saco-North and Clayton notice and opportunity to be heard. Clayton did not respond. Saco-North moved to vacate the order, arguing that jurisdiction was lacking. Following a non-testimonial hearing, the court denied Saco-North\u2019s motion. Saco-North argues that the District Court lacks jurisdiction to order the sale of the property and the distribution of all proceeds to Linda.\nII. DISCUSSION\n[\u00b6 10] The jurisdiction of a court is a matter of law that we review de novo. Windham Land Trust v. Jeffords, 2009 ME 29, \u00b6 19, 967 A.2d 690, 696. \u201cThe term \u2018jurisdiction\u2019 refers to \u2018 \u201cprescriptions delineating the classes of cases (subject matter jurisdiction) and the persons (personal jurisdiction) falling within a court\u2019s adjudicatory authority.\u201d \u2019 \u201d In re Adoption of M.A., 2007 ME 123, \u00b66, 930 A.2d 1088, 1091 (quoting Landmark Realty v. Leasure, 2004 ME 85, \u00b6 7, 853 A.2d 749, 750 (quoting Kontrick v. Ryan, 540 U.S. 443, 455, 124 S.Ct. 906, 157 L.Ed.2d 867 (2004))).\n[\u00b6 11] In a divorce proceeding, the District Court has subject matter jurisdiction to determine the ownership interests of the spouses in order to divide their marital property. Edwards v. Campbell, 2008 ME 173, \u00b67, 960 A.2d 324, 326; Guy v. Guy, 2008 ME 141, \u00b6 6, 955 A.2d 212, 214; 4 M.R.S. \u00a7 152(11) (2009); 19-A M.R.S. \u00b6 953 (2009). In a declaratory judgment action, pursuant to 14 M.R.S. \u00a7\u00a7 5951-5963 (2009), the District Court has subject matter jurisdiction to resolve ownership disputes. See Efstathiou v. The Aspinquid, Inc., 2008 ME 145, \u00b6\u00b6 7-14, 956 A.2d 110, 115-16 (holding that a quiet title and declaratory judgment action by the wife against the husband and his family business as an independent but parallel claim to a divorce action was barred by the six-year statute of limitations); Welch v. State, 2004 ME 84, 116 & n. 3, 853 A.2d 214, 216 (noting that a declaratory judgment action is an appropriate method for determining rights in real property); Phillips v. Johnson, 2003 ME 127, \u00b6 17, 834 A.2d 938, 944 (concerning the appeal of a quiet title action from the District Court).\n[\u00b6 12] Although the District Court has subject matter jurisdiction, it lacks personal jurisdiction over Saco-North and Clayton because they are not parties to the divorce action. A person or entity must be a party to a case in order for the court to have personal jurisdiction. \u201c \u2018An appearance in its common and particular use signifies an overt act by which a person against whom suit has been commenced submits himself to the jurisdiction of the court.\u2019 \u201d Greenwald v. Greenwald, 2004 ME 64, \u00b68, 847 A.2d 411, 412 (emphasis added) (quoting 6 C.J.S. Appearances \u00a7 2 (1975)).\n[\u00b6 13] This case is distinguishable from Copp v. Liberty, 2003 ME 43, 818 A.2d 1050. Copp arose out of a motion for relief from a divorce judgment. Id. \u00b6\u00b6 3-4, 818 A.2d at 1051-52. We held that the court could order a third party to be deposed for information regarding misconduct and fraud because the court had continuing subject matter jurisdiction over the case pursuant to M.R. Civ. P. 60(b). Id. \u00b6\u00b6 10-11, 818 A.2d at 1053-54. In Copp, although we did not deal with the issue directly, the source of the court\u2019s authority over the third party was its subpoena power pursuant to 16 M.R.S. \u00a7 101 (2009). This case, however, concerns personal jurisdiction over a third party or parties who assert adverse ownership interests in the property.\n[\u00b6 14] We vacate and remand to give the parties the opportunity to bring Saco-North, Clayton, and any other parties into a separate action as necessary to address the disputed claims to the North Street property and any other claims the parties may assert against one another as a result of this litigation.\n[\u00b6 15] Our decision raises a question about the appropriate procedure for resolving claims involving marital property and third parties. In civil cases generally, there are two possible procedures to address these types of claims: joinder and consolidation. Joinder is the joining of claims, remedies, or parties in a single lawsuit. M.R. Civ. P. 18, 19, 20, 111; Black\u2019s Law Dictionary 913 (9th ed. 2009). Consolidation under the Maine Rules of Civil Procedure may unify two separate cases, in which case it functions as a join-der, but consolidation may instead bring together only parts of a case or certain claims or parties and leave others for separate judgments. See M.R. Civ. P. 42, 111(b).\n[\u00b6 16] Joinder in civil cases other than those in the Family Division is \u201cliberally allowed.\u201d M.R. Civ. P. Ill Advisory Notes to 2009 amend. However, join-der in Family Division cases is only permitted with actions that could be brought independently in the Family Division or persons authorized to file or participate in a Family Division action. Godsoe v. Godsoe, 2010 ME 42, \u00b6 20 n. 5, 995 A.2d 282, 237; M.R. Civ. P. 111. Rule 111 is part of the amended Family Division Rules, M.R. Civ. P. 100-125, which went into effect on January 1, 2009, and replaced the former M.R. Civ. P. 80 and the former Rules for the Family Division of the Maine District Court. Levy, Maine Family Law \u00a7 4.1 at 4-2 (6th ed. 2009). Restrictive joinder rules promote the goals of the Family Division by enabling the court to manage family cases effectively for timely resolution. See M.R. Civ. P. 100 Advisory Notes to 2009 amend. & n.1.\n[\u00b6 17] Consolidation permits the court to manage the Family Division case and the independent claim involving the third party together while keeping the judgments separate. M.R. Civ. P. 111(b) states only that M.R. Civ. P. 42 \u201cgoverns consolidation in Family Division matters.\u201d Rule 42 states:\n(a)Consolidation. When actions involving a common question of law or fact are pending before the court, in the same county or division or a different county or division, it may order a joint hearing or trial of any or all the matters in issue in the action; it may order all the actions consolidated; and it may make such orders concerning proceedings therein as may tend to avoid unnecessary costs or delaj.\n(b) Separate Trials. The court in furtherance of convenience or to avoid prejudice may order a separate trial in the county or division where the action is pending, or a different county or division, of any claim, cross-claim, counterclaim, or third-party claim, or of any separate issue or of any number of claims, cross-claims, counterclaims, third-party claims, or issues.\n(c) Convenience and Justice. In making any order under this rule, the court shall give due regard to the convenience of parties and witnesses and the interests of justice.\n[\u00b6 18] Rule 111 does not permit joinder, in this case because an action involving Saco-North\u2019s claim to the North Street property could not be maintained separately as a Family Division action. However, consolidation may be appropriate provided an independent action is filed. See Efstathiou, 2008 ME 145, \u00b6 5 & n. 1, 956 A.2d at 114. In Efstathiou, we indicated that consolidation may be appropriate when a claim involving a third party is related to property division in a divorce action. See id. Consolidation does not give third parties standing to challenge the division of property between the two parties to the divorce. See 19-A M.R.S. \u00a7 953(1) (\u201cIn a proceeding for a divorce ... the court shall set apart to each spouse the spouse\u2019s property and shall divide the marital property....\u201d). Therefore, although we vacate the order specifying the powers of the receiver, we also note that Saco-North lacks standing to argue that, as between Andrew and Linda, the court erred when it modified the distribution of the North Street sale proceeds from an equal distribution to all to Linda.\nThe entry is:\nJudgment vacated. Remanded for further proceedings consistent with this opinion.",
+        "type": "majority",
+        "author": "SILVER, J."
+      }
+    ],
+    "attorneys": [
+      "William M. Avantaggio, Esq. (orally), Damariscotta, ME, for Saco-North Street, LLC and Clayton Howard.",
+      "Susan B. Driscoll, Esq. (orally), Bergen & Parkinson, Kennebunk, ME, for Linda Howard.",
+      "Frank K.N. Chowdry (orally), Portland, ME, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 83\nAndrew J. HOWARD v. Linda J. HOWARD.\nSupreme Judicial Court of Maine.\nArgued: June 15, 2010.\nDecided: Aug. 19, 2010.\nWilliam M. Avantaggio, Esq. (orally), Damariscotta, ME, for Saco-North Street, LLC and Clayton Howard.\nSusan B. Driscoll, Esq. (orally), Bergen & Parkinson, Kennebunk, ME, for Linda Howard.\nFrank K.N. Chowdry (orally), Portland, ME, pro se.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0318-01",
+  "first_page_order": 348,
+  "last_page_order": 354
+}

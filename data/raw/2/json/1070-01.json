@@ -1,0 +1,322 @@
+{
+  "id": 7290246,
+  "name": "BANK OF AMERICA, N.A., Appellant, v. Mark G. GRIFFIN, Appellee",
+  "name_abbreviation": "Bank of America, N.A. v. Griffin",
+  "decision_date": "2010-08-26",
+  "docket_number": "No. 09-CV-387",
+  "first_page": "1070",
+  "last_page": "1077",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 1070"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "941 A.2d 1028",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8398358
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/941/1028-01"
+      ]
+    },
+    {
+      "cite": "114 S.Ct. 1522",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "511 U.S. 244",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147362
+      ],
+      "weight": 9,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "280"
+        },
+        {
+          "page": "272-73"
+        },
+        {
+          "page": "285-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0244-01"
+      ]
+    },
+    {
+      "cite": "954 A.2d 1016",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8180197
+      ],
+      "pin_cites": [
+        {
+          "page": "1022"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/954/1016-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 181",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8466453
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "185"
+        },
+        {
+          "page": "183, 185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/905/0181-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 153",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8331768
+      ],
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/0153-01"
+      ]
+    },
+    {
+      "cite": "598 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7350029
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "166"
+        },
+        {
+          "page": "166",
+          "parenthetical": "internal quotation marks omitted; emphasis added"
+        },
+        {
+          "page": "166",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/598/0162-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 7902",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "940 A.2d 163",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8302345
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "174"
+        },
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/0163-01"
+      ]
+    },
+    {
+      "cite": "509 F.Supp. 342",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5567863
+      ],
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/509/0342-01"
+      ]
+    },
+    {
+      "cite": "414 A.2d 878",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11293182
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/414/0878-01"
+      ]
+    },
+    {
+      "cite": "725 A.2d 495",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11638711
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "500"
+        },
+        {
+          "page": "500-01"
+        },
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/725/0495-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868834
+      ],
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/668/0792-01"
+      ]
+    },
+    {
+      "cite": "691 A.2d 97",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11911388
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "99"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/691/0097-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 831,
+    "char_count": 20742,
+    "ocr_confidence": 0.717,
+    "pagerank": {
+      "raw": 1.767602052431141e-07,
+      "percentile": 0.7109217564421709
+    },
+    "sha256": "035d6fa8574e5c256b84f1bfcbb9c35f4ebaee3bf59ccdd3962f5110bb8406a4",
+    "simhash": "1:9a8130b13316f4da",
+    "word_count": 3276
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BLACKBURNE-RIGSBY, THOMPSON, and OBERLY, Associate Judges."
+    ],
+    "parties": [
+      "BANK OF AMERICA, N.A., Appellant, v. Mark G. GRIFFIN, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "BLACKBURNE-RIGSBY, Associate Judge:\nAppellant Bank of America (\u201cBank\u201d) appeals from the trial court\u2019s summary judgment award in favor of appellee, Trustee Mark G. Griffin. This case requires us to interpret the District of Columbia\u2019s lis pendens statute, D.C.Code \u00a7 42-1207 (2000), and decide (for the first time) whether it has retroactive effect vis-a-vis the common-law rights of priority that existed as of June 24, 2000, the day on which the statute took effect. We conclude that it does not, and for the reasons explained more fully below, we affirm.\nI. Factual Background\nThe instant quiet-title action concerns a piece of property (the \u201cProperty\u201d) whose ownership had been contested in an earlier, separate lawsuit (the \u201cOriginal Lawsuit\u201d). The Original Lawsuit was filed June 11, 1999, by Charles T. Durosko\u2019s stepchildren to challenge his ownership of the Property. Durosko\u2019s stepchildren alleged that he had improperly transferred the Property from a marital trust into his own name. More than seven years after the Original Lawsuit was filed, on August 21, 2006, the trial court entered judgment in favor of Durosko\u2019s stepchildren, imposing a constructive trust (the \u201cTrust\u201d) on the Property and ordering Durosko to convey it to the Trust free of all encumbrances.\nDuring the seven years in which the Original Lawsuit was pending, however, there were two important developments that are particularly relevant for our purposes here. First, the D.C. Council enacted a lis pendens statute that upended the common-law rule regarding rights of priority in the District of Columbia. See D.C.Code \u00a7 42-1207. The \u201cNotice of pen-dency of action (lis pendens)\u201d statute went into effect on June 24, 2000, approximately one year after Durosko\u2019s stepchildren filed the Original Lawsuit. Second, about five months before the final judgment was entered in the Original Lawsuit, in March 2006, Mr. Durosko took out a mortgage on the Property from Seattle Mortgage Company (\u201cOriginal Lender\u201d). Mr. Durosko borrowed more than $250,000 and the Original Lender secured the loan with a deed of trust (the \u201cDeed of Trust\u201d). Appellant Bank is now the beneficiary of the Deed of Trust.\nIt is undisputed that Durosko\u2019s stepchildren never filed a statutory notice of lis pendens in accordance with D.C.Code \u00a7 42-1207. Appellee argues that such a filing was unnecessary, though, because Durosko\u2019s stepchildren\u2019s right of priority traces back (via the common-law rule in effect at the time) to the filing of the Original Lawsuit, on June 11, 1999. Appellant, on the other hand, argues that the Original Lender reasonably relied on D.C.Code \u00a7 42-1207 \u2014 which, at that point, had been in effect for six years already\u2014 when it searched only the statutory notices of lis pendens that had been filed with the Recorder of Deeds. Ultimately, then, the outcome of this case turns on whether D.C.Code \u00a7 42-1207 has retroactive effect vis-a-vis the common-law rights of priority that existed before the statute went into effect.\nII. Legal Analysis\nAppellant challenges the trial court\u2019s summary judgment award, which we review de novo. Rockler v. Sevareid, 691 A.2d 97, 99 (D.C.1997). We view the record in the light most favorable to appellant, and \u201c[o]ur role is to determin[e] whether the trial court properly concluded there was no genuine issue of material fact and that [appellee] is entitled to judgment as a matter of law.\u201d Id. (internal quotation marks omitted). The ultimate issue in this case concerns the proper interpretation of D.C.Code \u00a7 42-1207, which involves a \u201cclear question of law\u201d that we review de novo. District of Columbia v. Morrissey, 668 A.2d 792, 796 (D.C.1995).\nAs noted above, before D.C.Code \u00a7 42-1207 took effect on June 24, 2000, the District of Columbia adhered to the common-law doctrine of lis pendens. See, e.g., Tillerson, supra, 916 A.2d at 156. In general, the concept of lis pendens\u2014whether defined by statute or by common law\u2014\u201chas the legal effect of providing constructive notice of pending litigation involving real property interests.\u201d Id. As we reiterated in Tillerson:\nUnder lis pendens, nothing relating to the subject matter of the suit could be changed while it was pending and one acquiring an interest in the property involved therein from a party thereto took such interest subject to the parties\u2019 rights as finally determined, and was conclusively bound by the results of the litigation. The property may still be transferred but the purchaser or en-cumbrancer (historically named the \u201cpurchaser pendente lite\u201d) takes the property subject to the final judgment rendered in the pending litigation. The resulting judgment and the interest preserved or obtained through the judgment relate back to the lis pendens date, and any party whose interest in the property arose during the interim period is subject to the final judgment.\nId. at 156-57 (internal quotation marks and citations omitted; italics in original).\nUnder the common-law doctrine of lis pendens, the mere filing of an action affecting title to real property in the District was sufficient to put potential purchasers on notice. See, e.g., Lewis v. Jordan Inv., Inc., 725 A.2d 495, 500 (D.C.1999). In Lewis, we applied the common-law rule of lis pendens even though we recognized that it imposed a \u201cpotentially harsh\u201d result in that case. Id. There, the trial court concluded that the appellee was a purchaser in good faith because it had no notice of the appellants\u2019 claim to the property. Id. We reversed, however, reasoning that the \u201cstatus of our law\u201d at the time dictated\u2014 as a matter of law, via the common-law doctrine of lis pendens \u2014 that appellee had constructive knowledge of appellants\u2019 claim simply because appellants\u2019 bankruptcy appeal was pending when appellee purchased the property. Id. at 500-01.\nMore recently, in Tillerson, we noted that many jurisdictions, including the District, have enacted Us pendens statutes to simplify the process and \u201cmake[ ] it easier for interested third parties to discover the existence and scope of the litigation.\u201d 916 A.2d at 157. The District\u2019s statute provides, in relevant part:\nThe pendency of an action or proceeding ... affecting the title to or asserting a mortgage, lien, security interest, or other interest in real property situated in the District of Columbia, does not constitute notice to, and shall not affect a party not a party thereto, unless a notice of the pendency of the action or proceeding is filed for recordation, as required by subsection (b) of this section.\nD.C.Code \u00a7 42-1207(a).\nThere is no question that D.C.Code \u00a7 42-1207 \u201cclearly overruled\u201d the earlier common-law rule. Anderson, supra, 905 A.2d at 185. As noted above, before the statute went into effect on June 24, 2000, the mere filing of an action affecting title to real property in the District was sufficient to put potential purchasers on notice, see, e.g., Lewis, supra, 725 A.2d at 500, whereas now, D.C.Code \u00a7 42-1207 specifies that the mere \u201cpendency of an action ... does not constitute notice\u201d unless a notice of lis pendens is filed for recordation in accordance with the statute. Thus, while the statute clearly governs with respect to all actions affecting title to real property in the District that were filed on or after June 24, 2000, the question here is whether D.C.Code \u00a7 42-1207 has retroactive effect vis-a-vis the common-law rights of priority that existed before June 24, 2000.\nA.\nAppellee argues that D.C.Code \u00a7 42-1207 has no retroactive effect because the \u201cgeneral rule,\u201d as we explained in Wolf v. District of Columbia Rental Accommodations Comm\u2019n, 414 A.2d 878, 880 n. 8 (D.C.1980), is that \u201cstatutes are to be construed as having only a prospective operation, unless there is a clear legislative showing that they are to be given a retroactive or retrospective effect.\u201d Accord Windsor v. State Farm Ins. Co., 509 F.Supp. 342, 344 (D.D.C.1981) (\u201cstatutes are not to be applied retroactively unless the words used are so clear, strong and imperative that no other meaning can be annexed to them or unless the intention of the legislature cannot otherwise be satisfied\u201d (internal quotation marks omitted)). Here, appellee argues, there is no such \u201cclear legislative showing\u201d that D.C.Code \u00a7 42-1207 was intended to apply retroactively.\nAppellant disagrees, arguing that the plain language of the statute manifests a clear intent for retroactive application. In particular, appellant focuses on the first words of the statute (i.e., \u201cThe pendency of an action or proceeding ...\u201d (emphasis added)) and argues that the D.C. Council would have used \u201cfiling\u201d instead of \u201cpen-dency\u201d if it had intended the statute to apply only prospectively. Relatedly, appellant argues that the overall purpose of the statute belies a strictly prospective application. We will address these arguments in turn.\nFirst, regarding the plain language argument, appellant relies primarily upon District of Columbia v. Beretta U.S.A. Corp., 940 A.2d 163, 174 (D.C.2008), but that case hardly supports appellant\u2019s claim that the word \u201cpendency\u201d manifests a \u201cclear legislative showing\u201d that the Council intended D.C.Code \u00a7 42-1207 to apply retroactively. In Beretta, it was undisputed that the statute at issue explicitly applied to claims that were pending when the statute became law \u2014 the real issue in that case, in fact, was whether the statute was constitutional. Nevertheless, appellant focuses on the word \u201cpending\u201d in the Beretta statute and the word \u201cpendency\u201d in D.C.Code \u00a7 42-1207 to argue that we have already \u201cmade clear that, where a statute explicitly affects \u2018pending\u2019 actions, it is intended to apply to all actions pending at that time.\u201d We find this argument unpersuasive. The statute in Beretta provides, in relevant part, that any \u201caction that [was] pending on [the date of enactment] shall be immediately dismissed by the court in which the action was brought or is currently pending.\u201d Beretta, supra, 940 A.2d at 167 (quoting 15 U.S.C. \u00a7 7902(b)). This is just about the most \u201cclear legislative showing\u201d we can imagine in the context of plain language statutory interpretation; indeed, we remarked in Beretta that Congress \u201c[u]ndeniably\u201d intended the statute to apply to pending actions. Id. at 174. Here, on the other hand, the single word \u201cpendency\u201d in D.C.Code \u00a7 42-1207 is far from a \u201cclear legislative showing\u201d that the Council intended the statute to affect litigants\u2019 pre-existing common-law rights of priority.\nIndeed, we find it particularly significant here that there is nothing in the statute or its legislative history to suggest that the Council deliberately used \u201cpendency\u201d instead of \u201cfiling\u201d in order to revoke the common-law rights of priority that existed as of June 24, 2000. And if we apply D.C.Code \u00a7 42-1207 retroactively as appellant urges, the statute would cause such a revocation because, in that case, the statute would trump all pre-existing common-law rights and wipe the slate clean as of June 24, 2000. So, in this case, for example, if someone else had filed another lawsuit affecting title to the Property sometime after June 24, 2000 and then he or she beat Durosko\u2019s stepchildren to the Recorder of Deeds\u2019 office, that person would have a superior right of priority under appellant\u2019s interpretation of the statute. But there is nothing in the text of the statute or its legislative history to suggest that the Council intended all litigants with pending cases to rush to the Recorder of Deeds\u2019 office on June 24, 2000. As such, we reject appellant\u2019s plain language argument because we cannot say that the solitary use of the word \u201cpendency\u201d in D.C.Code \u00a7 42-1207 constitutes a \u201cclear legislative showing\u201d that the Council intended to revoke litigants\u2019 pre-existing common-law rights of priority.\nWe find appellant\u2019s related argument unpersuasive for similar reasons. Appellant argues that the statute must apply retroactively or else we will be \u201csubvert[ing] the D.C. Council's intent to simplify the process of searching for lawsuits concerning title to real estate by requiring purchasers and lenders to search the court docket in addition to the records at the Recorder of Deeds.\u201d We are not unsympathetic to this argument. Indeed, as we noted in Tillerson, the very purpose of the statutory filing requirement is to \u201cmake[ ] it easier for interested third parties to discover the existence and scope of the litigation.\u201d Tillerson, supra, 916 A.2d at 157. Ultimately, however, we find that appellant falls short of overcoming the general rule that \u201cstatutes are to be construed as having only a prospective operation\u201d because we see no \u201cclear legislative showing\u201d that the Council intended D.C.Code \u00a7 42-1207 to apply retroactively. Wolf, supra, 414 A.2d at 880 n. 8.\nGiven the nature of the statute\u2019s underlying general policy objective, one might reasonably assume that the Council intended to simplify the process of searching for lis pendens effective immediately. In our view, however, it seems at least equally plausible that the Council intended to simplify the process going forward only (i.e., without affecting the common-law rights of priority that existed on June 24, 2000). In fact, we see no \u201cclear legislative showing\u201d that the Council even considered litigants\u2019 pre-existing common-law rights of priority \u2014 much less that it deliberately meant to revoke them. We must follow the general rule, therefore, and interpret D.C.Code \u00a7 42-1207 as having only a prospective operation. Wolf, supra, 414 A.2d at 880 n. 8; accord Nixon, supra, 954 A.2d at 1023 (\u201clegislation must be considered as addressed to the future, not to the past ... unless such be the unequivocal and inflexible import of the [statutory] terms.\u201d (internal quotation marks omitted; alterations in original)).\nB.\nAppellant\u2019s remaining contention merits only brief discussion. Appellant contends that D.C.Code \u00a7 42-1207 should apply retroactively because it is merely \u201cprocedural, rather than substantive\u201d and therefore it should presumptively apply to pending cases. Appellant relies, inter alia, on Montgomery v. District of Columbia, 598 A.2d 162, 166 (D.C.1991), where we observed that \u201c[u]nless a contrary legislative intent appears, changes in statute law which pertain only to procedure are generally held to apply to pending cases.\u201d (internal quotation marks omitted). Montgomery is distinguishable, however, because the statute in that case was clearly procedural \u2014 it established a new tribunal for administrative appeals. In contrast, D.C.Code \u00a7 42-1207 is not so easily categorized as either a \u201cprocedural\u201d or a \u201csubstantive\u201d law.\nAppellant argues that D.C.Code \u00a7 42-1207 is procedural because it merely \u201cmodifies the procedure by which lis pendens is given effect.\u201d Appellant also emphasizes that Durosko\u2019s stepchildren had no vested property interests (via the common-law Us pendens doctrine) that were divested upon the enactment of D.C.Code \u00a7 42-1207. While it is true that \u201ca person obtains no new property interest through the operation of the lis pendens doctrine,\u201d we cannot agree that D.C.Code \u00a7 42-1207 \u201cpertain[s] only to procedure\u201d because, if it applies retroactively, it would most certainly affect the substantive rights of litigants who had cases pending on June 24, 2000. Thus, even though the filing of the Original Lawsuit did not create any property rights, it did secure Durosko\u2019s stepchildren\u2019s right of priority under the common-law lis pendens doctrine. And that right of priority was \u201csubstantive\u201d in the sense that the lis pendens provided constructive notice to all potential purchasers of the Property, thereby ensuring that anyone who acquired an interest in the Property during the pendency of the Original Lawsuit would take his or her interest subject to the final judgment.\nIndeed, appellant all but concedes that a retroactive application of D.C.Code \u00a7 42-1207 would affect substantive rights inasmuch as appellant acknowledges that Du-rosko\u2019s stepchildren\u2019s common-law Us pen-dens provided constructive notice to all potential purchasers from the day the Original Lawsuit was filed, on June 11, 1999, until the effective date of D.C.Code \u00a7 42-1207, on June 24, 2000. The only question, then, is whether Durosko\u2019s stepchildren were required to file a statutory notice of Us pendens to preserve their common-law right of priority after June 24, 2000. As explained more fully herein, we conclude that they were not because we cannot presume that the Council intended to revoke litigants\u2019 pre-existing common-law rights of priority.\nIn sum, because D.C.Code \u00a7 42-1207 is not easily categorized as either procedural or substantive, and because its retroactive application would certainly have substantive consequences, we decline to follow the reasoning outlined in Montgomery, supra, that laws \u201cwhich pertain only to procedure are generally held to apply to pending cases.\u201d 598 A.2d at 166 (internal quotation marks omitted; emphasis added). Instead, we find it more appropriate here to apply the Wolf presumption that \u201cstatutes are to be construed as having only a prospective operation, unless there is a clear legislative showing that they are to be given a retroactive or retrospective effect.\u201d 414 A.2d at 880 n. 8; accord Nixon, supra, 954 A.2d at 1023 (\u201clegislation must be considered as addressed to the future, not to the past ... unless such be the unequivocal and inflexible import of the [statutory] terms.\u201d (internal quotation marks omitted; alterations in original)).\nIII. Conclusion\nFor all the foregoing reasons, we affirm the trial court\u2019s summary judgment award in favor of appellee.\nSo ordered.\n. We discussed briefly, but did not reach, this issue in 1st Atl. Guar. Corp. v. Tillerson, 916 A.2d 153, 157 (D.C.2007).\n. Appellee was appointed Trustee to enforce the constructive Trust and to bring a quiet-title action against any person claiming an interest in the Property through Mr. Durosko.\n.For a more complete discussion about the statute\u2019s effect on the pre-existing common-law Us pendens system, see section II, infra.\n. Lis pendens is translated literally as \"a pending lawsuit.\" See Tr. 1245 13th St., NW # 608 Trust v. Anderson, 905 A.2d 181, 183 n. 2 (D.C.2006).\n. In fact, in Anderson, supra, 905 A.2d at 185, we speculated that:\nIt appears that \u00a7 42-1207 was enacted in large part as a response to the court\u2019s holding in Lewis, supra, which recognized that the mere filing of a lawsuit effectuated lis pendens, without any other sort of notification to potential property buyers. Lewis was decided on February 25, 1999, and the \"Fairness in Real Estate Transactions and Retirement Funds Protection Act\u201d was signed into law in early 2000, becoming effective on June 24, 2000.\n. See, e.g., Anderson, supra, 905 A.2d at 183, 185 (holding that D.C.Code \u00a7 42-1207, and not the common-law rule, governed where the litigation at issue commenced on December 15, 2000).\n.See, e.g., Nixon v. District of Columbia Dep't of Employment Servs., 954 A.2d 1016, 1022 (D.C.2008) (\"Application of new legislation is retroactive if it 'changes the legal consequences of acts completed before its effective date.' \u201d) (quoting Landgraf v. USI Film Prods., 511 U.S. 244, 269 n. 23, 114 S.Ct. 1483, 128 L.Ed.2d 229 (1994)); Landgraf, supra, 511 U.S. at 280, 114 S.Ct. 1522 (explaining that a statute has retroactive effect if \u201cit would impair rights a party possessed when he acted, increase a party's liability for past conduct, or impose new duties with respect to transactions already completed\u201d).\n. See D.C.Code \u00a7 42-1207(c) (specifying that the statutory notices \"shall have effect from the time of the filing for recordation\").\n. Cf. Landgraf, supra, 511 U.S. at 272-73, 114 S.Ct. 1522 (\"Requiring clear [legislative] intent assures that Congress itself has affirmatively considered the potential unfairness of retroactive application and determined that it is an acceptable price to pay for the countervailing benefits.\u201d).\n. See also Landgraf, supra, 511 U.S. at 285-86, 114 S.Ct. 1522 (\u201cIt will frequently be true ... that retroactive application of a new statute would vindicate its purpose more fully. That consideration, however, is not sufficient to rebut the presumption against retroactivity.\u201d) (footnote omitted).\n. Heck v. Adamson, 941 A.2d 1028, 1029 n. 1 (D.C.2008) (internal quotation marks omitted).\n. Montgomery, supra, 598 A.2d at 166 (internal quotation marks omitted).",
+        "type": "majority",
+        "author": "BLACKBURNE-RIGSBY, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Robert A. Scott, Baltimore, MD, for appellant.",
+      "Ashley E. Wiggins, Washington, DC, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "BANK OF AMERICA, N.A., Appellant, v. Mark G. GRIFFIN, Appellee.\nNo. 09-CV-387.\nDistrict of Columbia Court of Appeals.\nArgued March 22, 2010.\nDecided Aug. 26, 2010.\nRobert A. Scott, Baltimore, MD, for appellant.\nAshley E. Wiggins, Washington, DC, for appellee.\nBefore BLACKBURNE-RIGSBY, THOMPSON, and OBERLY, Associate Judges."
+  },
+  "file_name": "1070-01",
+  "first_page_order": 1086,
+  "last_page_order": 1093
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7287770,
+  "name": "LANCASTER GENERAL HOSPITAL, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (WEBER-BROWN), Respondent",
+  "name_abbreviation": "Lancaster General Hospital v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-11-30",
+  "docket_number": "",
+  "first_page": "1133",
+  "last_page": "1134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 1133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 676,
+    "ocr_confidence": 0.663,
+    "sha256": "1bda9829646ed7015caa1ee958b743e650a36854c7392c6ee07e5c29ea498571",
+    "simhash": "1:cc2d1156e4c0a2db",
+    "word_count": 105
+  },
+  "last_updated": "2023-07-14T15:10:56.058049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LANCASTER GENERAL HOSPITAL, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (WEBER-BROWN), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of November, 2010, the Petition for Allowance of Appeal is GRANTED, LIMITED to the following issue, rephrased for clarity:\nWhether the Commonwealth Court erred in concluding that Section 309 of the Workers\u2019 Compensation Act, 77 P.S. \u00a7 582, permits a claimant\u2019s workers\u2019 compensation benefits to be calculated based on wages earned with an employer different from the one paying the benefits and where the change in employer took place more than 52 weeks before the date of the injury?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "LANCASTER GENERAL HOSPITAL, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (WEBER-BROWN), Respondent.\nSupreme Court of Pennsylvania.\nNov. 30, 2010."
+  },
+  "file_name": "1133-02",
+  "first_page_order": 1155,
+  "last_page_order": 1156
+}

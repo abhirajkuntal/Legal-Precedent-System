@@ -1,0 +1,289 @@
+{
+  "id": 7287319,
+  "name": "In Re: C.W. Appeal of: City of Philadelphia, Department of Human Services",
+  "name_abbreviation": "In re C.W.",
+  "decision_date": "2010-10-29",
+  "docket_number": "",
+  "first_page": "891",
+  "last_page": "897",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "787 A.2d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9455862
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/787/1040-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 348",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823740
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0348-01"
+      ]
+    },
+    {
+      "cite": "826 A.2d 863",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        197223,
+        9111843,
+        197151,
+        9111783
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "873"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0479-01",
+        "/a2d/826/0863-02",
+        "/pa/573/0481-01",
+        "/a2d/826/0863-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 481",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197151
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "496"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0481-01"
+      ]
+    },
+    {
+      "cite": "876 A.2d 1009",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8968640
+      ],
+      "pin_cites": [
+        {
+          "page": "1016"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/876/1009-01"
+      ]
+    },
+    {
+      "cite": "725 A.2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11639758,
+        1701999
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/725/0729-01",
+        "/pa/555/0505-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 505",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701999
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0505-01"
+      ]
+    },
+    {
+      "cite": "876 A.2d 904",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687721,
+        8968327
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0149-01",
+        "/a2d/876/0904-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 149",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687721
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0149-01"
+      ]
+    },
+    {
+      "cite": "763 A.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11175325
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/763/0962-01"
+      ]
+    },
+    {
+      "cite": "906 A.2d 669",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8467742
+      ],
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/906/0669-01"
+      ]
+    },
+    {
+      "cite": "879 A.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8933265,
+        687746
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/879/0185-01",
+        "/pa/583/0478-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 478",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687746
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0478-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 756,
+    "char_count": 17550,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828163340797088
+    },
+    "sha256": "ae66fc3119cc3b697f7f1444f4dee6169232c1418de6592abffcb8804db11515",
+    "simhash": "1:a3629304f69e7e39",
+    "word_count": 2904
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+    ],
+    "parties": [
+      "In Re: C.W. Appeal of: City of Philadelphia, Department of Human Services."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge LEAVITT.\nThe City of Philadelphia, Department of Human Services (Human Services) appeals an order of the Court of Common Pleas of Philadelphia County directing it to pay restitution to a victim of C.W., who was a child in foster care when he committed an act of vandalism. Because the trial court lacked authority to order restitution, we reverse.\nC.W. was committed to the care of Human Services on December 6, 2005, and placed into a foster home. On August 2, 2007, a juvenile petition was filed in Delaware County, alleging that C.W., who was 12 at that time, had entered a vehicle impound yard on June 25, 2007, with three other youths and vandalized over 20 vehicles. The petition stated that C.W. lived in Philadelphia with his grandmother. On October 17, 2007, a hearing on the petition was conducted by the Court of Common Pleas of Delaware County at which C.W. was adjudicated delinquent. The court ordered restitution in the amount of $16,886.43, described as \u201cjoint and several and placed on the parents.\u201d Reproduced Record at 4 (R.R.-). The court then transferred C.W.\u2019s case to the Philadelphia Court of Common Pleas (trial court) for disposition.\nThe trial court\u2019s disposition hearing took place on January 15, 2008. The court placed C.W. on probation and ordered restitution in the amount of $4,221.20, to be paid by C.W.\u2019s parents.\nOn April 1, 2008, a review of C.W.\u2019s delinquency and dependency matters was heard by the trial court. The Assistant District Attorney (District Attorney) stated that C.W. had been in compliance with the terms of his probation, with the exception of the restitution order. The District Attorney requested that the case be returned to Delaware County for amendment of the restitution order to make C.W., instead of his parents, responsible for the $4,221.20 payment. The court inquired into C.W.\u2019s custody and learned that Human Services had placed C.W. in foster care with his grandmother, who was planning to adopt him. The trial court observed that because C.W. was a ward of Human Services at the time of the delinquent act, Human Services had the responsibility to pay the restitution. Further, the trial court observed that C.W. was not old enough to work and earn the amount needed to satisfy the restitution award. The trial court did not immediately issue a ruling, however, so that Human Services could research and brief the legal question of its liability for C.W.\u2019s restitution.\nOn May 5, 2008, a second hearing was conducted by the trial court. At the hearing, the District Attorney explained that the only concern of his office was that the restitution be paid, without regard to who paid it. Counsel for C.W. then requested time to consider the issue. The trial court granted the request and the hearing was continued.\nOn August 11, 2008, a third hearing was held. The hearing transcript is four pages in length. Without any discussion of the issue, the trial court ordered Human Services \u201cto pay restitution in the amount of $4,221.20.\u201d R.R.44.\nHuman Services appealed the trial court\u2019s order to the Superior Court on September 4, 2008. On October 7, 2008, Human Services filed a concise statement of matters complained of on appeal pursuant to Pa. R.A.P. 1925(b), and the trial court issued an opinion on December 10, 2009. Because one of the issues raised in the appeal involved governmental immunity, the Superior Court transferred the appeal to this Court.\nIn its statement of matters complained of on appeal, Human Services argued that the trial court erred and abused its discretion because the court lacked statutory authority to order Human Services to make restitution on behalf of a juvenile committed to its care. Human Services reasoned that it did not meet the statutory definition of a \u201cparent\u201d set forth in Chapter 55 of the Domestic Relations Code (Domestic Code), titled \u201cLiability for Tor-tious Acts of Children,\u201d 23 Pa.C.S. \u00a7 5501, and this statute is the exclusive authority for holding a person liable for the tortious acts of a child. Further, Human Services noted that this act limits parental liability to $1,000. 23 Pa.C.S. \u00a7 5505(a)(1). Accordingly, even if the trial court deemed Human Services to be a \u201cparent,\u201d the court could not order it to pay more than $1,000 in damages. Finally, Human Services argued that it was immune from any liability under the act commonly known as the Political Subdivision Tort Claims Act, 42 Pa.C.S. \u00a7\u00a7 8541-8542.\nIn its opinion, the trial court explained that the Juvenile Act authorized its order. The trial court cited Section 6352(a)(5) of the Juvenile Act, 42 Pa.C.S. \u00a7 6352(a)(5), as the basis for its discretion to fashion an award of restitution where a juvenile commits a delinquent act, and Section 6310 of the Juvenile Act, 42 Pa.C.S. \u00a7 6310, for its authority to hold Human Services liable for payment of the restitution. As to the statutory limit of $1,000, the trial court agreed that Human Services was not a parent as defined by the Domestic Code, but it was irrelevant inasmuch as the court\u2019s order was based upon the Juvenile Act, not the Domestic Code. Finally, the trial court held that governmental immunity did not bar its order of restitution.\nHuman Services now appeals to this Court. Again, it contends that the trial court lacked statutory authority to order Human Services to pay restitution. First, it argues that the Juvenile Act does not authorize a court to hold Human Services liable for C.W.\u2019s acts. Second, it argues that the trial court\u2019s restitution order is barred by governmental immunity.\nWe begin with a consideration of whether there was statutory authority for the trial court\u2019s restitution order, since \u201can order of restitution must be based upon statutory authority.\u201d In re M.W., 555 Pa. at 511, 725 A.2d at 731. Absent statutory authority, \u201cthe order [of restitution] must be vacated.\u201d In re R.D.R., 876 A.2d at 1016.\nAs noted by Human Services, the Domestic Code specifically addresses the liability of parents for the acts of their children. It provides, in relevant part:\nIn any criminal proceeding against a child and in any proceeding against a child under 42 Pa.C.S. Ch. 63 (relating to juvenile matters), the court shall ascertain the amount sufficient to fully reimburse any person who has suffered injury because of the tortious act of the child and direct the parents to make payment in the amount not to exceed the limitations set forth in section 5505 (relating to monetary limits of liability).\n23 Pa.C.S. \u00a7 5503(a). A \u201cparent\u201d is defined to include \u201cnatural or adoptive parents.\u201d 23 Pa.C.S. \u00a7 5501. Parents who do not have custody of the child at the time of the act cannot be held liable; however, desertion of a child does not absolve liability. 23 Pa. C.S. \u00a7 5508(b). The liability of the parent is limited to:\n(1) The sum of $1,000 for injuries suffered by any one person as a result of one tortious act or continuous series of tortious acts.\n(2) The sum of $2,500 regardless of the number of persons who suffer injury . as a result of one tortious act or continuous series of tortious acts.\n23 Pa.C.S. \u00a7 5505(a)(1) and (2).\nThe trial court conceded that Human Services did not meet the definition of parent as defined in 23 Pa.C.S. \u00a7 5501. However, the trial court concluded that its authority to impose restitution on Human Services was derived entirely from the Juvenile Act.\nFirst, the trial court pointed to Section 6352 of the Juvenile Act, which authorizes restitution. It states, in relevant part, as follows:\n(5) Ordering payment by the child of reasonable amounts of money as fines, costs, fees or restitution as deem,ed appropriate as part of the plan of rehabilitation considering the nature of the acts committed and the earning capacity of the child, including a contribution to a restitution fund.... For an order made under this subsection, the court shall retain jurisdiction until there has been full compliance with the order or until the delinquent child attains 21 years of age. Any restitution order which remains unpaid at the time the child attains 21 years of age shall continue to be collectible under section 9728 (relating to collection of restitution, reparation, fees, costs, fines and penalties).\n42 Pa.C.S. \u00a7 6352(a)(5) (emphasis added). Section 6352 addresses \u201cpayment by the child,\u201d and it does not provide for payment of restitution by any other person or entity. Thus, Section 6352 provides no support for the trial court\u2019s order that Human Services pay restitution on behalf of C.W.\nSecond, the trial court relied upon Section 6310 of the Juvenile Act, entitled \u201cParental participation.\u201d It provides as follows:\n(a) General rule. \u2014 In any proceeding under this chapter, a court may order a parent, guardian or custodian to pariicipate in the treatment, supervision or rehabilitation of a child, including, but not limited to, community service, restitution, counseling, treatment and education programs.\n(b) Presence at proceedings. \u2014 The court may, when the court determines that it is in the best interests of the child, order a parent, guardian or custodian of a child to be present at and to bring the child to any proceeding under this chapter.\n(c) Contempt. \u2014 A person who, without good cause, fails to comply with an order issued under this section may be found in contempt of court. The court may issue a bench warrant for any parent, guardian or custodian \u2022who, without good cause, fails to appear at any proceeding.\n(d) Intent. \u2014 The General Assembly hereby declares that every parent, guardian or custodian of a child who is the subject of a proceeding under this chapter and a court-ordered program under this chapter should attend the proceeding and participate fully in the program.\n(e) Limitation. \u2014 Nothing in this section shall be construed to create a right of a child to have his parent, guardian or custodian present at a proceeding under this chapter or participate in a court-ordered program.\n42 Pa.C.S. \u00a7 6310 (emphasis added). The trial court reasoned that Section 6310 authorized it to order a custodian, ie., Human Services, to \u201cparticipate in\u201d the child\u2019s rehabilitation, and that rehabilitation may include restitution.\nHuman Services responds that parental participation is the goal of Section 6310. It contends that \u201cparticipate in\u201d cannot be read as synonymous with \u201cpay for.\u201d\nWhen construing the meaning of a statute, words and phrases are to be construed in accordance with their common usage. Commonwealth v. Shiffler, 583 Pa. 478, 485, 879 A.2d 185, 189 (2005). Human Services directs this Court to Knechtel v. Workers\u2019 Compensation Appeal Board (Marriott Corporation), 906 A.2d 669, 672 (Pa.Cmwlth.2006), wherein we addressed the meaning of the word \u201cparticipate.\u201d\nIn Knechtel, the claimant\u2019s employer requested she undergo an independent medical examination (IME) by a psychiatrist. Section 314(b) of the Workers\u2019 Compensation Act (Act) allows a claimant\u2019s treating physician to \u201cparticipate in\u201d an IME examination. The claimant argued that \u201cparticipate in\u201d meant allowing her treating physician to attend the evaluation; to question the IME physician; and to make comments. The Workers\u2019 Compensation Judge rejected this construction of \u201cparticipate in,\u201d concluding that it meant that the claimant\u2019s treating physician could take notes and request brief recesses to confer with the claimant. The Board affirmed, and the claimant appealed to this Court.\nNoting that \u201cparticipate\u201d was not defined in the Act, we concluded that \u201cparticipate in\u201d meant \u201ctaking part in,\u201d not \u201ctaking over\u201d the IME examination. The claimant\u2019s requested reading of \u201cparticipate in\u201d was simply too broad. We affirmed the Board\u2019s more restrained interpretation of \u201cparticipate in.\u201d\nKnechtel appears to be the only case construing the term \u201cparticipation,\u201d albeit as used in an entirely different statute. We agree with Human Services that \u201cparticipation\u201d cannot be construed to mean \u201cpay for.\u201d This is particularly true because that construction would violate the Domestic Code\u2019s directive with respect to Liability for the Tortious Acts of Children.\nStatutes that relate to the same subject matter must be read in pan mate-ria to give effect to all provisions. Rosen v. Bureau of Professional and Occupational Affairs, State Architects Licensure Board, 763 A.2d 962, 963 n. 5 (Pa.Cmwlth.2000). Chapter 55 of the Domestic Code and the Juvenile Act both, in their own ways, address the delinquent acts of children. Section 6310 of the Juvenile Act cannot mean that the parent or custodian must \u201cparticipate\u201d by actually undergoing the juvenile\u2019s rehabilitation and assuming the juvenile\u2019s responsibility for restitution. Such a reading of Section 6310 would totally eclipse the limits on the liability of a parent for the torts of a child set forth in the Domestic Code at 23 Pa.C.S. \u00a7 5505(a).\nIn any case, we are to be guided by \u201cthe plain language of a statute.\u201d Sternlicht v. Sternlicht, 583 Pa. 149, 157, 876 A.2d 904, 909 (2005). Section 6310 of the Juvenile Act does not state, in plain language, that a social service agency can be made to pay restitution to the victim of a juvenile\u2019s delinquent acts where the juvenile is under the supervision of that agency. Further, it is a broad reach to such a result from the use of the word \u201cparticipate\u201d as used in a statutory provision entitled \u201cParental participation.\u201d 42 Pa.C.S. \u00a7 6310. We decline to make that reach.\nWe agree with Human Services that Section 6310 of the Juvenile Act did not authorize the trial court to order it to pay restitution on behalf of C.W. We conclude that the parental participation required in Section 6310 is nothing more than a requirement that the parent, custodian or guardian of a child attend proceedings and participate in the ordered programs. \u201cParticipation\u201d in a rehabilitation involving restitution means the custodian must attend the court ordered restitution hearing. If restitution is ordered, \u201cparticipation\u201d could also encompass helping the child find employment, arranging for transportation to employment, overseeing the child\u2019s income, or making sure the child remits the required payments. An order of restitution to a parent, however, must be limited to a person that meets the definition of \u201cparent\u201d in 23 Pa.C.S. \u00a7 5501, i.e., a \u201cnatural or adoptive\u201d person. Human Services is an institution, not a \u201cnatural\u201d person.\nBecause we conclude that the trial court lacked statutory authority to order Human Services to assume responsibility for C.W.\u2019s restitution obligations of $4,221.20, we reverse the order of the trial court.\nORDER\nAND NOW, this 29th day of October, 2010, the order of Court of Common Pleas of Philadelphia County, dated August 11, 2008, in the above captioned matter is hereby REVERSED.\n. Counsel for C.W. has filed a letter advising the Court that he would not submit a brief in response to the appeal.\n. The total restitution ordered was $16,886.43. It is presumed that the $4,221.20 ordered to be paid by C.W.\u2019s parents represents a twenty-five percent share.\n. On August 5, 2008, the parties appeared before a master appointed by the trial court. Human Services stated that the issue regarding restitution had not yet been decided. At that time, Human Services indicated that the parental rights had been terminated on October 22, 2007. The master continued the case to be heard by Judge Patrick.\n. Our standard of review where an appeal is based on a claim that the restitution award is excessive is whether or not the trial court abused its discretion in making the award. In re M.W., 555 Pa. 505, 510 n. 4, 725 A.2d 729, 731 n. 4 (1999). However, where the trial court\u2019s application of a statute is at issue, the appeal involves a question of law to which our review is plenary. In re R.D.R., 876 A.2d 1009, 1016 (Pa.Super.2005).\n. While the parental liability statute \"imposes a form of strict liability upon parents\u201d and \"limits the amount of recovery,\u201d it \"does not affect the common-law liability of parents.\u201d K.H. v. J.R., 573 Pa. 481, 499 n. 16, 826 A.2d 863, 874 n. 16 (2003); 23 Pa.C.S. \u00a7 5509. Under the common law \"liability may attach where the negligence of the parents makes the injury possible.\u201d K.H. v. J.R., 573 Pa. at 496, 826 A.2d at 873. Assuming arguendo that Human Services could be deemed a parent at common law, the action before us does not sound in negligence.\n. The trial court also claims that case law supports its determination. However, the case law provided by the trial court involves holding social agencies liable for providing financial support to dependent children for preschool care and dental treatment. See, e.g., In re Tameka M., 525 Pa. 348, 580 A.2d 750 (1990), and In re N.E., 787 A.2d 1040 (Pa.Super.2001). Care of dependent children is quite different from an obligation to make restitution to victims of dependent children. In any event, as noted above, restitution must be based on statutory authority.\n. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. \u00a7 651(b).\n. Because restitution cannot be ordered without statutory authority, we need not address Human Services\u2019 claim of sovereign immunity or its alternative argument that the restitution award be limited to $1,000.",
+        "type": "majority",
+        "author": "Judge LEAVITT."
+      }
+    ],
+    "attorneys": [
+      "Kelly S. Diffily, Philadelphia, for appellant.",
+      "No appearance entered on behalf of ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "In Re: C.W. Appeal of: City of Philadelphia, Department of Human Services.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs July 23, 2010.\nDecided Oct. 29, 2010.\nKelly S. Diffily, Philadelphia, for appellant.\nNo appearance entered on behalf of ap-pellee.\nBEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+  },
+  "file_name": "0891-01",
+  "first_page_order": 919,
+  "last_page_order": 925
+}

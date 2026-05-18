@@ -1,0 +1,106 @@
+{
+  "id": 7289678,
+  "name": "Joseph DICKINSON, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Dickinson v. State",
+  "decision_date": "2010-12-08",
+  "docket_number": "No. 26, 2010",
+  "first_page": "1166",
+  "last_page": "1169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "971 A.2d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294632
+      ],
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/971/0102-01"
+      ]
+    },
+    {
+      "cite": "4 A.3d 391",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7286313
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "394",
+          "parenthetical": "Citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/4/0391-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 418,
+    "char_count": 7086,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18830750364210422
+    },
+    "sha256": "580eab14cdb0c510d611e9e6ab92d69ea2a8846669fd57439663b9cc842e33d5",
+    "simhash": "1:bef6b48942d7fc03",
+    "word_count": 1141
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+    ],
+    "parties": [
+      "Joseph DICKINSON, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "BERGER, Justice:\nIn this criminal appeal, we address the question left undecided in Erskine v. State \u2014 whether the trial court must give a jury instruction on an accomplice\u2019s level of liability if there is a basis for such an instruction, but neither party requests it. By statute, accomplice liability must be based on the accomplice\u2019s own mental state and accountability for an aggravating factor. Thus, in appropriate circumstances, an accomplice may be found guilty of less serious offenses than the principal defendant. But accomplices do not always ask for an accomplice liability jury instruction. Trial courts recognize the parties\u2019 autonomy, and do not interfere with their strategic decisions. Accordingly, we conclude that no accomplice liability instruction should be given unless it is requested by either party.\nFactual and Procedural Background\nIn January 2009, a confidential informant told Wilmington Police Detective Paul Ciber that Oscar Johnson was planning to commit a robbery. Because Johnson had not selected the location of the robbery, Ciber and other police officers rented a room at the Fairview Inn and set it up to look as if the occupant was a drug dealer. The informant called Johnson and told him a drug dealer was working out of that room, and that the dealer had $25,000. Johnson told the informant to pick him up. Then Johnson called two friends, Charles Thomas and Joseph Dickinson, to join in the planned robbery. Johnson, the confidential informant, Thomas and Dickinson drove in two cars to Haynes Park, where they discussed the plan. Dickinson drove Johnson and Thomas to a salvage yard next to the Fairview Inn, and the confidential informant drove into the hotel parking lot. Dickinson positioned his car facing Route 13 and waited while Johnson and Thomas, carrying Dickinson\u2019s shotgun, put on ski masks and walked to the designated room. At about the time that they realized there was nothing to take, a SWAT team arrived and threw a flash grenade. Dickinson saw the flash and tried to drive away, but he was arrested at the scene. When the police searched Dickinson\u2019s car, they found shotgun shells and the bag used to carry the shotgun.\nDickinson did not testify at trial. He argued that Thomas and Johnson were the ones who committed the crimes and that they testified against Dickinson in return for their pleas. Dickinson did not ask for an accomplice liability instruction. Instead, he asked for an instruction that accomplices\u2019 testimony should be viewed with extreme caution. The jury found Dickinson guilty of first degree attempted robbery, second degree burglary and related charges. Dickinson was sentenced as an habitual offender to life in prison. This appeal followed.\nDiscussion\nDickinson\u2019s only argument is that the trial court committed plain error by failing to give the jury an accomplice liability instruction sua sponte. Dickinson was charged with attempted first degree robbery and second degree burglary as an accomplice. As we explained in Erskine, an accomplice may be guilty of a less serious offense than the other participants in a crime:\nAn accomplice \u201cis guilty of an offense committed by another person when ... intending to promote or facilitate the commission of the offense the [accomplice] ... aids ... or attempts to aid the other person in ... committing it....\u201d\nUnder 11 Del. C. \u00a7 274, if two or more people are liable for \u201can offense which is divided into degrees, each person is guilty of an offense of such degree as is compatible with that person\u2019s own culpable mental state and with that person\u2019s own accountability for an aggravating fact or circumstance....\u201d\nHere, there was a factual basis in the record to support a finding that Dickinson was guilty of attempted second degree robbery and third degree burglary. He did not ask for a \u00a7 274 \u201clevel of liability\u201d jury instruction, however, and he was convicted of the offenses as charged.\nFor strategic reasons, defendants sometimes take an \u201call or nothing\u201d approach to their defense. They maintain that they were not there, or had nothing to do with the criminal activity, and should be found not guilty. The accomplice \u201clevel of liability\u201d instruction acts like a lesser-included offense instruction \u2014 it gives the jury a middle ground on which to find the defendant guilty. This Court has held that lesser-included offense instructions should not be given unless requested:\nIn Delaware, ... the trial judge does not consider whether there is a rational basis in the evidence to instruct the jury on a lesser-included offense \u201cunless requested to do so by a party.\u201d Under this \u201cparty autonomy\u201d approach, the burden is initially on the parties, rather than the trial judge, to determine whether an instruction on a lesser-included offense should be considered as an option for the jury. The trial judge should not give an instruction on an uncharged lesser offense if neither side requests [it] because to do so would \u201cinterfere with the trial strategies of the parties.\u201d\nFor the same reasons, accomplice \u201clevel of liability\u201d instructions should not be given unless requested.\nIn this case, it is apparent that Dickinson made a strategic decision not to request the accomplice \u201clevel of liability\u201d instruction. Both his opening and closing statements emphasized that Johnson and Thomas were not credible witnesses \u2014 they would say anything to get their plea bargains. Dickinson pointed out that he did not leave his car and go to the motel room with Johnson and Thomas. He did not even park his car in the motel parking lot. Dickinson did give Johnson and Thomas a ride, but he argued that he believed his friends were planning on buying drugs. In sum, Dickinson took an \u201call or nothing\u201d approach. He tried to convince the jury that he was an innocent bystander, and not guilty of any level of offense.\nIn other cases, it might not be as apparent that the failure to request an accomplice \u201clevel of liability\u201d instruction was a strategic decision. A more complete trial record would eliminate any question on this point. Accordingly, we urge the Superior Court, as a routine matter, to ask the parties, during the prayer conference, whether they have considered, and decided against, requesting an accomplice \u201clevel of liability\u201d instruction.\nConclusion\nBased on the foregoing, the judgments of the Superior Court are hereby affirmed.\n. 4 A.3d 391 (Del.2010).\n. Id. at 394 (Citations omitted).\n. State v. Brower, 971 A.2d 102, 107 (Del.2009) (Citations omitted.).",
+        "type": "majority",
+        "author": "BERGER, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Court Below: Superior Court of the State of Delaware, in and for New Castle County, Cr. No. 09012009990A.",
+      "Nicole M. Walker, Esquire, Office of the Public Defender, Wilmington, Delaware, for Appellant.",
+      "Paul R. Wallace, Esquire, Department of Justice, Wilmington, Delaware, for Ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph DICKINSON, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 26, 2010.\nSupreme Court of Delaware.\nSubmitted: Sept. 29, 2010.\nDecided: Dec. 8, 2010.\nCourt Below: Superior Court of the State of Delaware, in and for New Castle County, Cr. No. 09012009990A.\nNicole M. Walker, Esquire, Office of the Public Defender, Wilmington, Delaware, for Appellant.\nPaul R. Wallace, Esquire, Department of Justice, Wilmington, Delaware, for Ap-pellee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+  },
+  "file_name": "1166-01",
+  "first_page_order": 1192,
+  "last_page_order": 1195
+}

@@ -1,0 +1,133 @@
+{
+  "id": 7286625,
+  "name": "Calvin L. HAFFORD v. Verley G. HAFFORD",
+  "name_abbreviation": "Hafford v. Hafford",
+  "decision_date": "2010-12-02",
+  "docket_number": "",
+  "first_page": "629",
+  "last_page": "632",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 629"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "656 A.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7875449
+      ],
+      "pin_cites": [
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/656/0743-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 170",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8201422
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/959/0753-01"
+      ]
+    },
+    {
+      "cite": "687 A.2d 636",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7352699
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "638-39"
+        },
+        {
+          "page": "638",
+          "parenthetical": "\"Choses in action, rights and other interests, the benefits of which may be receivable now or in the future are classifiable as intangible personal property.\" (quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/687/0636-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 442,
+    "char_count": 7744,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.4136013335140388
+    },
+    "sha256": "dc5c2687351b1c2a93457091a892e668d93d5c76062abeb2a5438873d6ccfe02",
+    "simhash": "1:8b7dc62fb9a2b26b",
+    "word_count": 1267
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Calvin L. HAFFORD v. Verley G. HAFFORD."
+    ],
+    "opinions": [
+      {
+        "text": "MEAD, J.\n[\u00b6 1] Verley G. Hafford appeals from a judgment entered by the District Court (Fort Kent, Daigle, J.) denying her motion to amend a divorce judgment by classifying military retirement benefits received by Calvin L. Hafford as omitted property, and then dividing the marital component of the benefits. Because we conclude that the court did not clearly err in finding that the divorce judgment awarded the benefits to Calvin, we affirm the judgment denying the motion to amend.\nI. BACKGROUND\n[\u00b6 2] Calvin and Verley Hafford were married in October 1969; Calvin filed a complaint for divorce in September 2000. At the time the complaint was filed, both Calvin and Verley had Maine State Retirement System pensions, and Calvin also had a retirement pension from the Army National Guard (ANG) that had vested but was not yet paying benefits.\n[113] With the assistance of separate counsel, the parties negotiated a property settlement agreement. The agreement was signed on April 26, 2002, and its provisions were incorporated into a divorce judgment entered by the District Court (Daigle, J.) one week later. In September 2003, Verley filed a motion to modify the divorce judgment, which she later withdrew, on the ground that Calvin had not cleared the debt on a parcel of real estate awarded to her. The motion made no mention of the ANG pension.\n[\u00b6 4] In November 2007, Verley filed the motion to amend that is at issue here, contending that the divorce judgment did not make any disposition of the ANG pension, and therefore the pension constituted omitted property pursuant to 19-A M.R.S. \u00a7 953(9) (2009). Calvin objected, contending that the property settlement agreement resolved the division of all of the parties\u2019 pensions, including the ANG pension, and that the resulting spousal support award to Verley in the divorce judgment was based upon their agreement concerning the pensions\u2019 value.\n[\u00b6 5] The court held a hearing in October 2009 and received evidence relevant to the threshold issue of whether the ANG pension was in fact omitted property; it deferred receiving evidence on the issue of how the pension should be divided in that eventuality. Both Verley and Calvin testified at the hearing. Although the court did not explicitly so find, the record in this appeal contains evidence from which the court could have concluded that the parties\u2019 property settlement agreement was the result of several proposals and counter-proposals where Calvin\u2019s ANG retirement pay was a subject of negotiation, and that the final spousal support agreement, calling for Verley to receive a non-modifiable payment of $550 per month until the death of either party, took the value of the ANG pension into account. In December 2009, the court denied the motion to amend, finding that the divorce judgment had awarded the ANG pension to Calvin. Verley\u2019s motion for further findings was denied. This appeal followed.\nII. DISCUSSION\n[\u00b6 6] The omitted property statute, 19-A M.R.S. \u00a7 953(9), is \u201can exception to the strong, long-recognized, policy consideration concerning the importance of finality of property settlements in divorce judgments.\u201d Stotler v. Wood, 687 A.2d 636, 638-39 (Me.1996). The parties here agree that Calvin\u2019s ANG pension had a marital component; they disagree as to whether the divorce judgment awarded it to Calvin. The court found that it did, and therefore concluded that the marital component of the pension was not omitted property. That factual finding is reviewed for clear error, and so it will not be disturbed on appeal unless no competent evidence in the record supports it. Wright v. Michaud, 2008 ME 170, \u00b6 6, 959 A.2d 753, 755.\n[\u00b6 7] The operative provision of the divorce judgment, which is essentially identical to the corresponding provision in the property agreement, provides:\nA. The following personal property shall be awarded to Plaintiff as a portion of his share of the marital estate as well as his own separate property\n15. All other personal property, tangible and intangible, currently in the possession or subject to the control of Plaintiff.\n[\u00b6 8] The ANG pension is properly classified as intangible personal property. See Stotler, 687 A.2d at 638 (\u201cChoses in action, rights and other interests, the benefits of which may be receivable now or in the future are classifiable as intangible personal property.\u201d (quotation marks omitted)). Although the divorce judgment does not reference the ANG pension specifically, the court reasoned that the \u201c[a]ll other personal property, tangible and intangible\u201d clause acted to set the pension apart to Calvin so long as it was \u201cin [his] possession or subject to [his] control\u201d at the time the judgment was entered. The court found that the pension was in Calvin\u2019s possession or control because the evidence showed that he began earning it in 1964, before the marriage began, and he was still earning points toward his retirement through January 2003, after the divorce judgment was entered. He did not begin receiving retirement pay until May 2007, the month after he turned age sixty.\n[\u00b6 9] Accordingly, because they are supported by competent record evidence, the court\u2019s factual findings that (1) Calvin was in possession or control of the ANG pension at the time of the divorce judgment, and (2) the divorce judgment therefore awarded the pension to Calvin as his intangible personal property, are not clearly erroneous. The bare fact that the pension was not explicitly referenced in the divorce judgment does not compel a conclusion that it was omitted property. See Carr v. Carr, 656 A.2d 743, 744 (Me.1995) (rejecting \u201ctrial court[\u2019s] conclu[sion] as a matter of law that [a] pension was omitted property simply because the [divorce judgment] did not address the division of the pension benefits as a marital asset\u201d (quotation marks omitted)).\n[\u00b6 10] Finally, Yerley argues that the court erred in limiting the scope of the evidentiary hearing. It is clear on this record, however, that the court decided to conduct a bifurcated hearing by first receiving evidence on the potentially disposi-tive issue of whether the ANG pension was in fact omitted property, and then taking further evidence relevant to the division of the pension if that became necessary. By holding a hearing and making written findings, as opposed to summarily deciding the motion on the pleadings, the court gave the parties a full opportunity to present evidence establishing that the pension was, or was not, omitted property pursuant to the statute, and also created a record permitting meaningful appellate review. The court\u2019s procedure reveals no error, and was in keeping with best practices for resolving these types of fact-based issues.\nThe entry is:\nJudgment affirmed.\n. Calvin did not begin receiving benefits from the Army National Guard pension until May 2007.\n. The statute provides:\n9. Omitted property. If a final divorce decree fails to set apart or divide marital property over which the court had jurisdiction, the omitted property is deemed held by both parties as tenants in common. On the motion of either party, the court may set aside or divide the omitted property between the parties, as justice may require.\n19-A M.R.S. \u00a7 953(9) (2009).\n. We note that the judge who construed the divorce judgment in this case is also the judge who originally authored it.",
+        "type": "majority",
+        "author": "MEAD, J."
+      }
+    ],
+    "attorneys": [
+      "Francis E. Bemis, Esq., Bemis & Ros-signol, LLC, Presque Isle, ME, for Calvin Hafford.",
+      "Theodore M. Smith, Esq., Smith Law Office, LLC, Van Bur\u00e9n, ME, for Verley Hafford."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 128\nCalvin L. HAFFORD v. Verley G. HAFFORD.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Oct. 21, 2010.\nDecided: Dec. 2, 2010.\nFrancis E. Bemis, Esq., Bemis & Ros-signol, LLC, Presque Isle, ME, for Calvin Hafford.\nTheodore M. Smith, Esq., Smith Law Office, LLC, Van Bur\u00e9n, ME, for Verley Hafford.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0629-01",
+  "first_page_order": 655,
+  "last_page_order": 658
+}

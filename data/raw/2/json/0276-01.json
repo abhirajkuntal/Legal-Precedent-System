@@ -1,0 +1,358 @@
+{
+  "id": 7285875,
+  "name": "Nicholas W. BELYEA v. SHIRETOWN MOTOR INN, LP et al.",
+  "name_abbreviation": "Belyea v. Shiretown Motor Inn, LP",
+  "decision_date": "2010-08-10",
+  "docket_number": "",
+  "first_page": "276",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 276"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 75"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "147 A. 421",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "422",
+          "parenthetical": "\"[I]t is elementary that a lessor as such is not liable for the negligence of his lessee.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Me. 349",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8844614
+      ],
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "353",
+          "parenthetical": "\"[I]t is elementary that a lessor as such is not liable for the negligence of his lessee.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/128/0349-01"
+      ]
+    },
+    {
+      "cite": "295 A.2d 647",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11253420
+      ],
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/295/0647-01"
+      ]
+    },
+    {
+      "cite": "402 A.2d 846",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8042264
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "851"
+        },
+        {
+          "page": "851"
+        },
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/402/0846-01"
+      ]
+    },
+    {
+      "cite": "619 A.2d 525",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7355634
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "527"
+        },
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/619/0525-01"
+      ]
+    },
+    {
+      "cite": "1999 ME 26",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11777258
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "1221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/723/1220-01"
+      ]
+    },
+    {
+      "cite": "1999 ME 144",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11568446
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "845"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/738/0839-01"
+      ]
+    },
+    {
+      "cite": "747 A.2d 167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11467376
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "170"
+        },
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/747/0167-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 89",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11513040
+      ],
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/751/1007-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 20",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291656
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "738"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "738",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0733-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 46",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7260990
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "938"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/969/0935-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 96",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11094316
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "1049"
+        },
+        {
+          "page": "1049"
+        },
+        {
+          "page": "\u00b66"
+        },
+        {
+          "page": "1049",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/773/1045-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 133",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291959
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 2"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "\u00b6 17"
+        },
+        {
+          "page": "487",
+          "parenthetical": "stating that innkeeper-guest relationship is a special one giving rise to an affirmative duty to protect"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0481-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 694,
+    "char_count": 12498,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 1.0176204100680411e-07,
+      "percentile": 0.543893292620535
+    },
+    "sha256": "4722b15f683cd0cd4162a5744cbfda2d74c790c632b3d7164377941dfe50e978",
+    "simhash": "1:f379ddb45346a089",
+    "word_count": 2102
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Nicholas W. BELYEA v. SHIRETOWN MOTOR INN, LP et al."
+    ],
+    "opinions": [
+      {
+        "text": "MEAD, J.\n[\u00b6 1] Nicholas W. Belyea appeals from a final judgment entered by the Superior Court (Aroostook County, Hunter, J.) granting summary judgment to Shiretown Motor Inn, LP, and Shiretown Motel, Inc. (collectively Shiretown), on Belyea\u2019s complaint alleging negligence. Belyea, who was assaulted in Shiretown\u2019s parking lot, contends that, although he was not a motel guest, Shiretown nonetheless owed him a legal duty to provide reasonable security on its property. Shiretown argues that it owed no duty to Belyea for the actions of its tenant, The Lounge Down Under, which is located on Shiretown\u2019s property and which is where the altercation leading to Belyea\u2019s assault began. Shiretown also contends that its allegedly inadequate security measures could not have been the proximate cause of Belyea\u2019s injuries. We affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] Viewed in the light most favorable to Belyea as the nonmoving party, see Estate of Gilley v. Lane, 2009 ME 133, \u00b6 2, 985 A.2d 481, 483, the summary judgment record establishes the following facts. Shiretown Motel, Inc., is the general partner of Shiretown Motor Inn, LP, which is a limited partnership that owns and operates the Shiretown Motel in Houlton, and leases space on the motel\u2019s premises to The Lounge Down Under (the lounge). Marty Gervais is the president and one of eight shareholders of Shiretown Motel, Inc., and the president and sole shareholder of The Lounge Down Under, Inc., which operates the lounge and a fitness center. He has been the general manager of the motel since the early 1980s.\n[\u00b6 3] On the night of February 17, 2006, Belyea and a friend parked the friend\u2019s car in the Shiretown Motel parking lot and went to the lounge. There he encountered Ryan Finnemore and Dustin Cullins. An altercation ensued during which Finnemore assaulted Belyea by punching him once in the face. Bouncers ejected Finnemore and Cullins, but not before they threatened to kill Belyea in the bouncers\u2019 presence. Some time later, the bouncers told Belyea and his friend that they would have to leave; they did not escort Belyea to his car. As Belyea was leaving the lounge, Finnemore approached a bouncer at the door and asked if \u201cthat [s.o.b.] was still in there\u201d; the bouncer told him that Belyea had left.\n[\u00b6 4] While in the motel parking lot and walking to his friend\u2019s car, Belyea was assaulted by Finnemore and Cullins and sustained serious injuries. The motel does not have security staff or cameras and does not conduct regular security patrols of the parking lot. On the night of this incident, no Shiretown employee was working at the lounge.\n[\u00b6 5] In April 2006, Belyea filed suit against Shiretown, The Lounge Down Under, Inc., Finnemore, and Cullins. Following the discovery period, Shiretown and The Lounge Down Under moved for summary judgment. In December 2008, the Superior Court granted Shiretown\u2019s motion and entered summary judgment in its favor; the court later certified the judgment as final pursuant to M.R. Civ. P. 54(b)(1). The Lounge Down Under\u2019s motion was denied. Finnemore and Cullins both defaulted and the court entered judgment against them. This appeal followed.\nII. DISCUSSION\n[\u00b6 6] In order to avoid summary judgment for Shiretown, Belyea must establish a prima facie case for each element of his negligence cause of action: \u201ca duty owed, a breach of that duty, and an injury ... that is proximately caused by a breach of that duty.\u201d Stanton v. Univ. of Me. Sys., 2001 ME 96, \u00b6 7, 773 A.2d 1045, 1049; Addy v. Jenkins, Inc., 2009 ME 46, \u00b6 8, 969 A.2d 935, 938. Whether Shiretown owed Belyea a duty of care is a matter of law reviewed de novo. Id. \u00b6 8, 773 A.2d at 1049; Beal v. Allstate Ins. Co., 2010 ME 20, \u00b6 11, 989 A.2d 733, 738. In conducting that review, we view the evidence in the light most favorable to Belyea as \u201cthe non-prevailing party to determine whether the parties\u2019 statements of material facts and the record evidence to which the statements refer demonstrate that there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law.\u201d Beal, 2010 ME 20, \u00b6 11, 989 A.2d at 738 (quotation marks omitted); M.R. Civ. P. 56(c).\n[\u00b6 7] Belyea contends that, because he was lawfully in the motel\u2019s parking lot at the time he was assaulted, Shiretown owed him a duty to provide adequate security. The Superior Court found that, although Shiretown would have owed Belyea a duty of reasonable care to protect him against assault by third parties if he were a guest of the motel, it owed him no such duty when he was merely a patron of Shire-town\u2019s tenant, the lounge.\n[\u00b6 8] The court correctly recognized that \u201c[a] proprietor of an inn, hotel, [or] motel ... is liable for an assault upon a guest or patron by [a] ... third person where he has reason to anticipate such assault, and fails to exercise reasonable care under the circumstances to prevent the assault or interfere with its execution.\u201d Kaechele v. Kenyon Oil Co., Inc., 2000 ME 89, \u00b6 8, 747 A.2d 167, 170 (quotation marks omitted); see Estate of Cilley, 2009 ME 133, \u00b6 17, 985 A.2d at 487 (stating that innkeeper-guest relationship is a special one giving rise to an affirmative duty to protect).\n[\u00b6 9] Absent such a special relationship, there is no general duty to protect:\n[I]n instances of nonfeasance rather than misfeasance, and absent a special relationship, the law imposes no duty to act affirmatively to protect someone from danger unless the dangerous situation was created by the defendant. Only when there is a \u201cspecial relationship,\u201d may the actor be found to have a common law duty to prevent harm to another, caused by a third party. There is simply no duty so to control the conduct of a third person as to prevent him from causing physical harm to another unless ... a special relation exists....\nBryan R. v. Watchtower Bible & Tract Soc\u2019y of N.Y., Inc., 1999 ME 144, \u00b6 14, 738 A.2d 839, 845 (footnote omitted) (citation omitted) (quotation marks omitted); see Jackson v. Tedd-Lait Post No. 75, Am. Legion, 1999 ME 26, \u00b6 8, 723 A.2d 1220, 1221; Hughes v. Beta Upsilon Bldg. Ass\u2019n, 619 A.2d 525, 527 (Me.1993) (\u201c[A] duty [to affirmatively protect] does not arise from the opportunity to control [an] activity. It arises only from a relationship that society recognizes as sufficient to create the duty.\u201d).\n[\u00b6 10] Belyea contends that the court erred in differentiating the duty of care owed to him as a patron of the lounge who was lawfully on the motel\u2019s property from that enjoyed by a motel guest because Maine has abolished the distinction between licensees and invitees when determining the duty of care owed by a landowner. He points to Poulin v. Colby College, where we held that \u201can owner or occupier of land owes the same duty of reasonable care in all the circumstances to all persons lawfully on the land.\u201d 402 A.2d 846, 851 (Me.1979). We also noted, however, that \u201c[t]his [duty] does not require an owner or occupier to insure the safety of his lawful visitors,\u201d but rather requires only that licensees be given the same protection previously afforded to invitees, id. at 851, namely \u201cthe positive duty of exercising reasonable care in providing reasonably safe premises for their use,\u201d id. at 848.\n[\u00b6 11] Belyea fails to recognize the distinction between the general duty to provide reasonably safe premises, owed to all persons lawfully on the land (which applies to him in this matter), and the heightened duty owed by an innkeeper to his guest, based on a special relationship, to proactively prevent an assault on the guest if it is reasonably foreseeable. Kaechele, 2000 ME 39, \u00b6 8, 747 A.2d at 170; Brewer v. Roosevelt Motor Lodge, 295 A.2d 647, 651 (Me.1972). Belyea mistakenly asks us to apply this heightened duty, to which he is not entitled.\n[\u00b6 12] Applying the general duty of care to provide reasonably safe premises, to which Belyea is entitled, we conclude that on these facts, Shiretown did not owe him a duty to have special security measures in place in its parking lot. Shiretown did not create, permit, or maintain an inherently dangerous situation; it merely operated a parking lot next to its business in Houlton, Maine. The summary judgment record is devoid of any substantive evidence suggesting that the parking lot was unsafe in any particular regard. On the night of the assault, Belyea was arguably unsafe, but the source of the danger was the presence of two individuals who intended to do harm to him, not any inherent condition or circumstance of the parking lot. If a foreseeable risk made the parking lot generally unsafe for individuals lawfully upon the premises, a duty to protect might be established. On this record, however, Belyea\u2019s expert\u2019s conclusory statement to that effect is insufficiently supported to reach that result.\n[\u00b6 13] Alternatively, Belyea argues that Shiretown owed him a heightened duty of care based on an innkeeper-guest special relationship because, he contends, Shiretown and the lounge where he was a patron are effectively the same entity. Belyea asserts that is so because shared ownership and management binds the businesses together beyond a simple landlord-tenant relationship. We note at the outset that a landlord\u2019s \u201cmere ability to control [an activity of its tenant] does not give rise to a legal duty.\u201d Hughes, 619 A.2d at 527; see Silverman v. Usen, 128 Me. 349, 353, 147 A. 421, 422 (1929) (\u201c[I]t is elementary that a lessor as such is not liable for the negligence of his lessee.\u201d).\n[\u00b6 14] We conclude, as did the trial court, that there is an insufficient factual basis in the record to support Belyea\u2019s assertion that Shiretown should be held vicariously liable for the alleged negligence of the lounge. The sole source of Belyea\u2019s \u201cintegrated operation\u201d theory is one sentence in an affidavit executed by his proffered security expert, Donald Greene, who averred, \u201cThe Lounge Down Under and the Shiretown Motel share common, ownership, management and property including parking lots, and other facilities.\u201d In contrast to Greene\u2019s conclusion, Belyea admitted that only one of the shareholders of Shiretown Motel, Inc., is involved with the lounge; the lounge leases space from Shiretown; neither the lounge\u2019s manager nor any of its employees on the night that Belyea was assaulted were employees of Shiretown; generally Shiretown is not kept aware of the lounge\u2019s activities; and Shiretown does not pay any of the lounge\u2019s expenses. To counter the statement in the affidavit of Marty Gervais that \u201cShiretown is in the business of operating a hotel; it is not in the business of operating ... the lounge,\u201d Belyea offered only the same unfounded, conclusory statement from Greene.\n[\u00b6 15] When considering the summary judgment record, \u201c[a] judgment as a matter of law in a defendant\u2019s favor is proper when any jury verdict for the plaintiff would be based on conjecture or speculation.\u201d Stanton, 2001 ME 96, \u00b66, 773 A.2d at 1049 (quotation marks omitted). Maine Rule of Civil Procedure 56(e) requires that in a summary judgment proceeding, \u201c[supporting and opposing affidavits shall be made on personal knowledge ... and shall show affirmatively that the affiant is competent to testify to the matters stated therein.\u201d Greene\u2019s affidavit lacked the necessary foundation to establish that he had personal knowledge of Shiretown\u2019s corporate practices that would allow him to testify that Shiretown and the lounge were legally indistinguishable. Further, Green\u2019s credentials do not provide a basis for him to offer opinions on issues of law. Accordingly, the Superior Court did not err in rejecting the \u201cintegrated operation\u201d theory as a rationale for Belyea\u2019s argument that Shiretown owed him a duty of care based on an innkeeper-guest special relationship.\n[\u00b6 16] Finally, because we conclude that on this record, Belyea did not establish a prima facie case that Shiretown owed him a duty of care, we do not reach Shiretown\u2019s argument that its conduct could not have been the proximate cause of Belyea\u2019s injuries.\nThe entry is:\nJudgment affirmed.",
+        "type": "majority",
+        "author": "MEAD, J."
+      }
+    ],
+    "attorneys": [
+      "Brett D. Baber, Esq. (orally), Lanham Blackwell, P.A., Bangor, ME, for Nicholas Belyea.",
+      "Phillip D. Buckley, Esq., Debra A. Reece, Esq. (orally), Rudman & Winchell, Bangor, ME, for Shiretown Motor Inn, LP and Shiretown Motel, Inc."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 75\nNicholas W. BELYEA v. SHIRETOWN MOTOR INN, LP et al.\nSupreme Judicial Court of Maine.\nArgued: May 20, 2010.\nDecided: Aug. 10, 2010.\nBrett D. Baber, Esq. (orally), Lanham Blackwell, P.A., Bangor, ME, for Nicholas Belyea.\nPhillip D. Buckley, Esq., Debra A. Reece, Esq. (orally), Rudman & Winchell, Bangor, ME, for Shiretown Motor Inn, LP and Shiretown Motel, Inc.\nPanel: SAUFLEY, C.J., and LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0276-01",
+  "first_page_order": 306,
+  "last_page_order": 311
+}

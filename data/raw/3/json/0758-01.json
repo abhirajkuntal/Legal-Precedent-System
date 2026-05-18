@@ -1,0 +1,199 @@
+{
+  "id": 7289592,
+  "name": "Charles A. FLYNN, Appellant v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING",
+  "name_abbreviation": "Flynn v. Commonwealth, Department of Transportation, Bureau of Driver Licensing",
+  "decision_date": "2010-09-01",
+  "docket_number": "",
+  "first_page": "758",
+  "last_page": "762",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 758"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "723 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11765472,
+        1701960
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/723/0655-01",
+        "/pa/555/0193-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 193",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701960
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0193-01"
+      ]
+    },
+    {
+      "cite": "648 A.2d 285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866577,
+        475563
+      ],
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/648/0285-01",
+        "/pa/538/0236-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475563
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0236-01"
+      ]
+    },
+    {
+      "cite": "874 N.E.2d 921",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "314 Ill.Dec. 556",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "375 Ill.App.3d 480",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        4271452
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/375/0480-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11481341
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/1207-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 1249",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297604
+      ],
+      "pin_cites": [
+        {
+          "page": "1252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/1249-01"
+      ]
+    },
+    {
+      "cite": "23 C.F.R. \u00a7 1327",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 U.S.C. \u00a7 30304",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(e)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 475,
+    "char_count": 9604,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1883067313963092
+    },
+    "sha256": "44384ab9ee2dd984b42a0d927aa6861483770d8c179473b837bc6b3549a24f95",
+    "simhash": "1:8bea9e9e055fe2d5",
+    "word_count": 1516
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "Charles A. FLYNN, Appellant v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge FLAHERTY.\nCharles A. Flynn (Flynn) appeals pro se from an order of the Court of Common Pleas of Chester County (trial court), which dismissed his statutory appeal from the action of the Department of Transportation, Bureau of Driver Licensing (Department) in refusing to renew Flynn\u2019s operating privilege. We affirm.\nOn April 12, 2008, approximately six months prior to the expiration of his Pennsylvania driver\u2019s license, the Department sent Flynn a letter stating that the Department is required to check the National Driver Register (NDR) prior to renewing a driver\u2019s license. \u201cNDR has been checked for your driver license record in Pennsylvania and it indicates driver license withdrawal in another state.\u201d (R.R., Exhibit A.) The letter stated that Illinois had withdrawn Flynn\u2019s driving privileges and further encouraged Flynn to take the necessary steps to clear his driving privilege. On September 10, 2008, the Department notified Flynn that it was unable to process his request for a driver\u2019s license because the State of Illinois had provided information to the NDR indicating that \u201cyour personal information is similar to that of the person(s) listed below who is not eligible to be licensed.\u201d (Reproduced Record, Exhibit B.) Thereafter, on October 7, 2009, Flynn appealed the denial of his application for a Pennsylvania driver\u2019s license to the trial court.\nAt the de novo hearing, Flynn testified and introduced documents, as did the Department. On October 29, 2009, the trial court ordered that Flynn\u2019s appeal of his operating privilege suspension and refusal of renewal be denied.\nIn its decision, the trial court observed that federal law now requires the Department to check the NDR prior to the issuance or renewal of a Pennsylvania driver\u2019s license. 49 U.S.C. \u00a7 30304(e). All states have converted to the NDR Problem Driver Pointer System (PDPS), which is provided for through 23 C.F.R. \u00a7 1327. The Department is then responsible for determining whether the licensee\u2019s conduct requires suspension under Pennsylvania law. Taddei v. Department of Transportation, Bureau of Driver Licensing, 982 A.2d 1249, 1252 (Pa.Cmwlth.2009).\nHere, a check of the NDR revealed that Illinois had withdrawn Flynn\u2019s operating privilege. Flynn\u2019s Illinois record has a mandatory lifetime revocation because of the following four driving under the influence convictions: Illinois conviction on May 16,1986; Illinois conviction on March 31, 1989; Pennsylvania conviction on August 9, 1996 and Pennsylvania conviction on November 6, 2002.\nFlynn argued that he had surrendered his Illinois license to Pennsylvania sometime in 1988 when he obtained his Pennsylvania license, thus, severing any connection he had with Illinois for the purpose of that state\u2019s continuing to track his driver\u2019s record. The trial court observed, however, that there was no written documentation in the record to substantiate such surrender more than twenty years ago. Rather, Exhibit P-2, a letter from the Assistant General Counsel of the Office of the Secretary of State of Illinois, states: \u201c[w]e noted the surrender of the Illinois license to Flynn\u2019s Illinois driving record on January 30, 2009. Mr. Flynn\u2019s Illinois driver\u2019s license was suspended at that time, having been suspended on November 8,1988.\u201d\nThe trial court observed that Illinois continued to track and monitor Flynn\u2019s Illinois driving record and his out-of-state (Pennsylvania) driving record under the NDR. Illinois arguably had a legitimate interest in continuing to monitor Flynn\u2019s driving record for the remainder of his life, given his mandatory lifetime revocation status there.\nThe trial court also distinguished the case of Berner v. Department of Transportation, Bureau of Driver Licensing, 746 A.2d 1207 (Pa.Cmwlth.2000). In that case, Berner, who was licensed in Pennsylvania, was arrested in New York for driving while intoxicated. After her arrest, she obtained a New York license based on her residency there. Berner surrendered her Pennsylvania license when she received her New York license. Subsequently, she pled guilty to driving while intoxicated.\nBased on the Pennsylvania license that Berner produced at the time of her New York arrest, New York notified the Department of Berner\u2019s conviction. The Department then notified Berner that her Pennsylvania operating privileges would be suspended for one year, based on the New York conviction.\nThis court observed that at the time of Berner\u2019s New York conviction, she was no longer licensed in Pennsylvania. As such, Pennsylvania lacked the authority to suspend her driver\u2019s license.\nHere, the trial court stated that it was unclear when Flynn surrendered his Illinois license. As indicated earlier in the opinion, however, the record reflects that the surrender of Flynn\u2019s Illinois license occurred on January 30, 2009.\nThe trial court also discussed Gruchow v. White, 375 Ill.App.3d 480, 314 Ill.Dec. 556, 874 N.E.2d 921 (2007). In that case, at one time, Gruchow was licensed in Illinois. In 1996, Gruchow was arrested in Illinois for driving under the influence. Gruchow was later convicted twice more for driving under the influence and his Illinois driving privileges were revoked. Gruchow also had two convictions for driving under the influence in South Carolina, in August 2001 and July 2003.\nGruchow, now a resident of North Carolina, applied to the Secretary of State of the State of Illinois for clearance of his Illinois driving record and reinstatement of his driving privileges. The court determined that Gruchow, having four convictions for driving under the influence, could not have his Illinois driving privileges restored and could not receive a clearance letter.\nOn appeal, Flynn appears to argue that he surrendered his Illinois license when he first obtained his Pennsylvania license in 1988 and that it was improper for Illinois to thereafter permanently revoke his Illinois license.\nWe initially observe that the Department correctly ascertained information regarding Flynn from Illinois. Specifically, 75 Pa.C.S. \u00a7 1581 provides:\nArticle V\nApplications for New Licenses\nUpon application for a license to drive, the licensing authority in a party state shall ascertain whether the applicant has ever held or is the holder of a license to drive issued by any other party state. The licensing authority in the state where the application is made shall not issue a license to drive to the applicant if:\n(1) The applicant has held such a license, but the same has been suspended by reason, in whole or in part, of a violation and if such suspension period has not terminated.\nHere, the Department properly ascertained that Flynn held a licensee in Illinois. Additionally, the information supplied by Illinois indicated that Flynn\u2019s license there had been permanently revoked due to four convictions for driving under the influence. Specifically, Section 6 \u2014 208(b)(4) of the Illinois Vehicle Code (625 ILCS 5/6-208), provides that anyone with an arrest on or after January 1, 1999, in any state, which results in a fourth conviction for driving under the influence of alcohol, is barred from making an application for driving privileges for life. Although Flynn argues that he should not be subject to Illinois Vehicle Code Section 6 \u2014 208(b)(4) because subsection (b)(4) was added by a 1998 amendment, effective January 1, 1999, Flynn cites no authority for such a proposition.\nAdditionally, although Flynn argues that he surrendered his Illinois license at the time he obtained his Pennsylvania license, thus severing any connection with Illinois, the trial court observed that according to the Secretary of State of the State of Illinois, the surrender of Flynn\u2019s Illinois license occurred on January 30, 2009. Questions of credibility and conflict in the evidence are for the trial court to resolve. Department of Transportation, Bureau of Driver Licensing v. Ingram, 538 Pa. 236, 648 A.2d 285 (1994). If there is sufficient evidence in the record to support the findings of the trial court, we must pay proper deference to the trial court as fact finder and affirm. Id.\nIn accordance with the above, the decision of the trial court is affirmed.\nORDER\nNow, September 1, 2010, the order of the Court of Common Pleas of Chester County, in the above-captioned matter, is affirmed.\n. This court\u2019s review is limited to determining whether necessary findings of fact are supported by competent evidence of record, whether the trial court committed an error of law or abused its discretion. Todd v. Department of Transportation, Bureau of Driver Licensing, 555 Pa. 193, 198 n. 2, 723 A.2d 655, 658 n. 2 (1999).\n. The record reveals that Flynn was arrested in Illinois on January 12, 1986 and convicted on May 16, 1986 for driving under the influence. Flynn was again arrested in Illinois on September 23, 1988 and convicted on March 31, 1989 for driving under the influence. While in Pennsylvania, Flynn was arrested on June 2, 1995, convicted on August 9, 1996 for driving under the influence of alcohol and again arrested on January 18, 2002 and convicted on November 6, 2002 for driving under the influence of alcohol.",
+        "type": "majority",
+        "author": "Senior Judge FLAHERTY."
+      }
+    ],
+    "attorneys": [
+      "Charles A. Flynn, appellant, pro se.",
+      "Terrance M. Edwards, Asst. Counsel and Andrew S. Gordon, Chief Counsel, Harrisburg, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Charles A. FLYNN, Appellant v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs May 7, 2010.\nDecided Sept. 1, 2010.\nCharles A. Flynn, appellant, pro se.\nTerrance M. Edwards, Asst. Counsel and Andrew S. Gordon, Chief Counsel, Harrisburg, for appellee.\nBEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0758-01",
+  "first_page_order": 792,
+  "last_page_order": 796
+}

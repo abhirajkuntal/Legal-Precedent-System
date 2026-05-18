@@ -1,0 +1,408 @@
+{
+  "id": 7288526,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. WEBBS SUPER GRO PRODUCTS, INC. in Care of Fritz McGrail, Appellant",
+  "name_abbreviation": "Commonwealth v. Webbs Super Gro Products, Inc.",
+  "decision_date": "2010-08-03",
+  "docket_number": "",
+  "first_page": "591",
+  "last_page": "598",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "775 A.2d 849",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11089435
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "855-56"
+        },
+        {
+          "page": "856",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/775/0849-01"
+      ]
+    },
+    {
+      "cite": "971 A.2d 1216",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7299224,
+        4194847
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1219",
+          "parenthetical": "stating failure to provide argument with appropriate citation to authority will result in waiver of an issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/971/1216-01",
+        "/pa/601/0257-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194847
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "262",
+          "parenthetical": "stating failure to provide argument with appropriate citation to authority will result in waiver of an issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0257-01"
+      ]
+    },
+    {
+      "cite": "175 L.Ed.2d 127",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 S.Ct. 200",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "970 A.2d 1100",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4195964,
+        7335709
+      ],
+      "pin_cites": [
+        {
+          "page": "1104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0006-01",
+        "/a2d/970/1100-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 6",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4195964
+      ],
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0006-01"
+      ]
+    },
+    {
+      "cite": "991 A.2d 311",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "958 A.2d 569",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8204033
+      ],
+      "pin_cites": [
+        {
+          "page": "578-579"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/0569-01"
+      ]
+    },
+    {
+      "cite": "909 A.2d 1224",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2573618,
+        8461628
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0437-01",
+        "/a2d/909/1224-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2573618
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0437-01"
+      ]
+    },
+    {
+      "cite": "663 A.2d 746",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7875214,
+        723967
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "748"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/663/0746-01",
+        "/pa-super/444/0206-01"
+      ]
+    },
+    {
+      "cite": "444 Pa.Super. 206",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        723967
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/444/0206-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 1156",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8365210
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1163"
+        },
+        {
+          "page": "1168",
+          "parenthetical": "stating that \"[t]his Court does not have the authority to insert a word or additional requirement into a statutory provision where the legislature has failed to supply it\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/1156-01"
+      ]
+    },
+    {
+      "cite": "957 A.2d 752",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8207759
+      ],
+      "pin_cites": [
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/957/0752-01"
+      ]
+    },
+    {
+      "cite": "979 A.2d 336",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293291
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/0336-01"
+      ]
+    },
+    {
+      "cite": "719 A.2d 306",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673960,
+        356264,
+        11673876,
+        356262
+      ],
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0306-02",
+        "/pa/553/0414-01",
+        "/a2d/719/0306-01",
+        "/pa/553/0415-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 415",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356262
+      ],
+      "pin_cites": [
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0415-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8998737,
+        2472599
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "780"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0775-01",
+        "/pa/585/0395-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 395",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2472599
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0395-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 946,
+    "char_count": 21048,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 7.591356421208395e-08,
+      "percentile": 0.4497625151118849
+    },
+    "sha256": "64ac42c3ae41107141d95ae12f9c410aba4ae71c6cb12e55b741fd9d7948450d",
+    "simhash": "1:a9318bb0615a95dc",
+    "word_count": 3490
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: STEVENS, MUSMANNO, JJ., and McEWEN, P.J.E."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. WEBBS SUPER GRO PRODUCTS, INC. in Care of Fritz McGrail, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSTEVENS, J.:\nWebbs Super Gro Products, Inc., in care of Fritz McGrail, (hereinafter \u201cAppellant\u201d) appeals from the judgment of sentence entered in the Court of Common Pleas of Union County on August 14, 2009, at which time the trial court found Appellant guilty of violating 75 Pa.C.S.A. \u00a7 4905(e) \u201csafety requirements for vehicles, Obstructed lighting equipment\u201d and ordered it to pay any and all costs of prosecution and court costs along with a fine of $300.00 plus the EMS Operating Fund of $10.00 for each offense, if applicable. Upon our review of the record, we affirm.\nIn its Opinion filed pursuant to Pa. R.A.P. 1925(a), the trial court summarized the factual background of the within matter as follows:\n[Appellant] is a company involved in the fertilizer, chemical, and grain business. Notes of Testimony, August 14, 2009[,] at 26. On April 27, 2009[,] at approximately 8:00 a.m., it was observed by a Public utility Commission Officer to be in violation of 75 Pa.C.S.A. \u00a7 4905(e) for operating a towed vehicle with obstructed lighting. [Appellant] was utilizing one of its four axle trucks to tow a fertilizer spreader on a public highway whereby the lights on the truck were\nobscured by the fertilizer spreader. N.T. at 8-9. Commonwealth\u2019s Exhibit 1 (photo). The posted speed was 40 miles per hour. The driver was driving the posted speed. N.T. 36. The fertilizer spreader did not display a slow-moving vehicle emblem. Commonwealth Exhibit 1; N.T. 45-46.\nA summary trial occurred on August 14, 2009[,] after which we found [Appellant] guilty....\nTrial Court Opinion, filed October 19, 2009, at 1-2.\nOn August 31, 2009, Appellant filed a timely notice of appeal, after which in its Scheduling Order filed on September 10, 2009, the trial court ordered Appellant to file a concise statement of errors complained of on appeal by September 30, 2009. Appellant filed the same on September 28, 2009, wherein it raised the following questions:\n1. Does 75 Pa.C.S.A. \u00a7 4303(b) exempt a fertilizer trailer on a highway being delivered by a fertilizer company to a farmer for use in the field?\n2. Is there a conflict between Section 75 Pa.C.S.A. \u00a7 4529(a) and (b), which requires a slow moving vehicle sign at under 25 miles per hour, disallows the use of a slow moving vehicle sign over 25 miles per hour if the exemption granted in Section 4303 is disallowed?\nIn its brief, Appellant raises the following two (2) issues for our review.\n1. Is a fertilizer spreader an instrument of husbandry when it is pulled by a fertilizer dealer?\n2. Does 75 Pa.C.S.A. \u00a7 4529(b) allow a fertilizer spreader to travel on the highway at speeds in excess of 25 miles per hour without an orange triangle.\nBrief for Appellant at 5. We will consider these issues in turn.\nIn its brief, Appellant first develops the argument that a fertilizer spreader constitutes an instrument of husbandry when it is pulled by a fertilizer dealer, and cites to 75 Pa.C.S.A. \u00a7 4905(e) in support of this claim; however, in its Statement of Matters Complained of on Appeal, Appellant cites only to 75 Pa.C.S.A. \u00a7 4303(b) and nowhere mentions its briefed claim that the fertilizer spreader in tow constitutes an instrument of husbandry. As such, we find Appellant has waived this issue on appeal. \u201cAny issues not raised in a Pa.R.A.P. 1925(b) statement will be waived.\u201d Commonwealth v. Castillo, 585 Pa. 395, 403, 888 A.2d 775, 780 (2005) citing Commonwealth v. Lord, 553 Pa. 415, 420, 719 A.2d 306, 309. See also Moyer v. Teledyne Continental Motors, Inc., 979 A.2d 336, 347 (Pa.Super.2009); Commonwealth v. McBride, 957 A.2d 752, 755 (Pa.Super.2008).\nDespite our finding of waiver of Appellant\u2019s first argument, we are compelled to discuss the issue of whether a fertilizer spreader as it was transported herein constitutes an instrument of husbandry in light of the second issue Appellant develops in its brief. Moreover, as this claim involves statutory interpretation, we begin with a statement of the applicable standard of review:\nIn interpreting any statute, appellate courts must take note of the principles of statutory interpretation and construetion. The principal objective of interpreting a statute is to effectuate the intention of the legislature and give effect to all of the provisions of the statute. 1 Pa.C.S.A. \u00a7 1921(a); Commonwealth v. Drummond, 775 A.2d 849, 855-56 (Pa.Super.2001) (en banc) (stating that appellate courts must evaluate each section of a statute because there is a presumption that the legislature intended for the entire statute to be operative). \u201cIn construing a statute to determine its meaning, courts must first determine whether the issue may be resolved by reference to the express language of the statute, which is to be read according to the plain meaning of the words.\u201d In re Jacobs, 936 A.2d 1156, 1163 (Pa.Super.2007) (quoting Commonwealth v. Lopez, 444 Pa.Super. 206, 663 A.2d 746, 748 (1995)). When analyzing particular words or phrases, we must construe them \u201caccording to rules of grammar and according to their common and approved usage.\u201d 1 Pa.C.S.A. \u00a7 1903(a). \u201cWords of a statute are to be considered in their grammatical context.\u201d Drummond, 775 A.2d at 856 (citation omitted). \u201cFurthermore, we may not add provisions that the General Assembly has omitted unless the phrase is necessary to the construction of the statute.\u201d Id. (citation omitted); see also Jacobs, 936 A.2d at 1168 (stating that \u201c[t]his Court does not have the authority to insert a word or additional requirement into a statutory provision where the legislature has failed to supply it\u201d). A presumption also exists that the legislature placed every word, sentence and provision in the statute for some purpose and therefore courts must give effect to every word. Commonwealth v. Ostrosky, 589 Pa. 437, 909 A.2d 1224, 1232 (2006).\nCommonwealth v. Morris, 958 A.2d 569, 578-579 (Pa.Super.2008), appeal denied, 991 A.2d 311 (2010).\nSections 4529(a) and (b) of the Motor Vehicle Code provide the following:\n(a) General Rule. \u2014 All implements of husbandry commercial implements of husbandry and special mobile equipment designed to operate at 25 miles per hour or less and all animal-drawn vehicles shall, when traveling on a highway, display on the rear of the vehicle a reflective slow-moving vehicle emblem as specified in regulations of the department. The use of the slow-moving vehicle emblem shall be in addition to any other lighting devices or equipment required by this title.\n(b) Limitation on use or display. \u2014 No person shall use or display the slow-moving vehicle emblem except as provided in this section nor shall any person display the emblem on a vehicle traveling at speed in excess of 25 miles per hour.\n75 Pa.C.S.A. \u00a7 4529(a) & (b) (emphasis added).\nIn addition, 75 Pa.C.S.A. \u00a7 102 defines implement of husbandry as follows:\n\u201cImplement of husbandry.\u201d Farm equipment that meets all of the following criteria:\n(1) Is equipped with pneumatic tires except if prohibited by religious beliefs.\n(2) Is infrequently operated or moved upon highways.\n(3) Is used in agriculture for any of the following purposes:\n(i) performance of agriculture production or harvesting activities for the farmer\u2019s agricultural operations; or\n(ii) transportation of agricultural products or agricultural supplies for the benefit of the farmer\u2019s agricultural operations.\nThe term also includes earthmoving equipment and any other vehicle determined by the department to be an implement of husbandry.\n75 Pa.C.S.A. \u00a7 102.\nMoreover, title 67 of the Pennsylvania Administrative Code states that its purpose is to establish \u201cguidelines for determining whether a vehicle is an implement of husbandry; that is whether it is one that is used exclusively for agricultural operations and only incidentally operated or moved upon highways.\u201d 67 PA.Code \u00a7 11.1. (2010). Also, 67 PA.Code \u00a7 11.2 (2010) enumerates the following categories of implements of husbandry:\nThere are several categories of implements of husbandry, classified according to their relative incidence of operation or movement upon highways:\n(1) Field equipment. Vehicles designed to be used only in the fields, such as choppers, disc harrows, cultivators, balers and the like. The only time the vehicle is used upon highways is to move it from one field or barn to another.\n(2) Other vehicles. A vehicle designed for operation both on the farm and upon the highways, but used primarily on the farm, such as a farm tractor, farm wagon and steam cleaner.\n(3) Trailers. A vehicle designed to haul and apply fertilizer and insecticide on farmland and operated only during daylight hours, which complies with 75 Pa. C.S. \u00a7 4529 (relating to slow moving vehicle emblem).\n(4) Agricultural equipment. A vehicle which has agricultural equipment \u2014 for example, grain grinders or corn shelters \u2014 permanently attached in a manner which precludes the hauling of supplies, material, farm products and the like.\n67 PACode \u00a7 11.2 (2010).\nThe trial court determined that the fertilizer spreader involved herein did not constitute a \u201ccommercial instrument of husbandry\u201d because it was not self propelled. It further reasoned that its conclusion a spreader is only an \u201cimplement of husbandry\u201d in regard to its use by a particular farmer \u201cmakes sense when the statute is evaluated as a safety regulation\u201d because \u201c[t]he exemption contemplates a farmer hauling a piece of farm equipment from one field to another to conduct his/ her farming operations, not a commercial operation using a truck to haul a piece of farming equipment at posted speeds on a public highway over significant distances where there is other vehicular traffic.\u201d Trial Court Opinion, filed 10/19/09, at 5. To the contrary, Appellant maintains that 75 Pa.C.SA. \u00a7 4529(a) and (b) require that:\n[A]ny implement of husbandry operated under 25 mites per hour must have a slow moving vehicle emblem upon it. The spreader at issue in this case is designed to operate at speeds above 25 miles per hour when being transported. Farmers and their suppliers rely on the supplier\u2019s ability to move the devices from farm to farm during the planting season at posed speed limits.\n* * *\n[Appellant] is faced with a dilemma created by the legislature under \u00a7 4529. His piece of equipment is in fact an implement of husbandry, but it is designed to be operated at speeds beyond 25 mites per hour, but he is prohibited under sub-section (b).... To say that when he is going in excess of 25 mites per hour with an implement of husbandry, he must have a slow moving vehicle sign if it does not have lights is contrary to the explicit language of the statute.\nBrief for Appellant at 12-13 (emphasis added). We disagree with this analysis and upon our review of the record find that the fertilizer spreader in question as Appellant utilized it did not constitute an implement of husbandry.\nAt the summary appeal trial, Officer David Beck of the Pennsylvania Public Utility Commission (PUC), Bureau of Transportation Safety testified that as a state officer with the PUC he enforces all federal motor carrier safety regulations, the state inspection code, and the vehicle code of Pennsylvania, Title 75. N.T., 8/14/09, at 3. He described the vehicle driven by Appellee\u2019s employee as \u201ca commercial 4-axle straight truck with an attached \u2014 at first I didn\u2019t know it, but it had an attached what we would call a full trailer since it was a pintle hook attachment with safety chains ... Standard commercial straight truck used for commercial purposes, had a load of fertilizer on it.\u201d Id. at 4. Officer Beck explained that \u201c[Ap-pellee\u2019s] truck had a large, I\u2019d say 8 foot high, roughly, 8 foot high, 4,5 feet wide fertilizer spreader type full trailer that was attached to the pintle hook which was totally blocking all lighting to the rear of the vehicle.\u201d Id. at 8.\nOn cross-examination, counsel for Appellant presented to Officer Beck a copy of a vehicle registration which he claimed indicated that the trailer attached to the truck was, in fact, registered as an instrument of husbandry. In response, Officer Beck indicated that there had been no license plate on the trailer so he could not confirm that the license plate and registration in question belonged to the vehicle he cited, and he did not check for a serial number as he is not required to locate a serial number on an unregistered vehicle. Id. at 15, 18. In addition, Officer Beck did not believe the fertilizer spreader was capable of being self-propelled. Id. at 16.\nMr. Francis A. McGrail, president of Appellant, testified that his company owns twenty-four trailers which \u201care basically fertilizer spreaders that are taken from farm to farm to spread fertilizer.\u201d Id. at 27. He admitted that the trailer in question did not have a license plate on it the day Officer Beck issued the citation, but that he obtained a new one for it and the title for the vehicle indicated IMPH which means implement of husbandry. Mr. McGrail also admitted that the spreaders are moved frequently in a short period of time on highways. Id. at 35-36.\n75 Pa.C.S.A. \u00a7 102 provides that to qualify as an instrument of husbandry all of the criteria must be met which includes the requirement the object must be infrequently moved on highways; yet, Appellant acknowledges in its brief that the nature of modern farming requires its fertilizer spreaders to be transported from one farm to another at posted speed limits and that it lawfully transported the fertilizer spreader involved herein on public roads at the posted speed limits in excess of 25 M.P.H. See Brief for Appellant at 12-13. In fact, Mr. McGrail acknowledged the spreader is pulled in tow long distances for interim work. Such statements discredit Appellant\u2019s argument that the spreader should be classified as an instrument of husbandry under 75 Pa.C.S.A. \u00a7 4529(a); clearly, its presence on a given farm is transitory, for it remains in a particular location only a few days before it is utilized by another farmer miles away.\nAs the trial court notes in its Opinion, Appellant routinely tows the spreader a considerable distance on a public highway traveling at the posted speed or higher, and in this case the driver traveled on State Road 192 from Centre Hall to Lewis-burg a distance of 60-70 miles, with the posted speed being 40. N.T., 8/14/09 at 4, 9, 11, 36. In fact, the driver indicated to Officer Beck that \u201chis vehicle does do 50, 60, 70 miles an hour.\u201d Id. at 11. As such, the trial court did not err in finding the fertilizer spreader as it was utilized in the case sub judice did not meet the definition set forth in 75 Pa.C.S.A. \u00a7 102 for an implement of husbandry.\nHaving determined that the fertilizer spreader did not constitute an implement of husbandry, we find 75 Pa.C.S.A. \u00a7 4529(a) is inapplicable; thus, the inconsistency Appellant references is nonexistent. As the trial court aptly notes:\n[i]f anything, the two subsections underscore the interpretation that a fertilizer spreader being hauled by a truck on a public highway at the posted speed is not an implement of husbandry. Obviously, subsection (a) exists to require the emblem on all farm equipment identified as an \u201cimplement of husbandry,\u201d that is to say-on a piece of farm equipment being hauled by a farmer from one field to another. The emblem warns other vehicular traffic of the slow speed of the vehicle. Subsection (b) exists to prohibit persons from misusing the slow-moving vehicle emblem, that is by using it on a vehicle that is not \u201can implement of husbandry\u201d or on a vehicle that is \u201ctraveling at a speed in excess of 25 miles per hour.\nTrial Court Opinion filed, October 19, 2009, at 8 (emphasis in original).\nJudgment of Sentence affirmed.\nThere was no question that the Commonwealth proved that the required lighting was obscured. [Appellant] has not challenged the Commonwealth\u2019s proof on appeal.\n. This photograph has not been included in the record for our review; however, the Commonwealth attached a copy of it and a copy, of its Exhibit 2, a photograph depicting the business location and sign of Appellant, to its brief.\n. This statute entitled \"Safety requirements for towed vehicles\u201d reads as follows:\ne) Obstructed lighting equipment. \u2014 Whenever the rear running lights, stop lights, turn signals or hazard warning lights required by the provisions of Chapter 43 (relating to lighting equipment) are obstructed by the load on a vehicle or by a towed vehicle or its load, lighting equipment shall be displayed on the rear of the towed vehicle or load equivalent to the obstructed lights or signals, except in the case of implements of husbandry or commercial im-\nplements of husbandry displaying the slow-moving vehicle emblem and operating between sunrise and sunset.\n75 Pa.C.S.A. \u00a7 4905(e).\n.This statute contains the following language:\nb) Rear lighting. \u2014 Every vehicle operated on a highway shall be equipped with a rear lighting system including, but not limited to, rear lamps, rear reflectors, stop lamps and license plate light, in conformance with regulations of the department. If a vehicle is equipped with a centrally mounted rear stop light, a decal or overlay may be affixed to the centrally mounted rear stop light if the decal or overlay meets all applicable State and Federal regulations.\n75 Pa.C.S.A. \u00a7 4303(b).\n. We are cognizant of the fact that Rule 1925(b) has since been amended to specify, in relevant part: \"Each error identified in the Statement will be deemed to include every subsidiary issue contained therein which was raised in the trial court_\" Pa.R.A.P. 1925(b)(4)(v) (amended May 10, 2007, effective July 25, 2007). See Commonwealth v. Diodoro, 601 Pa. 6, 13, 970 A.2d 1100, 1104 (Pa.2009), cert denied, Diodoro v. Pennsylvania, \u2014 U.S.-, 130 S.Ct. 200, 175 L.Ed.2d 127 (2009); however, 75 Pa.C.S.A. 4303(b) requires all towed vehicles to display rear lighting without exception. It is 75 Pa.C.S.A. \u00a7 4905(e) which grants an exception for \"instruments of husbandry\u201d or \"commercial instruments of husbandry;\u201d therefore it cannot be deemed a subsidiary issue of Appellant\u2019s first claim in its Pa.R.A.P. 1925(b) statement.\n. We note that while in the \"Summary of Arguments\u201d section of its brief Appellant provides the definition for commercial instrument of husbandly as an implement of husbandry that is a self propelled vehicle used commercially and operated or moved upon highways for not more that 180 days in a calendar year (See 75 Pa.C.S.A. \u00a7 102), in the body of its brief it develops argument only as to its claim the fertilizer spreader constituted an implement of husbandry. As such, it has waived any claim the spreader could be classified as a commercial instrument of husbandry (See Commonwealth v. Reed, 601 Pa. 257, 262, 971 A.2d 1216, 1219 (2009) (stating failure to provide argument with appropriate citation to authority will result in waiver of an issue)). Even had Appellant properly developed this claim, for the reasons set forth, infra, it would fail for, by definition, an item must be classified as an implement of husbandry which satisfies three enumerated criteria before it is further classified as a commercial implement of husbandry.\n. The trial court noted in its Opinion that there was no issue before it pertaining to whether the fertilizer spreader in question constituted \"farm equipment\u201d as defined in 75 Pa.C.S.A. \u00a7 102. See Trial Court Opinion, filed 10/19/09, at 3 n 3.\n. In its brief, Appellant sarcastically mischar-acterizes the trial court\u2019s words and posits that \"the [l]ower [c]ourt erred when it ruled that because the owner of the spreader did not have bib overhauls [sic], a plaid shirt, a John Deere hat and 40 acres of soy beans under cultivation that the vehicle he was towing lost its status as an implement of husbandry.\u201d Brief for Appellant at 7.\n. The original title to the vehicle was not presented at the trial, and the Commonwealth objected to the admission of the copy referenced by Mr. McGrail; the trial court sustained the Commonwealth's objection in light of the Commonwealth\u2019s later clarification that it had no proof the photocopied title applied to the trailer stopped on April 27, 2009. Id. at 33. Moreover, even if the title were a IMPH designation, this is not dispositive, for Appellant\u2019s own admission of the use of the item belies such a designation. The statute does not reference the manner in which a vehicle is titled, but rather indicates the manner in which it is used to be entitled to the lighting exception of 75 Pa.C.S.A. \u00a7 4905(e). As such, the determining factor cannot be the possible designation given to the spreader, but must be the use to which it had been put herein.",
+        "type": "majority",
+        "author": "STEVENS, J.:"
+      }
+    ],
+    "attorneys": [
+      "James N. Bryant, Milheim, for appellant.",
+      "David P. Johnson, Assistant District Attorney, Lewisburg, for Commonwealth, ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. WEBBS SUPER GRO PRODUCTS, INC. in Care of Fritz McGrail, Appellant.\nSuperior Court of Pennsylvania.\nArgued May 18, 2010.\nFiled Aug. 3, 2010.\nJames N. Bryant, Milheim, for appellant.\nDavid P. Johnson, Assistant District Attorney, Lewisburg, for Commonwealth, ap-pellee.\nBEFORE: STEVENS, MUSMANNO, JJ., and McEWEN, P.J.E."
+  },
+  "file_name": "0591-01",
+  "first_page_order": 607,
+  "last_page_order": 614
+}

@@ -1,0 +1,178 @@
+{
+  "id": 7289520,
+  "name": "COMMONWEALTH of Pennsylvania, DEPARTMENT OF LABOR & INDUSTRY, BUREAU OF WORKERS' COMPENSATION, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (OLD REPUBLIC INSURANCE CO.), Respondent",
+  "name_abbreviation": "Commonwealth, Department of Labor & Industry, Bureau of Workers' Compensation v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-07-28",
+  "docket_number": "",
+  "first_page": "790",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 790"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "827 A.2d 529",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9109215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/827/0529-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 1270",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8309626
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/1270-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 855",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293203
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "862"
+        },
+        {
+          "page": "863"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0855-01"
+      ]
+    },
+    {
+      "cite": "801 A.2d 668",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9410154
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/801/0668-01"
+      ]
+    },
+    {
+      "cite": "781 A.2d 1146",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9480562,
+        706231
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/781/1146-01",
+        "/pa/566/0420-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 420",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706231
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0420-01"
+      ]
+    },
+    {
+      "cite": "816 A.2d 1069",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "868 A.2d 620",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9178149
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/868/0620-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 498,
+    "char_count": 10432,
+    "ocr_confidence": 0.712,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.36661287974704315
+    },
+    "sha256": "334219476f088db0c37b2fcc7d83c6d3759d100aa6b57c59e27aae69a3ab8109",
+    "simhash": "1:d5a759d439b8bf58",
+    "word_count": 1629
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, BROBSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, DEPARTMENT OF LABOR & INDUSTRY, BUREAU OF WORKERS\u2019 COMPENSATION, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (OLD REPUBLIC INSURANCE CO.), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge FLAHERTY.\nThe Department of Labor and Industry, Bureau of Workers\u2019 Compensation (Bureau) appeals from the decision of the Workers\u2019 Compensation Appeal Board (Board) affirming the order of the Workers\u2019 Compensation Judge (WCJ) granting an application for supersedeas fund reimbursement filed by the Delaware County IU and its insurer, Old Republic Insurance Company (collectively, Insurer), to recover the amount expended on attorney\u2019s fees and costs related to third-party litigation. For the reasons that follow, we affirm.\nJanette Brandon (Claimant) sustained a work-related injury and began receiving benefits pursuant to a Notice of Compensation Payable. Insurer filed a Termination Petition on December 2, 2005 alleging that Claimant had fully recovered from her work injuries as of September 23, 2005 and was capable of returning to unrestricted work. Insurer also requested superse-deas. Insurer\u2019s request for supersedeas was denied on December 28, 2005. The Employer\u2019s Termination Petition was granted on January 3, 2007 whereupon Claimant\u2019s benefits were terminated as of September 23, 2005.\nIn the meantime, Claimant obtained a third-party settlement for her work injury of $175,000.00. Employer had an accrued lien of $68,849.36. The Employer\u2019s pro rata share of the cost of recovery in the third party settlement was $29,520.30. Consequently, Employer received a check in the amount of $39,329.06 for the amount of its net lien.\nInsurer filed an application for superse-deas fund reimbursement with the Bureau seeking reimbursement for the indemnity benefits and medical expenses paid from the date its supersedeas request was denied through the date of the WCJ\u2019s final order. The Bureau denied the application concluding that Insurer already received full satisfaction of its lien upon payment from the third-party settlement.\nOn appeal, the WCJ concluded that Employer was entitled to supersedeas reimbursement in the amount of $9,686.61. The WCJ noted that the total amount of indemnity and medical payments paid to Claimant following the denial of superse-deas was $22,271.91. She noted that this amount represented 32% of the total benefits paid to Claimant during the lifetime of her claim. Therefore, she concluded that 32% of the net subrogation lien payment is attributable to the compensation paid during the eligible period of December 2, 2005 through January 3, 2007, ie., $12,585.30. Finally, the WCJ concluded that this amount should be deducted from the total amount paid during the eligible period of reimbursement to get the net amount Insurer is eligible to recover from the Super-sedeas Fund; ie., $9,686.61. The Board affirmed. This appeal followed.\nThe Bureau argues on appeal that reimbursement is not warranted in this instance. It contends that only compensation payments paid after the denial of su-persedeas are subject to reimbursement. The Bureau asserts that Insurer is not attempting to recover compensation in this matter, but rather its portion of costs in obtaining the third party recovery.\nAt the heart of the Bureau\u2019s argument is the interplay between Section 443(a) of the Pennsylvania Workers\u2019 Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. \u00a7 999(a), and Section 319 of the Act, 77 P.S. \u00a7 671. Section 443(a) of the Act provides as follows:\nIf, in any case in which a supersedeas has been requested and denied under the provisions of Sec. 413 or Sec. 430, payments of compensation are made as a result thereof and upon the final outcome of the proceedings, it is determined that such compensation was not, in fact payable, the insurer who has made such payments shall be reimbursed therefor. . . . []\n77 P.S. \u00a7 999(a). (Emphasis added).\nSection 319 of the Act provides, in pertinent part:\nWhere the compensable injury is caused... by... a third party, the employer shall be subrogated to the right of the employe... against such third party to the extent of the compensation payable under this article by the employer; reasonable attorney\u2019s fees and other proper disbursements incurred in obtaining a recovery or in effecting a compromise settlement shall be prorated between the employer and employe.... The employer shall pay that proportion of the attorney\u2019s fees and other proper disbursements that the amount of compensation paid or payable at the time of recovery or settlement bears to the total recovery or settlement ...\n11 P.S. \u00a7 671. (Emphasis added).\nThe purpose of the Supersedeas Fund is to provide a means to protect an employer who makes compensation payments to an employee who ultimately is determined not to have been entitled to those payments. City of Wilkes-Barre v. Workers\u2019 Compensation Appeal Board (Spaide), 868 A.2d 620 (Pa.Cmwlth.2004). In interpreting Section 443(a) of the Act, this Court has found that in order to obtain reimbursement from the supersedeas fund, it must establish that (1) a superse-deas was requested; (2) the request for supersedeas was denied; (3) the request was made in a proceeding under Section 413, 77 P.S. \u00a7 771, or 430 of the Act, 77 P.S. 971; (4) payments were continued because of the order denying the superse-deas; and (5) in the final outcome of the proceedings, it is determined that such compensation was not, in fact, payable. Bureau of Workers\u2019 Compensation v. Workers\u2019 Compensation Appeal Board (Consolidated Freightways, Inc.), 816 A.2d 1069 (Pa.Cmwlth.2005).\nSubrogation is an equitable remedy that prevents double recovery and ensures that the party at fault, rather than an innocent party, be held responsible for a claimed injury. Thompson v. Workers\u2019 Compensation Appeal Board (USF&G Co.), 566 Pa. 420, 781 A.2d 1146 (2001). An employer has an absolute right to immediate payment of its past due hen from the recovery fund after payment of attorney\u2019s fees and expenses. Mrkich v. Workers\u2019 Compensation Appeal Board (Allegheny County Children and Youth Serv.), 801 A.2d 668 (Pa.Cmwlth.2002).\nThis Court recently faced the identical issue of whether recovery fees incurred pursuant to Section 319 as a result of a third-party settlement are compensation as defined by Section 443(a) and recoverable from the supersedeas fund. In Department of Labor and Industry v. Workers\u2019 Compensation Appeal Board (Excelsior Ins.), 987 A.2d 855 (Pa.Cmwlth.2010), which is controlling in this case, we held that recovery fees are compensation under Section 443(a) of the Act. We stated, \u201c[w]e discern no clear indication from Section 319 that an insurer is required, in the context of Supersedeas Fund reimbursement, to assume the costs of recovering a third party settlement for periods in which there has been a determination that compensation was not, in fact, payable.\u201d Id. at 862. This Court further explained \u201c[although the amounts for which insurer is seeking reimbursement correlate to what is designated as recovery costs when the subrogation calculations were made under Section 319, as the Board correctly stated, Section 319 does not \u2018eonvert[] the compensation paid for [wage loss] and medical benefits into something else for the purposes of Section 443(a) ...\u201d\u2019 Id. at 863. (Emphasis in original). The payments in Excelsior Ins. were deemed payments of \u201ccompensation\u201d for purposes of Section 443 of the Act and reimbursement was found appropriate.\nHere, just as in Excelsior Ins., Insurer incurred recovery fees pursuant to Section 319 due to a third-party recovery by Claimant. A portion of those recovery fees in the sum of $9,686.61 represent the amount Insurer paid to Claimant following the denial of its supersedeas request on December 28, 2005 that, ultimately, were found not to be payable. Because the amount was not payable and because recovery fees are compensation under Section 443(a) of the Act, the Supersedeas Fund is required to reimburse Insurer in the amount of $9,686.61.\nWe detect no error in the Board\u2019s August 12, 2009 Opinion. Consequently, its order is affirmed.\nORDER\nAND NOW, this 28th day of July, 2010, the order of the Workers\u2019 Compensation Appeal Board in the above-captioned matter is AFFIRMED.\n. $22,271.91 / $68,849.36 = 32%.\n. $39,329.06 x .32 = $12,585.30.\n. $22,271.91 - $12,585.30 = $9,686.61.\n. This Court\u2019s review is limited to determining whether an error of law was committed, whether necessary findings of fact are supported by substantial evidence and whether constitutional rights were violated. Sysco Food Services of Philadelphia v. Workers' Compensation Appeal Board (Sebastiano), 940 A.2d 1270 (Pa.Cmwlth.2008).\n. Under Section 413 of the Act, 77 P.S. \u00a7 771, the WCJ has the discretion as to whether or not to grant supersedeas in certain circumstances. Department of Labor and Indus, v. Workers' Compensation Appeal Board (Exel Logistics), 827 A.2d 529 (Pa.Cmwlth.2003). That is the applicable provision here.\n. The Bureau attempts to distinguish this case from Excelsior Ins. because, here, the Insurer\u2019s obligations to Claimant had been terminated, while in Excelsior Ins., the insurer had remaining obligations to the claimant. This distinction misses the point. The issue is not about whether or not Insurer has continued future obligations to Claimant but whether Insurer is to be reimbursed by the supersede-as fund for past payments it made to Claimant that were later determined to be not payable. Without reimbursement by the Supersedeas Fund for the portion of the recovery fees attributable to those past, not payable, payments, Insurer would remain partially uncompensated.\nThe Bureau also quotes Mrkich for the proposition that an \"employer is considered to have been paid, in satisfaction of its lien, both the cash it actually received and the proportionate share of costs it constructively paid.\u201d Mrkich, 801 A.2d at 674. That case, however, only deals with Section 319 of the Act and does not deal with the interplay between Section 443 of the Act and Section 319 of the Act.",
+        "type": "majority",
+        "author": "Senior Judge FLAHERTY."
+      }
+    ],
+    "attorneys": [
+      "Deborah J. Schwartz, Asst. Counsel and Thomas J. Kuzma, Deputy Chief Counsel, Harrisburg, for petitioner.",
+      "Erin Courtney Thompson, Paoli, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, DEPARTMENT OF LABOR & INDUSTRY, BUREAU OF WORKERS\u2019 COMPENSATION, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (OLD REPUBLIC INSURANCE CO.), Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs April 23, 2010.\nDecided July 28, 2010.\nDeborah J. Schwartz, Asst. Counsel and Thomas J. Kuzma, Deputy Chief Counsel, Harrisburg, for petitioner.\nErin Courtney Thompson, Paoli, for respondent.\nBEFORE: LEADBETTER, President Judge, BROBSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0790-01",
+  "first_page_order": 806,
+  "last_page_order": 809
+}

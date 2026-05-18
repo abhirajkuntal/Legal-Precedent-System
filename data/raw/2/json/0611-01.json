@@ -1,0 +1,1222 @@
+{
+  "id": 7288803,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Rosha Charles WILLIAMS, Appellant",
+  "name_abbreviation": "Commonwealth v. Williams",
+  "decision_date": "2010-08-04",
+  "docket_number": "",
+  "first_page": "611",
+  "last_page": "628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "735 A.2d 1248",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11543651,
+        838568,
+        838536,
+        11543567,
+        838554,
+        11543611
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1252",
+          "parenthetical": "relying on Gates, supra"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/735/1248-03",
+        "/pa/558/0157-02",
+        "/pa/558/0156-01",
+        "/a2d/735/1248-01",
+        "/pa/558/0157-01",
+        "/a2d/735/1248-02"
+      ]
+    },
+    {
+      "cite": "980 A.2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292570,
+        4194886
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/0035-01",
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194886
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "380 Pa.Super. 397",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        458214
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/380/0397-01"
+      ]
+    },
+    {
+      "cite": "649 A.2d 722",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7873728,
+        707211
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "725-26",
+          "parenthetical": "\"when an appellant fails to carry forward, or is indecipherably vague in, argumentation upon a certain point in his appellate brief, that point is waived\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/649/0722-01",
+        "/pa-super/437/0193-01"
+      ]
+    },
+    {
+      "cite": "437 Pa.Super. 193",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        707211
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "\"when an appellant fails to carry forward, or is indecipherably vague in, argumentation upon a certain point in his appellate brief, that point is waived\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/437/0193-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839641
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0176-01"
+      ]
+    },
+    {
+      "cite": "210 Pa. Code \u00a7 65.24",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "828 A.2d 180",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "982 A.2d 240",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "849 A.2d 1185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9244120,
+        1329441
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/849/1185-01",
+        "/pa/578/0127-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329441
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0127-01"
+      ]
+    },
+    {
+      "cite": "515 Pa. 454",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806041
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0454-01"
+      ]
+    },
+    {
+      "cite": "995 A.2d 1143",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291345,
+        4197418
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/995/1143-01",
+        "/pa/606/0127-01"
+      ]
+    },
+    {
+      "cite": "367 U.S. 643",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785580
+      ],
+      "weight": 4,
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0643-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 463",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777603
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "474"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0463-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 573",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777746
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0573-01"
+      ]
+    },
+    {
+      "cite": "643 A.2d 61",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7860810,
+        775516,
+        775502,
+        7860855
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/643/0061-01",
+        "/pa/537/0232-02",
+        "/pa/537/0233-01",
+        "/a2d/643/0061-02"
+      ]
+    },
+    {
+      "cite": "537 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775502
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0233-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 796",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340278
+      ],
+      "weight": 8,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "797-98"
+        },
+        {
+          "page": "799"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0796-01"
+      ]
+    },
+    {
+      "cite": "251 U.S. 385",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3680880
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "484-85"
+        },
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/251/0385-01"
+      ]
+    },
+    {
+      "cite": "116 U.S. 616",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3516335
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/116/0616-01"
+      ]
+    },
+    {
+      "cite": "371 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450611
+      ],
+      "weight": 11,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "485"
+        },
+        {
+          "page": "485"
+        },
+        {
+          "page": "487-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0471-01"
+      ]
+    },
+    {
+      "cite": "308 U.S. 338",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140061
+      ],
+      "weight": 5,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "341"
+        },
+        {
+          "page": "341"
+        },
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/308/0338-01"
+      ]
+    },
+    {
+      "cite": "232 U.S. 383",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3672825
+      ],
+      "weight": 6,
+      "year": 1914,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/232/0383-01"
+      ]
+    },
+    {
+      "cite": "962 F.2d 1131",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524184
+      ],
+      "pin_cites": [
+        {
+          "page": "1140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/962/1131-01"
+      ]
+    },
+    {
+      "cite": "676 A.2d 226",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        463598,
+        7859918
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "230, 231",
+          "parenthetical": "stating that the \"inevitable discovery rule, sometimes referred to as the 'independent source rule,' \" is valid law in Pennsylvania but that the inevitable discovery rule had no application in that case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0323-01",
+        "/a2d/676/0226-01"
+      ]
+    },
+    {
+      "cite": "544 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        463598
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that the \"inevitable discovery rule, sometimes referred to as the 'independent source rule,' \" is valid law in Pennsylvania but that the inevitable discovery rule had no application in that case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0323-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 93",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745027
+      ],
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "106",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "106, n. 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/480/0093-01"
+      ]
+    },
+    {
+      "cite": "308 Pa.Super. 187",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        205414
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/308/0187-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838568,
+        838554
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "relying on Gates, supra"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0157-02",
+        "/pa/558/0157-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187462
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "235",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "emphases in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0213-01"
+      ]
+    },
+    {
+      "cite": "103 S.Ct. 1535",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6199658
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/0730-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 780",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200638
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "742"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/0780-01"
+      ]
+    },
+    {
+      "cite": "526 Pa. 268",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1825953
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "990"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/526/0268-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 928",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293208,
+        4196869
+      ],
+      "pin_cites": [
+        {
+          "page": "931"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0928-01",
+        "/pa/604/0198-01"
+      ]
+    },
+    {
+      "cite": "169 L.Ed.2d 158",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 S.Ct. 211",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "552 U.S. 894",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "915 A.2d 1122",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8339924,
+        3016679
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/1122-01",
+        "/pa/591/0001-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3016679
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0001-01"
+      ]
+    },
+    {
+      "cite": "973 A.2d 428",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7296747
+      ],
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/973/0428-01"
+      ]
+    },
+    {
+      "cite": "735 A.2d 1248",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11543651,
+        838568,
+        838536,
+        11543567,
+        838554,
+        11543611
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "90-93",
+          "parenthetical": "collecting and analyzing cases"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/735/1248-03",
+        "/pa/558/0157-02",
+        "/pa/558/0156-01",
+        "/a2d/735/1248-01",
+        "/pa/558/0157-01",
+        "/a2d/735/1248-02"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "403 U.S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027286
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/403/0443-01"
+      ]
+    },
+    {
+      "cite": "814 A.2d 1196",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        716460,
+        9347887
+      ],
+      "pin_cites": [
+        {
+          "page": "1201"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/572/0269-01",
+        "/a2d/814/1196-01"
+      ]
+    },
+    {
+      "cite": "309 A.2d 391",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "454 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        579903
+      ],
+      "year": 1973,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/454/0023-01"
+      ]
+    },
+    {
+      "cite": "805 A.2d 602",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11434253
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "606"
+        },
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/805/0602-01"
+      ]
+    },
+    {
+      "cite": "717 A.2d 490",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559538,
+        12119283
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "496",
+          "parenthetical": "quoting Illinois v. Gates, 462 U.S. 213, 233, 103 S.Ct. 2317, 76 L.Ed.2d 527 (1983)"
+        },
+        {
+          "page": "498",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/552/0666-01",
+        "/a2d/717/0490-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 666",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559538
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Illinois v. Gates, 462 U.S. 213, 233, 103 S.Ct. 2317, 76 L.Ed.2d 527 (1983)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/552/0666-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357001,
+        1843233
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/638/0203-01",
+        "/pa/536/0123-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843233
+      ],
+      "year": 1994,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/536/0123-01"
+      ]
+    },
+    {
+      "cite": "785 A.2d 87",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "90",
+          "parenthetical": "quoting Commonwealth v. Gibson, 536 Pa. 123, 638 A.2d 203, 206 (1994)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "557 Pa. 570",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56811
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Commonwealth v. Gibson, 536 Pa. 123, 638 A.2d 203, 206 (1994)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/557/0570-01"
+      ]
+    },
+    {
+      "cite": "878 A.2d 881",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8945621
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/878/0881-01"
+      ]
+    },
+    {
+      "cite": "530 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1832985
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1031"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/530/0299-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 802",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5652851,
+        8988823
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "807",
+          "parenthetical": "Opinion Announcing the Judgment of the Court"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/586/0230-01",
+        "/a2d/892/0802-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5652851
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "Opinion Announcing the Judgment of the Court"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/586/0230-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 796",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340278
+      ],
+      "weight": 6,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "805"
+        },
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/468/0796-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 93",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745027
+      ],
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "103-04"
+        },
+        {
+          "page": "106-07"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/480/0093-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187462
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/462/0213-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 928",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293208,
+        4196869
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "936"
+        },
+        {
+          "page": "931"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/985/0928-01",
+        "/pa/604/0198-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1763,
+    "char_count": 53541,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 9.308798892436126e-08,
+      "percentile": 0.5127007404678806
+    },
+    "sha256": "6b38e18f78f9c504915f96395f714725b77efb1157ae43a812179eaae5140756",
+    "simhash": "1:e4cda5b77b5c9063",
+    "word_count": 8504
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: FORD ELLIOTT, P.J., MUSMANNO, ORIE MELVIN , BENDER, BOWES, PANELLA, DONOHUE, SHOGAN, and ALLEN, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Rosha Charles WILLIAMS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBOWES, J.:\nOn appeal, Rosha Charles Williams assails the propriety of the trial court\u2019s refusal to suppress cash found on his person and drugs discovered in a vehicle from which he was selling cocaine. We affirm.\nAt the September 1, 2006 suppression hearing, Erie Police Officer Michael Nolan testified that he had fourteen years of experience as a police officer, was assigned to the Drug and Vice Unit of the police department for eleven years, and was commander of that unit for the preceding two years. On March 13, 2006, he returned home from work for the day when he received a telephone call from a confidential informant (\u201cCl\u201d). The Cl advised Officer Nolan that within the preceding few minutes, he or she had observed Appellant seated in a black Expedition in the BOO block of Myrtle Street selling bags of crack cocaine. Officer Nolan, whom the suppression court found credible, related that the Cl had been a source of reliable information for ten years. As a result of prior facts received from the Cl, the officer obtained convictions of over twenty individuals for felony drug violations, and seized over $100,000 in drug proceeds and in excess of ten kilograms of cocaine or crack cocaine.\nOfficer Nolan knew Appellant from prior contact with him, was aware that he drove a black Expedition, and had received numerous complaints that Appellant was conducting drug-related activity in the 800 block of Myrtle Street. On the night of March 13, 2006, after receiving the telephone call from the Cl, Officer Nolan immediately proceeded to Myrtle Street in an unmarked cruiser and requested backup assistance. He observed Appellant in a black Expedition that was parked in the 300 block of Myrtle Street.\nOfficer Nolan drove past Appellant and parked about one and one-half blocks away from Appellant\u2019s vehicle. He then conducted unenhanced visual surveillance. During a twenty-minute time frame, Officer Nolan observed four individuals separately approach Appellant\u2019s vehicle, interact with Appellant, and viewed what they were doing with their hands.\nWhile one person merely conversed with Appellant, who was located in the driver\u2019s seat of the car, the three others placed their hands momentarily inside Appellant\u2019s vehicle. Their \u201cactivity was very consistent with retrieving or handing items to and from someone.\u201d N.T. Pre-Trial Hearing, 9/1/06, at 8. Officer Nolan continued that he had \u201cconducted hundreds of hours of surveillance and I\u2019ve observed probably close to fifty drug deals take place during surveillance, and this activity was consistent with that.\u201d Id. Officer Nolan also completed a computer check of Appellant\u2019s driver\u2019s license, which was suspended.\nAfter the four interactions, Appellant drove away from Myrtle Street, and Officer Nolan followed him. Officer Nolan stopped behind Appellant\u2019s vehicle as Appellant, who lived nearby, pulled into his driveway. Officer Nolan activated his lights, approached Appellant, patted him down, and discovered $600 in cash in his pocket. Appellant was handcuffed and transported to the Erie Police Department.\nAppellant\u2019s black Expedition was then driven by another police officer to the police department garage so that the K-9 drug dog could conduct a canine sniff of the vehicle. While the Expedition was driven to the police station, no search was made of the vehicle, and no evidence was recovered. When the K-9 made a positive indication to the driver\u2019s side of the Expedition, Officer Nolan shined his flashlight at that location and observed a plastic baggie protruding from the roof liner near the driver\u2019s side. Officer Nolan delineated, \u201cPlastic baggies are overwhelmingly the most common method to package drugs of all types, but specifically crack cocaine in particular.\u201d Id. at 11. Thereafter, Officer Nolan obtained a search warrant for the Expedition and discovered seven plastic baggies containing crack cocaine, a knife, and two cellular phones.\nAs a result of this investigation, Appellant was charged with possession of a controlled substance, possession of a controlled substance with intent to deliver, possession of drug paraphernalia, and driving with a suspended license. After litigating an unsuccessful motion to suppress the evidence, he was convicted of all charges. On May 24, 2007, Appellant was sentenced to three to eight years imprisonment. A panel of this Court affirmed, and we then granted en banc review. Appellant raises two challenges to the suppression court\u2019s ruling:\n1. Whether the Court of Common Pleas erred and/or abused its discretion in denying the Appellant\u2019s Motion to Suppress Evidence based on his illegal arrest, and allowing into evidence $600.00 cash found on the appellant\u2019s person, and crack cocaine found in his vehicle, at trial.\n2. Whether the Court of Common Pleas erred and/or abused its discretion in denying the Appellant\u2019s Motion to Suppress Evidence based on the illegal seizure of his vehicle from his driveway, and allowing into evidence crack cocaine subsequently seized from his vehicle.\nAppellant\u2019s brief at 7.\nPreliminarily, we note that Appellant\u2019s Pa.R.A.P.1925(b) statement was untimely filed; however, the trial court overlooked its tardy nature and elected to address the issues on the merits. Thus, we decline to find waiver. Commonwealth v. Burton, 973 A.2d 428, 430 (Pa.Super.2009) (en banc).\nWe note our well established standard of review:\n\u201cOur standard of review in addressing a challenge to a trial court\u2019s denial of a suppression motion is whether the factual findings are supported by the record and whether the legal conclusions drawn from those facts are correct. We must consider only the evidence of the prosecution and so much of the evidence of the defense as remains uncontradicted when read in the context of the record as a whole.\u201d Commonwealth v. Eichinger, 591 Pa. 1, 915 A.2d 1122, 1134 (2007), cert. denied, 552 U.S. 894, 128 S.Ct. 211, 169 L.Ed.2d 158 (2007). Those properly supported facts are binding upon us and we \u201cmay reverse only if the legal conclusions drawn therefrom are in error.\u201d Id.\nCommonwealth v. Thompson, 985 A.2d 928, 931 (Pa.2009).\nThe first issue we address is whether Officer Nolan had probable cause to arrest and search Appellant after Appellant exited his car and was walking toward his residence.\nProbable cause is made out when \u201cthe facts and circumstances which are within the knowledge of the officer at the time of the arrest, and of which he has reasonably trustworthy information, are sufficient to warrant a man of reasonable caution in the belief that the suspect has committed or is committing a crime.\u201d Commonwealth v. Rodriguez, 526 Pa. 268, 585 A.2d 988, 990 (1991). The question we ask is not whether the officer\u2019s belief was \u201ccorrect or more likely true than false.\u201d Texas v. Brown, 460 U.S. 780, 742, 103 S.Ct. 1535, 75 L.Ed.2d 502 (1983). Rather, we require only a \u201cprobability, and not a prima facie showing, of criminal activity.\u201d Illinois v. Gates, 462 U.S. 213, 235, 103 S.Ct. 2317, 76 L.Ed.2d 527 (1983) (citation omitted) (emphasis supplied). In determining whether probable cause exists, we apply a totality of the circumstances test. Commonwealth v. Clark, 558 Pa. 157, 735 A.2d 1248, 1252 (1999) (relying on Gates, supra).\nId. (emphases in original).\nThompson provides guidance herein. In that ease, a plainclothes police officer was patrolling a high crime area when he observed the defendant perform what the officer concluded was a drug transaction with another man. Defendant was arrested, and drugs were discovered on his person. The issue addressed by our Supreme Court was whether the police had probable cause to arrest the defendant despite the fact that the police officer had not viewed the objects exchanged between the defendant and the other individual.\nIn Thompson, the officer concluded that drugs had been sold based upon his narcotics-related experience, the location of the activity in a high crime area, and the manner in which the transaction was conducted. The officer pointed to specific information which established that the area in question was one where narcotics were sold regularly. He also delineated the extensive nature of his background and training in detecting narcotics activity. Finally, the officer confirmed that he made numerous drug arrests based upon personal observation of drug transactions that were identical to the one made by the defendant. Our Supreme Court held that the officer had probable cause to arrest the defendant.\nIn reaching its decision, the Court articulated a list of factors that are pertinent to the determination of whether probable cause for arrest for a drug sale has coalesced: the time of the drug sale, whether the drug sale was made on the street, the number of drug sales, where the drug items are kept, whether the location is established as one where drug-related activity normally transpires, the specific experience that the police officer has in observing narcotics trafficking, and the movements and mannerisms of the parties involved in the exchange. The Court stated that a police officer should provide specific information establishing both that the area is one where drug-related activity occurs and that he has the precise experience necessary to recognize a drug sale. Our Supreme Court ruled that officers who have specialized training in drug crimes are able to recognize criminal activity in that respect; however, generalized police experience is not as persuasive in the probable cause analysis. Thus, a police officer\u2019s cursory proffer that he has police training is not as weighty in this context as particularized training and experience with drug trafficking.\nApplying Thompson to the present case, it is clear that Officer Nolan had probable cquse to effectuate Appellant\u2019s arrest. First, he received information from a reliable Cl that Appellant was selling drugs from an Expedition on Myrtle Street. Officer Nolan knew that Appellant drove that type of car and had received complaints from other citizens that Appellant sold drugs from that location, substantiating that Myrtle Street was a location for drug trafficking. Armed with this information, Officer Nolan proceeded to observe Appellant, who was located in the Expedition on Myrtle Street. He saw Appellant perform three transactions within twenty minutes, and all appeared to be drug sales. Officer Nolan had particularized training in narcotics investigation, was a member of the narcotics unit for eleven years, and was its commander for two years. He had personally observed fifty drug transactions and testified that Appellant\u2019s behavior with the three individuals at Appellant\u2019s car was consistent with drug activity. The transactions occurred at night and on the street. Thus, each factor supporting a determination of probable cause, as outlined in Thompson, is present in this case.\nMoreover, we have herein the added information from a reliable Cl that Appellant was, in fact, in the process of drug trafficking immediately prior to Officer Nolan\u2019s arrival on the scene. The Cl previously provided reliable information leading to numerous drug convictions. The Cl\u2019s tips were corroborated by Officer Nolan\u2019s direct observation of Appellant conducting drug transactions at the location described by the Cl. In addition, Appellant\u2019s reputation from other sources as a drug dealer on Myrtle Street supported the Cl\u2019s tip. The facts and circumstances herein, based on information from the Cl as substantiated by the experienced narcotics officer\u2019s direct observation of Appellants\u2019 behavior of conducting three drug sales within a twenty-minute period, were sufficient to warrant anyone of reasonable caution to believe that Appellant was involved in selling drugs at that time. See Commonwealth v. Prosdocimo, 308 Pa.Super. 187, 454 A.2d 84 (1982) (en banc) (reliability of informant for purposes of supporting arrest warrant can be established by following factors, not all of which must be present: informant gave past reliable information, current information supplied by Cl was corroborated, Cl made declaration against interest, and the defendant\u2019s reputation supports the Cl\u2019s tip). Probable cause thus existed for Appellant\u2019s arrest. Appellant\u2019s first contention fails.\nThe next issue we address is whether the warrantless seizure of the Expedition requires suppression of the evidence seized therefrom during execution of the warrant. As noted, police drove the vehicle to the police department garage where the canine sniff was conducted. The Expedition remained there while the warrant was obtained. The car was not searched nor was any evidence seized from that vehicle while the vehicle was being driven from the driveway of Appellant\u2019s house to the garage of the police department.\nThe Commonwealth represents that the police could not leave the car on the private driveway of Appellant\u2019s residence because at that location, other people with whom Appellant lived could have accessed the vehicle and destroyed any drug evidence. The Commonwealth asserts that the drugs would have been inevitably discovered based upon the validly-procured canine sniff and search warrant. It argues that the suppression court\u2019s ruling was therefore valid.\nWe first examine whether the warrant-less seizure of the car was unconstitutional. Our Supreme Court\u2019s decision in Commonwealth v. Holzer, 480 Pa. 93, 389 A.2d 101 (1978), addresses this very question. In that case, the police had impounded and towed the defendant\u2019s car, which had been located on a public street near his residence. Police then procured a search warrant for the car, executed it, and discovered evidence utilized against defendant in that vehicle. At that time, police had probable cause to believe that the defendant was involved in a robbery and murder and had placed him into custody. The defendant contended that the results of the search of his car, which had been used during the perpetration of the crimes, should be suppressed because the car itself was seized without a warrant.\nOur Supreme Court concluded that the towing of the car was not improper, holding: \u201cIt is reasonable ... for constitutional purposes for police to seize and hold a car until a search warrant can be obtained, where the seizure occurs after the user or owner has been placed into custody, where the vehicle is located on public property, and where there exists probable cause to believe that evidence of the commission of crime will be obtained from the vehicle.\u201d Id. at 106 (footnote omitted). The Court also observed that if the \u201cvehicle is located on the defendant\u2019s private property (garage or driveway), it becomes more difficult, although not impossible, to find the police conduct reasonable, since there has been a greater infringement upon defendant\u2019s expectations of privacy.\u201d Id. at 106, n. 7. In this case, the car was seized while it was located in Appellant\u2019s driveway. Hence, the Court\u2019s ruling in Holzer constitutes a significant impediment to condoning the police conduct herein.\nThis conclusion inevitably leads to the question of whether the Commonwealth has properly invoked the inevitable discovery rule, which has been used interchangeably with the independent source doctrine. Our Supreme Court has indicated that the inevitable discovery rule applies in Pennsylvania. See, e.g., Commonwealth v. Melendez, 544 Pa. 323, 676 A.2d 226, 230, 231 (1996) (stating that the \u201cinevitable discovery rule, sometimes referred to as the \u2018independent source rule,\u2019 \u201d is valid law in Pennsylvania but that the inevitable discovery rule had no application in that case).\nWe begin our analysis by noting that the \u201cinevitable discovery rule\u201d and the \u201cindependent source rule\u201d actually are distinct doctrines. The Third Circuit in United States v. Herrold, 962 F.2d 1131, 1140 (3rd Cir.1992) (emphases in original), observed that the two concepts are often conflated, and the Court cogently analyzed the difference between them:\n[U]nder the independent source doctrine, evidence that was in fact discovered lawfully, and not as a direct or indirect result of illegal activity, is admissible. In contrast, the inevitable discovery doctrine ... permits the introduction of evidence that inevitably would have been discovered through lawful means, although the search that actually led to the discovery of the evidence was unlawful. The independent source and inevitable discovery doctrines thus differ in that the former focuses on what actually happened and the latter considers what would have happened in the absence of the initial search.\nWe believe that the independent source doctrine, which, in this case, the Commonwealth has quite validly confused with the inevitable discovery rule, applies herein. The independent source rule derives from the very nature of the exclusionary rule; thus, we start at the beginning. The exclusionary rule provides that evidence obtained due to an unconstitutional search or seizure cannot be used against a defendant. See Weeks v. United States, 232 U.S. 383, 34 S.Ct. 341, 58 L.Ed. 652 (1914). The exclusionary rule also applies to any evidence discovered as a result of the original illegal police conduct; such evidence is termed \u201cfruit of the poisonous tree.\u201d Nardone v. United States, 308 U.S. 338, 341, 60 S.Ct. 266, 84 L.Ed. 307 (1939).\nIn Wong Sun v. United States, 371 U.S. 471, 83 S.Ct. 407, 9 L.Ed.2d 441 (1963), the Supreme Court re-affirmed the basic principle that evidence derived from unconstitutional police conduct must be suppressed.\nIn order to make effective the fundamental constitutional guarantees of sanctity of the home and inviolability of the person, Boyd v. United States, 116 U.S. 616, 6 S.Ct. 524, 29 L.Ed. 746, this Court held nearly half a century ago that evidence seized during an unlawful search could not constitute proof against the victim of the search. Weeks v. United States, 232 U.S. 383, 34 S.Ct. 341, 58 L.Ed. 652. The exclusionary prohibition extends as well to the indirect as the direct products of such invasions. Silverthorne Lumber Co. v. United States, 251 U.S. 385, 40 S.Ct. 182, 64 L.Ed. 319.\nId. at 484-85, 83 S.Ct. 407. Thus, the \u201cexclusionary rule has traditionally barred from trial physical, tangible materials obtained either during or as a direct result of an unlawful invasion.\u201d Id. at 485, 83 S.Ct. 407. In extending the rule to verbal evidence, the Wong Sun Court again referred to all evidence derived from unconstitutional police conduct as fruits of the poisonous tree, which cannot be used against a defendant.\nThe Wong Sun Court continued that the exclusionary rule does not prevent the introduction of evidence that is \u201cgained from an independent source,\u201d but rather applies only to \u201cknowledge gained by the Government\u2019s own wrong.\u201d Id. at 485, 83 S.Ct. 407 (quoting Silverthome Lumber Co., supra at 392, 40 S.Ct. 182). The Supreme Court in Wong Sun noted that evidence is admissible if the \u201cconnection between the lawless conduct of the police and the discovery of the challenged evidence has become so attenuated as to dissipate the taint.\u201d Id. at 487, 83 S.Ct. 407 (quotation marks and citation omitted). The Supreme Court ruled: \u201cWe need not hold that all evidence is fruit of the poisonous tree simply because it would not have come to light but for the illegal actions of the police. Rather, the more apt question in such a case is whether, granting establishment of the primary illegality, the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.\u201d Id. at 487-88, 83 S.Ct. 407 (quotation marks and citation omitted). Thus, where evidence was obtained through constitutional police action unconnected with the illegal police conduct, it is \u201cpurged\u201d of \u201ctaint\u201d based upon its derivation from an independent source.\nThe Supreme Court further expounded on the concept of the independent source doctrine in Segura v. United States, 468 U.S. 796, 104 S.Ct. 3380, 82 L.Ed.2d 599 (1984). In that case, the Court granted review to \u201cdecide whether, because of an earlier illegal entry, the Fourth Amendment requires suppression of evidence seized later from a private residence pursuant to a valid search warrant which was issued on information obtained by the police before the entry into the residence.\u201d Id. at 797-98,104 S.Ct. 3380.\nIn that case, drug enforcement' officers made an invalid warrantless entry into the defendant\u2019s apartment because there were no exigent circumstances permitting such an entry. However, the drug agents did not conduct a search of the premises with the exception that they visually inspected each room solely to ensure that no one was present who posed a threat or would destroy evidence. The drug officers then secured the apartment in order to preserve the status quo while a search warrant was procured. Significantly, the drug enforcement officers did not seize any evidence, even that in plain view, until the warrant arrived. Additionally, the government did not use any information that was found due to the initial entry into the apartment to support issuance of the warrant.\nThe Supreme Court held that, even though the initial warrantless entry into the apartment was illegal, it did not taint the discovery of the evidence found and seized pursuant to the warrant. It reasoned that \u201cthe evidence discovered during the subsequent search of the apartment the following day pursuant to the valid search warrant issued wholly on information known to the officers before the entry into the apartment need not have been suppressed as \u2018fruit\u2019 of the illegal entry.\u201d Id. at 799, 104 S.Ct. 3380. The Supreme Court concluded that suppression was unnecessary \u201cbecause the warrant and the information on which it was based were unrelated to the entry and therefore constituted an independent source for the evidence under Silverthorne Lumber Co. v. United States, 251 U.S. 385, 40 S.Ct. 182, 64 L.Ed. 319 (1920).\u201d Id. The Supreme Court noted that the evidence obtained as a result of the valid warrant did not result to any extent from the original, invalid entry. It observed:\nIt has been well established for more than 60 years that evidence is not to be excluded if the connection between the illegal police conduct and the discovery and seizure of the evidence is \u201cso attenuated as to dissipate the taint,\u201d Nardone v. United States, supra, 308 U.S., at 341, 60 S.Ct., at 268. It is not to be excluded, for example, if police had an \u201cindependent source\u201d for discovery of the evidence[.]\nId. at 805,104 S.Ct. 3380.\nThus, the \u201cindependent source rule\u201d naturally flows from the concept of the exclusionary rule itself and has been extant since 1920. In the present case, the independent source rule unquestionably applies. First, as analyzed supra, police had probable cause to believe that Appellant was dealing drugs from the Expedition, and, therefore, that it contained contraband. They drove the vehicle from the driveway to the police station to conduct the canine sniff and wait for the warrant. Police did not search the Expedition while driving to the police station, and no information gleaned during that ride was utilized to support the warrant. Thus, the warrantless seizure of the vehicle did not result in the discovery of a scintilla of evidence used by the government in any aspect of this prosecution.\nThe information supporting the canine sniff and the warrant was not derived to any extent from the singular act of taking the Expedition from the driveway to the police station to secure it. Rather, those two searches were based upon facts learned prior to the act of transporting the vehicle. Thus, the independent source doctrine, as articulated in Segura, is directly applicable.\nOur Supreme Court examined a similar situation in the case of Commonwealth v. Carter, 537 Pa. 233, 643 A.2d 61 (1994). Therein, Appellant was arrested inside his home without a warrant and without the existence of exigent circumstances. Our Supreme Court first concluded that the arrest was unconstitutional because \u201cabsent exigent circumstances, an arrest warrant supported by probable cause is required to arrest an individual in his home.\u201d Id. at 68. (citing Payton v. New York, 445 U.S. 573, 100 S.Ct. 1371, 63 L.Ed.2d 639 (1980)).\nThe Carter Court then addressed the defendant\u2019s requested relief pursuant to that illegal arrest. Specifically, the defendant asked the Court \u201cto reverse his conviction because his arrest was illegal,\u201d but the Court declined to do so. It observed that the defendant was \u201cnot himself a suppressible fruit, and the illegality of his detention cannot deprive the Government of the opportunity to prove his guilt through the introduction of evidence wholly untainted by the police misconduct.\u201d Id. (emphasis added) (quoting United States v. Crews, 445 U.S. 463, 474, 100 S.Ct. 1244, 63 L.Ed.2d 537 (1980)). Our Supreme Court continued: \u201cThe remedy for a violation of the Fourth Amendment is exclusion of all evidence that is the fruit of that violation.\u201d Id. (citing Mapp v. Ohio, 367 U.S. 643, 81 S.Ct. 1684, 6 L.Ed.2d 1081 (1961)). It then concluded that since \u201cthere was no evidence introduced at trial that was obtained as a result of the illegal arrest,\u201d the defendant was \u201cnot entitled to any relief.\u201d Id. Herein, Carter applies. Appellant cannot obtain relief based upon the improper seizure of his vehicle because no evidence resulted from that seizure. Rather, his conviction is premised entirely upon evidence completely untainted by the police misconduct at issue herein.\nMore recently, our Supreme Court employed similar reasoning when deciding that a confession that defendant made following his invalid arrest was admissible at trial. Commonwealth v. Smith, 995 A.2d 1143 (Pa.2010). In that case, the police arrested the defendant pursuant to an infirm warrant that police mistakenly but in good faith believed was valid. After the arrest, the defendant was administered Miranda warnings three times, waived his constitutional rights, and confessed.\nIn seeking relief under the PCRA, the defendant in Smith argued that prior counsel was ineffective for not obtaining suppression of the confession based upon the taint of the illegal arrest. Our Supreme Court rejected the defendant\u2019s position on the merits. Relying partially upon Wong Sun, it concluded that his confession was voluntary and therefore not subject to exclusion based upon the fact that he had properly waived his Miranda rights and police had acted in good faith when they executed the warrant. As in Smith, any taint applicable to the evidence seized from the Expedition due to the police action of driving the car to the police station was purged by the securing of a constitutional canine sniff and warrant that were not premised upon any facts garnered during that drive. We therefore conclude that the suppression court properly refused to suppress the evidence found in the Expedition when the warrant herein was executed.\nWe now address the propriety of the K-9 sniff of the Expedition. In Commonwealth v. Johnston, 515 Pa. 454, 530 A.2d 74, 79 (1987), our Supreme Court held that \u201ca narcotics detection dog may be deployed to test for the presence of narcotics, on the facts of this case where: 1. the police are able to articulate reasonable grounds for believing that drugs may be present in the place they seek to test; and 2. the police are lawfully present in the place where the canine sniff is conducted.\u201d See also Commonwealth v. Rogers, 578 Pa. 127, 849 A.2d 1185 (2004). In the present case, Appellant argues that police were not \u201clawfully present in the place in which the canine search\u201d was conducted. Appellant\u2019s brief at 16. This proposition is untenable. The canine search was conducted at the police station where police unquestionably were permitted to be present. Furthermore, as analyzed above, probable cause existed to believe that Appellant was selling drugs from the Expedition; therefore, reasonable suspicion was present to conduct the K-9 sniff of that vehicle.\nThe true crux of Appellant\u2019s argument relates back to the fact that the police drove his car to the police station where police were lawfully present. However, as analyzed supra, the facts supporting the existence of reasonable suspicion to conduct the search by the canine were not derived to any extent from the act of driving the Expedition to the police station. Instead, the facts supporting the canine sniff included the information provided to Officer Nolan by the Cl and his observation of Appellant\u2019s activities on Myrtle Street. Hence, the canine sniff was not infirm.\nAppellant\u2019s final position is that the suppression court, when analyzing the propriety of the conduct of Officer Nolan, \u201cimproperly credited\u201d the information provided by the Cl. Appellant\u2019s brief at 17. He assails the trustworthiness of the Cl because the Cl was paid two hundred dollars for providing information against Appellant. He also contends that the Cl was unreliable because he or she informed Officer Nolan that the drugs would be on Appellant\u2019s person whereas they actually were located in his car.\nIn the present case, the suppression court credited the testimony of Officer Nolan, who related the following. The Cl telephoned Officer Nolan and advised Officer Nolan that \u201che or she had, just within the last five minutes, or just within the last couple minutes, had seen Rosha Williams, the defendant, seated in a black Expedition with large, large rims in the 300 Block of Myrtle, and that Williams had several baggies of crack cocaine on him that he was selling.\u201d N.T. Pre-Trial Hearing, 9/1/06, at 3-4. Officer Nolan continued:\n[T]his source has provided me with information for over ten years. And as a result of this informant\u2019s information over twenty individuals have been arrested and convicted in State and Federal Court for felony drug violations. Additionally, we have seized \u2014 as a result of this informant\u2019s information, we seized over one hundred thousand dollars in drug proceeds and over five, or over ten kilos of cocaine and/or crack cocaine. So a combination of the two, ten kilograms of coke or crack\u2014\nId. at 9/1/06, at 5.\nThe Cl\u2019s information was corroborated by Officer Nolan\u2019s receipt of \u201cnumerous complaints over the past, over the previous several years regarding drug activity involving Mr. Williams in that particular area that the Cl stated Williams was at.\u201d Id. at 6. In addition, Officer Nolan had firsthand knowledge that Appellant drove a black Expedition with \u201cbig chrome wheels, twenty-four inch wheels,\u201d and Officer Nolan related that Appellant was seen driving that vehicle on \u201cnumerous occasions.\u201d Id.\nBased on the Cl\u2019s telephone call, Officer Nolan immediately proceeded to Myrtle Street where he observed Appellant seated in his black Expedition parked \u201cin the 300 Block of Myrtle right where the informant stated he would be parked.\u201d Id. at 6-7. The officer then viewed Appellant make three drug transactions in a twenty-minute time frame.\nIn leveling his claims, Appellant disregards the fact that the drugs were on Appellant\u2019s person during the course of the drug transactions. Thus, the Cl was not incorrect when he told Officer Nolan that Appellant had drugs on his person. Furthermore, Appellant overlooks the pertinent law because \u201c[i]t is within the. suppression court\u2019s sole province as factfinder to pass on the credibility of witnesses and the weight to be given their testimony.\u201d Commonwealth v. Dutrieville, 982 A.2d 240, 242 (Pa.Super.2007) (quoting Commonwealth v. Elmobdy, 828 A.2d 180, 183 (Pa.Super.2003)). Since it was within the suppression court\u2019s sole power to believe or disbelieve Officer Nolan\u2019s representations regarding the Cl\u2019s information and reliability, we must necessarily reject Appellant\u2019s position that the suppression court \u201cimproperly credited\u201d Officer Nolan\u2019s testimony in this respect.\nJudgment of sentence affirmed.\nJudge BENDER files a Dissenting Opinion in which Judge DONOHUE and Judge SHOGAN join.\n. Appellant is represented by counsel in this appeal. After counsel filed his brief, Appellant filed a pro se brief, which this Court forwarded to appellate counsel. See 210 Pa. Code \u00a7 65.24. There is no constitutional right to hybrid representation. Common wealth v. Ellis, 534 Pa. 176, 626 A.2d 1137 (1993). In addition, Appellant presents issues that are indecipherably vague and unsupported by proper reference to the record and citation to legal authority and are thereby waived. Commonwealth v. Gooding, 437 Pa.Super. 193, 649 A.2d 722, 725-26 (1994) (\"when an appellant fails to carry forward, or is indecipherably vague in, argumentation upon a certain point in his appellate brief, that point is waived\u201d) (quoting Ibn-Sadiika v. Riester, 380 Pa.Super. 397, 551 A.2d 1112, 1114 (1988)). Furthermore, Appellant's contentions do not appear to be preserved in that he contends that counsel was ineffective for not raising them in the trial court. Thus, these claims cannot be considered in this direct appeal and must be deferred to collateral review. Commonwealth v. Grant, 572 Pa. 48, 813 A.2d 726 (2002); see also Commonwealth v. Chambers, 602 Pa. 224, 980 A.2d 35, 55 (2009).\n. At the suppression hearing, Officer Nolan indicated that family members departed Appellant\u2019s residence during the course of Appellant\u2019s arrest. Officer Nolan was asked whether Appellant's wife exited the house during the interdiction, and he responded, \"I'm not sure, there were people that came out, and I believe they were family members. But I was more focused on him and what I was doing at the vehicle. So I ... can\u2019t say for certain who it was, but there was family that came out of the house.\u201d N.T. Pre-Trial Hearing, 9/1/06, at 19. The record thus substantiates that Appellant's family members had access to the vehicle and could have destroyed any drug evidence located therein if the Expedition was left in the driveway.\n. Appellant thus misrepresents the record, when he states in his brief that \"Detective Nolan did not testify that the Cl told him that [Appellant] was selling crack cocaine from his vehicle.\u201d Appellant's brief at 18.",
+        "type": "majority",
+        "author": "BOWES, J.:"
+      },
+      {
+        "text": "DISSENTING OPINION BY\nBENDER, J.:\nI respectfully dissent. Initially, I take issue with the Majority\u2019s conclusion that the tip provided by the confidential informant (Cl) was sufficiently specific and adequately corroborated by Detective Sergeant Nolan\u2019s observations. The Cl reported nothing more than could be observed by a passerby on the street, and Sergeant Nolan\u2019s observations, made with the naked eye from almost two blocks away, offer meager corroboration. Even viewed in their totality, those factors do not establish probable cause for a war-rantless arrest, conducted on private property, without exigent circumstances. In addition, I dispute the Majority\u2019s conclusion that the taint imposed by the war-rantless seizure of Williams\u2019s wife\u2019s SUV (which was patently illegal) is purged by the independent source rule. In point of fact, the conduct of the Erie Police was unlawful from the moment of Williams\u2019s arrest and remained so throughout the warrantless seizure that followed. The officers acted illegally in removing the vehicle from the defendant\u2019s driveway thus tainting any subsequent effort to obtain evidence from it. Consequently, the canine search on which the Majority relies remains unlawful and the evidence seized should be suppressed.\nThe need for judicial suppression of evidence corresponds directly to the extent to which the police run afoul of the law in obtaining it. Consequently, our analysis of questions of suppression begins with the presumption that \u201c[wjhere a motion to suppress has been filed, the burden is on the Commonwealth to establish by a preponderance of the evidence that the challenged evidence is admissible.\u201d Commonwealth v. Ruey, 586 Pa. 230, 892 A.2d 802, 807 (2006) (Opinion Announcing the Judgment of the Court) (quoting Commonwealth v. DeWitt, 530 Pa. 299, 608 A.2d 1030, 1031 (1992)). This constraint, which the Majority does not acknowledge, is indispensable to our disposition of the questions Williams raises.\nIn support of his first question, Williams asserts that the evidence police seized, consisting of $600 in cash and seven eight-balls of cocaine, properly should have been suppressed, as both were the products of an illegal arrest which police conducted without probable cause when he alighted from his vehicle. Brief for Appellant at 18-14. Absent some statutory provision to the contrary, a warrantless arrest must be supported by probable cause to believe that \u201c(1) a felony has been committed; and (2) the person to be arrested is the felon.\u201d Commonwealth v. George, 878 A.2d 881, 884 (Pa.Super.2005). Probable cause typically exists \u201c[w]here the facts and circumstances within a police officer\u2019s knowledge would warrant a person of reasonable caution to believe that [the offense in question] has been committed.\u201d Id., see also Commonwealth v. Luv, 557 Pa. 570, 785 A.2d 87, 90 (1999) (quoting Commonwealth v. Gibson, 536 Pa. 123, 638 A.2d 203, 206 (1994)).\nWhere, as here, the arresting officer acted in reliance on information provided by an informant, probable cause depends on assessment of three factors: (1) the informant\u2019s veracity and reliability as documented by prior experience with the police, (2) the basis of his knowledge of the events or circumstances he reported, and (3) the particularity of the information he conveyed. See Luv, 735 A.2d at 90-93 (collecting and analyzing cases). Although our Supreme Court has not foreclosed the possibility that the tip of an \u201cunusually reliable\u201d informant may provide probable cause even where the basis of the informant\u2019s knowledge is unclear, see In the Interest of O.A., 552 Pa. 666, 717 A.2d 490, 496 (1998) (quoting Illinois v. Gates, 462 U.S. 213, 233, 103 S.Ct. 2317, 76 L.Ed.2d 527 (1983)), the Court has been cautious in conferring the mantle of reliability on any informant in the absence of objective observations to substantiate the reported information. Indeed, the Court has admonished specifically that \u201c[w]here police are acting solely on the basis of an informant\u2019s tip and the reliability of the confidential informant is not established by objective facts, it is essential that the tip provide adequate indication that the informant has actual knowledge that criminal conduct is occurring or has occurred at the time the warrantless arrest is made.\u201d Id. at 497 (emphasis added). The Court has directed accordingly that \u201c[w]hen police are relying on an informant\u2019s tip, it is important that the tip provide information that demonstrates \u2018inside information[,]\u2019 a special familiarity with the defendant\u2019s affairs.\u201d Id. at 496. Such information is subject to police corroboration through observation of the circumstances described in the tip, and is thereby verified as grounds for probable cause. See id.; see also Commonwealth v. Whitters, 805 A.2d 602, 606 (Pa.Super.2002) (\u201cWhen relying on an informant\u2019s tip, it is crucial that the tip provides information demonstrating a special familiarity with the defendant\u2019s affairs .... When the tip provides this inside information, police corroboration of that information imparts reliability to the tip, supporting a finding of probable cause.\u201d). In the absence of such information, however, the tip cannot provide grounds for a probable cause determination:\nIf the facts that are supplied by the tip itself are no more than those easily obtained, then the fact that the police corroborated them is of no moment. It is only where the facts provide inside information, which represents] a special familiarity with a defendant\u2019s affairs, that police corroboration of the information imparts indicia of reliability to the tip to support a finding of probable cause.\nO.A., 717 A.2d at 498 (emphasis added). Such information also serves the salutary purpose of assuring that informants are not motivated, either by promises of leniency in pending prosecutions or, as here, by cash payments from the police, to provide speculative information culled from hearsay or casual observation of circumstances readily seen by anyone on a public street.\nUpon review of the totality of the circumstances known to the Erie Police, including the tip provided by the confidential informant, I cannot find sufficient trustworthy information of a felony in progress to demonstrate probable cause. The substance of the tip, as related by Sergeant Nolan at the suppression hearing, provided only limited information:\nI received a called [sic] from a confidential informant who informed me that he or she had, just in the last five minutes, or just within the last couple minutes, had [sic] seen Rosha Williams, the defendant, seated in a black Expedition with large, large rims in the BOO Block of Myrtle, and that Williams had several baggies of crack cocaine on him that he was selling.\nN.T., Suppression, at 4-5. Unfortunately, this tip, although provided by an informant that Sergeant Nolan considered reliable, offers no suggestion of either the basis of the informant\u2019s knowledge or sufficient detail to indicate a level of familiarity with Williams\u2019s affairs. See Whitters, 805 A.2d at 606. It does not detail the circumstances by which the informant came upon the information he provided, and offers no information beyond the location and description of Williams\u2019s vehicle, save for the allegation that Williams had \u201cseveral baggies of crack cocaine on him.\u201d Even that detail could not be corroborated, however, as when Sergeant Nolan ultimately stopped him, Williams did not have drugs on his person.\nMoreover, although Sergeant Nolan attempted to corroborate the tip through observation, his recollections at the suppression hearing are completely devoid of detail \u2014 likely due to the distance from the scene at which he parked. What observations he made were further limited by the lack of ambient light, further limiting his perception, and the fact that he did not use binoculars or any other visual aid. Moreover, he saw nothing in the hands of the men who approached Williams\u2019s vehicle and did not report seeing them take anything from their pockets. Id. at 17. He saw no money, no drugs, indeed, no exchange of any kind. Id. at 7-8, 17. Objectively, he could report only that he saw three of the four men who approached the SUV look up and down the street and saw them reach inside the vehicle. Id. at 8. He offered no objective estimate of how long their hands remained inside, merely opining that it seemed \u201clonger than what I would believe a handshake would last.\u201d Id. at 17. This characterization is entirely subjective, both in its assessment of how long a handshake should take and in its assumption that a handshake is the only innocent conduct in which Williams\u2019s acquaintances could have engaged by reaching inside the SUV. Thus, the Majority\u2019s conclusion that the Cl\u2019s tip was corroborated by \u201cdirect observation of Appellant\u2019s behavior in conducting three drug sales within a twenty-minute period,\u201d Majority Op. at 617, is unfounded and incorrect. In fact, Sergeant Nolan saw almost nothing and what he did see was of little significance.\nThe Majority\u2019s effort to excuse these deficiencies by citing Nolan\u2019s past experience is equally unavailing; an officer\u2019s experience is not a substitute for solid police work in the case then under investigation. Although our Supreme Court has indeed recognized that an officer\u2019s experience \u201cmay be fairly regarded as a relevant factor in determining probable cause,\u201d see Commonwealth v. Thompson, 985 A.2d 928, 936 (Pa.2009), our law continues to require contemporaneous observation, see id. (citing Commonwealth v. Lawson, 454 Pa. 23, 309 A.2d 391, 394 (1973)), not speculation about unseen handshakes or the motivations of someone \u201cin a black Expedition with large, large rims.\u201d Under more compelling circumstances we have declined even to find reasonable suspicion for an investigatory detention. See Commonwealth v. Reppert, 814 A.2d 1196, 1201 (Pa.Super.2002) (concluding that \u201cfurtive\u201d shoulder movements observed by an arresting officer through the back window of a car after officer stopped motorist for a traffic infraction did not provide reasonable suspicion for passenger\u2019s detention).\nIn addition, I reject the majority\u2019s conclusion that unspecified \u201ccomplaints from other [anonymous] citizens that Appellant sold drugs from that location\u201d substantiated that Myrtle Street was \u201c[an area] where narcotics were sold regularly\u201d at the time of the events in this case. Majority Op. at 616-17 (citing Commonwealth v. Thompson, 985 A.2d 928, 931 (Pa.2009)). Although a verifiable determination of an area\u2019s character as high crime may relax the constitutionally required level of scrutiny to be imposed on determinations of probable cause, imprecise characterizations based on layered hearsay offered up by untrained, anonymous observers are of no value in summoning constitutional muster.\nThe Majority\u2019s analysis falls similarly short in its suggestion that \u201cappellant\u2019s reputation from other sources as a drug dealer on Myrtle Street supported the Cl\u2019s tip.\u201d Majority Op. at 617 (emphasis added). In point of fact, a defendant\u2019s \u201creputation\u201d is constitutionally irrelevant to the validity of the tip which, as discussed supra, can be verified only through demonstrated familiarity with the circumstances occurring at the time the tip is tendered. See O.A., 717 A.2d at 498. Thus, I find the inadequacy of Sergeant Nolan\u2019s observations self-evident and the resulting stop unlawful.\nAs the Majority recognizes, the interaction of the Erie Police with Williams culminated in the latter\u2019s arrest, which occurred when police placed Williams in handcuffs, confined him to the police car, and drove him to the police station. To support the arrest, however, Sergeant Nolan could point only to the discovery on Williams\u2019s person of the money he felt in Williams\u2019s pocket during the Terry patdown. The police did not seek a warrant to search the SUV at that time; nor did Sergeant Nolan discern the baggy tucked into the headliner until the vehicle was parked at the Erie police station. Consequently, the police had no objective evidence at that time of any contraband inside the vehicle. Although the officers apparently recognized that they did not have probable cause for a search of the vehicle until they verified the likely presence of illegal drugs at the police station, they failed to recognize the complete absence of probable cause to take Williams into custody. In fact, they acted on no more than a hunch based on an uncorroborated tip, a wad of cash found on Williams\u2019s person, and tenuous \u201cobservations\u201d by Sergeant Nolan. Even considered together, deficient as they are, these elements do not establish probable cause. Accordingly, I would find Williams\u2019s arrest illegal and all discoveries made thereafter to be \u201cfruit of the poisonous tree\u201d subject to suppression.\nWere the Majority to adopt such a disposition of Williams\u2019s challenge to the legality of his arrest, I would find no occasion to consider his challenge to the warrantless removal of the SUV from his driveway and the resulting discovery of cocaine under the headliner. Because the Majority reaches a contrary conclusion, however, I will address that issue further. Regrettably, the Majority offers no direct recognition that the police acted illegally in removing Williams\u2019s vehicle from the constitutionally protected space of Williams\u2019s home. See Majority Op. at 618 (discussing Commonwealth v. Holzer, 480 Pa. 93, 389 A.2d 101, 103-04 (1978)). Nevertheless, it reasons that the taint of illegality resulting from the vehicle\u2019s removal is ameliorated by the independent source rule. I find this disposition untenable. Removal of the vehicle was flagrantly illegal and the discovery of the cocaine inside resulted directly from that illegality.\nAddressing the search of a vehicle following the driver\u2019s arrest, our Supreme Court has recognized:\nIt is reasonable ... for constitutional purposes, for police to seize and a hold a car until a search warrant can be obtained, where the seizure occurs after the user or owner has been placed into custody, where the vehicle is located on public property, and where there exists probable cause to believe that evidence of the commission of a crime will be obtained from the vehicle.\nHolzer, 389 A.2d at 106-07. However, the Court has also acknowledged that the same actions on private property are problematic:\nWhere the vehicle is located on the defendant\u2019s private property (garage or driveway), it becomes more difficult, although not impossible, to find the police conduct reasonable, since there has been a greater infringement upon defendant\u2019s expectations of privacy.\nId. at 106 n. 7 (citing Coolidge v. New Hampshire, 403 U.S. 443, 463 n. 20, 91 S.Ct. 2022, 29 L.Ed.2d 564 (1971)). In accordance with the constraints imposed in Holzer, the Majority recognizes that the presence of Williams\u2019s vehicle on private property \u201cconstitutes a significant impediment to condoning the police conduct herein.\u201d Majority Op. at 618. Consequently, the Majority invokes the independent source rule to insulate the subsequent discovery of contraband inside the vehicle from the inevitable mandate of the exclusionary rule, which compels that the evidence be suppressed. Tracking the rule, the Majority concludes that \u201cAppellant cannot obtain relief based upon the improper seizure of his vehicle because no evidence resulted from that seizure. Rather, his conviction is premised entirely upon evidence completely untainted by the police misconduct at issue herein.\u201d Majority Op. at 621. On this issue, the Majority is simply wrong.\nContrary to the Majority\u2019s determination, the independent source rule does not apply here for the simple reason that the seizure of the vehicle from Williams\u2019s driveway was itself an illegal act to which the subsequent discovery of cocaine was directly attributable. The police had no more authority to seize the vehicle and remove it from the property than they had to search it while it remained there. Given the absence of anything on Williams\u2019s person beyond a wad of cash, a search of any sort, including a canine sniff, could not be sustained while the SUV remained on Williams\u2019s private property. Evidently cognizant of that, the police simply removed the vehicle from the driveway with the obvious intent of rendering the planned canine sniff and subsequent search constitutionally permissible.\nI cannot conceive how so transparent an attempt to circumvent the warrant requirement can be deemed lawful conduct \u201cso attenuated as to dissipate the taint\u201d of illegality and render the evidence \u201clawfully discovered,\u201d see Segura v. U.S., 468 U.S. 796, 805, 104 S.Ct. 3380, 82 L.Ed.2d 599 (1984). Rather, the conduct of the police in removing the vehicle to defeat the warrant requirement should be recognized for what it is: an exercise in brazen illegality without which the drugs in question would never have been discovered. Sergeant Nolan saw nothing suggesting that Williams remained in possession of drugs after his arrest; the patdown revealed no contraband (contrary to the Cl\u2019s tip) and the police could see nothing inside the vehicle while it remained in the driveway. Had the police departed Williams\u2019s home and left the vehicle where it was, they would have been hard-pressed to search the vehicle at all, as they had no constitutionally sound basis to do so. Thus, their removal of the vehicle was not, as the Majority accepts, \u201cso attenuated [from illegal conduct] as to dissipate the taint\u201d of illegality, but rather, was a matter of necessity if the police ever expected to lay hands on the contraband their \u201chunch\u201d told them was there. Their actions were plainly illegal and, contrary to the Majority\u2019s conclusion, the discovery of the cocaine inside the vehicle was part and parcel of that illegality.\nFor the foregoing reasons, all of the evidence admitted as a result of Williams\u2019s arrest and the seizure of his wife\u2019s vehicle should be suppressed. Because the Majority declines this course, I must respectfully dissent.\n. See Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968).\n. The independent source rule operates to negate the exclusionary rule by distinguishing the manner in which the evidence in question was obtained. If the evidence was obtained through some means other than unlawful conduct of the police, it is obviously not subject to suppression on the basis of the unlawful search. Similarly, if the connection between that unlawful search and the evidence seized can be \"so attenuated as to dissipate the taint,\u201d see Segura v. U.S., 468 U.S. 796, 805, 104 S.Ct. 3380, 82 L.Ed.2d 599 (1984), an \"independent source\u201d is established. In either event the exclusionary rule is rendered inapplicable, as exclusion of the evidence would provide no deterrent to future unlawful conduct by the police.",
+        "type": "dissent",
+        "author": "BENDER, J.:"
+      }
+    ],
+    "attorneys": [
+      "John J. Mead, Erie, for appellant.",
+      "Mark W. Richmond, Assistant District Attorney, Erie, for Commonwealth, appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Rosha Charles WILLIAMS, Appellant.\nSuperior Court of Pennsylvania.\nArgued Sept. 24, 2009.\nFiled Aug. 4, 2010.\nJohn J. Mead, Erie, for appellant.\nMark W. Richmond, Assistant District Attorney, Erie, for Commonwealth, appel-lee.\nBEFORE: FORD ELLIOTT, P.J., MUSMANNO, ORIE MELVIN , BENDER, BOWES, PANELLA, DONOHUE, SHOGAN, and ALLEN, JJ.\nJudge Orie Melvin did not participate in the consideration or decision of this case."
+  },
+  "file_name": "0611-01",
+  "first_page_order": 627,
+  "last_page_order": 644
+}

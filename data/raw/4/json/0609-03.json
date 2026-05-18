@@ -1,0 +1,59 @@
+{
+  "id": 7287975,
+  "name": "Ronald MUNGRO, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Mungro v. Court of Common Pleas of Philadelphia County",
+  "decision_date": "2010-09-17",
+  "docket_number": "No. 86 EM 2010",
+  "first_page": "609",
+  "last_page": "609",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 323,
+    "ocr_confidence": 0.712,
+    "sha256": "f2d00f24b560b05e69bd27b9f902d5e8045b0fa42fdaed4c03995b57e356da93",
+    "simhash": "1:5d24e3b763d12abd",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T18:37:41.617876+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald MUNGRO, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of September, 2010, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ronald MUNGRO, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 86 EM 2010.\nSupreme Court of Pennsylvania.\nSept. 17, 2010."
+  },
+  "file_name": "0609-03",
+  "first_page_order": 671,
+  "last_page_order": 671
+}

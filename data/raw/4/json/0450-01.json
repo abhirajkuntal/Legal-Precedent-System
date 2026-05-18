@@ -1,0 +1,394 @@
+{
+  "id": 7286727,
+  "name": "In re ESTATE OF Carthur L.M. DRAKE, et al., Appellants",
+  "name_abbreviation": "In re Estate of Drake",
+  "decision_date": "2010-09-16",
+  "docket_number": "No. 08-PR-665",
+  "first_page": "450",
+  "last_page": "456",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 450"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "127 F.2d 729",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3559109,
+        1077935
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "735",
+          "parenthetical": "\"The rule of reasonableness supplies the time element generally when it is not specified.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/127/0729-01"
+      ]
+    },
+    {
+      "cite": "75 U.S.App.D.C. 211",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3559109
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "217",
+          "parenthetical": "\"The rule of reasonableness supplies the time element generally when it is not specified.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "663 F.2d 168",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1171208,
+        3686565
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "176",
+          "parenthetical": "internal quotation marks and ellipses omitted"
+        },
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/663/0168-01",
+        "/us-app-dc/213/0404-01"
+      ]
+    },
+    {
+      "cite": "213 U.S.App.D.C. 404",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3686565
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "412",
+          "parenthetical": "internal quotation marks and ellipses omitted"
+        },
+        {
+          "page": "412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/213/0404-01"
+      ]
+    },
+    {
+      "cite": "606 F.2d 1251",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1436304,
+        3784293
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1255"
+        },
+        {
+          "page": "1255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/606/1251-01",
+        "/us-app-dc/196/0344-01"
+      ]
+    },
+    {
+      "cite": "196 U.S.App.D.C. 344",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3784293
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "348"
+        },
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/196/0344-01"
+      ]
+    },
+    {
+      "cite": "676 A.2d 26",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7858400
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/676/0026-01"
+      ]
+    },
+    {
+      "cite": "618 A.2d 669",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7360318
+      ],
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/618/0669-01"
+      ]
+    },
+    {
+      "cite": "858 A.2d 457",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9158695
+      ],
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/858/0457-01"
+      ]
+    },
+    {
+      "cite": "248 A.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8067335
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/248/0126-01"
+      ]
+    },
+    {
+      "cite": "310 A.2d 604",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8036485
+      ],
+      "pin_cites": [
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/310/0604-01"
+      ]
+    },
+    {
+      "cite": "158 A.2d 683",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8130043
+      ],
+      "pin_cites": [
+        {
+          "page": "684-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/158/0683-01"
+      ]
+    },
+    {
+      "cite": "462 A.2d 1140",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7970437
+      ],
+      "pin_cites": [
+        {
+          "page": "1142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/462/1140-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 349",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292029
+      ],
+      "pin_cites": [
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/0349-01"
+      ]
+    },
+    {
+      "cite": "993 A.2d 607",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289605
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "610"
+        },
+        {
+          "page": "note 3",
+          "parenthetical": "upholding the validity of the settlement agreement and rejecting St. Claire Drake's allegations of fraud and negligent misrepresentation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/993/0607-01"
+      ]
+    },
+    {
+      "cite": "90 A.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8141588
+      ],
+      "pin_cites": [
+        {
+          "page": "833"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/90/0832-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 546",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11185665
+      ],
+      "pin_cites": [
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0546-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 867,
+    "char_count": 19061,
+    "ocr_confidence": 0.741,
+    "pagerank": {
+      "raw": 6.89516513629939e-08,
+      "percentile": 0.4193375752794854
+    },
+    "sha256": "22a09591e28a572d7e74ebf6132743b671ee955b01349a0e21790a631e5de350",
+    "simhash": "1:262aed264d44bdd8",
+    "word_count": 3099
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KRAMER, BLACKBURNE-RIGSBY, and OBERLY, Associate Judges."
+    ],
+    "parties": [
+      "In re ESTATE OF Carthur L.M. DRAKE, et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "KRAMER, Associate Judge:\nThe Estate of Carthur L.M. Drake (\u201cthe Estate\u201d), along with the Carthur L.M. Drake Trust (\u201cDrake Trust\u201d), Necia Drake Thompson, and Alvitra Drake, appeal the trial court\u2019s order to execute a quitclaim deed to appellee Sherry Miles St. Claire Drake, hereinafter St. Claire Drake, for property that was the subject of a 1998 settlement agreement between the parties. The Estate alleges that the trial court erred by granting a remedy that was not requested and by enforcing a contract with a condition precedent, which the Estate claims has not yet occurred. We find no error and affirm.\nI. Factual Background\nThis case arises out of litigation that started in 1996, when appellee St. Claire Drake renounced the will of her deceased estranged husband, Carthur L.M. Drake, and filed suit in probate court. The litigation originally resulted in a settlement agreement in 1998, but St. Claire Drake filed a separate action in Superior Court seeking to set aside the settlement agreement in 2005. The Superior Court dismissed the action. We decided St. Claire Drake\u2019s appeal of that action on April 29, 2010. That opinion provides a more detailed explication of the background of this litigation.\nThe parties are now before us because of the appeal of a separate action brought by St. Claire Drake in February 2008, a Motion for Immediate Possession of Property Located at 1886 W Street, N.W., Washington, D.C. The property at issue is 99 percent owned by the Drake Trust, but is subject to IRS liens. As part of the 1998 settlement agreement, the Drake Trust agreed to execute a quitclaim deed to St. Claire Drake for this property \u201cwithin 20 days following the IRS Settlement and the Release of the IRS liens.... \u201d The quitclaim deed has never been executed because the IRS liens remain unresolved. In her motion, St. Claire Drake urged the trial court to use its equitable authority to grant her immediate possession of the property because the trustees have made no apparent progress toward the resolution of the IRS liens during the ten years since the execution of the settlement agreement. St. Claire Drake asserted that she had repeatedly tried to determine the status of the IRS liens and the likely time-frame for the vesting of her rights, but never received a response from the Estate.\nSt. Claire Drake\u2019s motion was heard by Judge Eugene Hamilton on March 27, 2008. At the evidentiary hearing, St. Claire Drake testified that she had taken many steps to determine the status of the trustees\u2019 negotiations with the IRS over the course of the past four years, including communications with the Estate\u2019s attorney, calls to the trustees themselves, and at least one certified-mail letter. Overall, St. Claire Drake estimated that she had attempted to make contact over one hundred times with no response. The Estate trustees do not deny their failure to respond to St. Claire Drake, despite the fact that the settlement agreement provides for \u201cquarterly reports of disbursements made from the Drake Trust\u201d and \u201cprompt notice of any settlement with the IRS.\u201d\nFor the Estate, Ms. Necia Drake Thompson, a co-trustee, testified that the Estate was paying $6,000 per month to the IRS to stay current on its debt. She admitted, however, that the Estate had not paid or settled any of the various claims the IRS had against the Estate. Moreover, Ms. Drake Thompson did not deny that the Estate had not communicated with the IRS or advanced their negotiations in at least four years. When asked by St. Claire Drake\u2019s attorney how St. Claire Drake would have known if the IRS debt had been resolved, Ms. Drake Thompson opined that she would not know \u201cif [the trustees] hadn\u2019t called her,\u201d which they admittedly never did.\nSt. Claire Drake asked the trial court to grant her possession of the property based on her \u201cequitable owner\u2019s interest\u201d and urged the court to consider the following equitable factors: the fact that ten years have passed since the settlement agreement was reached and there has admittedly been no attempt to resolve the IRS liens in at least the past four years; the house on the property at issue has been vacant for at least five years; in that time, St. Claire Drake has paid over $100,000 in rent but has still never owned, or even rented, a house of her own; the trustees\u2019 admission that St. Claire Drake has no way to ascertain the status of the IRS liens; and St. Claire Drake\u2019s deteriorating health and its impact on her reasonable expectation of resolution of the IRS liens within her lifetime.\nJudge Hamilton found for St. Claire Drake and ruled that the resolution of the IRS liens constituted a condition precedent to the vesting of St. Claire Drake\u2019s property rights. He concluded that \u201cthe [Estate] has failed to show by competent evidence that this condition precedent has not occurred, and [ ] has failed to show that [it] has acted diligently and in good faith with respect to what was necessary to be done by the trustee[s] in order to trigger the condition precedent....\u201d Judge Hamilton ordered the Estate to execute a quitclaim deed transferring the title of the property to St. Claire Drake within twenty days of the order. This appeal followed.\nII. Standard of Review\n\u201cSettlement agreements are construed under \u2018general principles of contract law.\u2019 Accordingly, we enforce a valid and binding settlement agreement just like \u2018any other contract.\u2019 \u201d Whether a condition precedent has been fulfilled is a question of fact. As such, we will not disturb the trial court\u2019s findings unless they are clearly erroneous.\nIII. Legal Analysis\nThe Estate asserts that the trial court erred when it ordered the Estate to execute a quitclaim deed conveying the property to St. Claire Drake, an unrequested remedy, because the condition precedent to the settlement agreement, the resolution of the IRS liens on the property, had not yet occurred. St. Claire Drake counters that the Estate acted in bad faith to prevent the occurrence of the condition precedent and that the trial court\u2019s remedy constituted enforcement of the settlement agreement, the validity of which we upheld just this past April. We agree and affirm.\nA. Condition Precedents and the Prevention Doctrine\nBoth parties agree that the 1998 settlement agreement contained a condition precedent, \u201cthe IRS Settlement and the Release of the IRS Liens.\u201d Thus, the issue is whether the Estate\u2019s failure to fulfill the condition precedent within a reasonable time excuses its non-occurrence. \u201cIt is a principle of fundamental justice that if a promisor is himself the cause of the failure of performance, either of an obligation due him or of a condition upon which his own liability depends, he cannot take advantage of the failure.\u201d Indeed, \u201cprevention can negate a requirement to satisfy a condition precedent and non-occurrence is normally excused when fairly attributable to the promisor\u2019s own conduct.\u201d Significantly, the prevention doctrine only requires the non-occurrence to be \u201cfairly attributable to the promisor\u2019s own conduct;\u201d thus, St. Claire Drake was not required to \u201cshow that the condition would have occurred but for the prom-isor\u2019s lack of cooperation.\u201d\nHere, the trial judge explicitly found that the Estate \u201cfailed to show by competent evidence that this condition precedent has not occurred, and [ ] has failed to show that [it] has acted diligently and in good faith with respect to what was necessary to be done by the trustee[s] in order to trigger the condition precedent.\u201d The judge\u2019s oral findings show that he actually ruled for St. Claire Drake on two separate bases: his conclusion that (1) the condition precedent may have actually occurred, in light of the Estate\u2019s failure to present documentary evidence of the outstanding tax liens and their admission that St. Claire Drake would have no way to ascertain whether the liens had been resolved, triggering enforcement of the settlement agreement; and (2) any non-occurrence of the condition precedent was \u201cfairly attributable to [the trustees\u2019] own conduct.\u201d\nThe Estate maintains that the condition precedent has not yet occurred, but we need not resolve that issue because we hold that the trial judge did not clearly err in finding that, under the doctrine of prevention, the Estate\u2019s failure to attempt to satisfy the condition precedent constituted a breach of the settlement agreement in this case. Ms. Drake Thompson\u2019s testimony at the evidentiary hearing established that the trustees have made no attempt to resolve the IRS liens in at least the past four years, despite the fact that they were the parties best positioned, in fact the only parties positioned, to resolve the hens.\nThe settlement agreement did not specify a time period for the satisfaction- of the condition precedent. This jurisdiction applies the default \u201creasonable time\u201d for performance where the time period is not specified. The trial judge did not clearly err when he found that the ten years that had passed since the settlement agreement, especially considering the last four years of inactivity, constituted an unreasonable period of time for the satisfaction, or at least progress toward satisfaction, of the condition precedent here. Even if the default reasonable time standard did not apply, the trustees\u2019 admission that they have not attempted to satisfy the condition precedent for several years constitutes a breach of the \u201cimplied ... duty not to frustrate the fulfillment of the condition precedent,\u201d and the Estate was appropriately held liable.\nB. Burden of Proof\nThe Estate also argues that the trial court improperly shifted the burden of proof. It contends that the trial court improperly placed the burden of proving diligence and good faith in satisfying the condition precedent on the trustees. The Estate is incorrect as a matter of law. The Estate cites Shear v. National Rifle Ass\u2019n for the application of the \u201cdoctrine of prevention\u201d to conditions precedent, and asserts that \u201cthere is no basis in Shear, or any other decision, for [the trial judge] to ... shift the burden of proof to the non-moving party.\u201d On the contrary, Shear lays out the burden of proof quite plainly:\nIt is only required that the breach have substantially contributed to the non-occurrence. Nevertheless, if it can be shown that the condition would not have occurred regardless of the lack of cooperation, the failure of performance did not substantially contribute to its nonoccurrence and the rule does not apply. The burden of showing this is properly thrown on the party in breach.\nThe evidence presented at the evidentiary hearing sufficiently established the Estate\u2019s bad faith conduct and its prevention of the occurrence of the condition precedent. The Estate presented no evidence or testimony to the contrary. Therefore, it failed to meet its burden of showing that it did not substantially contribute to the non-occurrence of the condition precedent.\nC. Award of Title was a not a Requested Remedy\nThe Estate urges us to reverse the lower court\u2019s order in light of the fact that it granted a remedy not requested by St. Claire Drake, and thus denied the Estate fair notice that title to the property would be at stake at the evidentiary hearing. The Estate provides no case law to support its position. While the trial judge\u2019s ordered relief went beyond that requested by St. Claire Drake, the remedy was proper under the doctrine of prevention. That doctrine instructs that a condition precedent is excused where a party\u2019s non-performance prevented the occurrence of the condition. Thus, an appropriate remedy is to enforce the contract despite the non-occurrence. Enforcement of the settlement agreement was a legal and appropriate remedy for the Estate\u2019s breach, and the trial judge did not clearly err in so ordering.\nIV. Conclusion\nWe find no clear error in the order below and affirm. St. Claire Drake shall retain the quitclaim deed to the property as executed by the Estate on November 13, 2008.\nAffirmed.\n. This opinion will refer to the appellants collectively as the Estate. Necia Drake Thompson and Alvitra Drake are daughters of Carthur Drake from previous relationships.\n. \"A condition precedent may be defined as \u2018an event, not certain to occur, which must occur, unless its non-occurrence is excused, before performance under a contract becomes due.' \u201d Washington Props., Inc. v. Chin, 760 A.2d 546, 549 (D.C.2000) (quoting Restatement (Second) of Contracts \u00a7 224(1981)). See Brier v. Orenberg, 90 A.2d 832, 833 (D.C.1952) (condition precedent is \"a fact which must exist or occur before a duty of immediate performance of a promise could arise\u201d).\n. The Superior Court determined that St. Claire Drake's claims alleging fraud and negligent misrepresentation were not only time barred but also foreclosed by the settlement agreement. Drake v. McNair, 993 A.2d 607, 610 (D.C.2010) (describing the Superior Court\u2019s holding).\n. Drake v. McNair, supra note 3 (upholding the validity of the settlement agreement and rejecting St. Claire Drake's allegations of fraud and negligent misrepresentation).\n. In this motion, St. Claire Drake made it clear that she was not requesting title to the property, but rather mere possession, concluding \"[p]laintiff underscores that it is not presently seeking an order to transfer title, but only an order of this court consistent with its equitable powers seeking immediate possession of the subject property.\u201d She presumably stressed this point because she recognized the conflict between her attempt to rescind the 1998 settlement agreement, which was pending at the time she filed this suit, with her current attempt to enforce a portion of the same agreement.\n. St. Claire Drake splits her time between her mother\u2019s home in St. Louis, Missouri, where she pays the rent, and a friend's home in Maryland. She is a flight attendant based out of Dulles airport so she spends considerable time traveling, but she testified that she still needs a home base.\n. Judge Hamilton further held that the Estate could only stay enforcement of this order pending appeal by posting an $800,000 bond.\n. Dyer v. Bilaal, 983 A.2d 349, 354 (D.C.2009) (quoting Goozh v. Capitol Souvenir Co., 462 A.2d 1140, 1142 (D.C.1983); Rommel v. West Am. Ins. Co., 158 A.2d 683, 684-85 (D.C.1960)).\n.Lee Washington, Inc. v. Washington Motor Truck Transp. Emp. Health & Welfare Trust, 310 A.2d 604, 606 (D.C.1973) (\u201c[T]he existence of such a condition precedent and whether it has been met are questions of fact.\u201d) (citing Washington Tent & Awning, Co. v. 818 Ranch, Inc., 248 A.2d 126, 127 (D.C.1968)).\n. Id.\n. In its motion to vacate the trial court's order, the Estate argued that the trial court lacked jurisdiction to issue its order because the 1998 settlement agreement was a final judgment, and this court has repeatedly held that a trial court cannot \"reopen a final definitive judgment once issued and markedly change its nature and effect.\u201d Olivarius v. Stanley J. Samoff Endowment for Cardiovascular Sci, Inc., 858 A.2d 457, 463 (D.C.2004) (internal citation omitted). This argument misconstrues the trial court's order. The order did not reopen the settlement agreement by changing its terms; rather, the order enforced the settlement agreement.\n. The relevant portion of the settlement agreement reads; \"Within 20 days following the IRS Settlement and Release of the IRS Liens, the Drake Trust will cause a quitclaim deed to the Property to be executed in favor of Plaintiff or her designee.\u201d\n. Aronoff v. Lenkin Co., 618 A.2d 669, 682 (D.C.1992) (quoting 5 Williston, A Treatise on the Law of Contracts, \u00a7 677, 224 (3d ed.1961)). See also Urban Masonry Corp. v. N & N Contractors, Inc., 676 A.2d 26, 36 (D.C.1996) (holding that a party \"cannot benefit from its willful hindrance of the condition precedent, and is therefore liable for its breach\u201d) (citing 3 Corbin, Corbin on Contracts, \u00a7 570, 571, 770 (1960 & 1994 Supp.)) (other internal citations omitted).\n. Id. (quoting Shear v. Nat'l Rifle Ass'n, 196 U.S.App.D.C. 344, 348, 606 F.2d 1251, 1255 (1979)); R.A. Weaver and Assocs., Inc. v. Haas & Haynie Corp., 213 U.S.App.D.C. 404, 412, 663 F.2d 168, 176 (1980) (internal quotation marks and ellipses omitted).\n. Id.\n. Id. at 683 n. 25 (quoting R.A. Weaver, supra note 14, 213 U.S.App.D.C. at 412, 663 F.2d at 176). Indeed, the Restatement (Second) of Contracts \u00a7 245 (1979) states: \"Where a party's breach by non-performance contributes materially to the non-occurrence of a condition of one of his duties, the non-occurrence is excused.\u201d\n. Id.\n. Corbin on Contracts \u00a7 40.19, supra note 13, states: \"In a good many cases ... the promisor\u2019s prevention of the fulfillment of the condition is itself regarded as a breach of contract. The court finds that the promisor has made an implied promise not to prevent or make the performance of the condition more difficult.\u201d While many of these cases deal with construction contracts, there is no reason that the same rationale cannot equally apply to this settlement agreement.\n. Fox v. Johnson & Wimsatt, Inc., 75 U.S.App.D.C. 211, 217, 127 F.2d 729, 735 (1942) (\"The rule of reasonableness supplies the time element generally when it is not specified.\u201d).\n. Urban Masonry Corp. v. N & N Contractors, Inc., supra note 13.\n.St. Claire Drake underscores the emphasis on good-faith dealing in the doctrine of prevention, quoting Williston on Contracts \u00a7 39.6, supra note 13: \"[T]he additional duty of good faith and fair dealing imposed ... may require some cooperation on his part, either by refraining from conduct that will prevent or hinder the occurrence of that condition or by taking affirmative steps to cause its occurrence....\u201d\nWe agree that the trustees have acted in bad faith and that fundamental fairness and good public policy weigh in favor of upholding the trial judge's ruling for appellee. The trial judge appropriately found that \u201cthe defendant has a burden to show that he has acted diligently and in good faith, with respect to procedure, which will trigger the condition precedent_[a]nd no such competent evidence was offered during the course of this trial.\u201d\n. We decline to address whether the burden of proving that the condition precedent did not occur should have been placed on the Estate because we are affirming the trial judge's order based on his determination that the trustees acted in bad faith and prevented the occurrence of the condition precedent, not on the ground that the Estate did not prove that the condition precedent had not yet occurred.\n. Supra note 14, 196 U.S.App.D.C. at 348, 606 F.2d at 1255.\n. Id. at 350, 1257 (quoting Restatement (Second) of Contracts \u00a7 269) (emphasis added).",
+        "type": "majority",
+        "author": "KRAMER, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Thomas F. Murphy, with whom Robert E. Greenberg, Washington, DC, was on the brief, for appellant.",
+      "Donald M. Temple, Washington, DC, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "In re ESTATE OF Carthur L.M. DRAKE, et al., Appellants.\nNo. 08-PR-665.\nDistrict of Columbia Court of Appeals.\nArgued Nov. 23, 2009.\nDecided Sept. 16, 2010.\nThomas F. Murphy, with whom Robert E. Greenberg, Washington, DC, was on the brief, for appellant.\nDonald M. Temple, Washington, DC, for appellee.\nBefore KRAMER, BLACKBURNE-RIGSBY, and OBERLY, Associate Judges."
+  },
+  "file_name": "0450-01",
+  "first_page_order": 512,
+  "last_page_order": 518
+}

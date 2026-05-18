@@ -1,0 +1,751 @@
+{
+  "id": 7287636,
+  "name": "John W. SEARLE v. TOWN OF BUCKSPORT et al.",
+  "name_abbreviation": "Searle v. Town of Bucksport",
+  "decision_date": "2010-08-31",
+  "docket_number": "",
+  "first_page": "390",
+  "last_page": "402",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 390"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 89"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "183 A. 132",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "134"
+        },
+        {
+          "page": "134"
+        },
+        {
+          "page": "134-36",
+          "parenthetical": "holding that there was no intent to make refrigerators fixtures because, among other factors, they were not designed for the building and were moved between apartments in the building"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Me. 153",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8844287
+      ],
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "158"
+        },
+        {
+          "page": "158"
+        },
+        {
+          "page": "158, 162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/134/0153-01"
+      ]
+    },
+    {
+      "cite": "601 A.2d 91",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11935758
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "94"
+        },
+        {
+          "page": "94",
+          "parenthetical": "concluding that heating and air-conditioning units installed in hotel rooms were adapted to use of the realty because they helped to create a livable atmosphere for guests"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/601/0091-01"
+      ]
+    },
+    {
+      "cite": "117 Mont. 467",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        5105126
+      ],
+      "weight": 2,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that four-ton tanks held in place by their weight were affixed to the ground"
+        },
+        {
+          "page": "531",
+          "parenthetical": "finding that four-ton tanks held in place by their weight were affixed to the ground"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/117/0467-01"
+      ]
+    },
+    {
+      "cite": "53 F.3d 965",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6034712
+      ],
+      "pin_cites": [
+        {
+          "page": "968"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/53/961-965-01"
+      ]
+    },
+    {
+      "cite": "70 Me. 473",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        649388
+      ],
+      "year": 1880,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/70/0473-01"
+      ]
+    },
+    {
+      "cite": "670 A.2d 926",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7865291
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "929"
+        },
+        {
+          "page": "929",
+          "parenthetical": "concluding that an \"air process system ... designed and installed to perform functions essential to the operation of' the realty, where the system and realty had a common owner, was adapted to the realty's use"
+        },
+        {
+          "page": "929-30"
+        },
+        {
+          "page": "929-30"
+        },
+        {
+          "page": "929-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/670/0926-01"
+      ]
+    },
+    {
+      "cite": "49 A. 1047",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "1047"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Me. 287",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        672896
+      ],
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/95/0287-01"
+      ]
+    },
+    {
+      "cite": "226 A.2d 371",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8091556
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "375"
+        },
+        {
+          "page": "376"
+        },
+        {
+          "page": "376",
+          "parenthetical": "concluding that telephone poles set into the ground were physically annexed to the realty"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/226/0371-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12041640
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "78-79"
+        },
+        {
+          "page": "78-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0077-01"
+      ]
+    },
+    {
+      "cite": "588 A.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7381672
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "741"
+        },
+        {
+          "page": "739-40"
+        },
+        {
+          "page": "739-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/588/0739-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 24",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9364781
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 7-8"
+        },
+        {
+          "page": "65-66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/816/0063-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 73",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9227037
+      ],
+      "weight": 18,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "329"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "329"
+        },
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "328"
+        },
+        {
+          "page": "328-29"
+        },
+        {
+          "page": "329"
+        },
+        {
+          "page": "329"
+        },
+        {
+          "page": "328-29"
+        },
+        {
+          "page": "\u00b6\u00b6 9, 11"
+        },
+        {
+          "page": "329"
+        },
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "329",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "329",
+          "parenthetical": "concluding that a \"freestanding trash bin outside of [a] waste facility\" was personal property"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/850/0325-01"
+      ]
+    },
+    {
+      "cite": "468 A.2d 1002",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8023173
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1004"
+        },
+        {
+          "page": "1004"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/468/1002-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 29",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8159382
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "695"
+        },
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "695",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "695"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/0690-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 68",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8308569
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 29"
+        },
+        {
+          "page": "492"
+        },
+        {
+          "page": "\u00b6 29"
+        },
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/922/0484-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 67",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7294434
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/974/0286-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 50",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7285153
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 2"
+        },
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/997/0084-01"
+      ]
+    },
+    {
+      "cite": "505 A.2d 818",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7913474
+      ],
+      "pin_cites": [
+        {
+          "page": "821"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/505/0818-01"
+      ]
+    },
+    {
+      "cite": "555 A.2d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7910570,
+        7910446
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1056-57"
+        },
+        {
+          "page": "1057"
+        },
+        {
+          "page": "1057"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/555/1054-02",
+        "/a2d/555/1054-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 184",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8188854
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "947-48"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/962/0944-01"
+      ]
+    },
+    {
+      "cite": "1998 ME 29",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11854303
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/707/0378-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 5",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8447038
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "1233"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/912/1229-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12041640
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "78"
+        },
+        {
+          "page": "78-79"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/666/0077-01"
+      ]
+    },
+    {
+      "cite": "588 A.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7381672
+      ],
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/588/0739-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 73",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9227037
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "328"
+        },
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "328"
+        },
+        {
+          "page": "328, 329"
+        },
+        {
+          "page": "329"
+        },
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "328-29"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/850/0325-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 68",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8308569
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "493"
+        },
+        {
+          "parenthetical": "quoting 2 Legis. Rec. 1644 (1977) (remarks of Sen. Collins)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/922/0484-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1385,
+    "char_count": 35331,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 1.7178103230977483e-07,
+      "percentile": 0.7034427489788014
+    },
+    "sha256": "1660d85c88869d26801a838896d8530a9e91f98c933ada5038e6f2fb747c7413",
+    "simhash": "1:00ae1ef5f1a9077d",
+    "word_count": 5812
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "John W. SEARLE v. TOWN OF BUCKSPORT et al."
+    ],
+    "opinions": [
+      {
+        "text": "Majority: SAUFLEY, C.J., and LEVY, MEAD, and GORMAN, JJ.\nDissent: ALEXANDER, SILVER, and JABAR, JJ.\nMEAD, J.\n[\u00b6 1] John W. Searle appeals from a summary judgment entered in the Superi- or Court (Knox County, Hjelm, J.) in favor of the Town of Bucksport and the Bucks-port School Department on his complaint asserting negligent maintenance of the visitors\u2019 bleachers at the Bucksport High School football field. Searle contends that the Superior Court erred in holding that the bleachers are not a public building or an appurtenance to a public building pursuant to 14 M.R.S. \u00a7 8104-A(2) (2009) of the Maine Tort Claims Act (MTCA) and, therefore, no exception to the immunity conferred on governmental entities by the MTCA applies. We affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] The following facts, viewed in the light most favorable to the nonmoving party, are established in the summary judgment record. See Estate of Fortier v. City of Lewiston, 2010 ME 50, \u00b6 2, 997 A.2d 84, 85. On the evening of October 27, 2006, John Searle attended a football game at Bucksport High School. While at the game, he fell through an opening in the visitors\u2019 bleachers caused by a missing board and was injured. One or two days before the game, the high school\u2019s maintenance director noticed the missing board, but did not replace it or cordon off the area as a potential hazard.\nA. Description and Use of the Premises\n[\u00b6 3] A parking lot, road, and grassy incline separate the high school building from the football field. A track runs outside the perimeter of the field. A chain-link fence surrounds the track and field. Outside the fence, bleachers are placed parallel to each sideline.\n[\u00b6 4] At the time of the accident, the visitors\u2019 bleachers consisted of a metal frame structure with wooden boards as seats. They were ten tiers high, about thirty-six feet long, and were placed upon a gravel base. These bleachers were previously placed upon the opposite side of the field and used as the home side bleachers. In 1999, the bleachers were dismantled and placed in storage before being reassembled at a later point on the visitors\u2019 side of the field. At some point after Searle\u2019s injury, the visitors\u2019 bleachers were again dismantled and removed. Their current location and use are not established in the record.\n[\u00b6 5] The high school uses the field for sporting events and charges members of the public an admission fee to attend its football games. When the field and bleachers are not being used for school events, they are open for use by the general public. Walkers and joggers use the track, subject to posted restrictions, and other members of the public play unorganized group sports on the field. The Town\u2019s recreation department uses the field for its Pop Warner football program.\nB. Procedural History\n[\u00b6 6] After his fall, Searle filed a complaint alleging that the School Department\u2019s and the Town\u2019s negligent maintenance of the visitors\u2019 bleachers caused his injuries. The Town and the School Department filed a motion for summary judgment asserting that, pursuant to the MTCA, they were entitled to immunity from Searle\u2019s claim. The Superior Court granted the motion for summary judgment on the ground that no exception to the Town\u2019s or the School Department\u2019s governmental immunity applied. Specifically, the court found that the visitors\u2019 bleachers were not a public building or an appurtenance to a public building as contemplated by 14 M.R.S. \u00a7 8104-A(2). The court did not expressly address the question of whether the bleachers were excluded from the public building exception as \u201cstructures, facilities or equipment designed for use primarily by the public in connection with public outdoor recreation\u201d pursuant to 14 M.R.S. \u00a7 8104-A(2)(A)(3). Following the court\u2019s entry of a final judgment, Searle filed this appeal.\nII. DISCUSSION\n[\u00b6 7] We review a grant of a motion for summary judgment de novo. Picher v. Roman Catholic Bishop of Portland, 2009 ME 67, \u00b6 7, 974 A.2d 286, 289. In the instant case, where there are no genuine issues of material fact, we must interpret the MTCA to determine whether the Town and the School Department are entitled to a judgment as a matter of law. See id.\n[\u00b6 8] We review issues of statutory interpretation de novo with the primary objective of giving effect to the Legislature\u2019s intent. Rodriguez v. Town of Moose River, 2007 ME 68, \u00b6 29, 922 A.2d 484, 492. The use of interpretive aids is necessary only when the plain language of the statute is ambiguous. Windham Land Trust v. Jeffords, 2009 ME 29, \u00b6 12, 967 A.2d 690, 695. As a general rule, words and phrases that are not expressly defined in a statute \u201cmust be given their plain and natural meaning and should be construed according to their natural import in common and approved usage.\u201d Goodine v. State, 468 A.2d 1002, 1004 (Me.1983); see also 1 M.R.S. \u00a7 72(3) (2009). Also, statutes are interpreted \u201cto avoid absurd, illogical, or inconsistent results.\u201d Windham Land Trust, 2009 ME 29, \u00b6 12, 967 A.2d at 695 (quotation marks omitted).\nA. The Public Building Exception\n[\u00b6 9] The MTCA confers immunity on governmental entities for all tort claims seeking recovery of damages, except that the immunity is limited by several statutory provisions. 14 M.R.S. \u00a7 8103(1) (2009). One such exception, known as the public building exception, provides, \u201cA governmental entity is liable for its negligent acts or omissions in the construction, operation or maintenance of any public building or the appurtenances to any public building.\u201d 14 M.R.S. \u00a7 8104-A(2). The immunity exceptions are strictly construed so as to adhere to immunity as the general rule. Sanford v. Town of Shapleigh, 2004 ME 73, \u00b6 10, 850 A.2d 325, 329.\n[\u00b6 10] Dictionary definitions of the term building indicate an edifice enclosed by walls and covered by a roof. Webster\u2019s Third New International Dictionary defines a \u201cbuilding\u201d as follows:\n1: a thing built: a: a constructed edifice designed to stand more or less permanently, covering a space of land, usu. covered by a roof and more or less completely enclosed by walls, and serving as a dwelling, storehouse, factory, shelter for animals, or other useful structure\u2014distinguished from structures not designed for occupancy (as fences or monuments) and from structures not intended for use in one place (as boats or trailers) even though subject to occupancy.\nWebster\u2019s Third New International Dictionary 292 (2002). Black\u2019s Law Dictionary defines a building as \u201c[a] structure with walls and a roof.\u201d Black\u2019s Law Dictionary 222 (9th ed.2009). The bleachers at issue here do not fit these definitions and therefore do not constitute a public building pursuant to 14 M.R.S. \u00a7 8104-A(2). The remaining issue is whether they qualify as an appurtenance to a public building.\n1. Appurtenances and the Maine Tort Claims Act\n[\u00b6 11] \u201c[F]or purposes of section 8104-A(2), an appurtenance is an object or thing that belongs or is attached to a public building, and does not include personal property maintained outside the building.\u201d Sanford, 2004 ME 73, \u00b6 11, 850 A.2d at 329. As an initial matter, it is undisputed that the high school is a public building within the meaning of the MTCA. See Lightfoot v. Sch. Admin. Dist. No. 35, 2003 ME 24, \u00b6\u00b6 7-8, 816 A.2d 63, 65-66. In this case, the bleachers are an appurtenance if they (1) belong to the school and (2) are not personal property.\n[\u00b6 12] Sanford builds upon case law that had evolved over the previous decade. In Stretton v. City of Lewiston, we determined that an athletic field associated with a high school was not an appurtenance to the high school building for purposes of the MTCA. 588 A.2d 739, 741 (Me.1991). We reached this result despite the fact that the plaintiff was injured during activities being conducted on the public field as part of the regular physical education program. Id. at 739-40. In Kitchen v. City of Calais, we concluded that a raised portion of blacktopped curbing was not an appurtenance to a police station despite the fact that the curbing was created to prevent drivers from parking too close to the station. 666 A.2d 77, 78-79 (Me.1995).\n[\u00b6 13] The test, thus, is not a superficial and singular inquiry as to whether something belongs to a building based upon a simple functional connection between the building and the thing in question. In Kitchen and Stretton, the \u201cthings\u201d clearly had a functional connection with the public buildings, but we declined to deem them appurtenances for MTCA purposes. See Kitchen, 666 A.2d at 78-79; Stretton, 588 A.2d at 739-41. If any doubts lingered regarding our rejection of a functional-connection test, Sanford laid them to rest. We stated:\n[W]e acknowledge that the function-based definition employed by the Superior Court in concluding that the trash bin is an appurtenance is sensible and offers a practical standard. Nonetheless, for the reasons that follow, we decline to adopt a function-based approach and rely instead on a more restrictive understanding of ... [appurtenance].\nSanford, 2004 ME 73, \u00b6 8, 850 A.2d at 328.\n[\u00b6 14] We instead decided to apply the well-established definition of a fixture to determine whether an object was an appurtenance. Id. \u00b6 9, 850 A.2d at 328-29. Items of personal property, such as trash containers, cannot be considered fixtures and thus could never constitute appurtenances. Id. \u00b6 12, 850 A.2d at 329. In Sanford, we observed that the function-based approach \u201cwould expand governmental liability by including personal property integral to the activities undertaken at a public building.\u201d Id. \u00b6 11, 850 A.2d at 329.\n2. Fixtures and Personal Property\n[\u00b6 15] The proper analysis, based upon our precedent, is to determine whether the bleachers are fixtures or personal property. Id. \u00b6\u00b6 9, 11, 850 A.2d at 328-29. Personal property consists of \u201c[a]ny movable or intangible thing that is subject to ownership and not classified as real property.\u201d Black\u2019s Law Dictionary at 1337. As explained above, the bleachers are not a building. Therefore, if the bleachers are not fixtures to the high school building, then they are the School Department\u2019s personal property and cannot be an appurtenance for the purpose of 14 M.R.S. \u00a7 8104-A(2). See Sanford, 2004 ME 73, \u00b6\u00b6 9, 11, 850 A.2d at 329; Black\u2019s Law Dictionary at 1337.\n[\u00b6 16] There is no single criterion by which an object can be deemed a fixture. See Bangor-Hydro Electric Co. v. Johnson, 226 A.2d 371, 375 (Me.1967) (quoting Readfield Tel. & Tel. Co. v. Cyr, 95 Me. 287, 289, 49 A. 1047, 1047 (1901)). However, common law authorities uniformly start with the proposition that objects change from being personal property to being fixtures when they have become so closely connected to land that they are \u201cregarded as an irremovable part of the real property with which they are associated.\u201d Sanford, 2004 ME 73, \u00b6 9, 850 A.2d at 329 (quotation marks omitted); see also 8 Powell on Real Property \u00a7 57.05[1], at 57-25 (Michael Allan Wolf ed., 2006). An object has made this shift when it is (1) \u201cphysically annexed, at least by juxtaposition, to the realty or some appurtenance thereof\u2019; (2) \u201cadapted to the use to which the land to which it is annexed is put\u201d; and (3) \u201cannexed with the intention on the part of the person making the annexation to make it a permanent accession to the realty.\u201d E.g., Enerquin Air, Inc. v. State Tax Assessor, 670 A.2d 926, 929 (Me.1996).\na. Physical Annexation\n[\u00b6 17] Physical annexation occurs when an object is affixed to the realty, see Bangor-Hydro Electric Co., 226 A.2d at 376, or simply through the object\u2019s sheer weight, Hinkley & Egery Iron Co. v. Black, 70 Me. 473, 480 (1880); see also United States v. County of San Diego, 53 F.3d 965, 968 (9th Cir.1995) (concluding that a nuclear device weighing between 400 and 500 tons was annexed to the ground by gravity); Pritchard Petroleum Co. v. Farmers Co-op. Oil & Supply Co., 117 Mont. 467, 161 P.2d 526, 531 (1945) (finding that four-ton tanks held in place by their weight were affixed to the ground).\n[\u00b6 18] The School Department\u2019s bleachers were disassembled, moved to the visitors\u2019 side of the field and reassembled, disassembled again, and removed. They were neither affixed to the ground nor did their weight prevent them from being freely relocated. On the contrary, they are as readily relocatable as a tent, a modular stage, or any other temporary structure. Therefore, the bleachers were not annexed in any fashion to the high school or its field. Compare Lewiston Bottled Gas Co. v. Key Bank of Me., 601 A.2d 91, 94 (Me.1992) (concluding that heating and air-conditioning units attached to walls with bolts were physically annexed), and Bangor-Hydro Electric Co., 226 A.2d at 376 (concluding that telephone poles set into the ground were physically annexed to the realty), with Sanford, 2004 ME 73, \u00b6 12, 850 A.2d at 329 (concluding that a \u201cfreestanding trash bin outside of [a] waste facility\u201d was personal property).\nb. Adaptation\n[\u00b6 19] The second element of the fixture test, adaptation of the object to the use of the land, is met when the object and the real property \u201care united in the carrying out of a common enterprise.\u201d Lewiston Bottled Gas Co., 601 A.2d at 94 (concluding that heating and air-conditioning units installed in hotel rooms were adapted to use of the realty because they helped to create a livable atmosphere for guests). Items of personal property are united to the realty \u201cif they contribute to the purposes of the realty in the sense that they are necessary or useful for the proper operation or utilization of the realty.\u201d 8 Powell on Real Property \u00a7 57.05[4](a), at 57-39.\n[\u00b6 20] Bleachers unquestionably fill a role at sporting events. While bleachers are not strictly necessary for conducting outdoor sporting events, they are welcomed by spectators, who use them to watch events unfolding on the field. Although they are, in a general sense, adapted to use on a sports field, these particular bleachers were never designed or manufactured for use on the Bucksport High School football field or any other specific site. By contrast, permanent seating is clearly adapted to the unique needs of a particular field or setting. Architects design permanent seating after reviewing the requests of the owner and the physical setting and needs of the location. Concrete foundations unite the land with the structure. Easily dismantled bleachers, like those at issue, are utterly generic and reflect no particular or unique adaptation specific to this football field. See Ener-quin Air, 670 A.2d at 929 (concluding that an \u201cair process system ... designed and installed to perform functions essential to the operation of\u2019 the realty, where the system and realty had a common owner, was adapted to the realty\u2019s use).\nc. Intent\n[\u00b6 21] Finally, to determine the owner\u2019s intent, the controlling intention is not the owner\u2019s stated intent at the time of acquisition, or some unspoken plan for the future of the structure or the property, but the intention that the court deduces from external facts. See Enerquin Air, 670 A.2d at 929-30; Cumberland County Power & Light Co. v. Hotel Ambassador, 134 Me. 153, 158, 183 A. 132, 134 (1936). In other words, the test for intent is an objective one based on the totality of the circumstances. See Enerquin Air, 670 A.2d at 929-30; Hotel Ambassador, 134 Me. at 158, 183 A. at 134. In determining intent, courts consider, among other factors:\n(1) The mode of annexation;\n(2) The removability of the article without injury to the premises;\n(3) The extent to which the article is specially adapted to the premises;\n(4) The extent to which the [owner] has treated the article as an essential part of the premises ...; [and]\n(5) The actual essentiality of the article to the accustomed use or operation of the premises....\n8 Powell on Real Property \u00a7 57.05[5](b), at 57-42 to 57-45.\n[\u00b622] Addressing these factors seria-tim: the bleachers are not annexed to the ground by physical fasteners or weight; the bleachers have twice been removed without damage to the premises; these generic bleachers have no specific adaptation to the Bucksport football field; by moving the bleachers on two occasions, and ultimately removing them, the owner has clearly not treated them as an essential part of the realty; and these particular bleachers are not essential to the use of the realty. Accordingly, it cannot be shown that the School Department had the requisite intent to make these bleachers an irremovable part of the realty. See Enerquin Air, 670 A.2d at 929-30; 8 Powell on Real Property \u00a7 57.05[5](b), at 57-42 to 57-45. On the contrary, the record suggests that the School Department treated these bleachers as mobile, modular units that could be, and were, moved and ultimately removed as the School Department wished. See Hotel Ambassador, 134 Me. at 158, 162, 183 A. at 134-36 (holding that there was no intent to make refrigerators fixtures because, among other factors, they were not designed for the building and were moved between apartments in the building).\n[\u00b6 23] Because we conclude that the visitors\u2019 bleachers meet none of the requirements necessary to qualify as fixtures, and because they clearly do not constitute a building, they constitute personal property and cannot be considered appurtenances for purposes of 14 M.R.S. \u00a7 8104-A(2). The Town and the School Department are entitled to immunity pursuant to 14 M.R.S. \u00a7 8103(1).\nB. Public Outdoor Recreation\n[\u00b6 24] The Town and the School Department are also entitled to immunity because they are not liable for any claim resulting from \u201c[t]he construction, ownership, maintenance or use of ... [l]and, buildings, structures, facilities or equipment designed for use primarily by the public in connection with public outdoor recreation.\u201d 14 M.R.S. \u00a7 8104-A(2)(A)(3). Because we must interpret the MTCA to adhere to immunity as the general rule, we will broadly construe any exclusions in the immunity exceptions. See Rodriguez, 2007 ME 68, \u00b6 29, 922 A.2d at 492; Sanford, 2004 ME 73, \u00b6 10, 850 A.2d at 329. While fans and spectators at high school football games may not be competing on the field, they clearly are participants in the larger concept of the event that is taking place. They are utilizing a structure \u201cdesigned for use primarily by the public in connection with public outdoor recreation.\u201d 14 M.R.S. \u00a7 8104-A(2)(A)(3) (emphasis added).\n[\u00b6 25] While it may be tempting to differentiate between the players on the field, who are undeniably engaging in outdoor recreation, and the spectators in the stands who are engaging in an activity that is arguably passive, that distinction is unwieldy and unworkable in the MTCA context. Many popular forms of outdoor recreation are passive and involve the enjoyment of the environment or events taking place nearby. Birdwatchers on a bench or a boardwalk in a municipal wilderness preserve are engaging in outdoor recreation. Grandparents watching grandchildren swim off a municipal dock are engaging in outdoor recreation. Any attempt to draw a bright line between active and passive outdoor recreation would lead to \u201cabsurd, illogical, or inconsistent results,\u201d which we must avoid. See Windham Land Trust, 2009 ME 29, \u00b6 12, 967 A.2d at 695.\n[\u00b626] Further, the statute makes no such distinction. On the contrary, the statute specifically refers to \u201cuse ... in connection with public outdoor recreation.\u201d 14 M.R.S. \u00a7 8104-A(2)(A)(3) (emphasis added). This language clearly anticipates a spectrum of activities broad enough to include spectators at outdoor sporting events. See id.; Goodine, 468 A.2d at 1004. Therefore, the Town and the School Department are also entitled to immunity pursuant to 14 M.R.S. \u00a7 8104-A(2)(A)(3).\nIII. CONCLUSION\n[\u00b6 27] The MTCA reflects a cautious waiver of sovereign immunity by the Legislature in certain carefully circumscribed circumstances. See 14 M.R.S. \u00a7\u00a7 8103, 8104-A (2009). It is not unreasonable to conclude that the Legislature intended to open the door to governmental liability in the operation of buildings and their appurtenances where regular maintenance plans and attention minimize the possibility of oversights, but still exclude personal property and outlying structures that ordinarily might not receive the same regular scrutiny and care. See 14 M.R.S. \u00a7 8104-A(2)(A)(3). Further, municipalities and other governmental entities are to be encouraged to provide access and structures in connection with outdoor recreation, and such encouragement is offered by the unqualified protection of sovereign immunity. See id. Changes to these legislated policies are for the legislative branch; the courts are delimited by the language of the statute and the dictates of the common law.\nThe entry is:\nJudgment affirmed.\n. The metal feet of the bleachers have holes through which bolts can be inserted. The photographs in the record suggest that these bleachers were simply placed upon concrete pads that were set on a gravel base. Although not dispositive, the lack of any mode of permanent attachment strongly suggests that the bleachers are not fixtures to the high school building.",
+        "type": "majority",
+        "author": "MEAD, J."
+      },
+      {
+        "text": "JABAR, J.,\nwith whom ALEXANDER and SILVER, JJ., join, dissenting.\n[\u00b6 28] I respectfully dissent from the Court\u2019s decision. There were two sets of outdoor \u201cpermanent bleachers,\u201d one on the home side of the football field and one on the visitors\u2019 side. They provided the same function, they exposed the public to the same physical risks, and they imposed upon the high school the same obligation to make them safe for spectators. Yet the practical effect of the decision is that the Town of Bucksport and the Bucksport School Department are immune from liability for the bleachers on one side of the field but not necessarily the bleachers on the other side. The Legislature could not have intended such an illogical result. Because the bleachers belonged to Bucksport High School, I would hold that they were an appurtenance to the high school building and as such they fall within the exception to immunity pursuant to 14 M.R.S. \u00a7 8104-A(2) (2009) of the Maine Tort Claims Act (MTCA).\n[\u00b6 29] Furthermore, the visitors\u2019 bleachers were not used in connection with outdoor recreation as that term is used by the Legislature. Therefore, the bleachers do not fall under the exclusion contained in 14 M.R.S. \u00a7 8104-A(2)(A)(3), and the Town and School Department are not exempt from liability.\nI. DISCUSSION\nA. Interpretation of Appurtenance\n[\u00b6 80] The term \u201cappurtenance\u201d is not defined in the MTCA. The statute simply creates an exception to immunity when a governmental entity is negligent in the \u201cconstruction, operation or maintenance of any public building or the appurtenances to any public building.\u201d 14 M.R.S. \u00a7 8104-A(2). Because the term is not defined, we must employ principles of statutory construction in determining what constitutes an appurtenance for purposes of the MTCA.\n[\u00b6 81] \u201cThe first step in statutory interpretation requires an examination of the plain meaning of the statutory language ... in the context of the whole statutory scheme.\u201d State v. Stevens, 2007 ME 5, \u00b6 8, 912 A.2d 1229, 1233 (quotation marks omitted). Title 1 M.R.S. \u00a7 72(3) (2009) states: \u201cWords and phrases shall be construed according to the common meaning of the language. Technical words and phrases and such as have a peculiar meaning convey such technical or peculiar meaning.\u201d It is therefore appropriate to use dictionary definitions to assist in statutory construction. See State v. Spaulding, 1998 ME 29, \u00b6 7 n. 2, 707 A.2d 378, 379.\n[\u00b6 32] In Sanford v. Toum of Shapleigh, we noted the straightforward dictionary-derived meaning of appurtenance as \u201c \u2018[something that belongs or is attached to something else,\u2019 and appurtenant means being \u2018[a]nnexed to a more important thing.\u2019 \u201d 2004 ME 73, \u00b6 9, 850 A.2d 325, 328 (quoting Black\u2019s Law Dictionary 98 (7th ed.1999)). The Black\u2019s Law Dictionary definition is consistent with the definition from Webster\u2019s Dictionary: \u201cappurtenances\u201d are \u201caccessory objects used in any function.\u201d Webster\u2019s Third New International Dictionary 107(2002).\n[\u00b6 33] As the definition from Black\u2019s Law Dictionary establishes, an object may be appurtenant to a building either because it \u201cbelongs to\u201d it or because it is \u201cattached to\u201d it. The use of the disjunctive is important because this definition contemplates that something might \u201cbelong to\u201d a building even if it is not \u201cattached to\u201d it. Thus, \u201cbelonging to\u201d and \u201cbeing attached to\u201d are two distinct and different ways in which something can be considered an appurtenance.\n[\u00b6 34] The Court does not address whether the visitors\u2019 bleachers belonged to the high school. Instead, it focuses exclusively on a restriction that we created in Sanford \u2014 a restriction not found in the definition of appurtenance and directed at a concern not present here.\n[\u00b6 35] Sanford involved whether a freestanding, wheeled trash bin located in a parking lot at the Town\u2019s waste transfer station was an appurtenance under the MTCA. 2004 ME 73, \u00b6 7, 850 A.2d at 328. In that case, we considered whether the trash bin\u2019s function should control its classification as an appurtenance. We noted that although a function-based definition would be \u201csensible\u201d and \u201cpractical,\u201d we were concerned that, on the facts of that case, a function-based definition related to movable property might unduly expand governmental liability. Id. \u00b6\u00b6 8, 11, 850 A.2d at 328, 329. We held that such a movable item was not an appurtenance to a public building based on its status as \u201cpersonal properly that does not belong and is not attached to the building.\u201d Id. \u00b6 12, 850 A.2d at 329.\n[\u00b6 36] Sanford, therefore, does not govern the instant case. The visitors\u2019 bleachers are significantly different from the trash bin in Sanford. The ten-level bleachers were assembled on a metal frame that rested on the ground adjacent to the field. They could not be moved without being disassembled. They had remained in place for about six years before the accident in 2006.\n[\u00b6 37] Following the accident, the school replaced the wooden bleachers on the visitors\u2019 side with aluminum bleachers. They were similar to the wooden bleachers in that they were freestanding and not permanently attached to the ground or to cement pillars like the home bleachers. Also like the previous wooden bleachers, the aluminum bleachers could not be removed without being disassembled. The school superintendent characterized the freestanding aluminum bleachers as permanent and not meant to be moved. He also differentiated these types of bleachers from portable bleachers that the school used on their athletic fields. The portable bleachers had wheels attached and could be moved without being disassembled and reassembled.\n[\u00b6 38] Unlike these portable bleachers and unlike the trash bin in Sanford, the bleachers where the injury occurred were not portable. They were a structure that belonged to the high school building and supported the core functions of the high school. As such they were an appurtenance to the high school.\n[\u00b6 39] The case law preceding Sanford also fails to lend support to the Court\u2019s decision. In Kitchen v. City of Calais, we concluded that raised curbing in the parking area was not an appurtenance to the police station. 666 A.2d 77, 78 (Me.1995). In reaching this result, we reasoned that to conclude otherwise would render the provisions of 14 M.R.S. \u00a7 8104-A(2), (4) (2009) redundant; we did not rely upon any definition or understanding of the term appurtenance. Kitchen, 666 A.2d at 78-79. In Stretton v. City of Lewiston, we determined that an unimproved athletic field was not an appurtenance to a public building. 588 A.2d 739, 741 (Me.1991). Because, as a general rule, an appurtenance refers to an object or thing and not to land, see 23 Am.Jur.2d Deeds \u00a7\u00a7 53, 55 (2002), this case also fails to assist in interpreting the term.\n[\u00b6 40] The majority opinion also limits the definition of appurtenance by equating fixtures with appurtenances. While it is true that all fixtures are appurtenances, not all appurtenances are fixtures. A fixture is one kind of appurtenance. If the Legislature wanted to limit liability to public buildings or fixtures, it could have used the term fixture. Although the Court cites authorities that accurately define the term fixture, the MTCA uses the term appurtenance. We must not be limited by the law surrounding fixtures because to do so improperly limits the definition of an appurtenance.\n[\u00b6 41] Applying the definition of appurtenance to this case could only result in a determination that the bleachers are appurtenances to the high school.\nB. The Purpose of the MTCA\n[\u00b6 42] The Legislature enacted the MTCA to afford citizens a remedy to which they otherwise would not be entitled due to sovereign immunity. In a recent case, we recognized that the Legislature intended to create exceptions to immunity where insurance coverage is available. See Rodriguez v. Town of Moose River, 2007 ME 68, \u00b634 n. 4, 922 A.2d 484, 493. We noted:\nThe Legislature created the narrow exceptions to governmental immunity under the assumption that governmental entities would acquire insurance to cover liability for claims outside immunity protection:\n\u201cThe Legislature last January enacted the Maine Tort Claims Act, which reestablished the rule of sovereign immunity for governmental entities, but provided that commencing July 1st of this year there would be open to liability certain specific areas, particularly the areas of motor vehicle, equipment, construction and then the use and maintenance of public buildings.... The areas that we intend to open were areas where it appeared likely that an insurance program could be arranged within the reach of the pocketbooks of Maine communities and the State.... [F]or the small towns, it is vitally important that there be insurance in the areas where the town is exposed to liability.\u201d\nId. (quoting 2 Legis. Rec. 1644 (1977) (remarks of Sen. Collins)).\n[\u00b6 43] The bleachers at issue here are exactly the kind of appurtenance contemplated by the Legislature; counsel for the Town assured the Court at oral argument that in the event the Court determined that the bleachers are an appurtenance and therefore the Town is not immune, the Town would be covered by insurance. Common sense tells us that fans sitting on bleachers on the visitors\u2019 side of the field should be afforded the same protection as fans sitting on bleachers on the home side of the field.\n[\u00b6 44] Accordingly, we should interpret 14 M.R.S. \u00a7 8104-A(2) in the manner intended by the Legislature and hold that the bleachers are an appurtenance and therefore within the intended exceptions to governmental immunity.\nC. Public Outdoor Recreation\n[\u00b6 45] The MTCA creates several exclusions to the public building exception, including one which provides that a governmental entity is not liable for any claim resulting from \u201c[t]he construction, ownership, maintenance or use of ... [l]and, buildings, structures, facilities or equipment designed for use primarily by the public in connection with public outdoor recreation.\u201d 14 M.R.S. \u00a7 8104-A(2)(A)(3).\n[\u00b6 46] Attending a high school football game, as enjoyable as it may be, does not constitute outdoor recreation. The term recreation is defined as \u201cthe act of recreating or the state of being recreated: refreshment of the strength and spirits after toil: DIVERSION, PLAY.\u201d Webster\u2019s Third New International Dictionary at 1899. Applying this definition, recreation contemplates participatory activities and excludes passive ones.\n[\u00b6 47] Further support that public outdoor reaction excludes nonparticipatory activities is found in the recreational land use statute, 14 M.R.S. \u00a7 159-A (2009). That statute defines recreational activities, in relevant part, as:\n[R]ecreational activities conducted out-of-doors, including, but not limited to, hunting, fishing, trapping, camping, environmental education and research, hiking, recreational caving, sight-seeing, operating snow-traveling and all-terrain vehicles, skiing, hang-gliding, noncommercial aviation activities, dog sledding, equine activities, boating, sailing, canoeing, rafting, biking, picnicking, [or] swimming....\n14 M.R.S. \u00a7 159-A(1)(B). When interpreting a statute, \u201ca general term followed by a list of illustrations is ordinarily assumed to embrace only concepts similar to those illustrations.\u201d Francis v. Dana-Cummings, 2008 ME 184, \u00b6 15, 962 A.2d 944, 947-48 (quotation marks omitted). Section 159-A includes only active or participatory pursuits among its definition of outdoor recreation.\n[\u00b6 48] Reading section 159-A in conjunction with section 8104-A(2)(A)(3), as we must, aids in the construction of the term recreation as used in the MTCA. See Noel v. Town of Ogunquit, 555 A.2d 1054, 1056-57 (Me.1989); see also Davey v. Lincoln County, 505 A.2d 818, 821 (Me.1986) (explaining that \u201clegislation on the same subject matter must be viewed in its overall entirety in order to reach an harmonious result which we presume the Legislature intended\u201d). The recreational land use statute and the MTCA create immunity for the same type of recreational activity. See Noel, 555 A.2d at 1057. In Noel, we stated:\n[I]f the legislature had intended the recreational land use statute to apply to governmentally-owned lands, there would have been no reason for the legislature to enact section [8104-A(2)(A)(3) ] as part of the Maine Tort Claims Act to provide specific immunity to towns for their use of land for recreational purposes.\nId. at 1057. We further noted that the Legislature is \u201cpresumed to be cognizant of prior statutes dealing with the use of recreational lands and to have a consistent policy and design concerning those lands.\u201d Id. Accordingly, the recreational land use statute and the MTCA afford coextensive protection for the recreational use of lands, the former applying to private lands and the latter applying to public lands. Paying to watch a high school football game from the bleachers does not fit the definition of outdoor recreation in the MTCA.\n[\u00b6 49] For the reasons stated above, the term public outdoor recreation as used in 14 M.R.S. \u00a7 8104-A(2)(A)(3) does not include the observation of a high school football game from school-provided bleachers. The Bucksport High School visitors\u2019 bleachers are an appurtenance to the school and are not used in connection with outdoor recreational activity. Therefore, the MTCA does not provide the Bucksport School Department and the Town of Bucksport with immunity from Searle\u2019s claim. The judgment should be vacated and remanded for further proceedings.\n. The seventh edition of Black's Law Dictionary is cited, instead of the more recent ninth edition, because the seventh edition was used in Sanford, v. Town of Shapleigh, 2004 ME 73, \u00b6 9, 850 A.2d 325, 328-29.",
+        "type": "dissent",
+        "author": "JABAR, J.,"
+      }
+    ],
+    "attorneys": [
+      "Steven D. Silin, Esq., Robert H. Furbish, Esq. (orally), Berman & Simmons, Lewiston, ME, for John W. Searle.",
+      "Melissa A. Hewey, Esq., Jonathan M. Goodman, Esq. (orally), Drummond Wood-sum & MacMahon, Portland, ME, for the Town of Bucksport."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 89\nJohn W. SEARLE v. TOWN OF BUCKSPORT et al.\nSupreme Judicial Court of Maine.\nArgued: Oct. 28, 2009.\nDecided: Aug. 31, 2010.\nSteven D. Silin, Esq., Robert H. Furbish, Esq. (orally), Berman & Simmons, Lewiston, ME, for John W. Searle.\nMelissa A. Hewey, Esq., Jonathan M. Goodman, Esq. (orally), Drummond Wood-sum & MacMahon, Portland, ME, for the Town of Bucksport.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0390-01",
+  "first_page_order": 424,
+  "last_page_order": 436
+}

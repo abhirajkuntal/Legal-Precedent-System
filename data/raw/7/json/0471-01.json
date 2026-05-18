@@ -1,0 +1,517 @@
+{
+  "id": 7285732,
+  "name": "Jeffrey D. SCOTT, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Scott v. State",
+  "decision_date": "2010-10-29",
+  "docket_number": "No. 342, 2009",
+  "first_page": "471",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 471"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "84 L.Ed.2d 841",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that \"the attorney need not advance every argument, regardless of merit, urged by the appellant\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 1783",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that \"the attorney need not advance every argument, regardless of merit, urged by the appellant\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "470 U.S. 1065",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11325427,
+        11325365
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that \"the attorney need not advance every argument, regardless of merit, urged by the appellant\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/1065-02",
+        "/us/470/1065-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 387",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959535
+      ],
+      "weight": 7,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "394"
+        },
+        {
+          "page": "394"
+        },
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0387-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 745",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199647
+      ],
+      "weight": 7,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "751"
+        },
+        {
+          "page": "751"
+        },
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0745-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182222
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "299-300",
+          "parenthetical": "explaining the \"interrogation\" requirement"
+        },
+        {
+          "parenthetical": "explaining the \"interrogation\" requirement"
+        },
+        {
+          "parenthetical": "explaining the \"interrogation\" requirement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0291-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 621",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11320254
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "626-27",
+          "parenthetical": "explaining the \"custody\" requirement"
+        },
+        {
+          "parenthetical": "explaining the \"custody\" requirement"
+        },
+        {
+          "parenthetical": "explaining the \"custody\" requirement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0621-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "478-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 154",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769234
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "155-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0154-01"
+      ]
+    },
+    {
+      "cite": "580 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7368369
+      ],
+      "pin_cites": [
+        {
+          "page": "555-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/580/0552-01"
+      ]
+    },
+    {
+      "cite": "671 A.2d 1353",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872023
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1356"
+        },
+        {
+          "page": "1356"
+        },
+        {
+          "page": "1356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/671/1353-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 365",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6208511
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "382",
+          "parenthetical": "\"Strickland's standard, although by no means insurmountable, is highly demanding.\""
+        },
+        {
+          "parenthetical": "\"Strickland's standard, although by no means insurmountable, is highly demanding.\""
+        },
+        {
+          "parenthetical": "\"Strickland's standard, although by no means insurmountable, is highly demanding.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0365-01"
+      ]
+    },
+    {
+      "cite": "585 A.2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7392838
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "753"
+        },
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/585/0736-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 10,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "687",
+          "parenthetical": "establishing the two-prong test for ineffective assistance of counsel"
+        },
+        {
+          "parenthetical": "establishing the two-prong test for ineffective assistance of counsel"
+        },
+        {
+          "parenthetical": "establishing the two-prong test for ineffective assistance of counsel"
+        },
+        {
+          "page": "697"
+        },
+        {
+          "page": "689",
+          "parenthetical": "noting that \"judicial scrutiny of counsel's performance must be highly deferential\""
+        },
+        {
+          "parenthetical": "noting that \"judicial scrutiny of counsel's performance must be highly deferential\""
+        },
+        {
+          "parenthetical": "noting that \"judicial scrutiny of counsel's performance must be highly deferential\""
+        },
+        {
+          "page": "687-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8161320
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "132"
+        },
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/963/0128-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 1281",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291776
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1288"
+        },
+        {
+          "page": "1288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/990/1281-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 547",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11803152
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "551"
+        },
+        {
+          "page": "551"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0547-01"
+      ]
+    },
+    {
+      "cite": "889 A.2d 968",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8995642
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "974-75"
+        },
+        {
+          "page": "974"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/0968-01"
+      ]
+    },
+    {
+      "cite": "977 A.2d 803",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295629
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "809"
+        },
+        {
+          "page": "842"
+        },
+        {
+          "page": "843-44"
+        },
+        {
+          "page": "845-46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/977/0803-01"
+      ]
+    },
+    {
+      "cite": "2007 WL 539650",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*1-2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "919 A.2d 562",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1144,
+    "char_count": 31638,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 7.484333226789154e-08,
+      "percentile": 0.4457339018606876
+    },
+    "sha256": "fbe8bc92220c60daa260d291a429622575c309d79d5737565d49325ecbca8e2e",
+    "simhash": "1:332b43e463ef59fe",
+    "word_count": 4962
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey D. SCOTT, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "JACOBS, Justice:\nJeffrey D. Scott (\u201cScott\u201d), the defendant below, appeals from a Superior Court order denying his motion for post-conviction relief. Scott was convicted of second-degree (felony) murder as a lesser-included offense of first-degree murder, one count of possession of a deadly weapon during the commission of a felony (\u201cPDWDCF\u201d), and one count of endangering the welfare of a child. Scott claims that his trial and appellate counsel were ineffective. We disagree and affirm.\nFACTUAL AND PROCEDURAL BACKGROUND\nOn July 6, 2006, Scott and his girlfriend, Edna Crown, had an argument in their apartment concerning Edna\u2019s alleged affair with her nephew. Also present in the apartment were Edna\u2019s seventeen-year-old daughter, Doris, and Kelly Oster and Osier\u2019s two children, Ellen and Ester (ages five and three, respectively). During the argument, Scott pushed Edna down the apartment\u2019s front steps. After Edna returned to the apartment, Scott stabbed her eleven times with a kitchen knife. Edna died as a result of her injuries. Kelly and Ester Oster were also injured during the incident.\nWhen the police arrived at the crime scene, Scott admitted to the police that he had stabbed Edna. He later made a similar statement while receiving treatment at the hospital for injuries he sustained during the incident. During a subsequent police interview, Scott made additional incriminating statements, and while leaving the courthouse after a hearing, Scott also made further incriminating statements that were overheard by police officers.\nScott was charged with first-degree murder, two counts of assault in the second-degree, three counts of PDWDCF, and three counts of endangering the welfare of a child. At trial, his counsel presented a defense of extreme emotional distress, and introduced expert witness testimony in support thereof. A jury convicted Scott of second-degree murder, one count of PDWDCF, and one count of endangering the welfare of a child, but found him not guilty of the other charges. Scott directly appealed his convictions to this Court, which affirmed them.\nScott then moved the Superior Court for post-conviction relief, under Superior Court Criminal Rule 61, advancing eleven arguments as to why his trial and appellate counsel were ineffective. The Superi- or Court referred Scott\u2019s post-conviction motion to a Commissioner for proposed findings and recommendations. The Commissioner recommended, in his report, that Scott\u2019s post-conviction motion be denied as without merit and as procedurally barred. The Superior Court adopted the Commissioner\u2019s report and recommendations and denied Scott\u2019s motion for post-conviction relief. Scott then appealed to this Court.\nOn appeal, Scott raised a new ineffective assistance claim based on this Court\u2019s recent opinion in Cooke v. State. The State responded that because this claim was not raised in the trial court, the record was inadequate for appellate review. On May 4, 2010, this Court remanded Scott\u2019s appeal to the Superior Court for consideration of Scott\u2019s claim based on Cooke. On remand, the Superior Court held that Scott\u2019s Coo/ce-related claims were without merit and denied his motion. This appeal followed.\nANALYSIS\nThis Court reviews a trial court\u2019s denial of a motion for post-conviction relief based on ineffective assistance of counsel for abuse of discretion. Questions of law are reviewed de novo, while questions of fact are reviewed under a \u201cclearly erroneous\u201d standard.\nTo prevail on a claim of ineffective assistance of counsel, a defendant must show that: (1) counsel\u2019s performance was deficient, ie., that counsel\u2019s representation fell below an objective standard of reasonableness, and (2) counsel\u2019s deficient performance caused the defendant actual prejudice. Counsel\u2019s performance enjoys a strong presumption of reasonableness. To succeed on the prejudice prong, the defendant must demonstrate \u201ca reasonable probability that, but for counsel\u2019s unprofessional errors, the result of the proceeding would have been different.\u201d That test requires that the defendant make specific and concrete allegations of actual prejudice and substantiate them.\nNone of Scott\u2019s claims meets the required showing for either of the Strickland prongs. Scott makes conclusory assertions that his defense counsel acted unreasonably, but provides no support for those assertions, or explains why his counsel\u2019s performance was deficient. Nor does Scott explain how he was prejudiced by his counsel\u2019s alleged deficiencies. This Court has previously held that failure to articulate, with particularity, the nature of the claimed prejudice is fatal to a claim of ineffective assistance of counsel. Accordingly, the Superior Court properly denied Scott\u2019s motion for post-conviction relief.\nI. Scott\u2019s Ineffective Assistance of Counsel Claims\nOn appeal, Scott raises twelve claims of ineffective assistance of counsel. Each of these claims is addressed below.\nA. Scott\u2019s First Claim\nScott first claims that his trial counsel was ineffective for not objecting to the admission of Kelly and Ester Oster\u2019s medical records documenting their injuries and treatment, when neither witness testified at trial. Although the jury found Scott not guilty of the assault charges involving Kelly and Ester Oster, Scott argues that his counsel\u2019s failure to object prejudiced him, because the medical records \u201ccontradicted\u201d his defense of extreme emotional distress. That contradiction, Scott contends, caused the jury to convict him of having a reckless disregard for human life, ie., second-degree murder.\nScott\u2019s claim fails for two reasons. First, the trial court properly admitted Kelly and Ester Oster\u2019s medical records into evidence as hearsay exceptions under Delaware Uniform Rules of Evidence (\u201cDRE\u201d) 803(4) and 803(6). Therefore, Scott\u2019s counsel would not have successfully prevented the admission of these documents, regardless of whether the Osters testified. Moreover, Scott was acquitted of the two assault charges involving Kelly and Ester Oster. His second-degree murder conviction rests on a totally separate basis \u2014 the injuries he inflicted on Edna Crown, resulting in her death. Because Scott cannot show actual prejudice, the trial court did not err or abuse its discretion by denying Scott\u2019s claim.\nB. Scott\u2019s Second Claim\nNext, Scott claims that the police obtained a nighttime search warrant based on a false police affidavit, and that his counsel was ineffective for not moving to suppress the evidence seized as a result of the defective warrant. Specifically, Scott claims that the police knew that Kelly Oster did not reside at the searched apartment, even though the police affidavit stated otherwise.\nThis claim cannot succeed either. Under Franks v. Delaware, suppression is an appropriate remedy only if the false statement was included in the affidavit knowingly and intentionally or with reckless disregard for the truth, and the false statement was necessary to the finding of probable cause. Here, the Superior Court accepted the Commissioner\u2019s conclusion that the search warrant established probable cause regardless of whether Kelly Oster was a resident. Scott has not shown that the affidavit misstatement regarding Oster\u2019s residency was necessary to the finding of probable cause.\nEqually important, Scott\u2019s counsel did, in fact, move to suppress the evidence based on a lack of exigent circumstances for a nighttime search warrant. The trial court denied counsel\u2019s motion, and this Court affirmed on direct appeal. Because Scott cannot succeed on either the deficient performance or the actual prejudice component of his ineffective assistance of counsel claim, the trial court did not err or abuse its discretion by denying that claim.\nC. Scott\u2019s Third Claim\nScott next claims that his counsel was ineffective for not moving to suppress his statements to the police when they handcuffed him. He urges that the statements would have been suppressed because he was neither told that he was under arrest nor advised of his Miranda rights.\nThis claim also lacks merit. Miranda warnings are required when a defendant is subject to custodial interrogation. Scott, however, made his statements voluntarily and spontaneously as he was being taken into custody by the police. Because there was no interrogation by the police, Miranda is inapplicable. Scott\u2019s counsel, therefore, did not perform deficiently by not moving to suppress Scott\u2019s spontaneous statements, and the trial court did not err or abuse its discretion by denying Scott\u2019s third claim.\nD. Scott\u2019s Fourth Claim\nScott\u2019s fourth claim is that his counsel was ineffective for failing to insist on a voir dire examination of a juror after the juror informed the court that she was taking pain medication. Scott argues that because most prescription pain relievers contain narcotics, the juror was impaired and preoccupied with her pain during the trial and, therefore, could not be fair and impartial.\nThis claim also fails. The juror was questioned about her medical issue, and told the trial judge that it would not interfere with performing her duty as a juror. The judge, defense counsel, and counsel for the State were sufficiently satisfied to allow the juror to continue to serve. Because Scott\u2019s contention that his counsel performed deficiently or that he was actually prejudiced lacks merit, the trial court did not err or abuse its discretion by denying Scott\u2019s claim.\nE. Scott\u2019s Fifth Claim\nScott\u2019s fifth claim is that counsel\u2019s performance was ineffective for failing to move to suppress all of Scott\u2019s statements to the police on the ground that, due to his history of intoxication and drug use, he was unable to understand the Miranda warnings given to him.\nAs discussed above, Scott\u2019s statements to the police at the time of his arrest were voluntary and spontaneous, and not a result of police interrogation. Therefore, Miranda does not apply to these statements. Nor can Scott argue that, because of his prior drug and alcohol use, he was incapable of understanding the Miranda warnings given to him during a later taped interview with the police, because he did invoke his right to remain silent and the trial court granted defense counsel\u2019s motion to suppress those taped interview statements. Scott\u2019s counsel did not perform deficiently, and the trial court did not err or abuse its discretion by rejecting this claim.\nF. Scott\u2019s Sixth Claim\nScott\u2019s sixth claim is that both his trial and appellate counsel erred by failing to object to the admission of his statements to the emergency medical technician (\u201cEMT\u201d), on the ground that those statements were inadmissible hearsay.\nScott\u2019s counsel did not err, because under DRE 801(d)(2), those statements were not hearsay. Rather, they were admissions by Scott, for which reason Scott\u2019s trial and appellate counsel had no basis to object to their admission into evidence. Because Scott cannot succeed either on his claim that his counsel performed deficiently or that he suffered prejudice, the trial court did not err or abuse its discretion in rejecting that claim.\nG. Scott\u2019s Seventh Claim\nNext, Scott argues that his appellate counsel was ineffective for not appealing the trial judge\u2019s ruling that limited scope of the cross-examination of the State\u2019s psychiatric expert witness, Dr. Weiss, who testified adversely to Scott\u2019s defense of extreme emotional distress. Scott contends that his counsel should have been allowed to cross-examine Dr. Weiss about testimony Dr. Weiss gave in a previous (unrelated) Pennsylvania case. In that case, Dr. Weiss testified that an accurate psychiatric evaluation can be made only if there is a trusting relationship between the therapist and the patient. Scott argues that because he and Dr. Weiss did not have a \u201ctrusting relationship,\u201d Dr. Weiss could not have evaluated him accurately, and counsel should have been allowed to develop that fact in cross-examination.\nScott\u2019s counsel did not err by not raising this argument on appeal. In Jones v. Barnes, the United States Supreme Court held that although a defendant has the final authority to make certain fundamental decisions such as whether to plead guilty or to take an appeal, the defendant does not have a constitutional right to compel his counsel to raise issues that counsel, in exercising his own independent and professional strategic judgment, decides not to present. Scott\u2019s counsel stated in his affidavit that he \u201cdid not argue this issue because [he] did not believe that there was any chance that [this Court] would reverse based on the circumstances of the ruling.\u201d Moreover, Scott\u2019s trial counsel did, in fact, cross-examine Dr. Weiss on the underlying issue of whether an accurate evaluation required a patient to trust the psychiatrist. Dr. Weiss\u2019 response was that in Scott\u2019s case, that trust was not required.\nScott\u2019s appellate counsel did not perform deficiently by choosing not to raise this particular argument on direct appeal, nor has Scott demonstrated actual prejudice. The trial court did not err or abuse its discretion by denying Scott\u2019s claim.\nH. Scott\u2019s Eighth Claim\nScott\u2019s eighth claim is that his trial counsel was ineffective for failing to raise a hearsay objection to a police officer\u2019s testimony about statements he overheard Scott make while leaving the courthouse.\nScott\u2019s eighth claim fails for the same reason as his sixth. Under DRE 801(d)(2), Scott\u2019s statements are treated as a party admission, and are not hearsay. Because there was no basis for.raising a hearsay objection, Scott\u2019s counsel did not perform deficiently by not objecting. The trial court neither erred nor abused its discretion in denying this claim.\nI. Scott\u2019s Ninth Claim\nScott next contends that his trial counsel was ineffective for failing to object to the prosecution\u2019s closing statement in which the prosecution inappropriately bolstered its witnesses\u2019 credibility by using facts that were \u201cnot based upon evidence presented at trial.\u201d Scott also argues that his appellate counsel was ineffective for failing to raise this alleged \u201cprosecutorial misconduct\u201d on direct appeal.\nThis claim cannot succeed for two reasons. First, Scott made only general allegations of prosecutorial misconduct. Merely including excerpts of the trial transcript, without more, does not identify with particularity the specific portion(s) of the State\u2019s closing argument that allegedly contain \u201cfacts that were not based upon evidence presented at trial.\u201d That imprecision made it impossible for the trial court to assess the merits of this claim. Moreover, a review of the excerpted trial transcript discloses nothing objectionable. In the prosecution\u2019s closing argument, the prosecutor merely summarized each witness\u2019 testimony.\nEven assuming arguendo that the prosecutor\u2019s closing argument was improper, Scott has not identified any resulting prejudice that he suffered. The trial court did not err or abuse its discretion in denying this claim.\nJ. Scott\u2019s Tenth Claim\nScott\u2019s tenth claim is that his appellate counsel was ineffective by failing to raise all of the arguments Scott wished to have presented. As support, Scott makes general and conelusory allegations that his counsel did not discuss the appeal with him, but fails to identify any specific point that his counsel should have raised on appeal.\nScott\u2019s claim cannot succeed for the reasons discussed in connection with his seventh claim. Under Jones and Evitts, counsel need not advance every argument the defendant wishes to raise, regardless of merit. Scott\u2019s counsel did not act unreasonably by exercising his professional judgment in deciding what issues to raise on direct appeal. Furthermore (and contrary to Scott\u2019s assertion), Scott\u2019s counsel did, in fact, discuss with Scott the arguments that Scott wanted to have presented, and explained why he (counsel) would not make those arguments. Because Scott cannot succeed on his ineffective assistance of counsel claim, the trial court did not err or abuse its discretion in rejecting that claim.\nK. Scott\u2019s Eleventh Claim\nScott\u2019s penultimate claim is that his appellate counsel was ineffective for failing to appeal the trial court\u2019s denial of his Motion for Judgment of Acquittal. Scott contends that the State\u2019s evidence relating to Kelly and Ester Oster\u2019s injuries so overwhelmed the jury that it could not properly consider his defense of extreme emotional distress, thereby prejudicing him. Essentially, Scott argues that the trial court erred in admitting the medical and police reports relating to Kelly and Ester Oster\u2019s injuries.\nScott\u2019s claim fails for several reasons. First, as noted in our discussion of Scott\u2019s first claim, the jury acquitted Scott of both the first-degree murder charge and the two assault charges. Therefore, Scott cannot argue that he was actually prejudiced by the evidence of the Osters\u2019 injuries, because he was acquitted of those charges. Second, the evidence is sufficient to support the jury\u2019s verdict of second-degree murder. In appellate counsel\u2019s own words, the evidence \u201cuncontroverted[ly] and overwhelmingly]\u201d demonstrates that \u201cScott attacked Edna Crown and stabbed her to death.\u201d Scott cannot show that he was actually prejudiced by the admission of the evidence relating to the Osters\u2019 injuries. Third, Scott\u2019s trial counsel did, in fact, move to reduce the first-degree murder charge to second-degree murder on the basis of insufficient evidence of intent. Because his trial counsel succeeded on his motion for acquittal of first-degree murder, it is unclear what exactly Scott desired his counsel to argue on direct appeal.\nHaving been acquitted of the first-degree murder charge and two assault charges, Scott has failed to demonstrate that his appellate counsel performed defi-ciently, or that he suffered any actual prejudice from counsel\u2019s performance. The trial court did not err or abuse its discretion in denying Scott\u2019s ineffective assistance claim.\nL. Scott\u2019s Twelfth Claim\nScott\u2019s final claim is that his appellate counsel was ineffective for failing to argue on appeal that his trial counsel should have been discharged. Scott alleges that his Motion to Disqualify Counsel should have been granted, because trial counsel declined to raise arguments that he wished him to present.\nThis claim, too, must fail. As discussed in connection with Scott\u2019s seventh and tenth claims, counsel is not required to raise every issue that the defendant wishes to present, regardless of merit. Defense counsel is afforded wide latitude to make decisions concerning legal arguments and strategy. Scott was unwilling to waive his right to counsel and represent himself. Counsel\u2019s decision to omit this particular argument on direct appeal cannot give rise to an ineffective assistance claim, because Scott has not demonstrated that that decision fell below an objective standard of reasonableness. The trial court did not err or abuse its discretion in rejecting this claim.\nII. Scott\u2019s Ineffective Assistance of Counsel Claim Based on Cooke v. State\nOn this appeal, Scott has raised a new claim of ineffective counsel based on this Court\u2019s recent opinion in Cooke v. State. Scott contends that he had requested his counsel to raise the defense of not guilty by reason of insanity, but counsel did not follow his instructions. Instead, Scott asserts, counsel decided to raise the defense of extreme emotional distress, even though the record supported a claim that he suffered from mental illness.\nScott\u2019s reliance on Cooke is misguided. Cooke is inapplicable because the factual premise giving rise to counsel\u2019s infringement of constitutional rights in Cooke is absent here. Moreover, even were we to construe Cooke broadly \u2014 to hold that a defendant\u2019s Sixth and Fourteenth Amendment rights are violated whenever counsel refuses to present a defense the defendant demands \u2014 Scott has not shown that he actually demanded that his counsel present the specific defense of not guilty by reason of insanity.\nA. Cooke is Inapplicable\nFirst, Cooke is inapplicable. In Cooke, this Court held that when a defense counsel\u2019s strategy infringes a defendant\u2019s constitutional right to make fundamental decisions regarding his case such as whether to plead guilty or testify on his own behalf, that conduct undermines the proper functioning of the adversarial process under the Sixth Amendment and the Due Process Clause of the Fourteenth Amendment. In that case, Cooke\u2019s counsel pursued a \u201cguilty but mentally ill\u201d defense over Cooke\u2019s \u201cvociferous and repeated protestations that he was completely innocent and not mentally ill.\u201d Cooke\u2019s counsel also refused to allow Cooke to testify on his own behalf because counsel thought Cooke would assert his innocence, thereby undermining counsel\u2019s position that Cooke had, in fact, committed the homicide. Finally, Cooke\u2019s trial counsel had compromised the jury\u2019s impartiality by stating in them opening argument \u2014 against Cooke\u2019s wishes \u2014 that Cooke was guilty but mentally ill.\nNone of these circumstances is present here. Scott has not claimed that his counsel admitted guilt in violation of his express wishes. Scott never denied killing Edna Crown. Nor has Scott contested his counsel\u2019s statements or asserted his innocence in his pleadings. Here, in contrast to Cooke, guilt is not a contested issue. Scott has not claimed that his counsel refused to let him testify on his own behalf, or compromised the impartiality of the jury by asserting his guilt when he (Scott) maintained his innocence. Therefore, the concerns underlying the infringement and undermining of a defendant\u2019s constitutional rights in Cooke are not implicated in Scott\u2019s case.\nB. Scott Did Not Make The Requisite \u201cDemand.\u201d\nEven were we to hold that Cooke is applicable, Scott\u2019s claim cannot succeed because he did not actually demand that his counsel raise the defense of not guilty by reason of insanity. Scott\u2019s claim \u2014 that he was \u201cdeceived\u201d by his trial counsel because counsel raised the defense of extreme emotional distress rather than not guilty by reason of insanity \u2014 was not presented to the trial court in Scott\u2019s original Rule 61 motion for post-conviction relief. Nowhere does Scott\u2019s original motion make any reference to his current claim that he wanted his counsel to pursue a defense of not guilty by reason of insanity. The first mention of the insanity defense as a basis for Scott\u2019s ineffective assistance of counsel claim appears in his November 2009 Opening Brief on appeal from the trial court\u2019s denial of his motion for post-conviction relief.\nAfter the case was remanded to the trial court to consider Scott\u2019s new claim, Scott\u2019s trial counsel filed. an affidavit testifying that Scott \u201cnever demanded that we raise the defense of not guilty by reason of insanity.\u201d Scott never responded to counsel\u2019s affidavit. The trial court-considered the uncontroverted evidence actually presented, and ruled that Scott\u2019s Cooke claim was without merit.\nClearly, the trial court credited counsel\u2019s affidavit, but discredited Scott\u2019s assertions that he had previously \u201cdemanded\u201d that his counsel present a defense of not guilty by reason of insanity. Nothing in the record suggests that the trial court\u2019s factual finding was \u201cclearly erroneous.\u201d Even if we were to hold that a defendant\u2019s Sixth and Fourteenth Amendment rights are violated whenever counsel refuses to present a def\u00e9nse the defendant demands (which we do not), Scott has not shown that he actually demanded that his counsel present the specific defense of not guilty by reason of insanity. Therefore, the trial court did not err or abuse its discretion in denying Scott\u2019s claim under Cooke.\nCONCLUSION\nThe judgment of the Superior Court is affirmed.\n. Because minor victims are involved, the Court, sua sponte, has assigned pseudonyms to the parties under Del. Sup.Ct. R. 7(d).\n. A more detailed statement of the facts is set forth in this Court's opinion affirming Scott\u2019s convictions on direct appeal. Scott v. State, 919 A.2d 562 (Table), 2007 WL 539650, at *1 (Del.2007).\n. 11 Del. C. \u00a7 636.\n. 11 Del. C. \u00a7 612.\n. 11 Del. C. \u00a7 1447.\n. 11 Del. C. \u00a7 1102.\n. 11 Del. C. \u00a7 635. The second-degree murder conviction was a lesser-included offense of first-degree murder.\n. Scott presented two arguments on direct appeal: first, that there were no exigent circumstances to justify the issuance of a nighttime search warrant; and second, that the restriction on cross-examination of April Stin-son, a State witness, was an abuse of discretion. Scott v. State, 919 A.2d 562 (Table), 2007 WL 539650, at *2 (Del.2007).\n. Appellant\u2019s Motion for Post-Conviction Relief (May 17, 2007).\n. Comm'r Rep. and Recommendations at 15 (Apr. 16, 2008) (hereinafter \"Comm\u2019r Rep.\").\n. Super. Ct. Order (May 29, 2009).\n. 977 A.2d 803 (Del.2009).\n. Sup.Ct. Order (May 4, 2010).\n. Super. Ct. Rep. on Remand at \u00b6 8 (Jul. 20, 2010).\n. Capano v. State, 889 A.2d 968, 974-75 (Del.2006) (describing the standard of review for denial of post-conviction relief motion); Outten v. State, 720 A.2d 547, 551 (Del.1998) (same).\n. Capano, 889 A.2d at 974; Outten, 720 A.2d at 551.\n. Jackson v. State, 990 A.2d 1281, 1288 (Del.2009) (\"We will uphold the trial court\u2019s factual findings unless they are not supported by sufficient evidence and are clearly erroneous.\"); Ramon v. Ramon, 963 A.2d 128, 132 (Del.2008) (\"We will not disturb findings of fact unless they are clearly wrong and justice requires that those facts be overturned.\u201d).\n. Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct 2052, 80 L.Ed.2d 674 (1984) (establishing the two-prong test for ineffective assistance of counsel).\n. Flamer v. State, 585 A.2d 736, 753 (Del.1990); see also Kimmelman v. Morrison, 477 U.S. 365, 382, 106 S.Ct. 2574, 91 L.Ed.2d 305 (1986) (\"Strickland\u2019s standard, although by no means insurmountable, is highly demanding.\u201d).\n. Flamer, 585 A.2d at 753.\n. Wright v. State, 671 A.2d 1353, 1356 (Del.1996) (\"Mere allegations of ineffectiveness will not suffice. A defendant must make specific allegations of actual prejudice and substantiate them.\u201d).\n. A court deciding an ineffective assistance of counsel claim is not required to address both the performance and prejudice components of the inquiry if the defendant's showing on either prong is insufficient. Strickland, 466 U.S. at 697, 104 S.Ct. 2052.\n. See, e.g., Wright, 671 A.2d at 1356; Younger v. State, 580 A.2d 552, 555-56 (Del.1990).\n. In his brief, Scott numbered his twelve claims as \"A-L.\u201d Those letters designations correspond to the numbered designations used here.\n. Scott's \"contradiction\u201d argument is not entirely clear; a best-guess reading is that Scott believes that his counsel's failure to object to the admission of the medical records gave the jury the impression that his counsel believed that Scott was, in fact, acting recklessly and not emotionally.\n. Del. Unif. R. Evid. 803(4) (statements made for purposes of medical treatment); Del. Unif. R. Evid. 803(6) (business records exception).\n. According to Scott, the nighttime search warrant affidavit stated that there were \"exigent circumstances that Kelly Oster lived at the residence and may return to the residence to obtain items from the home.\u201d Scott has not included a copy of the affidavit in his submissions, but the search warrant does recite Kelly Oster as residing at the apartment.\n. Franks v. Delaware, 438 U.S. 154, 155-56, 98 S.Ct. 2674, 57 L.Ed.2d 667 (1978).\n. Scott v. State, 919 A.2d 562 (Table), 2007 WL 539650, at *1-2 (Del.2007).\n. Miranda v. Arizona, 384 U.S. 436, 478-79, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966); see also California v. Hodari D., 499 U.S. 621, 626-27, 111 S.Ct. 1547, 113 L.Ed.2d 690 (1991) (explaining the \"custody\u201d requirement); Rhode Island v. Innis, 446 U.S. 291, 299-300, 100 S.Ct. 1682, 64 L.Ed.2d 297 (1980) (explaining the \"interrogation\u201d requirement).\n. Scott admits that he made the statements because he \"believed [they] would save his life.\u201d\n. The juror had a tooth extracted the previous day and was taking pain medication.\n. Del. Unir R. Evid. 801(d)(2) (\"A statement is not hearsay if ... [t]he statement is offered against a party and is (A) his own statement, in either his individual or a representative capacity\u201d).\n. The Commissioner did not address this particular argument in his April 16, 2008 report. See Comm\u2019r\u2019s Rep. at 5, 12. Although the Superior Court conducted a de novo review of Scott's claims, it also did not explicidy address this argument in its order adopting the Commissioner\u2019s findings. Super. Ct. Order at \u00b6 5(a) (May 29, 2009).\n. Jones v. Barnes, 463 U.S. 745, 751, 103 S.Ct. 3308, 77 L.Ed.2d 987 (1983) (\"It is also . recognized that the accused has the ultimate authority to make certain fundamental decisions regarding the case, as to whether to plead guilty, waive a jury, testify in his or her own behalf, or take an appeal ... [but no] decision of this Court suggests, however, that the indigent defendant has a constitutional right to compel appointed counsel to press nonfrivolous points requested by the client, if counsel, as a matter of professional judgment, decides not to present those points.\u201d); see also Evitts v. Lucey, 469 U.S. 387, 394, 105 S.Ct. 830, 83 L.Ed.2d 821 (1985), reh\u2019g denied, 470 U.S. 1065, 105 S.Ct. 1783, 84 L.Ed.2d 841 (1985) (noting that \"the attorney need not advance every argument, regardless of merit, urged by the appellant\u201d).\n. Del. Unif. R. Evid. 801 (d)(2).\n. As Scott's appellate counsel testified in his affidavit, \u201cMr. Scott does not identify or describe any specific statements of the prosecutor in his closing argument so I don't know how to respond to these claims.\u201d\n. Wright v. State, 671 A.2d 1353, 1356 (Del.1996) (holding that \"mere allegations\u201d of counsel's ineffectiveness is not enough to succeed in an ineffective assistance of counsel claim; defendant must make \"specific allegations of actual prejudice and substantiate them\u201d).\n. Evitts, 469 U.S. at 394, 105 S.Ct. 830; Jones, 463 U.S. at 751, 103 S.Ct. 3308.\n. In his motion, Scott listed three reasons for disqualifying his trial counsel: (1) that counsel had only given him half of the discovery evidence, (2) that counsel was not giving him any idea of her preparation for trial; and (3) that counsel would only talk to him about the penalty phase.\n. Evitts, 469 U.S. at 394, 105 S.Ct. 830; Jones, 463 U.S. at 751, 103 S.Ct. 3308.\n. Strickland v. Washington, 466 U.S. 668, 689, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984) (noting that \"judicial scrutiny of counsel's performance must be highly deferential\u201d).\n. See id. at 687-88, 104 S.Ct. 2052 (\"When a convicted defendant complains of the ineffectiveness of counsel's assistance, the defendant must show that counsel\u2019s representation fell below an objective standard of reasonableness.\u201d).\n. 977 A.2d 803 (Del.2009).\n. Id. at 809.\n. Id. at 842.\n. Id. at 843-44.\n. Id. at 845-46.\n. Super. Ct. Rep. on Remand at \u00b6 7.\n. Id. at \u00b6 8.\n. Jackson v. State, 990 A.2d 1281, 1288 (Del.2009) (\"We will uphold the trial court's factual findings unless they are not supported by sufficient evidence and are clearly erroneous.\u201d); Ramon v. Ramon, 963 A.2d 128, 132 (Del.2008) (\u201cWe will not disturb findings of fact unless they are clearly wrong and justice requires that those facts be overturned.\u201d).",
+        "type": "majority",
+        "author": "JACOBS, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Jeffrey D. Scott, Georgetown, Delaware; pro se Appellant.",
+      "Timothy J. Donovan, Jr., Esquire, Department of Justice, Wilmington, Delaware; for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey D. SCOTT, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 342, 2009.\nSupreme Court of Delaware.\nSubmitted: Sept. 8, 2010.\nDecided: Oct. 29, 2010.\nModified: Dec. 6, 2010.\nJeffrey D. Scott, Georgetown, Delaware; pro se Appellant.\nTimothy J. Donovan, Jr., Esquire, Department of Justice, Wilmington, Delaware; for Appellee."
+  },
+  "file_name": "0471-01",
+  "first_page_order": 499,
+  "last_page_order": 511
+}

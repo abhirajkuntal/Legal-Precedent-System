@@ -1,0 +1,264 @@
+{
+  "id": 7288241,
+  "name": "Bobbi J. BALICKI, Appellee v. Jeffrey B. BALICKI, Appellant; Bobbi J. Balicki, Appellee v. Jeffrey B. Balicki, Appellant; Bobbi J. Balicki, Appellant v. Jeffrey B. Balicki, Appellee",
+  "name_abbreviation": "Balicki v. Balicki",
+  "decision_date": "2010-07-30",
+  "docket_number": "",
+  "first_page": "654",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 654"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Pa. 137",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811627
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1380-81"
+        },
+        {
+          "page": "1380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0137-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8938142
+      ],
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/880/0633-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 882",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8999449
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0882-01"
+      ]
+    },
+    {
+      "cite": "904 A.2d 15",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8468587
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/904/0015-01"
+      ]
+    },
+    {
+      "cite": "920 A.2d 1275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8327319
+      ],
+      "pin_cites": [
+        {
+          "page": "1280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/920/1275-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 249",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291530
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "256"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0249-01"
+      ]
+    },
+    {
+      "cite": "663 A.2d 169",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866530,
+        722015
+      ],
+      "weight": 2,
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/663/0169-01",
+        "/pa-super/443/0664-01"
+      ]
+    },
+    {
+      "cite": "443 Pa.Super. 664",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        722015
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/443/0664-01"
+      ]
+    },
+    {
+      "cite": "744 A.2d 778",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11491395
+      ],
+      "pin_cites": [
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/744/0778-01"
+      ]
+    },
+    {
+      "cite": "889 A.2d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8998780
+      ],
+      "pin_cites": [
+        {
+          "page": "1259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/1251-01"
+      ]
+    },
+    {
+      "cite": "857 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9181427
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "200",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/857/0194-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1234,
+    "char_count": 36855,
+    "ocr_confidence": 0.698,
+    "pagerank": {
+      "raw": 1.2951318915737422e-07,
+      "percentile": 0.6208248048438345
+    },
+    "sha256": "e7e62c35dc231edf8ddf4a033da7ec5d9cb57b5b2cd651c63045fe871c64fd39",
+    "simhash": "1:0febc3ba1626c6fc",
+    "word_count": 5990
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: ALLEN, COLVILLE, and CLELAND,* JJ."
+    ],
+    "parties": [
+      "Bobbi J. BALICKI, Appellee v. Jeffrey B. BALICKI, Appellant. Bobbi J. Balicki, Appellee v. Jeffrey B. Balicki, Appellant. Bobbi J. Balicki, Appellant v. Jeffrey B. Balicki, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nALLEN, J.:\n\u00b6 1 In these consolidated cross-appeals, Jeffrey B. Balicki (\u201cHusband\u201d) and Bobbi Balicki (\u201cWife\u201d) challenge the trial court\u2019s award of alimony to Wife and its equitable distribution of the marital estate in the divorce proceedings between the parties. We affirm.\n\u00b6 2 The trial court ably summarized the pertinent facts and procedural history as follows:\nHusband and Wife married in 1979. Two children were born of the marriage, and Wife, whose highest level of education is high school, devoted herself to caring for the children and being a homemaker. Husband is the part owner of an insurance agency as well as an attorney employed as a shareholder in a Pittsburgh law firm. The parties separated in 2005, and Wife promptly commenced this litigation by filing a complaint for spousal support. A three day complex support hearing before Hearing Officer Gary Gilman followed, during which Husband\u2019s expert witness opined that his net income was $21,000 per month. In March of 2006 Hearing Officer Gilman recommended that Husband pay Wife spousal support of $7,407 per month. Wife next filed a Complaint with counts for Divorce, Alimony Pen-dente Lite, Alimony, Equitable Distribution and Counsel Fees. By the summer of 2006 the parties\u2019 children had reached 18 and finished high school, and Wife obtained employment as an optician\u2019s assistant with gross income of $19,900 per year. The Honorable Lawrence Kaplan ordered that Special Master Patricia Miller try the economic claims, and she presided over four days of trial in October and November of 2008. Master Miller filed a Report and Recommendation a few weeks after the trial.\nMaster Miller recommended that Wife receive 65% of the marital property, alimony pendente lite of $7,407 per month until the receipt of 65% of the marital property and $5,540 of alimony per month until she reached the age 62 (she was age 51 and Husband 53 at the time of trial). Master Miller determined that the marital value of the insurance agency is $610,590, refusing Husband\u2019s request to reduce it to $469,655 for the tax consequences and expenses of selling the business (see 23 Pa.C.S.A. \u00a7 3502(10.1) and (10.2)). Master Miller recommended that Husband pay Wife $560,096 cash to achieve the 65-35 division, and that he do so in three installment payments with the final payment to be made within one year. Master Miller also determined the value of the household goods awarded to Husband to be $24,000.\nHusband filed Exceptions to Master Miller\u2019s Report and Recommendation. With Judge Kaplan\u2019s retirement, the case was transferred to the undersigned before any decision on the Exceptions was made. We granted most of Husband\u2019s Exceptions. We decreased the cash equitable distribution payment from $560,096 to $405,557 by reducing Wife\u2019s share of the marital estate from 65% to 60%, by lowering the marital value of Husband\u2019s insurance agency from $610,590 to $469,655 to account for the tax ramifications and expenses of sale, and by cutting the value of Husband\u2019s household goods from $24,000 to $8,000. We also terminated the $7,470 per month alimony pendente lite order and directed that alimony of $5,540 per month begin. However, we declined Husband\u2019s requests for additional time to make the cash equitable distribution payment to Wife and for reduction or elimination of the alimony award.\n[Wife also filed exceptions to Master Miller\u2019s Report and Recommendation. The trial court denied the exceptions.]\nTrial Court Opinion, 11/6/09, at 1-3.\n\u00b6 3 Husband filed an appeal at Docket No. 1148 WDA 2009, following the trial court\u2019s disposition of his exceptions. Because a divorce decree had not been entered, Husband filed a second appeal at Docket No. 1559 WDA 2009, following the entry of the divorce decree. Wife then filed a cross-appeal. Both the parties and the trial court have complied with Pa. R.A.P. 1925.\n\u00b6 4 Husband raises the following issues in his appeal:\nA. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW AND/OR ABUSED ITS DISCRETION IN FAILING TO REDUCE WIFE\u2019S ALLEGED REASONABLE NEEDS AS CONTAINED ON HER FIFTH BUDGET SHEET TO HER ACTUAL NEEDS AS SUPPORTED BY THE RECORD?\nB. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW AND/OR ABUSED ITS DISCRETION IN FAILING TO REDUCE THE ALIMONY AWARD AFTER SUSTAINING HUSBAND\u2019S EXCEPTIONS TO WIFE\u2019S ALLEGED REASONABLE NEEDS?\nC. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW AND/OR ABUSED ITS DISCRETION IN SUA SPONTE TAX EFFECTING THE AWARD OF ALIMONY WHERE NEITHER PARTY RAISED THE ISSUE IN EXCEPTIONS OR CROSS-EXCEPTIONS?\nD. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW AND/OR ABUSED ITS DISCRETION IN AWARDING ADMITTEDLY INFLATED ALIMONY RESULTING IN IMPOSSIBILITY OF PERFORMANCE BY HUSBAND OF HIS EQUITABLE DISTRIBUTION OBLIGATION?\nHusband\u2019s Brief at 2.\n\u00b6 5 Wife raises the following issues in her cross-appeal:\nV. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW OR ABUSED ITS DISCRETION IN DETERMINING THAT THE COST OF SALE AND TAX EFFECT SHOULD BE DEDUCTED FROM THE MARITAL INTEREST IN J.E. BAL-ICKI & ASSOCIATES, INC. CONTRARY TO THE MASTER\u2019S RECOMMENDATION.\nVI. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW OR ABUSED ITS DISCRETION IN ORDERING A 60/40 DIVISION OF THE MARTIAL ESTATE, WHERE THE MASTER RECOMMENDED THAT THE ESTATE SHOULD BE DIVIDED 65/35 IN FAVOR OF WIFE.\nVII. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW OR ABUSED ITS DISCRETION WHEN IT ORDERED THAT THE ALIMONY AWARD OF $7,470 SHOULD BE IMMEDIATELY REDUCED TO THE ALIMONY AWARD OF $5,540, RATHER THAN RETAINING THE HIGHER ALIMONY PEN-DENTE LITE AWARD AS ALIMONY UNTIL WIFE HAS RECEIVED HER ENTIRE EQUITABLE DISTRIBUTION AWARD.\nVIII. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW OR ABUSED ITS DISCRETION WHEN IT FOUND DIFFERENT FAIR MARKET VALUES FOR THE TANGIBLE PERSONALTY IN EACH PARTY\u2019S POSSESSION THAN THOSE DETERMINED BY THE MASTER.\nIX. WHETHER THE TRIAL COURT ERRED AS A MATTER OF LAW OR ABUSED ITS DISCRETION IN REQUIRING LIFE INSURANCE TO BE MAINTAINED ONLY UNTIL ALL EQUITABLE DISTRIBUTION PAYMENTS ARE MADE, RATHER THAN FOR THE DURATION OF THE ALIMONY OBLIGATION AS WELL, IN ORDER TO SECURE THE ALIMONY OBLIGATION.\nWife\u2019s Brief at 4-5.\n\u00b6 6 Because all of Husband\u2019s issues involve either the amount of Wife\u2019s reasonable needs or her alimony award, we will address them together.\n\u00b6 7 Following divorce, alimony provides a secondary remedy and is available only where economic justice and the reasonable needs of the parties cannot be achieved by way of an equitable distribution. Teodorski v. Teodorski, 857 A.2d 194, 200 (Pa.Super.2004) (citation omitted). An award of alimony should be made to either party only if the trial court finds that it is necessary to provide the receiving spouse with sufficient income to obtain the necessities of life. Stamerro v. Stamerro, 889 A.2d 1251, 1259 (Pa.Super.2005). \u201cThe purpose of alimony is not to reward one party and punish the other, but rather to ensure that the reasonable needs of the person who is unable to support herself through appropriate employment are met.\u201d Miller v. Miller, 744 A.2d 778, 788 (Pa.Super.1999) (citation omitted).\n\u00b6 8 \u201cAlimony is based upon reasonable needs in accordance with the lifestyle and standard of living established by the parties during the marriage, as well as the payor\u2019s ability to pay.\u201d Teodorski, 857 A.2d at 200 (citation omitted). An award of alimony may be reversed where there is an apparent abuse of discretion or there is insufficient evidence to support the award. Jayne v. Jayne, 443 Pa.Super. 664, 663 A.2d 169 (1995).\n\u00b69 In his first two claims, Husband asserts that, because the trial court granted his exception \u201cto Wife\u2019s claimed reasonable needs and found that the needs as stated were over-inflated,\u201d the trial court \u201cshould have reduced her claim for reasonable needs and alimony award accordingly.\u201d Husband\u2019s Brief at 6. According to Husband, \u201cWife testified at trial that she was able to pay all of her bills plus have money left over to save.\u201d Id. He therefore asserts that, because Wife\u2019s testimony provides little or no evidence to support her stated needs, the trial court awarded Wife \u201ca windfall of over $3,500 per month in alimony more than her needs support.\u201d Husband\u2019s Brief at 6.\n\u00b6 10 Although the trial court did grant Husband\u2019s exceptions to the extent that it determined Wife\u2019s needs were over-inflated, the court found that the Master\u2019s failure to consider the tax consequences of the recommended alimony award rendered any error harmless. The trial court explained its rationale as follows:\nOne of Husband\u2019s Exceptions focused on the errors the Master made in finding Wife had reasonable needs of $8,635 per month. Because Master Miller accepted items in Wife\u2019s budget that were exaggerated, we sustained this Exception. However, the Master made another error by failing to consider Wife\u2019s income tax liability arising from the alimony. The income tax error nearly offset the reasonable needs error, hence we found that error harmless and left the award of alimony at $5,540 per month.\nOn appeal, Husband argues we made an error by not reducing alimony when we found Wife\u2019s reasonable needs were exaggerated. Husband appears to argue that the income tax consequences of the alimony award are irrelevant and can be ignored. However, consideration of the income tax consequences is mandated by 23 Pa.C.S. \u00a7 3701, which provides,\n(b) Factors relevant \u2014 In determining whether alimony is necessary and in determining the nature, amount, duration and manner of payment of alimony, the court shall consider all relevant factors, including: .... (15) The Federal, State and local tax ramifications of the alimony award.\nIn addition, in Hearing Officer Gilman\u2019s March, 2006 support recommendations, he calculated Wife would incur income taxes of $25,479 per year, on $111,064 gross income per year. Master Miller, on the other hand, calculated Wife would incur income taxes of only $3,656 per year on $21,000 gross income per year. Master Miller clearly failed to consider that income taxes are due on an additional $66,480 per year ($5,540 X12), and that the amount Wife will net from the alimony is therefore significantly lower than $66,480 per year. We fail to see how Husband can argue that such tax consequences are irrelevant and can be ignored.\nMaster Miller improperly accepted two items from Wife\u2019s budget, a clothing expense of $700 per month and an IRA expense of $500 per month. Wife testified she needed to purchase clothing appropriate for work and to accommodate weight fluctuation due to depression. We find, with Wife already working for three years while receiving alimony pendente lite of $7,470 per month, $350 per month is adequate for all of her clothing needs. We find the Master sufficiently provided for Wife\u2019s retirement by awarding her $168,991 from Husband\u2019s retirement plan as well as cash from him that we adjusted to $405,557. The Master therefore should not have permitted any IRA expense. As a result, Wife\u2019s reasonable needs are adjusted downward to $7,785 ($8,635-350-500).\nA recipient of alimony must include it as income on his/her U.S. Income Tax Return. Since the Federal, Social Security and Medicare taxes to Wife when the Master attributes $21,000 annual gross income to her are $3,011 or 14%, we calculate that 14% additional tax on $66,480 will be $9,307. This methodology likely understates the tax ramifications of the alimony award as the Internal Revenue Code mandates a system of income taxation with graduated higher taxation rates for increasing incomes. We nevertheless calculate Wife\u2019s alimony net of tax ramifications will be $57,173 annually ($66,480-9307), or $4,764 monthly.\nHusband also fails to mention that we gave an additional reason for our finding of harmless error in the Master\u2019s $8,635 per month reasonable needs finding. In calculating Wife\u2019s projected income, the Master imputed to Wife \u201c4% tax free interest on the $560,096 cash award.\u201d Since we reduced the cash award to $405,557, the interest income imputed to Wife also must be reduced by over $6,000 per year (560,096-405,557 + 154,-339x4%=6,182). This amount also must be taken into consideration as an offset against the Master\u2019s over estimate of Wife\u2019s reasonable needs.\nHere is the calculation of Wife\u2019s monthly income with the adjustments from the Master\u2019s errors:\nNet from alimony (adjusted) $4,764\n4% tax free interest on 405,557 (adjusted) 1,352\nNet from employment (not adjusted) 1,445\n$7,561\nWife\u2019s net income of $7,561 and Wife\u2019s reasonable needs (also adjusted above to account for Master\u2019s errors) being $7,785, our decision not to reduce alimony indeed was appropriate.\nTrial Court Opinion, 11/6/09, at 3-6 (citations and footnote omitted).\n\u00b6 11 Upon review of the record, we discern no error of law or abuse of discretion. While within his brief Husband takes issue with specific expenses within Wife\u2019s latest budget, he provided no such specificity in his Rule 1925(b) statement of errors complained of on appeal. Thus, because the trial court did not address any of these individual expenses, Father\u2019s claims are waived. See generally Cobbs v. SEPTA, 985 A.2d 249, 256 (Pa.Super.2009). Nevertheless, the trial court\u2019s offset calculations due to the tax consequences of the alimony award and the reduced cash payment to Wife are reasonable. Moreover, as the trial court also considered the tax consequences with regard to the potential sale of Husband\u2019s business when reducing the value of that marital asset, we conclude that the trial court properly considered the tax consequences of Wife\u2019s alimony award.\n\u00b6 12 Husband next claims that the trial court committed an error of law and/or abused its discretion in sua sponte considering the tax ramifications of the alimony award when neither party raised the issue in their exceptions or cross-exceptions. We cannot agree.\n\u00b6 13 The trial court explained as follows:\nHusband\u2019s next claim on appeal is an error by us for \u201csua sponte raising the issue of the failure of the Special Master to tax effect [Wife\u2019s] alimony, where the issue was not raised by either [Wife] or [Husband] in Cross-Exceptions or Exceptions.\u201d We do agree with Husband that neither party\u2019s Exceptions specifically identified the error of failure to tax effect [Wife\u2019s] alimony. However, Husband raised many other concerns with the propriety of the Master\u2019s alimony award that necessitated review of all aspects of the award. In any event, we believe the Divorce Code imposes a duty on Pennsylvania\u2019s Judiciary to sua sponte raise issues.\n.... [I]t is the policy of the Commonwealth to:\n(6) Effectuate economic justice between parties who are divorced or separated and grant or withhold alimony according to the actual need and ability to pay of the parties and insure a fair and just determination and settlement of their property rights.\n23 Pa.C.S. \u00a7 3102(a)(6). If, under the circumstances, we ignored the tax effect of the alimony on Wife, and therefore ignored Wife\u2019s \u201cactual need,\u201d we would have been violating this declared policy of the Commonwealth of Pennsylvania. In addition, Husband cannot claim surprise since Hearing Officer Gilman considered the income tax effect of his March, 2006 alimony pendente lite award. Accordingly, there was no error made by us in the alimony award of $5,540 per month.\nTrial Court Opinion, 11/6/09, at 6 (citations omitted).\n\u00b6 14 After review of the certified record and the case law cited by Husband, we conclude that the trial court committed neither an error of law nor abused its discretion in sua sponte considering the tax ramifications of Wife\u2019s alimony award. As noted by the trial court, Husband raised multiple challenges to the trial court\u2019s alimony award. The trial court considered the merit of these claims along with, pursuant to 23 Pa.C.S.A. section 3701(b)(15), the tax ramifications of the alimony award. Although not specifically raised by either party, we agree that the Divorce Code permitted the trial court to consider these ramifications as part of its determination of the proper alimony amount.\n\u00b6 15 In his final claim on appeal, Husband asserts that the trial court committed an error of law and/or abused its discretion in awarding Wife an inflated alimony award because this obligation resulted in his inability to perform his equitable distribution obligation.\n\u00b6 16 The trial court addressed this claim as follows:\nHusband\u2019s last claim on appeal is that he is unable to pay Wife $405,557 within one year because he will not be able to borrow that much money. This claim, for several reasons, also lacks any merit. First, we reduced the amount from the $560,096 the Master recommended to $405,557. Second, although Husband claims the alimony award leaves him insufficient income to borrow, [Husband\u2019s $16,645 per month net income utilized for the alimony calculation assumes he receives no tax deduction for alimony. The Internal Revenue Code, while making the alimony received by Wife subject to income tax, also allows Husband to deduct it. Therefore, Husband will actually have more income available to him than might otherwise appear to be the case. Husband\u2019s claim concerning his income is also weakened by his demonstrated ability to accelerate the payment scheduled on the alimony pendente lite arrearages during this litigation while paying the base amount of $7,407 per month. Finally, Husband has multiple means for paying the $405,557 other than borrowing 100 percent of it. For example, Husband could sell the $470,000 marital interest in the insurance agency, pay Wife in full, still retain the nonmarital interest valued at $530,000 and incur no debt at all. Husband also could raise money by selling the marital residence for net proceeds of $232,000 and paying Wife another $174,000 by obtaining a loan. Husband also could borrow against the nonmarital portion of his 401k retirement plan, worth over $62,000, something he did in the past. Finally, Husband could also liquidate his commercial real estate, with total marital and nonmarital equity of $128,000, to help pay Wife.\nTrial Court Opinion, 11/06/09, at 6-7 (citations omitted).\n\u00b6 17 Within his brief, Husband argues that Wife\u2019s alimony award is confiscatory and, when coupled with the court-directed cash payment of her equitable distribution award, renders him unable to obtain bank financing. He then explains why several of the trial court\u2019s suggested alternatives would not be viable. Husband\u2019s claims entitle him to no relief. With the above comments, the trial court essentially concluded that it was unconvinced Husband could not meet his alimony and equitable distribution obligations. Our review of the record supports this determination.\n\u00b6 18 We now address the claims raised by Wife in her cross-appeal. A majority of the claims involve the equitable distribution awarded by the trial court. A trial court has broad discretion when fashioning an award of equitable distribution. Dalrymple v. Kilishek, 920 A.2d 1275, 1280 (Pa.Super.2007). Our standard of review when assessing the propriety of an order effectuating the equitable distribution of marital property is \u201cwhether the trial court abused its discretion by a misapplication of the law or failure to follow proper legal procedure.\u201d Smith v. Smith, 904 A.2d 15, 19 (Pa.Super.2006) (citation omitted). We do not lightly find an abuse of discretion, which requires a showing of clear and convincing evidence. Id. This Court will not find an \u201cabuse of discretion\u201d unless the law has been \u201coverridden or misapplied or the judgment exercised\u201d was \u201cmanifestly unreasonable, or the result of partiality, prejudice, bias, or ill will, as shown by the evidence in the certified record.\u201d Wang v. Feng, 888 A.2d 882, 887 (Pa.Super.2005). In determining the propriety of an equitable distribution award, courts must consider the distribution scheme as a whole. Id. \u201c[W]e measure the circumstances of the case against the objective of effectuating economic justice between the parties and achieving a just determination of their property rights.\u201d Schenk v. Schenk, 880 A.2d 633, 639 (Pa.Super.2005) (citation omitted).\n\u00b6 19 In her first claim, Wife asserts that the trial court committed an error of law or abused its discretion in considering \u201cthe costs of sale and tax effect\u201d from the value of Husband\u2019s insurance agency. According to Wife, Master Miller properly valued this asset. We cannot agree.\n\u00b620 In addressing this claim, the trial court reasoned as follows:\nEffective January 25, 2005 Pennsylvania\u2019s Divorce Code added consideration of these two factors to the equitable division of marital property:\n1. The Federal, State and local tax ramifications associated with each asset to be divided, distributed or assigned, which ramifications need not be immediate or certain.\n2. The expense of sale, transfer or liquidation associated with a particular asset, which expense need not be immediate or certain.\n23 Pa.C.S. \u00a7 3502(a)(10.1) and (10.2).\nWife and Master Miller believe the tax ramifications and expense of sale can only be considered if Husband is likely to sell the marital interest in the insurance agency. Master Miller explains:\nGiven that this has been a family business for two generations and that the parties now have adult children who might someday inherit the business as [H]usband did, the master declines to reduce the value by those hypothetical expenses and finds the marital value to be $610,490.\nMaster\u2019s Report and Recommendation, p. 8. This theory violates the clear directive from the legislature to consider the tax ramifications and expense of sale, which \u201cneed not be immediate and certain.\u201d The Source and Official Comment to 23 Pa.C.S. \u00a7 3502(a)(10.1) explain its history and leave no doubt Husband\u2019s tax ramifications are relevant, where a sale is likely or not.\nThe \u201ctax ramifications\u201d language of current subsection (a)(10) became effective in February of 1988 as a amendment to former section 401(d)(10) of the Divorce Code. In an opinion that was not handed down until May of 1988, the Supreme Court held that \u201cpotential tax liability may be considered in valuing marital assets only where a taxable event has occurred as a result of the divorce or equitable distribution of property or is certain to occur within a time frame such that the tax liability can be reasonably predicted.\u201d Hovis v. Hovis, 518 Pa. 137, 541 A.2d 1378, 1380-81 (1988). However, the Hovis court quoted the 1980 version of former section 401(d)(10) and noted that \u201c[t]he Pennsylvania statute does not list potential tax liability as a factor to be considered in making an equitable distribution award.\u201d 541 A.2d at 1380. Notwithstanding the legislative statement in the 1988 amendments, and perhaps because the Hovis opinion was handed down after the amendments had become effective (but clearly decided under pre-amendment law), lower court cases after Hovis have required tax ramifications to be immediate and certain in order for them to be considered in equitable distribution. New subsection (a) (10.1) seeks to change this interpretation by making clear that tax ramifications are relevant and need not be immediate and certain, [emphasis added]\nIt is crystal clear that the Legislature intended to stop the practice of the lower courts analyzing the prospect of sale of an asset, and Master Miller was mistaken to do so. We believe the Legislature intends the assets simply be given the value they would have at distribution after deducting every expense necessary to achieve liquidation. Since the language in the Divorce Code concerning the immediacy and certainty of the expense of sale is identical, it also is relevant.\nWife also argues, correctly, that the statute requires us only to consider the tax ramifications and expense of sale along with numerous other listed factors, but the Divorce Code does not make a deduction for them mandatory. However, when we consider the tax ramifications and expense of sale associated with the marital interest in the insurance agency, we are convinced that deducting them is the fair and just method for valuing the insurance agency. Pursuant to our Equitable Distribution Award, Wife will receive $405,557 cash, -without any tax consequences or other expense. This will be the largest asset that Wife will receive. The marital interest in the insurance agency is the largest asset Husband will receive, but it is a much different type of asset than cash. Husband cannot properly convert the marital interest in the insurance agency to cash without finding a potential purchaser, negotiating a written agreement containing the terms and conditions of the sale, consummating the sale and then paying income tax due as a result of the sale. Husband may incur expense of sale other than income tax, such as a broker\u2019s commission, finder\u2019s fee, attorney fees and accountant fees. Hence, Wife will have access at no cost to her largest asset, cash, while Husband\u2019s access to the cash value of his largest asset involves a potentially difficult and clearly costly process. Therefore, deducting the tax ramifications and expense of sale from the marital value of the insurance agency is certainly a fair way to divide this asset, and we made no error in doing so.\nTrial Court Opinion, 11/06/09, 7-10 (citations and footnote omitted).\n\u00b6 21 On appeal, Wife reiterates her claims rejected by the trial court and, in addition, claims that the trial court usurped the fact-finding function and credibility determinations of the master. We cannot agree. Our review of the certified record and the provisions of the Divorce Code referenced by the trial court clearly support its determination. Moreover, contrary to the Master\u2019s comments cited by the trial court, the record does not support the Master\u2019s conclusion that Husband would not sell the family-held insurance agency. This is especially true, given his need to pay $405,557 in cash to Wife within one year. Thus, Wife\u2019s first issue is without merit.\n\u00b6 22 In her second claim on appeal, Wife argues that the trial court erred as a matter of law or abused its discretion in ordering a 60/40 division of the marital estate, when Master Miller recommended the estate should be divided 65/35 in favor of Wife. Once again, Wife asserts that Master Miller \u201cwas the arbiter of credibility\u201d and her determination should not have been disturbed. Wife\u2019s Brief at 29. We cannot agree.\n\u00b6 23 In addressing Wife\u2019s claim, the trial court reasoned as follows:\nWife next contends we made an error by only awarding her 60 percent of the marital estate when the Master recommended 65 percent. Master Miller looked to the Divorce Code\u2019s factors to be considered in determining equitable division of marital property, and explains, \u201c[n]o factors set forth in \u00a7 3502(a) of the Divorce Code would require a division in [H]usband\u2019s favor but factors (1), (3), (5), (6) and (10) require a distribution in Wife\u2019s favor.\u201d We disagree and find that the \u201cliabilities ... of each of the parties\u201d is a factor that favors Husband. The total post-separation debt that he paid is $76,729. Of this debt, only $50,000 was split via the 60-40 distribution of the net martial estate, while Husband paid 100 percent of the $[2]6,729 balance. Wife received none of the marital debt. Husband also has a significant nonmarital liability because he is paying (or has paid) 100 percent of the college expenses of the parties\u2019 two children.\nWife\u2019s alimony pendente lite and alimony awards, although not listed as factors to be considered in 23 Pa.C.S. \u00a7 3502(a), can also be part of the analysis. Wife accumulated a nest egg that fluctuated between $70,000 and $98,000 while receiving alimony pendente lite, and she will receive alimony for another ten years. Under these circumstances, we find that a 60-40 skew of the marital estate in favor of Wife is sufficient to accomplish economic justice.\nTrial Court Opinion, 11/06/09, at 10-11 (citations omitted). Our review of the record readily supports the trial court\u2019s conclusions. Even giving the appropriate deference to any credibility determination made by Master Miller, and acknowledging that Husband\u2019s payment of college expenses is voluntary, we cannot conclude that the trial court committed an error of law or abused its discretion in slightly reducing the division of the marital estate.\n\u00b6 24 In her next claim, Wife asserts that the trial court erred as a matter of law or abused its discretion when it ordered that the alimony pendente lite award of $7,470 should be immediately reduced to the alimony award of $5,540, rather than retaining the higher alimony pendente lite award as alimony until Wife has received her entire equitable distribution award. We find no merit to this claim and adopt the following reasoning of the trial court as our own in disposing of this issue:\nWife also argues in her cross-appeal that we made an error by terminating the $7,470 per month alimony pendente lite award and commencing the $5,540 per month alimony award. Wife contends she should continue to receive $7,740 per month until Husband pays her the $405,557 cash award, as the Master recommended. Since the purpose of Wife\u2019s alimony pendente lite award is to give her equal financial resources to pursue the divorce litigation, we terminated it because our June 9, 2009 Order concluded the divorce litigation. If Husband willfully fails to pay the $405,557 cash award, he likely will have to compensate Wife for any counsel fees she incurs to enforce the Order. In any event, when Husband appealed our June 9, 2009, Order, we granted Wife\u2019s Petition to Reinstate Alimony Pendente Lite[.] As a result, Wife\u2019s alimony pen-dente lite continues, uninterrupted, at $7,470 per month during the pendency of the appeal. Hence, Wife\u2019s claim that we terminated alimony pendente lite is inaccurate and appears not ripe for appellate review.\nTrial Court Opinion, 11/6/09, at 11 (citations omitted).\n\u00b6 25 In her next issue on appeal, Wife claims that the trial court committed an error of law or abused its discretion when it found a fair market value for the tangible property each party possessed, different from that found by Master Miller. Once again, Wife argues that the trial court usurped the fact-finding function and credibility determinations of Master Miller. We cannot agree.\n\u00b6 26 In addressing this issue, the trial court reasoned as follows:\nWife additionally contends we made an error by lowering the value of Husband\u2019s household goods to $8,000 from the $24,000 value recommended by the Master. The household goods were not appraised, and Master Miller provides this analysis for her valuation of the household goods in each party\u2019s possession:\nWife opined that the household goods in her possession have a fair market value of $1,555 and the goods in [H]usband\u2019s possession have a fair market value of $24,000. Husband disputed the values of various items but did not opine as to the aggregate values of the goods in the possession of each party. He appears to take the position that it is essentially a \u201cwash\u201d and need not be considered further. However, given that the marital residence is significantly larger than Wife\u2019s residence, it is highly unlikely that the household goods in each are essentially equal in value. Given that [H]usband did not opine as to the aggregate value of household goods in the possession of each party the master accepts [WJife\u2019s testimony and values the household goods in her possession at $1,555 and the household goods in [H]usband\u2019s possession at $24,000.\nMaster\u2019s Report and Recommendation, pp. 9-10. In this analysis, Master Miller twice mentions that Husband \u201cdid not opine as to the aggregate value of the household goods in the possession of either party,\u201d and unquestionably it is the primary reason the Master simply accepted Wife\u2019s opinion. Husband did, however, give an opinion as to the value of the furnishings shown in photographs taken by Wife just before separation and additional personalty mentioned in cross examination. We think the Master should have added these values herself and not penalized Husband for not doing so. After adding them up, we find Husband valued the furnishings in his possession at $3,970, and we also find valuing them at $8,000 makes up for some of what we find are understatements of value by Husband. A secondary reason the Master accepted Wife\u2019s opinion is \u201cthat the marital residence is significantly larger than [WJife\u2019s residence.\u201d This reasoning is unacceptable because it does not account for the fact that Wife, while counsel for the parties were negotiating which household goods Wife would get from the residence, went unannounced to the marital residence with a moving van while Husband was not present and removed furnishings of her choosing. Among the furniture she removed was the newest and most valuable furniture in the home. It is clear that none of the parties\u2019 household goods were extraordinarily valuable, and that the master\u2019s $24,000 recommendation for the goods in Husband\u2019s possession was excessive.\nTrial Court Opinion, 11/06/09, 12-13 (citations and footnote omitted). Our review of the record supports the trial court\u2019s conclusions. In addition, we disagree that the trial court usurped Master Miller\u2019s credibility determinations. Rather, the trial court challenged the Master\u2019s analysis given her credibility determinations.\n\u00b6 27 In her last claim on appeal, Wife asserts that the trial court committed an error of law or abused its discretion in requiring Husband to maintain life insurance with Wife as the named beneficiary only until all equitable distribution payments are made, rather than for the ten-year duration of alimony payments. Citing Section 3502(d) of the Divorce Code, Wife argues that she \u201cwill be irreparably harmed if [Husband] dies prior to finalizing the equitable distribution scheme, or while he owes alimony to [her], unless [W]ife\u2019s interests are secured.\u201d Wife\u2019s Brief at 38. According to Wife, \u201c[g]iven the equities of this matter, the master\u2019s recommendation and the resulting trial court order should be modified to require [H]usband to maintain [W]ife as the beneficiary of his life insurance policy(ies) to the extent required to secure any outstanding interest in equitable distribution and alimony.\u201d Wife\u2019s claim is without merit. In rejecting these assertions, we adopt the trial court\u2019s rationale:\nWife\u2019s final contention in her cross-appeal is that we should have ordered Husband to maintain life insurance for the duration of the alimony award. We affirmed the Master\u2019s recommendation that Husband \u201cname [W]ife as a beneficiary of a life insurance policy in an amount equal to his unpaid equitable distribution obligation until such time as he had paid his equitable obligation in full.\u201d The Master, however, did not recommend Husband to do the same for the alimony award, and we denied Wife\u2019s exception concerning the issue. 23 Pa. C.S. \u00a7 3707 provides \u201c.... upon the death of the payor party, the obligation to pay alimony shall cease unless otherwise indicated in an agreement between the parties or an order of court.\u201d If Husband\u2019s alimony ceases at death, obviously we would not require life insurance to secure an alimony obligation that does not exist. Considering the assets [W]ife is receiving in Equitable Distribution, the Alimony Pendente Lite she is receiving and her current employment, we decline to order that alimony continue in the event of Husband\u2019s death prior to Wife reaching age 62.\nTrial Court Opinion, 11/06/09, at 13-14 (citations omitted).\n\u00b6 28 Appeal at No. 1148 WDA 2009 quashed. Decree affirmed.\n. Because no divorce decree had been filed before Husband\u2019s first appeal, it was taken from an interlocutory order. We therefore quash Husband\u2019s appeal at Docket No. 1148 WDA 2009.\n. In issues I-IV in her brief, Wife filed a counter-statement of issues raised by Husband on appeal.\n. Husband also takes issue with the formula the trial court used in performing its tax effect calculations. Once again, as this claim was not raised with specificity in Husband's Rule 1925(b) statement, the trial court did not address it in its Rule 1925(a) opinion. Thus, we will not consider the claim further. Cobbs, supra. '\n. As noted by the trial court, it found a different fair market value only for the tangible property in Husband's possession. See Trial Court Opinion, 11/06/09, at 12 n.4.",
+        "type": "majority",
+        "author": "ALLEN, J.:"
+      }
+    ],
+    "attorneys": [
+      "Lisa M. Petruzzi, Pittsburgh, for Jeffrey Balicki.",
+      "Christine Gale, Pittsburgh, for Bobbi Balicki."
+    ],
+    "corrections": "",
+    "head_matter": "Bobbi J. BALICKI, Appellee v. Jeffrey B. BALICKI, Appellant. Bobbi J. Balicki, Appellee v. Jeffrey B. Balicki, Appellant. Bobbi J. Balicki, Appellant v. Jeffrey B. Balicki, Appellee.\nSuperior Court of Pennsylvania.\nArgued April 27, 2010.\nFiled July 30, 2010.\nLisa M. Petruzzi, Pittsburgh, for Jeffrey Balicki.\nChristine Gale, Pittsburgh, for Bobbi Balicki.\nBEFORE: ALLEN, COLVILLE, and CLELAND,* JJ.\nRetired Senior Judge assigned to Superior Court."
+  },
+  "file_name": "0654-01",
+  "first_page_order": 716,
+  "last_page_order": 729
+}

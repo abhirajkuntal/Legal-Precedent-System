@@ -1,0 +1,59 @@
+{
+  "id": 7287392,
+  "name": "In re Petition of SANDS BETHWORKS GAMING LLC for Authorization to Conduct Table Games Pursuant to 4 PA.C.S. \u00a7 1312A(a). Petition of Bethworks Now LLC",
+  "name_abbreviation": "In re Petition of Sands Bethworks Gaming LLC",
+  "decision_date": "2010-07-27",
+  "docket_number": "",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 514,
+    "ocr_confidence": 0.67,
+    "sha256": "ab09ba5afff6fc948ebd491c93cc59200367a82bbd2d14583aba19f74f915355",
+    "simhash": "1:5ecf03e853c30c0c",
+    "word_count": 89
+  },
+  "last_updated": "2023-07-14T21:40:41.647294+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Petition of SANDS BETHWORKS GAMING LLC for Authorization to Conduct Table Games Pursuant to 4 PA.C.S. \u00a7 1312A(a). Petition of Bethworks Now LLC."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of July, 2010, it is ORDERED that the Motion to Transfer Matter to Another Court is granted. The Petition for Review shall be transferred to the Commonwealth Court. The Motion to Stay the Filing of Certified Record and Stay the Setting of Briefing Schedule is denied as moot.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Petition of SANDS BETHWORKS GAMING LLC for Authorization to Conduct Table Games Pursuant to 4 PA.C.S. \u00a7 1312A(a). Petition of Bethworks Now LLC.\nSupreme Court of Pennsylvania.\nJuly 27, 2010."
+  },
+  "file_name": "0469-01",
+  "first_page_order": 499,
+  "last_page_order": 499
+}

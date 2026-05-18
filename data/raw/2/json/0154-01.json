@@ -1,0 +1,588 @@
+{
+  "id": 7285257,
+  "name": "In re Henry J. USCINSKI, Respondent. A Member of the Bar of the District of Columbia Court of Appeals (Bar Registration No. 412779)",
+  "name_abbreviation": "In re Uscinski",
+  "decision_date": "2009-10-01",
+  "docket_number": "No. 03-BG-414",
+  "first_page": "154",
+  "last_page": "162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "981 A.2d 588",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a2d/981/0588-01"
+      ]
+    },
+    {
+      "cite": "570 A.2d 760",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7383098
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/570/0760-01"
+      ]
+    },
+    {
+      "cite": "697 A.2d 11",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12009054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/0011-01"
+      ]
+    },
+    {
+      "cite": "802 A.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9402560
+      ],
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/802/0341-01"
+      ]
+    },
+    {
+      "cite": "745 A.2d 257",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11474262
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/745/0257-01"
+      ]
+    },
+    {
+      "cite": "954 A.2d 986",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8179933
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "992",
+          "parenthetical": "\"pairing of reciprocal and original discipline\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/954/0986-01"
+      ]
+    },
+    {
+      "cite": "619 A.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7355395
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/619/0514-01"
+      ]
+    },
+    {
+      "cite": "944 A.2d 1109",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8388102
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1111-12"
+        },
+        {
+          "page": "1111",
+          "parenthetical": "explaining that \"if respondent ever seeks reinstatement, he will have to confront then, and the Board will have to resolve, the issue of whether his underlying conviction involved moral turpitude on its facts\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/944/1109-01"
+      ]
+    },
+    {
+      "cite": "921 A.2d 135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8318405
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "143"
+        },
+        {
+          "page": "143",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/921/0135-01"
+      ]
+    },
+    {
+      "cite": "461 A.2d 1034",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7976484
+      ],
+      "pin_cites": [
+        {
+          "page": "1036"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/461/1034-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 85",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8301816
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "87"
+        },
+        {
+          "page": "86-87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/0085-01"
+      ]
+    },
+    {
+      "cite": "953 A.2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8185850
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1019"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/953/1018-01"
+      ]
+    },
+    {
+      "cite": "521 A.2d 271",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7878542
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/521/0271-01"
+      ]
+    },
+    {
+      "cite": "565 A.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7352942
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/565/0610-01"
+      ]
+    },
+    {
+      "cite": "576 A.2d 1856",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "1357"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "526 A.2d 25",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7880710
+      ],
+      "pin_cites": [
+        {
+          "page": "25-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/526/0025-01"
+      ]
+    },
+    {
+      "cite": "711 A.2d 1262",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11833001
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/711/1262-01"
+      ]
+    },
+    {
+      "cite": "875 A.2d 636",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8971244
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "641",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/875/0636-01"
+      ]
+    },
+    {
+      "cite": "654 A.2d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7879377
+      ],
+      "pin_cites": [
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/654/1285-01"
+      ]
+    },
+    {
+      "cite": "612 A.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939161
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "835"
+        },
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/612/0832-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 60",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7353817
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/638/0060-01"
+      ]
+    },
+    {
+      "cite": "945 A.2d 1193",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8387532
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1198"
+        },
+        {
+          "page": "1198"
+        },
+        {
+          "page": "1198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/945/1193-01"
+      ]
+    },
+    {
+      "cite": "653 A.2d 854",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874878
+      ],
+      "pin_cites": [
+        {
+          "page": "855"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/653/0854-01"
+      ]
+    },
+    {
+      "cite": "650 A.2d 1329",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11345190
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/650/1329-01"
+      ]
+    },
+    {
+      "cite": "683 A.2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863807
+      ],
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/0465-01"
+      ]
+    },
+    {
+      "cite": "579 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7356987
+      ],
+      "weight": 4,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "191",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/579/0190-01"
+      ]
+    },
+    {
+      "cite": "412 A.2d 1160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7998577
+      ],
+      "pin_cites": [
+        {
+          "page": "1165"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/412/1160-01"
+      ]
+    },
+    {
+      "cite": "36 A.D.3d 308",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3833411
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "310"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "310"
+        },
+        {
+          "page": "310-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/36/0308-01"
+      ]
+    },
+    {
+      "cite": "369 F.3d 1243",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9249127
+      ],
+      "pin_cites": [
+        {
+          "page": "1246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/369/1243-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1033,
+    "char_count": 27984,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18827198033553308
+    },
+    "sha256": "1db34c5c7b98fcc08173fed6a1b07e908cc3f65cd316310fab7b6e08e9174969",
+    "simhash": "1:efe611ca79416d4b",
+    "word_count": 4317
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FISHER, BLACKBURNE-RIGSBY, and THOMPSON, Associate Judges."
+    ],
+    "parties": [
+      "In re Henry J. USCINSKI, Respondent. A Member of the Bar of the District of Columbia Court of Appeals (Bar Registration No. 412779)."
+    ],
+    "opinions": [
+      {
+        "text": "BLACKBURNE-RIGSBY, Associate Judge:\nThis case involves two parallel disciplinary proceedings \u2014 one arising as a reciprocal disciplinary matter that originated in New York and another arising as a result of respondent\u2019s criminal conviction. Henry Uscinski (\u201crespondent\u201d) challenges a report of the District of Columbia Board on Professional Responsibility (\u201cBoard\u201d) recommending greater reciprocal discipline than that imposed on respondent by the Supreme Court of the State of New York, Appellate Division, Second Judicial Department (\u201cNew York Court\u201d). With respect to respondent\u2019s reciprocal discipline matter, the Board recommends that we impose the greater reciprocal discipline of disbarment because the New York Court\u2019s imposition of a five-year suspension was a \u201csubstantially different\u201d discipline than would have been imposed in the District of Columbia for the same actions. The Board recommends that the proceedings which stem from respondent\u2019s conviction for tax evasion be dismissed as moot.\nRespondent raises three issues, contending that: (1) he did not waive his right to argue against Bar Counsel\u2019s proposed imposition of greater reciprocal discipline; (2) the Board wrongly concluded that the New York Court\u2019s determination that he \u201cimproperly transferred\u201d client funds constituted a finding of \u201cintentional misappropriation\u201d; and (3) he deserves an opportunity to address a Hearing Committee on the issue of whether his tax evasion conviction constituted a crime involving \u201cmoral turpitude.\u201d\nWe agree with respondent that the record does not support a finding of intentional misappropriation; accordingly, we decline to adopt the Board\u2019s recommendation of disbarment and instead impose discipline functionally identical to that imposed by the New York Court, namely a five-year suspension coupled with a fitness requirement. We conclude that the record before us lacks clear and convincing evidence to support the Board\u2019s finding that respondent\u2019s actions in New York of \u201cimproperly transferring\u201d client funds constitute \u201cintentional misappropriation\u201d under District of Columbia law, thereby warranting the greater sanction of disbarment. Because reinstatement in the District of Columbia is conditioned on demonstration of fitness to practice law, however, we adopt the Board\u2019s other recommendation that the proceedings stemming from respondent\u2019s criminal conviction be dismissed as moot.\nI. Factual and Procedural Background\nA. The New York Court\nRespondent is an attorney barred in New York, Connecticut, and the District of Columbia. He pled guilty to tax evasion in the United States District Court for the Northern District of Florida. United States v. Uscinski, 369 F.3d 1243, 1246 (11th Cir.2004). On August 7, 2003, the New York Court suspended respondent from the practice of law for his conviction of a serious crime.\nThe factual findings that led to respondent\u2019s suspension from the New York Bar are as follows. The New York Court\u2019s Special Referee found that respondent\u2019s client, Claude DuBoc, was indicted in 1996 in connection with an international drug trafficking and money laundering prosecution. As part of his plea agreement, Du-Boc agreed to forfeit all of his assets to the federal government. Respondent\u2019s law firm, Coudert Brothers, was retained to handle matters relative to the forfeiture of DuBoc\u2019s assets. Respondent was the partner in charge of these transactions. Legal fees owed to Coudert Brothers were to be paid from Canadian assets that had been turned over to DuBoc\u2019s criminal defense attorney, F. Lee Bailey. On May 22,1996, DuBoc executed a power of attorney enabling respondent to act on behalf of Du-Boc in all respects with his bank accounts. Between August 1,1996 and November 19, 1996, respondent used DuBoc\u2019s power of attorney to transfer more than $1,550,000.00 from DuBoc\u2019s bank account in Austria to respondent\u2019s personal, Swiss accounts. Between 1996 and 1998, respondent transferred portions of these funds to other bank accounts he controlled in Hong Kong and Thailand for his personal use. Respondent failed to report any funds he received from DuBoc on his 1996 federal tax return, which understated his income by $1,551,863.00 and his tax due by $638,698.00. In subsequent conversations with government lawyers as well as attorneys from Coudert, respondent denied that he knew anything about assets in Austria that were under DuBoc\u2019s control.\nOn December 5, 2006, at the conclusion of the disciplinary proceedings, the New York Court determined that respondent had violated New York Disciplinary Rules 1 \u2014 102(a)(3) and (4) and suspended respondent from the practice of law for five years and until further order of the court, with a requirement that he apply for reinstatement. In re Uscinski, 36 A.D.3d 308, 310, 826 N.Y.S.2d 375 (N.Y.App.Div.2006) (per curiam). The New York Court relied on the Special Referee\u2019s factual findings and assessment that respondent \u201cwillfully evaded income taxes in 1996 in an effort to hide the money he had improperly transferred, from his client ... [and that respondent had] l[ied] to the government during a January 1999 telephone conference regarding the location and purpose of the transfers.\u201d Id. (emphasis added).\nB. The District of Columbia Court of Appeals\nThis court was informed, by letter dated April 24, 2003, that respondent was convicted of income tax evasion, and pursuant to D.C. Bar Rule XI, \u00a7 10(c), we suspended respondent from the practice of law in the District. Further, this court ordered the Board to institute formal proceedings to determine what final discipline should be imposed on respondent, in light of whether or not respondent\u2019s crime involved \u201cmoral turpitude within the meaning of D.C.Code \u00a7 11-2503(a).\u201d See In re Colson, 412 A.2d 1160, 1165 (D.C.1979) (en banc) (noting that if a crime does not involve moral turpitude per se, requiring automatic disbarment, the matter should be referred to a Hearing Committee for an examination of the underlying facts). The matter never went to a Hearing Committee, however, because the Board stayed the matter several times at the request of both respondent and Bar Counsel during respondent\u2019s incarceration and during the pendency of the New York disciplinary matter.\nOn December 5, 2003, Bar Counsel filed a Specification of Charges, which alleged that respondent\u2019s conduct underlying his conviction violated Rules of Professional Conduct 8.4(b) (committed criminal acts (tax evasion and obstruction of justice) that reflect adversely on his honesty, trustworthiness, or fitness as a lawyer in other respects); 8.4(c) (engaged in conduct involving dishonesty, fraud, deceit, and/or misrepresentation); and 8.4(d) (engaged in conduct that seriously interferes with the administration of justice). In addition, Bar Counsel petitioned the Board for formal disciplinary proceedings. In response, respondent requested that the Board extend his time to file an answer until his release from custody, until the Eleventh Circuit\u2019s decision of respondent\u2019s direct appeal, or until March 1, 2004.\nThe Board agreed to give respondent an extension until March 1, 2004 to file his answer. On March 1, 2004, respondent filed a motion for an indefinite stay of the proceedings because he had been moved to a different correctional facility and, thus, was unable to communicate with his counsel. The Board then granted the motion and stayed the proceedings pending respondent\u2019s release from incarceration or notice from Bar Counsel or respondent\u2019s counsel that the conditions of respondent\u2019s incarceration had changed, permitting his assistance in the preparation of his defense. Ultimately, the Board continued the stay and ordered both Bar Counsel and respondent to notify the Board in writing within thirty days of issuance of discipline against respondent in either Connecticut or New York, stating what, if any, discipline was issued and what effect it should have on the stay in this matter.\nIn a January 31, 2007 letter, respondent informed the Board and Bar Counsel of the discipline imposed by New York, and on March 14, 2007, Bar Counsel filed with this court a certified copy of the New York Court\u2019s order suspending respondent for five years, and until further order of that court, with a requirement that he apply for reinstatement. The following day, on March 15, 2007, Bar Counsel requested that the Board continue the stay of the pending disciplinary proceeding based on respondent\u2019s conviction because the possible imposition of reciprocal discipline by this court (based on the New York Court\u2019s sanction) might obviate the need for a moral turpitude hearing on respondent\u2019s criminal conviction. On March 27, 2007, pursuant to D.C. Bar Rule XI, \u00a7 11(d), we suspended respondent from the practice of law pending final disposition of a proceeding in the District of Columbia and ordered that Bar Counsel inform the Board of its position regarding reciprocal discipline and whether such discipline should be identical, greater, or lesser.\nC. The Board\u2019s Recommendation\nThe Board makes two recommendations. First, the Board recommends that respondent be disbarred, as a \u201csubstantially different discipline,\u201d for intentional misappropriation of client funds. Second, the Board recommends that the tax evasion issue be dismissed as moot. Looking to Bar Counsel\u2019s recommendations and citing In re Addams, 579 A.2d 190, 191 (D.C. 1990) (en banc), the Board found that respondent\u2019s conduct rose to the level of intentional misappropriation, \u201cfor which the presumptive sanction ... is disbarment.\u201d Furthermore, the Board reasoned that its decision was undergirded by respondent\u2019s failure to object to Bar Counsel\u2019s recommendation of disbarment and the Addams presumption of disbarment for reckless or intentional misappropriation.\nRespondent took exception to the Board\u2019s Report and Recommendation and requested a briefing schedule from this court. Accordingly, we granted respondent until February 20, 2008 (forty days), to file a responsive brief to the Board\u2019s Report and Recommendation. Respondent moved for an extension of time, and we granted it \u2014 ordering that his brief be filed on or before April 11, 2008. On April 11, 2008, respondent filed his objections to the Board\u2019s Report and Recommendation. Bar Counsel then submitted a motion to strike because respondent had neither filed his April 11, 2008 pleading with the Board nor served a copy on Bar Counsel pursuant to D.CApp. Rule 25(b). Bar Counsel also contended that respondent\u2019s April 11, 2008 pleading failed to comply with several other provisions of the Rules of the District of Columbia Court of Appeals. We denied Bar Counsel\u2019s motion to strike.\nII. Analysis\nA.Standard of Review\nWhen we review disciplinary cases, \u201c[we defer] to the Board\u2019s recommended disposition unless the sanction is unwarranted or inconsistent with sanctions for comparable conduct.\u201d In re Drury, 683 A.2d 465, 468 (D.C.1996) (quoting In re Slosberg, 650 A.2d 1329, 1330 (D.C.1994)). When we review reciprocal discipline cases, we \u201ccan impose a greater sanction than that imposed in the other jurisdiction.\u201d Id. (quoting In re Dietz, 653 A.2d 854, 855 (D.C.1995)). Bar Counsel and the Board may rely upon the \u201csubstantially different discipline\u201d exception, D.C. Bar Rule XI \u00a7 11(c)(4), when arguing for or recommending a greater sanction. See Ditton, supra, 954 A.2d at 989 (citing In re Jacoby, 945 A.2d 1193, 1198 (D.C.2008), and In re Drury, 638 A.2d 60, 62 n. 6 (D.C.1994)). However, \u201cin a reciprocal proceeding, when a greater sanction is sought in the District of Columbia, the record must affirmatively show that a greater sanction is warranted.... \u201d Id. (quoting In re Zilberberg, 612 A.2d 832, 835 (D.C.1992)); see also Jacoby, supra, 945 A.2d at 1198; In re Goldsborough, 654 A.2d 1285, 1287 (D.C.1995) (citing Zilberberg, supra, 612 A.2d at 834).\nB. Respondent Did Not Waive His Right to Oppose Greater Reciprocal Discipline\nRespondent contends that his failure to contest Bar Counsel\u2019s proposed imposition of disbarment for misappropriation before the Board was not a waiver of his right to oppose greater reciprocal discipline. We agree.\nIn In re Demos, 875 A.2d 636 (D.C. 2005), we addressed the issue of whether a respondent waived his right to challenge the Board\u2019s recommendation of greater reciprocal discipline. There, we noted that we \u201cfound no reported case in this jurisdiction in which the failure to participate in the Board\u2019s proceedings precluded an attorney from arguing against greater discipline.\u201d Demos, 875 A.2d at 641 (emphasis in original). Accordingly, we noted our obligation to at least \u201c \u2018satisfy [ourselves] that no obvious miscarriage of justice would result\u2019 from imposing the recommended sanction.\u201d Id. (alteration in original) (quoting In re Spann, 711 A.2d 1262, 1265 (D.C.1998)). Thus, \u201cwhile respondent (or any attorney) may be barred from arguing to this court that identical reciprocal discipline should not be imposed after failing to make such an argument before the Board, we see no reason to preclude him from arguing against the imposition of greater discipline than that imposed by the original disciplining court.\u201d Id. Accordingly, where \u2014 like here \u2014 the recommended discipline is greater than that imposed by a sister court, respondent is entitled to challenge that recommendation. Id.\nC. The Board Did Not Establish by Clear And Convincing Evidence That Respondent\u2019s Conduct Constituted Intentional Misappropriation, Thus Warranting Disbarment\nRespondent challenges the Board\u2019s recommendation for a \u201csubstantially different\u201d sanction than what was imposed by the New York Court. He contends that the Board wrongly concluded that what the New York Court characterized as his \u201cimproper transfer of client funds\u201d constituted \u201cintentional misappropriation\u201d in the District of Columbia. We agree.\nBar Counsel may rely on the \u201csubstantially different discipline\u201d exception in D.C. Bar Rule XI, \u00a7 11 in urging greater reciprocal discipline. D.C. Bar Rule XI, \u00a7 11(c)(4); see Jacoby, supra, 945 A.2d at 1198; see also In re Cowry, 526 A.2d 25, 25-26 (D.C.1987). A two-step inquiry is necessary to determine if this exception applies. First, we consider whether \u201cthe misconduct in question would not have resulted in the same punishment here as it did in the disciplining jurisdiction[,]\u201d In re Garner, 576 A.2d 1856, 1357 (D.C.1990) (citing In re Hirschberg, 565 A.2d 610, 614 (D.C.1989)); and second, \u201cwhere the discipline imposed in this jurisdiction would be different from that of the disciplining court, we must then determine whether the difference is substantial.\u201d Id. (citing In re Brickle, 521 A.2d 271, 273 (D.C. 1987)). We have previously determined that there is a substantial difference between disbarment and suspension. See In re Hilson, 953 A.2d 1018, 1019 (D.C.2008) (per curiam); In re Grossman, 940 A.2d 85, 87 (D.C.2007) (per curiam).\nIf respondent\u2019s conduct were determined to constitute intentional misappropriation, the presumptive sanction in the District of Columbia would be disbarment, not suspension. See Hilson, supra, 953 A.2d at 1019 (citing Grossman, supra, 940 A.2d at 86-87) (finding disbarment appropriate for intentional misappropriation where attorney \u201cintentionally converted client funds for his own use\u201d). District of Columbia law defines misappropriation as \u201cany unauthorized use of client\u2019s funds entrusted to him [or her], including not only stealing but also unauthorized temporary use for the lawyer\u2019s own purpose, whether or not he [or she] derives any personal gain or benefit therefrom.\u201d Addams, supra, 579 A.2d at 194 n. 9 (quoting In re Harrison, 461 A.2d 1034, 1036 (D.C.1983)) (alteration in original). Where an attorney acted intentionally in misappropriating client funds, we will usually order disbarment. Id. at 196. Intentional misappropriation is such a serious offense because it compromises the integrity at the heart of the client-attorney relationship. Id. For this reason, disbarment is the presumptive sanction for intentional misappropriation. Id. at 198 (explaining that, \u201cin general, neither the usual mitigating factors, nor subsequent proper bookkeeping practices or client satisfaction can overcome the presumption that ... disbarment will be the appropriate sanction.\u201d) (internal citations omitted).\nRespondent contends that the New York Court never used the word \u201cmisappropriation\u201d in reference to his conduct vis-a-vis his client\u2019s funds. Respondent offers several other explanations he contends militate against the Board\u2019s finding that his conduct constituted intentional misappropriation: (1) that he had power of attorney to transfer those funds for payment of his services; (2) that simply because his client\u2019s Canadian account was established to pay attorney\u2019s fees, that did not preclude respondent from withdrawing funds from the Austrian account because he had been authorized by the client to do so; (3) that it was unclear at the time he transferred funds from his client\u2019s account to his own account whether those funds were the client\u2019s funds or the government\u2019s funds; and (4) that the withdrawn funds were legitimate funds that did not have to be relinquished to the government. As respondent notes, the New York Court did not characterize his conduct as \u201cmisappropriation,\u201d per se. Instead, the New York Court described respondent\u2019s conduct as the \u201cimproper transfer\u201d of client funds. Uscinski, supra, 36 A.D.3d at 310, 826 N.Y.S.2d 375. The New York Court did not, however, specify why the transfer was improper. The Board recharacterized respondent\u2019s conduct as \u201cintentional misappropriation,\u201d despite the New York Court\u2019s finding that the conduct constituted an \u201cimproper transfer,\u201d as in In re Pennington, 921 A.2d 135, 143 (D.C.2007), and asks this court to do the same. On this record, however, we cannot.\nIn Pennington, we explained that with the exception of instances of intentional misappropriation, we do not apply the \u201cpresumption\u201d of disbarment as an appropriate sanction. 921 A.2d at 141 (citing Addams, supra, 579 A.2d at 191). In Pennington, the Maryland Court of Appeals found that the respondent committed, inter alia, violations of the Maryland Rules of Professional Conduct 8.4(b) & (d)\u2014i.e., \u201cengaging] in conduct involving dishonesty, fraud, deceit or misrepresentation,\u201d and \u201cengaging] in conduct that is prejudicial to the administration of justice,\u201d respectively. Id. at 139. These violations led the Maryland court to disbar the respondent. Id. (citation omitted). The respondent\u2019s disbarment in Maryland was dictated by \u201ca presumption under Maryland law that an attorney who engages in intentional dishonesty will be disbarred.\u201d Id. at 140. We went on to agree with the Board\u2019s recommendation that the respondent\u2019s Maryland misconduct would not warrant disbarment in the District of Columbia, absent additional circumstances of aggravation that were not demonstrated. Id. Our determination was largely based on the fact that the Board recharacterized \u201cthe misconduct found by Maryland in a manner that [could not] be reconciled with Rule XI, \u00a7 11(c).\u201d Id. at 142.\nSimilarly, in this case, the Board concluded that respondent committed an \u201cintentional misappropriation\u201d of client funds based upon its recharacterization of what the New York Court described as an \u201cimproper transfer.\u201d \u201cGiven these actions, we cannot help concluding that the recommended [discipline] by the Board reflects disagreement with the very nature of the misconduct found by [New York] \u2014 a disagreement that was beyond its authority in this reciprocal matter.\u201d Pennington, supra, 921 A.2d at 143 (citation omitted).\nD. Respondent\u2019s Criminal Conviction Matter Should be Dismissed as Moot\nLastly, respondent contends that he is entitled to address the Hearing Com-mittee now on the matter of whether his criminal conviction, in the United States District Court for the Northern District of Florida, involved moral turpitude \u2014 as defined in D.C.Code \u00a7 ll-2503(a) We disagree.\nWhere we impose disbarment as reciprocal discipline, we may dismiss a criminal conviction matter as moot and forego the moral turpitude inquiry. See In re Gailliard, 944 A.2d 1109, 1111-12 (D.C.2008) (citing In re Novick, 619 A.2d 514 (D.C. 1993)) (holding that where a discipline proceeding involves both a criminal conviction and a reciprocal discipline matter, the court may impose reciprocal discipline without engaging in a moral turpitude inquiry on the criminal conviction if the resulting discipline would be the same if a moral turpitude inquiry had been conducted). Bar Counsel recommended to the Board that we adopt this approach here. The Board proceeded by recommending reciprocal discipline and dismissal of the criminal conviction matter as moot.\nHere, we do not adopt the Board\u2019s recommendation that we impose the greater reciprocal discipline of disbarment for \u201cintentional misappropriation,\u201d but instead impose discipline that is functionally identical to that imposed in New York and suspend respondent from the practice of law for five years, with his reinstatement contingent upon a showing of fitness. And because respondent\u2019s potential reinstatement in the District of Columbia is conditioned upon him demonstrating his fitness to practice law, we dismiss the proceedings stemming from respondent\u2019s criminal conviction as moot. See Gailliard, supra, 944 A.2d at 1111 (explaining that \u201cif respondent ever seeks reinstatement, he will have to confront then, and the Board will have to resolve, the issue of whether his underlying conviction involved moral turpitude on its facts\u201d).\nIII. Conclusion\nIn sum, we decline to adopt the Board\u2019s recommendation of disbarment because we agree with respondent that the record does not support a finding of intentional misappropriation. We do adopt the Board\u2019s recommendation to dismiss the proceedings stemming from respondent\u2019s criminal conviction as moot, however, because respondent\u2019s potential reinstatement in the District is conditioned upon him demonstrating his fitness to practice law. Accordingly, it is,\nORDERED that Henry J. Useinski is suspended from the practice of law in the District of Columbia for the period of five years. Reinstatement in the District of Columbia is conditioned on demonstration of fitness to practice law. The referral for a moral turpitude determination is hereby dismissed as moot.\nSo ordered.\n. See In re Ditton, 954 A.2d 986, 992 (D.C. 2008) (\"pairing of reciprocal and original discipline\u201d).\n. D.C. Bar Rule XI, \u00a7 11(c).\n. D.C.Code \u00a7 ll-2503(a); see note 9, infra.\n. The New York Court fits within the D.C. Bar XI, \u00a7 11(a)(2)(c) definition of a \"disciplining court\u201d in that it is \"[a] tribunal ... that is authorized to impose discipline effective throughout a state.\u201d\n. See note 9, infra.\n. New York Judiciary Law \u00a7 90(4)(f) states, \u201cAny attorney and counselor-at-law convicted of a serious crime, as defined in paragraph (d) of this subdivision, whether by plea of guilty or nolo contendere or from a verdict after trial or otherwise, shall be suspended upon the receipt by the appellate division of the supreme court of the record of such conviction until a final order is made pursuant to paragraph (g) of this subdivision.\u201d\nA New York Court Grievance Committee was then authorized to institute and prosecute a disciplinary proceeding against respondent, and refer the matter to a Special Referee to \u201chear and report.\u201d On June 14, 2004, respondent's disciplinary proceedings were held in abeyance pending his release from prison.\n. New York Disciplinary Rules 1 \u2014 102(a)(3) and (4), respectively, state that a lawyer shall neither engage in \"illegal conduct that adversely reflects on the lawyer\u2019s honesty, trustworthiness or fitness as a lawyer\u201d nor \"conduct involving dishonesty, fraud, deceit, or misrepresentation.\u201d These rules correspond to the District of Columbia's Rules of Professional Conduct 8.4(b) (committed criminal acts that reflect adversely on his honesty, trustworthiness, or fitness as a lawyer in other respects) and 8.4(c) (engaged in conduct involving dishonesty, fraud, deceit, and/or misrepresentation).\n. The New York Court also ordered that respondent \"(1) refrain[] from practicing or attempting to practice law, (2) fully complfy] with this opinion and order and with the terms and provisions of the written rules governing the conduct of disbarred, suspended, and resigned attorneys, (3) compl[y] with the continuing legal education requirements and (4) otherwise properly conduct)] himself.\u201d Uscinski, supra, 36 A.D.3d at 310-11, 826 N.Y.S.2d 375 (citations omitted).\n. Section 1 l-2503(a) provides that *'[w]hen a member of the bar of the District of Columbia Court of Appeals is convicted of an offense involving moral turpitude, and a certified copy of the conviction is presented to the court, the court shall, pending final determination of an appeal from the conviction, suspend the member of the bar from practice. Upon reversal of the conviction the court may vacate or modify the suspension. If a final judgment of conviction is certified to the court, the name of the member of the bar so convicted shall be struck from the roll of the members of the bar and such person shall thereafter cease to be a member. Upon the granting of a pardon to a member so convicted, the court may vacate or modify the order of disbarment.\u201d\n. The Board essentially adopted Bar Counsel's recommendations. However, it declined to adopt Bar Counsel\u2019s suggestion that respondent could also be disbarred for other reasons \u2014 i.e., breach of fiduciary duty or tax evasion.\n. The Board noted that \"Bar Counsel supports the imposition of reciprocal discipline but objects to an identical sanction, which would be a five-year suspension with the requirement to prove fitness to practice as a condition of reinstatement.\u201d\n. There is no indication in the record that respondent made these same arguments to the New York Court's Special Referee.\n. We acknowledge that we disbarred an attorney for intentional misappropriation of client funds in In re Carlson, 745 A.2d 257 (D.C.2000) (per curiam) (\u201cCarlson I\u201d) and then in a later, related case, we described the conduct that supported our \"intentional misappropriation\u201d determination in Carlson I as an \"improper transfer of [client] funds.\u201d In re Carlson, 802 A.2d 341, 349 (D.C.2002) (\u201cCarlson II \u201d). In any event, Carlson II certainly does not stand for the proposition that all improper transfers of client funds necessarily amount to intentional misappropriation.\n.In relevant part, D.C. Bar Rule XI, \u00a7 11(c) states that \"[u]nless there is a finding by the Court under [provisions of that section inapplicable here], a final determination by another disciplining court that an attorney has been guilty of professional misconduct shall conclusively establish the misconduct for the purpose of a reciprocal disciplinary proceeding in this Court.\u201d\n. In the alternative, Bar Counsel\u2014citing In re Casalino, 697 A.2d 11 (D.C.1997) and In re Shorter, 570 A.2d 760 (D.C. 1990) (per curiam)\u2014recommends disbarment for respondent's tax evasion conviction.\n. We direct respondent's attention to the requirements of D.C. Bar R. XI, \u00a7 14(g), and their effect on his eligibility for reinstatement.",
+        "type": "majority",
+        "author": "BLACKBURNE-RIGSBY, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "William R. Ross, Assistant Bar Counsel, with whom Wallace E. Shipp, Jr., Bar Counsel, and Judith Hetherton, Senior Assistant Bar Counsel, were on the brief, for the Office of Bar Counsel.",
+      "Henry J. Uscinski, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "In re Henry J. USCINSKI, Respondent. A Member of the Bar of the District of Columbia Court of Appeals (Bar Registration No. 412779).\nNo. 03-BG-414.\nDistrict of Columbia Court of Appeals.\nArgued March 31, 2009.\nDecided Oct. 1, 2009.\nAmended Aug. 12, 2010.\nWilliam R. Ross, Assistant Bar Counsel, with whom Wallace E. Shipp, Jr., Bar Counsel, and Judith Hetherton, Senior Assistant Bar Counsel, were on the brief, for the Office of Bar Counsel.\nHenry J. Uscinski, pro se.\nBefore FISHER, BLACKBURNE-RIGSBY, and THOMPSON, Associate Judges.\nWe issue this amended opinion to correct and clarify certain aspects of our initial opinion, see In re Uscinski, 981 A.2d 588 (D.C.2009), which we hereby vacate."
+  },
+  "file_name": "0154-01",
+  "first_page_order": 184,
+  "last_page_order": 192
+}

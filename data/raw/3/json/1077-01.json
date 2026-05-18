@@ -1,0 +1,200 @@
+{
+  "id": 7290206,
+  "name": "Andre K. BLAKE, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Blake v. State",
+  "decision_date": "2010-07-22",
+  "docket_number": "No. 206, 2009",
+  "first_page": "1077",
+  "last_page": "1083",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 1077"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "417 A.2d 373",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7947148
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/417/0373-01"
+      ]
+    },
+    {
+      "cite": "1995 WL 67104",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 A.3d 1084",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290241
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/3/1084-01"
+      ]
+    },
+    {
+      "cite": "3 A.3d 1070",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290181
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/3/1070-01"
+      ]
+    },
+    {
+      "cite": "587 A.2d 439",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11940545
+      ],
+      "weight": 5,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "443",
+          "parenthetical": "\"[A] witness' statement may be introduced only if ... the witness testifies about both the events and whether or not they are true.\""
+        },
+        {
+          "page": "443"
+        },
+        {
+          "page": "444"
+        },
+        {
+          "page": "443"
+        },
+        {
+          "page": "443",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/587/0439-01"
+      ]
+    },
+    {
+      "cite": "338 A.2d 124",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8050512
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "127"
+        },
+        {
+          "page": "127"
+        },
+        {
+          "page": "127"
+        },
+        {
+          "page": "128",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/338/0124-01"
+      ]
+    },
+    {
+      "cite": "337 A.2d 18",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8049212
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/337/0018-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 739,
+    "char_count": 17422,
+    "ocr_confidence": 0.692,
+    "pagerank": {
+      "raw": 1.1700857863415985e-07,
+      "percentile": 0.5861689233619412
+    },
+    "sha256": "28678af045f68137322a47a49b71c40b004dd3e0c3d8abf57a5e8f5e6a0d24d4",
+    "simhash": "1:b8a7791ae3c5323a",
+    "word_count": 2767
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+    ],
+    "parties": [
+      "Andre K. BLAKE, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HOLLAND, Justice:\nThe defendant-appellant, Andre Blake (\u201cBlake\u201d), was arrested and subsequently charged with Murder in the First Degree, Attempted Murder in the First Degree, Possession of a Firearm by a Person Prohibited, eight counts of First Degree Reckless Endangerment, and ten counts of Possession of a Deadly Weapon During the Commission of a Felony. After a ten-day jury trial held in January 2009, Blake was convicted of all charges. Blake was subsequently sentenced to life imprisonment for the conviction of Murder in the First Degree and to various periods of incarceration for the other convictions.\nThis appeal is part of a trilogy of cases that were consolidated for oral argument en Banc because they all involved recurring problems with regard to the admission of evidence under title 11, section 3507 of the Delaware Code. The first issue in Blake\u2019s appeal relates to the proper foundational requirements that must be established before the prior statement of a witness can be admitted into evidence under section 3507, and how those requirements relate to the Sixth Amendment. The second issue relates to the proper redaction of third-party statements from a witness interview or interrogation before it can be admitted into evidence under section 3507. The first issue was examined in our decision issued today in Woodlin v. State, and the second was addressed in our decision issued today in Stevens v. State.\nIn Blake\u2019s appeal we hold that the Superior Court committed reversible error by admitting the prior statements of five witnesses into evidence under section 3507, because the proper foundational requirements were not established. Since this matter will be remanded for a new trial, we do not decide whether the comments of third parties were properly redacted from those five otherwise inadmissible statements. Those redaction issues should be addressed upon remand in accordance with our opinion issued today in Stevens.\nFacts\nA series of fights occurred between numerous females on the evening of August 31, 2007, and into the early morning hours of September 1, in the vicinity of 23 N. New Street in Dover, Delaware. The combatants included Sareatha Majors (\u201cMajors\u201d); Stephanie Fisher (\u201cFisher\u201d) and several other persons. One of the alleged instigators of the fights, who denied being a participant, was Renee Land (\u201cLand\u201d).\nAt approximately 12:45 a.m. on September 1, Dover Police Officer Jeff Matthews (\u201cOfficer Matthews\u201d) followed four motor vehicles that were, apparently, \u201ctraveling with a purpose\u201d to N. New Street. The lead vehicle was a Ford Expedition driven by Jacqueline Douglas, a/k/a Jackie Rid-dick. The other passengers in the vehicle were Kimberly Riddick (right front seat), Kenneth Riddick (left middle seat), Donta Durham (\u201cDurham\u201d) (right middle seat) and Tymir Riddick and Kiyersha Riddick, both third row passengers. Land flagged down Jackie Riddick, who stopped the Ford in the vicinity of a vacant lot. Land walked up to the Ford and began speaking with one or more of the occupants.\nShortly thereafter, a series of gunshots were discharged from the vacant lot. One bullet was found inside the Ford Expedition after it shattered that vehicle\u2019s window. Kenneth Riddick was shot by another bullet. Jackie Riddick drove Kenneth to Kent General Hospital where he was pronounced dead at 1:18 a.m.\nAt approximately 7:45 a.m. on September 1, the Dover Police returned to the scene and found four spent shell casings in the vacant lot at 21 N. New Street. The police also located a 9mm Ruger semiautomatic pistol that was partially protruding from underneath a trash can located at the rear of 23 N. New Street. No fingerprints were recovered from the Ruger. Dover Police Detective Marc Gray (\u201cDetective Gray\u201d) testified that he did not even attempt to obtain fingerprints from the shell casings or the bullets. Similarly, Detective Gray did not attempt to recover fingerprints from live rounds of ammunition that were found at the scene. Ballistics tests indicated the bullet recovered from the body of Kenneth Riddick during the autopsy, as well as the four shell casings and bullets, were all fired from the Ruger located under the trash can.\nThe Dover Police interviewed, and recorded the statements of, Land, Majors, Alexis Tilghman (\u201cTilghman\u201d), Leia Tolson (\u201cTolson\u201d) and Fisher. The State introduced all five of the witnesses\u2019 out-of-court statements from their recorded interviews with the police, pursuant to title 11, section 3507 of the Delaware Code. Each of those out-of-court statements implicated Blake as the shooter. The jury was shown videotapes of the interrogations between the police and each of the five witnesses. The State presented no physical evidence that connected Blake to the shooting.\nBlake was charged with Attempted Murder in the First Degree of Land, and with First Degree Murder of Kenneth Riddick, under a theory of Transferred Intent. Blake was also charged with eight counts of Reckless Endangering in the First Degree (one count for each person in the Ford Expedition: Jackie Riddick, Kimberly Riddick, Durham, Tymir Riddick and Kiyersha Riddick; one count for John Wyatte who was standing near the Ford; plus two counts for the people sleeping across the street, Shirley Heath and Shawn Heath). Blake was also charged with ten counts of Possession of a Firearm During the Commission of a Felony. He was convicted by the jury on all counts.\nInadequate Section 3507 Foundation\nTitle 11, section 3507 of the Delaware Code provides:\n(a) In a criminal prosecution, the voluntary out-of-court prior statement of a \u25a0witness who is present and subject to cross-examination may be used as affirmative evidence with substantive independent testimonial value.\n(b) The rule in subsection (a) of this section shall apply regardless of whether the witness\u2019 in-court testimony is consistent with the prior statement or not. The rule shall likewise apply -with or without a showing of surprise by the introducing party.\n(c) This section shall not be construed to affect the rules concerning the admission of statements of defendants or of those who are codefendants in the same trial. This section shall also not apply to the statements of those whom to cross-examine would be to subject to possible self-incrimination.\nToday\u2019s opinion by this Court in Woodlin sets forth a comprehensive review and analysis of . the section 3507 foundational requirements that must be established by the State during the direct examination of a witness, as a condition precedent to admissibility of the witness\u2019 prior statement. The foundational requirements applicable to Blake\u2019s appeal were summarized by this Court two decades ago in Ray v. State:\nIn Keys v. State, 337 A.2d 18, 20 n. 1 (Del.1975), this Court stated that: \u201cIn order to offer the out-of-court statement of a witness, the statute requires the direct examination of the declarant by the party offering the statement, as to both the events perceived or heard and the out-of-court statement itself.\u201d Thus, a witness\u2019 statement may be introduced only if the two-part foundation is first established: the witness testifies about both the events and whether or not they are true. Finally, in order to conform to the Sixth Amendment\u2019s guarantee of an accused\u2019s right to confront witnesses against him, the victim must also be subject to cross-examination on the content of the statement as well as its truthfulness. Johnson v. State, 338 A.2d 124, 127 (Del.1975).\nThe trial judge permitted the State to introduce into evidence the out-of-court statements of Land, Majors, Tilghman, Tolson and Fisher from their video and audio taped interviews with police. Each of those prior statements implicated Blake in the crimes and was introduced by the State under section 3507. The extent of the State\u2019s direct examination of each of the five witnesses was laconic. The State\u2019s direct examination of Tolson is illustrative:\nQ: Your name is Leia Tolson?\nA: Yes.\nQ. And how old are you?\nA: I\u2019m 19.\nQ: And what town and state do you live in?\nA. Magnolia, Delaware.\nQ: You recall the alleged events that occurred on or about September 1, 2007 in the vicinity of North New Street, Dover, Delaware?\nA: Yes.\nQ: You spoke to the Dover Police Department about that?\nA: Yes.\nQ: You did so voluntarily?\nA: Yes.\nThe State\u2019s direct examination of Tilghman and Fisher was similar.\nA two-part foundation must be established by the State during its direct examination before a witness\u2019 prior statement can be admitted under section 3507. First, the witness must testify about the events. Second, the witness must indicate whether or not the events are true.\nBlake argues that the trial court abused its discretion by allowing the recorded police interviews of Land, Majors, Tilghman, Tolson and Fisher to be presented to the jury, pursuant to section 3507, without a proper foundation. In this appeal, a supplemental filing by the State concedes:, \u201cWith respect to Tilghman, Tolson and Fisher, the State agrees with Blake that the direct examination of each witness was insufficient to meet the foundational requirements of title 11, section 3507.\u201d We commend the State for its professionalism and candor in confessing error with regard to the inadmissibility of those three witnesses\u2019 prior statements.\nThe State acknowledges that none of the five section 3507 witnesses was asked, on direct examination, whether or not the statements they made to police were truthful. The State also acknowledges that this Court, in Ray v. State, held that such a question was foundational. Nevertheless, the State argues that the prior statements of Land and Majors did touch upon the events and, therefore, were properly admitted into evidence \u201cabsent their specific testimony that their prior statements were truthful or false.\u201d\nThe State contends that certain of this Court\u2019s decisions after Ray \u201chave caused some confusion as to the necessity of asking the truthfulness question on direct examination in every instance.\u201d As an example, the State notes that this Court has, since Ray, also held that \u201cthere is no requirement that the witness either affirm the truthfulness of the out-of-court statement, or offer consistent trial testimony.\u201d As a result, the State submits, there appears to be some inconsistency in the trial court decisions regarding the truthfulness aspect of section 8507 practice. In support of that assertion, the State summarized the trial judge\u2019s ruling in Blake\u2019s case as follows:\nAfter the State finished its direct examination on voir dire, Blake argued that the State, under Ray and Acosta [v. State ], was required to ask Land whether her statement was truthful. The Superior Court, recognizing that the statement could be played for the jury whether Land said that her prior statements were truthful or not, ruled that the statement could be played for the jury without such an inquiry.\nThat ruling is contrary to this Court\u2019s holdings in both Ray v. State and Moore v. State.\nAfter Ray and Moore were decided, there was no reason for confusion, because our holding in Moore was completely consistent with Ray, where we construed Johnson v. State as standing for the proposition that the witness must testify\nabout \u201cwhether or not\u201d the prior statement is true. In Johnson we specifically recognized that the drafters of section 3507 \u201cexpressly contemplated that the in-court testimony [of a witness] might be inconsistent with the prior out-of-court statement. One of the problems to which [section 3507] is obviously directed is the turncoat witness....\u201d Accordingly, our 1995 decision in Moore clearly explained, \u201c[ujnder section 3507, there is no requirement that the witness either affirm the truthfulness of the out-of-court statement, or offer consistent trial testimony.\u201d Moreover, the foregoing sentence that is quoted from Moore is followed by \u201cSee Ray v. State, Del.Supr., 587 A.2d 439, 443 (1991) (\u201c[A] witness\u2019 statement may be introduced only if ... the witness testifies about both the events and whether or not they are true.\u201d).\u201d\nSixth Amendment Considerations\nThe foundational requirement that the witness indicate whether or not the prior statement is true is one reason why the substantive operation of section 3507 does not violate the Sixth Amendment. In Ray, we held that the declarant must testify about whether or not the prior statement is truthful because, as Johnson recognized, cross-examination plays an essential role in an accused\u2019s Sixth Amendment right to confront the witness against him. Therefore, in Johnson we held that the jury or trier of fact must assess the declarant\u2019s credibility on the witness stand \u201cin the light of all the circumstances presented, including any claim by the witness denying the prior statement, or denying memory of the prior statement or operating events, or changing his [or her] report of the facts.\u201d In Johnson, we adopted \u2014 and have since followed \u2014 a case-by-case approach in determining whether a prior statement has been admitted into evidence under section 3507 in violation of an accused\u2019s Sixth Amendment right to confrontation.\nThe Sixth Amendment requires an entirely proper foundation, if the prior statement of a witness is to be admitted under section 3507 as independent substantive evidence against an accused. This Court has consistently and unequivocally held \u201ca witness\u2019 statement may be introduced only if the two-part foundation is first established: the witness testifies about both the events and whether or not they are true.\u201d Accordingly, in Ray we held that \u201cin order to conform to the Sixth Amendment\u2019s guarantee of an accused\u2019s right to confront witnesses against him, the [witness] must also be subject to cross-examination on the content of the statement as well as its truthfulness.\u201d\nIn Blake\u2019s case, the State concedes that none of the five 3507 witnesses was asked whether or not their prior statements were true. Therefore, the trial judge erroneously permitted the State to rely upon section 3507 to introduce the prior out-of-court statements from five crucial witnesses even though the State did not lay the proper foundation. The erroneous admission of the five witnesses\u2019 statements under section 3507 without a proper foundation requires Blake\u2019s convictions to be reversed unless those errors were harmless.\nNo Harmless Error\nDuring oral argument before a panel of this Court, the State acknowledged that the prior statements of three witnesses were erroneously admitted under section 3507. Prior to oral argument en Banc, we directed the parties to file supplemental memoranda on the issue of harmless error. The State argued that admittedly erroneous admission of three prior statements was harmless because the other two statements were properly admitted. In this opinion we have determined that the prior statements of all five witnesses were inadmissible under section 3507.\nThe State offered no physical evidence connecting Blake to the charged crimes. The only evidence that linked Blake to the shooting was presented by the prior statements of five witnesses that were all erroneously admitted under section 3507. In fact, the trial judge noted that the only evidence that \u201cputs the gun in Blake\u2019s hand\u201d came from three of those prior statements. Accordingly, the record reflects that the erroneous admission of the five witnesses\u2019 statements under section 3507 without a proper foundation was not harmless beyond a reasonable doubt.\nConclusion\nThe judgments of the Superior Court are reversed. This matter is remanded for further proceedings in accordance with this opinion.\n. See Stevens v. State, 3 A.3d 1070 (Del.2010); Woodlin v. State, 3 A.3d 1084 (Del.2010).\n. This factual recitation is taken primarily from the appellant\u2019s opening brief.\n. The Dover Police also interviewed Donta Durham, Jackie Riddick and Kimberly Rid-dick. None of those three individuals could identify the person who fired the shots.\n. Del.Code Ann. tit. 11, \u00a7 3507 (2007).\n. Ray v. State, 587 A.2d 439, 443 (Del.1991) (emphasis added).\n. Ray v. State, 587 A.2d at 444. See Keys v. State, 337 A.2d 18, 24 (Del.1975) (holding State required to question witness on direct examination regarding events perceived and out-of-court statement made before out-of-court statement could be admitted as affirmative evidence.).\n. We need not decide if those prior statements did touch upon the events because the absence of the second foundational requirement is case dispositive.\n. Moore v. State, 1995 WL 67104, at *2 (Del. Feb. 17, 1995).\n. Acosta v. State, 417 A.2d 373 (Del.1980).\n. Johnson v. State, 338 A.2d 124 (Del.1975).\n. Id. at 127.\n. Moore v. State, 1995 WL 67104, at *2 (emphasis added).\n. Ray v. State, 587 A.2d 439, 443 (Del.1991); Johnson v. State, 338 A.2d 124, 127 (Del.1975).\n. Johnson v. State, 338 A.2d at 128 (citations omitted).\n. Ray v. State, 587 A.2d at 443 (emphasis added).\n.Id.",
+        "type": "majority",
+        "author": "HOLLAND, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Santino Ceccotti, Esquire, Office of the Public Defender, Wilmington, Delaware, for appellant.",
+      "Paul R. Wallace, Esquire (argued), and James T. Wakley, Esquire, Department of Justice, Wilmington, Delaware, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Andre K. BLAKE, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 206, 2009.\nSupreme Court of Delaware.\nSubmitted: June 2, 2010.\nDecided: July 22, 2010.\nSantino Ceccotti, Esquire, Office of the Public Defender, Wilmington, Delaware, for appellant.\nPaul R. Wallace, Esquire (argued), and James T. Wakley, Esquire, Department of Justice, Wilmington, Delaware, for appel-lee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+  },
+  "file_name": "1077-01",
+  "first_page_order": 1111,
+  "last_page_order": 1117
+}

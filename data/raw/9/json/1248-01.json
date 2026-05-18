@@ -1,0 +1,462 @@
+{
+  "id": 7288679,
+  "name": "STATE v. Parrish CHASE",
+  "name_abbreviation": "State v. Chase",
+  "decision_date": "2010-12-16",
+  "docket_number": "No. 2009-52-C.A.",
+  "first_page": "1248",
+  "last_page": "1256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 1248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "968 A.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7332573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/0276-01"
+      ]
+    },
+    {
+      "cite": "996 A.2d 667",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289906
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/996/0667-01"
+      ]
+    },
+    {
+      "cite": "966 A.2d 654",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8161968
+      ],
+      "pin_cites": [
+        {
+          "page": "664-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0654-01"
+      ]
+    },
+    {
+      "cite": "788 A.2d 1129",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9403886
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/788/1129-01"
+      ]
+    },
+    {
+      "cite": "714 A.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11714044
+      ],
+      "pin_cites": [
+        {
+          "page": "611"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/714/0610-01"
+      ]
+    },
+    {
+      "cite": "984 A.2d 650",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292929
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/0650-01"
+      ]
+    },
+    {
+      "cite": "699 A.2d 14",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11903590
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "16"
+        },
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/699/0014-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 1284",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9174604
+      ],
+      "pin_cites": [
+        {
+          "page": "1288-89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/1284-01"
+      ]
+    },
+    {
+      "cite": "694 A.2d 748",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11982276
+      ],
+      "pin_cites": [
+        {
+          "page": "749"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/694/0748-01"
+      ]
+    },
+    {
+      "cite": "736 A.2d 93",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11572688
+      ],
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/0093-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 405",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12047022
+      ],
+      "pin_cites": [
+        {
+          "page": "406"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0405-01"
+      ]
+    },
+    {
+      "cite": "755 A.2d 124",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11200616
+      ],
+      "pin_cites": [
+        {
+          "page": "125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/755/0124-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11467565
+      ],
+      "pin_cites": [
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0135-01"
+      ]
+    },
+    {
+      "cite": "771 A.2d 906",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11103317
+      ],
+      "pin_cites": [
+        {
+          "page": "908"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/771/0906-01"
+      ]
+    },
+    {
+      "cite": "667 A.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7867284
+      ],
+      "pin_cites": [
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/667/0791-01"
+      ]
+    },
+    {
+      "cite": "774 A.2d 38",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11086294
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/774/0038-01"
+      ]
+    },
+    {
+      "cite": "876 A.2d 1109",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8969101
+      ],
+      "pin_cites": [
+        {
+          "page": "1112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/876/1109-01"
+      ]
+    },
+    {
+      "cite": "958 A.2d 1159",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8207259
+      ],
+      "pin_cites": [
+        {
+          "page": "1161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/1159-01"
+      ]
+    },
+    {
+      "cite": "898 A.2d 69",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8416224
+      ],
+      "pin_cites": [
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/898/0069-01"
+      ]
+    },
+    {
+      "cite": "389 U.S. 128",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11335632
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0128-01"
+      ]
+    },
+    {
+      "cite": "961 A.2d 299",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8190430
+      ],
+      "pin_cites": [
+        {
+          "page": "308-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/961/0299-01"
+      ]
+    },
+    {
+      "cite": "80 F.3d 138",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7633199
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "141"
+        },
+        {
+          "page": "141"
+        },
+        {
+          "page": "142",
+          "parenthetical": "motion under Rule 35(b) of the Federal Rules of Criminal Procedure \"is not a trial-related proceeding\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/80/0138-01"
+      ]
+    },
+    {
+      "cite": "958 A.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8200409,
+        8200391
+      ],
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/0147-02",
+        "/a2d/958/0147-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 985,
+    "char_count": 22130,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 2.7059244016801296e-07,
+      "percentile": 0.8288902171516563
+    },
+    "sha256": "b0df880192f75c18d158155809ebe7f8a47298ccb7fc1c07ade587497da48e54",
+    "simhash": "1:f00ae08975de240a",
+    "word_count": 3582
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+    ],
+    "parties": [
+      "STATE v. Parrish CHASE."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nChief Justice SUTTELL,\nfor the Court.\nThe defendant, Parrish Chase, appeals from a Superior Court order denying his motion to reduce sentence under Rule 35 of the Superior Court Rules of Criminal Procedure. As grounds for his appeal, the defendant argues that (1) he was entitled to the appointment of counsel; (2) he was denied a meaningful hearing because the trial justice failed to address several issues that he had raised; and (3) he was denied an opportunity to challenge the constitutionality of the state manslaughter statute, G.L.1956 \u00a7 11-23-3. This case came before the Supreme Court for oral argument pursuant to an order directing the parties to appear and show cause why the issues raised in this appeal should not be summarily decided. After reviewing the record and considering the parties\u2019 written and oral submissions, we are satisfied that this appeal may be decided without further briefing or argument. For the reasons set forth in this opinion, we affirm the order of the Superior Court.\nI\nFacts and Procedural History\nOn October 17, 2000, a grand jury indicted defendant on two counts of first-degree murder in connection with the stabbing deaths of William Sencabaugh and Robert Bishop in Woonsocket. Pursuant to a plea agreement with the state, Mr. Chase pled guilty to two amended counts of manslaughter on September 30, 2004. The plea agreement came to fruition as a result of medical expert reports from Peter R. Breggin, M.D., retained by defendant, and Barry Wall, M.D., retained by the state, which indicated that defendant\u2019s ingestion of alcohol and prescription drugs, including Prozac, Elavil, Effexor, Xanax, and Vico-din, rendered him unable to form the requisite intent to commit murder.\nConsistent with the terms of the plea agreement, the trial justice sentenced defendant to two consecutive thirty-year sentences. The defendant was ordered to serve thirty years (fifteen years per count) at the Adult Correctional Institutions, with the remaining thirty years (fifteen years per count) suspended, with probation.\nOn January 27, 2005, defendant filed a timely pro se motion to reduce his sentence pursuant to Rule 35. The Rule 35 motion did not set forth any grounds for relief, but indicated that defendant would present such grounds at a later date. On April 15, 2005, the trial justice entered an order instructing defendant to file a memorandum on or before May 10, 2005, setting forth grounds to support his sentence-reduction motion. The defendant filed a memorandum asserting such grounds on May 9, 2005. On May 19, 2005, defendant also filed several pro se motions related to his Rule 35 motion, including a motion to assign a hearing date, a motion to appoint counsel with an accompanying affidavit of indigency, a motion for an evidentiary hearing, and a \u201c[mjotion for [sjentence [sjurvey\u201d requesting \u201call Manslaughter sentences from 1991 thru [sic] 2001 and any other pertinent information associated with these cases that will establish their degree of culpability or [d]iminshed Rapacity.\u201d There is no indication in the docket or record that the trial justice ruled on these motions. The trial justice did, however, issue an order denying defendant\u2019s Rule 35 motion on June 17, 2005. A motion to reconsider was filed by defendant. It was likewise denied.\nOn appeal, this Court vacated the Superior Court order denying the motion to reduce and remanded the case to the Superior Court for a hearing and reconsideration of the motion. State v. Chase, 958 A.2d 147, 149 (R.I.2008) (mem.). On November 24, 2008, the day before the scheduled hearing, defendant filed a motion to challenge the constitutionality of the state manslaughter statute and a supplemental brief setting forth reasons why his motion to reduce should be granted. In addition, on the day of the hearing defendant submitted a motion for a sentencing survey and remission of costs.\nOn November 25, 2008, a hearing was held on defendant\u2019s motion to reduce. The defendant was present and explained that he was seeking \u201cleniency\u201d based on \u201cchanged circumstances\u201d arising from new information concerning potential homicidal ideations caused by the prescription drugs that he had been taking when he committed the crimes. The defendant also argued that the sentencing benchmark should be lowered and that he should be at \u201cthe low end\u201d of the benchmark. The defendant did not address his other pending motions, including his request for counsel.\nAfter hearing defendant\u2019s arguments and the state\u2019s objections, the trial justice made a bench ruling denying the sentence-reduction motion. In denying the motion, the justice stated, in relevant part:\n\u201cMr. Chase, you were perfectly competent to enter this plea. And the transcript makes it quite clear that you were, and I specifically asked your then attorney, Robert Mann, who was appointed to assist you in this case, or perhaps had been retained. In any event, he was your counsel of record. There was colloquy in connection with the medication you had ingested, and I asked Mr. Mann during the course of the colloquy, plea, page 7, I asked him, \u2018Mr. Mann, are you satisfied that your client, notwithstanding the use of that medication, fully understands and is competent to go forward this morning?\u2019 Mr. Mann said, \u2018Absolutely.\u2019\n\u201cHaving reviewed that transcript, I remain fully convinced, Number 1) that you were in control of your faculties and knew exactly what you were doing at the time of the plea. So, to the extent that there\u2019s any suggestion that you were not\u2014if I can use the vernacular\u2014\u2018with it\u2019 at the time of the plea, that\u2019s certainly not the case. Frankly, I have a clear recollection of this plea, because it was so unusual; unusual in the sense that Mr. Mann was able to get two murder charges for first degree rolled down to manslaughter after you killed two people, and there was ample medical evidence indicating the drugs that you had ingested; other than the fact that Mr. Mann served you quite well to get you the sentence that you are presently serving. To suggest that you are deserving of even further reduction, to me, is absolutely ludicrous. Even if I had known what you\u2019re professing to tell me now, it wouldn\u2019t have made any difference, in my view, having killed two people, having had the sentences reduced to a level of manslaughter, you were the beneficiary of a marvelous effort by your lawyer to get you what you got. To the extent that you feel you should have a further break and leniency, I leave that to the parole board; not to this Court. You got your just results that you bargained for. I\u2019m satisfied under all circumstances that the sentence imposed for having killed these two people was absolutely justifiable and warranted under the circumstances. Your motion is denied.\u201d\nThe defendant filed a motion for rehearing that was denied on January 7, 2009, and on January 22, 2009, the Superior Court entered an order denying defendant\u2019s motion to reduce. The defendant prematurely filed a notice of appeal on January 8, 2009.\nWe will address defendant\u2019s issues raised on appeal seriatim.\nII\nDiscussion\nA\nAssignment of Counsel\nA criminal defendant\u2019s right to counsel \u201cflows from different constitutional provisions!,] depending on the nature of the proceedings.\u201d United States v. Palomo, 80 F.3d 138, 141 (5th Cir.1996). More specifically, the Sixth Amendment to the United States Constitution provides a criminal defendant with the right to counsel during all \u201c \u2018critical stages\u2019 \u201d of a criminal prosecution, State v. Oliveira, 961 A.2d 299, 308-09 (R.I.2008), \u201cwhere substantial rights of a criminal accused may be affected.\u201d Mempa v. Rhay, 389 U.S. 128, 134, 88 S.Ct. 254, 19 L.Ed.2d 336 (1967). Additionally, the Due Process Clause of the Fourteenth Amendment to the United States Constitution provides for a right to counsel in certain postconviction proceedings when \u201cfundamental fairness necessitates the assistance of a trained advocate.\u201d Palomo, 80 F.3d at 141.\nIn the instant case, defendant does not assert a constitutional right to counsel under either the Sixth Amendment or the Due Process Clause of the Fourteenth Amendment. He argues, rather, that he was entitled to the appointment of counsel in connection with the Rule 35 proceedings pursuant to Rule 44 of the Superior Court Rules of Criminal Procedure. The proper construction of a court rule is a question of law to which we apply a de novo standard of review. State v. Brown, 898 A.2d 69, 76 (R.I.2006).\nRule 44 states that\n\u201c[i]f a defendant appears in Superior Court without counsel, the court shall advise the defendant of his or her right to counsel and assign counsel to represent the defendant at every stage of the proceeding unless the defendant is able to obtain his or her own counsel or elects to proceed without counsel.\u201d\nWe decline to read into Rule 44 a requirement that counsel be assigned to represent a defendant at a sentence-reduction hearing under Rule 35. It is well established that a Rule 35 motion to reduce sentence \u201cis \u2018essentially a plea for leniency\u2019 * * * addressed to the sound discretion of the trial justice, who may grant it if he or she decides \u2018on reflection or on the basis of changed circumstances that the sentence originally imposed was, for any reason, unduly severe.\u2019 \u201d State v. Mendoza, 958 A.2d 1159, 1161 (R.I.2008) (quoting State v. Burke, 876 A.2d 1109, 1112 (R.I.2005) and State v. Furtado, 774 A.2d 38, 39 (R.I.2001)). A motion to reduce sentence is by its very terms a post-trial proceeding; a judgment of conviction has been entered, and a sentence has been imposed. Such a proceeding is not a criminal prosecution, and thus it is our opinion that it is not a \u201cstage of the proceeding\u201d to which the procedural right to counsel under Rule 44 attaches. See Palomo, 80 F.3d at 142 (motion under Rule 35(b) of the Federal Rules of Criminal Procedure \u201cis not a trial-related proceeding\u201d).\nHere, the sentence imposed on defendant, thirty years on each count, was not only authorized by statute, but it also was the very sentence that defendant agreed to serve as part of the plea bargain. Moreover, there was no motion to increase defendant\u2019s sentence pending, as permitted by Rule 35(b). Thus, Mr. Chase was not confronted with the prospect of any additional loss of liberty. In the context of this case, we need not address the question of whether the dictates of fundamental fairness and due process might require an indigent defendant to be appointed counsel in a Rule 35 proceeding in an appropriate case. This is clearly not such a case.\nB\nDenial of Motion to Reduce\nThe defendant next argues that the denial of his motion to reduce was improper because the trial justice ignored his information concerning prescription drugs and benchmark comparisons, the trial justice failed to rule on his request for statistics about other manslaughter convictions, and because there were no aggravating circumstances to justify consecutive sentences.\nOur review of a trial justice\u2019s decision on a Rule 35 motion \u201cis extremely limited,\u201d State v. Sifuentes, 667 A.2d 791, 792 (R.I.1995), as \u201c[tjhis Court has maintained a \u2018strong policy against interfering with a trial justice\u2019s discretion in sentencing matters.\u2019 \u201d State v. Rossi, 771 A.2d 906, 908 (R.I.2001) (mem.) (quoting State v. Mollicone, 746 A.2d 135, 137 (R.I.2000)). A trial justice\u2019s ruling on a motion to reduce sentence will be disturbed \u201conly when the sentence is without justification.\u201d State v. Brown, 755 A.2d 124, 125 (R.I.2000) (quoting State v. Brigham, 666 A.2d 405, 406 (R.I.1995)). \u201cIt is the defendant\u2019s burden to show that the sentence imposed violates this standard.\u201d State v. Cote, 736 A.2d 93, 94 (R.I.1999) (mem.).\nThe defendant states, as grounds for appeal, that the trial justice improperly failed to address \u201cnew and substantial\u201d evidence presented in regard to the effects of various prescription drugs, specifically Effexor and Prozac, and that he failed to address information concerning sentencing benchmark comparisons. At the hearing held on November 25, 2008, the trial justice heard defendant\u2019s arguments on these matters. The defendant pointed out that the Food and Drug Administration now requires labeling for Effexor that explains it may cause homicidal ideations. In response, the state argued that this was not \u201cnew information\u201d because defendant was well aware at the time of the plea agreement that the medications had an effect, and that the additional information simply-pertained to the degree of effect that the medication may have had. The defendant also set forth his argument that his sentence should be more in accord with other benchmark sentences, including the \u201c10-year threshold of benchmark number 27.\u201d In response to this, the state noted that the sentence was in accord with a plea bargain that took into consideration the reduction of the charges from murder to manslaughter.\nThe trial justice then stated that he had a \u201cclear recollection of this plea, because it was so unusual.\u201d He proceeded to explain that it was \u201cunusual in the sense that [defendant\u2019s attorney] was able to get two murder charges for first degree rolled down to manslaughter,\u201d acknowledging that \u201cthere was ample medical evidence indicating the drugs that [defendant] had ingested.\u201d The trial justice concluded by explaining to defendant that, \u201c[e]ven if I had known what you\u2019re professing to tell me now, it wouldn\u2019t have made any difference, in my view, having killed two people, having had the sentences reduced to a level of manslaughter, you were the beneficiary of a marvelous effort by your lawyer to get you what you got.\u201d We agree. The effect of the drugs and alcohol upon defendant is precisely what caused the court to accept the plea agreement reducing the two counts of first-degree murder to manslaughter. The trial justice clearly indicated that defendant\u2019s \u201cnew\u201d information, even presuming it was unavailable at the time of sentencing, would not have caused the trial justice to impose a lighter sentence.\nAlthough defendant correctly asserts that a plea agreement does not preclude him from later filing a motion to reduce pursuant to Rule 35, this Court has recognized that \u201cit is certainly proper for motion justices to accord this factor considerable significance in deciding whether to exercise their discretion to grant the motion [to reduce].\u201d State v. Miller, 694 A.2d 748, 749 (R.I.1997) (mem.). In denying the motion, the trial justice explained to defendant, \u201c[y]ou got your just results that you bargained for.\u201d The record is clear, and defendant does not challenge, that he knowingly, intelligently, and upon advice of counsel, entered into the plea agreement. Certainly the trial justice was acting well within his discretionary authority to take this factor into account in denying defendant\u2019s Rule 35 motion.\nFurthermore, defendant argues that the trial justice improperly ignored his request for statistical information. We are satisfied, however, that any statistical information about a disparity between defendant\u2019s sentence and those imposed on others convicted of manslaughter would have had a minimal impact on defendant\u2019s sentence-reduction motion. This Court has recognized that a list of sentence comparisons is not adequate to meet the heavy burden that a defendant must satisfy on a motion to reduce. State v. Morris, 863 A.2d 1284, 1288-89 (R.I.2004). This Court acknowledges that because \u201cevery sentencing presents different and potentially unique circumstances * * * any comparison of sentences can be misleading, especially if too much reliance is placed on this one factor in assessing whether a sentencing justice was justified * * State v. Ballard, 699 A.2d 14, 16 (R.I.1997), abrogated on other grounds, State v. Coleman, 984 A.2d 650 (R.I.2009). Therefore, we are of the opinion that the trial justice did not err by denying the sentence-reduction motion without first providing or considering the statistical information requested by defendant.\nFinally, defendant argues that the denial of his motion to reduce was improper because consecutive sentences are impermissible absent aggravating circumstances. The proposition that defendant sets forth is inapplicable to the circumstances in this case. In Ballard, 699 A.2d at 18, this Court indicated its preference for concurrent sentences when multiple offenses are committed during a single course of action, unless aggravating or extraordinary circumstances are presented; however, in Coleman, 984 A.2d at 656, this Court made clear that this holding from Ballard is \u201cof little or no precedential value.\u201d Furthermore, in State v. Collins, 714 A.2d 610, 611 (R.I.1998) (mem.), this Court explained that consecutive sentences are justified when serious harm is suffered by each victim as a consequence of a defendant\u2019s \u201csingle\u201d criminal act. Here, defendant pled guilty to fatally stabbing two persons, and the imposition of the consecutive sentences was, in fact, the result of defendant\u2019s plea agreement to serve such sentences consecutively in consideration for the state amending the charges down to manslaughter. On these facts, we find defendant\u2019s argument to be unpersuasive.\nC\nConstitutionality of \u00a7 11-23-3\nFinally, the defendant attempts to challenge the constitutionality of the state manslaughter statute, \u00a7 11-23-3. The defendant seems to assert that at the time of the offenses he had \u201cdiminished capacity\u201d from a \u201cmental disability,\u201d which he argues the manslaughter statute must \u201cdistinguish and or recognize.\u201d The defendant has, however, failed to provide any legal support for his argument. This Court has held that \u201c[s]imply stating an issue for appellate review, without a meaningful discussion thereof or legal briefing of the issues, does not assist the Court in focusing on the legal questions raised, and therefore constitutes a waiver of that issue.\u201d Wilkinson v. State Crime Laboratory Commission, 788 A.2d 1129, 1131 n. 1 (R.I.2002); see also Tondreault v. Tondreault, 966 A.2d 654, 664-65 (R.I.2009). Because of the lack of adequate briefing, we accordingly deem this argument waived.\nIll\nConclusion\nFor the reasons stated in this opinion, we affirm the order of the Superior Court. The record shall be remanded to the Superior Court.\n. Although Dr. Breggin based his report primarily on the effects of prescription drug ingestion and Dr. Wall focused mainly on the effects of alcohol intoxication, both doctors rendered similar conclusions.\n. Although defendant\u2019s notice of appeal was premature, it was nevertheless valid. See Otero v. State, 996 A.2d 667, 670 n. 3 (R.I.2010); Bleau v. State, 968 A.2d 276, 278 n. 1 (R.I.2009) (mem.).\n. The Sixth Amendment to the United States Constitution provides:\n\"In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the state and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense.\u201d\n. The right to counsel is also protected by article 1, section 10, of the Rhode Island Constitution, which incorporates language similar to that of the Sixth Amendment.\n. The Fourteenth Amendment to the United States Constitution provides, in pertinent part:\n\"No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any state deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.\u201d\n. An indigent applicant for postconviction relief is entitled to be represented by either the public defender or court-appointed counsel pursuant to G.L. 1956 \u00a7 10-9.1-5.\n. Rule 35 of the Superior Court Rules of Criminal Procedure states:\n\"(a) Correction or reduction of sentence. The court may correct an illegal sentence at any time. The court may correct a sentence imposed in an illegal manner and it may reduce any sentence when a motion is filed within one hundred and twenty (120) days after the sentence is imposed, or within one hundred and twenty (120) days after receipt by the court of a mandate of the Supreme Court of Rhode Island issued upon affirmance of the judgment or dismissal of the appeal, or within one hundred and twenty (120) days after receipt by the court of a mandate or order of the Supreme Court of the United States issued upon affir-mance of the judgment, dismissal of the appeal, or denial of a writ of certiorari. The court shall act on the motion within a reasonable time, provided that any delay by the court in ruling on the motion shall not prejudice the movant. The court may reduce a sentence, the execution of which has been suspended, upon revocation of probation.\n\u201c(b) Increase in sentence. Within twenty (20) days after the filing of a motion to reduce a sentence, the attorney general may file a motion for an increase in said sentence. The court on its own motion, after the filing of a motion to reduce a sentence, may increase said sentence. Whenever a judge increases a sentence, the reasons for so doing must be made part of the record and must be based on objective information concerning identifiable conduct on the part of the defendant occurring after the time of the original sentencing proceeding.\u2019\u2019\n. General Laws 1956 \u00a7 11\u201423\u20143(a) provides that ''[ejvery person who shall commit manslaughter shall be imprisoned not exceeding thirty (30) years.\u201d\n. Benchmark 27 of the Superior Court Sentencing Benchmarks provides a range of \"10 to 15 years\u201d when \"[r]elated to other significant criminal activity.\u201d",
+        "type": "majority",
+        "author": "Chief Justice SUTTELL,"
+      }
+    ],
+    "attorneys": [
+      "Aaron L. Weisman, Department of Attorney General, for State.",
+      "Marie T. Roebuck, Office of the Public Defender, for Defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Parrish CHASE.\nNo. 2009-52-C.A.\nSupreme Court of Rhode Island.\nDec. 16, 2010.\nAaron L. Weisman, Department of Attorney General, for State.\nMarie T. Roebuck, Office of the Public Defender, for Defendant.\nPresent: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+  },
+  "file_name": "1248-01",
+  "first_page_order": 1270,
+  "last_page_order": 1278
+}

@@ -1,0 +1,1049 @@
+{
+  "id": 7286540,
+  "name": "David J. MALLOF, et al., Petitioners, v. DISTRICT OF COLUMBIA BOARD OF ELECTIONS AND ETHICS, Respondent",
+  "name_abbreviation": "Mallof v. District of Columbia Board of Elections & Ethics",
+  "decision_date": "2010-08-05",
+  "docket_number": "No. 09-AA-182",
+  "first_page": "383",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 A.3d 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "112 F.Supp.2d 58",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11231759
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "63-64",
+          "parenthetical": "citing cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/112/0058-01"
+      ]
+    },
+    {
+      "cite": "414 F.3d 76",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3443600,
+        8968406
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "83-92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/367/0185-01",
+        "/f3d/414/0076-01"
+      ]
+    },
+    {
+      "cite": "367 U.S.App.D.C. 185",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3443600
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "192-201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/367/0185-01"
+      ]
+    },
+    {
+      "cite": "258 U.S. 126",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1479233
+      ],
+      "weight": 3,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "129",
+          "parenthetical": "\"Plaintiff has [asserted] only the right, possessed by every citizen, to require that the Government be administered according to law and that the public moneys be not wasted.\""
+        },
+        {
+          "parenthetical": "\"Plaintiff has [asserted] only the right, possessed by every citizen, to require that the Government be administered according to law and that the public moneys be not wasted.\""
+        },
+        {
+          "parenthetical": "\"Plaintiff has [asserted] only the right, possessed by every citizen, to require that the Government be administered according to law and that the public moneys be not wasted.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/258/0126-01"
+      ]
+    },
+    {
+      "cite": "108 F.3d 413",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7630448,
+        3703300
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/108/0413-01",
+        "/us-app-dc/323/0359-01"
+      ]
+    },
+    {
+      "cite": "323 U.S.App.D.C. 359",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3703300
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/323/0359-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 363",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11305645
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "373-74",
+          "parenthetical": "involving violation of statute conferring on all persons a right to information about housing availability"
+        },
+        {
+          "parenthetical": "involving violation of statute conferring on all persons a right to information about housing availability"
+        },
+        {
+          "parenthetical": "involving violation of statute conferring on all persons a right to information about housing availability"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0363-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 440",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215707
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "449",
+          "parenthetical": "involving withholding of information subject to disclosure under the Federal Advisory Committee Act"
+        },
+        {
+          "parenthetical": "involving withholding of information subject to disclosure under the Federal Advisory Committee Act"
+        },
+        {
+          "parenthetical": "involving withholding of information subject to disclosure under the Federal Advisory Committee Act"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0440-01"
+      ]
+    },
+    {
+      "cite": "524 U.S. 11",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11181205
+      ],
+      "weight": 8,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "21"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/524/0011-01"
+      ]
+    },
+    {
+      "cite": "95 F.3d 1335",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7647652,
+        7647599
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1349",
+          "parenthetical": "distinguishing \"classic vote dilution cases involv[ing] injuries that can be established with mathematical certainty,\" such as the apportionment cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/95/1335-02",
+        "/f3d/95/1335-01"
+      ]
+    },
+    {
+      "cite": "963 F.2d 1394",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11309398
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/963/1394-01"
+      ]
+    },
+    {
+      "cite": "262 F.3d 193",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9482767
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/262/0193-01"
+      ]
+    },
+    {
+      "cite": "230 F.3d 381",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1094305
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/230/0381-01"
+      ]
+    },
+    {
+      "cite": "628 F.2d 133",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1292800,
+        3507669
+      ],
+      "weight": 6,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "135"
+        },
+        {
+          "page": "137",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "parenthetical": "quoting the decision of the district court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/628/0133-01",
+        "/us-app-dc/202/0133-01"
+      ]
+    },
+    {
+      "cite": "202 U.S.App.D.C. 133",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3507669
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "135"
+        },
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/202/0133-01"
+      ]
+    },
+    {
+      "cite": "143 F.3d 618",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        268648,
+        3714084
+      ],
+      "weight": 7,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "621"
+        },
+        {
+          "page": "622"
+        },
+        {
+          "page": "622"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/143/0618-01",
+        "/us-app-dc/330/0104-01"
+      ]
+    },
+    {
+      "cite": "330 U.S.App.D.C. 104",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3714084
+      ],
+      "weight": 4,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "107"
+        },
+        {
+          "page": "108"
+        },
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/330/0104-01"
+      ]
+    },
+    {
+      "cite": "842 A.2d 705",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9288386
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "713",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/842/0705-01"
+      ]
+    },
+    {
+      "cite": "410 U.S. 614",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11957849
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "619",
+          "parenthetical": "''[A] private citizen lacks a judicially cognizable interest in the prosecution or nonprosecution of another.\""
+        },
+        {
+          "parenthetical": "''[A] private citizen lacks a judicially cognizable interest in the prosecution or nonprosecution of another.\""
+        },
+        {
+          "parenthetical": "''[A] private citizen lacks a judicially cognizable interest in the prosecution or nonprosecution of another.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/410/0614-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503308
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "106-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0083-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108097
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "320",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0312-01"
+      ]
+    },
+    {
+      "cite": "640 F.2d 1130",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1369869
+      ],
+      "pin_cites": [
+        {
+          "page": "1133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/640/1130-01"
+      ]
+    },
+    {
+      "cite": "528 U.S. 167",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9476232
+      ],
+      "weight": 12,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "190-91"
+        },
+        {
+          "page": "185"
+        },
+        {
+          "page": "189"
+        },
+        {
+          "page": "187-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/528/0167-01"
+      ]
+    },
+    {
+      "cite": "111 F.Supp.2d 33",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11232701
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "40"
+        },
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/111/0033-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11730070
+      ],
+      "weight": 7,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "560-61",
+          "parenthetical": "internal quotation marks, brackets, ellipses and citations omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks, brackets, ellipses and citations omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks, brackets, ellipses and citations omitted"
+        },
+        {
+          "page": "573-78"
+        },
+        {
+          "parenthetical": "\"Plaintiff has [asserted] only the right, possessed by every citizen, to require that the Government be administered according to law and that the public moneys be not wasted.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0555-01"
+      ]
+    },
+    {
+      "cite": "806 A.2d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11365475
+      ],
+      "pin_cites": [
+        {
+          "page": "1206-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/806/1201-01"
+      ]
+    },
+    {
+      "cite": "948 A.2d 571",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8245153
+      ],
+      "pin_cites": [
+        {
+          "page": "574-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/948/0571-01"
+      ]
+    },
+    {
+      "cite": "605 A.2d 22",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7936554
+      ],
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/605/0022-01"
+      ]
+    },
+    {
+      "cite": "661 A.2d 652",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874978
+      ],
+      "pin_cites": [
+        {
+          "page": "656-57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/661/0652-01"
+      ]
+    },
+    {
+      "cite": "736 A.2d 998",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11578758
+      ],
+      "pin_cites": [
+        {
+          "page": "1005"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/0998-01"
+      ]
+    },
+    {
+      "cite": "449 A.2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7959144
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/449/0301-01"
+      ]
+    },
+    {
+      "cite": "952 A.2d 878",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8185302
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/952/0878-01"
+      ]
+    },
+    {
+      "cite": "323 U.S. 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1229682
+      ],
+      "weight": 5,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/323/0134-01"
+      ]
+    },
+    {
+      "cite": "531 A.2d 244",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876209
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/531/0244-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "842-45"
+        },
+        {
+          "page": "843-45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313070
+      ],
+      "weight": 5,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "227-28"
+        },
+        {
+          "page": "228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0218-01"
+      ]
+    },
+    {
+      "cite": "778 A.2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9495460
+      ],
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/778/0296-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 821",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300314
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "831",
+          "parenthetical": "\"[A]n agency's decision not to prosecute or enforce, whether through civil or criminal process, is a decision generally committed to an agency's absolute discretion.\""
+        },
+        {
+          "parenthetical": "\"[A]n agency's decision not to prosecute or enforce, whether through civil or criminal process, is a decision generally committed to an agency's absolute discretion.\""
+        },
+        {
+          "parenthetical": "\"[A]n agency's decision not to prosecute or enforce, whether through civil or criminal process, is a decision generally committed to an agency's absolute discretion.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0821-01"
+      ]
+    },
+    {
+      "cite": "211 F.3d 618",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1743520,
+        3673951
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "625",
+          "parenthetical": "internal quotation marks and brackets omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/211/0618-01",
+        "/us-app-dc/341/0191-01"
+      ]
+    },
+    {
+      "cite": "341 U.S.App.D.C. 191",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3673951
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "198",
+          "parenthetical": "internal quotation marks and brackets omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/341/0191-01"
+      ]
+    },
+    {
+      "cite": "663 A.2d 489",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7870120
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "495"
+        },
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/663/0489-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524627
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0001-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 708",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11328910
+      ],
+      "pin_cites": [
+        {
+          "page": "714-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/669/0708-01"
+      ]
+    },
+    {
+      "cite": "891 A.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8990306
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/891/0241-01"
+      ]
+    },
+    {
+      "cite": "512 U.S. 504",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        39585
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "512"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0504-01"
+      ]
+    },
+    {
+      "cite": "680 A.2d 1373",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7867305
+      ],
+      "pin_cites": [
+        {
+          "page": "1377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/680/1373-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 813",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9148291
+      ],
+      "pin_cites": [
+        {
+          "page": "814-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/860/0813-01"
+      ]
+    },
+    {
+      "cite": "770 A.2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11098763
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/770/0079-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1980,
+    "char_count": 55063,
+    "ocr_confidence": 0.711,
+    "pagerank": {
+      "raw": 1.219050267297276e-07,
+      "percentile": 0.5977611049910632
+    },
+    "sha256": "5191126cac313df9ef3639665c6ffbaf9787a3f9a06b7fb3b8d0ec1c0cdffecf",
+    "simhash": "1:b85fc05a0bb1d7ce",
+    "word_count": 8745
+  },
+  "last_updated": "2024-02-27T22:12:33.551687+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before GLICKMAN and FISHER, Associate Judges, and FARRELL, Senior Judge."
+    ],
+    "parties": [
+      "David J. MALLOF, et al., Petitioners, v. DISTRICT OF COLUMBIA BOARD OF ELECTIONS AND ETHICS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "GLICKMAN, Associate Judge:\nPetitioners David J. Mallof, Elizabeth B. Elliott, and John D. Hanrahan live and vote in Ward 2 of the District of Columbia. They complained to the Office of Campaign Finance in the Board of Elections and Ethics that a candidate running for the Ward 2 seat on the Council of the District of Columbia had violated the city\u2019s campaign finance law by using District government resources to support his campaign. The Office of Campaign Finance investigated the complaint and found no violation. Petitioners asked the Board to review that determination, but the Board concluded they lacked standing because they were not \u201cadversely affected\u201d by the decision. Petitioners now ask us to reverse the Board and remand for it to consider their complaint on its merits. We decline to do so, for we agree with the Board that petitioners lacked standing to obtain the review they sought.\nI. The Regulatory Framework\nThe campaign finance laws of the District of Columbia are codified in Chapter 11 of Title 1 of the District of Columbia Code. Section l-1106.51(a) prohibits the use of District government resources for campaign-related activities. In pertinent part, the statute provides that \u201c[n]o resources of the District of Columbia government, including, the expenditure of funds, the personal services of employees during their hours of work, and nonpersonal services, including supplies, materials, equipment, office space, facilities, telephones and other utilities, shall be used to support or oppose any candidate for elected office ....\u201d Subsection (b)(2) of the same statute makes clear that its prohibitions apply to \u201cany member of the staff of the Mayor, the Chairman and members of the Council, or the President and members of the Board of Education, or any other employee of the executive or legislative branch.\u201d\nResponsibility for investigating alleged violations of Section 1-1106.51 and other campaign finance law provisions is vested in the Director of the Office of Campaign Finance (\u201cOCF\u201d) in the Board of Elections and Ethics. Under regulations promulgated by the Board, a \u201cpreliminary\u201d OCF investigation may be initiated either internally or on a complaint \u201cby any employee or resident of the District of Columbia.\u201d The preliminary investigation, to be completed within twenty days, enables the Director of OCF to determine whether to open a \u201cfull\u201d investigation based on \u201creasonable cause\u201d to believe that a campaign finance violation has occurred. If so, the Director must notify the subject of the investigation in writing and offer him or her \u201can opportunity to respond to the allegations.\u201d In a full investigation, the Director is authorized to gather evidence by subpoena, depositions, and other appropriate means.\nIf the full OCF investigation develops \u201csufficient evidence\u201d of a campaign finance violation, the Director \u201cshall institute\u201d an action before the Board and present evidence of the violation in \u201can adversary and open hearing.\u201d The hearing is a contested case proceeding subject to the requirements of the District of Columbia Administrative Procedure Act. OCF \u201chas the burden of proving a violation with reliable, probative and substantial evidence.\u201d If the Board finds a campaign finance law violation, it may assess a civil monetary penalty or seek declaratory or injunctive relief in Superior Court, and it also may refer the violation to the United States Attorney for criminal prosecution.\nOn the other hand, if OCF\u2019s full investigation finds \u201cinsufficient evidence\u201d of a campaign finance law violation, the Director may dismiss the case. The Director must report any such dismissal to the Board \u201cby order with written findings of facts and conclusions of law.\u201d Any \u201cparty\u201d to the investigation (a term not defined in the regulations) who is \u201cadversely affected\u201d by the dismissal order may obtain review of the order by filing a request for a de novo hearing with the Board. As in an adversary action against the alleged violator commenced by the Director, the hearing before the Board would be a contested case proceeding subject to the Administrative Procedure Act.\nII. Petitioners\u2019 Complaint to OCF and the Board\nPetitioners are registered District of Columbia voters who reside in Ward 2. On August 28, 2008, they filed a complaint with OCF charging that Jack Evans, the incumbent Councilmember from Ward 2, had violated the District\u2019s campaign finance law by using government resources in his re-election campaign. Specifically, petitioners alleged, Evans had \u201cimproperly used his own Council office to take photographs of himself with [Metropolitan Police Department] Police Chief Cathy Lanier while she was on duty and in official uniform,\u201d and had used one of those photographs in a campaign advertisement published in The Current, a widely distributed local weekly newspaper, on August 13, 2008. This full-page ad urging readers to vote for Evans in the upcoming September 9 primary election featured a color photo of Chief Lanier standing arm-in-arm with Evans under the headline \u201cWorking Together for Ward 2.\u201d Petitioners complained that the ad \u201cimplied a clear endorsement of Evans by Chief Lanier.\u201d\nPetitioners further alleged that the Evans campaign also had displayed the photograph of Evans and Chief Lanier on its website, but had removed it \u201csoon after [petitioners] publicly protested the newspaper ad.\u201d And, according to the eom-plaint, the advertisement had attracted unfavorable attention from other quarters as well: \u201c[F]rom what we have read in the press,\u201d petitioners stated, \u201cwe believe Chief Lanier apparently did not know in advance that Mr. Evans would use her photograph with him in a campaign ad.\u201d \u201cFurther,\u201d petitioners reported, \u201cthe police union expressed concerns in the press that the photo made it appear that not only Lanier endorsed Evans, but that perhaps the entire department \u2014 as personified by the Chief \u2014 also endorsed him.\u201d\nIn response to the complaints from petitioners and others, OCF opened a preliminary investigation and asked the Evans campaign to stop using the photograph. The campaign complied with that request. A few days later, on September 5, 2008, OCF initiated a full investigation into whether the campaign had used government resources for election purposes in violation of D.C.Code \u00a7 1-1106.51. In the course of that investigation, OCF received responses to the allegations from Council-member Evans and Chief Lanier.\nOn November 20, 2008, OCF concluded its investigation and issued an order dismissing the complaint. OCF found that Evans had not violated Section 1-1106.51 \u201cbecause the photograph was not taken for a campaign-related purpose and because Chief Lanier consented to pose with [Evans] in the photograph for a personal, not campaign-related, purpose.\u201d Upon receiving the dismissal order, petitioners filed a request for review by the Board. Evans was permitted to intervene in the review proceeding.\nThe issue of petitioners\u2019 standing to seek review was raised at a pre-hearing conference convened by the Board on January 5, 2009. The question, as the Board\u2019s representative explained, was whether petitioners were \u201cadversely affected\u201d by the OCF ruling so as to entitle them to Board review under 3 DCMR \u00a7 3705.4. The Board asked the parties to address that question in their pre-hearing briefs.\nIn response to the Board\u2019s request, petitioners\u2019 brief linked their standing to appeal OCF\u2019s dismissal of their complaint to their standing to lodge that complaint with OCF in the first place:\nAs actual voters in the September 9, 2008 primary and November 4, 2008 general election, we filed a timely complaint in this matter with OCF. OCF accepted our complaint as duly filed. OCF then investigated the matter, issued findings, and ultimately rejected our complaint. Thus, it is undisputed that we had standing to file a complaint in this matter, and the OCF\u2019s disposition of our complaint, dismissing it with no action taken, meets the requirement of \u201cadversely affected.\u201d\nPetitioners did not identify any other respect in which they personally were affected adversely by OCF\u2019s order. They did argue, however, that OCF\u2019s ruling \u201cwould set a dangerous precedent,\u201d because it \u201cwould allow any D.C. elected official or candidate for public office to use a photo of the Police Chief, the Attorney General, or any other non-elected city employee any way he or she may choose in a newspaper campaign advertisement without penalty or reprimand for a violation of campaign or personnel regulations.\u201d In their opposing briefs, OCF and Evans argued that petitioners had failed to allege the kind of personal and concrete injury or threat of injury that is required by the Board\u2019s rule for standing to appeal.\nThe parties next addressed the standing issue at a hearing before the Board on January 24, 2009. To show that they were adversely affected by OCF\u2019s dismissal of their complaint, petitioners relied on their status as qualified Ward 2 voters who had supported and contributed time and money to Evans\u2019s opponents in the primary and general elections. As voters, petitioners asserted, they had a stake in \u201cfair and honest elections\u201d with \u201cfair campaign practices,\u201d and they feared the precedential effect of the OCF decision in future elections: it would \u201copen[ ] the floodgates for exploiting the Chief of Police\u201d and other government officials, and would allow \u201cother candidates [to] do the same thing\u201d as the Evans campaign had done. \u201cTo me,\u201d petitioner Hanrahan stated, \u201cthat\u2019s a very serious injury that I and the citizens of the District of Columbia would experience, that public employees become fair game for any politician who runs for office.\u201d Moreover, as supporters of Evans\u2019s opponents, petitioners claimed they were injured because \u201cthe vote may well have been tainted.\u201d According to petitioner Mallof, the challenged advertisement \u201cinfluenced votes\u201d (though it was impossible to say how many), \u201c[a]nd my injury is my guy lost.\u201d Mallof conceded that \u201ca cure [for the improper ad] was necessary before\u201d the election, not \u201cafter-the-fact,\u201d but argued that effective \u201credress is still possible\u201d in the form of a fine (\u201chowever small or large\u201d) and clarification of the campaign finance law by the Board.\nPetitioners also urged the Board to recognize that the criteria for standing to seek relief before an administrative agency need not be as \u201cdemanding\u201d as the criteria for standing, derived from Article III of the Constitution, to assert a claim in federal court.\nOn January 28, 2009, the Board rendered its decision in an opinion and accompanying order. It ruled that petitioners had not shown they were \u201cadversely affected\u201d by OCF\u2019s dismissal of their complaint within the meaning of 3 DCMR \u00a7 3705.4 and accordingly denied their request for review. Declaring that \u201c[t]he phrase \u2018adversely affected\u2019 is not ambiguous and must be given its plain meaning,\u201d the Board found guidance as to that meaning in the District of Columbia Administrative Procedure Act (\u201cDCAPA\u201d) and the dictionary. Noting that the DCAPA provides for judicial review by persons who are \u201cadversely affected or aggrieved\u201d by an administrative agency order or decision, the Board viewed the terms \u201cadversely affected\u201d and \u201caggrieved\u201d as essentially equivalent. And, citing a dictionary definition of the latter word, the Board concluded that in order to obtain review of an OCF order, a party must show \u201ca substantial grievance, a denial of some personal, pecuniary or property right, or the imposition of a burden or obligation\u201d as a result of the order.\nThe Board found that petitioners did not meet that test. It rejected as \u201cwithout merit\u201d their argument that because they had standing to file the complaint with OCF in the first place, they necessarily had standing to seek review of an OCF order dismissing the complaint. That argument was fallacious, the Board explained, because under 3 DCMR \u00a7 3703(2)(b), \u201cany employee or resident of the District of Columbia\u201d may complain of a campaign finance law violation to OCF, whether or not the employee or resident has been affected adversely by it. \u201cSimply put, an individual need not have \u2018standing\u2019 to file a complaint with OCF, and the mere act of filing a complaint with OCF does not render one adversely affected by either a violation of the campaign finance statute, or an OCF order dismissing a complaint alleging such a violation.\u201d\nThe Board also rejected petitioners\u2019 claim that they were adversely affected because the OCF order established a \u201cdangerous precedent\u201d for future elections. \u201cThe potential state of affairs described by [petitioners] is not only speculative,\u201d the Board held, \u201cbut also devoid of any hint of any adverse affect [sic] that is personal to them.\u201d\nFinally, the Board held that to the extent petitioners predicated their standing on the claim that their candidate lost because the election was tainted, they were in the wrong forum to seek \u201cany meaningful\u201d relief. The Board could not redress that harm even if petitioners were able to prove it; petitioners\u2019 sole remedy would have been to ask the District of Columbia Court of Appeals to review and overturn the election.\nIII. Legal Discussion\nPetitioners contend the Board erred as a matter of law in determining that they lacked standing to seek its review of OCF\u2019s order dismissing their complaint. They make two arguments. First, they claim the Board erred in \u201cassuming, without analysis, that standing to seek administrative review under 3 DCMR \u00a7 3705.4 must be governed by the same standards that govern standing to seek judicial review under the Administrative Procedure Act, as constrained by [Article] III of the Constitution.\u201d Citing the fact that an OCF investigation may be initiated on the complaint of \u201cany\u201d District of Columbia employee or resident, and invoking a dictionary definition of the word \u201cadverse,\u201d petitioners ask us to \u201cinterpret the phrase \u2018any party adversely affected\u2019 in 3 DCMR \u00a7 3705.4 to include any person who participated in the OCF proceeding and whose position was rejected by the OCF.\u201d\nSecond, petitioners argue, even if the Board was correct in applying \u201cArticle III rules of standing\u201d to their request for review, they satisfied those rules because they suffered \u201cinjury in fact.\u201d Petitioners contend that \u201cEvans\u2019s advertisement falsely implying that he was endorsed by the Chief of Police, and the OCF finding that Evans had not violated the law prohibiting the use of government resources in a political campaign, diminished petitioners\u2019 ability to affect the outcome of the 2008 primary election and thereby caused petitioners concrete injury giving rise to standing before the Board.\u201d Moreover, petitioners add, \u201cthe OCF decision, which finds no fault with candidate Evans\u2019s arguably unlawful conduct, ... gives a green light to the intentional repetition of such abusive conduct by Councilmember Evans and others in future election campaigns\u2014 in which, as politically active citizens and voters, petitioners are likely to participate.\u201d\nA. The Board\u2019s Construction of 3 DCMR \u00a7 3705.4\nWe first address petitioners\u2019 argument that the Board erred in construing 3 DCMR \u00a7 3705.4 to impose the same standing threshold for its review of OCF dismissal orders as the DCAPA imposes on judicial review of agency action. A preliminary issue is whether the Board actually has adopted the DCAPA standard, as opposed to a different, perhaps more demanding, test for standing. In construing the DCAPA, we have held that \u201c[a] party has not been adversely affected or aggrieved by agency action unless, inter alia, it has suffered or will sustain some actual or threatened \u2018injury in fact\u2019 from the challenged agency action.\u201d When the Board concluded that petitioners lacked standing, it did not advert explicitly to the \u201cinjury in fact\u201d test or its established definition in our case law; nor did it cite our cases interpreting the phrase \u201cadversely affected or aggrieved\u201d in the DCAPA. (No previous decision of this court has construed the language of the Board rule in question here.) Rather, the Board stated that in order to obtain Board review of an OCF order, a party must show \u201ca substantial grievance, a denial of some personal, pecuniary or property right, or the imposition of a burden or obligation\u201d as a result of the order.\nIn arguing that the Board applied Article III rules of standing, petitioners have construed the Board\u2019s articulation of the injury required as equivalent to the \u201cinjury in fact\u201d test. At oral argument, the Board\u2019s counsel assured us that no deviation from that test was intended. We accept the clarification and accede to the parties\u2019 understanding that the Board construed 3 DCMR \u00a7 3705.4 to require a party seeking Board review of an OCF order to satisfy the injury-in-fact test.\nPetitioners\u2019 challenge to the appropriateness of that construction founders under our deferential standard of review. Although petitioners argue in favor of a different construction, \u201c[o]ur task is not to decide which among several competing interpretations best serves the regulatory purpose.\u201d We must defer to the Board\u2019s interpretation of the regulation it has promulgated unless its interpretation is \u201cplainly wrong or inconsistent with the governing statute.\u201d \u201cEven where the petitioner advances a more plausible reading of the regulations than that offered by the agency, it is the agency\u2019s choice that receives substantial deference.\u201d\nThe Board\u2019s construction of 3 DCMR \u00a7 3705.4 to impose the same injury-in-faet standing requirement as the DCAPA cannot be described as plainly wrong or inconsistent with governing law. Having chosen to employ operative language in the regulation (\u201cadversely affected\u201d) that mirrors a term of settled meaning in the DCAPA (\u201cadversely affected or aggrieved\u201d), and having decided to look to the DCAPA for guidance, the Board reasonably construed the language of the regulation in accordance with its meaning in the DCAPA. Nor does the Board\u2019s interpretation lead to an absurd or unreasonable result. That any District of Columbia resident or employee may trigger an investigation by lodging a complaint with OCF, the Board\u2019s investigative office, hardly means that any such complainant must be able to obtain full Board review when OCF finds the complaint to be without merit. Petitioners argue that under the Board\u2019s ruling, only candidates who are the subject of complaints and who lose before the OCF can obtain Board review, and thus that \u201c[ejrroneous OCF decisions that the law has been violated can be reviewed, but erroneous OCF decisions that the law has not been violated cannot be reviewed.\u201d If that is so, petitioners do not explain why it would be an impermissible choice for the Board to make. But we think the argument is overstated. On the facts of the present case, for example, we see no reason why a candidate who opposed Council-member Evans in the primary election would have been unable to make the necessary injury-in-fact showing to seek review of OCF\u2019s order. As we discuss below, an opposing candidate could have predicated standing on the competitive injury arising from Evans\u2019s allegedly improper use of government resources to gain an advantage in the election. Nothing in the Board\u2019s opinion suggests it would have rejected an opposing candidate\u2019s request for review.\nPetitioners also argue that \u201csubstantial deference\u201d to the Board\u2019s construction of its regulation is misplaced in this case because, as the Supreme Court explained in United States v. Mead Corp., informal agency action is not entitled to so-called Chevron deference. Instead, such action receives the lesser degree of deference described in Skidmore v. Swift & Co., which essentially depends on its overall \u201cpower to persuade\u201d the court. However, while we doubt it would make a difference to our decision if we were to evaluate the Board\u2019s ruling under the less deferential Skidmore standard, that standard does not apply in this case. The ruling here was not an \u201cinformal\u201d one: The Board interpreted its regulation after briefing and oral argument in a contested case proceeding under the DCAPA, and it did so in a written opinion that analyzed the language in question in its statutory and regulatory context. Petitioners say the opinion was informal because the Board did not publish it. We do not agree. For one thing, petitioners\u2019 premise is incorrect. Although the decision was not published in the District of Columbia Register, it was published on the Board\u2019s website, where it is available to this day. We have not insisted that a formal agency decision in a contested case proceeding must be published in the D.C. Register to be entitled to our substantial deference; indeed, we have deferred in the past to the Board\u2019s interpretation of its own regulations in an unpublished adjudicative decision.\nWe likewise are unpersuaded by petitioners\u2019 argument that the Board\u2019s decision is \u201cnon-authoritative\u201d (and hence not deserving of substantial deference) because \u201cnothing in the D.C. election statute contemplates that the Board may issue formal, precedential orders in adjudicative matters such as this.\u201d The campaign finance statute directs the Board to promulgate regulations, in accordance with the DCAPA, governing all OCF investigations of alleged campaign finance violations, specifically including regulations covering the presentation of evidence to the Board in an adversary proceeding, whether OCF finds the evidence sufficient to show a violation or not. Moreover, the election statute also directs the Board in general terms to \u201c[ijssue such regulations ... as are necessary to carry out the purposes of ... Chapter 11 of this title [dealing with campaign finance and related matters]....\u201d The Board exercised its authority under these statutory provisions to issue the regulations pursuant to which it afforded petitioners an adjudicative hearing subject to the contested-case requirements of the DCAPA. Those regulations have the force of law. Decisions in contested case proceedings generally are treated as having precedential effect, and we see no reason to treat the Board\u2019s decision in an \u201cadjudicative matter[ ] such as this\u201d any differently.\nB. Petitioners\u2019 Claim of \u201cInjury in Fact\u201d\nWe turn to petitioners\u2019 claim that they have suffered \u201cinjury in fact.\u201d Petitioners claim, that Councilmember Evans\u2019s campaign advertisement, and OCF\u2019s failure to sanction him for it, injured them in two respects: (1) by diminishing their ability as voters to affect the outcome of the 2008 primary election; and (2) by giving the \u201cgreen light\u201d to the repetition of such advertisements by Evans or other candidates in future elections. We are not persuaded that either of these grounds suffices to establish petitioners\u2019 standing.\n\u201cInjury in fact\u201d is one of several requirements of standing to obtain judicial review of agency action under the DCA-PA. It derives from the \u201ccase or controversy\u201d requirement of Article III of the Constitution. As the Supreme Court explained in Lujan v. Defenders of Wildlife, \u201cthe irreducible constitutional minimum of standing contains three elements\u201d:\nFirst, the plaintiff must have suffered an \u201cinjury in fact\u201d \u2014 an invasion of a legally protected interest which is (a) concrete and particularized,[] and (b) actual or imminent, not conjectural or hypothetical. Second, there must be a causal connection between the injury and the conduct complained of \u2014 the injury has to be fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court. Third, it must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.\nWe evaluate petitioners\u2019 standing to obtain Board review of OCF\u2019s order in light of these requirements.\nWe begin by considering petitioners\u2019 claim that OCF\u2019s order injured their ability to affect the electoral outcome in 2008. It might be supposed that the order could not have inflicted such injury because both the primary and general elections were already over when OCF issued the order, or that the occurrence of the elections rendered petitioners\u2019 claim moot. Petitioners argue, however, that they sought to have OCF act on their complaint before the primary election was held, and that its delay in doing so (as well as the subsequent delays before the Board and on appeal) should not be allowed to deprive them of their standing or moot their claim. In general, petitioners argue, courts have held that \u201cstanding exists [in election rights cases] even though the election has already occurred,\u201d in large part because \u201cif the passage of the election were enough to deprive plaintiffs of standing, election cases would, as a practical matter, be unreviewable.\u201d On the other hand, \u201c[w]hile the mootness exception for disputes capable of repetition yet evading review has been applied in the election context, that doctrine will not revive a dispute which became moot before the action commenced,\u201d because in the latter situation the plaintiff lacked standing at the outset.\nThus, the viability of petitioners\u2019 claim that OCF injured their ability to affect the election depends, in the first instance, on when that claim arose and was presented. This would have been an issue for the Board to resolve in applying its regulations, but as petitioners did not raise this claim of injury until their appeal to this court \u2014 a defect we have chosen to overlook \u2014 the Board cannot be faulted for not addressing it. In effect, though, petitioners are arguing that they were injured not merely by OCF\u2019s order dismissing their complaint against Evans, but also (indeed, primarily) by OCF\u2019s failure to take other action on that complaint in a timely, effective fashion, before the primary election was held. From petitioners\u2019 standpoint, OCF\u2019s inaction both harmed them and delayed their presentation of their basic claim to the Board. Moreover, the Board treated petitioners as \u201cparties\u201d within the meaning of 3 DCMR \u00a7 3705.4 because they were the complainants who triggered OCF\u2019s investigation, i.e., from the outset of that proceeding. On balance, therefore, we think it appropriate to treat petitioners\u2019 claim as though it had originated and been asserted before the primary election, because in practical effect that was when OCF failed to grant them relief on their complaint. No argument is made to us that petitioners were tardy in presenting their complaint to OCF, or that it would have been impossible for OCF to issue its order prior to the primary and general elections.\nWhether petitioners\u2019 standing to seek relief at the Board level evaporated after the Evans campaign voluntarily ceased using the photograph of Evans with Chief Lanier in its advertising is another question, however. \u201c[A] plaintiff must demonstrate standing separately for each form of relief sought.\u201d In the circumstances of this case, it is difficult to perceive what additional relief petitioners had standing to seek (beyond the Evans campaign\u2019s compliance with OCF\u2019s request not to use the photograph). The usual rule, of course, is that a defendant\u2019s voluntary cessation of a challenged practice does not moot the case, because if it did, the defendant would be free to resume the practice. That rationale lacks force here; the Evans campaign cannot resume its use of the photograph because the campaign is over (and petitioners\u2019 concerns about future campaigns are highly speculative at best). Thus, there would be no point to the issuance of a cease and desist order. Wdiile OCF could have imposed a monetary fine on Evans had it found he violated D.C.Code \u00a7 1-1106.51, petitioners would not have been entitled to receive that fine (which would go to the District), and thus it would not have redressed their claimed injury. Nor would it have protected them from any non-speculative future harm. As a rule, \u201ccitizen suitors lack standing to seek civil penalties for violations that have abated by the time of suit\u201d absent a realistic threat that a violation will recur. Similarly, petitioners have no standing to require the Board to refer their complaint to the Office of the United States Attorney for criminal prosecution.\nThat said, the Board disposed of petitioners\u2019 request for review on the basis of lack of injury in fact, not non-redressability or mootness. As petitioners argue, generally speaking, \u201c[a]n administrative order can only be sustained on the grounds relied on by the agency.\u201d Although that precept has its exceptions, we need not explore their applicability here. The \u201cinjury in fact\u201d question is dispositive.\nWhile this court has never before considered a claim of voter standing based on injury to the voters\u2019 ability to influence an election as a result of campaign finance violations, federal appellate courts that have considered claims factually comparable to petitioners\u2019 have found them wanting. Foremost among those cases is Gottlieb v. Federal Election Commission. In that post -Lujan case, individual voters (among others) sought judicial review of the FEC\u2019s dismissal of a complaint charging President Clinton\u2019s 1992 primary campaign committee with campaign finance violations. The voters based their standing to appeal on the injury to their \u201cability to influence the political process\u201d: they claimed \u201ctheir support for rival candidates was rendered less effective because the Clinton campaign had greater funds with which to sway voters\u201d in the general election as a result of the violations. The D.C. Circuit rejected this argument, finding that the purported injury \u201crest[ed] on gross speculation\u201d and was \u201cfar too fanciful to merit treatment as an \u2018injury in fact.\u2019 \u201d For one thing, the voters could not establish that any excess funds actually enhanced the Clinton campaign\u2019s ability to influence the electorate (or diminished his opponents\u2019 ability to do so). \u201cAnd under any circumstances,\u201d the court added,\nit is unclear how their influence as voters was diminished. The Clinton campaign may have received extra funds, but this did not prevent the voters from engaging in any of the numerous activities open to all politically active citizens. They were free to raise funds to support their own candidates, volunteer their time to work on those campaigns, and vote for the candidate of their choice.\nAn earlier, pre-Lujan decision of the same court reached similar conclusions. In Winpisinger v. Watson, supporters of Senator Edward Kennedy sued the Carter-Mondale Committee and members of President Carter\u2019s administration, alleging that the defendants had \u201cillegally employed their public authority and expended federal funds to promote the President\u2019s renomination.\u201d In their capacity as voters, the plaintiffs charged that the challenged practices \u201cdiminish[ed], dilute[d] and nullified]\u201d their votes, their lawful contributions of money to Senator Kennedy\u2019s campaign, and \u201ctheir other efforts to nominate the candidates of their choice.\u201d The district court dismissed the action for lack of standing. The D.C. Circuit affirmed, agreeing that the plaintiffs had failed to allege concrete, non-speculative injury, and that \u201c[t]he variety of factors operating on the electorate at any given time would require extreme speculation to establish a relationship between the defendants\u2019 alleged conduct, and the plaintiffs\u2019 injury.\u201d\nTo cite another example, in Becker v. Federal Election Commission, the First Circuit considered a challenge by presidential candidate Ralph Nader and his supporters to regulations permitting corporate financial sponsorship of the presidential debates, which allegedly had the injurious effect of preventing him from participating in the debates (because Nader refused to accept corporate contributions as a matter of political principle). The court held that Nader himself had standing to pursue the challenge, but that the voter plaintiffs\u2014 who claimed they were harmed both directly, \u201cby the corruption of the political process allegedly caused by corporate sponsorship of the debates,\u201d and derivatively, by virtue of the injury suffered by Nader, the candidate whom they supported \u2014 did not. \u201cAs to the first argument,\u201d the court explained, \u201cthe harm done to the general public by corruption of the political process is not a sufficiently concrete, personalized injury to establish standing.\u201d And \u201c[rjegardless of Nader\u2019s injury,\u201d the court said,\nhis supporters remain fully able to advocate for his candidacy and to cast their votes in his favor. [Citations omitted] The only derivative harm Nader\u2019s supporters can possibly assert is that their preferred candidate now has less chance of being elected. Such \u201charm,\u201d however, is hardly a restriction on voters\u2019 rights and by itself is not a legally cognizable injury sufficient for standing.[]\nSimilarly, in Colorado Taxpayers Union, Inc. v. Romer, the Tenth Circuit held that the Libertarian Party and its members lacked standing to sue the Governor of Colorado for improperly using state resources to defeat a ballot initiative in the general election. The court found \u201cAppellants\u2019 argument that they were forced to counteract the Governor\u2019s activities through the expenditure of additional funds\u201d to be \u201cpurely conjectural,\u201d and that the Governor\u2019s activities did not impact the ability of the Libertarian Party or its members to associate, speak on behalf of the amendment, or vote for it.\nNo two cases are identical, and we do not necessarily endorse everything said in the foregoing cases, but they are instructive. In uniformly holding that voters could not satisfy Article III standing requirements by relying on the impairment of their ability to influence an election allegedly caused by their political opponent\u2019s use of forbidden resources, the courts in those cases rejected the gist of petitioners\u2019 standing claim here. The reasoning of those cases applies to petitioners\u2019 claim with equal force. The purported diminishment of petitioners\u2019 effectiveness as voters as a result of the Evans campaign\u2019s advertisement (or as a result of OCF\u2019s failure to penalize Evans for that advertisement) does not satisfy the requirements of \u201cinjury in fact\u201d: it is neither \u201cconcrete\u201d nor \u201cparticularized.\u201d At best, it is \u201cconjectural\u201d rather than \u201cactual\u201d or \u201cimminent.\u201d Indeed, if anything, the record affirmatively suggests that petitioners and voters agreeing with them were effective in countering the challenged advertisement: according to petitioners\u2019 complaint, their public protests, together with those of the police union, embarrassed the Evans campaign and induced it to pull the ad.\nPetitioners say OCF\u2019s failure to find that Evans violated the law deprived them of information they could have used against Evans during the campaign. That purported \u201cinformational injury\u201d is not sufficient to show injury in fact, however. The Supreme Court\u2019s decision in Fed. Election Commission v. Akins, on which petitioners chiefly rely, does not support their argument. In Akins, a group of voters challenged the FEC\u2019s determination that the American Israel Public Affairs Committee (AIPAC) was not subject to Federal Election Campaign Act (FECA) requirements that \u201cpolitical committees\u201d disclose their membership, contributions and expenditures. The voters claimed their receipt of that information \u201cwould help them (and others to whom they would communicate it) to evaluate candidates for public office, especially candidates who received assistance from AIPAC, and to evaluate the role that AIPAC\u2019s financial assistance might play in a specific election.\u201d In finding that the voters had standing to pursue their challenge, the Court held that their \u201cinjury in fact\u201d consisted of their \u201cinability to obtain information ... that, on [the voters\u2019] view of the law, the statute requires that AIPAC make public.\u201d The existence of a specific disclosure requirement in FECA was the critical point, for as the Court explained, it previously had \u201cheld that a plaintiff suffers an \u2018injury in fact\u2019 when the plaintiff fails to obtain information which must be publicly disclosed pursuant to a statute.\u201d\nPetitioners did not charge the Evans campaign with violating any statutory disclosure requirement; indeed, they are not trying to have the Board force Evans to disclose any information. During the primary campaign, petitioners had and were able to use the relevant facts about the photograph of Evans with Chief Lanier. Petitioners merely sought a declaration by OCF and the Board that Evans violated the campaign finance law. The withholding of that kind of \u201cinformation\u201d does not cause the type of injury recognized in Akins and cannot suffice to support standing. \u201cTo hold that a plaintiff can establish injury in fact merely by alleging that he has been deprived of the knowledge as to whether a violation of the law has occurred would be tantamount to recognizing a justiciable interest in the enforcement of the law.\u201d Article III standing rules do not recognize such an interest as sufficient.\nThis does not mean that a candidate opposing Evans necessarily would have lacked standing to seek relief from his putative misuse of government resources in the campaign. The question is not before us in this case, but the position of a candidate differs from that of a mere voter. A campaign finance law violation might give the violator an unfair advantage over an opposing candidate in the electoral contest of public appeal and persuasion. When a candidate\u2019s ability to compete for political support on a level playing field has been threatened or compromised in that way, the candidate may have sufficient \u201ccompetitive\u201d or \u201cprocedural\u201d injury to satisfy the \u201cinjury-in-fact\u201d requirement of Article III. But even when that is so, the merely \u201cderivative\u201d injury to voters who support the disadvantaged candidate is, in itself, too attenuated, insubstantial and unparticularized to afford them standing as well.\nFrom what we have said, it almost goes without saying that petitioners do not fare any better with their claim that OCF\u2019s order injured them by setting a precedent that will allow Evans or other candidates to misuse government resources to create campaign advertisements in future elections in which petitioners are likely to participate as voters. The threatened harm that petitioners posit is neither concrete nor particularized; it is neither actual nor imminent; as the Board said, it is \u201cnot only speculative, but also devoid of any hint of any adverse [ejffect that is personal to them.\u201d Indeed, we need only add that OCF\u2019s order is not precedential at all; as petitioners themselves concede in their brief, OCF\u2019s \u201c \u2018decisions\u2019 are only recommendations.... OCF is not an agency empowered to take final administrative action; final action must come from the Board.\u201d And the Board did not render a precedential decision on the merits of petitioners\u2019 complaint against Evans.\nIV. Conclusion\nFor the foregoing reasons, we affirm the order of the Board of Elections and Ethics denying petitioners\u2019 request for review of the dismissal of their complaint by the Office of Campaign Finance.\nSo ordered.\n. D.C.Code \u00a7\u00a7 1-1101.01 to 1-1151.06 (2001 & Supp. 2010).\n. Id. \u00a7 1-1106.51(a).\n. Id. \u00a7 1-1106.51(b)(2).\n. See D.C.Code \u00a7 1-1103.02(c) (\"AH investigations of alleged violations of this chapter shall be made by the Director [of OCF] in his or her discretion, in accordance with procedures of general applicability issued by the Director in accordance, with the District of Columbia Administrative Procedure Act (\u00a7 2-501 ef seq.). All allegations of violations of this chapter which shall be presented to the Board [of Elections and Ethics], in writing, shall be transmitted to the Director without action by the Board....\u201d).\n. 3 DCMR \u00a7 3703.2(b) (2007).\n. Id. \u00a7 3703.4. \"A preliminary investigation conducted by OCF shall be strictly investigatory, for example, non-adversarial and non-adjudicator[y].'' Id. \u00a7 3703.3.\n. Id. \u00a7 3704.1.\n. Id. \u00a7 3704.3(c).\n. Id. \u00a7\u00a7 3704.4, 3707.\n. Id. \u00a7\u00a7 3706.1, 3706.2. The action is begun by the filing of a written complaint. Id. \u00a7 408.1.\n. See id. \u00a7\u00a7 400.3, 423; see also D.C.Code \u00a7 1-1103.05(b)(2).\n. 3 DCMR \u00a7 423.5\n. See D.C.Code \u00a7 1-1103.05(b).\n. D.C.Code \u00a7 1-1103.01(c); see also id. \u00a7 1-1107.01 (providing criminal penalties for campaign finance law violations).\n. 3 DCMR \u00a7 3705.1.\n. Id. \u00a7 3705.2.\n. Id. \u00a7\u00a7 3705.4, 3709.12.\n. See id. \u00a7\u00a7 400, 423.\n. The Director of OCF reported that her office was notified of the Evans campaign advertisement by others besides petitioners, including members of the Fraternal Order of Police.\n. As Chief Lanier explained in her statement:\nI recall that the photograph in question was taken while [I was] present in the office of Councilmember Evans for a standard meeting to discuss crime issues existing within Ward 2. As is customary, the Councilmember had several personal photographs displayed throughout his office in which he appeared with various officials and dignitaries. For that reason and under the belief the photograph would be used only for legitimate personal display, I agreed to appear in a photograph with Councilmember Evans. There was never any reason for me to believe that the photo would be used for an improper or prohibited purpose and there was no intent on my part to participate in any such activity. At no time was I made aware that my appearance would be used \u2014 under any circumstances \u2014 to gain an improper benefit. Any such activity was done without my knowledge and consent.\nEvans\u2019s response agreed with this account. The photograph was taken, Evans stated, as a personal memento of the occasion and not for a campaign purpose. It was one of many such photos \"adorning his Council walls.\u201d Even if it happened to be a staff member who took the photograph, no government monies or property were used or created \u2014 the camera belonged to Evans, he paid for the film and the processing with his own funds, and the photo itself was his personal property, not that of the District government. It was not until months later, Evans explained, that his advertising agency selected the photo for use in his campaign to show his \" 'law and order1 bona fides.\u201d\n. Petitioner Elliott stated that she also served as a precinct captain for one of the candidates who opposed Evans.\n. The regulation allows any \"party\" adversely affected by an OCF dismissal order to obtain review. The Board agreed that petitioners, having filed the complaint that OCF dismissed, were \"parties\u201d for this purpose.\n. D.C.Code \u00a7 2-510 (2001).\n.The Board cited to the definition of the word \"aggrieved\u201d in the term \u201caggrieved party,\u201d as it appears in Black\u2019s Law Dictionary (6th ed. 1991).\n. See D.C.Code \u00a7 1-1001.11(b) (2001). The statute permits a voter to petition this court to review an election within seven days of the Board's certification of the results. To secure relief, a petitioner must show defects in the election process \u201cserious enough to vitiate the election as a fair expression of the will of the registered qualified electors voting in the election.\u201d Id. \u00a7 1-1001.11(b)(2)(B); see Jackson v. District of Columbia Bd. of Elections & Ethics, 770 A.2d 79, 81 (D.C.2001).\n. Brief for Petitioners at 13 (emphasis in original).\n. Petitioners cite Black's Law Dictionary 58 (8th ed. 2004) (defining \u201cadverse\u201d to mean, inter alia, \"having an opposing or contrary interest, concern, or position\u201d).\n. Brief for Petitioners at 16.\n. Id. at 5.\n. Id.\n. Id. We pause to observe that petitioners somewhat indiscriminately base their claim of standing on the assertion that the Evans campaign committed two distinct wrongs \u2014 its use of government resources in violation of D.C.Code \u00a7 1-1106.51 and its issuance of an ad that was misleading. But as the Board states in its brief (and as petitioners in fact agree), consistent with the First Amendment \u201cit may not regulate core political speech in an effort to protect voters from potentially misleading or inaccurate speech, or sanction such speech when it is deemed to be misleading or inaccurate.\u201d Brief for Respondent at 12. See Citizens Comm. for the D.C. Video Lottery Terminal Initiative v. District of Columbia Bd. of Elections & Ethics, 860 A.2d 813, 814-15 (D.C.2004) (referring to the \u201csignificant First Amendment concerns\u201d raised in that case by the Board's imposition of sanctions for \"false advertising\u201d in connection with an initiative petition). In view of our disposition of this appeal, we need not decide whether or how First Amendment limits on the Board's authority affect petitioners' standing arguments.\n. District Intown Props., Ltd., v. District of Columbia Dep\u2019t of Consumer & Regulatory Affairs, 680 A.2d 1373, 1377 (D.C.1996).\n. Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 512, 114 S.Ct. 2381, 129 L.Ed.2d 405 (1994).\n.Kuri Bros., Inc. v. District of Columbia Bd. of Zoning Adjustment, 891 A.2d 241, 244 (D.C. 2006); see also, e.g., 1330 Conn. Ave., Inc. v. District of Columbia Zoning Comm'n, 669 A.2d 708, 714-15 (D.C.1995) (\"When the construction of an administrative regulation rather than a statute is in issue, deference is even more clearly in order.\u201d) (quoting Udall v. Tallman, 380 U.S. 1, 16, 85 S.Ct. 792, 13 L.Ed.2d 616 (1965)); Allen v. District of Columbia Bd. of Elections & Ethics, 663 A.2d 489, 495 (D.C.1995) (\"[W]e must defer to [the Board\u2019s] interpretation of the statute which it administers, and, especially, of the regulations which it has promulgated, so long as that interpretation is not plainly wrong or inconsistent with the legislative purpose.\u201d).\n. Trinity Broad. of Florida, Inc. v. Fed. Commc\u2019ns Comm\u2019n, 341 U.S.App.D.C. 191, 198, 211 F.3d 618, 625 (2000) (internal quotation marks and brackets omitted).\n. Brief for Petitioners at 15-16.\n. Cf. Heckler v. Chaney, 470 U.S. 821, 831, 105 S.Ct. 1649, 84 L.Ed.2d 714 (1985) (\"[A]n agency\u2019s decision not to prosecute or enforce, whether through civil or criminal process, is a decision generally committed to an agency\u2019s absolute discretion.\u201d); accord, J.C. & Assocs. v. District of Columbia Bd. of Appeals & Review, 778 A.2d 296, 309 (D.C.2001).\n. 533 U.S. 218, 227-28, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001).\n. The term \"Chevron deference\u201d refers to the deference federal courts accord to certain agency actions under the Supreme Court\u2019s decision in Chevron, U.S.A. Inc. v. Natural Res. Def. Council, Inc., 467 U.S. 837, 842-45, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). Our doctrine of substantial deference to agency interpretations of the laws they administer and the regulations they have promulgated is based on Chevron. See, e.g., Allen, 663 A.2d at 495; see also Reichley v. District of Columbia Dep\u2019t of Employment Servs., 531 A.2d 244, 248 n. 4 (D.C.1987) (\u201cOur standard of review of an adjudicative rule \u2014 according great weight to any reasonable construction of a regulatory statute by the agency \u2014 is the same as the standard applicable when an agency uses the rule-making mechanism to construe a statute pursuant to an implicit delegation of legislative authority to fill in the gaps or to resolve ambiguities.\u201d) (citing, inter alia, Chevron, 467 U.S. at 843-45, 104 S.Ct. 2778).\n. 323 U.S. 134, 65 S.Ct. 161, 89 L.Ed. 124 (1944).\n. Mead, 533 U.S. at 228, 121 S.Ct. 2164 (\"The weight [accorded an agency] judgment in a particular case will depend upon the thoroughness evident in its consideration, the validity of its reasoning, its consistency with earlier and later pronouncements, and all those factors which give it power to persuade, if lacking power to control.\u201d) (quoting Skidmore, 323 U.S. at 140, 65 S.Ct. 161). This court has recognized the distinction between Chevron and Skidmore deference. See Este\u00f1os v. PAHO/WHO Fed. Credit Union, 952 A.2d 878, 892 n. 15 (D.C.2008) (acknowledging that reduced deference may be owed to an agency's internal guidelines, such as its compliance manual).\n. See David Mallof, et al., v. District of Columbia Office of Campaign Fin., http://dcboee. org/regulations/admin_order. asp ? type=year& year=2009 (last visited on July 19, 2010).\n. See Pendleton v. District of Columbia Bd. of Elections & Ethics, 449 A.2d 301, 307 (D.C. 1982).\n. Reply Brief for Petitioners at 9.\n. D.C.Code \u00a7 1-1103.01(c).\n. Id. \u00a7 1-1001.05(a)(14).\n. See 3 DCMR \u00a7\u00a7 423, 3705.4, 3709.13.\n. See Teachey v. Carver, 736 A.2d 998, 1005 (D.C.1999).\n. See Brentwood Liquors v. District of Columbia Alcoholic Beverage Control Bd., 661 A.2d 652, 656-57 (D.C.1995) (explaining that an agency must provide a satisfactory reasoned explanation for departing from prior precedent).\n. As the Board notes, in the proceedings below, petitioners did not claim that they had standing based on the impairment of their ability to affect the election's outcome. That is a contention raised for the first time on appeal. Ordinarily, \"[i]n the absence of exceptional circumstances, this court will not entertain contentions not raised before the agency.\u201d Glenbrook Rd. Ass'n v. District of Columbia Bd. of Zoning Adjustment, 605 A.2d 22, 33 (D.C.1992). However, as the Board neither asks us to reject the claim as forfeited nor asserts that its capacity to respond has been prejudiced, we exercise our discretion to dispose of the claim on the merits.\n. In brief, the DCAPA requires a petitioner to show not only (1) that the challenged agency action caused her injury in fact, but also (2) that she is \u201casserting] more than a generalized grievance;\u201d (3) that the interest she seeks to protect is \u201carguably within the zone of interests protected under the statute or constitutional guarantee in question;\u201d (4) that \"no clear legislative intent to withhold judicial review is apparent;\u201d and (5) that there exists \"a substantial probability that the requested relief would alleviate her asserted injury,\u201d i.e., that her injury can be redressed. Miller v. District of Columbia Bd. of Zoning Adjustment, 948 A.2d 571, 574-75 (D.C.2008) (internal quotation marks omitted). The DCAPA thus incorporates both constitutional (Article III) and so-called \"prudential\u201d prerequisites of standing. See Friends of Tilden Park, Inc. v. District of Columbia, 806 A.2d 1201, 1206-07 (D.C.2002).\n. 504 U.S. 555, 560-61, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992) (internal quotation marks, brackets, ellipses and citations omitted).\n. The term \u201cparticularized\u201d means \"the injury must affect the plaintiff in a personal and individual way.\u201d Id. at 560 n. 1, 112 S.Ct. 2130.\n.The concepts of standing and mootness should not be confused. \u201cStanding is determined at the time the complaint is filed, while mootness ensures that the requisite personal stake necessary at the outset of litigation continues through its course.\" Natural Law Party v. Fed. Election Comm'n, 111 F.Supp.2d 33, 40 (D.D.C.2000) (citing Friends of Earth, Inc. v. Laidlaw Envt'l Servs. (TOC), Inc., 528 U.S. 167, 190-91, 120 S.Ct. 693, 145 L.Ed.2d 610 (2000)). Lack of standing always deprives a court of the power to adjudicate a claim, but the doctrine of mootness is subject to recognized exceptions that allow a court to proceed to judgment. See id.\n. Owen v. Mulligan, 640 F.2d 1130, 1133 (9th Cir.1981).\n. Natural Law Party, 111 F.Supp.2d at 50.\n. Renne v. Geary, 501 U.S. 312, 320, 111 S.Ct. 2331, 115 L.Ed.2d 288 (1991) (citation omitted).\n. See supra, n. 50.\n. See supra, n. 22.\n. Friends of the Earth, Inc. v. Laidlaw Envt'l Servs. (TOC), Inc., 528 U.S. 167, 185, 120 S.Ct. 693, 145 L.Ed.2d 610 (2000).\n. See id. at 189, 120 S.Ct. 693.\n. See 3 DCMR \u00a7 3711.l(kk) (permitting OCF to impose a $2,000 fine for using District government resources in campaign-related activities); id. \u00a7 3711.1(b) (\"A fine shall attach for each day of non-compliance for each violation.\u201d).\n. See Laidlaw, 528 U.S. at 187-88, 120 S.Ct. 693; Steel Co. v. Citizens for a Better Environment, 523 U.S. 83, 106-07, 118 S.Ct. 1003, 140 L.Ed.2d 210 (1998).\n. See Linda R.S. v. Richard D., 410 U.S. 614, 619, 93 S.Ct. 1146, 35 L.Ed.2d 536 (1973) (''[A] private citizen lacks a judicially cognizable interest in the prosecution or nonprosecution of another.\u201d).\n. Kralick v. District of Columbia Dep\u2019t of Employment Servs., 842 A.2d 705, 713 (D.C. 2004) (internal quotation marks omitted).\n. 330 U.S.App.D.C. 104, 143 F.3d 618 (1998).\n. Id., 330 U.S.App.D.C. at 107, 143 F.3d at 621.\n. Id.\n. Id., 330 U.S.App.D.C. at 108, 143 F.3d at 622.\n. 202 U.S.App.D.C. 133, 628 F.2d 133 (1980).\n. Id., 202 U.S.App.D.C. at 135, 628 F.2d at 135.\n. Id., 202 U.S.App.D.C. at 137, 628 F.2d at 137 (footnote omitted).\n. Id. (quoting the decision of the district court).\n. 230 F.3d 381 (1st Cir.2000).\n. Id. at 389.\n. Id.\n. Id., 230 F.3d at 390 (citing, inter alia, Gottlieb ); see also Crist v. Comm\u2019n on Presidential Debates, 262 F.3d 193, 195 (2d Cir. 2001) (affirming dismissal for lack of standing of voter's action challenging restrictions on third-party-candidate participation in presidential debates; \"a voter fails to present an injury-in-fact when the alleged harm is abstract and widely shared or is only derivative of a harm experienced by a candidate\u201d).\n. 963 F.2d 1394 (10th Cir. 1992).\n. Id., 963 F.2d at 1397. See also Kardules v. City of Columbus, 95 F.3d 1335, 1349 (6th Cir. 1996) (distinguishing \"classic vote dilution cases involv[ing] injuries that can be established with mathematical certainty,\u201d such as the apportionment cases).\n. 524 U.S. 11, 118 S.Ct. 1777, 141 L.Ed.2d 10 (1998).\n. Id., 524 U.S. at 21, 118 S.Ct. 1777.\n. Id. (emphasis added).\n. Id. (citing Public Citizen v. Dep\u2019t of Justice, 491 U.S. 440, 449, 109 S.Ct. 2558, 105 L.Ed.2d 377 (1989) (involving withholding of information subject to disclosure under the Federal Advisory Committee Act), and Havens Realty Corp. v. Coleman, 455 U.S. 363, 373-74, 102 S.Ct. 1114, 71 L.Ed.2d 214 (1982) (involving violation of statute conferring on all persons a right to information about housing availability)).\n. Common Cause v. Fed. Election Comm\u2019n, 323 U.S.App.D.C. 359, 364, 108 F.3d 413, 418 (1997).\n. See, e.g., Lujan, 504 U.S. at 573-78, 112 S.Ct. 2130; see also Fairchild v. Hughes, 258 U.S. 126, 129, 42 S.Ct. 274, 66 L.Ed. 499 (1922) (\"Plaintiff has [asserted] only the right, possessed by every citizen, to require that the Government be administered according to law and that the public moneys be not wasted.\u201d).\n. See, e.g., Shays v. Fed. Election Comm'n, 367 U.S.App.D.C. 185, 192-201, 414 F.3d 76, 83-92 (2005); Buchanan v. Fed. Election Comm'n, 112 F.Supp.2d 58, 63-64 (D.D.C. 2000) (citing cases).\n. Gottlieb v. Fed. Election Comm\u2019n, 330 U.S.App.D.C. 104, 108, 143 F.3d 618, 622 (1998).\n.Brief for Petitioners at 15.",
+        "type": "majority",
+        "author": "GLICKMAN, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Amanda Hine, with whom Marcia T. Maack and Arthur B. Spitzer, Washington, DC, were on the brief, for petitioner.",
+      "Terri D. Stroud, with whom Kenneth J. McGhie was on the brief, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "David J. MALLOF, et al., Petitioners, v. DISTRICT OF COLUMBIA BOARD OF ELECTIONS AND ETHICS, Respondent.\nNo. 09-AA-182.\nDistrict of Columbia Court of Appeals.\nArgued Sept. 30, 2009.\nDecided Aug. 5, 2010.\nAmanda Hine, with whom Marcia T. Maack and Arthur B. Spitzer, Washington, DC, were on the brief, for petitioner.\nTerri D. Stroud, with whom Kenneth J. McGhie was on the brief, for respondent.\nBefore GLICKMAN and FISHER, Associate Judges, and FARRELL, Senior Judge."
+  },
+  "file_name": "0383-01",
+  "first_page_order": 413,
+  "last_page_order": 430
+}

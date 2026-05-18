@@ -1,0 +1,510 @@
+{
+  "id": 7289662,
+  "name": "Michelle DEULEY, Individually, and in Her Capacities as Surviving Spouse of John Deuley, as Executrix of the Estate of John Deuley, Deceased, And as Mother, Guardian and/or Next Friend of Amberlye Marie Deuley, Justin Andrew Deuley, and Jordan Aubrey Deuley, Minor Children of John Deuley, Joseph and Kim Dickinson; Kathy Gibson, Individually, and in her Capacities as Surviving Spouse of Gerald Gibson and as Executrix of the Estate of Gerald Gibson, Deceased, Plaintiffs Below Appellants, v. DYNCORP INTERNATIONAL, INCORPORATED, a Delaware Corporation Parent of the co-defendant DynCorp Entities, formerly known as DI Acquisition Corp; DynCorp International LLC, a Delaware Limited Liability Corporation; and CSC Applied Technologies LLC, Formerly known as DynCorp Technical Services, LLC, a Delaware Limited Liability Corporation, Defendants Below Appellees",
+  "name_abbreviation": "Deuley v. DynCorp International, Inc.",
+  "decision_date": "2010-12-08",
+  "docket_number": "No. 155, 2010",
+  "first_page": "1156",
+  "last_page": "1166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1156"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "551 A.2d 62",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11314289
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "64-65"
+        },
+        {
+          "page": "64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/551/0062-01"
+      ]
+    },
+    {
+      "cite": "791 F.Supp. 445",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7409694
+      ],
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/791/0445-01"
+      ]
+    },
+    {
+      "cite": "210 A.2d 858",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "860"
+        },
+        {
+          "page": "860"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "560 A.2d 1059",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357380
+      ],
+      "pin_cites": [
+        {
+          "page": "1062"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/560/1059-01"
+      ]
+    },
+    {
+      "cite": "959 A.2d 28",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 687228",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "*9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "760 A.2d 157",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11182405
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "159"
+        },
+        {
+          "page": "159"
+        },
+        {
+          "page": "159",
+          "parenthetical": "holding a wrongful death action cannot be maintained when worker's compensation provides the exclusive remedy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0157-01"
+      ]
+    },
+    {
+      "cite": "1999 WL 1241073",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2000 WL 305448",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 A.2d 984",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8010615
+      ],
+      "pin_cites": [
+        {
+          "page": "985"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/429/0984-01"
+      ]
+    },
+    {
+      "cite": "2009 WL 3636756",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 4152677",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 7,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "*5",
+          "parenthetical": "\"In such instances of 'false conflicts' of laws, the Court may resolve the dispute without a choice between the laws of the competing jurisdictions.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 F.3d 455",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        936139
+      ],
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/435/0455-01"
+      ]
+    },
+    {
+      "cite": "2007 WL 143099",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Alabama clearly satisfies this test because the claims and counterclaims that the Settlement Agreement resolved were pending in its State courts.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "958 A.2d 245",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8202127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/0245-01"
+      ]
+    },
+    {
+      "cite": "769 A.2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11108991
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "112"
+        },
+        {
+          "page": "112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/769/0088-01"
+      ]
+    },
+    {
+      "cite": "2006 WL 1375106",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "958 A.2d 871",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8205578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/0871-01"
+      ]
+    },
+    {
+      "cite": "559 A.2d 1289",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7908010
+      ],
+      "pin_cites": [
+        {
+          "page": "1293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/559/1289-01"
+      ]
+    },
+    {
+      "cite": "750 A.2d 518",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11527118
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "520"
+        },
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/750/0518-01"
+      ]
+    },
+    {
+      "cite": "594 A.2d 38",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366495
+      ],
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/594/0038-01"
+      ]
+    },
+    {
+      "cite": "866 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9035279
+      ],
+      "pin_cites": [
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/866/0001-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 59",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11308630
+      ],
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/669/0059-01"
+      ]
+    },
+    {
+      "cite": "897 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8424207
+      ],
+      "pin_cites": [
+        {
+          "page": "169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/897/0162-01"
+      ]
+    },
+    {
+      "cite": "783 A.2d 543",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9469513
+      ],
+      "pin_cites": [
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/783/0543-01"
+      ]
+    },
+    {
+      "cite": "977 A.2d 892",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295782
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "895"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/977/0892-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 704895",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1651",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(4)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1179,
+    "char_count": 26185,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 3.48046839514656e-07,
+      "percentile": 0.8817110572855792
+    },
+    "sha256": "55ee57641037e3600779994842d3c6fc727f2ee9824bf3015695be2ecadca558",
+    "simhash": "1:5b05a7be1ca8efdc",
+    "word_count": 4134
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND and RIDGELY, Justices."
+    ],
+    "parties": [
+      "Michelle DEULEY, Individually, and in Her Capacities as Surviving Spouse of John Deuley, as Executrix of the Estate of John Deuley, Deceased, And as Mother, Guardian and/or Next Friend of Amberlye Marie Deuley, Justin Andrew Deuley, and Jordan Aubrey Deuley, Minor Children of John Deuley, Joseph and Kim Dickinson; Kathy Gibson, Individually, and in her Capacities as Surviving Spouse of Gerald Gibson and as Executrix of the Estate of Gerald Gibson, Deceased, Plaintiffs Below Appellants, v. DYNCORP INTERNATIONAL, INCORPORATED, a Delaware Corporation Parent of the co-defendant DynCorp Entities, formerly known as DI Acquisition Corp; DynCorp International LLC, a Delaware Limited Liability Corporation; and CSC Applied Technologies LLC, Formerly known as DynCorp Technical Services, LLC, a Delaware Limited Liability Corporation, Defendants Below Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "STEELE, Chief Justice:\nIn this appeal we consider whether a Superior Court judge erred by holding that under Delaware law the liability clause in civilian police officers\u2019 employment contracts released claims arising out of injuries suffered in Afghanistan. The complainants contend that the liability clause and relevant language purporting to release \u201cany claim\u201d is insufficient to release their employer and its affiliates from claims of negligence. Because the language of the employment agreement clearly and unambiguously releases those claims, we AFFIRM the Superior Court\u2019s judgments.\nFACTUAL AND PROCEDURAL BACKGROUND\nOn August 29, 2004, a terrorist attack on the United States Department of State Civilian Police (CIVPOL) headquarters building in Kabul, Afghanistan, killed CIVPOL officers John Deuley and Gerald Gibson and seriously injured Joseph Dickinson. The terrorist operative detonated a vehicle borne improvised explosive device on the street outside the building. Deu-cy's wife and Gibson\u2019s wife filed wrongful death and survival actions, Dickinson filed a personal injury claim, and his wife filed a loss of consortium claim against the general contractors of the mission.\nThe Officers worked for DynCorp International FZ, LLC, a Dubai corporation. DynCorp, FZ is not a party to this action. Appellees/Defendants DynCorp International Inc., DynCorp International LLC, and CSC Applied Technologies LLC (collectively, DynCorp) were the general contractors to the CIVPOL mission. They managed employee housing, logistical support, and supervision. DynCorp International, Inc. is a Delaware corporation with its principal place of business in Reston, Virginia. DynCorp International LLC is a limited liability Delaware company with its principal place of business in Fort Worth, Texas. CSC Applied Technologies LLC is a Delaware limited liability company that maintains an office in New Castle, Delaware.\nDynCorp filed a motion to dismiss pursuant to Superior Court Rule 12(b)(6) based on the terms of the Employment Agreement the Officers signed. The agreement contained a \u201cLiability\u201d provision at Paragraph 10, stating:\nThe Employee understands and accepts the fact that he or she may be exposed to dangers due to the nature of the mission. The Employee agrees that neither Employer nor its affiliates will be liable in the event of death, injury, or disability, to Employee, except as stated below. Employer will obtain the insurance described in Attachment A on behalf of the Employee. The Employee agrees to accept these insurance benefits as full satisfaction of any claim for death, injury, or disability against Employer and its affiliates.\nThe agreement also contained a choice of law provision stating \u201c[t]his contract shall be governed by and interpreted under the laws of the Dubai Internet City in the Dubai Technology, Electronic Commerce and Media City Free Zone.\u201d Both parties submitted expert testimony attempting to demonstrate the applicable Dubai law in support of and against the Motion to Dismiss.\nIn accordance with the agreement, Dyn-Corp purchased insurance for Deuley, Gibson, and Dickinson. Upon their deaths, Deule/s and Gibson\u2019s beneficiaries received $160,000 under their policies. Dickinson receives disability benefits of $1030.78 per week, and will receive free medical treatment until his doctor releases him to return to work or he reaches his maximum medical improvement.\nThe Superior Court judge granted Dyn-Corp\u2019s Motion to Dismiss based on the above stated contract provision.\nSTANDARD OF REVIEW\nWe review a decision to grant a Motion to Dismiss under Superior Court Rule 12(b)(6) de novo to determine whether the judge erred as a matter of law in formulating or applying legal precepts. In reviewing the grant or denial of a Motion to Dismiss, \u201cwe view the complaint in the light most favorable to the nonmoving party, accepting as true its well-pled allegations and drawing all reasonable inferences that logically flow from those allegations.\u201d We do not, however, accept \u201cconclusory allegations unsupported by specific facts, nor do we draw unreasonable inferences in the plaintiffs favor.\u201d In limited circumstances a court may consider the plain terms of a document incorporated in the complaint without converts ing the motion into one for summary judgments.\nA judge\u2019s ruling on foreign law is a question of law we review de novo.\nANALYSIS\nA. The Choice of Law Analysis\nDelaware courts use the \u201cmost significant relationship test\u201d when conducting a contract choice of law analysis. The Restatement (Second) Conflict of Laws Section 6(2) provides that the following seven factors are relevant in conducting a choice of law inquiry:\n(a) the needs of the interstate and international systems,\n(b) the relevant policies of the forum,\n(c) the relevant policies of other interested states and the relative interests of those states in the determination of the particular issue,\n(d) the protection of justified expectations,\n(e) the basic policies underlying the particular field of law,\n(f) certainty, predictability and uniformity of result, and-\n(g) ease in the determination and application of the law to be applied.\nIn general, Delaware Courts will honor \u201ca contractually designed choice of law provision so long as the jurisdiction selected bears some material relationship to the transaction.\u201d A material relationship exists where a party\u2019s principal place of business is located within the foreign jurisdiction, a majority of the activity underlying the action occurred within the foreign jurisdiction, and where parties to a contract performed most of their services in the foreign state. However, a foreign jurisdiction\u2019s laws may not be used to interpret a contractual provision \u201cin a manner repugnant to the public policy of Delaware.\u201d\nThe Officers\u2019 employment agreement plainly states that Dubai law governs the contract. While Dubai arguably does not have a strong material relationship to this action \u2014 Deuley was from Arkansas, Gibson was from Missouri, Dickinson is a resident of Virginia, the DynCorp Defendants are Delaware business entities, and the Officers\u2019 employment and their injuries occurred in Afghanistan \u2014 Dubai\u2019s relationship to the case is similar to Delaware\u2019s. As we explain below, the result would be the same under both Delaware and Dubai law. Therefore \u201c[a]ccording to conflicts of law principles ... there is a \u2018false conflict,\u2019 and the Court should avoid the choice-of-law analysis altogether.\u201d\nB. Dubai/UAE Law Analysis\nThe laws of Delaware, the United Arab Emirates, and Dubai are similar if a worker is injured or killed during the course of his employment. In the UAE and Dubai, if an employee is killed or injured during the course of his employment, the law provides certain remedies. In the event of the death of an employee, UAE Labor Law requires that a certain amount be paid to the employee\u2019s family. The judge here found the release valid under UAE labor law based upon the expert declaration of Omar-AI Shaikh, a Dubai attorney specializing in UAE labor law:\n[I]n order for [the general release] to be valid where an employee has died as a result of an accident at work[,] the employer is required to pay the employee\u2019s family (as defined in Article 149) a one time lump sum payment equal to his basic remuneration for 24 months, provided that the amount of the compensation is not less that AED 18,000 (USD $4,904.63) nor greater than AED 35,000 (USD $9,536.78).\nUAE Labor Law enforces the waiver provision in the Officers\u2019 employment contract as long as it is \u201cmore advantageous to the worker.\u201d In the instant case, the Officers\u2019 estates were paid more than the amount required under the UAE Labor Law. The statutory amount owed to Deu-le/s estate was approximately $134,769.12 and the insurance policy paid a lump sum payment of $160,000. The statutory amount owed to Gibson\u2019s estate was approximately $106,444.80 and the insurance policy paid a lump sum payment of $160,000. The statutory amount owed to Dickinson for his injuries is $60,923.07 and to date he has received $237,951.15 in benefits under the contractually mandated insurance policy. He received medical treatments for injuries at no cost to him and will continue to receive a temporary partial disability payment of $1,030.78 per week.\nThe judge also found the release valid under the UAE Civil Code. Expert Has-san Arab, partner in a Dubai law firm, opined that the release is valid not only under UAE labor law, but also under the Civil Code. Article 296 of the Civil Code states that \u201c[a]ny condition purporting to provide exemption from liability for a harmful act shall be void.\u201d According to one treatise on the subject, however, \u201cit is permissible for parties to limit compensation to a certain amount or to a specified remedy, provided that such agreement does not violate an existing law, regulation or public policy.\u201d We agree with the judge that the release did not purport to provide an exemption from liability; it merely provided the Officers the stated benefits in lieu of their right to sue their employer in the event of death or injury during the course of their employment.\nUnder Dubai law, the phrase \u201cany claim\u201d in this contract releases both contract and tort claims. Arab explained that \u201cany claim\u201d in the release would, by its plain meaning, include tort claims and contract claims. He also said the contract \u201cprovides for the amount the parties have agreed shall be the compensation for [the Officers] and [their Estates] in the event of [] death [or injury] as long as [they are employees] of DynCorp FZ.\u201d Essentially, Arab said as long as the Officers\u2019 contract was in effect at the time of death or injury, then the release governs any claims in contract and tort. The Officers have put forth no arguments that the contract was not in effect at the time of the accident. In fact, the Officers or their respective estates have recognized the financial benefit of the bargain by accepting the benefits awarded under the coverage purchased in exchange for the release.\nC. Delaware Law Analysis\nDelaware courts recognize the validity of general releases. A clear and unambiguous release \u201cwill [only] be set aside where there is fraud, duress, coercion, or mutual mistake concerning the existence of a party\u2019s injuries.\u201d\nIn determining whether the release is ambiguous, the intent of the parties is controlling as to the scope and effect of the release. It must appear that the plaintiff, or a reasonable person in the place of the plaintiff, understood the terms of the release. A court determines the parties\u2019 intent from the overall language of the document. The Officers signed an employment agreement, which plainly stated: \u201c[t]he Employee understands and accepts the fact that he or she will be exposed to dangers due to the nature of the mission.\u201d The next sentence clearly discusses the possibility of death, injury, and disability while limiting the employer\u2019s liability to the coverage stated in the subsequent sentence. Finally, in the last sentence of the liability clause, the employee agrees to accept the insurance benefits as \u201cfull satisfaction\u201d of \u201cany claim\u201d for \u201cdeath, injury, or disability against Employer and its affiliates.\u201d In this short, four sentence liability clause, the Officers were told they would be exposed to dangers \u201cdue to\u201d the nature of the mission and they were told twice that death, injury, and disability were likely possibilities.\nThe limitation on liability provision at issue here, where the Officers agreed to accept insurance benefits in exchange for a release, is more akin to a workers\u2019 compensation relationship. If the Officers died or were injured during the course of their employment in Delaware, Delaware\u2019s Workers\u2019 Compensation Law (insurance to which an employer must subscribe) would have provided an exclusive remedy based upon a schedule \u201cregardless of the question of negligence and to the exclusion of all other rights and remedies.\u201d Similarly, the employment agreement here states that each Officer \u201cagrees that neither Employer nor its affiliates will be liable in the event of death, injury, or disability\u201d and that \u201c[t]he Employee agrees to accept [the] insurance benefits as full satisfaction of any claim for death, injury, or disability against Employer and its affiliates.\u201d\nWe therefore hold that the language of the employment contract is clear and unambiguous. The overall language of the agreement implicates a risk shifting arrangement similar to workers\u2019 compensation arrangements. The Officers agreed to waive their right to sue their employer and affiliates in the event of death, injury, or disability for \u201cany claims\u201d related to the mission.\nD. Analysis of the Wrongful Death, Survival, Personal Injury and Loss of Consortium Claims\nThe release says: \u201cThe [Officers] understand[] and accept[] the fact that [they] may be exposed to dangers due to the nature of the mission.\u201d This reference to the nature of the mission clearly contemplates a hazardous work environment and the reference to \u201cany claim\u201d in the release by its plain meaning applies to both contract and tort claims under both Dubai and Delaware law. The Officers\u2019 employment contract was drafted with the intent to provide them with a form of workers\u2019 compensation if they were killed or injured during the course of their employment. The purpose of the Delaware Workers\u2019 Compensation Statute, as well as other similar state statutes, is a trade off. The first goal is prompt compensation to the injured worker for the job related injury without the worker being required to prove any fault. Conversely, the other goal is to preclude the employee from bringing a suit for a common law tort against the employer arising out of a job related accident. Accordingly, \u201c[u]nder these statutes, most courts have held that the exclusivity provision of a Workers\u2019 Compensation statute precludes a suit for negligence under the common law, even if the injury was caused by the gross, wanton, willful, deliberate, reckless, culpable or malicious negligence, or other misconduct of the employer.\u201d\nSimilarly, under Delaware law, derivative claims are barred under the workers\u2019 compensation statute because the exclusivity provision extinguishes the predicate claim.\nE. Wrongful Death Claims\nWe hold that Deuley and Gibson waived their eligible survivors wrongful death claims by signing the release in the employment agreement. Under Delaware\u2019s wrongful death statute, a wrongful death action is derivative and wholly dependent on whether the decedent had a right to bring a claim during his lifetime. A Delaware wrongful death claim \u201chas always been a separate and different right of action than that held by the deceased.\u201d Nevertheless, in Delaware, wrongful death claims have been \u201cheld subject to the same infirmities as would have existed in a suit by the deceased if still alive.\u201d The current wrongful death statute, specifically 10 Del. C. \u00a7 3721(5), imposes a condition precedent to the accrual of a wrongful death cause of action by the Officers \u2014 the decedent\u2019s ability to have maintained an action and recovered damages, if death had not ensued.\nAlthough we agree with the trial judge\u2019s holding we adopt different reasoning. The Officers have no direct claim against DynCorp because they waived \u201cany claim\u201d for negligence. Because the Officers unambiguously waived their claim for negligence against DynCorp for their injuries and death, their eligible survivors\u2019 wrongful death derivative claims cannot arise from any predicate claim. Therefore, the Officers\u2019 eligible survivors are barred from pursuing wrongful death claims for failure to meet the condition precedent because the Officers waived all of their claims against DynCorp in a pre-injury limitation on liability agreement in return for insurance.\nF. Survival Claims\nUnder Delaware\u2019s survival statute, \u201c[a] survival action, filed by the personal representative of the estate, recovers any damage sustained by the decedent between the injury and his/her death, for which the decedent could have recovered had [he] lived.\u201d We agree with the trial judge\u2019s ruling in Parlin that by signing the employment agreement containing the release, the Officers waived their estates\u2019 survival claims. The agreement stated that the Officers \u201cagree[d] to accept [the] insurance benefits as full satisfaction of any claim for death ... against Employer and its affiliates.\u201d The Officers waiver of their right to sue DynCorp for their injuries and death, bars their personal representatives from pursuing the survival claim.\nG. Loss of Consortium Claims\nWe hold Dickinson waived his wife\u2019s loss of consortium claim by signing the release in the employment agreement. We find the holding of Jones v. Elliott distinguishable on the facts of this case. In Jones we held a \u201cphysically injured spouse may not unilaterally extinguish the loss of consortium claim of the other spouse by signing a general release, for the loss of consortium claim is not his to extinguish.\u201d In Jones, we explained \u201cthat the direct claim spouse must have a right to maintain a claim for personal injuries against the alleged tortfeasor before the noninjured spouse\u2019s claim for loss of consortium may arise.\u201d Thus, loss of consortium is a derivative claim. The difference between this case and Jones is that in Jones the injured spouse had a claim against the tortfeasor and released the claim after it arose without his wife\u2019s knowledge or consent. Here, Dickinson waived all of his claims against DynCorp in a pre-injury limitation on liability agreement in return for benefits. Dickinson has no \u201cdirect claim\u201d against DynCorp because he waived \u201cany claim\u201d based on negligence and, therefore, his spouse\u2019s loss of consortium claim has no predicate claim from which to derive.\nH. Personal Injury Claims\nDickinson waived his personal injury claims by signing the release in the employment agreement. Because the liability clause is valid and \u201cany claim\u201d includes claims of negligence against DynCorp, Dickinson\u2019s claims for personal injury are barred.\nI. Assumption of the Risk\nBecause we affirm the decision of the trial judge on other grounds we need not discuss assumption of the risk.\nCONCLUSION\nFor these reasons, we affirm the judgment of the Superior Court.\n. Pursuant to 42 U.S.C. \u00a7 1651(a)(4), the Defense Base Act, which applies Section 904(a) of the Longshore and Harbor Workers\u2019 Compensation Act to any employment under a contract (or subcontract with respect to such contract) entered into by the United States for engaging in public works abroad, subcontractor employer FZ-LLC Dubai secured DBA coverage for its employees, John Deuley, Joseph Dickinson, and Gerald Gibson.\n. Appellants\u2019 Appendix at A000077, A000083, A000090.\n. Appellants' Appendix at A000079, A000086, A0000902.\n. Deuley v. DynCorp Int'l, Inc., 2010 WL 704895, at *2 (Del.Super.Ct. Feb. 26, 2010).\n. Id. Dickinson\u2019s injuries include loss of hearing and impairment to his left leg.\n. Clinton v. Enterprise Rent-A-Car Co., 977 A.2d 892, 895 (Del.2009).\n.Id.\n. Id. (citing White v. Panic, 783 A.2d 543, 549 (Del.2001)).\n. In re Gen. Motors S\u2019holder Litig., 897 A.2d 162, 169 (Del.2006); see also In re Santa Fe Pac. Corp. S\u2019holder Litig., 669 A.2d 59, 69 (Del.1995).\n. Saudi Basic Indus. Corp. v. Mobil Yanbu Petrochemical Co., 866 A.2d 1, 30 (Del.2005).\n. Travelers Indem. Co. v. Lake, 594 A.2d 38, 41 (Del.1991).\n. J.S. Alberici Constr. Co., v. Mid-West Conveyor Co., Inc., 750 A.2d 518, 520 (Del.2000); Annan v. Wilmington Trust Co., 559 A.2d 1289, 1293 (Del.1989).\n. Maloney-Refaie v. Bridge at Sch., Inc., 958 A.2d 871, 879 n. 16 (Del.Ch.2008); Shadewell Grove IP, LLC v. Mrs. Fields Franchising, LLC, 2006 WL 1375106, at *7 (Del.Ch. May 8, 2006); Hills Stores Co. v. Bozic, 769 A.2d 88, 112 (Del.Ch.2000).\n. E.I. duPont de Nemours & Co. v. Bayer CropScience L.P., 958 A.2d 245, 249 n. 9 (Del.Ch.2008).\n. Bozic, 769 A.2d at 112. See also Knight v. Caremark Rx, Inc., 2007 WL 143099, at *5 n. 14 (Del.Ch. Jan. 12, 2007) (\"Alabama clearly satisfies this test because the claims and counterclaims that the Settlement Agreement resolved were pending in its State courts.\u201d).\n. J.S. Alberici Constr. Co., 750 A.2d at 520.\n. Appellants\u2019 Appendix at A000079, A000086, A0000902.\n. Berg Chilling Sys., Inc. v. Hull Corp., 435 F.3d 455, 462 (3d Cir.2006); see also Lagrone v. Am. Mortell Corp., 2008 WL 4152677, at *5 (Del.Super.Ct. Sept. 4, 2008) (\u201cIn such instances of \u2018false conflicts\u2019 of laws, the Court may resolve the dispute without a choice between the laws of the competing jurisdictions.\u201d).\n.The Dubai Internet City is a free zone in the UAE that facilitates foreign investment opportunities in the UAE. The TECOM Employment Regulations of 2004 apply to all companies that operate in Dubai and regulate the employment relationship between employer/licensee and its employees. Article 12.2 of the TECOM Employment Regulations requires that:\n\u201cA licensee worker\u2019s compensation insurance shall include cover [sic] employment injury and/or disability and related medical expenses in accordance with the UAE Labor Law.\u201d\nTECOM regulations may provide additional or enhanced requirements between employer and employee in Dubai, but the employment relationship is still governed by the UAE Labor Law which creates the statutory minimum obligations of the employer. Appellants\u2019 Appendix at A000049.\n. Id.\n. Id. atA000316.\n. Id. at A000062.\n. Id. at A000064.\n. Id. at A000065.\n. Id.\n. Parlin v. DynCorp Int'l., 2009 WL 3636756 at *4 (Del.Super.Ct. Sept. 30, 2009).\n. Id.\n. Appellants\u2019 Appendix at A000160 (emphasis added).\n. Appellants\u2019 Appendix at A000342.\n. Id.\n. See supra note 22, 23, 24.\n. Chakov v. Outboard Marine Corp., 429 A.2d 984, 985 (Del.1981).\n. Parlin, 2009 WL 3636756, at *4 (quoting Edge of the Woods, Ltd. P\u2019ship v. Wilmington Sav. Fund Soc.\u2019y, FSB, 2000 WL 305448, at *4 (Del.Super.Ct. Feb. 7, 2000)).\n. Tucker v. Albun, Inc., 1999 WL 1241073, at *2 (Del.Super.Ct. Sept. 27, 1999).\n. Id. at *2.\n. Id.\n. Appellants\u2019 Appendix at A000077, A000083, A000090 (emphasis added).\n. See id.\n. Id. (emphasis added).\n. The trial judge took judicial notice that \"at a minimum, when [the Officers] signed the releases, even a poorly informed American had to have appreciated that working in Afghanistan involved the general risk of insurgent or terrorist attacking by an IED. The complaint offers no reason to find that any plaintiff here was probably unaware of the general risk of being injured or killed by a bomb.\u201d Deuley v. DynCorp Int\u2019l., 2010 WL 704895, at *4 (Del.Super.Ct. Feb. 26, 2010).\n. 19 Del. C. \u00a7 2304.\n. Appellants\u2019 Appendix at A000077, A000083, A000090.\n. The Officers put forth no arguments of fraud, duress, coercion, or mutual mistake.\n. Appellants\u2019 Appendix at A000077, A000083, A000090.\n. Id. at A000342.\n. Rafferty v. Hartman Walsh Painting Co., 760 A.2d 157, 159 (Del.2000); see also Larson, Worker's Compensation Law \u00a7 103.03: 103-5 through 103-6.\n. Rafferty, 760 A.2d at 159.\n. Rafferty, 760 A.2d at 159 (holding a wrongful death action cannot be maintained when worker\u2019s compensation provides the exclusive remedy): Lovett v. Chenney, 2007 WL 687228, at *9 (Del.Super.Ct. Mar. 7, 2007), aff'd, 959 A.2d 28 (Del.2008) (holding a loss of consortium claim is barred when worker's compensation provides the exclusive remedy).\n. 10 Del. C. \u00a7 3724(c)\nIn an action under this subchapter, damages may be awarded to the beneficiaries proportioned to the injury resulting from the wrongful death (emphasis added).\n. Drake v. St. Francis Hosp., 560 A.2d 1059, 1062 (Del.1989); (quoting Milford Mem\u2019l Hosp., Inc. v. Elliott, 210 A.2d 858, 860 (Del.1965)).\n. Drake at 1061 (quoting Milford Mem.'l, 210 A.2d at 860).\n. 10 Del. C. \u00a7 3721(5)\n\"Wrongful Act\" means an act, neglect or default including a felonious act which would have entitled the party injured to maintain an action and recover damages if death had not ensued (emphasis added).\n. Deuley, 2010 WL 704895, at *3-*4.\n. 10 Del. C. \u00a7 3701\nAll causes of action, except actions for defamation, malicious prosecution, or upon penal statutes, shall survive to and against the executors or administrators of the person to, or against whom, the cause of action accrued. Accordingly, all actions, so surviving, may be instituted or prosecuted by or against the executors or administrators of the person to or against whom the cause of action accrued. This section shall not affect the survivorship among the original parties to a joint cause of action.\n. Frantz v. U.S., 791 F.Supp. 445, 448 (D.Del.1992).\n. 551 A.2d 62 (Del.1988).\n. Id. at 64-65; see also Parlin, 2009 WL 3636756 at *5.\n. Jones, 551 A.2d at 64.",
+        "type": "majority",
+        "author": "STEELE, Chief Justice:"
+      }
+    ],
+    "attorneys": [
+      "Neilli Mullen Walsh and Ben T. Castle of Young Conaway Stargatt & Taylor LLP, Wilmington, Delaware; James E. Beasley, Jr. and Maxwell S. Kennerly (argued) of The Beasley Firm, LLC, of counsel, Philadelphia, PA for appellants.",
+      "Robert K. Beste, III of Smith, Katzen-stein & Furlow LLP, Wilmington, DE; Robert B. Wallace (argued), Kevin Farrell and Chrissy Costantino of Wilson, Elser, Moskowitz, Edelman & Dicker LLP of counsel, Washington, DC for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Michelle DEULEY, Individually, and in Her Capacities as Surviving Spouse of John Deuley, as Executrix of the Estate of John Deuley, Deceased, And as Mother, Guardian and/or Next Friend of Amberlye Marie Deuley, Justin Andrew Deuley, and Jordan Aubrey Deuley, Minor Children of John Deuley, Joseph and Kim Dickinson; Kathy Gibson, Individually, and in her Capacities as Surviving Spouse of Gerald Gibson and as Executrix of the Estate of Gerald Gibson, Deceased, Plaintiffs Below Appellants, v. DYNCORP INTERNATIONAL, INCORPORATED, a Delaware Corporation Parent of the co-defendant DynCorp Entities, formerly known as DI Acquisition Corp; DynCorp International LLC, a Delaware Limited Liability Corporation; and CSC Applied Technologies LLC, Formerly known as DynCorp Technical Services, LLC, a Delaware Limited Liability Corporation, Defendants Below Appellees.\nNo. 155, 2010.\nSupreme Court of Delaware.\nSubmitted: Sept. 15, 2010.\nDecided: Dec. 8, 2010.\nNeilli Mullen Walsh and Ben T. Castle of Young Conaway Stargatt & Taylor LLP, Wilmington, Delaware; James E. Beasley, Jr. and Maxwell S. Kennerly (argued) of The Beasley Firm, LLC, of counsel, Philadelphia, PA for appellants.\nRobert K. Beste, III of Smith, Katzen-stein & Furlow LLP, Wilmington, DE; Robert B. Wallace (argued), Kevin Farrell and Chrissy Costantino of Wilson, Elser, Moskowitz, Edelman & Dicker LLP of counsel, Washington, DC for appellees.\nBefore STEELE, Chief Justice, HOLLAND and RIDGELY, Justices."
+  },
+  "file_name": "1156-01",
+  "first_page_order": 1182,
+  "last_page_order": 1192
+}

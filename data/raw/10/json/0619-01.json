@@ -1,0 +1,68 @@
+{
+  "id": 7288048,
+  "name": "In re Timothy BROWN, Esquire, Respondent",
+  "name_abbreviation": "In re Brown",
+  "decision_date": "2010-09-23",
+  "docket_number": "No. 06-BG-550",
+  "first_page": "619",
+  "last_page": "619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 619"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 9509,
+    "name": "United States Court of Appeals for the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "Registration No. 366743,",
+      "category": "laws:admin_filing",
+      "reporter": "Registration",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 126,
+    "char_count": 1379,
+    "ocr_confidence": 0.689,
+    "sha256": "64be93cb834277342b68ac98d94cca7f8e3a5dad6521bdd421b2e97c7242bcc3",
+    "simhash": "1:9ff5006ee3ef6d37",
+    "word_count": 223
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID and FISHER, Associate Judges; and FARRELL, Senior Judge."
+    ],
+    "parties": [
+      "In re Timothy BROWN, Esquire, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of this court\u2019s April 14, 2010, order referring Bar Counsel\u2019s request to revoke respondent\u2019s probation to the Board on Professional Responsibility for consideration by a Hearing Committee, the subsequent report and recommendation of the Ad Hoc Hearing Committee, the statement of Bar Counsel, and the entire record, it is\nORDERED that Bar Counsel\u2019s motion to revoke probation is granted and the probation imposed on Timothy Brown, Esquire, in this matter is hereby revoked. It is\nFURTHER ORDERED that Timothy Brown, Esquire, is hereby suspended from the practice of law for the period of two years and that reinstatement is subject to both a finding of fitness as well as a showing of reasonable progress towards repayment of the amounts owed to the Clients\u2019 Security Fund. It is\nFURTHER ORDERED that for purposes of reinstatement, this period will not commence to run, until such time as respondent files an affidavit that fully complies with the requirements of D.C.Bar. R. XI, \u00a7 14(g). It is\nFURTHER ORDERED that the Court is grateful to the Hearing Committee for its invaluable assistance in this matter.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Timothy BROWN, Esquire, Respondent.\nNo. 06-BG-550.\nDistrict of Columbia Court of Appeals.\nFiled Sept. 23, 2010.\nBar Registration No. 366743, BDN: 273-91, et al.\nBefore REID and FISHER, Associate Judges; and FARRELL, Senior Judge."
+  },
+  "file_name": "0619-01",
+  "first_page_order": 619,
+  "last_page_order": 619
+}

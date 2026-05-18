@@ -1,0 +1,651 @@
+{
+  "id": 7288458,
+  "name": "Benjamin F. STEWARD, Appellant, v. Marc S. MOSKOWITZ, et al., Appellees",
+  "name_abbreviation": "Steward v. Moskowitz",
+  "decision_date": "2010-10-07",
+  "docket_number": "Nos. 08-CV-1055, 08-CV-1064, 08-CV-1392",
+  "first_page": "638",
+  "last_page": "652",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "592 S.E.2d 724",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        12631152
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "727, 729",
+          "parenthetical": "trial court did not err in setting aside execution sale where property owner was not sent notice of the execution sale, did not receive actual notice, and the property valued at $215,000.00 was sold for $20,200.00 to satisfy a judgment of $9,546.30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/se2d/592/0724-01"
+      ]
+    },
+    {
+      "cite": "163 N.C.App. 73",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        8915232,
+        12631152
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "trial court did not err in setting aside execution sale where property owner was not sent notice of the execution sale, did not receive actual notice, and the property valued at $215,000.00 was sold for $20,200.00 to satisfy a judgment of $9,546.30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/163/0073-01",
+        "/se2d/592/0724-01"
+      ]
+    },
+    {
+      "cite": "431 So.2d 1160",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9545439
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1163",
+          "parenthetical": "\"Virtually all courts recognize that inadequacy of price, in some degree, combined with some form of other circumstances, especially those indicative of fraud or unfairness on the part of the purchaser, or mistake, does justify the setting aside of an execution sale.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/431/1160-01"
+      ]
+    },
+    {
+      "cite": "591 N.Y.S.2d 888",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "889",
+          "parenthetical": "sales price of $5,000.00 for a farm worth $80,000.00 was \"so grossly inadequate that it shocks the conscience of the court\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 A.D.2d 991",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1106533
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "sales price of $5,000.00 for a farm worth $80,000.00 was \"so grossly inadequate that it shocks the conscience of the court\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/188/0991-01"
+      ]
+    },
+    {
+      "cite": "58 F.2d 689",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1795723
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "691",
+          "parenthetical": "affirming district court finding that \"the inadequacy of the sale price was so gross as to shock the conscience\" where execution sale price was $250.00 for property valued at $6,500.00"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/58/0689-01"
+      ]
+    },
+    {
+      "cite": "61 App.D.C. 137",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "affirming district court finding that \"the inadequacy of the sale price was so gross as to shock the conscience\" where execution sale price was $250.00 for property valued at $6,500.00"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1914 U.S.App. LEXIS 2173",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. App. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "13, 15",
+          "parenthetical": "affirming district court finding that \"the inadequacy of the sale price was so gross as to shock the conscience\" where execution sale price was $250.00 for property valued at $6,500.00"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1914 WL 21728",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 App.D.C. 267",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1786968
+      ],
+      "weight": 2,
+      "year": 1914,
+      "pin_cites": [
+        {
+          "page": "274, 275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/41/0267-01"
+      ]
+    },
+    {
+      "cite": "852 A.2d 935",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9237536
+      ],
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/852/0935-01"
+      ]
+    },
+    {
+      "cite": "972 A.2d 322",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295144
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/972/0322-01"
+      ]
+    },
+    {
+      "cite": "119 A.L.R. Fed. 505",
+      "category": "reporters:federal",
+      "reporter": "A.L.R. Fed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "363 Md. 683",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        561951
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "187-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/363/0683-01"
+      ]
+    },
+    {
+      "cite": "339 F.2d 82",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        883895
+      ],
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/339/0082-01"
+      ]
+    },
+    {
+      "cite": "547 U.S. 220",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3276521
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "234",
+          "parenthetical": "\"[Bjefore forcing a citizen to satisfy his debt by forfeiting his property, due process requires the government to provide adequate notice of the impending taking.\""
+        },
+        {
+          "parenthetical": "\"[Bjefore forcing a citizen to satisfy his debt by forfeiting his property, due process requires the government to provide adequate notice of the impending taking.\""
+        },
+        {
+          "parenthetical": "\"[Bjefore forcing a citizen to satisfy his debt by forfeiting his property, due process requires the government to provide adequate notice of the impending taking.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0220-01"
+      ]
+    },
+    {
+      "cite": "94 L.Ed. 865",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 U.S. 306",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362818
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "314, 315",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0306-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 1122",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8990399
+      ],
+      "pin_cites": [
+        {
+          "page": "1128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/892/1122-01"
+      ]
+    },
+    {
+      "cite": "953 A.2d 288",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8180262
+      ],
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/953/0288-01"
+      ]
+    },
+    {
+      "cite": "820 A.2d 561",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9310841
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "568"
+        },
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/820/0561-01"
+      ]
+    },
+    {
+      "cite": "960 A.2d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8198894
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1132"
+        },
+        {
+          "page": "1132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/960/1123-01"
+      ]
+    },
+    {
+      "cite": "664 A.2d 1236",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7877125
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/664/1236-01"
+      ]
+    },
+    {
+      "cite": "881 A.2d 1087",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8924683
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1094"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/881/1087-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 3001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "364 A.2d 809",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8018444
+      ],
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/364/0809-01"
+      ]
+    },
+    {
+      "cite": "717 A.2d 866",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12119880
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/717/0866-01"
+      ]
+    },
+    {
+      "cite": "57 U.S. 610",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3483808
+      ],
+      "weight": 9,
+      "year": 1854,
+      "pin_cites": [
+        {
+          "page": "618"
+        },
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/57/0610-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 3203",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "(g)(1)"
+        },
+        {
+          "page": "(g)"
+        },
+        {
+          "page": "(g)(l)(A)(i)(III)"
+        },
+        {
+          "page": "(g)"
+        },
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "641 A.2d 495",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11292635
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "501"
+        },
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/641/0495-01"
+      ]
+    },
+    {
+      "cite": "672 F.Supp. 57",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        1180012
+      ],
+      "weight": 6,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "60"
+        },
+        {
+          "page": "61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/672/0057-01"
+      ]
+    },
+    {
+      "cite": "9 F.Supp. 288",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4142109
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "305"
+        },
+        {
+          "page": "305"
+        },
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/9/0288-01"
+      ]
+    },
+    {
+      "cite": "28 USC \u00a7 2002",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2002",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 30,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1651,
+    "char_count": 48356,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 6.398362577535085e-08,
+      "percentile": 0.396217694545126
+    },
+    "sha256": "72da9852fa5a0b03158a0090db3c8ebed6e6fc3972808c918a571185684ccb0f",
+    "simhash": "1:f7cff864534005e3",
+    "word_count": 8016
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, BLACKBURNE-RIGBSY, and THOMPSON, Associate Judges."
+    ],
+    "parties": [
+      "Benjamin F. STEWARD, Appellant, v. Marc S. MOSKOWITZ, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "REID, Associate Judge:\nIn a prior lawsuit appellee, Marc S. Moskowitz, sued appellant, Benjamin F. Steward, for failure to pay outstanding legal fees. The trial court entered a monetary judgment in favor of Mr. Moskowitz. When Mr. Steward failed to pay the judgment, Mr. Moskowitz sought to enforce it by moving against Mr. Steward\u2019s real property located at 1536 T Street, in the Northwest quadrant of the District of Columbia (\u201cthe Property\u201d).\nIn the instant case, Mr. Steward sued appellees, Mr. Moskowitz and 1536 T Street Associates, L.L.C. (\u201cT Street Associates\u201d), to quiet title to the Property and to prevent unjust enrichment. The trial court granted Mr. Moskowitz\u2019s and T Street Associates\u2019s summary judgment motions, and denied Mr. Steward\u2019s motion for summary judgment as well as his motion to file a second amended complaint. The court also ordered the release of lis pendens. For the reasons discussed below, we are constrained to reverse the trial court\u2019s grant of summary judgment in favor of Mr. Moskowitz and T Street Associates and we remand this case to the trial court with instructions to set aside the execution sale of the Property.\nFACTUAL SUMMARY\nThe record reveals the following. In 1989, Mr. Steward acquired the Property. Sometime thereafter he retained Mr. Mos-kowitz, an attorney, to represent him in other matters. Mr. Moskowitz eventually sued Mr. Steward for failure to pay incurred legal fees. On June 12, 2007, Mr. Moskowitz secured a money judgment of approximately $8,160.00, plus interest. Mr. Steward did not appeal. Mr. Moskow-itz sent Mr. Steward an e-mail on June 15, 2007, indicating that he expected payment of the judgment, prejudgment interest and costs \u201cby certified funds only, within ten days.\u201d Mr. Moskowitz recorded his judgment in the District\u2019s land records on June 25, 2007. He sent another e-mail to Mr. Steward that same day, declaring that if he did not receive payment by June 28, he would \u201cproceed to move forward to execute on the judgment without further delay.\u201d\nOn July 26, 2007, after Mr. Steward failed to pay the judgment, Mr. Moskowitz obtained a writ of fieri facias from the Superior Court of the District of Columbia. This writ commanded the United States Marshal to seize and sell the Property to the highest bidder at public auction, after publication of notice. On July 27, 2007, the Marshal posted to the Property a Public Notice of Attachment. This notice incorrectly stated that \u201cthe District Court of the United States for the Washington D.C. District of Columbia\u201d issued the writ. But, the notice correctly referenced the Superior Court of the District of Columbia in its caption. Mr. Moskowitz sent another e-mail to Mr. Steward on August 13, 2007, stating that he would not \u201ccontinue to allow [him] to avoid [his] obligation to pay the judgment entered against [him,]\u201d and that he would \u201cbe contacting the U.S. Marshal soon to commence advertising attendant to the sale of the real property ... and unless the sum stated is paid ... [he would] run the risk of having the property sold.\u201d\nThe Marshal subsequently advertised the public auction in the Washington Times \u2014 on October 24, October 31, and November 7, 2007. The advertisement read:\nBy Virtue of Writ of Fieri Facias issued by the Superior Court for the District of Columbia, and to me directed, I will sell by public auction, to the highest bidder for CASH, in front of the United States Marshal Service, 500 Indiana Avenue, N.W., on Thursday, November 8, 2007 at 10:00 a.m., all of the right, title, claim[,] interest and estate at law and equity of Benjamin Steward, Case No. 06CA8271, in and to the following described real estate, in the District of Columbia to wit: Lot number 0098, in Square 0191, among the records of the Office of the Surveyor for the District of Columbia, known as 1536 T Street, N.W., Washington, D.C.\nTERMS OF SALE: A 10% deposit is required in cash or certified check payable to the U.S. Marshal\u2019s Service at time of sale, except that the judgment creditor shall not be required to have a deposit. Balance due in cash or certified check payable to the U.S. Marshal Service by 4:00 p.m., Tuesday, November 13, 2007.\nA contact telephone number was listed \u201cFor Further Information.\u201d According to an affidavit signed by Geraldine Davis, an employee of the Office of the U.S. Marshal for the District of Columbia,\nThe normal practice and procedure of [the] Office prior to a U.S. Marshal\u2019s sale under a writ of fieri facias is to obtain two appraisals of the property involved, to post a Notice of Attachment on the property involved and then to advertise the sale for once a week for three weeks in a newspaper of general circulation in the District of Columbia.\nMs. Davis asserted that her office \u201cobtained two appraisals of the Property\u201d and advertised the sale in the Washington Times \u201cfor once a week for three weeks in advance of the sale, which was consistent with [the Marshal\u2019s] standard practice for such sales.\u201d\nThe Marshal\u2019s auction occurred on November 8, 2007, as scheduled. There were three bidders at the auction. Mr. Mos-kowitz appeared as a representative of T Street Associates, and was the highest bidder at $90,000.00. On the date required for full payment, a grantor for the Lorge Trust \u2014 the sole member of T Street Associates \u2014 tendered a cashier\u2019s check for $90,000.00, payable to the United States Marshal. The Marshal executed the Property\u2019s deed from the Superior Court to T Street Associates. Mr. Steward then moved to stay the proceedings to enforce the judgment. After a hearing, the court denied his motion.\nMr. Steward commenced the instant action on December 6, 2007, and he filed his first amended complaint about one week later. Since November 7, 2007, Mr. Mos-kowitz had represented the Lorge Trust in its efforts to create a limited liability company to purchase the Property. In his complaint, Mr. Steward acknowledged that Mr. Moskowitz represented T Street Associates when he successfully bid on the Property, but he alleged that the Public Notice of Attachment regarding the auction of the Property erroneously listed the court from which the writ of fieri facias was issued. He claimed that Mr. Moskow-itz executed and filed T Street Associates\u2019 Articles of Organization, and that T Street Associates \u201cwas not in existence until ... 5 days after the [a]uction.\u201d Mr. Steward asserted that the Notice of Public Auction chilled potential bidders because it demanded that bidders settle within a much shorter time-frame than normal. He averred that D.C.Code \u00a7 15-314 requires freehold estates to be sold \u201c\u2018after notice has been made in the manner provided by section 2002 of Title 28, United States Code,\u201d\u2019 but that \u201cthe Notices of Public Auction [were] published only three ... times over a span of ... fifteen ... days ... \u2014 not for ... over a span of four weeks as ... required under 28 U.S.C. \u00a7 2002.\u201d And, Mr. Steward declared that if the sale remained in effect, T Street Associates would gain: \u201ca windfall of approximately $450,000.00\u201d; \u201cthe benefit of [his] paying the current District of Columbia real property taxes and Property insurance through the first deed of trust\u201d; and the rents collected from the Property\u2019s tenants.\nMr. Moskowitz and T Street Associates filed their motions for summary judgment on January 15, 2008; Mr. Steward opposed the motions on February 25, 2008. Mr. Steward lodged his cross-motion for summary judgment on March 27, 2008, and Mr. Moskowitz and T Street Associates respectively opposed the motion on April 8, and May 13, 2008.\nOn May 12, 2008, Mr. Steward lodged a motion for leave to file his Second Amended Complaint. This complaint added a number of factual allegations, for example: \u201cThe Public Notice of Attachment did not mention an execution sale of the Subject Property nor did it mention a date, time, or location of a sale of the Subject Property.\u201d In addition, he (1) modified the title of Count I from \u201cQuiet Title\u201d to \u201cQuiet Title and To Set Aside Execution Sale\u201d but left Count II titled as \u201cUnjust Enrichment\u201d; and (2) added a Count III\u2014 \u201cWrongful Execution,\u201d claiming that Mr. Moskowitz failed to follow the requirements of D.C.Code \u00a7 15-323 and \u00a7 16-555 because he \u201cdid not exhaust all remedies prior to seeking a writ of fieri facias against the Subject Property-\u201d As indicated, the trial court denied his motion for leave to file the Second Amended Complaint.\nThe Trial Court\u2019s Ruling\nOn May 30, 2008, the trial court granted Mr. Moskowitz\u2019s and T Street Associates\u2019 motions, but denied Mr. Steward\u2019s. The court determined that testimony and documents relied on by Mr. Moskowitz showed Mr. Steward knew of the final judgment against him in Moskowitz v. Steward, CA8271-06 B (June 12, 2007). Mr. Steward\u2019s statements, and documents on which Mr. Moskowitz relied, established that Mr. Steward acknowledged receiving three emails Mr. Moskowitz sent him following the judgment; he did not open them because he \u201ckn[e]w the information.\u201d Furthermore, the documents indicated that the \u201c \u2018sale occurred to satisfy a Judgment which [Mr. Steward] repeatedly protested and failed to satisfy even after he was aware that [the] U.S. Marshal had left paper[s] with his tenants warning of imminent possession of [the Property.\u201d Ultimately, the trial judge regarded \u201c[t]he misidentification of the court in the Notice of Attachment ... [as] de minimis \u201d and declared:\nThe applicable statute, 28 USC \u00a7 2002, is directory in nature, not mandatory. A failure to comply with the dictates of the statute, which amounts to a mere irregularity, does not act to void the sale, but makes the sale voidable. Plimpton v. Mattakeunk Cabin Colony, Inc., 9 F.Supp. 288, 305 (D.Conn.1934). Substantial compliance with the notice procedures is sufficient. Munoz Bermudez v. Industrial Siderurgica, Inc., 672 F.Supp. 57 (D.Puerto Rico 1987). In this instance, publication for three weeks instead of four weeks constitutes substantial compliance.\nThe trial court denied Mr. Steward\u2019s motion to file a second amended complaint after indicating that it had reviewed the proposed amended complaint and had applied the factors set forth in Johnson v. Fairfax Village Condominium IV Unit Owners Ass\u2019n, 641 A.2d 495, 501 (D.C.1994). It noted that the litigation had commenced on December 6, 2007, that Mr. Steward had previously amended his complaint, that the deadline for discovery requests had closed six days prior to his moving to file a second amended complaint, and that summary judgment motions had been submitted prior to the submission of the proposed amended complaint. The court remarked that because it had already addressed and ruled on the issues that Mr. Steward presented in his proposed second amended complaint, it would have denied the motion even if it were not at this \u201clate stage in the litigation.\u201d\nANALYSIS\nThe Notice Issue\nThe Parties\u2019 Arguments\nMr. Steward complains that despite the fact that all parties recognize D.C.Code \u00a7 15-314 as the controlling statute, the Property\u2019s sale was not conducted in accordance with that statute which provides in pertinent part: \u201cLeasehold and freehold estates in land may be sold after notice has been made in the manner provided by section 2002 of Title 28, United States Code.\u201d Relying on the dictionary definitions for \u201chas\u201d and \u201cbeen,\u201d he surmises that the phrase \u201chas been\u201d means that \u201cnotice must be made in accordance with 28 U.S.C. \u00a7 2002.\u201d But notice here was published only three times over a fifteen-day period, instead of \u201conce a week for at least four weeks\u201d as he claims that 28 U.S.C. \u00a7 2002 requires. Mr. Steward also invokes as support D.C.Code \u00a7 15-314\u2019s predecessor, D.C.Code \u00a7 15-214, and he asserts that 28 U.S.C. \u00a7 3203(g)(1) [A][i] (III)-(IV) \u201cmust be considered.\u201d\nMr. Steward flatly rejects the trial court\u2019s ruling that \u201c\u2018substantial compliance with the notice procedures [of 28 U.S.C. \u00a7 2002 was] sufficient.\u2019 \u201d He reasons that under Early v. Doe, 57 U.S. 610, 618, 16 How. 610, 14 L.Ed. 1079 (1854), \u201cstrict compliance with the notice statute is judicially required in the event of a tax sale within the District of Columbia, [and] equal protection mandates that the same rule applies] to execution sales.\u201d He criticizes the court\u2019s reliance on Munoz Bermudez, supra, 672 F.Supp. 57, and Plimpton, supra, 9 F.Supp. at 305. With respect to Munoz Bermudez, he states, in part: \u201cWhile substantial compliance with 28 U.S.C. \u00a7 2002 may be sufficient when providing notice to a judgment debtor of a judicial sale, the [trial] court failed to provide any authority to suggest that the same application applies to judgment debtors of an execution sale within the District of Columbia,\u201d and he argues that \u201cnoncompliance in Munoz Bermudez, if at all, was de minimus\u201d (emphasis in original). He asserts that Plimpton, supra, \u201cis not binding case law in the District of Columbia ... as [it] has never been followed or cited in this jurisdiction for any propositions.\u201d\nProfessing that a \u201cpublic notice of attachment does not constitute notice for purposes of an execution sale,\u201d Mr. Steward insists that the Notice of Attachment posted to his Property did not properly inform him of the Marshal\u2019s sale. He stresses that the Notice \u201cdid not provide the time or place of the sale, nor did it provide the manner or terms of the sale,\u201d and consequently it was merely a notice of \u201c\u2018attachment\u2019 (i.e. seizure)\u201d as governed by Title 16, and not a notice of execution as governed by Title 15. Furthermore, Mr. Moskowitz\u2019s e-mails following the judgment did not suffice as notice, since \u201c[n]one ... [articulated] the time, date, or location of the execution sale.\u201d\nMr. Moskowitz and T Street Associates counter that the United States Marshal has followed \u201cthe same \u2018practice and procedure\u2019 ... in carrying out writs of fieri facias ... in the District of Columbia for at least the last two decades.\u201d They also claim that the federal \u201c[c]ourts called upon to address the \u2018notice requirements\u2019 of [28 U.S.C.] \u00a7 2002 have recognized that substantial compliance is the standard or test to be applied in determining whether to uphold a sale in aid of execution on a valid judgment, as the notice provisions are directory in nature.\u201d They note that we have \u201c \u2018accord[ed] respectful consideration to the interpretation\u2019 of a federal statute by federal appellate courts that have been called upon to construe the same statute.\u201d See District of Columbia v. Jerry M., 717 A.2d 866, 868-69 & n. 5 (D.C.1998).\nMr. Moskowitz and T Street Associates reject Mr. Steward\u2019s attempt to distinguish \u201cwithin [28 U.S.C.] \u00a7 2002 ... the standards applicable to a judicial sale and an execution sale.\u201d They avow that the cases Mr. Steward cites \u201cinvolved judicial sales because, at least apart from execution sales authorized by D.C.Code \u00a7 15-314, section 2002 of U.S.C. 28 only applies to judicial sales, and not execution sales\u201d (emphasis in original). Moreover, they dismiss Mr. Steward\u2019s reliance on D.C.Code \u00a7 15-314\u2019s predecessor, D.C.Code \u00a7 15-214, because Section 15-214 \u201cset[s] forth a specific notice requirement of twenty days,\u201d whereas \u201cthe current act ... [merely] refers to the provisions of 28 U.S.C. \u00a7 2002.\u201d\nContending that tax sale procedures are inapplicable, Mr. Moskowitz and T Street Associates suggest that if the legislature wished for the tax statute\u2019s \u201c \u2018strict compliance\u2019 standards\u201d to apply to D.C.Code \u00a7 15-314, \u201cthe latter statute would presumably include the same mandates as the former.\u201d Characterizing as \u201cdicta\u201d Ear ly\u2019s \u201cpassing comments on the notice requirements for an execution sale,\u201d they urge that this \u201cone hundred and fifty[-]six[-]year[-]old Supreme Court decision on the statutory requirements for a tax sale\u201d fails to even contemplate 28 U.S.C. \u00a7 2002. See Early, supra, 57 U.S. 610. They point out that the case on which Mr. Steward relies to apply Early to the District of Columbia, Potomac Building Corporation v. Karkenny, 364 A.2d 809, 811 (D.C.1976), also \u201cdoes not involve [D.C.Code] \u00a7 15-314, or 28 U.S.C. \u00a7 2002, or an execution sale.\u201d\nMr. Moskowitz and T Street Associates dismiss 28 U.S.C. \u00a7 3203(g) as inapplicable to a Marshal\u2019s sale in execution of a judgment held by a private citizen. They highlight that 28 U.S.C. \u00a7 3001 et seq. is the Federal Debt Collection Procedure Act, which provides \u201c The exclusive civil procedures for the United States.\u2019\u201d 28 U.S.C. \u00a7 3001(a). And the instant matter involves not a court sale, \u201cbut an execution sale pursuant to a writ of fieri facias, governed by [Super. Ct. Civ.] Rule 69 and D.C.Code \u00a7 15-314.\u201d\nIn response, Mr. Steward argues that \u201cit must be inferred that the intent of [28 U.S.C. \u00a7 2002] is to provide notice of the sale to the judgment debtor because it is the only statute which outlines the notice requirement.\u201d He further maintains that because of the significant difference between judicial and execution sales in the District of Columbia, the cases on which Mr. Moskowitz and T Street Associates rely are inapposite. Nonetheless, he notes that in all of these cases, the courts found \u201cthat mere irregularities may make a sale voidable if the objecting party is prejudiced.\u201d He avers that he \u201cwas clearly prejudiced as he was not provided with notice of the sale of his real property and did not attend [the sale, and he] ... was further prejudiced by the extraordinarily low bid for the highly valuable piece of property.\u201d Finally, Mr. Steward contends that his \u201c\u2018readiness\u2019 to satisfy the judgment was evidenced in the emergency hearing\u201d held after the execution sale, during which he informed the court that he needed merely another two weeks to finish collecting the required money.\nStandard of Review\n\u201cWe review orders granting summary judgment de novo.\u201d New Econ. Capital, L.L.C. v. New Mkts. Capital Grp., 881 A.2d 1087, 1094 (D.C.2005) (citation omitted). Consequently, we \u201cconsider the evidence in the light most favorable to the non-moving party, and conduct an independent review of the record.\u201d Id. (internal quotation marks and citation omitted). It is well-established that \u201c \u2018[sjummary judgment is properly granted only if there are no genuine issues of material fact in dispute and if the moving party is entitled to judgment as a matter of law.\u2019 \u201d Id. (quoting Jack Baker, Inc. v. Office Space Dev. Corp., 664 A.2d 1236, 1240 (D.C. 1995)).\nApplicable Rules and Statutes and Discussion\nSuper. Ct. Civ. R. 69 concerning \u201cExecution\u201d states in relevant part:\nProcess to enforce a judgment for the payment of money shall be a writ of execution, unless the Court directs otherwise. The procedure on execution, in proceedings supplementary to and in aid of a judgment, and in proceedings on and in aid of execution shall be in accordance with the practice and procedure of the District of Columbia, existing at the time the remedy is sought, except that any statute of the United States governs to the extent that it is applicable.\nSuper. Ct. Civ. R. 69 (2010). This jurisdiction\u2019s Rule 69 is patterned on Fed.R.Civ.P. 69. Moore\u2019s Federal PRACTICE (3d ed.) defines a \u201cwrit of execution\u201d as \u201can order issued by a court, in the form of a final process designed to enforce a money judgment, directing an officer of the court to seize the property of a judgment debtor and transfer the proceeds over to the judgment creditor.\u201d Id., Chapter 69, \u201cExecution\u201d (by Thomas E. Baker, with Updates by Joseph E. Spero), \u00a7 69.02. Super. Ct. Civ. R. 69 mandates that the execution procedure used \u201cshall be in accordance with the practice and procedure of the District of Columbia ..., except that any statute of the United States governs to the extent that it is applicable.\u201d And Fed. R.Civ.P. 69 states that the execution procedure \u201cmust accord with the procedure of the state where the court is located, but a federal statute governs to the extent that it applies.\u201d Thus, the \u201ccourt is supposed to apply [District] practices and procedures generally, but must follow any particular laws that apply.\u201d Moore, supra, \u00a7 69.03[1]. The requirement that a federal statute \u201cgoverns to the extent that it is applicable\u201d \u201cmeans that specific federal statutes expressly governing execution preempt state statutes that specifically deal with execution procedure.\u201d Id. at 69.03[2],\nThe District\u2019s statutory scheme for the enforcement of judgments is set forth in Title 15 of the D.C.Code, \u201cJudgments and Executions,\u201d Chapter 3, \u201cEnforcement of Judgments and Decrees.\u201d D.C.Code \u00a7 15-301 (2001) states:\nAs used in sections 15-302, 15-303, 15-305 to 15-307, 15-309, 15-317, and 15-318, \u201cjudgment\u201d includes an unconditional decree for the payment of money, and sections 15-302 to 15-318 are applicable to such a decree.\nD.C.Code \u00a7 15-311 provides, in pertinent part:\nA writ of fieri facias issued from the United States District Court for the District of Columbia or the Superior Court of the District of Columbia upon a judgment entered in such court may be levied on all legal leasehold and freehold estates of the debtor in land, but only after such judgment has been filed and recorded in the office of the Recorder of Deeds of the District of Columbia.\nD.C.Code \u00a7 15-314 specifies:\nWhere not herein otherwise provided, all property levied upon, except money, shall be appraised by two sworn appraisers and sold at public auction for cash. Personal property may be sold after ten days\u2019 notice by advertisement, containing a description sufficiently definite to be embodied in a conveyance of title. Leasehold and freehold estates in land may be sold after notice has been made in the manner provided by section 2002 of Title 28, in the United States Code.\nAnd 28 U.S.C. \u00a7 2002 states:\nA public sale of realty or interest therein under any order, judgment or decree of any court of the United States shall not be made without notice published once a week for at least four weeks prior to the sale in at least one newspaper regularly issued and of general circulation in the county, state, or judicial district of the United States wherein the realty is situated.\n\u201cIn construing statutes, \u2018[w]e look to the plain meaning of the statute first, construing words according to their ordinary meaning.\u2019\u201d Washington Teachers\u2019 Union, Local # 6 v. District of Columbia Pub. Sch., 960 A.2d 1123, 1132 (D.C.2008) (alteration in original) (quoting Boyle v. Giral, 820 A.2d 561, 568 (D.C.2003)). However, \u201c \u2018[w]e must also be mindful that our interpretation [of a statute] is not at variance with the policy of the legislation as a whole, requiring that we remain more faithful to the purpose than the word.\u2019 \u201d District of Columbia v. Fitzgerald, 953 A.2d 288, 300 (D.C.2007) (alteration in original) (quoting Jeffrey v. United States, 892 A.2d 1122, 1128 (D.C.2006)); see also Washington Teachers\u2019 Union, Local # 6, supra, 960 A.2d at 1132 (quoting Boyle, supra, 820 A.2d at 568).\nIn accordance with D.C.Code \u00a7 15-311, and after recording his monetary judgment in the land records of the District, Mr. Moskowitz properly sought a writ of fieri facias in order to place a lien on the Property. There is no contention here that the court improperly issued the writ. The parties disagree, however, about whether 28 U.S.C. \u00a7 2002 is applicable, and whether the requirements under D.C.Code \u00a7 15-314, and 28 U.S.C. \u00a7 2002, if applicable, are mandatory.\nUnder the plain language of the District\u2019s enforcement scheme, D.C.Code \u00a7 15-301 makes clear that Chapter 3 of Title 15, including D.C.Code \u00a7 15-314, is properly applicable to a judgment involving \u201can unconditional decree for the payment of money,\u201d and that \u201csections 15-302 to 15-318 are applicable to such a decree.\u201d Section 15-314 does not authorize notice (for the sale of a freehold estate) under \u201cthe practice and procedure of the District of Columbia, existing at the time the remedy is sought\u201d; rather, it authorizes such notice only \u201cin the manner provided by section 2002 of Title 28 in the D.C.Code.\u201d Moreover, although Super. Ct. Civ. R. 69 uses the language \u201cshall be in accordance with the practice and procedure of the District of Columbia, existing at the time the remedy is sought,\u201d it contains after that clause the significant word \u201cexcept\u201d\u2014 \u201cexcept that any statute of the United States governs to the extent that it is applicable....\u201d Since the only notice procedure referenced in \u00a7 15-314 is 28 U.S.C. \u00a7 2002, that federal statute is applicable to a property sale under \u00a7 15-314, and must be followed.\nWhether there is a meaningful distinction between a \u201cjudicial sale\u201d and an \u201cexecution sale\u201d in the District of Columbia, and whether federal case law concludes that 28 U.S.C. \u00a7 2002 is applicable only to \u201cjudicial sales,\u201d as Mr. Moskowitz and T Street Associates argue, is of no moment, since Congress intended that the reference to 28 U.S.C. \u00a7 2002 be inserted into D.C.Code \u00a7 15-314, which applies to an execution sale. As both the Senate and House committee reports accompanying the provision incorporating 28 U.S.C. \u00a7 2002 in D.C.Code \u00a7 15-314 stated:\nThe provision that estates in land may be sold after notice has been made in the manner provided by section 2002 of Title 28, United States Code, is substituted for the provision that such estates may be sold after twenty days\u2019 notice by advertisement, containing a description sufficiently definite to be embodied in a conveyance of title.\nCONGRESS OF THE UNITED STATES, REPORT from the Committee on the judioiary to accompany H.R. 4157, An Act to Enact Part II of the District of Columbia Code, Entitled \u201cJudiciary and Judicial Procedure,\u201d Codifying the General and Permanent Laws Relating to the Judiciary and Judicial Procedure of the District of Columbia, S.Rep. No. 88-743, at 100 (1963); H.R.Rep. No. 88-377, at A92 (1963).\nMr. Moskowitz and T Street Associates correctly observe that D.C.Code \u00a7 15-314 starts with the mandatory \u201cshall\u201d (\u201call property levied upon ... shall be appraised....\u201d) and ends with the permissive \u201cmay\u201d (\u201cfreehold estates in land may be sold.... \u201d), suggesting, they contend, that while freehold estates are allowed to be sold after notice has been provided in the manner prescribed by 28 U.S.C. \u00a7 2002, execution sales do not have to follow 28 U.S.C. \u00a7 2002. We are unconvinced by this argument because if Congress had intended that other methods of notice could be used for execution sales of freehold estates, it could easily have inserted statutory language to that effect, or it could have included in the legislative history language allowing for other notice provisions. Given the critical due process requirement attending forced sales of land, we do not believe that Congress would have intended to permit an unspecified or general notice provision. As the Supreme Court said long ago:\nAn elementary and fundamental requirement of due process in any proceeding which is to be accorded finality is notice reasonably calculated, under all the circumstances, to apprise interested parties of the pendency of the action and afford them an opportunity to present their objections. The notice must be of such nature as reasonably to convey the required information, and it must afford a reasonable time for those interested to make their appearance.... The reasonableness and hence the constitutional validity of any chosen method may be defended on the ground that it is in itself reasonably certain to inform those affected ....\nMullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 314, 315, 70 S.Ct. 652, 94 L.Ed. 865 (1950) (citations omitted); see also Jones v. Flowers, 547 U.S. 220, 234, 126 S.Ct. 1708, 164 L.Ed.2d 415 (2006) (\u201c[Bjefore forcing a citizen to satisfy his debt by forfeiting his property, due process requires the government to provide adequate notice of the impending taking.\u201d) (citations omitted). What constitutes adequate notice of an execution sale in the District has been expressed forth in statute. Thus, given the District\u2019s statutory provisions, set forth above, the plain meaning of those provisions, and the legislative history of \u00a7 15-314, we conclude that a sale of real property or a freehold estate in land based on an enforcement or execution of judgment action must follow the notice provision embodied in 28 U.S.C. \u00a7 2002. The only question is whether compliance with 28 U.S.C. \u00a7 2002 must be strict or may be substantial.\nTo support their arguments regarding \u201cstrict\u201d or \u201csubstantial\u201d compliance with 28 U.S.C. \u00a7 2002, Mr. Moskowitz and T Street Associates, and Mr. Steward, generally rely on non-binding case law that is not directly on point. For example, Mr. Moskowitz and T Street Associates cite Munoz Bermudez, supra, a case in which plaintiffs published four notices (two in the same week) in a daily newspaper, but also posted the notice in eleven different places in three different areas; and in addition, gave notice to all junior lien holders before the date of the sale. 672 F.Supp. at 60. The trial court determined that the defendant was not prejudiced; plaintiffs had sent defendant two written notices regarding the sale. Id. at 61. Plimpton, supra, another case put forward by Mr. Moskow-itz and T Street Associates, involved a purchaser\u2019s action, rather than that of a judgment debtor. The purchaser there, after two and one-half years, sought to escape from his contract to purchase receivership property by challenging the notice provision under 28 U.S.C. \u00a7 2002. Although there is language in Plimpton that 28 U.S.C. \u00a7 2002 is directory and not mandatory, the district court acknowledged principles from other cases that irregularities in giving notice of the sale could abort it: \u201c[A] failure to observe the strict statutory provisions did not render the sale void but only voidable, and ... the defect is cured by confirmation after due notice to the defendant and without objection from him.\u201d 9 F.Supp. at 305.\nIn addition, Mr. Steward attempts to construct an argument based on words used in D.C.Code \u00a7 15-314 \u2014 \u201cafter notice has been made in the manner provided by section 2002 of Title 28, in the United States Code\u201d (emphasis added). He maintains that \u201chas been\u201d translates to \u201cmust\u201d and that, consequently, the U.S. Marshal had to comply strictly with the requirement that \u201c[a] public sale of [a freehold estate] ... shall not be made without notice published once a week for at least four weeks prior to the sale in at least one newspaper regularly issued and of general circulation in [the District of Columbia].\u201d\nWe are not altogether persuaded by this textual interpretation, and neither the former D.C.Code \u00a7 15-214 nor 28 U.S.C. \u00a7 3203(g)(l)(A)(i)(III)-(IV) helps with respect to the interpretation of current \u00a7 15-314. D.C.Code \u00a7 15-214 contained different language which the Congress did not carry forth into the current provision \u2014 that is, mandatory language (\u201call property levied upon ... shall be ... sold\u201d, as well as a requirement of \u201ctwenty days\u2019 previous notice by advertisement\u201d). Moreover, 28 U.S.C. \u00a7 3203(g), as Mr. Moskowitz and T Street Associates recognize, does not apply to the execution sale in this case; rather, that provision is applicable to the federal government as it attempts to collect on its judgments or debts.\nTwo points convince us that we should apply a strict interpretation of D.C.Code \u00a7 15-314 and 28 U.S.C. \u00a7 2002 in this case. First, \u00a7 15-314 explicitly references 28 U.S.C. \u00a7 2002, which is expressed in mandatory terms: \u201cA public sale of realty ... shall not be made without notice published once a week for at least four weeks prior to the sale in at least one newspaper regularly issued and of general circulation.... \u201d Second, we consistently have required strict compliance with our statute governing tax sales of real property, and although the tax sale statute is more developed or extensive than the execution sale statute, we see no principled way of distinguishing between tax sales and execution sales with respect to a judgment debtor. Both are forced sales of an owner\u2019s property to satisfy an indebtedness, and both have due process implications for the owner. Indeed, in the case of execution sales, where the statutory provisions are not as well developed, due process considerations prompt us to require strict compliance with D.C.Code \u00a7 15-314 and 28 U.S.C. \u00a7 2002 particularly where, as here, the record leaves doubt as to whether Mr. Steward was notified of the time, place and date of the sale of his property. In contrast to the requirement in 28 U.S.C. \u00a7 2002 of publication \u201conce a week for at least four weeks prior to the sale,\u201d the Marshal published the notice on three days during a fourteen-day period. This deviation from the requirements of 28 U.S.C. \u00a7 2002 of course shortened the period of time for prospective bidders to come forward, and hence, may have impacted the bid price. What the Supreme Court articulated in Early v. Doe, a case involving the District\u2019s tax sale statute, is highly significant here: \u201cThere is a difference, it is true, in the strictness required in a tax sale, and that of a sale made under judgment and execution, but in both, the same rule applies as to the full notice of time which the law requires to be given for the sale.\u201d Just as the Early Court construed the statutory words \u201cfor at least\u201d to require \u201cfull notice of time ... for the sale,\u201d we hold in this case that D.C.Code \u00a7 15-314, which incorporates 28 U.S.C. \u00a7 2002 and which uses the same words\u2014 \u201cfor- at least\u201d \u2014 , required compliance with the full statutory period of time specified for public notice of an execution sale.\nEven if we had determined that substantial compliance with D.C.Code \u00a7 15-314 and 28 U.S.C. \u00a7 2002, that is, three days for a fourteen-day period, was sufficient in this case, we would still conclude that the sale of Mr. Steward\u2019s property should be set aside, for two reasons. First, the sale should be set aside because there is no record evidence that Mr. Steward received actual notice of the date, time, and place of the sale of his property, his due process right to such notice hinged unfairly on the chance that he would see the advertisement in the Washington Times on at least one of three days\u2014 October 24, October 31, or November 7, 2007, during a fifteen-day period. Second, the sale price of $90,000.00 was grossly inadequate compared to the value of the Property. The Property had an assessed value of $887,000.00 and generated rents. When the outstanding liens of $465,000.00 are factored in, the Property still had a value of at least $422,000.00, excluding rents. Yet, it sold for less than one-third of its value, when the record shows that Mr. Steward had other assets which could have satisfied Mr. Moskowitz\u2019s judgment of $8,160.00, plus interest. Case law establishes that the combination of some unfairness or irregularity combined with a grossly inadequate sales price justify setting aside an execution sale.\nIn Shipley v. Shamwell, an early District case involving an execution sale to satisfy a municipal court judgment, the appellate court set aside the sale because of \u201cgross inadequacy of price\u201d and the failure of the marshal \u201cto state to prospective purchasers at the time of the sale the amount of the sworn appraisal.\u201d Other courts have set aside an execution sale based on gross inadequacy of the sales price plus some evidence of unfairness or irregularity. In short, even under a \u201csubstantial compliance\u201d principle, in this case we would conclude that the unfairness of no written or actual notice to Mr. Steward of the date, time, and place of the sale of his property, and the grossly inadequate sales price combined to require the setting aside of the execution sale.\nFor the foregoing reasons, we are constrained to reverse the trial court\u2019s grant of summary judgment in favor of Mr. Mos-kowitz and T Street Associates, and to remand this case with instructions to set aside the execution sale of the Property.\nSo ordered.\n. No. 08-CV-1055 (order of June 12, 2008), re-entered on July 16, 2008 (No. 08-CV-1064).\n. No. 08-CV-1392 (order of October 1, 2008).\n. This action renders moot the lis pendens appeal in No. 08-CV-1392.\n. On October 6, 2009, T Street Associates filed a D.C.App. R. 28(k) letter attaching the amended opinion and order of the Honorable Brook Hedge in a related case, Steward As-socs., L.L.C. v. Moskowitz, et al., No. CA6736 B-08 (Aug. 26, 2009). Our factual summary relies, in part, on the factual background section of that case\u2019s Amended Opinion and Order Granting Defendants' Motions for Judgment and Denying Plaintiff's Motion for Summary Judgment.\n.Moskowitz v. Steward, No. CA-8271-06 (June 12, 2007) (judgment entered following bench trial).\n. During a hearing on November 16, 2007, Mr. Steward said that the Property had an assessed value of $887,000.00, and he collected rents from tenants. In an affidavit, dated February 25, 2008, Mr. Steward stated that the Property was subject to two liens totaling around $465,000.00.\n. This was also the date of T Street Associates\u2019 establishment. T Street Associates appointed Mr. Moskowitz as \"the Managing Member of the Company,\u201d but he had 0% of the ownership; the Lorge Trust was the 100% owner.\n.The Judge in Chambers expressly found that Mr. Steward did not suffer irreparable harm because, although he initially claimed that he would be put out on the street, he later admitted this was untrue since he did not live at the Property.\n. Mr. Steward derived this figure by considering the Property\u2019s value and the two deeds of trust he previously recorded against it. His figure apparently is based on his \u201dbelie[f]\u201d that the Property's value was $1,000,000.00.\n. D.C.Code \u00a7 15-323 provides:\nReal property or rent shall not be seized for a debt, as long as the present goods and chattels of the debtor are sufficient to pay it, and the debtor himself is ready to satisfy the debt.\nD.C.Code \u00a7 16-555 specifies:\nWhere the attachment has been levied upon specific property, on the return by the marshal, judgment of condemnation of the property may be entered, and as much thereof as may be necessary to satisfy the plaintiff's judgment may be sold under a fieri facias. If the property was sold under interlocutory order of the court, the proceeds, or so much thereof as may be necessary, shall be applied to the plaintiff\u2019s claim by order of the court.\n. These factors include: \u201c(1) the number of requests to amend; (2) the length of time that the trial has been pending; (3) the presence of bad faith or dilatory reasons for the request; (4) the merit of the proffered amended pleading; and (5) any prejudice to the non-moving party.\u201d Johnson, supra, 641 A.2d at 501.\n. D.C.Code \u00a7 15-214 (1961) provided:\nWhere not herein otherwise provided all property levied upon, except money, shall be appraised by two sworn appraisers and sold at public auction for cash; personal property after ten days\u2019 notice by advertisement, and leasehold and freehold estate in land after a twenty days' previous notice by advertisement, containing a description sufficiently definite to be embodied in a conveyance of the title.\nMr. Steward believes that the \u2018\u2019shall\u201d in section 15-214 governed the notice provision for leasehold and freehold estate in land, and he appears to suggest that since the specific terms of the notice provision in that predecessor statute were mandatory, the specific terms of D.C.Code \u00a7 15-314 should also be read as mandatory.\n. 28 U.S.C. \u00a7 3203(g)(1) specifies, in part:\n(g) Execution sale.\n(1)General procedures. An execution sale under this section shall be conducted in a commercially reasonable manner\u2014\n(A) Sale of real property.\n(i) In general.\n(I) Except as provided in clause (ii), real property, or any interest therein, shall be sold, after the expiration of the 90-day period beginning on the date of levy under subsection (d), for cash at public auction at the courthouse of the county, parish, or city in which the greater part of the property is located or on the premises or some parcel thereof.\n(II) The court may order the sale of any real property after the expiration of the 30-day period beginning on the date of levy under subsection (d) if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during the 90-day period beginning on the date of levy.\n(III) The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice. once a week for at least 3 weeks prior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location for rural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor\u2019s reasonable objections, for a reasonable period before the day of sale.\n(IV)The United States marshal shall serve written notice of public sale by personal delivery, or certified or registered mail, to each person whom the marshal has reasonable cause to believe, after a title search is conducted by the United States, has an interest in property under execution, including lienholders, co-owners, and tenants, at least 25 days before the day of sale, to the last known address of each such person.\n(3) Sale procedures.\n(A) Bidding requirements. A bidder at an execution sale of property, may be required by the United States marshal to make a cash deposit of as much as 20 percent of the sale price proposed before the bid is accepted.\n(B) Resale of property. If the terms of the sale are not complied with by the successful bidder, the United States marshal shall proceed to sell the property again on the same day if there is sufficient time. If there is insufficient time, the marshal shall schedule and notice a subsequent sale of the property as provided in paragraphs (1) and (2).\n. D.C.Code \u00a7 47-1301 (2001). Section 47-1301(a) provides, in part:\nIf the taxes due, together with the penalties and costs that may have accrued thereon, shall not be paid prior to the day fixed for sale, the property will be sold, under the direction of the Mayor of the District of Columbia, at public auction at the office of ths said Collector of Taxes, commencing at least 3 weeks after the first publication of said notice and continuing on each following day, Saturdays, Sundays and legal holidays excepted, until all said delinquent property is sold; a description sufficient to identify the property shall be considered a proper description.\n. See Weir v. United States, 339 F.2d 82, 86 (8th Cir.1964) (\"\u00a7\u00a7 2001-2002, 28 U.S.C.A. have no application to execution sales\u201d).\n. Maryland law distinguishes a judicial sale from an execution sale \u2014 or a sheriffs or marshal's sale.\nA forced sale of real property can occur in three principal settings: through foreclosure of a mortgage or deed of trust; through a \"judicial sale\u201d; and through a sheriff\u2019s sale pursuant to a writ of execution or garnishment. The legal bases for these respective proceedings are quite different, and so are some of the proceedings attending them. In the case of a judicial sale, such as a tax sale or a sale in lieu of partition, and in the case of a foreclosure sale conducted pursuant to a power contained in the mortgage, the court itself is regarded as the vendor, and the trustee conducting the sale is considered to be the court\u2019s agent.\nGoldberg v. Frick Electric Co., Inc., 363 Md. 683, 770 A.2d 182, 187-88 (2001). However,\nIn making ordinary execution sales, simply by virtue of his office, the sheriff or marshal acts as the ministerial officer of the law, not as the organ of the court. He is not its instrumentor agent, as in judicial sales, and the court is not the vendor. His authority to sell rests on the law and on the writ, and does not, as in judicial sales, emanate from the court. The functions of the court terminate at the rendition of the judgment, except where confirmation of the sale is the practice. The court does not direct what shall be levied or sold, or how the sale shall be made. The law is the officer\u2019s only guide.\nId. at 188 (citations and internal quotation marks omitted).\n. See Russell G. Donaldson, Annotation, Validity, Construction, and Application of Federal Debt Collection Procedures Act, 119 A.L.R. Fed. 505 (2009 West Group), at *2 (\"the Federal Debt Collection Procedures Act ... is the primary, and in many instances, the sole vehicle by which the United States Government and its agencies can utilize the authority of the judicial system for the collection of debts\u201d).\n.See CCD-SAT, Inc. v. Pratt, 972 A.2d 322 (D.C.2009) (\u201cThe District can effectuate a valid conveyance of property for nonpayment of real estate taxes only by strict compliance with the tax statute and regulations.\u201d) (citations and internal quotation marks omitted). The statutory provision governing notice of public auction for forced tax sales of property, D.C.Code \u00a7 47-1301 (2005 Repl.), is stated in mandatory language\u2014\u201cshall be advertised.\u201d See also Bembery v. District of Columbia, 852 A.2d 935, 941 (D.C.2004) (internal citations omitted) (\u201cThe District is required to provide notice that complies strictly with the requirements of applicable statutes and regulations, and that comports with the due process requirement that it be reasonably calculated to apprise interested parties of the imminent prospect of their loss of valuable property rights\u201d).\n. See for example, D.C.Code \u00a7\u00a7 47-1302 and 47-1303.02, pertaining to notice to the record owner of real property to be sold for payment of delinquent taxes.\n. The record here indicates that Mr. Steward was aware that his property was up for sale due to his failure to pay the judgment awarded to Mr. Moskowitz, but neither the notice posted on his property, nor the e-mails that Mr. Moskowitz sent him included the time, place, and date of the sale.\n. 57 U.S. 610, 16 How. 610, 14 L.Ed. 1079 (1854).\n. 57 U.S. at 618.\n. 41 App.D.C. 267 (1914), 1914 WL 21728, 1914 U.S.App. LEXIS 2173.\n. 41 App.D.C. at 274, 275, 1914 WL 21728 at 5, 1914 U.S.App. LEXIS 2173 at 13, 15; see also Van Senden v. O\u2019Brien, 61 App.D.C. 137, 58 F.2d 689, 691 (1932) (affirming district court finding that \u201cthe inadequacy of the sale price was so gross as to shock the conscience\" where execution sale price was $250.00 for property valued at $6,500.00).\n. See Pisano v. Tupper, 188 A.D.2d 991, 591 N.Y.S.2d 888, 889 (1992) (sales price of $5,000.00 for a farm worth $80,000.00 was \u201cso grossly inadequate that it shocks the conscience of the court\u201d); Hogan v. Carter, 431 So.2d 1160, 1163 (Ala. 1983) (\u201cVirtually all courts recognize that inadequacy of price, in some degree, combined with some form of other circumstances, especially those indicative of fraud or unfairness on the part of the purchaser, or mistake, does justify the setting aside of an execution sale.\") (citation and internal quotation marks omitted) (emphasis in original); Beneficial Mortgage Co. of North Carolina v. Peterson, 163 N.C.App. 73, 592 S.E.2d 724, 727, 729 (2004) (trial court did not err in setting aside execution sale where property owner was not sent notice of the execution sale, did not receive actual notice, and the property valued at $215,000.00 was sold for $20,200.00 to satisfy a judgment of $9,546.30).\n.Given our disposition, we do not consider Mr. Steward\u2019s challenge to the trial court's denial of his motion to file a second amended complaint.",
+        "type": "majority",
+        "author": "REID, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Michael Brand, with whom Kenneth J. Loewinger, Washington, DC, and Patricia Millerioux were on the brief, for appellant.",
+      "Michael S. Steadman, Jr., Michael N. Russo, Jr., Annapolis, MD, and Marc S. Moskowitz, pro se, were on the brief, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Benjamin F. STEWARD, Appellant, v. Marc S. MOSKOWITZ, et al., Appellees.\nNos. 08-CV-1055, 08-CV-1064, 08-CV-1392.\nDistrict of Columbia Court of Appeals.\nArgued Jan. 12, 2010.\nDecided Oct. 7, 2010.\nMichael Brand, with whom Kenneth J. Loewinger, Washington, DC, and Patricia Millerioux were on the brief, for appellant.\nMichael S. Steadman, Jr., Michael N. Russo, Jr., Annapolis, MD, and Marc S. Moskowitz, pro se, were on the brief, for appellees.\nBefore REID, BLACKBURNE-RIGBSY, and THOMPSON, Associate Judges."
+  },
+  "file_name": "0638-01",
+  "first_page_order": 660,
+  "last_page_order": 674
+}

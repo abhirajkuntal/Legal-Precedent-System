@@ -1,0 +1,292 @@
+{
+  "id": 7285919,
+  "name": "ADOPTION OF J.S.S.",
+  "name_abbreviation": "Adoption of J.S.S.",
+  "decision_date": "2010-08-10",
+  "docket_number": "",
+  "first_page": "281",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 281"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "64 A. 653",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1906,
+      "pin_cites": [
+        {
+          "page": "655",
+          "parenthetical": "voiding an adoption granted without any personal or constructive notice of the petition given to the natural mother"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Me. 363",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        653416
+      ],
+      "year": 1906,
+      "pin_cites": [
+        {
+          "page": "368-69",
+          "parenthetical": "voiding an adoption granted without any personal or constructive notice of the petition given to the natural mother"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/101/0363-01"
+      ]
+    },
+    {
+      "cite": "57 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "502",
+          "parenthetical": "declaring void an adoption that occurred without the biological mother' consent and notwithstanding her active opposition"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Me. 173",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        619081
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "181",
+          "parenthetical": "declaring void an adoption that occurred without the biological mother' consent and notwithstanding her active opposition"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/143/0173-01"
+      ]
+    },
+    {
+      "cite": "407 A.2d 1122",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7991326
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1122-23",
+          "parenthetical": "allowing the annulment of an adoption granted without any form of consent given by the natural mother"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/407/1122-01"
+      ]
+    },
+    {
+      "cite": "516 A.2d 946",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7929236
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "947",
+          "parenthetical": "invalidating an adoption decree because the child was in the care of the Department of Human Services and the Department objected to the adoption, reasoning that the court has no power to circumvent the Department' decision to withhold consent"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/516/0946-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 18",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8164740
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "897-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0894-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 131",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291973
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b641"
+        },
+        {
+          "page": "499-500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0490-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 76",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7297185
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 11, 16-17"
+        },
+        {
+          "page": "969, 970-71"
+        },
+        {
+          "page": "\u00b6 21"
+        },
+        {
+          "page": "972"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/0966-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 79",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8379652
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "893"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/946/0389-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 123",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8352432
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "1098"
+        },
+        {
+          "page": "\u00b624"
+        },
+        {
+          "page": "1096"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/1088-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 589,
+    "char_count": 9506,
+    "ocr_confidence": 0.718,
+    "pagerank": {
+      "raw": 6.38852823733527e-08,
+      "percentile": 0.39558696279203925
+    },
+    "sha256": "19679c3cdfc325d3d1d4f3a8f512b7d21c000f51b3cd4688875ca5a73a51393e",
+    "simhash": "1:8440c2b64812375b",
+    "word_count": 1594
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "ADOPTION OF J.S.S."
+    ],
+    "opinions": [
+      {
+        "text": "GORMAN, J.\n[\u00b6 1] E.S.S. appeals from a judgment entered in the Androscoggin County Probate Court (Couturier; J.) denying her petition to annul, and motion seeking relief from, the court\u2019s 2008 judgment granting the co-petition to adopt J.S.S. filed by E.S.S. and C.S.S., her domestic partner. E.S.S. contends that the adoption was improperly granted after the court failed to satisfy various procedural requirements, and thus that the court erred in denying her petition to annul the adoption and dismissing as untimely her motion for relief from the adoption. We affirm the judgment.\nI. FACTS AND PROCEDURE\n[\u00b62] In July of 2007, E.S. adopted a male infant in Vietnam and brought him to the United States. At the time, E.S. was in a relationship with C.S.; the two obtained a declaration of their domestic partnership from the State pursuant to 22 M.R.S. \u00a7 2710(6) (2009). In September of 2007, the court granted E.S.\u2019s petition to recognize her foreign adoption of the child, and the child was given the last name J.S.S. which was a combined form of E.S.\u2019s and C.S.\u2019s names. Ten days later, E.S. and C.S. each filed a petition to change her name to the hyphenated surname the child received in his adoption.\n[\u00b6 3] Meanwhile, in August of 2007, we decided the matter of Adoption of M. A., in which we held that the adoption statute allows two unmarried individuals to jointly adopt. 2007 ME 123, \u00b6 31, 930 A.2d 1088, 1098. Based on that decision, in October of 2007, E.S.S. and C.S.S. filed a co-petition to jointly adopt the child; both E.S.S. and C.S.S. signed the petition. The court granted the petition without a hearing by judgment dated March 4, 2008. Neither party appealed.\n[\u00b6 4] More than a year later, after E.S.S. and C.S.S. ended their relationship, E.S.S. and another individual petitioned to annul C.S.S.\u2019s adoption of the child. E.S.S. also moved for relief from the adoption judgment pursuant to M.R. Civ. P. 60, asserting primarily that the adoption was granted as a result of a clerical mistake.\n[\u00b6 5] The court denied the petition to annul and dismissed the motion for relief from judgment as untimely. E.S.S. appeals from the court\u2019s denial of her subsequent motion for reconsideration.\nII. DISCUSSION\n[\u00b66] The crux of E.S.S.\u2019s argument is that the Probate Court lacked the authority to grant the joint adoption based on its failure to accomplish several necessary procedural steps, including obtaining her written consent, conducting a home study, considering evidence as to whether adoption was in the best interest of the child, and conducting a hearing. On this basis, she argues that the court erred in denying her petition to annul the adoption, or, alternatively, that the court erred in refusing her request for relief from the adoption judgment. \u201cThe trial court\u2019s authority to undertake particular action, including an interpretation of the underlying statutory provisions, is an issue of law that we examine de novo.\u201d Estate of Kingsbury, 2008 ME 79, \u00b6 7, 946 A.2d 389, 893.\n[\u00b67] We look to the plain language of the Adoption Act, mindful that we liberally construe the statute to \u201ccarry out the beneficent purposes of the adoption institution and to protect the adopted child in the rights and privileges coming to it as a result of the adoption.\u201d Adoption of Patricia S., 2009 ME 76, \u00b6\u00b6 11, 16-17, 976 A.2d 966, 969, 970-71 (quoting Adoption of M.A., 2007 ME 123, \u00b624, 930 A.2d at 1096); see 18-A M.R.S. \u00a7 9-308(a)(5), (b) (2009).\n[\u00b6 8] Title 18-A M.R.S. \u00a7 9-315 (2009) governs the annulment of adoptions:\n\u00a7 9-315. Annulment of the adoption decree\n(a) A judge of probate may, on petition of 2 or more persons and after notice and hearing, reverse and annul a decree of the Probate Court for one of the following reasons.\n(1) The court finds that the adoption was obtained as a result of fraud, duress or illegal procedures.\n(2) The court finds other good cause shown consistent with the best interest of the child.\n(b) Notice of a petition to annul must be given to the biological parents, except those whose parental rights were terminated through a proceeding pursuant to Title 22, section 4055, subsection 1, paragraph B, subparagraph (2), and to all parties to the adoption including the adoptive parents, an adoptee who is 14 years of age or older and the agency involved in the adoption.\n(c)After the Probate Court annuls a decree of adoption, the register of probate shall transmit immediately a certified copy of the annulment to the State Registrar of Vital Statistics.\nE.S.S. contends that there were procedural inadequacies of the adoption and that they constitute \u201cillegal procedures\u201d pursuant to section 9\u2014315(a)(1). As the party seeking to collaterally attack the adoption, it was E.S.S.\u2019s burden to establish the elements necessary to justify annulment. See Adoption of Patricia S., 2009 ME 76, \u00b6 21, 976 A.2d at 972.\n[\u00b6 9] We conclude that E.S.S.\u2019s asserted procedural irregularities provide no basis to annul C.S.S.\u2019s adoption of the child. Although the Act indeed requires the legal parent to give written consent to a child\u2019s adoption by another, and despite the existence of a probate form by which written consent may be accomplished, the Act itself contains no limitations or requirements for the type of document by which consent may be given. 18-A M.R.S. \u00a7\u00a7 9-102(e), 9-302(a) (2009); M.R. Prob. P. Form A-4. The obvious purpose of the consent requirement is to prevent anyone from adopting a child without the permission of that child\u2019s legal parent. Here, that purpose was served by the adoption petition itself, which was co-filed and signed by E.S.S.; E.S.S. not only consented to the adoption, but in fact requested the adoption herself. The technical requirements of separate written consent under circumstances where the legal parent herself seeks the adoption cannot later be used to annul an adoption.\n[\u00b6 10] Neither did the court\u2019s failure to conduct a hearing constitute an illegal procedure in these circumstances. Although the adoption statute refers to adoption hearings, and, in the normal course, adoption hearings are necessary to obtain the requisite evidence, the statute does not require a hearing if the applicable criteria for adoption are otherwise satisfied. See 18-A M.R.S. \u00a7\u00a7 9 \u2014 306(b), 9-308 (2009).\n[\u00b6 11] These criteria were indeed established in the instant matter. E.S.S. and C.S.S., having just undergone a home study as part of E.S.S.\u2019s petition to recognize her foreign adoption, submitted that home study with their joint petition to adopt. Thus, the court was authorized to waive the requirement of an additional home study. See 18-A M.R.S. \u00a7 9-304(a-l)(l)(i) (2009). The home study also sufficiently supports the court\u2019s required findings, including that the joint adoption was in the child\u2019s best interest. See 18-A M.R.S. \u00a7 9-308. No illegal procedures were undertaken in the granting of this adoption, and thus the court correctly denied E.S.S.\u2019s petition to annul.\n[\u00b6 12] Because we discern no error in the granting of the adoption petition, neither did the court exceed its discretion in dismissing E.S.S.\u2019s motion for relief from the adoption judgment. See 2 Field, McKusick & Wroth, Maine Civil Practice \u00a7 60.1 at 71 (2d ed.1970); In re David H., 2009 ME 131, \u00b641, 985 A.2d 490, 499-500. Finally, contrary to her contention, E.S.S. was afforded adequate procedural due process, having received notice and an opportunity to be heard in the context of both the adoption and this collateral attack on the adoption. See In re Robert S., 2009 ME 18, \u00b6 13, 966 A.2d 894, 897-98.\n[\u00b6 13] Adoption is a serious and permanent family institution. A child\u2019s legal parenthood cannot be subjected to the fleeting and transitory whims of adult relationships; hence the limited bases on which annulment may be granted pursuant to section 9-315. E.S.S. and C.S.S.\u2019s dispute is properly resolved in a parental rights and responsibilities action pursuant to 19-A M.R.S. \u00a7 1653 (2009).\nThe entry is:\nJudgment affirmed.\n. The individual\u2019s relation to E.S.S., C.S.S., or the child cannot be determined from the record before us.\n. E.S.S.\u2019 reliance on several of our prior decisions is misplaced. In those matters, the biological parent either received no notice of the adoption proceedings or failed to consent by any means. See In re Melissa C., 516 A.2d 946, 947 (Me. 1986) (invalidating an adoption decree because the child was in the care of the Department of Human Services and the Department objected to the adoption, reasoning that the court has no power to circumvent the Department' decision to withhold consent); In re Nguyen, 407 A.2d 1122, 1122-23 (Me. 1979) (allowing the annulment of an adoption granted without any form of consent given by the natural mother); Blue v. Boisvert, 143 Me. 173, 181, 57 A.2d 498, 502 (1948) (declaring void an adoption that occurred without the biological mother\u2019 consent and notwithstanding her active opposition); Taber v. Douglass, 101 Me. 363, 368-69, 64 A. 653, 655 (1906) (voiding an adoption granted without any personal or constructive notice of the petition given to the natural mother).",
+        "type": "majority",
+        "author": "GORMAN, J."
+      }
+    ],
+    "attorneys": [
+      "Scott F. Hess, Esq., The Law Office of Bigger & Hess, Portland, ME, for E.S.S.",
+      "E. Anne Carton, Esq., Frayla A. Seho-enfeld, Esq., Law Office of E. Anne Carton, Brunswick, ME, for C.S.S."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 74\nADOPTION OF J.S.S.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: July 21, 2010.\nDecided: Aug. 10, 2010.\nScott F. Hess, Esq., The Law Office of Bigger & Hess, Portland, ME, for E.S.S.\nE. Anne Carton, Esq., Frayla A. Seho-enfeld, Esq., Law Office of E. Anne Carton, Brunswick, ME, for C.S.S.\nPanel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0281-01",
+  "first_page_order": 311,
+  "last_page_order": 314
+}

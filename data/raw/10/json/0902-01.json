@@ -1,0 +1,63 @@
+{
+  "id": 7289799,
+  "name": "Carol HAAS, Petitioner v. Tina M. HOSGOOD, Respondent",
+  "name_abbreviation": "Haas v. Hosgood",
+  "decision_date": "2010-12-30",
+  "docket_number": "No. 149 EM 2010",
+  "first_page": "902",
+  "last_page": "902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 311,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.766185849892398
+    },
+    "sha256": "cb6e1df25786d31976c7827b119d87c80b122385b798d6a5ddeff573467e8aa1",
+    "simhash": "1:553e6b177bc36db7",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T20:45:43.314120+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carol HAAS, Petitioner v. Tina M. HOSGOOD, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of December, 2010, the Petition for Extension of Time to File a Petition for Allowance of Appeal and the Petition for Permission to Respond are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Carol HAAS, Petitioner v. Tina M. HOSGOOD, Respondent.\nNo. 149 EM 2010.\nSupreme Court of Pennsylvania.\nDec. 30, 2010."
+  },
+  "file_name": "0902-01",
+  "first_page_order": 902,
+  "last_page_order": 902
+}

@@ -1,0 +1,480 @@
+{
+  "id": 7284536,
+  "name": "Alan P. EPSTEIN, Esquire and Spector Gadon & Rosen, P.C., Appellees v. SAUL EWING LLP, Appellant",
+  "name_abbreviation": "Epstein v. Saul Ewing LLP",
+  "decision_date": "2010-10-15",
+  "docket_number": "",
+  "first_page": "303",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "316 Pa.Super. 404",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        88400
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/316/0404-01"
+      ]
+    },
+    {
+      "cite": "849 A.2d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9244194
+      ],
+      "pin_cites": [
+        {
+          "page": "1211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/849/1207-01"
+      ]
+    },
+    {
+      "cite": "769 A.2d 481",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11111001
+      ],
+      "pin_cites": [
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/769/0481-01"
+      ]
+    },
+    {
+      "cite": "799 A.2d 827",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9414884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/799/0827-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434602
+      ],
+      "year": 1872,
+      "pin_cites": [
+        {
+          "page": "467"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/72/0456-01"
+      ]
+    },
+    {
+      "cite": "312 Pa.Super. 125",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        213186
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Fowler v. Scully, 72 Pa. 456, 467 (1872)"
+        },
+        {
+          "page": "552",
+          "parenthetical": "quoting Fowler v. Scully, 72 Pa. 456, 467 (1872)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/312/0125-01"
+      ]
+    },
+    {
+      "cite": "63 A.2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "361 Pa. 26",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        476427
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/361/0026-01"
+      ]
+    },
+    {
+      "cite": "745 A.2d 676",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11480077
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/745/0676-01"
+      ]
+    },
+    {
+      "cite": "355 Pa.Super. 1",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        653268
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "714",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/355/0001-01"
+      ]
+    },
+    {
+      "cite": "776 A.2d 988",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11083182
+      ],
+      "pin_cites": [
+        {
+          "page": "993"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/776/0988-01"
+      ]
+    },
+    {
+      "cite": "66 Pa. D. & C. 4th 353",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.4th",
+      "case_ids": [
+        9216089
+      ],
+      "pin_cites": [
+        {
+          "page": "405-06"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c4th/66/0353-01"
+      ]
+    },
+    {
+      "cite": "705 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11872934
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "878-79"
+        },
+        {
+          "page": "879"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/705/0875-01"
+      ]
+    },
+    {
+      "cite": "984 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292429
+      ],
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/0541-01"
+      ]
+    },
+    {
+      "cite": "967 A.2d 963",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8161997
+      ],
+      "pin_cites": [
+        {
+          "page": "970"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/0963-01"
+      ]
+    },
+    {
+      "cite": "714 A.2d 1027",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11718201,
+        559388
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1029"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/714/1027-01",
+        "/pa/552/0275-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 275",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559388
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0275-01"
+      ]
+    },
+    {
+      "cite": "968 A.2d 1253",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7338337,
+        7338378,
+        4193446,
+        4193375
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/1253-01",
+        "/a2d/968/1253-02",
+        "/pa/600/0515-01",
+        "/pa/600/0515-02"
+      ]
+    },
+    {
+      "cite": "600 Pa. 515",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4193446,
+        4193375
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0515-01",
+        "/pa/600/0515-02"
+      ]
+    },
+    {
+      "cite": "66 Pa. D. & C. 4th 358",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.4th",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 L.Ed.2d 858",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 S.Ct. 1048",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "546 U.S. 1092",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5992867,
+        5896837,
+        5997735,
+        6000361,
+        5998858,
+        6016715,
+        6010765,
+        5974799,
+        6008944,
+        5890193,
+        5941561,
+        5881947,
+        5947804,
+        5990075
+      ],
+      "weight": 2,
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/1092-12",
+        "/us/546/1092-02",
+        "/us/546/1092-05",
+        "/us/546/1092-14",
+        "/us/546/1092-03",
+        "/us/546/1092-10",
+        "/us/546/1092-13",
+        "/us/546/1092-07",
+        "/us/546/1092-09",
+        "/us/546/1092-04",
+        "/us/546/1092-01",
+        "/us/546/1092-11",
+        "/us/546/1092-08",
+        "/us/546/1092-06"
+      ]
+    },
+    {
+      "cite": "880 A.2d 1239",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "584 Pa. 678",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "866 A.2d 394",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9037072
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/866/0394-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1470,
+    "char_count": 46830,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 1.1887496008440244e-07,
+      "percentile": 0.5908655292258351
+    },
+    "sha256": "669310220468fde5b9618639458cdd80aba29d375aebaebf7e194787203f2980",
+    "simhash": "1:2e30d02607c759d9",
+    "word_count": 7698
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BOWES, OLSON, and OTT, JJ."
+    ],
+    "parties": [
+      "Alan P. EPSTEIN, Esquire and Spector Gadon & Rosen, P.C., Appellees v. SAUL EWING LLP, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBOWES, J.:\nSaul Ewing LLP appeals by permission from the interlocutory order determining the \u201ccase within a case\u201d involved in this legal malpractice action. We affirm.\nAlan P. Epstein, Esquire, and Spector Gadon & Rosen, P.C. (\u201cSpector\u201d) (collectively \u201cAppellees\u201d) instituted this legal malpractice action against Appellant based upon its representation of Mr. Epstein during the appellate phase of another action, which we will refer to as the \u201cKanter case.\u201d On January 25, 2001, Nancy Kan-ter, Esquire, filed the Kanter case against Appellees, claiming that they had breached an agreement to pay her a fee for referring them a case involving a minor plaintiff named Tara M. In the Kanter case, Ms. Kanter sought one-third of the attorneys\u2019 fees that Appellees received in connection with their representation of Tara M.\nThe pertinent facts regarding the action that Appellees litigated on behalf of Tara M. are relevant to the appeal at hand. In 1987, shortly after her birth, Tara M. was adjudicated dependent, and the Philadelphia Department of Human Services (\u201cDHS\u201d) was given custody of the child and placed her in foster care. In 1991, Ms. Kanter was appointed as child advocate or guardian ad litem for Tara M. In February 1996, then nine-year-old Tara M. was hospitalized; it was subsequently revealed that Tara M. had been sexually and physically abused by her pre-adoptive foster family. On March 6, 1996, Ms. Kanter was re-appointed as guardian ad litem for Tara M., and on March 19, 1996, Ms. Kan-ter received the additional appointment of guardian of the child\u2019s estate.\nMs. Kanter concluded that Tara M. had meritorious causes of action against various entities and could recover damages-for the injuries that she sustained while in foster care. Ms. Kanter met with attorney Aan P. Epstein and referred him the case. At that time, Mr. Epstein was a member of the law firm of Jablon, Epstein, Wolf & Drucker, P.C. (\u201cJablon\u201d). Ms. Kanter, in her capacity as guardian of the estate and guardian ad litem of Tara M., agreed to a fee arrangement with Mr. Epstein and Jablon, whereby they would receive one-third of any recovery on behalf of Tara M. The written retainer agreement entered into between Ms. Kanter as guardian of Tara M. and Mr. Esptein and Jablon failed to indicate the existence of any arrangement that Ms. Kanter would receive a portion of the attorneys\u2019 fees earned by Mr. Epstein and Jablon.\nMr. Epstein and Jablon then instituted a federal civil rights action (the \u201cTara M. litigation\u201d) against the City of Philadelphia and others who negligently contributed to the events leading to Tara M.\u2019s injuries. Ms. Kanter, in her capacity as guardian of the estate and guardian ad, litem of Tara M., was the named plaintiff in that federal action. Ms. Kanter was thereafter joined as a third-party defendant because she had been Tara M.\u2019s guardian ad litem during the period when the abuse was perpetrated upon the child. When the third-party complaint was filed against her, Ms. Kan-ter claimed immunity. The federal district court concluded that Ms. Kanter was not immune from suit, and on appeal, the Third Circuit affirmed the district court\u2019s decision that Ms. Kanter was subject to liability for the injuries inflicted on Tara M. After Ms. Kanter lost the appeal, she-was replaced as Tara M.\u2019s representative by Tara M.\u2019s new adoptive mother, Iris Rosario. Ms. Rosario was not informed that Ms. Kanter would be seeking a portion of the attorneys\u2019 fees earned by Ap-pellees in the Tara M. litigation. During the course of the Tara M. litigation, Jablon merged with Spector.\nIn 2001, a $4,310,000 settlement was reached in the Tara M. litigation against all defendants; Ms. Kanter\u2019s professional liability insurance carrier contributed to this settlement amount on Ms. Kanter\u2019s behalf. The federal court approved the settlement and awarded Appellees $1,293,000 in attorneys\u2019 fees. Ms. Kanter then demanded one-third of that fee, which Appellees refused to pay, asserting that they had never agreed to pay Ms. Kanter a one-third referral fee. Appellees also asserted that Ms. Kanter was legally precluded from receiving such a fee based upon her status as guardian of the estate and guardian ad litem of Tara M. when the federal action was initiated.\nMs. Kanter then instituted the Kanter case in the Court of Common Pleas of Philadelphia County against Appellees, asserting claims for breach of contract and conversion and seeking punitive damages. In that action, Ms. Kanter sought $430,569, which constituted one-third of the attorneys\u2019 fees of $1,293,000.\nAppellees countered that Mr. Epstein never agreed to pay Ms. Kanter a referral fee and that Ms. Kanter had an impermissible conflict of interest legally precluding her from recovering a referral fee. Appel-lees sought, by motion in limine, to have Ms. Kanter\u2019s one-third referral fee request dismissed based upon the conflict-of-interest defense. That motion was denied, but the trial court did permit evidence and argument to be submitted to the jury on the question of whether Ms. Kanter had a conflict of interest that prevented her from recovering her requested one-third referral fee.\nSix days before trial was scheduled to begin, in order to pursue her punitive damages claim, Ms. Kanter sent Appellees a letter requesting broad information, including \u201cfull and complete financial information concerning their net worth including but not limited to balance sheet, bank balance statements, valuation, financial statements, et cetera,\u201d relative to Appel-lees\u2019 net worth. N.T. Trial (Kanter case), 4/30/02, at 260. A discussion about the matter was held one week later, on April 30, 2002, when Appellees complained that they had been given insufficient notice that Ms. Kanter would be seeking information about them finances, and that while they had an idea about their net financial worth, they did not have the complete financial records relative to their net worth. Mr. Epstein noted that he was married, and his assets were, for the most part, jointly owned. N.T. Trial (Kanter ease), 4/30/02, at 257.\nDue to the imminence of trial, the court and parties agreed to bifurcate the punitive damages claim from the liability phase. An accord was reached that, after the evidence was presented as to liability, the trial court would determine whether Appellees\u2019 conduct was such that punitive damages could be awarded and whether discovery as to Appellees\u2019 worth would be allowed. Thus, before trial, the court did not enter a specific order requiring Appel-lees to reveal any information about their assets.\nThe Kanter case proceeded to a jury trial. Ms. Kanter testified that at their first meeting about the Tara M. case, Mr. Epstein promised to give her a referral fee of one-third of any attorneys\u2019 fees that he recovered in that action. Ms. Kanter also claimed that after Jablon merged with Spector, she confirmed with Mr. Epstein that she would still receive her one-third referral fee in the Tara M. litigation. Ms. Kanter did not keep an account of the hours that she worked on the Tara M. lawsuit during its pendency but was able to reconstruct an approximation of the amount of her labor on that matter. Ms. Kanter testified in the Kanter case that she had performed a minimum of 175.7 hours of work in connection with the Tara M. litigation but that this estimate was low. Ms. Kanter also indicated that she charged thirty to forty dollars an hour for public service work as a child advocate. The hourly rates charged by the lawyers in Mr. Epstein\u2019s firm started at $125 per hour and went as high as $275. Ms. Kan-ter also presented the testimony of an expert legal witness who opined that Ms. Kanter did not have a conflict of interest in the Tara M. litigation that would prevent her from receiving a one-third referral fee.\nIn response, Mr. Epstein denied promising to give Ms. Kanter a one-third referral fee. Moreover, he asserted that Ms. Kan-ter had a conflict of interest that precluded her from receiving such a fee because she was guardian ad litem and guardian of the estate of Tara M. and initiated the case on Tara M.\u2019s behalf in her capacity as the child\u2019s guardian. Mr. Epstein further maintained that he told Ms. Kanter to keep track of any hours that she worked on the Tara M. case and that he would pay her for actual work performed. Mr. Epstein disavowed making any confirmation that Ms. Kanter would be given a one-third referral fee following the merger between Jablon and Specter, and Mr. Epstein repeated that he promised to give Ms. Kanter payment for any hours that she worked on the Tara M. litigation.\nAppellees also presented as a witness Paul Drucker, Esquire, who was a member of'Mr. Epstein\u2019s firm and present at the first meeting between Mr. Epstein and Ms. Kanter about the Tara M. litigation. Mr. Drucker did not recall a one-third referral fee being discussed at that time, but did remember that such a fee was mentioned during an ensuing conference. Mr. Drucker confirmed that Mr. Epstein told Ms. Kanter both that a referral fee for the Tara M. litigation was inappropriate due to her status as guardian ad litem and guardian of the estate of Tara M., but that she would be paid for the hours she worked in connection with that lawsuit.\nThe trial court made a preliminary determination that if the jury found Appel-lees liable for conversion with respect to Ms. Kanter, the question of whether Ms. Kanter was entitled to punitive damages would be submitted to the jury. The court stated, \u201cIn the event that there is a defense verdict, that will end our trial here today. In the event that there is a plaintiff verdict on the conversion claim, then the plaintiffs counsel is pursuing punitive damages.\u201d N.T. Trial (Kanter case), 5/3/02, at 1448.\nBased upon its decision regarding submission of the question of punitive damages to the jury, on May 3, 2002, a Friday, the trial court directed Appellees \u201cto compile over the weekend the appropriate financial statements and/or returns or whatever is applicable, to have them available.\u201d N.T. Trial (Kanter case), 5/3/02, at 1448 (emphasis added). On May 6, 2002, Appel-lees stated that they would not reveal the information that they compiled over the preceding weekend until after the verdict. The trial court agreed that only if the jury found Appellees liable for conversion would Appellees be required to produce financial information. The trial court further agreed to review that information and decide whether it was confidential or could be handed over to Ms. Kanter. Id. at 1451.\nOn May 8, 2002, the jury found Appel-lees liable both for breach of contract and conversion; however it failed to award Ms. Kanter the amount requested on the conversion claim, which was the one-third referral fee. Instead, the jury awarded Ms. Kanter only $215,500, which was about one-half of the requested $430,569 referral fee. After this determination by the jury, the trial court decided to submit the question of punitive damages to the factfinder.\nThe next day, Spector produced a financial statement delineating its net worth by listing that firm\u2019s assets and liabilities. Additionally, on that same day, Steven Ga-don, Esquire, a member of Spector, appeared for that firm in order to comply with the May 3, 2002 directive to provide financial information. When Ms. Kanter complained that the information was insufficient, Mr. Gadon explained that he \u201cwas informed by you to bring information concerning net worth. Net worth is assets and liabilities,\u201d which was the data contained in the statement provided to Ms. Kanter. N.T. Trial (Kanter case), 5/9/02, at 17. Mr. Epstein produced a summary of his profit sharing plan, his sole asset, and represented that all of his other assets were jointly held with his wife.\nThe trial court was under the misapprehension that on May 3, 2002, it had ordered Appellees to produce both financial statements and tax returns rather than \u201cappropriate financial statements and/or returns or whatever is applicable.\u201d N.T. Trial (Kanter case), 5/3/02, at 1448 (emphasis added). Therefore, on May 9, 2002, the trial court concluded that Appellees had violated its May 3, 2002 directive. The court decided that it would deal with the purported violation of its May 3, 2002 order at a later time and that it would proceed to submit the punitive damages issue to the jury. N.T. Trial (Kanter case), 5/9/02, at 7. Appellees did not recall the trial court requiring it to produce tax returns and explained that those items had not been retrieved because \u201ctax returns do not show the net worth of Spector, Gadon & Rosen. The tax returns for 2001 have not yet been prepared, so they don\u2019t exist.\u201d Id. at 18-19. When the trial court inquired about the previous years\u2019 returns, Spector reiterated that it did not view prior tax returns as relevant since the question of Spector\u2019s net worth was not resolved by the information provided on those documents. Mr. Gadon, who had been a certified public accountant, explained that net worth \u201cmeans assets and liabilities. Income has nothing to do with net worth whatsoever.\u201d Id. at 20-21.\nAfter the trial court again expressed its dissatisfaction with the financial statement submitted by Spector, Mr. Gadon offered to testify to explain the document. The trial court responded that all that it was asking from Mr. Gadon was \u201cto use your best efforts to get whatever additional information or supporting financial documents that you could secure in addition to these four generated computer sheets. That\u2019s all I\u2019m asking you. And then we could deal with it at that point.\u201d Id. at 22-23. Mr. Gadon observed that he had brought in a computer balance sheet for Spector for December 2001 and March 2002, and offered to provide \u201call the bank statements ... for the entire year 2001. It will probably take maybe two briefcases to do it, if that\u2019s what Your Honor wants.\u201d Id. at 25. The trial court declined Mr. Gadon\u2019s invitation to provide bank statements. It continued, \u201chere\u2019s all I\u2019m asking you. As an intelligent senior partner, take in what is in your opinion \u2014 and we could deal with that later what comes in \u2014 whatever is reasonably relevant to determine the net worth and documentation that you have, including but not limited to tax returns, other financial statements, bank statements, et cetera.\u201d Id. at 25-26. Spector then objected to providing these documents, stating that they were not indicative of net worth and that its net worth at the time of imposition of punitive damages, rather than its net worth in prior years, was the pertinent inquiry for purposes of assessing those damages. Id. at 26. At that point, the trial court acceded that Mr. Gadon would be \u201cfamiliar as to what net worth is and I\u2019m going to ask him, without restricting and not restricting, bring in whatever you are contending is the relevant portions of for the net worth section.\u201d Id. at 26-27. Mr. Epstein then represented, under oath, that his only asset was a $21,000 retirement fund and that all of his remaining assets were owned jointly with his spouse.\nThe trial court ended the discussion and submitted the question of punitive damages to the jury. Mr. Gadon testified as to Spector\u2019s net worth. The jury ruled that Appellees did not engage in outrageous, malicious, wanton, reckless, willful or oppressive behavior. Thus, it determined that Appellees were not liable for punitive damages.\nBoth parties filed post-trial motions, and in her motion, among other things, Ms. Kanter sought recovery of the attorneys\u2019 fees, pursuant to 42 Pa.C.S. \u00a7 2503, that she had incurred in the prosecution of the Kanter case. Following the filing of post-trial motions, the trial court, despite the jury\u2019s finding that Appellees were not liable for punitive damages, continued to grant Ms. Kanter discovery regarding Ap-pellees\u2019 assets. It entered two orders, which were hotly contested by Appellees, mandating that Appellees provide various documents and submit to depositions relative to their assets. Additionally, the trial court permitted discovery about assets held by Mr. Epstein jointly with Mrs. Epstein. Ms. Kanter also requested a contempt finding against Appellees.\nOn March 10, 2003, eleven months after trial, the trial court resolved all pending motions. The trial court granted nearly all of Ms. Ranter\u2019s requests for relief. First, the trial court added to the jury\u2019s award of compensatory damages and increased it to the one-third referral fee requested by Ms. Kanter. It then concluded that Ms. Kanter was entitled to punitive damages as a matter of law. Ms. Kanter was given the option of either receiving a new trial limited to the issue of punitive damages or an outright award of $645,000. The court also gave Ms. Kanter pre-judgment and post-judgment interest as well as $124,219.86 in \u25a0 attorneys\u2019 fees that Ms. Kanter incurred in prosecuting the Kanter case. The award of attorneys\u2019 fees was based solely on Appellees\u2019 conduct in connection with the punitive damages portion of the proceedings. The attorneys\u2019 fees awarded was based upon a printout of hours that did not delineate between time spent on the issue of compensatory damages versus the issue of punitive damages. Finally, Ms. Kanter was awarded fines totaling $87,000 for Appel-lees\u2019 contempt of the court\u2019s post-trial orders requiring Appellees to reveal financial information to her. Ms. Kanter elected to take the $645,000 in punitive damages, and judgment was entered against Appellees. Appellees filed an appeal in the Kanter case from that judgment.\nAppellant was retained to represent Mr. Epstein and Spector on appeal. Spector then elected to obtain independent representation and secured Sprague & Sprague as its separate counsel. The trial court in the Kanter case ordered Appellees, who were the appellants in the Kanter case, to file a concise statement of the issues to be raised on appeal. Appellant filed a fifteen-page Pa.R.A.P. 1925(b) statement on behalf of Mr. Epstein that contained forty-nine issues and also incorporated the fifty-five issues that had been presented in the Pa.RA.P. 1925(b) statement filed by Sprague & Sprague on behalf of Spector. Thus, Appellant identified 104 issues that it intended to raise on behalf of Mr. Epstein on appeal. Additionally, some issues contained sub-issues. This Court concluded that all appellate issues were waived in the Kanter case based upon the Pa.R.A.P. 1925(b) statements that Appellant and Sprague & Sprague had prepared. Kanter v. Epstein, 866 A.2d 394 (Pa.Super.2004), appeal denied, 584 Pa. 678, 880 A.2d 1239 (2005), cert. denied sub nom. Spector Gadon & Rosen, P.C. v. Kanter, 546 U.S. 1092, 126 S.Ct. 1048, 163 L.Ed.2d 858 (2006).\nWe held that the \u201cfailure [of Mr. Epstein and Spector] to set forth the issues that they sought to raise on appeal in a concise manner impeded the trial court\u2019s ability to prepare an opinion addressing the issues they sought to raise before this Court, thereby frustrating this Court\u2019s ability to engage in a meaningful and effective appellate review process.\u201d Id. at 401 (emphasis in original). We noted that even though \u201cthe trial court authored an eighty-five page Opinion, the trial court was, through no fault of its own, unable to provide a comprehensive analysis of the issues it did address due to the preposterous number of issues identified by [Mr. Epstein and Spector]. This too has im--peded our ability to undertake a meaningful review of the issues raised by [Mr. Epstein and Spector] on appeal. Accordingly, we must conclude that [Mr. Epstein and Spector] have failed to preserve any of their issues for appellate review.\u201d Id. We declined to address any issues on appeal.\nAfter our Supreme Court and the United States Supreme Court denied review in the Kanter case, Appellees settled with Ms. Kanter for the sum of $900,000. Ap-pellees then instituted the present legal malpractice lawsuit against Appellant based upon allegations and that if Appellant had not waived those issues on appeal in the Kanter case on behalf of Epstein by filing a defective Pa.R.A.P. 1925(b) statement, Appellees would have prevailed on appeal.\nAt a pretrial conference, the parties agreed that the issue of whether Appellees would have obtained appellate relief in the Kanter case was a question of law. Additionally, they consented to bifurcate the matter and submit to the Honorable Fre-derica Massiah-Jackson of the Court of Common Pleas of Philadelphia County, operating as a reviewing court, the.question of whether Appellees would have prevailed in this Court as to any issues. The matter of the extent to which Appellees would have obtained appellate relief in the Kan-ter case was characterized as the \u201ccase within a case\u201d involved in this legal malpractice action.\nAfter a thorough scrutiny of the record, Judge Massiah-Jackson concluded that this Court, in the prior appeal in the Kan-ter case, would have granted Appellees significant relief. Specifically, Judge Mas-siah-Jackson decided that if this Court had reached the merits, it would have: 1) upheld the award of $215,500 in compensatory damages because the evidence was sufficient for the jury to find an agreement to compensate Ms. Kanter for hours expended in the Tara M. matter and that that verdict represented payment for the amount of hours that Ms. Kanter believed that she had worked with respect to the Tara M. litigation; 2) determined that as a matter of law, Ms. Kanter was not entitled to a referral fee in the Tara M. case due to a impermissible conflict of interest resulting from her appointment as guardian ad litem and guardian of the estate of the child; 3) struck the trial court\u2019s additur to the compensatory damages award; 4) reversed the award of punitive damages against Appellees; 5) vacated the award of fines for contempt; and 6) eliminated the award of attorneys\u2019 fees to Ms. Kanter in connection with her pursuit of punitive damages.\nAfter entry of the order deciding the case within a case, Appellant asked the Honorable Massiah-Jackson to certify that the order involved a controlling question of law as to which there is a substantial ground for difference of opinion such that an immediate appeal from the order may materially advance the ultimate termination of this matter. That request was granted, and Appellant successfully petitioned this Court for interlocutory review of the order. See Pa.R.A.P 1311(b) (\u201cPermission to appeal from an interlocutory order containing the statement prescribed by 42 Pa.C.S. \u00a7 702(b) may be sought by filing a petition for permission to appeal with the prothonotary of the appellate court within 30 days after entry of such order[.]\u201d). Appellant raises these questions for our review:\n[L] Whether or not this Court would have granted Epstein and [Spector] appellate relief if this Court had not quashed their appeals in the matter captioned Kanter v. Epstein, 66 Pa. D. & C. 4th 358 (2004), appeals quashed, 866 A.2d 394 (Pa.Super.2004), alloc. denied, 584 Pa. 678, 880 A.2d 1239 (2005), cert. denied sub nom., Spector Gadon & Rosen, P.C. v. Kanter, 546 U.S. 1092, 126 S.Ct. 1048, 163 L.Ed.2d 858 (2006)?\nA. Whether or not this Court would have reversed the Trial Court\u2019s denial of Epstein and [Spector\u2019s] motions for judgment notwithstanding the verdict and for a new trial on Kanter\u2019s claim for breach of contract?\nB. Whether or not this Court would have reversed the Trial Court\u2019s grant of additur in favor of Kanter?\nC. Whether or not this Court would have reversed the Trial Court\u2019s finding that Epstein and [Spector] were in contempt of court and its subsequent award of damages in favor of Kanter resulting from Epstein and [Spector\u2019s] contemptuous conduct?\nD. Whether or not this Court would have reversed the Trial Court\u2019s finding and imposition of sanctions against Epstein and [Spector]?\nE. Whether or not this Court would have reversed the Trial Court\u2019s imposition of punitive damages in favor of Kanter?\nAppellant\u2019s brief at 6-7.\nA cause of action for legal malpractice contains three elements: the plaintiffs employment of the attorney or other grounds for imposition of a duty; the attorney\u2019s neglect to exercise ordinary skill and knowledge; and the occurrence of damage to the plaintiff proximately caused by the attorney\u2019s misfeasance. See Steiner v. Market, 600 Pa. 515, 968 A.2d 1253, 1255 (2009); Kituskie v. Corbman, 552 Pa. 275, 714 A.2d 1027, 1029 (1998). As our Supreme Court has noted, \u201cIn essence, a legal malpractice action in Pennsylvania requires the plaintiff to prove that he had a viable cause of action against the party he wished to sue in the underlying case and that the attorney he hired was negligent in prosecuting or defending that underlying case (often referred to as proving a \u2018case within a case\u2019).\u201d Kituskie, supra at 1030.\nThe parties at issue in this appeal stipulated that the case within a case herein is \u201cwhat this Court would have done had it not dismissed [Appellees\u2019] appeal in the Kanter v. Epstein matter.\u201d Appellant\u2019s brief at 33. Thus, we must decide to what extent this Court would have granted Ap-pellees relief on appeal in the Kanter case if Appellant had not prepared a Pa.R.A.P. 1925(b) statement for Mr. Epstein that resulted in waiver of all issues. We stress that in this appeal, we are solely reviewing the propriety of Judge Massiah-Jackson\u2019s conclusions regarding the \u201ccase within a case\u201d involved herein. In this connection, we observe that Appellant continually points out that it represented only Mr. Epstein in the Kanter case appeal. We are fully cognizant of that fact, and this adjudication should not be construed as determining any matter relating to the present litigation other than the extent to which appellate relief would have been awarded had the prior panel reviewed the merits of the Kanter case appeal. The parties have agreed that the case within a case involves questions of law. \u201cOn questions of law, our standard of review is de novo, and our scope of review is plenary.\u201d Lugo v. Farmers Pride, Inc., 967 A.2d 963, 970 (Pa.Super.2009).\nAppellant first argues that the Honorable Massiah-Jackson correctly concluded that we would have upheld the jury\u2019s assessment of damages. We need not address this question because Appellant was not adversely affected by this determination, which operated to reduce its liability in this legal malpractice case. Only a party who has been aggrieved by a ruling may appeal that determination. See Pa.R.A.P. 501 (\u201cExcept where the right of appeal is enlarged by statute, any party who is aggrieved by an appealable order, or a fiduciary whose estate or trust is so aggrieved, may appeal therefrom.\u201d). A party is aggrieved by a ruling when that party \u201chas been adversely affected by the decision from which the appeal is taken. A prevailing party is not \u2018aggrieved\u2019 and therefore, does not have standing to appeal an order that has been entered in his or her favor.\u201d In re J.G., 984 A.2d 541, 546 (Pa.Super.2009). As noted, Judge Massi-ah-Jackson concluded that this Court would have upheld the $215,500 compensatory damages award made by the jury in the Ranter case. This ruling benefited Appellant, who does not contest its validity on appeal, and we need not discuss it further.\nAppellant does assail Judge Massi-ah-Jackson\u2019s conclusion that we would have struck the trial court\u2019s additur. However, we uphold the learned Judge Massiah-Jackson\u2019s determination that the trial court in the Ranter case erred in this respect. We have reviewed the post-trial opinion authored by the trial court in the Ranter case. That court concluded that the jury\u2019s determination that Appellees were liable for conversion reflected a finding that Appellees agreed to pay Ms. Ranter a one-third referral fee of $430,569, and it amended the compensatory damages award accordingly. It reasoned as follows:\nWe also concluded that the evidence supported the finding of the jury that both defendants were liable in conversion.\n\u201c \u2018Conversion is the deprivation of another\u2019s right of property in, or use or possession of, a chattel without lawful justification.\u2019 \u2018Money may be the subject of conversion.\u2019 The failure to pay a debt is not conversion. Once a referral fee has been received, the referral fee can be the subject of a conversion. Furthermore, the attorney\u2019s law firm can be vicariously liable for conversion.\u201d Bernhardt v. Needleman, 705 A.2d 875, 878-79 (Pa.Super.1997).\nIn the case at bar, there was sufficient evidence from which the jury found that there was a valid referral agreement between [Ms. Rantor] and defendant Epstein and that Epstein intentionally refused to pay plaintiff what was due her after the Tara M. settlement. The defendant law firm [Spector] was aware of the fee dispute and also made a conscious decision not to pay [Ms. Rantor] without even meeting with her personally. Therefore, [Spector] was liable in conversion both directly and vicariously.\nKanter v. Epstein, 66 Pa. D. & C. 4th 353, 405-06 (Pa.Com.Pl.2004).\nWe believe that the trial court in the Ranter case misinterpreted the jury verdict. Where the evidence of damages presented by the plaintiff is contested by the defendant, the jury in a civil action does not have to accept the plaintiffs measure of damages because the jury is free to accept all, part, or none of the evidence. See Nemirovsky v. Nemirovsky, 776 A.2d 988, 993 (Pa.Super.2001) (\u201cIt is beyond argument that the fact-finder is free to accept or reject the credibility of both expert and lay witnesses, and to believe all, part or none of the evidence.\u201d). The law regarding altering a jury\u2019s damages award is as. follows:\nThe duty of assessing damages is within the province of the fact-finder and should not be interfered with unless it clearly appears that the amount awarded resulted from partiality, caprice, prejudice, corruption or some other improper influence. Generally, a verdict will not be disturbed merely on account of the smallness of the damages awarded or because the reviewing court would have awarded more. To support the granting of a new trial for inadequacy, the injustice of the verdict should stand forth like a beacon. So long as the verdict bears a reasonable resemblance to the damages proved, it is not the function of the court to substitute its judgment for' that of the jury.\nCooley v. Jefferson Bank, 355 Pa.Super. 1, 512 A.2d 713, 714 (1986) (citations omitted).\nIn the Kanter case, there was conflicting evidence on the question of whether Mr. Epstein agreed to pay Ms. Kanter a referral fee but he admitted to an agreement whereby she would be paid for her hourly work. Ms. Kanter provided evidence of the minimum hours that she had worked on the Tara M. litigation as well as the hourly rates charged by members of Mr. Epstein\u2019s law firm. Since the jury did not return an award in the amount of the one-third referral fee requested by Ms. Kan-ter, the verdict does not reflect a finding that Mr. Epstein consented to pay Ms. Kanter the demanded referral fee. Rather, by its partial award, it is clear that the jury found Mr. Epstein did agree to pay Ms. Kanter in some manner, and it assigned a value to the work performed by Ms. Kanter in connection with the Tara M. lawsuit. There was no basis for adding the full amount requested by Ms. Kanter to the jury\u2019s award of compensatory damages when there was ample support for its award based upon the evidence regarding an agreement to pay Ms. Kanter for hours worked. The original award bears a reasonable resemblance to the evidence of damages produced at trial, and we affirm the Honorable Massiah-Jackson\u2019s conclusion that this Court, had it addressed the issue, would have struck the additur awarded by the trial court in the Kanter case.\nWe also agree with Judge Massiah-Jackson\u2019s conclusion that additur was improper because Ms. Kanter was legally precluded from receiving a one-third referral fee due to her status as guardian of the estate and guardian ad litem of Tara M. A guardian is defined as, \u201cA fiduciary who legally has the care and management of the person, or the estate, or both, of another under legal disability.\u201d 1 Pa.C.S. \u00a7 1991. Ms. Kanter was both guardian of the estate and guardian ad litem of Tara M. when Ms. Kanter instituted the Tara M. litigation on behalf of the minor child who had no parents. A fiduciary is precluded from receiving a referral fee from another attorney for referring a case on behalf of the person to whom the fiduciary owes his duty of care. In re Estate of Harrison, 745 A.2d 676 (Pa.Super.2000). Such an arrangement creates a potential conflict of interest in that the fiduciary would thereby have an interest in increasing the attorneys\u2019 fees paid to the referring attorney to the detriment of the person to whom the fiduciary owes his duty of care. It matters not that the harm did not actually occur; it is the potential for such harm that causes the conflict of interest. In re Noonan\u2019s Estate, 361 Pa. 26, 63 A.2d 80 (1949).\nAssuming Ms. Kanter contracted to receive a one-third referral fee of the attorneys\u2019 fees paid to Appellees for their representation of Tara M., Ms. Kanter would have an interest in seeing the fees paid to Appellees maximized, thereby reducing the recovery of Tara M., her guardian. While the one-third fee that Ms. Kanter agreed to pay Appellees for litigating the Tara M. action does not appear to be unreasonable, the fact remains that the situation itself created a conflict of interest and a potential for self-dealing. Such situations are prohibited in and of themselves, without regard to whether the object of the fiduciary\u2019s duty of care actually suffered a loss. Id.\nThus, the issue herein is not whether actual harm to Tara M. was occasioned by Ms. Kanter\u2019s conduct; it was sufficient that Ms. Kanter had a conflict of interest such that there was a potential for such harm. In re Estate of Harrison, supra. Another law firm may have agreed to represent Tara M. for less than a one-third of any recovery in the federal lawsuit because it was not going to be paying a referral fee to another lawyer. Additionally, having been promised a one-third referral fee, Ms. Kanter might have been disinclined to terminate Appellees\u2019 representation of her ward if Appellees had not been litigating the Tara M. case properly.\nAs the Noonan Court observed, \u201cThe test of forbidden self-dealing is whether the fiduciary had a personal interest in the subject transaction of such a substantial nature that it might have affected his judgment in material connection.... It will be noted that the extent of the fiduciary\u2019s disqualifying interest need not be such as \u2018did affect his judgment\u2019 but merely such as \u2018might affect his judgment.\u2019 \u201d In re Noonan\u2019s Estate, supra at 83 (emphasis in original, citation omitted). Even though Ms. Kanter may not have actually agreed to pay Appellees an unreasonable fee for litigating the federal action for Tara M., Ms. Kanter unquestionably had an interest in seeing that fee increased so that her referral fee would grow commensurately. A referral arrangement might have affected Ms. Kanter\u2019s judgment in entering the retainer arrangement with Mr. Epstein and Jablon. Thus, we agree with the Honorable Judge Massiah-Jackson that Ms. Kanter was ethically barred from entering a one-third referral fee arrangement with Appellees in the first instance.\nThe trial court\u2019s additur was thus improper because the referral fee arrangement was legally unenforceable. Appellant posits that Appellees were subject to liability for any purported one-third referral fee arrangement because it involved a matter between Ms. Kanter and Mr. Epstein and his law firm. We disagree. In Feld and Sons, Inc. v. Pechner, Dorfman, Wolfee, Rounick, and Cabot, 312 Pa.Super. 125, 458 A.2d 545, 552 (1983) (quoting Fowler v. Scully, 72 Pa. 456, 467 (1872)), we discussed the pertinent legal principle, which \u201cis that \u2018no court will lend its aid to a man who grounds his action upon an immoral or illegal act.\u2019 \u201d A referral fee arrangement, being, as discussed above, in breach of Ms. Kanter\u2019s fiduciary duty to Tara M., was unenforceable in the Kanter case. Wishnefsky v. Riley and Fanelli, P.C., 799 A.2d 827 (Pa.Super.2002) (court will not enforce an alleged agreement by a law firm to pay a referral fee to a non-lawyer because rules of professional conduct prohibit such an arrangement to maintain an attorney\u2019s ability to exercise independent judgment on behalf of his client unencumbered by a monetary obligation to any person other than his client). Hence, we affirm the determination that this Court would have struck the additur granted by the trial court in the Kanter case on the basis that Ms. Kanter was precluded by virtue of her status as guardians of both the estate and ad litem to Tara M. from receiving a referral fee.\nSince this question impacts upon the subsequent issues to be decided, we next address the question of whether the trial court in the Kanter case properly awarded Ms. Kanter punitive damages as a matter of law. This determination partially rested upon application of J. Bernhardt, III, P.C. v. Needleman, 705 A.2d 875 (Pa.Super.1997). Therein, Needleman, an attorney, was found liable for conversion after he refused to pay a referral fee to Bernhardt, another attorney. Bernhardt referred Needleman a case, Needle-man recovered a fee in that case, and Needleman refused to pay Bernhardt the agreed-upon referral fee. Bernhardt was forced to institute an action, despite the fact that Needleman admitted that he had agreed to pay the referral fee in question, but represented that it would not be fully paid because his law firm was in poor financial shape. Needleman continued to promise to pay the fee, never did so, and then took a vacation, despite the fact he purportedly was cash-strapped. After Bernhardt instituted the action to recover the fee against Needleman and his firm, Needleman offered numerous meritless defenses, all of which were rejected by the trial court and on appeal.\nIn his cross-appeal, Bernhardt averred that the trial court erred in not awarding punitive damages against the Needleman defendants. We agreed and stated, \u201cafter reviewing Needleman\u2019s conduct and correspondence, this court is outraged. Needle-man\u2019s vigorous opposition to this litigation and prosecution of this appeal is merely intended to harass Bernhardt and delay the time in which he is required to make good on his acknowledged obligation. Let it be clear that such a use of the taxpayer-funded courts of this Commonwealth will not be sanctioned.\u201d Id. at 879. We also noted that a sanction was warranted because Needleman knowingly converted funds owed to Bernhardt.\nThe conduct of Appellees with respect to the fee owed to Ms. Kanter is by no stretch analogous to Needleman\u2019s conduct. First, Mr. Epstein denied offering a referral fee, a claim supported by other testimony and a lack of written confirmation. Ms. Kanter also was precluded by law from receiving a referral fee. Furthermore, Appellees, unlike Needleman, largely prevailed at the jury trial in the Kanter case. Ms. Kanter was not awarded her requested one-third referral fee, but one-half of that amount. Appellees\u2019 defenses in the Kanter case were not misguided, but grounded in law. Thus, the trial court in the Kanter case improperly applied the Needleman case in awarding punitive damages to Ms. Kanter as a matter of law.\nIn supporting its decision to award punitive damages despite the jury\u2019s verdict, the trial court in the Kanter case also referenced conduct committed by Mr. Epstein unrelated to the Kanter case. Specifically, after Mr. Epstein formed a law firm, he improperly solicited clients of his former law firm. The trial court\u2019s consideration of Mr. Epstein\u2019s conduct in a matter wholly irrelevant to his behavior in the Kanter case was inappropriate and could not serve as a basis for awarding punitive damages in the Kanter case.\nFinally, the trial court in the Ranter case awarded Ms. Ranter punitive damages because, during the punitive damages phase of the trial, Appellees represented to the jury that they intended to honor and satisfy the judgment entered but then contested that verdict in post-trial motions. The trial court maintained that Appellees lied to the jury by representing they would pay the verdict because they had challenged it. This was also not a proper ground upon which to award punitive damages as a matter of law. Appel-lees explained that what they told the jury was true, because they fully intended to honor and satisfy the jury verdict once it was reduced to a final judgment and upheld on appeal. The statements were neither outrageous nor deceitful.\nThus, the trial court in the Ranter case awarded punitive damages as a matter of law based upon: 1) Needleman, which had no application to the Ranter case; 2) irrelevant conduct by Mr. Epstein; and 3) statements made by Appellees to the jury that were not deceitful. There is no doubt that this Court would have struck the trial court\u2019s decision to award $645,000 in punitive damages to Ms. Ranter as a matter of law.\nWe also agree with Judge Massi-ah-Jackson that the prior panel would have reversed the fines for contempt imposed on Appellees. After Appellees were exonerated by the jury with respect to punitive damages, Ms. Ranter moved to have Appellees found in contempt for failing to reveal confidential financial information to her regarding their assets. The May 1, 2002 trial transcript establishes that Appellees were ordered to provide evidence of net worth with financial statements and/or income tax returns. The trial court did not have the benefit of the transcription when, on May 9, 2002, it concluded that Appellees had not complied with that directive. Spector did provide a statement of its then-current net worth and Mr. Epstein had a statement of his sole individual asset. Mr. Gadon was available to testify on the matter. Appel-lees thereafter prevailed before the jury on the question of whether they had engaged in outrageous conduct such that punitive damages were proper.\nThe Ranter trial court found Appellees in contempt and awarded Ms. Ranter significant fines as well as attorneys\u2019 fees that she incurred in attempting to obtain the financial information. \u201cTo sustain a finding of civil contempt, the complainant must prove certain distinct elements: (1) that the contemnor had notice of the specific order or decree which he is alleged to have disobeyed; (2) that the act constituting the eontemnor\u2019s violation was volitional; and (3) that the con-temnor acted with wrongful intent.\u201d Lachat v. Hinchcliffe, 769 A.2d 481, 489 (Pa.Super.2001). Furthermore, \u201cWhen holding a person in civil contempt, the court must undertake (1) a rule to show cause; (2) an answer and hearing; (3) a rule absolute; (4) a hearing on the contempt citation; and (5) an adjudication of contempt.\u201d In re Contempt of Cullen, 849 A.2d 1207, 1211 (Pa.Super.2004). In the present case, Appellees never received a hearing on the contempt citation. Thus, Appellees were not given an opportunity to establish why they did not act with wrongful intent when they refused to provide Ms. Ranter with financial information after the jury absolved them from liability for punitive damages. Based upon the specific factual history of this matter, and the subsequent lack of a hearing, we agree with Judge Massiah-Jackson\u2019s well-founded conclusion that this Court would have reversed the contempt findings. Village Gentry, Inc. v. West Village, 316 Pa.Super. 404, 463 A.2d 427 (1983)\nPursuant to the same rationale, this Court would not have upheld the award of attorneys\u2019 fees in Ms. Ranter\u2019s favor, which was also imposed as a sanction for Appellees\u2019 refusal to reveal financial assets during the post-trial punitive damages litigation. Attorneys\u2019 fees were awarded under 42 Pa.C.S. \u00a7 2503, which states:\nThe following participants shall be entitled to a reasonable counsel fee as part of the taxable costs of the matter:\n(7) Any participant who is awarded counsel fees as a sanction against another participant for dilatory, obdurate or vexatious conduct during the pendency of a matter.\n(9) Any participant who is awarded counsel fees because the conduct of another party in commencing the matter or otherwise was arbitrary, vexatious or in bad faith.\nGiven the jury\u2019s findings in the Ranter case, Appellees\u2019 opposition to Ms. Ranter\u2019s requests for them to reveal their assets cannot be considered dilatory, obdurate, vexatious, arbitrary, or in bad faith. Their position rested on a sound legal basis, which was that they were not liable for punitive damages due to the jury\u2019s findings that they had not engaged in behavior warranting such damages.\nOrder affirmed. Case remanded. Jurisdiction relinquished.\n. That section states in pertinent part:\nThe following participants shall be entitled to a reasonable counsel fee as part of the taxable costs of the matter:\n(7) Any participant who is awarded counsel fees as a sanction against another participant for dilatory, obdurate or vexatious conduct during the pendency of a matter.\n(9) Any participant who is awarded counsel fees because the conduct of another party in commencing the matter or otherwise was arbitrary, vexatious or in bad faith.\n42 Pa.C.S. \u00a7 2503.\n. That statutory provision states:\nWhen a court or other government unit, in making an interlocutory order in a matter in which its final order would be within the jurisdiction of an appellate court, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the matter, it shall so state in such order. The appellate court may thereupon, in its discretion, permit an appeal to be taken from such interlocutory order.\n42 Pa.C.S. \u00a7 702(b).\n. Appellant takes the untenable position that Ms. Kanter\u2019s appointment was limited, and she was appointed guardian of Tara M. merely to open a bank account to deposit public donations made for Tara M.\u2019s care after the abuse came to light. This position is readily discredited by the fact that Ms. Kanter did not merely open a bank account for that child. Ms. Kanter instituted the federal action on Tara M.\u2019s behalf and in her capacity as guardian of the estate and guardian ad litem of Tara M. Furthermore, the appointments were unlimited in scope.",
+        "type": "majority",
+        "author": "BOWES, J.:"
+      }
+    ],
+    "attorneys": [
+      "H. Robert Fiebach, Philadelphia, for appellant.",
+      "Paul R. Rosen and Bruce W. Belling-ham, Philadelphia, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Alan P. EPSTEIN, Esquire and Spector Gadon & Rosen, P.C., Appellees v. SAUL EWING LLP, Appellant.\nSuperior Court of Pennsylvania.\nArgued Feb. 24, 2010.\nFiled Oct. 15, 2010.\nH. Robert Fiebach, Philadelphia, for appellant.\nPaul R. Rosen and Bruce W. Belling-ham, Philadelphia, for appellees.\nBEFORE: BOWES, OLSON, and OTT, JJ."
+  },
+  "file_name": "0303-01",
+  "first_page_order": 331,
+  "last_page_order": 347
+}

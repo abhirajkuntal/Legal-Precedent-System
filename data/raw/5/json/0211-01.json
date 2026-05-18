@@ -1,0 +1,102 @@
+{
+  "id": 7284593,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. James HANTON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hanton",
+  "decision_date": "2010-09-27",
+  "docket_number": "No. 93 EM 2010",
+  "first_page": "211",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 559,
+    "ocr_confidence": 0.669,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1882652231848266
+    },
+    "sha256": "9660311c4d779fd9f2bf42e1bb048d697ca8164b1b3450e5b0f2b0f5cde1065e",
+    "simhash": "1:0d1fed2c43914db3",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. James HANTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of September, 2010, the Application for Leave to File Original Process and the \u201cEmergency Extraordinary Relief Petition for Writ of Ha-beas Corpus,\u201d treated as a Petition for Writ of Habeas Corpus, are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation is improper). The Prothonotary is directed to forward these filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. James HANTON, Petitioner.\nNo. 93 EM 2010.\nSupreme Court of Pennsylvania.\nSept. 27, 2010."
+  },
+  "file_name": "0211-01",
+  "first_page_order": 241,
+  "last_page_order": 241
+}

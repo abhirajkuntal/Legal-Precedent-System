@@ -1,0 +1,228 @@
+{
+  "id": 7288336,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Earl William KUYKENDALL, Appellant",
+  "name_abbreviation": "Commonwealth v. Kuykendall",
+  "decision_date": "2010-06-30",
+  "docket_number": "",
+  "first_page": "559",
+  "last_page": "565",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 559"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "788 A.2d 408",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9401483
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/788/0408-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 830",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4197001,
+        7292842
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0034-01",
+        "/a2d/985/0830-01"
+      ]
+    },
+    {
+      "cite": "284 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5719289
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "defendant cannot be punished twice for the same crime"
+        },
+        {
+          "parenthetical": "defendant cannot be punished twice for the same crime"
+        },
+        {
+          "parenthetical": "defendant cannot be punished twice for the same crime"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/284/0299-01"
+      ]
+    },
+    {
+      "cite": "918 A.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3016846,
+        8325478
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "86",
+          "parenthetical": "discussing probation revocations"
+        },
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0341-01",
+        "/a2d/918/0082-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 341",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3016846
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing probation revocations"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0341-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9145883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/860/0142-01"
+      ]
+    },
+    {
+      "cite": "967 A.2d 1001",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8162585
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1005"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/1001-01"
+      ]
+    },
+    {
+      "cite": "947 A.2d 777",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8398533
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "780"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/947/0777-01"
+      ]
+    },
+    {
+      "cite": "893 A.2d 735",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8985364
+      ],
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/893/0735-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 777,
+    "char_count": 20488,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 1.3336656066886645e-07,
+      "percentile": 0.6296569800015368
+    },
+    "sha256": "e0ed90de3ac28177ea4571c0a9a0af4a95232d7dd62ba72b277abd5f94cc8ace",
+    "simhash": "1:709cf0e6dd5ec128",
+    "word_count": 3225
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BOWES, MUNDY, and FITZGERALD, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Earl William KUYKENDALL, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBOWES, J.:\n\u00b6 1 Earl Kuykendall appeals from the judgment of sentence of twenty-one to forty-eight months incarceration imposed by the trial court following Appellant\u2019s revocation from the State Intermediate Punishment (\u201cSIP\u201d) program. We affirm.\n\u00b6 2 The legislature enacted SIP in November 2004. SIP is a two-year program designed to benefit persons with drug and alcohol problems. 61 Pa.C.S. \u00a7\u00a7 4102-4109. In order to be eligible for the SIP program, a defendant cannot have a history of present or past violent behavior and the Pennsylvania Department of Corrections (\u201cDOC\u201d) must determine that the defendant is in need of drug and alcohol treatment. 61 Pa.C.S. \u00a7 4103. Certain classes of defendants are not eligible for this program. A person who is subject to the deadly weapon enhancement provisions under the sentencing guidelines is ineligible. Id. Additionally, a person who was convicted of a personal injury crime or an attempt or conspiracy to commit a personal injury crime is ineligible for the program. Id. Further, the legislature has designated several convictions involving criminal conduct against children which serve as a bar to SIP eligibility. Id.\n\u00b6 3 On August 7, 2007, Appellant pleaded guilty to one count of criminal conspiracy to deliver a controlled substance. In exchange for his guilty plea, Appellant was referred to the SIP program. See 61 Pa. C.S. \u00a7 4104(a). Subsequently, the DOC completed an evaluation of Appellant and determined that he was eligible for the program. On October 11, 2007, the court sentenced Appellant to the SIP program. Prior to being sentenced to SIP, Appellant had served sixty-one days in the Mifflin County Correctional Facility.\n\u00b6 4 The SIP program includes the following requirements:\n(b) Duration and components. \u2014 Notwithstanding any credit to which the defendant may be entitled under Section 9760 (relating to credit for time served), the duration of the drug offender treatment program shall be 24 months and shall include the following:\n(1) A period in a State correctional institution of not less than seven months. This period shall include:\n(1) The time during which the defendants are being evaluated by the department under section 4104(b) (relating to referral to State intermediate punishment program).\n(ii) Following evaluation under sub-paragraph (i) not less than four months shall be in an institutional therapeutic community.\n(2) A period of treatment in a community based therapeutic community of at least two months.\n(3) A period of at least six-months\u2019 treatment through an outpatient addiction treatment facility. During the outpatient addiction treatment period of the drug offender treatment program, the participant may be housed in a community corrections center or group home or placed in an approved transitional residence. The participant must comply with any conditions established by the department regardless of where the participant resides during the outpatient addiction treatment portion of the drug offender treatment program.\n(4)A period of supervised reintegration into the community for the balance of the drug offender treatment program, during which the participant shall continue to be supervised by the department and comply with any conditions imposed by the department.\n61 Pa.C.S. \u00a7 4105(b).\n\u00b6 5 Appellant completed the first two levels of the program and the DOC moved him into the third phase. Appellant, however, tested positive for cocaine and subsequently admitted to having used cocaine during that phase. The DOC then returned Appellant to level two of the program. Thereafter, Appellant\u2019s behavior proved problematic. Pursuant to the SIP statute, the DOC, by a letter dated June 5, 2009, notified the court, Appellant, and the Commonwealth that it was requesting that Appellant be revoked from SIP. Appellant served time in the state system from approximately August 13, 2007, until mid June 2009 before being transferred back to the county facility for purposes of his SIP revocation.\n\u00b6 6 The DOC has discretion to transfer eligible offenders between the different stages of the program. Anyone who fails to complete an aspect of the program is subject to expulsion from SIP and revocation by the sentencing court. 61 Pa.C.S. \u00a7 4105(f)(1). Specifically, \u00a7 4105(f) states:\n(f) Expulsion from program.\u2014\n(1) A participant may be expelled from the drug offender treatment program at any time in accordance with guidelines established by the department, including failure to comply with administrative or disciplinary procedures or requirements set forth by the department.\n(2) The department shall promptly notify the court, the defendant, the attorney for the Commonwealth and the commission of the expulsion of a participant from the drug offender treatment program and the reason for such expulsion. The participant shall be housed in a State correctional institution or county jail pending action by the court.\n(3)The court shall schedule a prompt State intermediate punishment revocation hearing pursuant to 42 Pa.C.S. \u00a7 9774 (relating to revocation of State intermediate punishment sentence).\n61 Pa.C.S. \u00a7 4105(f). Accordingly, expulsion and revocation are separate and distinct by statute. 61 Pa.C.S. \u00a7 4105(f)(2)(3). The DOC may expel a defendant from the program, but upon expulsion, must promptly notify the court so that it can conduct a revocation hearing. 61 Pa.C.S. \u00a7 4105(f)(2). If the court revokes the defendant, it then must re-sentence him. See 61 Pa.C.S. \u00a7 4105(f)(3); 42 Pa.C.S. \u00a7 9774.\n\u00b6 7 On June 25, 2009, the sentencing court held a hearing to determine whether it should revoke Appellant\u2019s participation in the SIP program. The court continued the matter because Appellant claimed that he completed the SIP program. On July 23, 2009, the court held a full evidentiary hearing. Thereafter, on August 7, 2009, the court found that Appellant had not satisfactorily completed the SIP program, re-sentenced Appellant to a term of incarceration of twenty-one months to forty-eight months with credit for time served in both the county and state systems, and determined that Appellant was immediately eligible for parole. This appeal followed, wherein Appellant raises one question for our review:\nWas the revocation of the twenty-four month State Intermediate Punishment sentence and the resentencing in this case a violation of constitutional protections against double jeopardy, where the original twenty-four month term of incarceration had been fully served at the time of revocation?\nAppellant\u2019s brief at 5.\n\u00b6 8 This question presents a matter of first impression. We find guidance in the applicable statutory law regarding SIP and analogous case law regarding probation revocation hearings. Generally, in reviewing an appeal from a judgment of sentence imposed after the revocation of probation, this Court\u2019s scope of review includes the validity of the hearing, the legality of the final sentence, and if properly raised, the discretionary aspects of the appellant\u2019s sentence. Commonwealth v. Ferguson, 893 A.2d 735, 737 (Pa.Super.2006). Accordingly, in evaluating the revocation of a SIP sentence, we ordinarily would apply that scope of review. However, the question of whether a defendant\u2019s constitutional right against double jeopardy was infringed is a question of law. Commonwealth v. Vargas, 947 A.2d 777, 780 (Pa.Super.2008). Hence, our scope of review is plenary and our standard of review is de novo. Id.\n\u00b6 9 Initially, we address the veracity of Appellant\u2019s factual assertion that he fully served the original twenty-four-month SIP sentence prior to his revocation. Appellant argues that as of the date of his re-sentencing he had served two years and sixty-one days of incarceration. Accordingly, he argues that pursuant to 42 Pa. C.S. \u00a7 9760, he is entitled to receive credit for time served toward his original SIP sentence and that, because the sentence was twenty-four months, he served his complete sentence. He further posits that the imposition of the new sentence is a violation of his constitutional right against double jeopardy. For the following reasons, we disagree.\n\u00b6 10 Although Appellant had been incarcerated for over two years on the charge, he had not served the full two-year SIP sentence. The SIP statute specifically states that a defendant will not receive credit for time served while incarcerated in a county correctional facility. 61 Pa. C.S. \u00a7 4105(b). A plain reading of the statute reveals that Appellant\u2019s SIP sentence could only include time spent in the actual program plus the time spent during the evaluation process at an approved state correctional institution. See 61 Pa. C.S. \u00a7 4105(b)(1) \u2014 (4) (\u201cNotwithstanding any credit to which the defendant may be entitled under Section 9760 (relating to credit for time served), the duration of the drug offender treatment program shall be 24 months and shall include .... \u201d and not including county time).\n\u00b6 11 This result flows from the fact that SIP is a state program that takes two years to complete, regardless of time spent incarcerated in a county facility. Id. Accordingly, Appellant cannot count the sixty-one days he spent imprisoned in the county jail in calculating the time spent serving his SIP sentence. More importantly, the two-year SIP sentence requires successful completion of the program through a systematic satisfaction of all phases of the SIP program. Appellant did not successfully navigate his way through SIP; thus, he cannot assert that he completed his SIP sentence. See 61 Pa.C.S. \u00a7 4105(e).\n\u00b6 12 Once the sentencing court determined that Appellant had not successfully completed the SIP program, by law it was required to revoke the SIP sentence. 42 Pa.C.S. \u00a7 9774(b). Additionally, much like a probation revocation, the court had the same sentencing alternatives available to it as it had at the time of the original sentence. 42 Pa.C.S. \u00a7 9774(c). We have consistently held that a revocation of probation does not violate double jeopardy. See Commonwealth v. Johnson, 967 A.2d 1001, 1005 (Pa.Super.2009).\n\u00b6 13 In Johnson, the appellant argued that, pursuant to 42 Pa.C.S. \u00a7 9760(2), he was entitled to credit, following his revocation of probation, for the time spent imprisoned prior to his original probationary sentence, because to hold otherwise would have subjected him to a double jeopardy violation. Id. In rejecting that particular portion of Johnson\u2019s argument, we stated that a probation violation hearing is not part of a criminal prosecution and is not a second punishment for the crime. Id. Rather, a probationary sentence is a conditional sentence, see Commonwealth v. Smith, 860 A.2d 142 (Pa.Super.2004), and requires defendants to comply with certain requirements of supervision in exchange for not being sentenced to a term of incarceration. ' Accordingly, double jeopardy was not implicated.\n\u00b6 14 In the instant case, the court re-sentenced Appellant following a SIP revocation hearing. When a defendant is sentenced to SIP, he is made aware that he is subject to re-sentencing if he does not successfully complete the program. The potential for a SIP revocation hearing \u201cis an integral part of the original conditional sentence, the purpose of which is to establish to the satisfaction of the court that granted [SIP], that the individual\u2019s conduct warrants continuing him\u201d in the program. See generally Commonwealth v. Mullins, 591 Pa. 341, 918 A.2d 82, 86 (2007) (discussing probation revocations).\n\u00b6 15 Revocation of SIP and the subsequent re-sentencing does not implicate double jeopardy since the \u201crevocation is not a second punishment for the original conviction, but rather is an integral element of the original conditional sentence.\u201d Mullins, supra at 918 A.2d 82, 85 (Pa.2007) (discussing probation revocations); cf. Blockburger v. U.S., 284 U.S. 299, 52 S.Ct. 180, 76 L.Ed. 306 (1932) (defendant cannot be punished twice for the same crime); Commonwealth v. Baldwin, 985 A.2d 830 (Pa.2009) (discussing double jeopardy and merger issues). The primary concern of SIP, much like probation and parole, \u201cis the rehabilitation and restoration of the individual to a useful life.\u201d Mullins, supra at 85.\n\u00b6 16 In crafting the SIP legislation, our legislature carefully delineated the purpose of the program, stating, \u201c[t]he purpose of this chapter is to create a program that punishes persons who commit crimes, but also provides treatment that offers the opportunity for those persons to address their drug or alcohol addiction or abuse and thereby reduce the incidents of recidivism and enhance public safety.\u201d 61 Pa. C.S. \u00a7 4102(6). Accordingly, SIP is \u201cdesigned to address the individually assessed drug and alcohol abuse and addiction needs of a participant and shall address other issues essential to the participant\u2019s successful reintegration into the community, including, but not limited to, educational and employment issues.\u201d 61 Pa.C.S. \u00a7 4105(a). The SIP sentence is a conditional sentence that requires offenders to comply with specific statutory requirements in order to provide rehabilitative treatment. Thus, SIP, more so than probation, serves the dual purpose of punishing a defendant and rehabilitating him or her.\n\u00b6 17 We recognize that unlike a probationary sentence, a period of incarceration is mandatory pursuant to the SIP program; however, SIP is a voluntary program that a defendant may agree to in lieu of a straight sentence of incarceration. 61 Pa.C.S. \u00a7 4104(a)(1). Only after a defendant agrees to placement in the program and is evaluated and considered eligible will he be admitted into the program. 61 Pa.C.S. \u00a7 4104. A defendant is not entitled to SIP, instead SIP is a privilege granted at the discretion of the sentencing court. SIP also substantially reduces the amount of time a defendant spends incarcerated in a state facility. Defendants sentenced to SIP are required to serve at least seven months in a state correctional institution, see 61 Pa.C.S. \u00a7 4105(b)(1), while ordinarily the minimum sentence for eligible offenders is two years. See Pennsylvania Commission on Sentencing 2010 Report to the Legislature, Pennsylvania\u2019s State Intermediate Punishment Program, n. 2 at 5.\n\u00b6 18 In exchange for admittance into SIP, the defendant surrenders his statutory right to credit for time served while housed in a county correctional institution or non-Pennsylvania state correctional facility. Revocation and re-sentencing do not constitute a second punishment, but provide a necessary incentive to the defendant to complete the program. Therefore, no double jeopardy violation occurred.\n\u00b6 19 Judgment of sentence affirmed.\n. Appellant purported to appeal from the September 3, 2009, order denying his post-sentence motions. However, when timely post-sentence motions are filed, an appeal properly lies from the judgment of sentence made final by the denial of post-sentence motions. See Commonwealth v. Shamberger, 788 A.2d 408, 410 n. 2 (Pa.Super.2001) (en banc). Accordingly, we have amended the caption.\n. 61 Pa.C.S. \u00a7 4103 provides in pertinent part:\n\u201cEligible offender.\u201d Subject to 42 Pa.C.S. \u00a7 9721(a.l) (relating to sentencing generally), a defendant designated by the sentencing court as a person convicted of a drug-related offense who:\n(1) Has undergone an assessment performed by the Department of Corrections, which assessment has concluded that the defendant is in need of drug and alcohol addiction treatment and would benefit from commitment to a drug offender treatment program and that placement in a drug offender treatment program would be appropriate.\n(2) Does not demonstrate a history of present or past violent behavior.\n(3) Would be placed in the custody of the department if not sentenced to State intermediate punishment.\n(4)Provides written consent permitting release of information pertaining to the defendant's participation in a drug offender treatment program.\nThe term shall not include a defendant who is subject to a sentence the calculation of which includes an enhancement for the use of a deadly weapon, as defined pursuant to law or the sentencing guidelines promulgated by the Pennsylvania Commission on Sentencing, or a defendant who has been convicted of a personal injury crime as defined in section 103 of the act of November 24, 1998 (P.L. 882, No. Ill), known as the Crime Victims Act, or an attempt or conspiracy to commit such a crime or who has been convicted of violating 18 Pa.C.S. \u00a7 4302 (relating to incest), 5901 (relating to open lewdness), 6312 (relating to sexual abuse of children), 6318 (relating to unlawful contact with minor) or 6320 (relating to sexual exploitation of children) or Ch. 76 Subch. C (relating to Internet child pornography).\n61 Pa.C.S. \u00a7 4103 (omitting footnotes).\n.The statute reads:\n(a) Referral for evaluation.\u2014\n(1) Prior to imposing a sentence, the court may, upon motion of the Commonwealth and agreement of the defendant, commit a defendant to the custody of the department for the purpose of evaluating whether the defendant would benefit from a drug offender treatment program and whether placement in the drug offender treatment program is appropriate.\n(2) Upon committing a defendant to the department, the court shall forward to the department:\n(i) A summary of the offense for which the defendant has been convicted.\n(ii) Information relating to the defendant\u2019s history of delinquency or criminality, including the information maintained by the court under 42 Pa.C.S. Ch. 63 (relating to juvenile matters), when available.\n(iii) Information relating to the defendant's history of drug or alcohol abuse or addiction, when available.\n(iv) A presentence investigation report, when available.\n(v) Any other information the court deems relevant to assist the department with its assessment of the defendant.\n61 Pa.C.S. \u00a7 4104(a).\n. At the time of Appellant\u2019s sentencing, SIP was governed by 42 Pa.C.S. \u00a7 9905, however, as of October 13, 2009, the relevant statutory provision became 61 Pa.C.S. \u00a7 4105.\n. On August 13, 2007, Appellant was transported to SCI-Camp Hill for purposes of his SIP evaluation. Appellant remained in the state system until October 10, 2007 when he was transferred to the county facility for sentencing. Appellant spent five days in the county system before being returned to the state system under the SIP program.\n. 42 Pa.C.S. \u00a7 9774 provides:\n(a) General rule. \u2014 The court may at any time terminate a sentence of State intermediate punishment pursuant to Chapter 99 (relating to State intermediate punishment).\n(b) Revocation. \u2014 The court shall revoke a sentence of State intermediate punishment if after a hearing it determines that the participant was expelled from or failed to complete the program.\n(c)Proceedings upon revocation. \u2014 Upon revocation of a State intermediate punishment sentence, the sentencing alternatives available to the court shall be the same as the alternatives available at the time of initial sentencing. The attorney for the Commonwealth must file notice, at any time prior to resentencing, of the Commonwealth's intention to proceed under an applicable provision of law requiring a mandatory minimum sentence.\n.Since Appellant received a new sentence of incarceration that was not a SIP sentence he was entitled to all time spent incarcerated on that new sentence. 42 Pa.C.S. \u00a7 9760. As of August 7, 2009, Appellant had served approximately twenty-six months imprisonment on the underlying charge.\n. The statute provides, \"When the department determines that a participant has successfully completed the drug offender treatment program, it shall notify the sentencing court, the attorney for the Commonwealth and the commission.\u201d 61 Pa.C.S. \u00a7 4105(e).\n. 61 Pa.C.S. \u00a7 4104(a)(1) provides:\nPrior to imposing a sentence, the court may, upon motion of the Commonwealth and agreement of the defendant, commit a defendant to the custody of the department for the purpose of evaluating whether the defendant would benefit from a drug offender treatment program and whether placement in the drug offender treatment program is appropriate.",
+        "type": "majority",
+        "author": "BOWES, J.:"
+      }
+    ],
+    "attorneys": [
+      "Michael T. Gingerich, Lewistown, for appellant.",
+      "Stephen S. Snook, Asst. Dist. Atty., Lewistown, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Earl William KUYKENDALL, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted March 8, 2010.\nFiled June 30, 2010.\nMichael T. Gingerich, Lewistown, for appellant.\nStephen S. Snook, Asst. Dist. Atty., Lewistown, for Commonwealth, appellee.\nBEFORE: BOWES, MUNDY, and FITZGERALD, JJ.\nFormer Justice specially assigned to the Superior Court."
+  },
+  "file_name": "0559-01",
+  "first_page_order": 575,
+  "last_page_order": 581
+}

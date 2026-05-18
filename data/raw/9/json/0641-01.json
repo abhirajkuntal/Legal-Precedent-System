@@ -1,0 +1,307 @@
+{
+  "id": 7285717,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. George M. DURHAM, Appellant",
+  "name_abbreviation": "Commonwealth v. Durham",
+  "decision_date": "2010-11-23",
+  "docket_number": "",
+  "first_page": "641",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 641"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "814 A.2d 754",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9344715
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/814/0754-01"
+      ]
+    },
+    {
+      "cite": "675 A.2d 1290",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        736336,
+        7877067,
+        7877173
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/450/0325-01",
+        "/a2d/675/1290-01",
+        "/a2d/675/1290-02"
+      ]
+    },
+    {
+      "cite": "274 Pa.Super. 112",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        138855
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/274/0112-01"
+      ]
+    },
+    {
+      "cite": "341 Pa.Super. 525",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        631074
+      ],
+      "weight": 5,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/341/0525-01"
+      ]
+    },
+    {
+      "cite": "663 A.2d 725",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        724010,
+        7874947
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "726",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/444/0163-01",
+        "/a2d/663/0725-01"
+      ]
+    },
+    {
+      "cite": "444 Pa.Super. 163",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        724010
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/444/0163-01"
+      ]
+    },
+    {
+      "cite": "929 A.2d 1224",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8356249
+      ],
+      "pin_cites": [
+        {
+          "page": "1227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/929/1224-01"
+      ]
+    },
+    {
+      "cite": "894 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8430481
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/894/0207-01"
+      ]
+    },
+    {
+      "cite": "713 A.2d 89",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11805264,
+        559503
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/713/0089-01",
+        "/pa/552/0027-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 27",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559503
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0027-01"
+      ]
+    },
+    {
+      "cite": "884 A.2d 960",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8913679
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/884/0960-01"
+      ]
+    },
+    {
+      "cite": "667 A.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866525,
+        727479
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "741",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/667/0739-01",
+        "/pa-super/446/0541-01"
+      ]
+    },
+    {
+      "cite": "446 Pa.Super. 541",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        727479
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/446/0541-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 876",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293286
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/986/0876-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 995,
+    "char_count": 27072,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 1.4975956836136062e-07,
+      "percentile": 0.6648621213051418
+    },
+    "sha256": "972eab24d21d1d11c395b30c9fd7abc1261a21dbac8d27b8b053320e870261e5",
+    "simhash": "1:a5763247df157d78",
+    "word_count": 4335
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: PANELLA, SHOGAN and CLELAND , JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. George M. DURHAM, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSHOGAN, J.:\nAppellant, George M. Durham, appeals from the order denying his pro se motion for return of property. We affirm.\nA previous panel of the Superior Court stated the underlying facts of this case as follows:\nThe Commonwealth arrested Appellant and charged him with the murder of his then girlfriend, Mary Ann Brown. Following trial, on March 14, 2008, a jury found Appellant guilty of first degree murder, and the trial court, on April 23, 2008, sentenced Appellant to a term of life imprisonment without the possibility of parole.\nAppellant\u2019s counsel filed a post-sentence motion and a motion to withdraw. Appellant then filed a variety of pro se motions, one of which was a motion for return of property. In his motion for return of property, Appellant sought the return of personal property that he had discarded in a dumpster (including various credit cards), $9.81 confiscated from him during the arrest, and other articles seized pursuant to a search warrant. Appellant averred under oath that he was \u201centitled to the lawful possession\u201d of these items and claimed that they were not derivative contraband. On September 26, 2008, the trial court denied Appellant\u2019s motion, reasoning as follows:\nFollowing review and consideration of defendant\u2019s pro se Motion for Return of Property, and in light of the de minimus matters raised therein, this Court finds it would be a waste of judicial time and resources to schedule hearing on the Motion, which would also require transporting defendant for said hearing, therefore, for the reasons raised herein, it is Ordered and Directed that defendant\u2019s pro se Motion is hereby denied.\nOrder, 10/26/08, at 1 (unnumbered).\nOn October 21, 2008, Appellant filed a notice of appeal. On October 30, 2008, the trial court entered an order denying Appellant\u2019s post-sentence motion. The trial court then directed Appellant to file a Pa.R.A.P.1925(b) statement on October 31, 2008, and Appellant filed a statement on November 14, 2008. In that statement, Appellant did not contest his underlying conviction, but instead, asserted that the trial court erred in denying his motion for return of property.\nCommonwealth v. Durham, 1763 WDA 2008 at 1, 981 A.2d 310 (Pa.Super.2009) (unpublished memorandum) (footnotes omitted). Agreeing with Appellant\u2019s argument that he was entitled to a hearing, the panel remanded \u201cwith direction that the trial court order the Commonwealth to file an answer to Appellant\u2019s motion for return of property, and in its own discretion, hold an evidentiary hearing if necessary.\u201d Id. at 6.\nThe trial court updated the procedural history of this matter as follows:\n13. Upon remand from the Superior Court, this Court ordered and directed the Commonwealth to file an answer to [Appellant\u2019s] Motion for Return of Property, which the Commonwealth did in a timely manner on June 17, 2009.\n14. Subsequently, [Appellant] filed a rebuttal to the Commonwealth\u2019s answer to the Motion for Return of Property on July 17, 2009.\n15. On October 2, 2009, this Court entered an Order granting in part and denying in part [Appellant\u2019s] pro se Motion(s) for Return of Property.\n16. The October 2, 2009 Order directed the Commonwealth to return the following articles of personal property to Mitchell P. Shahen, Esquire as counsel of record for George M. Durham. The Court determined and the Commonwealth agreed that none of these articles had potential evidentiary value:\na. Pennsylvania Driver\u2019s License in the name of George Durham;\nb. George Durham\u2019s Social Security Card;\nc. George Durham\u2019s Debit Card issued by National City Bank;\nd. Various Credit[ cards] issued in the name of George Durham;\ne. Nine dollars and thirty-one cents ($9.31) cash;\nf. One (1) diamond chipped tennis bracelet;\ng. One (1) friendship ring;\nh. Any family photographs of the victim which [have] not already been previously released to members of the victim\u2019s immediate family.\n17. It should be noted, in the October 2, 2009 Order [Appellant\u2019s] 2005 Dodge Neon automobile was to be released to George M. Durham, unless the Commonwealth was presented with written evidence of a secured lien holder.\n18. The Commonwealth has not given any indication that there was a secured lien holder; therefore, [Appellant] is free to make arrangements to retrieve that automobile at [Appellant\u2019s] expense for storage, towing and related expenses.\n19. [Appellant\u2019s] request for the remaining articles of clothing was denied.\n20. On October 29, 2009, [Appellant], through court appointed counsel, filed a Motion for Reconsideration of [Appellant\u2019s] Motion for Return of Property.\n21. This Court entered an Order on November 2, 2009, which rescinded this Courts [sic] Order dated October 2, 2009 and scheduled a hearing on the Motion for Return of Property.\n22. ... At the hearing [Appellant] and his counsel acknowledged the return of all property enumerated in the rescinded October 2, 2009, Order with the exception of the vehicle because [Appellant] contests the obligation to pay for storage, towing and related expenses.\nUpon commencement of the hearing [on January 8, 2010,1] it was determined and agreed by all parties that some of the requested items had been returned to, [sic] Mitchell Shaheen [sic], Esquire, ... prior to this Hearing. Therefore, [Appellant] testified he was only seeking return of the following items: two (2) pictures of [Appellant] and victim, which were taken from [Appellant\u2019s] bedroom when detective\u2019s [sic] were executing a search warrant; one (1) brown belt; one (1) pair of boxer shorts; one (1) white shirt; one (1) pair of blue jeans[;] and one (1) 2005 Dodge Neon[.] All of these items were located in or around the dumpster outside of the Outkast bar in the City of Aliquippa. [Appellant] also testified that he was seeking return of the following items, which were removed from his person pursuant to a search warrant after he was transported to the Beaver County Jail: one (1) black baseball cap; one (1) blue polo shirt; one (1) pair of blue jeans[;] and one (1) pair of red and white hi-top tennis shoes.\nIt was determined at hearing, through the testimony of the Detective, Donald Couch of the Aliquippa Police Department, that neither the Commonwealth nor the Aliquippa Police Department ever has been in possession of a pair of boxer shorts. The boxer shorts were never recovered and were not listed on the inventory sheet of items retrieved from any of the multiple crime scenes in this case. Therefore no such item can be returned to [Appellant].\nTrial Court Opinion, 1/22/10, at 3-5 (unnumbered). Two weeks after the hearing, the trial court denied Appellant\u2019s motion for return of property.\nThis appeal followed in which Appellant presents three questions for our review:\nI. Did the Lower Court err and abuse its discretion by holding that property seized by the Commonwealth on August 19, 2007 at the Beaver County Jail, that [Appellant\u2019s] property seized by the Commonwealth on August 18, 2007 at the Outkast Bar in Aliquippa, and, that pictures seized from [Appellant\u2019s] bedroom in his home on August 19, 2007 by the Commonwealth were derivative contraband when this property was not used as evidence during the jury trial?\nII. Have [Appellant\u2019s] Pennsylvania and United States constitutional due process rights to use, enjoy and defend his property been violated under circumstances where he is being deprived of the property was seized [sic] by the Commonwealth on August 19, 2007 at the Beaver County jail when there is no evidence that said property was used in the commission of a crime?\nIII. Did the Lower Court err and abuse its discretion by ruling that [Appellant\u2019s] automobile, seized by the Commonwealth on August 18, 2007 at the Outkast Bar in Aliquippa, Pennsylvania be released to [Appellant] by its Order of January 22, 2010 contingent upon him paying all expenses incurred by the Commonwealth for storage, towing and other related expenses, in light of the fact that the Commonwealth has not released the automobile for approximately two (2) years?\nAppellant\u2019s Brief at 4.\nThe standard of review applied in cases involving motions for the return of property is an abuse of discretion. Beaston v. Ebersole, 986 A.2d 876 (Pa.Super.2009) (en banc). In conducting our review, we bear in mind that \u201cit is the province of the trial court to judge the credibility of the witnesses and weigh the testimony offered.\u201d Commonwealth v. Younge, 446 Pa.Super. 541, 667 A.2d 739, 741 (1995) (citation omitted). \u201cIt is not the duty of an appellate court to act as fact-finder, but to determine whether there is sufficient evidence in the record to support the facts as found by the trial court.\u201d Id. (citation omitted).\nPennsylvania Rule of Criminal Procedure (\u201cPa.R.Crim.P.\u201d) 588 addresses motions for the return of property and reads as follows:\nMotion for Return of Property\n(A) A person aggrieved by a search and seizure, whether or not executed pursuant to a warrant, may move for the return of the property on the ground that he or she is entitled to lawful possession thereof. Such motion shall be filed in the court of common pleas for the judicial district in which the property was seized.\n(B) The judge hearing such motion shall receive evidence on any issue of fact necessary to the decision thereon. If the motion is granted, the property shall be restored unless the court determines that such property is contraband, in which case the court may order the property to be forfeited.\nPa.R.Crim.P. 588(A) and (B). We have explained the application of Rule 588 as follows:\nUnder this rule, on any motion for return of property, the moving party must establish by a preponderance of the evidence entitlement to lawful possession. Once that is established, unless there is countervailing evidence to defeat the claim, the moving party is entitled to the return of the identified property. A claim for return of property can be defeated in two ways: an opposing party can establish that it, not the moving party, is entitled to lawful possession to the property or the Commonwealth can seek forfeiture claiming that property for which return is sought is derivative contraband. Commonwealth v. Crespo, 884 A.2d 960 (Pa.Cmwlth.2005). To meet its burden to defeat the motion for return of property, the Commonwealth must make out more than simply demonstrating that the property was in the possession of someone who has engaged in criminal conduct. It must establish a specific nexus between the property and the criminal activity. Commonwealth v. Howard, 552 Pa. 27, 713 A.2d 89 (1998); Commonwealth v. 2001 Toyota Camry, 894 A.2d 207 (Pa.Cmwlth.2006).\nEbersole, 986 A.2d at 881 (adopting verbatim the reasoning of Singleton v. Johnson, 929 A.2d 1224, 1227 (Pa.Cmwlth.2007) (en banc )).\nThe law is well settled that:\n[o]n a motion for return of property, the moving party has the burden of proving ownership or lawful possession of the items. The burden then shifts to the Commonwealth to prove, by a preponderance of the evidence, that the property is contraband.\n[DJerivative contraband is property which is innocent in itself but which has been used in the perpetration of an unlawful act. Property is not derivative contraband, however, merely because it is owned or used by someone who has been engaged in criminal conduct. Rather, the Commonwealth must establish a specific nexus between the property and the alleged criminal activity.\nPetition of Koenig, 444 Pa.Super. 163, 663 A.2d 725, 726 (1995) (citations omitted).\nHere, the trial court found, and the Commonwealth agreed, that Appellant met his burden of establishing he was entitled to lawful possession of the items requested. Trial Court Opinion, 1/22/10, at 5 (unnumbered); Commonwealth\u2019s Brief at 3 (unnumbered). However, the trial court also found, and the Commonwealth reiterates on appeal, that the Commonwealth met its burden of proving the items Appellant seeks to be returned are derivative contraband. Trial Court Opinion, 1/22/10, at 5 (unnumbered); Commonwealth\u2019s Brief at 3^4 (unnumbered).\nAs a preliminary matter, we reject Appellant\u2019s argument that he is entitled to return of his property because it was not used as evidence at trial. Appellant does not cite to and our research has not produced any authority for the proposition that the property of a defendant which qualifies as contraband must be returned because it was not used as evidence at trial. Moreover, Appellant admits that some of his clothing was referred to at trial by the janitor who put them in the dumpster outside the Outkast bar and some of the clothing was used at trial as exhibits. N.T., 1/8/10, at 24-26. Thus, Appellant\u2019s argument is untenable.\nIn his first issue, Appellant requests the return of several articles of clothing and two photographs. Specifically, Appellant claims the Commonwealth did not connect clothing taken from him pursuant to a search warrant while he was being processed at the Beaver County jail to any crime and, therefore, it was not contraband. Appellant\u2019s Brief at 16-20. In response, the Commonwealth argues that the clothing tied Appellant to the victim\u2019s murder in two ways. The items contained blood stains from Appellant\u2019s wounded hand, which wound Appellant admitted he sustained at the very location where the victim\u2019s body was discovered, and they identified Appellant during his flight from the crime scene in Beaver County to a hospital in Allegheny County where his wounded hand was treated. Commonwealth\u2019s Brief at 3 (unnumbered).\nIn addressing these articles of clothing, the trial court explained that:\n[Appellant] admitted that, after he learned that the victim\u2019s body was discovered, he fled from the City of Ali-quippa to several different boroughs and then finally arriving in the City of Pittsburgh. (T.T. pg 688-696). He also testified that his clothes were blood stained and the wound that he had previously sustained continued to bleed throughout his journey into the City of Pittsburgh. He was eventually treated in the Allegheny General Hospital emergency room. [Appellant] was finally apprehended and taken into custody in the City of Pittsburgh. (T.T. pg 691-696). [Appellant] was transported to the Beaver County jail where the bloody clothes, which included a shirt, blue jeans, socks, baseball cap and red and white hi-top shoes, were removed from him. These remaining items are all used to follow the trail of [Appellant] from Beaver County to Allegheny County. The clothes were used for identification purposes to confirm that it was [Appellant] on the emergency room surveillance tapes. Flight following the commission of the crime is relevant in any proceeding requiring finding of guilt.\nTrial Court Opinion, 1/22/10, at 6-7 (unnumbered).\nUpon review, we conclude that the record supports the trial court\u2019s ruling that Appellant was not entitled to return of the clothing removed from Appellant at the Beaver County jail. At the hearing on Appellant\u2019s motion, Detective Couch of the Aliquippa Police Department testified that the clothing and items taken at the Beaver County jail were seized because they \u201cappeared to be very much blood stained\u201d and because, according to the hospital videotape and the arresting officers, Appellant was wearing the same clothing at the hospital as when he was apprehended. N.T., 1/8/10, at 49. According to Detective Couch, these items support the identification of Appellant by a patron at the Out-kast bar, by the videotape of the hospital in Pittsburgh, and by the arresting officers. Id. at 50-51. Upon this record, we discern no error in the trial court\u2019s conclusion that the items recovered at the jail were derivative contraband. The Commonwealth clearly established a nexus between the clothing Appellant wore during his flight from Beaver County and the murder of Mary Brown in Beaver County.\nNext, Appellant seeks the return of clothing taken from the dumpster at the Outkast bar in Aliquippa. Again, Appellant argues that the Commonwealth failed to connect the clothing to the crime. Appellant\u2019s Brief at 16-20. The Commonwealth responds that the \u201cphysical proximity of [Appellant\u2019s] bloody clothes and vehicle ... to each other and the temporal proximity of these items being found to the time of the stabbing death of Mary Brown clearly establishes the appropriate criminal nexus regarding these items.\u201d Commonwealth\u2019s Brief at 4 (unnumbered).\nThe trial court addressed the dumpster contents as follows:\nThe testimony during the jury trial solidified the fact that [Appellant] was in the City of Aliquippa on August 17, 2008, arguing with the victim, who was eventually found dead from multiple stab wounds. (T.T. pg 216 line 17-25). [Appellant] was later identified at the Outkast bar bleeding and also wearing the bloody clothes that were retrieved from the dumpster directly outside of the Outkast bar. During the jury trial, the bartender identified the blood stained white shirt, the blue jeans and the shoes, all of which were discarded into the dumpster outside of the Outkast bar. (T.T. pg. 86-363). [Appellant\u2019s] 2005 Dodge Neon was also located outside of the Outkast bar in close proximity to the dumpster ... Because of the close proximity between the blood stained clothes, [and Appellant\u2019s] vehicle ... it is clear that all pieces of evidence are directly connected to the underlying criminal activity that took place on August 17, 2008.\nTrial Court Opinion, 1/22/10, at 5-6 (unnumbered).\nUpon review, we conclude the record supports the trial court\u2019s ruling that Appellant was not entitled to return of the clothing found in the dumpster. Appellant admitted to driving to the Outkast bar in his Neon, changing into clean clothes he had in the back seat of his car, dumping his blood-stained clothing on the ground outside his car, and telling the barmaid he would return the next day for his clothes and his car. N.T., 1/8/10, at 37-38. Detective Couch testified that the items found in the dumpster at the Outkast bar contained forensic evidence of both Appellant and the victim. N.T., 1/8/10, at 48. Upon this record, we discern no error in the trial court\u2019s conclusion that the clothing found in the dumpster was derivative contraband. The Commonwealth clearly established a nexus between the blood-stained clothing Appellant discarded at the Out-kast bar and the murder of Mary Brown.\nAs for the photographs of the victim taken from Appellant\u2019s bedroom, Appellant argues they were located in a dresser and bore no relation to the crime. Appellant\u2019s Brief at 16-20. Contrarily, the Commonwealth argues that the photographs established a close relationship between Appellant and the victim and support the inference that this murder was a crime of domestic violence motivated by \u201cturbulence in the romantic relationship [Appellant] shared with the victim.\u201d Commonwealth\u2019s Brief at 3 (unnumbered). The trial court agreed:\n[Appellant] is seeking the return of two (2) photographs of himself and the victim, both of which were lawfully seized from his home pursuant to a search warrant. However, the photos are evidence being used to prove that there was, in fact, a social connection between [Appellant] and the victim.\nId. at 5 (unnumbered).\nUpon review, we conclude that the record supports the trial court\u2019s assessment of the photographs. Detective Couch testified that the case was considered \u201ca domestic violence case\u201d and that the photographs taken from the bedroom dresser proved \u201ca social relationship between [Appellant] and Mary Brown.\u201d N.T., 1/8/10, at 51-52. Nevertheless, we further conclude that Appellant\u2019s request for return of the photographs is moot. At the hearing on his motion, Appellant indicated that the two photographs had, in fact, been given to the victim\u2019s family. N.T., 1/8/10, at 27. Therefore, the Commonwealth is not in a position to return the photographs to Appellant.\nAppellant\u2019s second issue raises a claim that his constitutional rights were violated by the taking of his property without due process of law. Appellant\u2019s Brief at 20-22. According to Appellant, his personal property has \u201cacquired guilt by association\u201d despite the property having \u201clittle or no nexus to the instruments of the crime.\u201d Appellant\u2019s Brief at 21, 22 (citing Commonwealth v. Maglisco, 341 Pa.Super. 525, 491 A.2d 1381 (1985)). We note that Appellant does not specify in the argument section of his brief what property was taken in violation of his rights. Still, we have already determined that Appellant is not entitled to return of the clothing taken from the dumpster or the clothing taken from him at the Beaver County jail because it is derivative contraband; Appellant\u2019s clothing provides a material link between Appellant and the crime. Moreover, the record indicates that Appellant\u2019s property was taken pursuant to search warrants (clothing at Beaver County jail and photographs) or during the murder investigation (clothing in dumpster). Thus, we conclude with confidence that the taking of Appellant\u2019s property was not a deprivation of his constitutional rights.\nFinally, Appellant argues that he should be allowed to recover his vehicle from Junak\u2019s Towing without paying the towing and storage fees that have accumulated since his vehicle was impounded on August 18, 2008. We reject Appellant\u2019s claim that he is not responsible for the costs associated with the towing and storage of his vehicle.\nHere, the police seized Appellant\u2019s vehicle as part of the murder investigation, then had it towed to and stored at Junak\u2019s. The trial court recounted how Appellant\u2019s \u201cblood stained automobile\u201d was \u201cconfiscated by the Commonwealth from the parking lot of the Outkast bar\u201d where it \u201cwas in close proximity to the murder weapon and the dumpster which contained [Appellant\u2019s] blood stained clothes.\u201d Trial Court Opinion, 3/26/10, at 2 (unnumbered). According to the trial court:\n[t]he Commonwealth appropriately seized the automobile and, after it was determined that the automobile no longer had evidentiary value, it was released to [Appellant] contingent upon payment of the fee\u2019s [sic] rightly requested by Junak\u2019s Auto Service in Aliquippa, Pa, where it had been stored.\nId. The Commonwealth \u201csees no reason why [Appellant] would be released from the obligation of covering the towing and storage costs.\u201d Commonwealth\u2019s Brief at 4 (unnumbered). Notably, neither the trial court nor the Commonwealth provides any authority or justification for the proposition that Appellant has an obligation to pay for the release of his vehicle. According to Appellant, this condition was imposed \u201cwithout statutory authority.\u201d Appellant\u2019s Brief at 22. We cannot agree.\nWhere a vehicle is impounded for the unauthorized use of carrying passengers or goods, the owner may reclaim the vehicle upon \u201cthe payment of costs and fines.\u201d 52 Pa.Code \u00a7 30.62(a), (b); see also 53 Pa.C.S.A. \u00a7 5714(g) (allowing recovery of the vehicle \u201cupon satisfaction of all penalties imposed and all outstanding fines assessed against the owner or operator of the confiscated vehicle and payment of the costs of the authority associated with confiscation and impoundment\u201d). Moreover, a criminal defendant is responsible for the costs of prosecution, i.e., costs necessarily incurred to secure a conviction. Commonwealth v. Bollinger, 274 Pa.Super. 112, 418 A.2d 320, 327 (1979). Practically speaking, such costs would include the towing charge and storage fees incurred as a result of seizing a vehicle as evidence in a murder investigation. See 16 P.S. \u00a7 1403 (permitting a District Attorney to be reimbursed for expenses incurred in prosecuting cases).\nBased on the above authority and limited to the facts of this case, we conclude that Appellant must pay the towing charge and storage fees in order to recover his vehicle because it was impounded as evidence in the investigation of a murder of which Appellant was convicted. Thus, we discern no abuse in the trial court\u2019s ruling that Appellant is responsible for the towing charge and storage fees.\nOrder affirmed. Jurisdiction relinquished.\n. We note that both this Court and the Commonwealth Court have jurisdiction to decide an appeal involving a motion for the return of property filed pursuant to Pa.R.Crim.P. 588. Commonwealth v. Younge, 446 Pa.Super. 541, 667 A.2d 739 (1995); In Re One 1988 Toyota Corolla, 675 A.2d 1290 (Pa.Cmwlth.1996). Because Appellant chose this forum, we will address this appeal.\n. At the start of the hearing on Appellant\u2019s motion for return of property, the trial judge mentioned on the record that he had presided at Appellant\u2019s trial. N.T., 1/8/10, at 1.\n. We noted in Ebersole that decisions rendered by the Commonwealth Court are not binding on this Court. Ebersole, 986 A.2d at 881 (citing Commonwealth v. Thomas, 814 A.2d 754, 759 n. 2 (Pa.Super.2002)). However, where this Court is persuaded by the reasoning set forth by the Commonwealth Court, we may follow it. Id.; see also Commonwealth v. Thomas, 814 A.2d 754, 759 n. 2 (Pa.Super.2002) (stating that, while decisions of the Commonwealth Court are not binding upon this Court, we may elect to follow the Commonwealth Court decisions if we find the rationale persuasive). Hence, the Ebersole Court chose to follow the persuasive reasoning of Singleton.\n. Given the Commonwealth\u2019s agreement to return Appellant's vehicle, we need not address whether the vehicle was derivative contraband.\n. This Court rejected the Commonwealth\u2019s use of a \"guilt by association\u201d theory in Commonwealth v. Maglisco, 341 Pa.Super. 525, 491 A.2d 1381 (1985). In Maglisco, the appellant shot her husband with a pistol. The police seized the pistol and a number of rifles also found to be in the appellant\u2019s possession. Although charges against the appellant were subsequently dropped, the pistol and rifles were forfeited. Finding that the pistol was used in the commission of the crime, this Court determined that it was derivative contraband properly subject to forfeiture. However, no evidence was offered to indicate that the rifles were used in the crime. Therefore, the panel was unwilling to allow forfeiture of the rifles based upon the guilt of the pistol.\nIn this case, we disagree with Appellant that the Commonwealth relied on a \u201cguilt by association\u201d theory. In meeting its burden of proof that Appellant\u2019s property was derivative contraband, the Commonwealth had to demonstrate a specific nexus between the property and the alleged criminal activity. Here, the trial court credited the testimony of Detective Couch and concluded that the Commonwealth sufficiently established a specific nexus between Appellant\u2019s property and the murder of Maty Brown. We discern no error in the trial court's conclusion.",
+        "type": "majority",
+        "author": "SHOGAN, J.:"
+      }
+    ],
+    "attorneys": [
+      "Mitchell P. Shahen, Aliquippa, for appellant.",
+      "Anthony J. Berosh and Kevin A. Kindred, Asst. Dist. Attys., for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. George M. DURHAM, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted Aug. 30, 2010.\nFiled Nov. 23, 2010.\nMitchell P. Shahen, Aliquippa, for appellant.\nAnthony J. Berosh and Kevin A. Kindred, Asst. Dist. Attys., for Com., appellee.\nBEFORE: PANELLA, SHOGAN and CLELAND , JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0641-01",
+  "first_page_order": 663,
+  "last_page_order": 672
+}

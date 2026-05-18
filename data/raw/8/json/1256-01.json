@@ -1,0 +1,327 @@
+{
+  "id": 7290100,
+  "name": "In re SORIAH B. et al.",
+  "name_abbreviation": "In re Soriah B.",
+  "decision_date": "2010-12-09",
+  "docket_number": "",
+  "first_page": "1256",
+  "last_page": "1262",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1256"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "622 A.2d 1135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7360366
+      ],
+      "pin_cites": [
+        {
+          "page": "1144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/622/1135-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 18",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8164740
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "898"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0894-01"
+      ]
+    },
+    {
+      "cite": "435 A.2d 1095",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8015671
+      ],
+      "pin_cites": [
+        {
+          "page": "1100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/435/1095-01"
+      ]
+    },
+    {
+      "cite": "1998 ME 85",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11830195
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "243"
+        },
+        {
+          "page": "243"
+        },
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/710/0240-01"
+      ]
+    },
+    {
+      "cite": "675 A.2d 984",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868368
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "990-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/675/0984-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 54",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8390821
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 1-24"
+        },
+        {
+          "page": "603-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/943/0602-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 43",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11467509
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/747/0186-01"
+      ]
+    },
+    {
+      "cite": "1997 ME 164",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        12023424
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 5"
+        },
+        {
+          "page": "1298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/1295-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 106",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8934459
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6 2"
+        },
+        {
+          "page": "803"
+        },
+        {
+          "page": "806"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/907/0802-01"
+      ]
+    },
+    {
+      "cite": "1999 ME 109",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11578980
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "1051"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "1051"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "1051"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/1047-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 40",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7290236
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "813"
+        },
+        {
+          "page": "812-13",
+          "parenthetical": "affirming the admission of scale slips containing information obtained when a mill received wood from a supplier"
+        },
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "813"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/994/0808-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 768,
+    "char_count": 19302,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 8.11349988489015e-08,
+      "percentile": 0.46799852037705675
+    },
+    "sha256": "904311cb6b079a9b25b905e20f8e410c23c4d63f8a83e768a00c3a9c1cca4ac0",
+    "simhash": "1:46bf46826bdcc7e7",
+    "word_count": 3141
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "In re SORIAH B. et al."
+    ],
+    "opinions": [
+      {
+        "text": "SAUFLEY, C.J.\n[\u00b6 1] The mother of Soriah and Aurora B. appeals from the judgment of the District Court (Lewiston, Stanfill, J.) terminating the mother\u2019s parental rights to the children pursuant to 22 M.R.S. \u00a7 4055(1)(B)(2) (2009). The mother challenges the court\u2019s admission of two psychological reports written by testifying experts. We conclude that the court properly admitted only those portions of the reports in which the experts expressed their opinions. Accordingly, we affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] On August 20, 2008, pursuant to an order of preliminary protection, Soriah and Aurora B. entered foster care. After the summary preliminary hearing in the matter, see 22 M.R.S. \u00a7 4034(4) (2009), the court (Beliveau, J.) ordered that the children remain in foster care and that the mother undergo a psychological evaluation. The court {Beliveau, J.) held a jeopardy hearing on December 5, 2008, see 22 M.R.S. \u00a7 4035 (2009), and found that the children remained in circumstances of jeopardy based in part on the mother\u2019s untreated personality disorder. Among other things, the court ordered that the mother engage in individual therapy and meet with a psychiatrist.\n[\u00b6 3] The Department petitioned for termination of the mother\u2019s parental rights on September 30, 2009. See 22 M.R.S. \u00a7 4052 (2009). The court (Stanfill, J.) held a four-day hearing that ended on February 12, 2010. See 22 M.R.S. \u00a7 4054 (2009). At that hearing, the Department offered the testimony of the expert who conducted a psychological evaluation of the mother. The Department also offered in evidence a written psychological evaluation report prepared by that expert. The mother objected to the admission, for its truth, of hearsay contained in the report. The court admitted the psychological evaluation report \u201csubject to [the mother\u2019s] objection.\u201d\n[\u00b6 4] The Department later offered the testimony of the mother\u2019s psychological counselor and that counselor\u2019s written discharge summary. The mother objected to the admission of hearsay information contained in the written discharge summary, \u201cparticularly allegations from DHS in any form about [the mother] or about anything else ... offered for the substance.\u201d The court admitted the discharge summary, apparently subject again to the mother\u2019s objection.\n[\u00b6 5] After the hearing, the court entered a judgment terminating the mother\u2019s parental rights. Relevant to this appeal, the court found that the mother has a personality disorder, which was noted in her psychological evaluation report as an antisocial and narcissistic personality disorder with histrionic personality traits, and described by her psychological counselor as a personality disorder not otherwise specified with borderline, antisocial, and narcissistic features. The court found that the mother\u2019s personality disorder made it difficult for her to adhere to social conventions, obey the law, regulate her emotions, and control her impulses. The court found that she is quick to anger, becomes disruptive, rapidly decompensates, and becomes tangential and hard to understand. In the court\u2019s estimation, the mother could not effectively solve problems or collaborate when in this state.\n[\u00b6 6] The mother\u2019s counselor recommended dialectical behavior therapy (DBT) for her, but the mother had to wait for a group to open. At the time of the hearing, she had begun therapy with a counselor trained in DBT. The court found that the mother must at least complete DBT to be the kind of parent that the children need but that, even after DBT, it was not clear how well the mother would be able to control her emotions and function in society. The court terminated the mother\u2019s parental rights based on her inability to protect the children from jeopardy or take responsibility for the children in time to meet their significant needs, and based on the children\u2019s best interests. See 22 M.R.S. \u00a7 4055(l)(B)(2)(a), (b)(i), (ii). The mother appealed from this judgment.\nII. DISCUSSION\n[\u00b6 7] The mother argues that the psychological evaluation report and the counselor\u2019s discharge summary that were admitted in evidence contained hearsay, see M.R. Evid. 801(c); that the business records exception to the hearsay rule did not apply, M.R. Evid. 803(6); and that she was prejudiced by the admission of the evidence. The Department argues that the reports were properly admitted pursuant to M.R. Evid. 703, which provides that facts or data relied on by an expert need not be admissible in evidence if \u201cof a type reasonably relied upon by experts in the particular field in forming opinions or inferences upon the subject.\u201d\n[\u00b6 8] To address the parties\u2019 arguments, we examine (A) the child protection statutes and (B) the Maine Rules of Evidence to determine whether a written report regarding the psychological evaluation or treatment of a parent is admissible in a child protection proceeding.\nA. Statutory Guidance\n[\u00b6 9] In this child protection matter, which is governed by highly specialized statutes, we begin by determining whether the Legislature has provided guidance on the admissibility of a written report concerning a parent\u2019s psychological evaluation or treatment. By statute, a psychological evaluation or treatment report concerning the child who is the subject of a child protection proceeding is admissible at a hearing in the child protection matter without expert testimony, unless a party objects at least seven days before the hearing:\nIn any hearing held in connection with a child protection proceeding under this chapter, the written report of a licensed mental health professional who has treated or evaluated the child shall be admitted as evidence, provided that the party seeking admission of the written report has furnished a copy of the report to all parties at least 21 days prior to the hearing. The report shall not be admitted as evidence without the testimony of the mental health professional if a party objects at least 7 days prior to the hearing. This subsection does not apply to the caseworker assigned to the child.\n22 M.R.S. \u00a7 4007(3-A) (2009). This provision does not apply to a report concerning the psychological evaluation or treatment of a parent, however. See id. It is therefore necessary, in the absence of an agreement by all parties, for the parent\u2019s evaluating or treating mental health professional to testify at the hearing, as each expert did in this matter, in order for any part of the expert\u2019s report to be admissible. Cf id.\n[\u00b6 10] The child protection statutes provide no further guidance on whether a court may admit in evidence a written psychological evaluation of a parent or a psychological counselor\u2019s written discharge summary regarding a parent. The Legislature has, however, provided that the Maine Rules of Evidence apply in child protection proceedings, unless applying those Rules would conflict with the child protection statutes. See 22 M.R.S. \u00a7 4007(1) (2009). Because the statutes do not provide guidance on the question at issue on appeal, we apply the Rules of Evidence to determine whether the reports, or some parts of them, are admissible.\nB. Application of the Rules of Evidence\n[\u00b6 11] The mother argues that the business records exception to the hearsay rule, M.R. Evid. 803(6), does not apply to the psychological reports offered by the Department\u2019s testifying experts. The Department appears not to rely on Rule 803(6) but instead argues that the reports were admissible, notwithstanding any hearsay contained in them, because they expressed an expert opinion, which may be reached in reliance on information that is not admissible at trial. See M.R. Evid. 703. For clarity, we first address whether the reports are admissible as business records, M.R. Evid. 803(6), after which we determine whether the reports, in part or in their entirety, may be admitted in evidence as expressions of expert opinion pursuant to M.R. Evid. 703.\n1. Business Records Exception to the Hearsay Rule\n[\u00b6 12] A business record is admissible pursuant to Rule 803(6) if the party offering the evidence lays a proper foundation by presenting testimony of \u201cthe custodian or other qualified witness\u201d demonstrating:\n(1) the record was made at or near the time of the events reflected in the record by, or from information transmitted by, a person with personal knowledge of the events recorded therein;\n(2) the record was kept in the course of a regularly conducted business;\n(3) it was the regular practice of the business to make records of the type involved; and\n(4) no lack of trustworthiness is indicated from the source of information from which the record was made or the method or circumstances under which the record was prepared.\nState v. Nelson, 2010 ME 40, \u00b6 9, 994 A.2d 808, 813 (quotation marks omitted).\n[\u00b6 13] The business records exception applies when a party establishes a proper foundation and offers evidence of information collected contemporaneously with a recorded event, in the regular course of business, as part of the business\u2019s regular practice, in circumstances that generate no concerns about trustworthiness. See, e.g., id. \u00b6\u00b6 8-11, 994 A.2d at 812-13 (affirming the admission of scale slips containing information obtained when a mill received wood from a supplier). The business records exception does not apply when information is gathered or provided for purposes of litigation in a particular matter. See State v. Tomah, 1999 ME 109, \u00b6 10, 736 A.2d 1047, 1051 (holding that expert forensic reports are not admissible as business records because their preparation is not routine and they are produced in preparation for litigation, thereby raising a question of trustworthiness).\n[\u00b6 14] We recently illustrated the distinction between admissible business records and inadmissible hearsay in a case involving an employer\u2019s allegation that an employee had made personal charges on the employer\u2019s credit card. LDC Gen. Contracting v. LeBlanc, 2006 ME 106, \u00b6 2, 907 A.2d 802, 803. In that case, we held that original and annotated invoices reporting transactions at the time they occurred were admissible business records. Id. \u00b6 16, 907 A.2d at 806. In contrast, we rejected the admissibility of copies of the annotated invoices on which the employee had highlighted transactions based on his opinion of whether each transaction was appropriately charged to the business credit card. Id. We reasoned that \u201c[t]he highlighting was done long after the events reflected in the records, was not performed in the regular course of business, was not a regular practice of the business, and ... one could not assume trustworthiness.\u201d Id. \u201cIn short, the highlighting of the copies of copies of annotated invoices was performed in anticipation of litigation and not in the regular course of ... business.\u201d Id.\n[\u00b6 15] The psychological evaluation and treatment reports at issue here are not business records within the meaning of Rule 803(6). They do not represent the recording of information at or near the time of any \u201cacts, events, conditions, opinions, or diagnoses\u201d in the regular course of business. M.R. Evid. 803(6). Rather, they report professional opinions and evaluations based on historical facts and observed conduct that the experts compiled and considered specifically for purposes of undertaking the court-ordered psychological evaluation and treatment of the mother. See Tomah, 1999 ME 109, \u00b6 10, 736 A.2d at 1051.\n[\u00b6 16] In these circumstances, we agree with the mother that there was no foundation for admitting either report pursuant to the business records exception. See M.R. Evid. 803(6). The reports did not record any events at or near the time that they occurred in the regular course of business, and both experts prepared their reports as a part of child protection litigation initiated by the Department. See Nelson, 2010 ME 40, \u00b6 9, 994 A.2d at 813; Tomah, 1999 ME 109, \u00b6 10, 736 A.2d at 1051.\n[\u00b6 17] We therefore proceed to consider whether any portions of the psychological evaluation and the discharge summary could be admitted pursuant to M.R. Evid. 703, which governs the admissibility of expert opinion testimony.\n2. Expert Opinions\n[\u00b6 18] Rule 703 of the Maine Rules of Evidence permits the admission of an expert\u2019s opinion, even if that opinion is based in part on information that could not be admitted at trial:\nBASIS OF OPINION TESTIMONY BY EXPERTS\nThe facts or data in the particular case upon which an expert bases an opinion or inference may be those perceived by or made known to the expert at or before the hearing. If of a type reasonably relied upon by experts in the particular field in forming opinions or inferences upon the subject, the facts or data need not be admissible in evidence.\nPursuant to this Rule, an opinion or inference reached by an expert based on inadmissible facts or data is itself admissible if experts in the field commonly rely on those types of facts or data. See M.R. Evid. 703; Dep\u2019t of Envtl. Prot. v. Woodman, 1997 ME 164, \u00b6 5, 697 A.2d 1295, 1298.\n[\u00b6 19] The Department incorrectly reads this Rule to render an expert\u2019s entire written report admissible, as long as the expert testifies. The Rule does not, however, authorize a fact-finder to consider hearsay communications contained in an expert\u2019s report for their truth. See State v. Marques, 2000 ME 43, \u00b6 14, 747 A.2d 186, 190; see also In re Natasha S., 2008 ME 54, \u00b6\u00b6 1-24, 943 A.2d 602, 603-09 (vacating a judgment when the court relied in part on facts stated in a nontestifying expert\u2019s report); Daniels v. Tew Mac Aero Servs., Inc., 675 A.2d 984, 990-91 (Me.1996) (stating that cross-examining an expert about factual discrepancies does not violate the hearsay rule because such testimony is offered for impeachment purposes, not for its truth). The Rule simply allows the admission of an expert opinion, even when that opinion is based on information that would be considered hearsay in an adjudicatory proceeding. See M.R. Evid. 708. The Rule does not render admissible the hearsay that formed the basis for the opinion. See id.\n[\u00b6 20] Applying Rule 703, we have held that a court may admit a treating medical professional\u2019s opinion without running afoul of the hearsay rule if that opinion is based on a combination of the patient\u2019s reported history, the expert\u2019s medical findings, and the expert\u2019s experience and training. See State v. Stanton, 1998 ME 85, \u00b6 8, 710 A.2d 240, 243. Even if some portions of a medical or psychological expert\u2019s opinion are based on hearsay or other evidence that is not admissible, a court may properly rely on the expert\u2019s ultimate diagnosis. See id. \u00b6\u00b6 6-8, 710 A.2d at 243; cf. State v. Rancourt, 435 A.2d 1095, 1100 (Me.1981) (stating that a firearms expert could offer an opinion about the shooter\u2019s distance from the victim if the hearsay upon which the expert relied was of a type reasonably relied upon by experts in his field).\n[\u00b6 21] Here, the court, without objection, considered the experts\u2019 diagnoses and opinions about the mother\u2019s mental health. During the bench trial, the court acknowledged the mother\u2019s proper objection to any hearsay contained in the reports, and through its ruling on the mother\u2019s initial objection, the court indicated that it would not accept any hearsay contained in the reports as evidence. Although the experts\u2019 reports included the background information that the experts obtained from other sources, the court relied only on the experts\u2019 resulting opinions\u2014 their diagnoses of the mother \u2014 in reaching its decision. We discern no error in the court\u2019s admission of the reports during this bench trial because the court, with knowledge of the Rules of Evidence, admitted the reports only as expressions of expert opinion, subject to the mother\u2019s hearsay objections, and the court\u2019s judgment demonstrates that its findings regarding parental unfitness and the best interests of the children were not based on hearsay contained in either report. See 22 M.R.S. \u00a7 4055(1)(B)(2).\n[\u00b6 22] Because the court admitted the psychological evaluation report and the discharge summary as expressions of the testifying experts\u2019 opinions, subject to the mother\u2019s objections to the consideration of any hearsay information for its truth, the court did not err in applying Rule 703 to admit the psychological evaluation and the discharge summary for the opinions expressed therein. See M.R. Evid. 703; see Stanton, 1998 ME 85, \u00b6 8, 710 A.2d at 243. Accordingly, we affirm the judgment terminating the mother\u2019s parental rights.\nThe entry is:\nJudgment affirmed.\n. The mother also challenges the sufficiency of the evidence to support the court's judgment. We conclude that there was competent evidence in the record to support the court\u2019s findings, by clear and convincing evidence, of at least one ground of parental unfitness and that termination of the mother\u2019s parental rights was in the children\u2019s best interests. See In re Robert S., 2009 ME 18, \u00b6 15, 966 A.2d 894, 898. We do not discuss the issue further.\n. Although the court did not expressly sustain the mother\u2019s objection, we infer from its earlier ruling, and from the fact that the judgment does not rely on any objectionable hearsay, that the court properly limited the admissibility of the discharge summary\u2019s contents.\n. The business records exemption contained in the Rules of Evidence provides:\nThe following are not excluded by the hearsay rule, even though the declarant is available as a witness:\n(6) Records of regularly conducted business. A memorandum, report, record, or data compilation, in any form, of acts, events, conditions, opinions, or diagnoses, made at or near the time by, or from information transmitted by, a person with knowledge, if kept in the course of a regularly conducted business, and if it was the regular practice of that business to make the memorandum, report, record, or data compilation, all as shown by the testimony of the custodian or other qualified witness, or by certification that complies with Rule 902(11), Rule 903(12) or a statute permitting certification, unless the source of information or the method or circumstances of preparation indicate lack of trustworthiness. The term \"business\u201d as used in this paragraph includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.\nM.R. Evid. 803.\n. Courts must exercise caution in determining what information an expert may provide to a fact-finder in a written report. See Henriksen v. Cameron, 622 A.2d 1135, 1144 (Me.1993). Certainly, if an expert\u2019s report is being submitted to a jury, a court must take steps to exclude from the jury's consideration any inadmissible portions of the report. See M.R. Evid. 103(d) (\u201cInjury cases, proceedings shall be conducted, to the extent practicable, so as to prevent inadmissible evidence from being suggested to the jury by any means....\u201d).",
+        "type": "majority",
+        "author": "SAUFLEY, C.J."
+      }
+    ],
+    "attorneys": [
+      "James S. Hewes, Esq., Portland, ME, for mother.",
+      "Janet T. Mills, Attorney General, Nora Sosnoff, Asst. Atty. Gen., Office of the Attorney General, Augusta, ME, for Maine Department of Health and Human Services."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 130\nIn re SORIAH B. et al.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Oct. 21, 2010.\nDecided: Dec. 9, 2010.\nJames S. Hewes, Esq., Portland, ME, for mother.\nJanet T. Mills, Attorney General, Nora Sosnoff, Asst. Atty. Gen., Office of the Attorney General, Augusta, ME, for Maine Department of Health and Human Services.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "1256-01",
+  "first_page_order": 1282,
+  "last_page_order": 1288
+}

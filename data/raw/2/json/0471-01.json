@@ -1,0 +1,63 @@
+{
+  "id": 7287552,
+  "name": "Benjamin COOPER, Petitioner v. Honorable Judge Sheila WOODS-SKIPPER President Judge, Philadelphia County, Respondent",
+  "name_abbreviation": "Cooper v. Woods-Skipper",
+  "decision_date": "2010-07-29",
+  "docket_number": "No. 50 EM 2010",
+  "first_page": "471",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 471"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 428,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.766183610094322
+    },
+    "sha256": "c7b4c626535159c103da529cef32a610b1554062efa3eef2d6d1688b5929b30c",
+    "simhash": "1:7d3fc1a663d02b32",
+    "word_count": 68
+  },
+  "last_updated": "2023-07-14T21:40:41.647294+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Benjamin COOPER, Petitioner v. Honorable Judge Sheila WOODS-SKIPPER President Judge, Philadelphia County, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of July, 2010, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED. Our Prothonotary is directed to strike the name of the jurist from the caption.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Benjamin COOPER, Petitioner v. Honorable Judge Sheila WOODS-SKIPPER President Judge, Philadelphia County, Respondent.\nNo. 50 EM 2010.\nSupreme Court of Pennsylvania.\nJuly 29, 2010."
+  },
+  "file_name": "0471-01",
+  "first_page_order": 501,
+  "last_page_order": 501
+}

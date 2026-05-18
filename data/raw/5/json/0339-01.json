@@ -1,0 +1,301 @@
+{
+  "id": 7285769,
+  "name": "COMMONWEALTH of Pennsylvania v. Dante ROBINSON, Appellant",
+  "name_abbreviation": "Commonwealth v. Robinson",
+  "decision_date": "2010-08-31",
+  "docket_number": "",
+  "first_page": "339",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 339"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "490 Pa. 179",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1763829
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "182",
+          "parenthetical": "\"[A] trial court should not instruct the jury on legal principles which have no application to the facts presented at trial.\""
+        },
+        {
+          "page": "400",
+          "parenthetical": "\"[A] trial court should not instruct the jury on legal principles which have no application to the facts presented at trial.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0179-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 168",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831189
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "171-172"
+        },
+        {
+          "page": "831"
+        },
+        {
+          "page": "183"
+        },
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0168-01"
+      ]
+    },
+    {
+      "cite": "512 Pa. 439",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800481
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "442, 444"
+        },
+        {
+          "page": "921, 922"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/512/0439-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 291",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813543
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0291-01"
+      ]
+    },
+    {
+      "cite": "827 A.2d 503",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9109100
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/827/0503-01"
+      ]
+    },
+    {
+      "cite": "678 A.2d 342",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11733985,
+        463594
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/678/0342-01",
+        "/pa/544/0514-01"
+      ]
+    },
+    {
+      "cite": "544 Pa. 514",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        463594
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0514-01"
+      ]
+    },
+    {
+      "cite": "662 A.2d 621",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470745,
+        7863238
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "630-631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0211-01",
+        "/a2d/662/0621-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470745
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "230-231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0211-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839660,
+        1839654
+      ],
+      "weight": 6,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "245"
+        },
+        {
+          "page": "1182"
+        },
+        {
+          "page": "245"
+        },
+        {
+          "page": "1182"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0233-02",
+        "/pa/534/0233-01"
+      ]
+    },
+    {
+      "cite": "265 Pa.Super. 159",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        122123
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/265/0159-01"
+      ]
+    },
+    {
+      "cite": "266 Pa.Super. 359",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        123375
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/266/0359-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 915,
+    "char_count": 16918,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 7.112724912833455e-08,
+      "percentile": 0.42722529382987195
+    },
+    "sha256": "9e29d5bcbec60dffc450f687c7f1641845af97f33de4ac93dd4a4f0714ebbc53",
+    "simhash": "1:c72dc0e8600bd959",
+    "word_count": 2721
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: FORD ELLIOTT, P.J., GANTMAN and POPOVICH, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Dante ROBINSON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nFORD ELLIOTT, P.J.:\nThis is an appeal from a judgment of sentence imposed upon appellant, Dante Robinson, after he was convicted in a jury trial of attempted murder, aggravated assault, robbery, criminal conspiracy, carrying a firearm on the street in Philadelphia, and possessing an instrument of crime (\u201cPIC\u201d). We affirm.\nAt approximately 3:30 a.m. on June 18, 2007, Christopher Pearo, who was employed by the Philadelphia Inquirer in the capacity as a delivery person, was robbed then shot while making a routine drop of newspapers at a \u201clockbox\u201d located at 64th and Buist Streets in Philadelphia. Upon arriving at the noted location, Mr. Pearo proceeded to place the papers in the designated lockbox. After Mr. Pearo had secured the lockbox, two men were suddenly upon him. One, who was dressed in a dark shirt and a hooded sweatshirt with the hood pulled up to about the top of his forehead, was armed with a handgun. The man placed the gun to Mr. Pearo\u2019s belly and stated, \u201cDo you know what this fucking is?\u201d (Notes of testimony, 9/24/08 at 92.) The other man, who was then situated behind Mr. Pearo, quickly began going through Mr. Pearo\u2019s pockets.\nAfter the two men had removed Mr. Pearo\u2019s- cash they asked him if there was any money in the delivery truck. Mr. Pearo replied in the negative and the two men began walking off to Mr. Pearo\u2019s right. Mr. Pearo quickly moved toward his delivery van, but after taking just a step or two, Mr. Pearo observed a flash and heard a bang from behind him while simultaneously feeling a sensation in the back of his neck. Placing his hand in the area of the sensation, Mr. Pearo felt a hole and realized that he had been struck by a bullet.\nObserving the two assailants running away down Buist Street, Mr. Pearo ran in the opposite direction and began yelling for help. Soon, Philadelphia Police Officer Joy Gallen-Ruiz arrived and, after calling for medical assistance, asked Mr. Pearo what had occurred and for a description of the attackers. Mr. Pearo indicated that he had been robbed then shot by two men, one wearing white and another wearing dark clothing. Mr. Pearo, who is six feet, one inch in height, further indicated that the man with the handgun came up to about his eye level and weighed maybe 150 pounds.\nMr. Pearo was taken to the University of Pennsylvania Hospital where it was discovered that the bullet that had struck him in the back of the neck had passed cleanly through his neck without hitting any arteries or otherwise creating an imminent threat to life. Mr. Pearo\u2019s wound was bandaged and he was released, after which he was taken to the Southwest Detective Division to scan photos of potential suspects via a photo imaging device. Despite spending 30 to 60 minutes viewing photographs, Mr. Pearo could not identify a suspect and ceased his efforts. Mr. Pearo then provided a statement and went to the office to fill out an incident report.\nThe next day, Mr. Pearo was shown a photo array which, based upon a tip from Officer James Cook, included a photo of appellant. When displayed to Mr. Pearo, he remarked, while pointing to appellant\u2019s photo, \u201cif this guy doesn\u2019t have a twin brother, then that\u2019s him.\u201d (Notes of testimony, 6/20/08 at 131.) Detective Murray asked Mr. Pearo if he was sure that was the man, and Mr. Pearo replied that he was sure.\nAppellant was arrested on June 21, 2007 and charged with, inter alia, robbery and attempted murder. A preliminary hearing was held on August 10, 2007, immediately prior to which appellant made an oral motion for a line-up to test Mr. Pearo\u2019s ability to identify the perpetrator of the robbery/shooting. After some argument by counsel, appellant\u2019s motion was denied and the preliminary hearing was conducted, as scheduled, resulting in the charges being bound over for court. Appellant subsequently filed a motion to suppress the identification and a motion in limine to allow expert testimony, at both trial and the suppression hearing, relating to the reliability of eye witness identifications. The motion to allow expert testimony was argued on January 8, 2008 and denied the next day. On June 20, 2008, a hearing was held on the motion to suppress. That motion was denied on July 7, 2008.\nAppellant proceeded to a jury trial held September 24-29, 2008. At the conclusion of that trial, appellant was convicted of the above-enumerated charges. Appellant was sentenced on January 15, 2009 to 10 to 20 years\u2019 imprisonment on the attempted murder charge and concurrent terms of imprisonment of 10 to 20 years on the robbery charge, 10 to 20 years on the conspiracy charge, 6/ to 13 years on the robbery charge, and 5 to 10 years on the aggravated assault charge. Appellant also received sentences of 1 to 12 months\u2019 imprisonment on each of the possession of a firearm and PIC charges, consecutive to the attempted murder charge and also consecutive to each other. The present, timely appeal followed in which appellant presents three issues in his statement of the questions involved:\n1. Did not the preliminary hearing court err in denying a proper request for an eyewitness to attend a lineup where there had been no face-to-face post-incident confrontation between the witness and appellant and where the suggestiveness of an in-court identification under those circumstances deprived appellant of due process of law?\n2. Did not the trial court err in denying appellant\u2019s motion to admit expert testimony on the subject of eyewitness identification issues at the motion to suppress or trial?\n3. Did the trial court err by failing to properly instruct the jury regarding the issues relating to the witness\u2019 identification of appellant as the man who robbed her [sic] where the proffered instruction was supported by science and decisional law?\nAppellant\u2019s brief at 3.\nAppellant first argues that the preliminary hearing court erred in refusing his oral motion requesting a lineup identification procedure prior to the holding of appellant\u2019s preliminary hearing. Appellant argues that as there was no post-incident, face-to-face confrontation and identification, having the first live identification in court would be unduly suggestive. The Commonwealth, noting that the motion was made immediately prior to the scheduled preliminary hearing, counters that appellant waived any objection to the court\u2019s ruling on his request by not filing a written motion for a lineup in advance of the preliminary hearing and cites to Commonwealth v. Guess, 266 Pa.Super. 359, 404 A.2d 1330 (1979), and Commonwealth v. Rose, 265 Pa.Super. 159, 401 A.2d 1148 (1979), to support its position. The Commonwealth\u2019s position is well taken. Our review of the cited authority reveals that it indeed reinforces the duty of a defendant to seek a lineup, in writing, prior to the preliminary hearing. Certainly, it would have been within the court\u2019s discretion to overlook the failure to make the request until the day of the scheduled preliminary hearing. However, since the request was not made in advance, or in writing, appellant cannot now complain about the court\u2019s decision to deny the request.\nAppellant next asserts error in the court\u2019s denial of his motion to allow expert testimony of Solomon Fulero, a nationally recognized expert in the field of human memory, perception, and recall, regarding tendencies of eyewitnesses or victims of crime in identifying suspects. Appellant proffered the testimony to address such topics as \u201cweapon focus,\u201d reduced reliability of cross-racial identifications, and the decreased accuracy of an eyewitness in a high-stress, traumatic, criminal event. (Appellant\u2019s brief at 16.) In general, Mr. Fulero would have offered testimony shedding light upon the reliability of eyewitness identifications under circumstances similar to those present here. Acknowledging the decisions in Commonwealth v. Spence, 534 Pa. 233, 627 A.2d 1176 (1993), Commonwealth v. Simmons, 541 Pa. 211, 662 A.2d 621 (1995), Commonwealth v. Abdul Salaam, 544 Pa. 514, 678 A.2d 342 (1996), and Commonwealth v. Bormack, 827 A.2d 503 (Pa.Super.2003), all of which have rejected similar types of expert testimony, appellant argues that those decisions are distinguishable and that they preclude only an expert\u2019s expression of an opinion as to a witness\u2019s credibility. (Appellant\u2019s brief at 18.)\nThe central theme of the above-named cases, and several others involving a similar theme, is that \u201cexpert opinion may not be allowed to intrude upon the jury\u2019s basic function of deciding credibility.\u201d Spence, 534 Pa. at 245, 627 A.2d at 1182. Our supreme court has steadfastly adhered to the above principle and guarded the jury\u2019s role against both explicit and implicit invasion via expert testimony. Thus, certainly, as appellant correctly points out, an expert cannot be allowed to express an opinion as to the credibility of a specific witness or the truthfulness of that witness\u2019s testimony. However, the prohibition has extended to expert testimony reflecting upon general propensities shared by a class of witness, at least when the propensities discussed relate to the believability of the testimony of that class of witness.\nFor instance, our supreme court has deemed it error to allow an expert to explain rape trauma syndrome (\u201cRTS\u201d), and how one suffering from RTS might be capable of identifying an attacker several years later when repeatedly incapable of doing so more proximately to the attack. Commonwealth v. Gallagher, 519 Pa. 291, 547 A.2d 355 (1988). Similarly, in Commonwealth v. Seese, 512 Pa. 439, 442, 444, 517 A.2d 920, 921, 922 (1986), indicating that \u201cthe testimony consisted of expert opinion as to the veracity of the class of potential witnesses of which the victim was a member,\u201d the supreme court found, \u201cit was error to admit expert testimony as to the credibility of children who are of an age similar to that of the prosecution\u2019s chief witness, the crime victim.\u201d The expert had opined that, generally speaking, eight-year-olds did not fabricate claims of sexual abuse.\nIn another case involving charges of child sexual abuse, Commonwealth v. Dun-kle, 529 Pa. 168,171-172, 602 A.2d 830, 831 (1992), the Commonwealth\u2019s expert:\ntestified about behavior patterns that occurred in children who had been sexually abused [including] ... why a victim would delay reporting an offense, why a victim might be unable to recall exact dates and times of an alleged offense, and why victims of sexual abuse omitted details of the incident when they first told their story.\nHowever, \u201c[a]t no time during her testimony did the expert witness relate any of her testimony to the child in question.\u201d Id. Ultimately determining that the subject matter the expert testified to was not beyond the ken of laypeople, therefore requiring expert testimony, the court concluded: \u201cNot only is there no need for testimony about the reasons children may not come forward, but permitting it would infringe upon the jury\u2019s right to determine credibility.\u201d Id. at 183, 602 A.2d at 837.\nAppellant posits that the testimony proffered here was admissible because it would have shown \u201chow the human mind operates.\u201d (Appellant\u2019s brief at 18.) We understand the distinction appellant makes. It is indeed one thing when an expert expresses his or her opinion that a specific key witness is telling the truth, ie., vouches for a witness, and quite another when an expert explains why a witness may mistakenly believe he/she is certain in a post-incident identification, or explains other phenomena that might impact upon the ability of a person in that circumstance to accurately identify an attacker. In the latter two examples, usually incorporating knowledge or understanding beyond that acquired or possessed by the general populace and backed by clinical study and/or experimentation, expert testimony aids, but does not supplant, the jury\u2019s assessment of the weight to be placed upon a witness\u2019s testimony.\nDespite appellant\u2019s protestation, it appears clear that the distinction mentioned above has not taken hold in Pennsylvania. An expert who explains why a rape victim may be incapable of identifying an attacker in the aftermath of a sexual assault yet be quite capable of identifying the same person years later is indeed shedding light on how the mind of a rape victim operates. However, such expert testimony was prohibited in Gallagher. No matter how one attempts to differentiate, even in minute detail, the testimony at issue here, it is of the same general type that the supreme court has considered and found to, if not supplant the jury\u2019s role in assessing the credibility of a witnesses, infringe upon that role.\nAdditionally, despite appellant\u2019s assertions otherwise, the purported bases for calling Mr. Fulero have, for the most part, already been rejected in Pennsylvania. For instance, in Spence, the defendant \u201csought to present the opinion testimony of a psychologist as to the effects of stress upon the persons who are called upon to make identifications.\u201d 534 Pa. at 245, 627 A.2d at 1182. In Simmons, 541 Pa. at 230-231, 662 A.2d at 630-631, the expert \u201cwould have testified on the general psychological characteristics and behavior patterns regarding eyewitness identification .... [and] about the reliability of eyewitness identification.\u201d In Bormack, we concluded that trial counsel was not ineffective in failing \u201cto offer expert testimony in the field of human memory and perception.\u201d Bormack, 827 A.2d at 508. Among the topics the proposed expert would have testified was \u201cweapons focus.\u201d Id.\nThe only new wrinkle appellant interjects in the present case is the issue of cross-racial identification. The apparent thesis offered by appellant suggests that the victim, who is white, would have greater difficulty identifying an African-American suspect than would an African-American victim, or that Mr. Pearo\u2019s identification would be more reliable if the robber had been white and he had identified a white suspect. While it appears that this particular issue has not been addressed in Pennsylvania jurisprudence, the general theme is the same. Allowing an expert to opine that, generally speaking, a cross-racial identification is less reliable than a same-race identification would improperly intrude upon the credibility determinations of the jury. In light of the above precedent, we believe our supreme court would find that proposed testimony equally objectionable. Thus, the court did not err in denying the motion in limine.\nAppellant lastly argues that the court erred in failing to instruct the jury as to the \u201cinherent difficulties in making an accurate cross-racial identification.\u201d (Appellant\u2019s brief at 26.) However, it is well-established that an instruction shall be given only when either the evidence of record supports the instruction or the instruction is as to a well established principle of law. Commonwealth v. White, 490 Pa. 179, 182, 415 A.2d 399, 400 (1980) (\u201c[A] trial court should not instruct the jury on legal principles which have no application to the facts presented at trial.\u201d). Here, there was no evidence supporting the premise in question, and the premise is not settled law in Pennsylvania. Thus, the court properly refused to instruct the jury as to inherent difficulties in making an accurate cross-racial identification.\nJudgment of sentence affirmed.\n. The system of delivery in place provided for the papers to be placed overnight in \"lockbox-es\u201d situated near retail vendors to be retrieved by the appropriate vendors when they later opened for business that day.\n. Each of the three issues included in appellant\u2019s statement of the questions involved were properly preserved by inclusion in appellant's Rule 1925 statement of errors complained of on appeal.\n. We note that the court examined the circumstances surrounding the photo array identification and found no reason to doubt the validity of that identification. Thus, in its opinion, a lineup was unnecessary. The court\u2019s position appears to be justified by the record as there is no indication that the photo array was suggestive or that appellant\u2019s photo somehow \"jumped out\u201d from the array.\n. Appellant further argues that the law in Pennsylvania \"lags behind other states in the development of scientific knowledge.\u201d (Appellant\u2019s brief at 19.) To support that claim, appellant cites authority from other states that allow the type of testimony proffered here. Similar to the argument just addressed, the fact that sister states have allowed this form of testimony has not swayed our supreme court to follow course.",
+        "type": "majority",
+        "author": "FORD ELLIOTT, P.J.:"
+      }
+    ],
+    "attorneys": [
+      "Owen W. Larrabee and Karl Baker, Public Defenders, Philadelphia, for appellant.",
+      "Hugh J. Burns, Jr., Asst. Dist. Atty., Philadelphia, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania v. Dante ROBINSON, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted March 22, 2010.\nFiled Aug. 31, 2010.\nOwen W. Larrabee and Karl Baker, Public Defenders, Philadelphia, for appellant.\nHugh J. Burns, Jr., Asst. Dist. Atty., Philadelphia, for Com., appellee.\nBEFORE: FORD ELLIOTT, P.J., GANTMAN and POPOVICH, JJ."
+  },
+  "file_name": "0339-01",
+  "first_page_order": 369,
+  "last_page_order": 374
+}

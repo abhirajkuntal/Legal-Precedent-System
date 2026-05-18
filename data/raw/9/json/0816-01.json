@@ -1,0 +1,441 @@
+{
+  "id": 7286731,
+  "name": "BANK OF AMERICA, N.A. v. Constance H. BARR",
+  "name_abbreviation": "Bank of America, N.A. v. Barr",
+  "decision_date": "2010-11-30",
+  "docket_number": "",
+  "first_page": "816",
+  "last_page": "823",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 816"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 124"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "2002 ME 150",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11424644
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "1132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/804/1127-01"
+      ]
+    },
+    {
+      "cite": "733 A.2d 193",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "197"
+        },
+        {
+          "page": "197"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "249 Conn. 415",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        518033
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/249/0415-01"
+      ]
+    },
+    {
+      "cite": "372 N.W.2d 902",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10654051
+      ],
+      "pin_cites": [
+        {
+          "page": "905"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/372/0902-01"
+      ]
+    },
+    {
+      "cite": "589 N.E.2d 1306",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1308"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Ohio St.3d 573",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 3d",
+      "case_ids": [
+        1714415
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-3d/63/0573-01"
+      ]
+    },
+    {
+      "cite": "492 S.E.2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "437",
+          "parenthetical": "stating that a sole proprietorship is a \"form of business in which one person owns all the assets of the business in contrast to a partnership, trust or corporation\""
+        },
+        {
+          "page": "437-38"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 Va. 501",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        99516
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that a sole proprietorship is a \"form of business in which one person owns all the assets of the business in contrast to a partnership, trust or corporation\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/254/0501-01"
+      ]
+    },
+    {
+      "cite": "741 N.E.2d 47",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "49-50",
+          "parenthetical": "stating that a sole proprietorship is a business form in which an individual owns the business and a sole proprietor \"refers to a single individual who owns a business\""
+        },
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "433 Mass. 240",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        343551
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that a sole proprietorship is a business form in which an individual owns the business and a sole proprietor \"refers to a single individual who owns a business\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/433/0240-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 129",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7294866
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "1281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/1278-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 134",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9189824
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/861/0625-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 73",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8379933
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b67"
+        },
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/946/0418-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 63",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7286763
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 19, 20"
+        },
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/1/0416-01"
+      ]
+    },
+    {
+      "cite": "691 A.2d 1191",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11918812
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1193"
+        },
+        {
+          "page": "1193-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/691/1191-01"
+      ]
+    },
+    {
+      "cite": "481 A.2d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7921585
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1126"
+        },
+        {
+          "page": "1126-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/481/1123-01"
+      ]
+    },
+    {
+      "cite": "622 A.2d 1163",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7360932
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1168-69",
+          "parenthetical": "reviewing the trial court's decision on the admissibility and trustworthiness of business records developed from data stored on a computer for an abuse of discretion"
+        },
+        {
+          "page": "1168-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/622/1163-01"
+      ]
+    },
+    {
+      "cite": "1997 ME 140",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        12010109
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b69"
+        },
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/0066-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 40",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7290236
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "812"
+        },
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "813"
+        },
+        {
+          "page": "813"
+        },
+        {
+          "page": "\u00b6\u00b6 10-11"
+        },
+        {
+          "page": "813"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/994/0808-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 881,
+    "char_count": 20082,
+    "ocr_confidence": 0.695,
+    "pagerank": {
+      "raw": 1.517284886919306e-07,
+      "percentile": 0.6686538481587151
+    },
+    "sha256": "166a734f98e82452ac56c0548ccd91e3a49942ea9b597fed194bdf47065f5485",
+    "simhash": "1:2e1d4f58e584ec5d",
+    "word_count": 3359
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "BANK OF AMERICA, N.A. v. Constance H. BARR."
+    ],
+    "opinions": [
+      {
+        "text": "ALEXANDER, J.\n[\u00b6 1] Constance H. Barr appeals from a judgment entered in the Superior Court (Cumberland County, Wheeler, J.) following a non-jury trial in which Banwas found to be personally liable for debt incurred on a small business line of credit. Barr argues that the court erred in admitting certain documents into evidence pursuant to the business records exception to the hearsay rule, M.R. Evid. 803(6), and that the evidence was insufficient to support several findings key to the court\u2019s judgment. We affirm the judgment.\nI. CASE HISTORY\n[\u00b62] The record, including Barr\u2019s admissions presented at trial, supports the following factual findings. In 2004, Barr was the 100% owner of The Stone Scone, a business operating as a sole proprietorship. On January 7, 2004, Fleet Bank approved a $100,000 unsecured small business line of credit for The Stone Scone, conditioned upon receipt of a properly signed and witnessed authorization/personal guaranty.\n[\u00b6 3] Acting on behalf of The Stone Scone, Barr executed and delivered to Fleet Bank a properly signed and witnessed authorization agreement/personal guaranty portion of the Fleet Bank small business services credit application, dated January 7, 2004. Fleet Bank created, and had sent, a letter addressed to Barr and The Stone Scone, dated January 12, 2004, which stated, \u201cDear Constance H Barr[:] Congratulations! Your company has been approved for a $100000 Small Business Credit Express Line of Credit,\u201d and provided certain of the line of credit\u2019s terms. Fleet Bank thereafter provided funds to The Stone Scone pursuant to the terms of the line of credit.\n[\u00b6 4] Fleet Bank merged with Bank of America (BoA) in 2004. From February 2004 through November 2008, Fleet Bank, then BoA, sent account statements monthly, addressed to both Barr and The Stone Scone. The monthly statements show that advances were regularly made against, and payments were made to, The Stone Scone line of credit account throughout this period, and also indicate the applicable interest rate and fees.\n[\u00b6 5] Two years after the line of credit was approved, The Stone Scone filed articles of organization with the State, registering itself as a limited liability company (LLC) and naming Barr as the manager. See 31 M.R.S. \u00a7\u00a7 621, 622(2) (2009). BoA was not notified of the change in The Stone Scone\u2019s status. Had BoA been informed that The Stone Scone had organized as an LLC, it would have asked for documentation and a new line of credit agreement under the entity\u2019s name.\n[\u00b6 6] The last payment made to the line of credit account was on October 28, 2008. That payment was \u201creversed\u201d the same day. As of the last monthly statement, the principal owed on the account was $91,444.09.\n[\u00b6 7] On November 4, 2008, BoA sent a past due notice addressed to Barr and The Stone Scone. No payments were made on the account thereafter. Barr admitted that, pursuant to the terms of the line of credit, interest on the unpaid principal balance continued to accrue at a rate of 6.5% per annum.\n[\u00b6 8] In March 2009, BoA filed a complaint against Barr and The Stone Scone in the District Coui\u2019t. Barr removed the action to the Superior Court. There, BoA was granted leave to file two amended complaints, the second of which contains five counts: (I) breach of the Fleet Bank small business credit application, authorization and personal guaranty, and the terms of the Fleet Bank small business express line of credit; (II) breach of contract; (III) unjust enrichment; (IV) attorney fees; and (V) breach of personal guaranty signed by Barr. Counts I, II, IV, and V are against Barr individually, d/b/a The Stone Scone, and Count III is against Barr and The Stone Scone. Prior to trial, Barr stipulated to a judgment against The Stone Scone, LLC. The only issue for trial was Barr\u2019s personal responsibility for the debt.\n[\u00b6 9] At trial BoA moved to admit exhibits 2, 3, and 4: business records consisting of monthly account statements addressed to Barr and The Stone Scone (Exhibit 2); the past due notice addressed to Barr and The Stone Scone (Exhibit 8); and the small business express line of credit welcome/approval letter from Fleet Bank addressed to Barr and The Stone Scone (Exhibit 4). Barr objected to these three exhibits, asserting that they do not meet the business records exception to the hearsay rule pursuant to M.R. Evid. 803(6) and that BoA\u2019s witness was not a \u201ccustodian or other qualified witness\u201d within the meaning of Rule 803(6). The court consequently overruled Barr\u2019s objections and admitted the exhibits.\n[\u00b6 10] The BoA\u2019s witness was a client manager for BoA, managing the relationship between the Bank and corporate and sole proprietorship clients throughout Maine. He testified that in his position he had access to small business lines of credit client accounts, including The Stone Scone\u2019s, and he regularly accessed such information in his position. He had worked for BoA and predecessor banks, including Fleet Bank, for fifteen years. Prior to the Fleet Bank/BoA merger, the witness worked for Fleet Bank as a bank manager in Rockland and Thomaston. The witness testified that Fleet Bank kept records relating to lines of credit opened for bank clients, and that those records are now maintained by BoA.\n[\u00b6 11] The witness testified that as part of his duties with Fleet Bank, he was familiar with the Fleet Bank process for approving, opening, and maintaining small business lines of credit. He also testified that the welcome/approval letter from Fleet Bank to Barr was a true copy of the letter mailed to Barr and was an automatically-generated letter sent when a client is approved for a line of credit. It was Fleet Bank\u2019s regular practice to send such letters within a week of approval of a client\u2019s line of credit to the address listed for the client and to thereafter maintain electronic copies of these letters with the customer\u2019s account record as part of its regularly-conducted business activities.\n[\u00b6 12] The witness testified that the monthly statements admitted as BoA\u2019s exhibit 2 were automatically generated each month, based on information entered by bank employees, and that he was familiar with how the statements were created and maintained as part of his job duties. The information on the statements was and is maintained electronically and sent to account holders monthly as part of BoA\u2019s regularly-conducted business activities. The Bank relied upon the information entered into its computer systems, used to generate monthly statements, to conduct everyday banking activities. The welcome/approval letter and the monthly statements may be printed and mailed out by a third-party vendor, but Fleet Bank/ BoA created the approval letter and statements.\n[\u00b6 13] The testimony indicated that the November 2008 past-due notice addressed to Barr is a letter that BoA generates and sends to clients as a matter of course as part of its regular business activities when an account is delinquent.\n[\u00b6 14] The court entered judgment on March 5, 2010, finding in favor of Barr as to Counts I, III, IV, and V of BoA\u2019s second amended complaint. As to Count II, the claim for breach of contract, the court found that \u201cthere is no dispute that there was a contract between Stone Scone and [BoA], [so] the only issue is whether Barr individually is also liable on said contract.\u201d Concluding that The Stone Scone and Barr have always been one and the same as far as the Bank was concerned, the court entered judgment as to Count II in favor of BoA against Barr, individually, and against The Stone Scone, in the amount of $91,444.09 plus interest. Barr, in her individual capacity, then brought this appeal.\nII. LEGAL ANALYSIS\nA. Admissibility of Evidence\n[\u00b6 15] Barr argues that the court abused its discretion in admitting BoA\u2019s exhibits 2, 3, and 4 into evidence, asserting that: (1) the witness offered to lay a foundation for the documents was not the \u201ccustodian or other qualified witness\u201d required by M.R. Evid. 803(6); (2) the witness did not testify to facts that established a foundation for admissibility; and (3) therefore, BoA failed to establish a foundation for admitting the exhibits as business records, particularly given that, while Fleet Bank/ BoA may have created the documents as electronic files, a third-party vendor for whom the witness did not work likely printed and mailed the welcome/approval letter and monthly statements.\n[\u00b6 16] Evidence Rule 803(6) provides, in pertinent part, that:\nThe following are not excluded by the hearsay rule, ...:\n(6) Records of regularly conducted business. A memorandum, report, record, or data compilation, in any form, of acts, events, conditions, opinions, or diagnoses, made at or near the time by, or from information transmitted by, a person with knowledge, if kept in the course of a regularly conducted business, and if it was the regular practice of that business to make the memorandum, report, record, or data compilation, all as shown by the testimony of the custodian or other qualified witness, ... unless the source of information or the method or circumstances of preparation indicate lack of trustworthiness. The term \u201cbusiness\u201d as used in this paragraph includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.\n[\u00b6 17] We review the trial court\u2019s admission of exhibits 2, 3, and 4 pursuant to M.R. Evid. 803(6) for an abuse of discretion and clear error. State v. Nelson, 2010 ME 40, \u00b6 9, 994 A.2d 808, 812; Capul v. Fleet Bank of Me., 1997 ME 140, \u00b69, 697 A.2d 66, 69 (reviewing the court\u2019s findings regarding the foundational elements necessary to admit a document pursuant to M.R. Evid. 803(6) for clear error); United Air Lines, Inc. v. Hewins Travel Consultants, Inc., 622 A.2d 1163, 1168-69 (Me. 1993) (reviewing the trial court\u2019s decision on the admissibility and trustworthiness of business records developed from data stored on a computer for an abuse of discretion).\n[\u00b6 18] To admit a business record pursuant to Rule 803(6), the party offering the evidence must lay a proper foundation by presenting testimony of \u201cthe custodian or other qualified witness\u201d showing that:\n(1) the record was made at or near the time of the events reflected in the record by, or from information transmitted by, a person with personal knowledge of the events recorded therein;\n(2) the record was kept in the course of a regularly conducted business;\n(3) it was the regular practice of the business to make records of the type involved; and\n(4) no lack of trustworthiness is indicated from the source of information from which the record was made or the method or circumstances under which the record was prepared.\nNelson, 2010 ME 40, \u00b6 9, 994 A.2d at 813.\n[\u00b6 19] A qualified witness is one who was \u201c \u2018intimately involved in the daily operation of the [business]\u2019 \u201d and whose testimony \u201c \u2018showed the firsthand nature of his knowledge.\u2019 \u201d Id. \u00b6 10, 994 A.2d at 813 (quoting Ne. Bank & Trust Co. v. Soley, 481 A.2d 1123, 1126 (Me.1984)). \u201cThe fact that the witness did not prepare or supervise the preparation of the record does not destroy the ability of the witness to provide the foundation for its admission,\u201d nor must the witness have been the custodian at the time of the record\u2019s creation in order to be deemed a \u201cqualified witness.\u201d State v. Hager, 691 A.2d 1191, 1193 (Me.1996).\n[\u00b6 20] The record supports the determination that the BoA witness was a qualified witness under this standard. See, e.g., id. at 1193-94. The evidence in the record also supports the determination necessarily made by the trial court that the four criteria that must be demonstrated to admit documents pursuant to M.R.Evid. 803(6) were met as to BoA\u2019s exhibits 2, 3, and 4. See, e.g., Nelson, 2010 ME 40, \u00b6\u00b6 10-11, 994 A.2d at 813; Ne. Bank & Trust Co., 481 A.2d at 1126-27.\n[\u00b6 21] Thus, the record establishes, really without much dispute, that (1) the welcome/approval letter, the monthly statements, and the past due notice were created at or near the time of the events reflected in each record by, or from information transmitted by, a person with personal knowledge of the events recorded therein; (2) these records were kept, and paper copies were created and sent to Barr, in the regular course of the Bank\u2019s business; (3) it was Fleet Bank and BoA\u2019s regular business practice to make the records reflected in exhibits 2, 3, and 4; and (4) no lack of trustworthiness was indicated from the source of information from which the record was made or the method or circumstances under which the record was prepared. The fact that a third-party contractor may have printed and mailed paper copies of the Bank-created electronic records to the debtor does not change the analysis. See United Air Lines, 622 A.2d at 1168-69; M.R. Evid. 1001(3). The court did not err or abuse its discretion in admitting BoA\u2019s exhibits 2, 3, and 4.\nB. Sufficiency of the Evidence\n[\u00b6 22] Barr contends that the court erred in finding her personally in breach of the contract because BoA did not present sufficient evidence to support factual findings that (1) a contract was created between Fleet Bank/BoA and Barr, or what the terms or conditions of such a contract were, and (2) Barr is personally liable for the outstanding balance on the line of credit.\n[\u00b6 23] Unlike many debt collection cases that come before us, this commercial matter was not resolved by summary judgment, but was the subject of a full trial at which Barr had every opportunity to contest the evidence presented. Thus, on review, we ask not whether there are disputes as to material facts, but whether, assuming that facts were disputed, the trial court\u2019s findings regarding the existence of a binding contract and a breach of that contract are supported by sufficient evidence in the record. Coastal Ventures v. Alsham Plaza, LLC, 2010 ME 63, \u00b6\u00b6 19, 20, 1 A.3d 416, 422; see also Mane v. Renner, 2008 ME 73, \u00b67, 946 A.2d 418, 420.\n[\u00b6 24] \u201cA contract exists if the parties mutually assent to be bound by all its material terms, the assent is either expressly or impliedly manifested in the contract, and the contract is sufficiently definite to enable the court to ascertain its exact meaning and fix exactly the legal liabilities of each party.\u201d Sullivan v. Porter, 2004 ME 134, \u00b6 13, 861 A.2d 625, 631.\n[\u00b625] The trial court found, and Barr does not dispute, that The Stone Scone contracted with Fleet Bank, now BoA, for a small business line of credit. Although the line of credit application is not included in the record in its entirety, the record evidence\u2014specifically, Barr\u2019s admissions (which refer to a portion of the line of credit application signed by Barr on behalf of The Stone Scone), the welcome/approval letter, the monthly statements, the four-year course of dealings before the default, the notice of default, and trial testimony\u2014supports the court\u2019s determination that a contract existed, that the contract had sufficiently definite terms to enable a court to assign legal liabilities, and that there was sufficient evidence of breach. See generally N. Star Capital Acquisition, LLC v. Victor, 2009 ME 129, \u00b6 10, 984 A.2d 1278, 1281 (vacating a summary judgment because, in part, the record contained no \u201cdocumentation or other proof of the original loan, the terms and conditions of the original loan, or its assignment\u201d (emphasis added)).\n[\u00b6 26] The trial record also contains sufficient evidence that Barr is personally liable for the debt owed to BoA. The evidence demonstrates that, at the time Barr acted on The Stone Scone\u2019s behalf to procure the small business line of credit, she was the owner of The Stone Scone and the sole proprietor of that business. See Ladd v. Scudder Kemper Invs., Inc., 433 Mass. 240, 741 N.E.2d 47, 49-50 (2001) (stating that a sole proprietorship is a business form in which an individual owns the business and a sole proprietor \u201crefers to a single individual who owns a business\u201d); Recalde v. ITT Hartford, 254 Va. 501, 492 S.E.2d 435, 437 (1997) (stating that a sole proprietorship is a \u201cform of business in which one person owns all the assets of the business in contrast to a partnership, trust or corporation\u201d).\n[\u00b6 27] An individual doing business as a sole proprietor, even when business is done under a different name, remains personally liable for all of the obligations of the sole proprietorship. Recalde, 492 S.E.2d at 437-38; accord Ladd, 741 N.E.2d at 50; Patterson v. V & M Auto Body, 63 Ohio St.3d 573, 589 N.E.2d 1306, 1308 (1992); Carlson v. Doekson Gross, Inc., 372 N.W.2d 902, 905 (N.D.1985).\n[\u00b628] As the sole proprietor of The Stone Scone when that sole proprietorship entered into the agreement for a line of credit with Fleet Bank, Barr became personally liable for the debts incurred on that line of credit account. The fact that The Stone Scone subsequently converted to an LLC, a fact of which Fleet Bank/BoA was not made aware, does not alter Barr\u2019s individual liability in this regard. See C & J Builders & Remodelers, LLC v. Geisenheimer, 249 Conn. 415, 733 A.2d 193, 197 (1999) (holding that, \u201cwhere a sole proprietorship converts to a limited liability company,\u201d not only are the obligations incurred by the sole proprietorship transferred to the limited liability company, but \u201cthe sole proprietor retains personal liability for all preconversion debts and obligations incurred by the sole proprietorship\u201d); see generally 13-C M.R.S. \u00a7 204 (2009) (\u201cAll persons purporting to act as or on behalf of a corporation, knowing there was no incorporation under this Act, are jointly and severally liable for all liabilities created while so acting.\u201d). To hold otherwise would fail to protect the interests and expectations of third parties in commercial transactions who contracted with the converting sole proprietorship prior to conversion. See C & J Builders, 733 A.2d at 197.\nThe entry is:\nJudgment affirmed.\n. Barr also argues that the court erred in finding in Bank of America\u2019s favor on its claim for unjust enrichment against her. The court ruled in her favor under this theory, so we do not address this argument.\n. Before filing its second amended complaint, BoA filed a motion for summary judgment in August 2009 against Barr and The Stone Scone. Barr and The Stone Scone opposed the motion as to Barr individually, but did not dispute The Stone Scone\u2019s liability. Because the second amended complaint was subsequently filed, the court dismissed BoA\u2019s motion for summary judgment without prejudice.\n. Contrary to Barr\u2019s contention at trial, State v. Radley, 2002 ME 150, \u00b6 15, 804 A.2d 1127, 1132 (holding that the witness was not a \"custodian or other qualified witness\u201d because she was not employed by the entity that created the reports and was not involved with creating, maintaining, or transmitting the reports) is not determinative in this case.\n. Maine Rule of Evidence 1001(3) states:\n(3) Original. An \"original\u201d of a writing or recording is the writing or recording itself or any counterpart intended to have the same effect by a person executing or issuing it. An \"original\u201d of a photograph includes the negative or any print therefrom. If data are stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, is an \"original.\u201d\n. Barr also contends that there is insufficient evidence to support a finding that BoA is Fleet Bank's successor in interest of the rights, titles, and interest in the subject line of credit. However, evidence admitted at the trial, including the monthly statements and trial testimony support the determination that BoA is Fleet Bank's successor in interest to the subject line of credit account.",
+        "type": "majority",
+        "author": "ALEXANDER, J."
+      }
+    ],
+    "attorneys": [
+      "Kate E. Conley, Esq., Susan J. Szwed, P.A., Portland, ME, for Bank of America, N.A.",
+      "Mark A. Kearns, Esq., Portland, ME, for Constance Barr."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 124\nBANK OF AMERICA, N.A. v. Constance H. BARR.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Oct. 21, 2010.\nDecided: Nov. 30, 2010.\nKate E. Conley, Esq., Susan J. Szwed, P.A., Portland, ME, for Bank of America, N.A.\nMark A. Kearns, Esq., Portland, ME, for Constance Barr.\nPanel: ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0816-01",
+  "first_page_order": 838,
+  "last_page_order": 845
+}

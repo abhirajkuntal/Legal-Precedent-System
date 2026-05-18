@@ -1,0 +1,333 @@
+{
+  "id": 7289786,
+  "name": "Philip PAYES, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (Commonwealth of PA/State Police), Respondent",
+  "name_abbreviation": "Payes v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-10-06",
+  "docket_number": "",
+  "first_page": "855",
+  "last_page": "863",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 855"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "728 A.2d 938",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11626752,
+        607163
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "Brasten II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/728/0938-01",
+        "/pa/556/0400-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 400",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607163
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "Brasten II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0400-01"
+      ]
+    },
+    {
+      "cite": "735 A.2d 161",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11534311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/735/0161-01"
+      ]
+    },
+    {
+      "cite": "975 A.2d 1214",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7298811
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/975/1214-01"
+      ]
+    },
+    {
+      "cite": "972 A.2d 1245",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7299105
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/972/1245-01"
+      ]
+    },
+    {
+      "cite": "810 A.2d 713",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9313210
+      ],
+      "weight": 2,
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/810/0713-01"
+      ]
+    },
+    {
+      "cite": "810 A.2d 1185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9319810,
+        270330
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/810/1185-01",
+        "/pa/570/0500-01"
+      ]
+    },
+    {
+      "cite": "570 Pa. 500",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        270330
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/570/0500-01"
+      ]
+    },
+    {
+      "cite": "682 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7865689
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "879"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/682/0875-01"
+      ]
+    },
+    {
+      "cite": "899 A.2d 1204",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8423277
+      ],
+      "pin_cites": [
+        {
+          "page": "1208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/899/1204-01"
+      ]
+    },
+    {
+      "cite": "767 A.2d 13",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11121797
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/767/0013-01"
+      ]
+    },
+    {
+      "cite": "962 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8183811
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/962/0001-01"
+      ]
+    },
+    {
+      "cite": "850 A.2d 890",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9231045
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/850/0890-01"
+      ]
+    },
+    {
+      "cite": "912 A.2d 1278",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8447964,
+        3851599
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "granting benefits to a miner whose foreman repeatedly made crude sexual comments to him that were above and beyond uncivil and joking behavior"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/912/1278-01",
+        "/pa/590/0413-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 413",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851599
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "granting benefits to a miner whose foreman repeatedly made crude sexual comments to him that were above and beyond uncivil and joking behavior"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0413-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 317",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11568880
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "320"
+        },
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/737/0317-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 967,
+    "char_count": 21500,
+    "ocr_confidence": 0.705,
+    "pagerank": {
+      "raw": 8.945851029942922e-08,
+      "percentile": 0.5012496867577994
+    },
+    "sha256": "4db3bd5af63ba3315162cc7e53d7067b89bdb0a4004a9246401edc92fae62740",
+    "simhash": "1:52a460f29e0984b8",
+    "word_count": 3462
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: McGINLEY, Judge, and SIMPSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "Philip PAYES, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (Commonwealth of PA/State Police), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge FLAHERTY.\nPhilip Payes (Claimant) petitions for review from an order of the Workers\u2019 Compensation Appeal Board (Board) that reversed the decision of a Workers\u2019 Compensation Judge (WCJ) granting his Claim Petition. We affirm.\nThis case results from a tragedy that occurred on November 29, 2006. That morning, while it was still dark, Claimant, a state trooper, was driving his patrol vehicle to the station. While on the highway, a woman who apparently was mentally disturbed ran in front of Claimant\u2019s vehicle. Claimant attempted to resuscitate the woman after she was struck by his patrol car but the incident resulted in a fatality. Claimant filed a Claim Petition seeking total disability from December 1, 2006 and ongoing based on post traumatic stress disorder (PTSD). Employer accepted liability for reasonable and necessary medical expenses related to Claimant\u2019s blood exposure. Employer denied liability for any psychological injury or resultant earnings loss.\nClaimant testified that he has worked for Employer since 1994. On November 28, 2006, he was to begin working a double back shift. That meant that he was to work from 2:00 p.m. through 10:00 p.m. that day. He was to get an eight hour break, and return to the station in the morning. Claimant was to take the patrol vehicle home at the conclusion of the first leg of the shift and return with the vehicle in the morning to begin the second leg of his shift. Claimant described the events of November 29, 2006 when he was returning to the station. He was traveling on Interstate 81 at approximately 5:45 a.m. when a woman, dressed entirely in black, ran in front of his patrol car. His vehicle struck the woman and she flipped over the car. Claimant stopped his vehicle, turned on the flashing lights, and radioed for an ambulance. He observed blood coming out of the accident victim\u2019s mouth as she lay in the road. Claimant checked the victim for a pulse. He attempted mouth-to-mouth resuscitation. He had to stand over her body and wave traffic out of the way so the two would not get hit. Eventually help arrived and both Claimant and the accident victim were taken to the hospital. The woman died as a result of her injuries.\nClaimant missed time from work. He attempted to return to work on January 2, 2007. He worked for a few days, primarily doing paperwork, but felt he was in no way ready to resume working. Claimant specifically referenced anxiety, particularly when driving. He conceded that as a part of being a state trooper, he has been exposed to violent crimes, accidents, and trauma in the past. He agreed that exposure to these types of things comes with the job. Claimant asserted, however, that he \u201cnever once imagined that something like this could happen.\u201d R.R. at 44a. He further explained \u201cI never thought I\u2019d be ... possibly [the] method of someone\u2019s suicide.\u201d Id.\nClaimant presented the testimony of Harvey Shapiro, M.D., board certified psychiatrist, who first examined him on April 9, 2007. He diagnosed Claimant with major depression of moderate degree and severe PTSD. Per Dr. Shapiro, PTSD is a serious anxiety disorder. He attributed his diagnoses to the incident occurring November 29, 2006. Dr. Shapiro did not believe Claimant was capable of returning to work as a state trooper. Claimant further presented the testimony of Jeffrey Pincus, licensed psychologist, who concurred with Dr. Shapiro by diagnosing Claimant with work-related PTSD, severe anxiety, and depression. Dr. Pincus also agreed Claimant was not capable of returning to work with Employer.\nEmployer presented the testimony of Major McDaniel, Commander of Area 1. He stated that all police cadets receive training on stress management and information on PTSD. He added that state troopers regularly and routinely respond to motor vehicle accidents. Officers are trained in first aid so they can render assistance at a crash site.\nMajor McDaniel reviewed the details of the investigation into the November 29, 2006 incident and disagreed with the assessment that the victim attempted to commit \u201csuicide by cop.\u201d R.R. 214a. He stated, however, that people do attempt to use officers as a means to facilitate their own suicide. He discussed an incident in 1994 whereupon a man pointed a toy gun at him and his partner knowing that they were armed with real weapons. Major McDaniel fatally shot the individual. Major McDaniel further explained that another officer had been involved in an incident previously where an individual sprinted out in front of his patrol car resulting in a fatality. Major McDaniel stated he gave Claimant that officer\u2019s contact information to talk if he desired.\nEmployer next presented the testimony of Barbara Kuhlengel, M.D., board certified in psychiatry, who examined Claimant on November 1, 2007. She went over medical record and took a history from Claimant. According to Dr. Kuhlen-gel, Claimant told her \u201c[h]e knew about \u2018suicide by cop\u2019 from the police academy with regard to dealing with incidents and unstable people.\u201d R.R. at 319a. Dr. Kuhlengel believed Claimant did develop PTSD. She opined, however, that Claimant recovered from the symptoms specific to PTSD by the time of her examination. She added that Claimant may have exacerbated a pre-existing adjustment disorder as a result of the November 29, 2006 incident, but has since returned to baseline levels. Dr. Kuhlengel explained that Claimant had documented symptoms of depression prior to the accident, but she did not believe Claimant experienced any additional depression following the incident.\nBy a decision circulated October 24, 2008, the WCJ credited Claimant\u2019s testimony as well as that of Major McDaniel. He found the testimony of Drs. Shapiro and Pincus more credible than that of Dr. Kuhlengel. He awarded total disability benefits from November 29, 2006 and ongoing, but for a brief period of suspension when Claimant attempted to return to work in January of 2007. The WCJ found Claimant developed a compensable mental injury resulting from a mental stimulus. He found the mental injury was sustained as a result of an abnormal working condition. To that point, the WCJ found as follows:\n5. ... [Wjhile state troopers such as the Claimant [are] exposed to death, murder, severe personal injury, crimes, and other violent activities, the circumstances of the present case which occurred directly to the Claimant when the victim darted in front of his vehicle, and the events which occurred immediately when he attempted to save her life, were not normal for a state trooper but instead were extraordinary and unusual events.\nDec. dated 10/24/08, p. 8.\nThe WCJ concluded that the evidence supported a finding that the accident victim attempted to commit suicide. He found it inconclusive that she attempted to commit \u201csuicide by cop.\u201d\nThe Board reversed. It acknowledged that the events occurring November 29, 2006 were unfortunate. It stated, however, that \u201cwe cannot agree that this incident constitutes an abnormal working condition given the nature of Claimant\u2019s stressful and perilous profession.\u201d Op. dated 2/22/10, p. 11. The Board further stated:\nClaimant agreed that being exposed to traumatic and dangerous situations and to death and trauma was a normal part of his job as a state trooper. Although he testified that he never thought he would be involved in someone\u2019s death, he did admit he was trained at the academy in the use of deadly force among other things. While he stated that he never heard of this kind of event happening to anyone on the job, Major McDaniel credibly testified that a member of the department had a similar situation years ago where someone ran in front of a patrol car and was struck and killed, and he provided Claimant with that person\u2019s contact information. Thus, encounters involving fatalities were a foreseeable part of the job and not an unheard of occurrence.\nId. at 13.\nThis appeal followed. The sole issue on appeal for this Court to consider is whether Claimant\u2019s PTSD and depression that are attributable to the events of November 29, 2006 based on the credible medical evidence result from actual extraordinary events or abnormal working conditions.\nA claimant seeking workers\u2019 compensation benefits because of a mental stimulus resulting in a disabling psychic injury must show (1) that actual extraordinary events occurred at work that caused the trauma and that these specific events can be pinpointed in time, or, (2) that abnormal working conditions over an extended period caused the psychiatric injury. Young v. Workers\u2019 Compensation Appeal Board (New Sewickley Police Dep\u2019t), 737 A.2d 317 (Pa.Cmwlth.1999). In classifying working conditions as normal or abnormal, there is no bright line test or generalized standard. See Rag (Cyprus) Emerald Res., L.P. v. Workers\u2019 Compensation Appeal Board (Hopton), 590 Pa. 413, 912 A.2d 1278 (2007)(granting benefits to a miner whose foreman repeatedly made crude sexual comments to him that were above and beyond uncivil and joking behavior). Psychic injury cases are highly fact sensitive, and the determination as to whether working conditions are normal or abnormal must be considered in the context of the specific employment. Agresta v. Workers\u2019 Compensation Appeal Board (Borough of Mechanicsburg), 850 A.2d 890 (Pa.Cmwlth.2004). Consequently, compensation is denied for events that are expected in the relevant working environment, whether it is an office worker\u2019s change in job title or responsibility or a police officer\u2019s involvement in life threatening situations. Community Empowerment v. Workers\u2019 Compensation Appeal Board (Porch), 962 A.2d 1 (Pa.Cmwlth.2008).\nAlthough a claimant in a normally highly stressful working environment such as a police officer may not have a higher burden of proof, it is often more difficult to establish abnormal working conditions in a job that is, by its nature, highly stressful. Young, 737 A.2d at 320. The claimant must establish that the incident that caused his mental injury is so much more stressful and abnormal than the already highly stressful incidence of that position. Id.\nAlthough testimony may be presented that certain police officers have never witnessed horrible trauma and/or death, that testimony is not necessarily dispositive. Rydzewski v. Workers\u2019 Compensation Appeal Board (City of Phila.), 767 A.2d 13 (Pa.Cmwlth.2001). The determining factor is what is extraordinary or abnormal for a person in the same \u201cline of work.\u201d Rydzewski, 767 A.2d at 16. When an individual claimant employed as a police officer has not previously encountered a particular type of event one may expect a police officer to become involved in, that experience is merely \u201csubjectively abnormal for [the claimant.\u201d Young, 737 A.2d at 322. Conversely, however, simply because an event has happened in the past does not mean that such an event is a normal part of a course of employment. See Kennelty v. Workers\u2019 Compensation Appeal Board (Schwan\u2019s Home Serv., Inc.), 899 A.2d 1204, 1208 (Pa.Cmwlth.2006)(holding that although a claimant had been robbed previously, this Court was \u201cunprepared to accept that our society has deteriorated to the point where a holdup at gunpoint does not constitute an \u2018abnormal working condition\u2019 for a food delivery person\u201d).\nSeveral cases have denied a police officer\u2019s claim to benefits where the claimant alleged a mental injury resulting from a mental stimulus. Rydzewski held that an officer who developed a psychological injury following an event where he responded to another officer\u2019s call for assistance where two officers were shot, one later died, and the other became paralyzed was not subject to an extraordinary event or an abnormal working condition. Young held that an officer involved in an armed standoff whereupon he ultimately wrestled the arrestee to the ground was not involved in an extraordinary event or an abnormal working condition.\nIn City of Philadelphia v. Workers\u2019 Compensation Appeal Board (Brasten), 682 A.2d 875 (Pa.Cmwlth.1996)(5ras\u00eden I), a police officer shot and killed a suspect who had barricaded himself in a building. The officer was later indicted on charges of voluntary manslaughter, involuntary manslaughter, and reckless endangerment of another person. The officer was eventually tried and acquitted, but his case drew a lot of media attention. The trial was also subject to public demonstrations. The police officer filed a claim for benefits. He argued that the events that followed the fatal shooting constituted an abnormal working condition. We disagreed finding that:\nAnyone who commits a homicide in this Commonwealth, justifiable or not, should expect to face the consequences stemming therefrom; this includes police of ficers for whom shooting people is an inherent job risk. Indeed, as protectors of the peace, police officers may be subject to an even higher scrutiny, which in this modern age may occur through the media of television, print, radio and even public protest and outcry.\nWe do not doubt that the public and official sentiment Claimant was confronted with after the June 26, 1992 incident was traumatically upsetting to Claimant and resulted in psychological injury. However, we are unable to conclude that his injury was the result of an abnormal working condition. Rather, Claimant's injury is the result of a subjective response to a difficult situation that must be considered to be within the scope of his normal foreseeable working conditions as a police officer.\nBrasten I, 682 A.2d at 879. (Emphasis added).\nPolice officers, however, are not precluded as a matter of law from obtaining benefits for a psychological injury resulting from a mental stimulus. City of Pitts. v. Logan, 570 Pa. 500, 810 A.2d 1185 (2002). The officer in that case was awarded benefits when he developed a mental injury' precipitated by a \u201cvery credible\u201d threat to his life which included a $50,000.00 bounty and death threats to his child at school. Logan, 570 Pa. at 509, 810 A.2d at 1190. The Supreme Court held these incidents were not part of an officer\u2019s normal experience.\nMoreover, a police officer was found to be entitled to workers\u2019 compensation benefits for a mental injury in Borough of Beaver v. Workers\u2019 Compensation Appeal Board (Rose), 810 A.2d 713 (Pa.Cmwlth. 2002). In that case, we held that an officer who was subjected to false accusations by the chief of police, public airing of those accusations, suspension, termination, and stripping of his duties and authority upon reinstatement and deliberate ostracism instigated by the chief was exposed to abnormal working conditions. Per the Court, these events were not inherent in police work, but rather highly abnormal conditions.\nBased on a review of the aforementioned case law, we believe benefits are not allowable in this instance. In order to receive benefits for his PTSD and depression, Claimant was required to show that these injuries resulted from an extraordinary event or abnormal working conditions. Young. Inasmuch as Claimant is employed as a police officer, he is engaged in employment that is by its very nature highly stressful. He may not have a higher burden of proof than someone engaged in a different type of profession, but it will be more difficult for Claimant to establish abnormal working conditions in his job than it may be for others. Id.\nClaimant, who works \u201cin the line of employment\u201d of a police officer, can be expected to be witness to horrible tragedy. This includes, as acknowledged by Claimant, responding to motor vehicle accidents in an emergency capacity. Undoubtedly, in so doing, he may be subjected to traumatic visuals such as injured children, maimed adults, and, unfortunately, death. These events will not be deemed \u201cextraordinary\u201d or \u201cabnormal.\u201d Indeed, it is not beyond the realm of possibility for an officer to have to take someone\u2019s life. Bras-ten I.\nThe instant fact pattern began with the ordinary task of Claimant driving to the station to begin the second leg of his double-back shift. Claimant did strike a woman with his vehicle, but responded to the emergency situation just as he would have responded to any other accident scene. Claimant\u2019s attempt at mouth-to-mouth on a woman who was bleeding from that area may be an unusual event for the average citizen, but it does not appear extraordinary for a police officer. Regrettably, a person dying following a failed attempt at resuscitation is something that can be expected to occur in a police officer\u2019s line of work. But for the part that Claimant was the one who struck the woman with his vehicle, there would be no question that any resulting psychological injury would not be compensable. This fact, however, does not take Claimant\u2019s mental injuries that would ordinarily be noncompensable and render an award of benefits appropriate.\nPsychic injury cases are highly fact sensitive, Agresta, and in this case, the facts do not warrant an award of benefits. We recognize, as Claimant apparently communicated to Dr. Kuhlengel, that the notion of \u201csuicide by cop\u201d is part of a young cadet\u2019s vernacular. Major McDaniel testified to an incident where he had to use lethal force on a man that turned out to be brandishing a toy gun. Major McDaniel even pointed to a situation previously where another officer struck an individual who ran in front of his vehicle. The events that occurred on November 29, 2006 may have been unusual, but they were not so much more stressful and abnormal than the already highly stressful nature of Claimant\u2019s employment to render an award of benefits appropriate. Young. Although Claimant never envisioned an event like this occurring, his testimony is not dispositive. Rydzewski Any mental injury results from an event that was subjectively abnormal for Claimant.\nUnlike in Logan and Borough of Beaver, the events that took place on November 29, 2006 were not above and beyond what would be considered normal working conditions for a state trooper. We further distinguish this matter from Kennelty. In that case, we declined to hold that simply because a delivery person had been robbed at gun point in the past that such armed robberies should be considered a normal working condition for someone in that line of work. Even if Major McDaniel knew of the only other incident where an officer struck another individual with his patrol car, the facts as a whole show the relative \u201cordinary\u201d nature of the events that transpired in this case. Police officers are involved in a highly stressful profession and are required to, and do, respond to emergency situations as part of their duties. Traumatic events are not out of the ordinary for a police officer and, at times, attempts at saving a life fail.\nThe circumstances that resulted in Claimant\u2019s PTSD and depression are tragic. Nonetheless, we are constrained to affirm the order of the Board.\nORDER\nAND NOW, this 6th day of October, 2010, the order of the Workers\u2019 Compensation Appeal Board in the above-captioned matter is AFFIRMED.\n. Claimant's alleged statement is an admission of a party and falls within an exception to the hearsay rule. Pa.R.E. 803(25). An admission of an opposing party can be used as substantive evidence. Alessandro v. Workers' Compensation Appeal Board (Precision Metal Crafters, LLC), 972 A.2d 1245 (Pa. Cmwlth.2009).\n.Certain evidence was presented that could indicate that the woman struck by Claimant's vehicle did not intend to commit suicide at all. Major McDaniel testified that the results of an investigation indicated to him that the woman's mental health issues made her believe she needed to run from \"people in red\u201d and go toward \u201cpeople in green.\" R.R. at 228a. These visions may have made the accident victim dart from one side of the highway to the other.\n. Our review is limited to determining whether an error of law was committed, whether necessary findings of fact are supported by substantial evidence and whether constitutional rights were violated. Gentex Corp. v. Workers' Compensation Appeal Board (Morack), 975 A.2d 1214 (Pa.Cmwlth.2009).\n. Whether the claimant was exposed to abnormal working conditions is a question of law. D\u2019Errico v. Workers\u2019 Compensation Appeal Board (City of Phila.), 735 A.2d 161 (Pa. Cmwlth.1999).\n. In a split decision, the Supreme Court affirmed our decision in Brasten I. City of Phila. v. Workers\u2019 Compensation Appeal Board (Bras-ten), 556 Pa. 400, 728 A.2d 938 (1999)(Brasten II).\n. We acknowledge the factual dispute below as to whether the accident victim attempted to commit suicide. We further recognize that the WCJ resolved this factual issue by concluding that the woman did attempt to commit suicide but it was impossible to tell if she attempted to commit \"suicide by cop.\u201d Our result herein would be the same irrespective of whether the woman who was struck and killed intended to commit suicide, \"suicide by cop,\u201d or was merely running across the highway for an unrelated reason. Police officers are involved in highly stressful situations, including emergency response. The intentions of the accident victim do not affect our analysis.",
+        "type": "majority",
+        "author": "Senior Judge FLAHERTY."
+      }
+    ],
+    "attorneys": [
+      "Quintes D. Taglioli, Allentown, for petitioner.",
+      "James A. Mazzotta, Pittsburgh, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Philip PAYES, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (Commonwealth of PA/State Police), Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs Aug. 6, 2010.\nDecided Oct. 6, 2010.\nQuintes D. Taglioli, Allentown, for petitioner.\nJames A. Mazzotta, Pittsburgh, for respondent.\nBEFORE: McGINLEY, Judge, and SIMPSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0855-01",
+  "first_page_order": 877,
+  "last_page_order": 885
+}

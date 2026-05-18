@@ -1,0 +1,247 @@
+{
+  "id": 7289838,
+  "name": "Keene THOMAS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Thomas v. State",
+  "decision_date": "2010-11-28",
+  "docket_number": "No. 627, 2009",
+  "first_page": "1195",
+  "last_page": "1199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "844 A.2d 982",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9271374
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "987"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/844/0982-01"
+      ]
+    },
+    {
+      "cite": "448 F.3d 239",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6046384
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/448/0239-01"
+      ]
+    },
+    {
+      "cite": "374 A.2d 264",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7992126
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "266-67"
+        },
+        {
+          "page": "267-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/374/0264-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 714",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9087848
+      ],
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/0714-01"
+      ]
+    },
+    {
+      "cite": "457 A.2d 352",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7978493
+      ],
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/457/0352-01"
+      ]
+    },
+    {
+      "cite": "765 A.2d 1257",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11078332
+      ],
+      "pin_cites": [
+        {
+          "page": "1262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/765/1257-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 5,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "21, 30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187462
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0213-01"
+      ]
+    },
+    {
+      "cite": "562 A.2d 1171",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357792
+      ],
+      "pin_cites": [
+        {
+          "page": "1177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/562/1171-01"
+      ]
+    },
+    {
+      "cite": "624 A.2d 926",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7363784
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "930-31"
+        },
+        {
+          "page": "930"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/624/0926-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 619,
+    "char_count": 12775,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 8.40427025289282e-08,
+      "percentile": 0.48264551330984934
+    },
+    "sha256": "003f88e2ebfa33060a78eaf6b16cb8051a90a7252500a8105aa81d1cc5c84591",
+    "simhash": "1:1b3945300f77b550",
+    "word_count": 2003
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+    ],
+    "parties": [
+      "Keene THOMAS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HOLLAND, Justice:\nThe defendant-appellant, Keene Thomas (\u201cThomas\u201d), appeals from his Superior Court convictions of Trafficking in Heroin, Possession with Intent to Deliver a Narcotic Schedule I Controlled Substance, and Possession of a Non-Narcotic Schedule I Controlled Substance. Thomas argues that the Superior Court erred in denying his motion to suppress the evidence seized by the detaining officer, Detective Vincent Jordan, during a pat-down search of Thomas\u2019 person. Thomas contends that the seizure was unlawful because at the time Detective Jordan stopped Thomas and the group he was with, Jordan lacked facts specific to Thomas that would support a reasonable, articulable suspicion that Thomas had been involved in criminal activity. Accordingly, Thomas argues, the evidence obtained as a result of the illegal stop and pat-down search should have been suppressed.\nWe have concluded that Thomas\u2019 argument is without merit. Therefore, the judgment of the Superior Court must be affirmed.\nFacts\nOn January 23, 2009, Detective Janvier of the Wilmington Police Department received a tip from a confidential informant that she had previously worked with about a \u201cblack male by the name of Keene Thomas.\u201d According to the informant, Thomas was approximately 27 or 28 years old and \u201csold heroin from the Riverside Housing Projects as well as from 314 East 23rd Street in Wilmington.\u201d Detective Janvier was told that Thomas would receive a large heroin shipment at the 23rd Street address that day and that he would attempt to sell it as quickly as possible in the Riverside area.\nOn the basis of that information, Detective Janvier set up video surveillance on 314 East 23rd Street. Shortly after 6 pm, Detective Janvier observed Thomas, accompanied by another man, arrive at the home, exit a maroon SUV, and enter the home carrying \u201ca City Blue clothing bag, clothing store bag, and two other smaller bags.\u201d The informant told Detective Jan-vier that Thomas would soon depart from the home and head to a Chinese restaurant near the Riverside Housing Projects with a large quantity of heroin on his person.\nAt approximately 7:20 pm Detective Janvier watched Thomas, wearing dark clothing and a black knit cap, leave the home and get into a \u201cvery old, beat-up green-in-color or dark-in-color Buick.\u201d Detective Janvier, assisted by other police officers, followed Thomas as he drove to a Chinese restaurant located at 27th Street and Northeast Boulevard \u2014 directly across the street from the Riverside Housing Project. En route to Riverside, Detective Janvier radioed for assistance, putting out a general description of both Thomas (identified by name), the vehicle he was riding in, his date of birth, general description, and clothing.\nDetective Jordan of the Wilmington Police Department responded to Detective Janvier\u2019s radio dispatch. Detective Jordan testified that he had the information that a black male matching Thomas\u2019 approximate age, height and weight, wearing dark clothing and a dark cap, was in an automobile heading to the Chinese restaurant at 27th and Northeast Boulevard. When Detective Jordan arrived at the scene, there were several people who matched Thomas\u2019 description standing in front of the restaurant.\nDetective Jordan approached one of the men, who (Detective Jordan later learned) was Thomas, identified himself as a police officer, and informed Thomas that he was conducting an investigation. Detective Jordan testified that he then asked Thomas if he was armed or had any illegal contraband on his person, and that Thomas said that he did not. There is some dispute as to whether or not Thomas consented to the pat-down search that immediately followed these questions.\nDuring the pat-down, Detective Jordan felt a small object which he believed to be drugs. When Thomas was asked about the object, he responded that it was \u201cweed.\u201d Detective Jordan then placed Thomas under arrest. During a subsequent pat-down search, Detective Jordan recovered from Thomas\u2019 pocket another bag containing numerous smaller bags of heroin. In total, 208 bags of heroin (totaling 3.42 grams), one bag of marijuana, and over $1,100 in cash was recovered from Thomas\u2019 person.\nDetective Janvier Had Probable Cause\nDetective Janvier, a 13-year veteran of the Wilmington Police, directly observed Thomas\u2019 movements on January 23, 2009. Those observations corroborated multiple factual representations that were provided to her by a past, proven reliable, informant that Thomas was engaged in selling drugs. Detective Janvier personally observed Thomas behave in precisely the manner the informant predicted. She observed Thomas carrying a number of bags into his home at the time the informant reported that Thomas would be receiving a large shipment of heroin and then leave his home and go toward the Riverside area, a well-known high drug area.\nProbable cause is determined by the totality of the circumstances, as viewed by a reasonable police officer in the light of his or her training and experience. To establish probable cause, the police are only required to present facts which suggest that there is a fair probability that the defendant has committed a crime. Under the totality of the circumstances standard, we hold that Detective Janvier had the requisite probable cause to arrest Thomas at the time he was stopped by Detective Jordan.\nDetective Jordan\u2019s Terry Stop\nThomas challenges the police stop, however, because it was conducted by Detective Jordan rather than by Detective Janvier. Thomas contends that when Detective Jordan stopped Thomas and the group Thomas was with, Detective Jordan lacked the reasonable articulable suspicion that was necessary to conduct the stop. Under Terry v. Ohio, an officer is justified in stopping an individual when the officer possesses a reasonable, articulable suspicion that the individual was committing, had committed, or was about to commit a crime. This Court has recognized that an arresting officer is \u201centitled to rely on information relayed to him through official channels\u201d and that \u201c[t]he arresting officer himself need not be apprised of the underlying circumstances which have risen to a conclusion of probable cause.\u201d\nThis Court has held that a police officer may conduct a Terry stop of an individual who matches the description of a suspect provided to the officer either by a reliable informant or over a police radio broadcast. The description relied upon by Detective Jordan was given by Detective Jan-vier and was broadcast over the police radio. Based on the specific description and location provided, Detective Jordan was justified in stopping Thomas and the other men who also fit the description provided by Detective Janvier\u2019s dispatch. Because Detective Jordan would have been able to stop each man fitting the description individually, it was also permissible and reasonable under the circumstances for Detective Jordan to stop them together and conduct a Terry investigation. We hold that Detective Jordan\u2019s stop of Thomas was proper because he was justified in relying on the police radio report of Detective Janvier.\nInevitable Discovery\nPursuant to title 11, section 1902(a) of the Delaware Code, which codifies the holding in Terry, \u201c[a] peace officer may stop any person abroad, or in a public place, whom the officer has reasonable ground to suspect is committing, has committed or is about to commit a crime, and may demand the person\u2019s name, address, business abroad and destination.\u201d Thomas argues that Detective Jordan made no effort to interact with him or to engage in investigatory questioning pursuant to title 11, section 1902(a) before conducting a pat-down search. Specifically, Thomas argues that Detective Jordan did not ask for his name, address, business abroad and destination, but only whether he was armed and had any alleged contraband on his person.\nThe inevitable discovery exception to the exclusionary rule \u201cprovides that evidence, obtained in the course of illegal police conduct, will not be suppressed if the prosecution can prove that the incriminating evidence \u2018would have been discovered through legitimate means in the absence of official misconduct.\u2019 \u201d In Hardin v. State, this Court held that the drugs found during the search of defendant\u2019s person, and the marijuana found in the car, would have been discovered inevitably following the seizure of the cocaine in plain view in the defendant\u2019s car. Therefore, in Hardin, those drugs were admissible under the inevitable discovery doctrine.\nHere, the Superior Court found that after Thomas was properly stopped, he immediately consented to a pat-down search by Detective Jordan. Thomas argues that the record does not support that finding because Detective Jordan\u2019s testimony was uncertain. However, even if Thomas did not consent to the initial pat-down search before any section 1902(a) questioning by Detective Jordan, the drugs found as a result of that search would have been discovered inevitably by either Detective Jordan or Detective Janvier in a search incident to Thomas\u2019 lawful arrest.\nIf Detective Jordan had conducted the investigatory stop and had asked section 1902(a) questions as Thomas asserts he should have, the evidence of illegal drugs would have been inevitably discovered. If Thomas had identified himself, Detective Jordan would have arrested him because Detective Janvier\u2019s dispatch had identified Thomas by name. A search incident to Thomas\u2019 arrest by Detective Jordan would have revealed the drugs and cash on Thomas\u2019 person.\nSimilarly, section 1902(a) questioning by Detective Jordan would have resulted in Thomas\u2019 arrest by Detective Janvier. Detective Janvier testified that she was following Thomas to the Chinese restaurant along with other officers and \u201cended up being probably 30 seconds, 45 seconds behind.\u201d If Detective Jordan had asked all of the section 1902(a) investigatory questions, as suggested by Thomas, it would likely have taken at least 45 seconds, during which Detective Janvier would have arrived at the scene and arrested Thomas on sight. A search incident to Thomas\u2019 arrest by Detective Janvier would have resulted in the inevitable discovery of the drugs and cash on Thomas\u2019 person.\nConclusion\nThe Superior Court properly denied Thomas\u2019 motion to suppress. The judgments of the Superior Court are affirmed.\n. State v. Maxwell, 624 A.2d 926, 930-31 (Del.1993).\n. Id. at 930.\n. Coleman v. State, 562 A.2d 1171, 1177 (Del.1989) (citing Illinois v. Gates, 462 U.S. 213, 231, 103 S.Ct. 2317, 76 L.Ed.2d 527 (1983)).\n. Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968).\n. Id. at 21, 30, 88 S.Ct. 1868 (1968); Woody v. State, 765 A.2d 1257, 1262 (Del.2001).\n. State v. Cooley, 457 A.2d 352, 355 (Del.1983).\n. See Purnell v. State, 832 A.2d 714, 720 (Del.2003) (officers had reasonable articulable suspicion to stop defendant to investigate reliable informant\u2019s tip that he and another person possessed drugs and handguns; defendant matched description provided by the informant and was in the vicinity stated by the informant); Cook v. State, 374 A.2d 264, 266-67 (Del.1977) (finding that officers had reasonable suspicion to stop the defendants walking in the vicinity of the crime who matched the radio description of the suspects involved in the robbery). In United States v. Brown, the Third Circuit evaluated the reasonableness of a stop based on the report of another police officer. In Brown, the Third Circuit determined that the evidence at issue should have been suppressed because the detaining officer lacked reasonable suspicion. The facts of Thomas\u2019 case, however, are distinguishable from those in Brown. Although Detective Jordan did not personally observe any suspicious behavior, he was acting on the reliable and detailed information provided by Detective Janvier\u2019s police radio broadcast. United States v. Brown, 448 F.3d 239 (3d Cir.2006).\n. See Cook v. State, 374 A.2d 264 (Del.1977).\n. Del.Code Ann. tit. 11, \u00a7 1902(a).\n. Cook v. State, 374 A.2d at 267-68.\n. Hardin v. State, 844 A.2d 982 (Del.2004).\n. Id. at 987. This Court reasoned that because the seizure of the cocaine in plain view from Hardin's car was permissible, the marijuana seized from the car and the drugs found on Hardin\u2019s person were also admissible. Id.\n. Id.",
+        "type": "majority",
+        "author": "HOLLAND, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Santino Ceccotti, Esquire, Office of the Public Defender, Wilmington, Delaware, for appellant.",
+      "James T. Wakley, Esquire, Department of Justice, Wilmington, Delaware, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "Keene THOMAS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 627, 2009.\nSupreme Court of Delaware.\nSubmitted: Sept. 29, 2010.\nDecided: Nov. 28, 2010.\nSantino Ceccotti, Esquire, Office of the Public Defender, Wilmington, Delaware, for appellant.\nJames T. Wakley, Esquire, Department of Justice, Wilmington, Delaware, for ap-pellee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+  },
+  "file_name": "1195-01",
+  "first_page_order": 1221,
+  "last_page_order": 1225
+}

@@ -1,0 +1,313 @@
+{
+  "id": 7285095,
+  "name": "COMMONWEALTH of Pennsylvania v. $9,000 U.S. CURRENCY. Appeal of: Robert Collins",
+  "name_abbreviation": "Commonwealth v. $9,000 U.S. Currency",
+  "decision_date": "2010-11-09",
+  "docket_number": "",
+  "first_page": "379",
+  "last_page": "389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 379"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "749 A.2d 1013",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11533313
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/749/1013-01"
+      ]
+    },
+    {
+      "cite": "858 A.2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9157446
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/858/0160-01"
+      ]
+    },
+    {
+      "cite": "739 A.2d 152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11562546,
+        837197
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/739/0152-01",
+        "/pa/559/0092-01"
+      ]
+    },
+    {
+      "cite": "559 Pa. 92",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837197
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0092-01"
+      ]
+    },
+    {
+      "cite": "698 A.2d 576",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12009121,
+        960503
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "579",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/698/0576-01",
+        "/pa/548/0495-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 495",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960503
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "500-501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0495-01"
+      ]
+    },
+    {
+      "cite": "894 A.2d 154",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8430272
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "161"
+        },
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/894/0154-01"
+      ]
+    },
+    {
+      "cite": "635 A.2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1454664,
+        7360961
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/160/0440-01",
+        "/a2d/635/0233-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8936770,
+        687717
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "529"
+        },
+        {
+          "page": "555"
+        },
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/880/0523-01",
+        "/pa/583/0544-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 544",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687717
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0544-01"
+      ]
+    },
+    {
+      "cite": "607 A.2d 839",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1431686
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/147/0330-01"
+      ]
+    },
+    {
+      "cite": "649 A.2d 658",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        475521,
+        7872763
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "660",
+          "parenthetical": "quoting Commonwealth v. 502-504 Gordon Street, 147 Pa.Cmwlth. 380, 607 A.2d 839, 842 (1992)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0551-01",
+        "/a2d/649/0658-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 551",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "555",
+          "parenthetical": "quoting Commonwealth v. 502-504 Gordon Street, 147 Pa.Cmwlth. 380, 607 A.2d 839, 842 (1992)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1076,
+    "char_count": 29211,
+    "ocr_confidence": 0.724,
+    "pagerank": {
+      "raw": 1.6035107502078474e-07,
+      "percentile": 0.6842761875306244
+    },
+    "sha256": "ddba5e4233d121e6b8919a65c83bd3afd60d5b3fefb57e4a6af82e11ec066c91",
+    "simhash": "1:d76c884e3c72bd6e",
+    "word_count": 4891
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. $9,000 U.S. CURRENCY. Appeal of: Robert Collins."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge LEAVITT.\nRobert Collins appeals an order of the Court of Common Pleas of Cumberland County (trial court) granting the Commonwealth of Pennsylvania\u2019s petition for forfeiture of cash in the amount of $9,000 under the act commonly known as the Controlled Substances Forfeitures Act (Forfeiture Act), 42 Pa.C.S. \u00a7\u00a7 6801-6802. The trial court held that the Commonwealth established a sufficient nexus between the cash and illegal drug trafficking by an ion scan showing trace amounts of cocaine on cash seized from Collins. Concluding that the Commonwealth\u2019s evidence was inadequate to establish a nexus, we reverse.\nThe undisputed facts are as follows. On March 5, 2009, Pennsylvania State Police Corporal Daniel Housel stopped Collins, who was traveling on Interstate 81 in Cumberland County, because of his vehicle\u2019s \u201cexcessively\u201d tinted windows. The vehicle, owned by Collins\u2019 sister, was registered in New York. Collins is a West Virginia resident and was driving to New York at the time of the traffic stop. After doing a computer background check, Corporal Housel learned that Collins\u2019 driver\u2019s license had been suspended and that Collins had once been convicted for possession of marijuana. Collins agreed to a search of the car, first telling Corporal Housel that there was $9,000 in cash in the vehicle. In the glove box, Corporal Housel found $5,000 in cash, and in the driver\u2019s side door pocket he found $4,000 in cash. A State Police \u201cdrug dog\u201d checked the car, alerting at the glove box, indicating that he detected the odor of a controlled substance. However, no controlled substances were found in the glove box or anywhere else in the car.\nIn response to Corporal Housel\u2019s questions about the large amount of cash, Collins replied that an individual, \u201cPaul,\u201d had given him the money to buy a car at the Mason Dixon Auto Auction. When Collins declined to provide Paul\u2019s full name or any contact information, the police seized the cash. After an ion scan found trace amounts of cocaine on the cash, the Commonwealth filed a forfeiture petition.\nAt the hearing on the Commonwealth\u2019s forfeiture petition, Corporal Housel testified. Housel stated that he invited Collins to have \u201cPaul\u201d call the police to discuss the seized cash, but he never heard from Paul. Housel then explained that he contacted the Mason Dixon Auto Auction and was informed that there was no record of Collins having been there. Housel admitted, however, that there would be no record of Collins\u2019 presence at the auto auction unless he had purchased a vehicle. Corporal Housel acknowledged that (i) no narcotics were found in the vehicle or on Collins and (ii) no criminal charges were filed against Collins. Finally, Housel acknowledged that he allowed Collins to continue his trip with only a warning about the tinted windows and for driving with a suspended license.\nThe Commonwealth next presented testimony from State Police Trooper Christopher Manetta. Manetta testified that when he saw that Housel had pulled over a motorist on 1-81, he stopped to offer assistance. While Housel searched the car, Manetta asked Collins why he had such a large sum of cash. Collins first replied that two different people from New York gave him the cash to buy each of them a car. Collins then stated that a person named \u201cPaul,\u201d who owned a car dealership in New York, had given him the cash. Collins said that he had gone to the auto auction but did not find a suitable car to purchase. Manetta confirmed that because Collins refused to provide specific information about \u201cPaul,\u201d the officers decided to seize the cash.\nManetta testified that the seized cash was placed in an evidence locker. The cash was stored together but still bundled as it had been found in the car. One bundle contained $5,000; four separate bundles each contained $1,000. Manetta testified that, in his experience, this manner of bundling cash was consistent with the practices of drug dealers.\nSergeant First Class Frank Jost, who is in charge of ion scan operations in Pennsylvania, also testified for the Commonwealth. He performed an ion scan on the cash seized from Collins on November 9, 2009. Jost explained that an ion scan is like a small vacuum cleaner that is run over the money and captures residue of narcotics present on the money. Jost fanned out the money from all five bundles to test it in the aggregate. The results were positive for \u201ccocaine high\u201d of 875 digital units. Jost explained that cash in circulation typically carries trace amounts of narcotics. By doing ion scans on cash obtained from multiple banks throughout Pennsylvania and averaging the results, the State Police establish a statewide \u201ccasual contact level\u201d for cocaine on cash. For 2007, the casual contact level was 219.29 digital units; in 2008 it was 277.43 digital units. The levels found on Collins\u2019 cash were 3.15 times higher than the casual contact level for Pennsylvania. Based on these ion scan results, Jost opined that Collins\u2019 money had recently been in contact with cocaine.\nOn cross-examination, Jost explained that 875 was a single reading obtained from a single scan done on all the cash. Since he had tested all of it together, he had no way of knowing if some of the bills contained large amounts of cocaine residue and others did not. In other words, it was possible that a single bundle, or single bill, was the one with all of the cocaine residue and that the rest of the cash was free of any cocaine residue, or at least residue well below the statewide casual contact level. Jost also conceded that it was impossible to know how the residue got on the cash. If someone had used cocaine and then handled the cash in a legitimate transaction, the cash would have cocaine residue on it.\nCollins presented the testimony of Richard Paul, Jr., who identified himself as a friend of Collins who resides in Brooklyn, New York. Paul testified that he gave Collins $9,000 in cash to purchase two vehicles at auction because Collins had told him that he knew a place where he could buy cars at a much lower price than at auctions in New York. It was intended that Collins purchase one vehicle for Paul\u2019s personal use and a second vehicle for resale at a profit. Paul is not a car dealer. He works for the City of New York and he earned $35,140 in 2008. Paul testified that he had saved up the $9,000 over a period of approximately 10 years.\nFinally, Collins testified on his own behalf. Collins testified that Paul gave him the $9,000 to buy two vehicles; a van for Paul and a Buick for resale. He went to Mason Dixon Auto Auction on March 3, 2009, but he did not find an appropriate vehicle. Collins explained that he did not give the police officers specific contact information for Paul because Paul was at work when Collins was stopped, and Paul cannot receive calls at work.\nThe trial court granted the forfeiture petition, and Collins appealed to this Court. In its Pa. R.A.P. 1925(a) opinion, the trial court explained that the Commonwealth met its burden of proving a nexus between the $9,000 in cash and a violation of the Controlled Substance, Drug, Device and Cosmetic Act. The evidence supporting the nexus was: (1) the method of bundling the money; (2) the drug dog\u2019s alert; and (3) the ion scan results. The burden then shifted to Collins to prove lawful possession of the money, and he failed to do so because the trial court found Collins\u2019 testimony not to be credible.\nOn appeal, Collins raises one issue for our consideration. Collins argues that the Commonwealth failed to meet its burden of proving a nexus between the $9,000 and illegal drug trafficking. Collins contends that the ion scan tests did not support a finding of cocaine on all the cash. Further, he argues that the manner by which the cash was bundled negates the inference that it was related to drug activity.\nThe Forfeiture Act permits the forfeiture of money if the Commonwealth proves that the money was \u201cfurnished or intended to be furnished ... in exchange for a controlled substance ... [or represents] proceeds traceable to such an exchange ...,\u201d or that the currency was \u201cused or intended to be used to facilitate any violation of [the Controlled Substance, Drug, Device and Cosmetic Act].\u201d 42 Pa. C.S. \u00a7 6801(a)(6)(i)(A), (B). In a forfeiture case, the Commonwealth bears the initial burden of establishing a \u201csufficient or substantial nexus\u201d between unlawful activity and the property subject to forfeiture. Commonwealth v. $2,523.48 U.S. Currency, 588 Pa. 551, 555, 649 A.2d 658, 660 (1994) (quoting Commonwealth v. 502-504 Gordon Street, 147 Pa.Cmwlth. 380, 607 A.2d 839, 842 (1992)). The Commonwealth must prove this nexus by a preponderance of the evidence, i.e., a \u201cmore likely than not\u201d standard. Commonwealth v. $6,425.00 Seized From Esquilin, 583 Pa. 544, 555, 880 A.2d 523, 529 (2005). Circumstantial evidence is sufficient to show a nexus. Id. at 555, 880 A.2d at 530. If the Commonwealth establishes a nexus, then the burden shifts to the person opposing the forfeiture to prove that he owns the money; lawfully acquired the money; and did not use or possess the money for unlawful purposes. Commonwealth v. $16,208.38 U.S. Currency Seized From Holt, 160 Pa.Cmwlth. 440, 635 A.2d 233, 238 (1993).\nAs this Court has observed, forfeiture cases generate a great deal of litigation because they \u201care fact sensitive cases.\u201d Commonwealth v. Three Hundred Ten Thousand Twenty Dollars ($310,020.00) In United States Currency, 894 A.2d 154, 161 (Pa.Cmwlth.2006). An analysis of cases with similar facts is, therefore, appropriate.\nIn Commonwealth v. Marshall, 548 Pa. 495, 698 A.2d 576 (1997), a car was stopped for speeding and all occupants, including Marshall, were ordered out of the car. The officer observed cash stuffed between the seats and recovered a total of $3,400 divided into $100 packets. At the subsequent forfeiture hearing, the Commonwealth presented evidence that Marshall had been unemployed for the previous year and a half; that Marshall and the driver gave inconsistent statements about the ownership of the cash; that the cash was bundled in a manner consistent with drug dealing; and that a drug sniffing dog had alerted on the cash. However, neither drug paraphernalia nor drugs were found in the car, and Marshall had no history of drug charges or convictions.\nOur Supreme Court held that the evidence was insufficient to support a forfeiture because it proved only the \u201cpossibility\u201d or \u201csuspicion\u201d of a nexus between the money and illegal drug activity. Specifically, the Court stated:\n[Although the $3,400.00 was bundled in a way drug dealers have been known to arrange their money, such an arrangement is equally consistent with an innocent person\u2019s attempt to simplify and promote precision in the counting of lawfully obtained funds.\nThe fact that the drug-sniffing dog alerted on the cash is also not dispositive of the issue. A completely innocent citizen of this Commonwealth could have in his or her possession, at any time, currency that happened to be involved in a drug transaction at some unknown time in the past. The fact that on August 10, 1993 [Marshall] found himself in the possession of one, or several, such bills of currency is insufficient to sustain the Commonwealth\u2019s clearly established burden to prove at the outset that the money seized has a nexus to some unlawful activity on the part of [Marshall]. Even when considered in conjunction with all the other facts relied upon by the trial court in this case, the residual presence of drugs on some part of the $3,400.00 in question establishes only the possibility or the suspicion of a nexus between the money and some type of drug activity.\nMarshall, 548 Pa. at 500-501, 698 A.2d at 579 (emphasis added).\nThe Supreme Court reached the same result in Commonwealth v. Fontanez, 559 Pa. 92, 739 A.2d 152 (1999). There, police stopped Fontanez for a traffic violation at 8:30 p.m. in a neighborhood known for drug activity. The police officer spotted an open paper bag containing $2,650 in cash lying on the floor of the car. The officer was also familiar with Fontanez\u2019s and his family\u2019s involvement with drug activity. Fontanez refused to tell the police where he got the cash, which was seized. In addition, a drug dog alerted on the cash. Fontanez was later arrested for transporting drugs in an unrelated incident.\nThe Supreme Court held that the facts in Fontanez were insufficient to support a forfeiture, pointing out that Fontanez was not charged with a crime in relation to the cash, and that the other factors raised nothing more than a suspicion of a nexus. The Court discounted the drug dog\u2019s alert, pointing out that it did not prove whether it was all of the cash, or only a single bill, that had been exposed to narcotics or when the exposure occurred. The Court also stated that\na person stopped for a traffic violation has no obligation to respond to questions asked by an officer apart from statutory obligations to produce a driver\u2019s license, registration, and proof of insurance. Again, although it might arouse suspicions, failure to give an explanation where none is required cannot be construed as evidence of wrongful conduct.\nFontanez, 559 Pa. at 96, 739 A.2d at 155.\nNeither Marshall nor Fontanez involved an ion scan of the seized cash. This Court has had occasion to review the forfeitures of cash based, at least in part, on the results of ion scans. In Commonwealth v. $11,600.00 Cash, U.S. Currency, 858 A.2d 160 (Pa.Cmwlth.2004), police stopped Cristian Maracine because his vehicle had excessively tinted windows. Because Maracine had outstanding warrants for his arrest, he was taken into custody and searched. Police found large bundles of cash in his pants pockets and his coat, which Maracine claimed he had earned and saved from his job at a pizza parlor where he earned $450 a week. Maracine planned to buy a car with the cash. Mara-cine told police that he was carrying $8,000 or $9,000, but it actually turned out to be $11,600. Maracine later stated that his father had loaned him $2,000 of the money. Maracine\u2019s tax return showed that he had earned $3,000 for the entire year. An ion scan on the seized cash showed cocaine readings five times the casual contact level for Pennsylvania.\nThis Court upheld the trial court\u2019s forfeiture order, concluding that the Commonwealth\u2019s evidence supported a finding that the cash was likely related to drug trafficking. We pointed to Maracine\u2019s inconsistent statements about the origin of the cash; his inability to specify the amount of cash in his possession; his lack of evidence that the cash was a loan; his failure to offer a legitimate source for the cash when he earned $3,000 for the year; and the positive ion scan results. We determined that the ion scan results, which Maracine did not challenge or rebut at hearing, distinguished the case from Marshall.\nThe same result was reached in Three Hundred Ten Thousand Twenty Dollars ($310,020.00), 894 A.2d 154. There, Dien Vy Phung was stopped for speeding on the Pennsylvania Turnpike and was found to be carrying $310,020 cash in the trunk of his car wrapped in bundles of $5,000 and $10,000. Phung did not know the amount of the money. Phung\u2019s convoluted explanation of how he came into the possession of over $300,000 in cash in western Pennsylvania began in Canada with side trips to Boston and Northern New Jersey where various unnamed friends and one fianc\u00e9e pressed large sums of cash upon him to be used to purchase a $60,000 nail salon in Pittsburgh. The story was not believed by the fact finder. Phung was later convicted on a drug charge unrelated to the forfeiture. A drug dog alerted on the cash seized, and a subsequent ion scan showed ten to twenty times more cocaine residue on the cash than currency circulating in Boston, Northern New Jersey or Pennsylvania.\nThis Court upheld the forfeiture. It concluded that the large amount of cash; the manner in which it was bundled; and the large amount of cocaine present on the cash established a sufficient nexus. Phung did not rebut the Commonwealth\u2019s case with credible evidence or challenge the ion scan testing procedures before the trial court. We distinguished Marshall and Fontanez because those cases lacked ion scan evidence, which we found to be a \u201cstriking difference\u201d from Phung\u2019s case. Id. at 163.\nHere, in granting a forfeiture of the $9,000, the trial court relied on $11,600.00 Cash and Three Hundred Ten Thousand Twenty Dollars ($310,020.00). It found that the Commonwealth established a nexus existed because of the way the cash had been bundled; the drug dog\u2019s alert; and the ion scan results. Collins argues that his case is distinguishable from the precedent cited by the trial court. In addition, Collins argues that the ion scan results do not support a finding of a nexus for two reasons.\nFirst, Collins points out that the ion scan operator in $11,600.00 Cash explained that had one of the bills been rolled up and used to snort cocaine, it would have a high amount of residue. To eliminate the possibility of a distorted reading, the operator tested the edges of the bills, not the face of the bills. Here, Sergeant Jost offered no such testimony. To the contrary, he testified that he fanned out the bills, which suggests that he tested the face of the bills.\nSecond, Collins points out that Sergeant Jost erred in using the casual contact level for Pennsylvania when there is no evidence that the money in question had circulated in Pennsylvania. Collins is from West Virginia; Paul is from New York; and Collins was merely passing through Pennsylvania when the money was seized. In $11,600.00 Cash, the casual contact level for Pennsylvania was relevant because Maracine lived and worked in Pennsylvania. In Three Hundred Ten Thousand Twenty Dollars ($310,020.00), the Commonwealth introduced evidence on the casual contact levels of cocaine on cash from three states. By contrast, Collins argues, the contact level in Pennsylvania, to which Jost testified, is simply irrelevant.\nThe Commonwealth replies that the totality of the evidence established the requisite nexus between the $9,000 and a violation of the Controlled Substance, Drug, Device and Cosmetic Act. The Commonwealth acknowledges that Sergeant Jost did not opine that none of the bills were used to ingest cocaine; however, the Commonwealth asserts that it had no burden to prove that fact. In reply to the argument that the casual contact level from West Virginia and New York should have been used, the Commonwealth states that the ion scan was really \u201cbut one piece in the link of a chain of the Commonwealth\u2019s evidence.\u201d Commonwealth\u2019s Brief at 8. The Commonwealth argues that all of the evidence, including the drug dog\u2019s alert; Collins\u2019 past drug violation; his conflicting accounts of why he had the money; his refusal to provide contact information for Paul; Paul\u2019s failure to contact the police; the lack of verification that Collins was at Mason Dixon Auto Auction; and the results of the ion scan all establish a sufficient nexus. The Commonwealth posits that Collins\u2019 possession of a large sum of money and his lack of a \u201ccogent story\u201d is sufficient, by itself, to establish a nexus.\nCase law teaches that the ion scan is the crucial piece of evidence in this case. However, Collins\u2019 argument that the ion scan results, as a matter of law, do not support a nexus also has merit. Jost did not testify that none of the bills were used to ingest cocaine, which would distort an aggregate reading. The ion scan operator in $11,600.00 Cash verified that the cocaine level reading came from all of the cash, not just several bills that may have had heavy cocaine residue because they were used to ingest cocaine. Jost, by contrast, did not eliminate the possibility that some of the bills seized were more laden with cocaine or how the cocaine got there. This is problematic. It means that it is entirely possible that most of the cash seized from Collins was free of cocaine residue. This is the type of uncertainty that led the Supreme Court to discount the drug dogs\u2019 alerts in Marshall and Fontanez. Proving the presence of cocaine on cash, by itself, is insufficient to show a nexus between that cash and illegal drug trafficking. An ion scan must show the amount of controlled substance found on the money, and it must be done in a way that eliminates the possibility that only a small number of bills are responsible for the ion scan reading. If it does not, the ion scan is no more probative than a drug dog alert.\nTurning to Collins\u2019 argument about the casual contact level, the issue appears to be a novel one. While Pennsylvania courts have upheld forfeitures based on ion scan results, we have not specifically examined the issue of using casual contact levels for different locations. Collins is correct that the issue was not present in $11,600.00 Cash because Maracine lived and worked in Pennsylvania. The issue was likewise not specifically raised in Three Hundred Ten Thousand Twenty Dollars ($310,020.00). However, the ion scan tester in that case used casual contact levels from Boston and Northern New Jersey because that is where Phung claimed he got some of the money.\nCasual contact levels show the average amount of controlled substances present on cash in circulation in a particular location. In this case, Sergeant Jost used the casual contact level for Pennsylvania, but there was no evidence that the $9,000 seized from Collins ever circulated in Pennsylvania. As such, the casual contact level for Pennsylvania was irrelevant. The casual contact levels from New York and possibly West Virginia should have been identified. Common sense dictates that the casual contact levels from those states are not likely to differ significantly from Pennsylvania\u2019s level. However, the Commonwealth bears the burden of proof, and it was capable of presenting this evidence.\nIn sum, the ion scan evidence in this case does not overcome the problems identified by the Supreme Court in Marshall. Sergeant Jost\u2019s testimony did not eliminate the possibility that the ion scan readings were the result of cocaine residue on a single bill. Without evidence to eliminate this possibility, there is no \u201cstriking difference\u201d between this case and Marshall and Fontanez.\nThe remaining evidence that the Commonwealth points to, such as the dog\u2019s alert, the method of bundling the money, inconsistent statements about the origin of the money and the refusal to give information about Paul, was found insufficient to support a forfeiture in Marshall and Fon-tanez. While Collins does have a prior drug violation, it was for possession of a small amount of marijuana, not for drug trafficking. As for the lack of documentation from the auto auction, the Commonwealth\u2019s own witness, Corporal Housel, admitted that because Collins did not buy a car, there would be no record of him being there.\nThe Commonwealth\u2019s reliance on Collins\u2019 refusal to give contact information for Paul and Paul\u2019s failure to contact the police is of no moment. As our Supreme Court explained in Fontanez, Collins was under no obligation to give the police any information about Paul, and Paul was certainly under no obligation to speak with them. We cannot subscribe to the Commonwealth\u2019s theory that the presence of a large sum of cash coupled with alleged inconsistencies or lack of information in a person\u2019s \u201cstory\u201d are enough to meet its burden of proof. It is not against the law to carry cash, and a citizen has no obligation to speak to the police. The Commonwealth bears the burden of proving that seized cash is more likely than not related to illegal drug trafficking. Here, by using an ion scan reading that did not show whether it was a single bill or all the cash that bore traces of cocaine, the Commonwealth established only a \u201csuspicion of a nexus.\u201d This is inadequate to meet the Commonwealth\u2019s burden of proof. That Collins was found not credible is irrelevant inasmuch as the burden of proof never shifted to him.\nAccordingly, we reverse the order of the trial court.\nPresident Judge LEADBETTER dissents.\nORDER\nAND NOW, this 9th day of November, 2010, the order of the Court of Common Pleas of Cumberland County in the above-captioned case, dated December 4, 2009, is hereby REVERSED.\n. A \"drag dog\u201d is trained to detect marijuana, hashish, cocaine, crack cocaine, heroin and methamphetamines.\n. The Commonwealth offered no explanation for why it took over eight months to perform an ion scan.\n. Sergeant Jost explained that the ion scan has two channels. The first channel goes to 650 units and then a second channel opens to give a more accurate reading. A reading on the second channel is known as \"cocaine high.\u201d\n. Act of April 14, 1972, P.L. 233, as amended, 35 P.S. \u00a7 780-113(a)(30). Section 113(a)(30) of the Controlled Substance, Drug, Device and Cosmetic Act prohibits\nthe manufacture, delivery, or possession with intent to manufacture or deliver, a controlled substance by a person not registered under this act....\n35 P.S. \u00a7 780-113(a)(30).\n. Specifically, the trial court noted that Collins had told Trooper Manetta that Paul was an auto dealer but he actually is not; Collins had not appeared at the auto auction as claimed; neither Collins nor Paul provided meaningful detail about the automobiles to be purchased; and Collins, who had a suspended license, did not explain how he was going to drive the two newly purchased vehicles and his sister\u2019s vehicle back to New York. It is not clear to the Court how this last point bears on credibility. It is self-evident that one individual cannot operate three vehicles simultaneously. However, a call to New York could have provided additional drivers.\n. In an appeal from a forfeiture proceeding, this Court's review is limited to examining whether findings of fact made by the trial court are supported by substantial evidence, and whether the trial court abused its discretion or committed an error of law. Commonwealth v. $11,600.00 Cash, U.S. Currency, 858 A.2d 160, 163 n. 3 (Pa.Cmwlth.2004). The trial court is the fact finder and, as such, is empowered to make credibility determinations and to draw any reasonable inferences from all of the evidence. Id.\n. Collins also argues that the cash was bundled in \"different total currency,\u201d which is not consistent with drug activity. Collins' Brief at 10. It is unclear what he means by this. At any rate, besides testimony that there was one bundle totaling $5,000 and four $1,000 bundles, the record contains no evidence of what types of currency were contained in each bundle.\n. The Forfeiture Act provides in relevant part:\n(a) Forfeitures generally. \u2014 The following shall be subject to forfeiture to the Commonwealth and no property right shall exist in them:\n(6)(i) All of the following:\n(A) Money, negotiable instruments, securities or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance in violation of The Controlled Substance, Drug, Device and Cosmetic Act, and all proceeds traceable to such an exchange. (B) Money, negotiable instruments, securities or other things of value used or intended to be used to facilitate any violation of The Controlled Substance, Drug, Device and Cosmetic Act.\n42 Pa.C.S. \u00a7 6801 (a)(6)(i)(A)-(B).\n. The Court acknowledged that being charged with a crime is not required for a forfeiture, but it nonetheless found the lack of criminal charges to have probative value.\n. See also Commonwealth v. One Thousand Two Hundred and Twenty Dollars ($1,220.00) Cash, 749 A.2d 1013 (Pa.Cmwlth.2000) (holding that pursuant to Marshall and Fontanez, the Commonwealth failed to establish a sufficient nexus between illegal drug activity and $1,220 in cash where the money was bundled consistent with drug dealing: a drug dog alerted on the money; and the person possessing the money had a pager, was under investigation for drugs prior to the seizure, had previously sold drugs to an undercover detective and was in the company of a known drug dealer).\n. On appeal, Phung tried to challenge the admissibility of ion scan results, but we held the issue to be waived because it had not been raised before the trial court.\n. The Commonwealth also contends that Collins did not object at the forfeiture hearing to the ion scan results and, thus, he waived the issue. We disagree. Before the trial court, Collins raised the specific issues of how the ion scan was done and the casual contact levels.\n. The drug dog\u2019s behavior suggests as much. One bundle of $5,000 in cash was in the glove box and the rest of the money was in the driver\u2019s side door pocket. The dog alerted only at the glove box, leading to the presumption that the remaining $4,000 did not contain large amounts of cocaine.",
+        "type": "majority",
+        "author": "Judge LEAVITT."
+      }
+    ],
+    "attorneys": [
+      "Vincent Spadafora, York, for appellant.",
+      "Andrea F. McKenna, Sr. Deputy Attorney General, Harrisburg, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania v. $9,000 U.S. CURRENCY. Appeal of: Robert Collins.\nCommonwealth Court of Pennsylvania.\nArgued June 21, 2010.\nDecided Nov. 9, 2010.\nVincent Spadafora, York, for appellant.\nAndrea F. McKenna, Sr. Deputy Attorney General, Harrisburg, for appellee.\nBEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+  },
+  "file_name": "0379-01",
+  "first_page_order": 405,
+  "last_page_order": 415
+}

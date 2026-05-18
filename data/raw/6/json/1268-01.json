@@ -1,0 +1,375 @@
+{
+  "id": 7290411,
+  "name": "Eddie Anthony STEWARD, Sr., Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Steward v. UNITED STATES",
+  "decision_date": "2010-11-04",
+  "docket_number": "No. 09-CM-279",
+  "first_page": "1268",
+  "last_page": "1274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "840 A.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9289750
+      ],
+      "pin_cites": [
+        {
+          "page": "94-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/0082-01"
+      ]
+    },
+    {
+      "cite": "942 A.2d 645",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8393220,
+        8393309
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "648"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/942/0645-01",
+        "/a2d/942/0645-02"
+      ]
+    },
+    {
+      "cite": "821 A.2d 895",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9138111
+      ],
+      "pin_cites": [
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/821/0895-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 896",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11476292
+      ],
+      "pin_cites": [
+        {
+          "page": "899"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0896-01"
+      ]
+    },
+    {
+      "cite": "999 A.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7285144
+      ],
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/999/0063-01"
+      ]
+    },
+    {
+      "cite": "499 A.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7933872
+      ],
+      "pin_cites": [
+        {
+          "page": "833"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/499/0815-01"
+      ]
+    },
+    {
+      "cite": "613 A.2d 342",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11734876
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/613/0342-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11468750
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "296"
+        },
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0289-01"
+      ]
+    },
+    {
+      "cite": "993 A.2d 544",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289404
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "556"
+        },
+        {
+          "page": "556"
+        },
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/993/0544-01"
+      ]
+    },
+    {
+      "cite": "529 A.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12034850
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "794"
+        },
+        {
+          "page": "794-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/529/0791-01"
+      ]
+    },
+    {
+      "cite": "564 A.2d 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11318536
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "374"
+        },
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/564/0372-01"
+      ]
+    },
+    {
+      "cite": "970 A.2d 269",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7332582,
+        7332535
+      ],
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/970/0269-02",
+        "/a2d/970/0269-01"
+      ]
+    },
+    {
+      "cite": "450 A.2d 428",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7975914
+      ],
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/450/0428-01"
+      ]
+    },
+    {
+      "cite": "995 A.2d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7287407
+      ],
+      "pin_cites": [
+        {
+          "page": "216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/995/0212-01"
+      ]
+    },
+    {
+      "cite": "683 A.2d 1087",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872525
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1098"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/1087-01"
+      ]
+    },
+    {
+      "cite": "331 F.2d 85",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        132659
+      ],
+      "weight": 2,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/331/0085-01"
+      ]
+    },
+    {
+      "cite": "118 U.S.App.D.C. 11",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1964,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 770,
+    "char_count": 17815,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 5.12982294956584e-08,
+      "percentile": 0.32342696427475115
+    },
+    "sha256": "5b6e8624d22c40ff2d714d955205ad4308cd5d35bcf1fa667c57571ab0a7713f",
+    "simhash": "1:4c6147236f2f46fe",
+    "word_count": 2924
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WASHINGTON, Chief Judge, and REID and FISHER, Associate Judges. '"
+    ],
+    "parties": [
+      "Eddie Anthony STEWARD, Sr., Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "WASHINGTON,\nChief Judge:\nEddie Steward appeals from his conviction on one count of misdemeanor sexual abuse of his fifteen-year-old stepdaughter, M.B. On appeal, Steward contends (1) that evidence of alleged prior incidents of sexual contact between Steward and M.B. was improperly admitted at trial, and (2) that the trial court erred by denying his motion for a judgment of acquittal. We hold that the trial court properly admitted evidence of Steward\u2019s prior crimes and also properly denied Steward\u2019s motion for a judgment of acquittal, and therefore we affirm the trial court\u2019s rulings.\nI.\nIn a bench trial before Judge Erik P. Christian, evidence presented established that Eddie Steward resided with L.H., his fianc\u00e9e, and her children for approximately thirteen years. Some of these children, including R.B., were L.H.\u2019s children from previous relationships, but they all considered Steward to be their stepfather even though Steward and L.H. were not married.\nOn the morning of October 26, 2007, R.B. was standing at the top of the staircase of the family\u2019s home, and Steward, wearing shorts and no shirt, brushed past her and touched the top of her buttocks with his penis (the \u201cOctober 26 incident\u201d). At her boyfriend\u2019s suggestion, R.B. met with a youth counselor, Margaux Delotte-Bennett, after this incident. R.B. told De-lotte-Bennett what happened at the top of the stairs and also told her that Steward had sexually abused her since she was a young child. Delotte-Bennett reported this information to the police, and Detective William Weeks investigated. R.B. told Weeks about the October 26 incident as well as numerous other more serious episodes of sexual contact by Steward throughout her childhood. As a result of this investigation, the government filed an Information charging Steward with three counts of misdemeanor sexual abuse \u2014 one for the October 26 incident, and two for other events that occurred in prior years.\nPrior to trial, two of the three counts (the counts alleging incidents other than that of October 26) were dismissed based upon the applicable statute of limitations. In a pretrial hearing, the government sought the trial court\u2019s permission to introduce evidence of the sexual contact that formed the basis of the two dismissed counts to show motive, identity, absence of mistake, and common scheme or plan under Drew v. United States, 118 U.S.App.D.C. 11, 331 F.2d 85 (1964), and as evidence of Steward\u2019s intent under Johnson v. United States, 683 A.2d 1087 (D.C.1996) (en banc). The trial court admitted this evidence under both cases.\nAt trial, R.B. testified as to the October 26 incident as well as incidents of Steward\u2019s inappropriate sexual contact from her childhood. She testified that Steward had been brushing against her for years and that, when she was about nine years old, Steward would wake her up at night and touch her inappropriately a few times a week. The touchings ranged from fondling R.B.\u2019s breasts to forcing her to sit on his lap and moving her until he ejaculated. R.B. testified that on one occasion, Steward attempted to put his penis inside of her vagina, stopping when R.B. told him that it was painful. According to R.B., Steward would sometimes pay her in exchange for letting him touch her and told R.B. not to tell her mother about any of this behavior.\nSteward denied ever abusing R.B. and testified that he did not remember anything noteworthy about the morning of October 26. He stated that R.B. fabricated her allegations of sexual conduct in retaliation against Steward because he had recently kicked R.B.\u2019s boyfriend out of the Steward/H. home.\nThe trial court credited R.B.\u2019s testimony, finding her \u201cfocused\u201d in the face of tough questions and noting that she did not embellish the incident even when she had the opportunity to do so. The trial court also found that R.B.\u2019s reports to Weeks and the youth counselor corroborated her trial testimony. In contrast, the trial court discredited Steward\u2019s testimony about the October 26 incident. Most shocking to the trial court was that on all other topics besides the October 26 incident, Steward provided \u201cmore [information] than was necessary,\u201d whereas he merely stated that he could not recall what happened at the top of the stairs on October 26. Indicating that this response \u201cshook\u201d the court, the trial court ultimately found Steward guilty of one count of misdemeanor sexual abuse based upon the October 26 incident.\nII.\nSteward first argues that evidence of his prior sexual conduct with R.B. was improperly admitted under Drew v. United States, supra, and Johnson v. United States, supra. Because we hold that the evidence was properly admitted under the more stringent analysis of Drew and its progeny, we affirm the trial court\u2019s admission of evidence of Steward\u2019s prior sexual contact with R.B. without reaching its admissibility under Johnson.\nSince Steward made a timely objection to the introduction of the prior crimes evidence, we review the trial court\u2019s admission of that evidence for abuse of discretion. See Riddick v. United States, 995 A.2d 212, 216 (D.C.2010). It is fundamental to our criminal justice system that evidence that a defendant committed one crime may not be admitted to permit an inference that because the defendant has a general propensity to commit crime, he is guilty of the crime charged. See, e.g., Campbell v. United States, 450 A.2d 428, 430 (D.C.1982). However, evidence of pri- or crimes is admissible if it is relevant for purposes other than to show propensity towards criminality, such as to show: (1) motive, (2) intent, (3) the absence of mistake or accident, (4) a common scheme embracing the commission of two or more crimes so related to each other that proof of one tends to establish the other, or (5) the identity of the person charged with the crime on trial. Drew, supra, 331 F.2d at 89. When the evidence is relevant to one of these issues, it is \u201cgenerally conceded that the prejudicial effect may be outweighed by the probative value,\u201d particularly when introduced during a bench trial. Id.; Bacchus v. United States, 970 A.2d 269, 276 (D.C.2009). In the absence of a final adjudication that the appellant was guilty of the prior crimes, the trial court may only admit the evidence of the prior crimes if the prosecution can \u201cshow by clear and convincing evidence that the other crime occurred and that the [appellant] is connected to it.\u201d Groves v. United States, 564 A.2d 372, 374 (D.C.1989).\nIn addition to the five bases enumerated in Drew, we identified a narrow sixth basis upon which evidence of prior crimes is admissible in a criminal trial in Pounds v. United States, 529 A.2d 791 (D.C.1987). In Pounds, we held that in the context of criminal prosecutions for sexual offenses, \u201cevidence of a history of sexual abuse of the complainant by the defendant may be admissible on the theory of predisposition to gratify special desires with that particular victim.\u201d Id. at 794. We recently revisited this Pounds exception in Koonce v. United States, 993 A.2d 544, 556 (D.C.2010), in which we delineated the boundaries of this narrow Pounds exception. Under Koonce, evidence of a defendant\u2019s prior sexual offenses is admissible when:\n(1) the sexual abuse involves the defendant and the same victim; (2) the relationship between the alleged abuser and the victim ... approximates a close familial connection; (3) the pattern of sexual abuse started when the victim was very young and occurred at reasonably short and regular intervals without meaningful interruption; and (4) the evidence is pivotal to the prosecution\u2019s case because proof of context is required.\nId. at 556. Because the prior crime evidence in this case involves Steward\u2019s prior sexual offenses, we evaluate its admissibility under this framework. Mindful of our caveat in Pounds against \u201cembracing an expansion of the [Pounds exception]\u201d because \u201ca jury will tend to accord far too much weight to an accused\u2019s past misdeeds,\u201d 529 A.2d at 794 n. 3, we nevertheless hold that the evidence of Steward\u2019s prior sexual contact with R.B. is squarely within the parameters of our explication in Koonce of that narrow exception, and therefore the trial court did not abuse its discretion by admitting the evidence at trial.\nSteward\u2019s prior sexual contact with R.B. satisfies the first two prongs of the Koonce analysis because all of the alleged contact was between R.B. and Steward, whom R.B. considers to be her stepfather. In Graham v. United States, 746 A.2d 289, 296 (D.C.2000), we held that a close familial relationship was sufficient to permit evidence of prior sexual abuse when the defendant was the victim\u2019s mother\u2019s boyfriend and had lived in the family home with the victim since the victim was one year old. This is nearly identical to the instant case, where Steward was R.B.\u2019s mother\u2019s fianc\u00e9 and had lived in the home with R.B. and her mother since R.B. was approximately two years old. R.B. herself testified that she considered Steward her stepfather and that she had known Steward for all of her life. Thus, a sufficiently close familial relationship existed between Steward and R.B. to satisfy the first two prongs of-the Koonce analysis.\nBased upon R.B.\u2019s testimony regarding the frequent and continuous nature of Steward\u2019s sexual contact with her, this evidence also satisfies Koonce\u2019s third prong requiring that the prior abuse start when R.B. was very young and occur at reasonably frequent intervals without meaningful interruption. See Koonce, supra, 993 A.2d at 556. In Koonce, we held that there was not a sufficiently continuous pattern of sexual contact between the defendant and the victim since there was a \u201cconsiderable break ... lasting somewhere between eighteen months and just under three years, without any evidence that any abuse took place in the interim.\u201d Id. In contrast, we admitted evidence of prior abuse in Graham when the defendant engaged in intercourse with the victim \u201con a weekly or monthly basis\u201d beginning when she was six years old. Graham, supra, 746 A.2d at 290. The instant case is much closer to the situation in Graham than that in Koonce. Here, R.B. testified that Steward had made sexual contact with her in one form or another \u201ctwo or three times a week\u201d for approximately eight years, beginning when she was \u201ceight or nine years old\u201d and culminating with the October 26 incident, at which time R.B. was fifteen years old. Because this behavior began when R.B. was very young and continued without meaningful interruption for years, the evidence of Steward\u2019s prior sexual contact with R.B. satisfies Koonce\u2019s third prong.\nFinally, because evidence of the prior sexual contact was integral to the prosecution\u2019s case as proof of Steward\u2019s intent on October 26, which is an essential element of the crime with which he was charged, this evidence satisfies the fourth Koonce prong as well. In Pounds, we held that the evidence of the appellant\u2019s prior sexual abuse of the victim was pivotal to a determination of guilt or innocence because \u201ccertain facts would remain inexplicable\u201d without information about the prior abuse. 529 A.2d at 794-95. Here, the same is true \u2014 without information about Steward\u2019s history of sexual contact with R.B., it would be impossible to explain why R.B. felt the need to tell her boyfriend or the youth counselor about the October 26 incident. Additionally, the prosecution would not be able to prove Steward\u2019s intent to gratify his sexual desires by brushing across R.B. on October 26 without establishing that Steward had a history of abusing R.B. for that very purpose.\nSince the evidence of Steward\u2019s pri- or sexual contact with R.B., for which he was never adjudicated guilty, satisfies each of the four prongs of Koonce, it is admissible so long as the prosecution can establish those crimes by clear and convincing evidence. See Groves, supra, 564 A.2d at 374. To do so, the prosecution must show that \u201cthe evidence that it proposes to present during the trial would, if believed, clearly and convincingly establish that the crime charged occurred and the [appellant was] connected to it.\u201d Daniels v. United States, 613 A.2d 342, 347 (D.C.1992). In sexual abuse cases, the testimony of the victim need not be corroborated to prove a defendant guilty beyond a reasonable doubt, much less by clear and convincing evidence. See Gary v. United States, 499 A.2d 815, 833 (D.C.1985) (en banc). Assuming R.B.\u2019s testimony is believed, she expressly indicated that Steward sexually abused her on multiple occasions beginning when she was eight or nine years old. Additionally, as the trial court found, her trial testimony was in fact corroborated by the testimony of both Delotte-Bennett and Weeks, each of whom described discussions with R.B. about the prior incidents of abuse. Thus, we are satisfied that the prosecution met its burden of establishing by clear and convincing evidence that the prior crimes occurred and that Steward was connected to them.\nIn sum, because the evidence of Steward\u2019s prior sexual contact with R.B. satisfies each of the four prongs of Koonce and because the prosecution established these crimes by clear and convincing evidence, the trial court did not abuse its discretion by admitting this evidence under Drew and its progeny. Accordingly, we affirm.\nIII.\nSteward next contends that the trial court erred by denying his motion for a judgment of acquittal because the government did not present sufficient evidence of each of the elements of misdemeanor sexual abuse to convict him beyond a reasonable doubt. We review a ruling on a motion for a judgment of acquittal de novo and must \u201cdeem the proof of guilt sufficient if, after viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.\u201d Cox v. United States, 999 A.2d 63, 68 (D.C.2010) (citation omitted). \u201cAt a minimum, this means that the government must present \u2018at. least some probative evidence on each of the essential elements of the crime.\u2019 \u201d Price v. United States, 746 A.2d 896, 899 (D.C.2000) (citation omitted). \u201cThe evidence need not compel a finding of guilt beyond a reasonable doubt. Instead, the evidence must merely be sufficient to allow a finding of guilt beyond a reasonable doubt by a reasonable fact finder, making no distinction between direct and circumstantial evidence.\u201d Guzman v. United States, 821 A.2d 895, 897 (D.C.2003) (citation omitted). This review gives \u201cfull play to the right of the fact finder to determine credibility, weigh the evidence, and draw justifiable inferences of fact.\u201d Thomas v. District of Columbia, 942 A.2d 645, 648 (D.C.2008) (citation omitted).\nIn the instant case, the government must prove that Steward engaged in sexual contact with R.B. and knew or had reason to know that he did so without her permission. See D.C.Code \u00a7 22-3006 (2001). \u201cSexual contact\u201d is defined as \u201cthe touching with any clothed or unclothed body part or any object, either directly or through the clothing, of the ... buttocks of another person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.\u201d Id. \u00a7 22-3001(9).\nAfter reviewing the evidence presented at trial, we are satisfied that the government presented sufficient evidence that Steward improperly touched R.B.\u2019s buttocks without her permission and did so with the intent to abuse, humiliate, harass, degrade, or arouse or gratify his sexual desire. R.B. testified at trial that, at the top of the staircase on October 26, Steward \u201cbrushed across\u201d her back, at which time his penis touched \u201cthe top part of [her] butt\u201d and she told him to \u201cmove.\u201d She also testified that she was \u201ctired\u201d of him brushing up against her in this manner because it had happened \u201ca couple of days a week\u201d for years. Additionally, R.B. testified that for a number of years earlier in her childhood, Steward would touch her inappropriately and engage her in other activities that seemed to sexually arouse him. She further testified that on one occasion he even attempted to have sexual intercourse with her. Based upon this pattern of prior sexual contact with R.B., a reasonable fact finder, taking all inferences in the light most favorable to the government, could infer that on October 26, Steward intended to gratify his sexual desire by placing his penis on R.B.\u2019s buttocks, knowing that he did not have her permission to do so. Thus, we are satisfied that the trial court properly denied Steward\u2019s motion for a judgment of acquittal.\nIV.\nAccordingly, we affirm the trial court\u2019s denial of Steward\u2019s motion for a judgment of acquittal and its admission of the evidence of Steward\u2019s prior sexual contact with R.B.\nSo ordered.\n. Although we do not today reach the issue of the admissibility of this same evidence under Johnson since the evidence is admissible under the more rigorous analysis we explicated in Drew, Pounds, and Koonce, it is possible that this evidence also may have been admissible under Johnson either as \"direct and substantial proof of the charged crime\u201d or as evidence \"necessary to place the charged crime in an understandable context.\u201d See Johnson, supra, 683 A.2d at 1098; Brown v. United States, 840 A.2d 82, 94-95 (D.C.2004).",
+        "type": "majority",
+        "author": "WASHINGTON,"
+      }
+    ],
+    "attorneys": [
+      "Michael L. Spekter, Washington, DC, was on the brief for appellant.",
+      "Ronald C. Machen Jr., United States Attorney, Roy W. McLeese III, Mary B. McCord, and Dorann E. Banks, Assistant United States Attorneys, were on the brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Eddie Anthony STEWARD, Sr., Appellant, v. UNITED STATES, Appellee.\nNo. 09-CM-279.\nDistrict of Columbia Court of Appeals.\nSubmitted Sept. 21, 2010.\nDecided Nov. 4, 2010.\nMichael L. Spekter, Washington, DC, was on the brief for appellant.\nRonald C. Machen Jr., United States Attorney, Roy W. McLeese III, Mary B. McCord, and Dorann E. Banks, Assistant United States Attorneys, were on the brief for appellee.\nBefore WASHINGTON, Chief Judge, and REID and FISHER, Associate Judges. '"
+  },
+  "file_name": "1268-01",
+  "first_page_order": 1314,
+  "last_page_order": 1320
+}

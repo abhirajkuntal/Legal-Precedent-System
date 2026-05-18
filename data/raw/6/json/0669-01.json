@@ -1,0 +1,280 @@
+{
+  "id": 7288035,
+  "name": "Michael G. LUTZ, Lodge No. 5 of the Fraternal Order of Police, Through its Trustee Ad Litem, John McNesby; Christine O'Shea, Nadine Crawford, Kenneth Fleming and Edward Spangler v. CITY OF PHILADELPHIA and Philadelphia Newspapers, LLC and Wendy Ruderman Appeal of: City of Philadelphia",
+  "name_abbreviation": "Lutz v. City of Philadelphia",
+  "decision_date": "2010-10-22",
+  "docket_number": "",
+  "first_page": "669",
+  "last_page": "676",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 669"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "544 A.2d 1305",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1811652,
+        1811638
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0555-01",
+        "/pa/518/0556-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 556",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811638
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0556-01"
+      ]
+    },
+    {
+      "cite": "246 A.2d 840",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "\"There is a prima facie presumption of the regularity of the acts of public officials which exists until the contrary appear....\""
+        },
+        {
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "431 Pa. 600",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917405
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "\"There is a prima facie presumption of the regularity of the acts of public officials which exists until the contrary appear....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/431/0600-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 813",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7290660
+      ],
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/990/0813-01"
+      ]
+    },
+    {
+      "cite": "462 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        485210
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "469"
+        },
+        {
+          "page": "478"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/462/0464-01"
+      ]
+    },
+    {
+      "cite": "848 A.2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9246659
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "183"
+        },
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/848/0178-01"
+      ]
+    },
+    {
+      "cite": "828 A.2d 995",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9107810,
+        197230
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1000"
+        },
+        {
+          "page": "1001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/828/0995-01",
+        "/pa/573/0637-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 637",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197230
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "645"
+        },
+        {
+          "page": "646-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0637-01"
+      ]
+    },
+    {
+      "cite": "2 A.3d 558",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7288292,
+        4198647
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "PSEA"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/2/0558-01",
+        "/pa/606/0638-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 383",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292836
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/981/0383-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 900,
+    "char_count": 20660,
+    "ocr_confidence": 0.721,
+    "pagerank": {
+      "raw": 1.6607784919111898e-07,
+      "percentile": 0.6942294705212543
+    },
+    "sha256": "20c0d889918acdbda8e230c3fe3411a8d620f95104772420d5ba1b27fbb36964",
+    "simhash": "1:1feba30e67519ff8",
+    "word_count": 3255
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: PELLEGRINI, Judge, and LEAVITT, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "Michael G. LUTZ, Lodge No. 5 of the Fraternal Order of Police, Through its Trustee Ad Litem, John McNesby; Christine O\u2019Shea, Nadine Crawford, Kenneth Fleming and Edward Spangler v. CITY OF PHILADELPHIA and Philadelphia Newspapers, LLC and Wendy Ruderman Appeal of: City of Philadelphia."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge LEAVITT.\nThe City of Philadelphia appeals an order of the Court of Common Pleas of Philadelphia County granting, in part, a preliminary injunction in favor of the Fraternal Order of Police, Lodge No. 5 (Union). The injunction effectively prohibited the City from granting a news organization\u2019s request for access to police grievance arbitration awards under the Right-to-Know Law. Because Union failed to demonstrate the \u201cclear right to relief\u2019 necessary for a preliminary injunction, we will reverse the trial court\u2019s order.\nIn July 2009, Wendy Ruderman, an employee of Philadelphia Newspapers LLC, submitted a request to the City under the Right>-to-Know Law to review \u201call arbitration awards, including written decisions by arbitrators, pertaining to police officers in the years 2005, 2006, 2007, 2008 through the present.\u201d Reproduced Record at 119 (R.R._) The City reviewed Philadelphia Newspapers\u2019 request and identified 187 arbitration decisions of varying lengths and formats that were subject to the request. The City planned to provide redacted copies of these documents.\nUpon learning of the City\u2019s plan, Union filed a complaint for declaratory judgment and petition for injunctive relief with the trial court. Union sought, inter alia, an order preliminarily enjoining the City from disclosing any portion of any arbitration decision in response to Philadelphia Newspapers\u2019 Right-to-Know request. Union averred that the documents contain sensitive information related to the function, performance and duties of police officers, which, if released to the public, could jeopardize the safety of officers and their ability to effectively perform their duties. Union further averred that the documents may contain personal information about individual officers and their off-duty conduct which, if released to the public, could threaten the security of the officers and their families. Union believes that the arbitration decisions are the private property of the City and Union, and that the real interested individuals, i.e., the griev-ant police officers, have no means to restrict access to the information in the records or appeal a decision by the City to release any or all of that information.\nOn August 81, 2009, the trial court held a hearing on Union\u2019s request for injunctive relief. Philadelphia Newspapers sought, and was permitted, to intervene. No witnesses testified. However, the trial court directed the City to provide it with copies of the grievance arbitration decisions at issue. At a second hearing on September 14, 2009, John McGrody, the Union\u2019s vice president in charge of arbitration and grievance procedure, testified on behalf of Union.\nMcGrody offered several reasons to support Union\u2019s position that no portion of an arbitration decision should be released to the public. For example, the American Arbitration Association has not adopted guidelines for the format of an arbitrator\u2019s written decision. As a result, some arbitrators may include facts in the actual award, while others may simply state \u201cgrievance denied.\u201d Because of this inconsistency in the factual content of the decisions, Union members are concerned about the inadvertent release of factual informa-, tion that could jeopardize their own or their families\u2019 personal safety. Such information includes the officers\u2019 home addresses, names of their family members, ages and dates of birth of their children, and what schools their children attend. McGrody stated that \u201ca lot of our police officers have received threats over the years, and those threats ... have extended to the families of police officers.\u201d R.R. 52. McGrody explained that arbitration decisions related to staffing issues can contain sensitive information about manpower, deployment and work hours of specific groups of officers, such as narcotics and undercover units. Further, if a grievance relates to financial irregularities, then an officer\u2019s date of birth, social security number and other identifying factors may be placed into evidence. Finally, McGrody posited that grievances may involve discipline for off-duty conduct that is unrelated to an officer\u2019s employment by the City.\nOn September 28, 2009, the trial court granted partial injunctive relief in favor of Union. The trial court ordered the City to comply with Philadelphia Newspapers\u2019 request for records by providing a summary of each arbitration award that included only the following information:\n(1) the date the arbitration award was issued;\n(2) the name of the arbitrator; and\n(3) whether the grievance was affirmed or denied.\nThe order enjoined the City from releasing all other information, including the name of the police officer and any description of the nature of the grievance or the remedy awarded.\nThe trial court reasoned that its injunction was tailored to prevent disclosure of information protected from public access by several provisions in the Right-to-Know Law. First, the trial court cited the exemption in Section 708(b)(7) of the Law, for \u201c[w]ritten criticisms of an [agency] employee,\u201d and \u201c[gjrievance material, including documents related to discrimination or sexual harassment.\u201d 65 P.S. \u00a7 67.708(b)(7). Next, the trial court cited the exemption in Section 708(b)(8) of the Law for \u201can exhibit entered into evidence at an arbitration proceeding, a transcript of the arbitration or the opinion.\u201d 65 P.S. \u00a7 67.708(b)(8). Finally, the trial court cited Section 708(b)(l)(ii), which exempts release of requested records that \u201cwould be reasonably likely to result in a substantial and demonstrable risk of physical harm to or the personal security of an individual\u201d police officer and his or her family. 65 P.S. \u00a7 67.708(b)(l)(ii). The trial court reasoned that the vagueness of Philadelphia Newspapers\u2019 request, the lack of a standard format in the arbitration decisions, and the City\u2019s willingness to release information without Union\u2019s involvement, created a potential risk to the police officers\u2019 constitutional right of privacy identified in Pennsylvania State Education Association ex rel. Wilson v. Department of Community and Economic Development, Office of Open Records, 981 A.2d 383 (Pa.Cmwlth.2009), affirmed, 2 A.3d 558 (2010) (PSEA) (single-judge opinion preliminarily enjoining Commonwealth from disclosing home addresses of public school employees).\nThe City now appeals the trial court\u2019s order, arguing that Union failed to satisfy the prerequisites for a preliminary injunction. More specifically, the City argues that Union did not demonstrate a clear right to relief and a reasonable likelihood that it would prevail on the merits. We agree.\nIn reviewing an order granting or denying a preliminary injunction, we apply a deferential abuse of discretion standard. Summit Towne Centre, Inc. v. Shoe Show of Rocky Mount, Inc., 573 Pa. 637, 645, 828 A.2d 995, 1000 (2003). \u201cOnly if it is plain that no grounds exist to support the decree or that the. rule of law relied upon was palpably erroneous or misapplied will we interfere with the decision of the [trial court].\u201d Lee Publications, Inc. v. Dickinson School of Law, 848 A.2d 178, 183 (Pa.Cmwlth.2004) (quoting Roberts v. Board of Directors of School District of City of Scranton, 462 Pa. 464, 469, 341 A.2d 475, 478 (1975)). A trial court has \u201creasonable grounds\u201d for a preliminary injunction where each prerequisite has been satisfied. Lee Publications, Inc., 848 A.2d at 189. The prerequisites for a preliminary injunction are well established. The petitioner must prove that:\n(1) an injunction is necessary to prevent immediate and irreparable harm that cannot be adequately compensated by damages;\n(2) greater injury would result from refusing an injunction than from granting it, and the issuance of the injunction will not substantially harm other interested parties;\n(3) an injunction will properly restore the parties to their status as it existed prior to the alleged wrongful conduct;\n(4) the activity the petitioner seeks to restrain is actionable, the right to relief is clear, and success on the merits is likely;\n(5) the injunction is reasonably suited to abate the offending activity; and,\n(6) an injunction will not adversely affect the public interest.\nSummit Toume Centre, Inc., 573 Pa. at 646-47, 828 A.2d at 1001.\nThe Right-to-Know Law establishes that \u201c[a] record in the possession of a Commonwealth agency or local agency shall be presumed to be a public record\u201d unless exempted by operation of law or privilege. Section 305(a) of the Right-to-Know Law, 65 P.S. \u00a7 67.305(a). Accordingly, \u201c[u]nless otherwise provided by law, a public record ... shall be accessible for inspection and duplication in accordance with [the Right-to-Know Law].\u201d Section 701(a) of the Right-to-Know Law, 65 P.S. \u00a7 67.701(a). From this broad universe of accessible public records, Section 708 identifies discrete categories of information that are exempted from disclosure. The trial court focused on three of these Section 708 exemptions in its analysis. We consider them seriatim.\nThe first and most obviously relevant exemption pertains to records related to labor arbitration proceedings. Section 708(b)(8) of the Right-to-Know Law exempts the following records from public access:\nIn the case of the arbitration of a dispute or grievance under a collective bargaining agreement, an exhibit entered into evidence at an arbitration proceeding, a transcript of the arbitration or the opinion. This subparagraph shall not apply to the final award or order of the arbitrator in a dispute or grievance procedure.\n65 P.S. \u00a7 67.708(b)(8)(h) (emphasis added).\nThe trial court cited the first sentence in the above provision and concluded that \u201c[t]he inconsistent format of the Arbitration decisions requires a clear and precise redaction as set forth in this court\u2019s Order.\u201d Trial Court Opinion at 5. However, the trial court completely disregarded the second sentence of Section 708(b)(8)(h), which specifies that the exemption for an arbitrator\u2019s opinion does not apply to \u201cthe final award or order of the arbitrator.\u201d 65 P.S. \u00a7 67.708(b)(8)(h). This was error by the trial court. The legislature intended access more meaningful than a \u201cscorecard\u201d of the City\u2019s wins and losses in grievance arbitrations, which is the only access permitted under the trial court\u2019s preliminary injunction. This narrow access runs afoul of the well settled tenet that the Right-to-Know Law\u2019s \u201cexemptions from disclosure must be narrowly construed\u201d because it is remedial legislation. Bowling v. Office of Open Records, 990 A.2d 813, 824 (Pa. Cmwlth.2010).\nEchoing the trial court\u2019s rationale, Union argues that because each arbitrator uses his or her own format in drafting a decision, it will be impossible to separate the \u201copinion,\u201d which is exempt from disclosure, from the \u201cfinal award or order\u201d that is open to access. Union believes that the inevitable consequence will be disclosure of sensitive information contained in the award, such as officers\u2019 home addresses, social security numbers, information about spouses and children, and police staffing information. We do not agree. Our review of the arbitration awards reveals that the final award or order of the arbitrator is usually separated from the opinion, either on its own page or in a stand alone paragraph. There may be cases where that boundary is blurred, or factual information is included in the legal conclusions and relief awarded. Nevertheless, Union does not explain why the City will be unable or unwilling to redact protected and sensitive information, such as information about family members, from the requested award.\nIndeed, the Right-to-Know Law directs agencies to use redaction in appropriate circumstances. Section 708(b)(6)(i) of the Right-to-Know Law, 65 P.S. \u00a7 67.708(b)(6) (i), exempts the following \u201cpersonal identification information\u201d from access by a requester:\n(A) A record containing all or part of a person\u2019s Social Security number, driver\u2019s license number, personal financial information, home, cellular or personal telephone numbers, personal e-mail addresses, employee number or other confidential personal identification number.\n(B) A spouse\u2019s name, marital status or beneficiary or dependent information.\n(C) The home address of a law enforcement officer or judge.\n65 P.S. \u00a7 67.708(b)(6)(i). Subsection (b)(6) goes on to state that \u201c[njothing in this paragraph shall preclude the release of the name [and] position ... of a public official or an agency employee,\u201d however \u201c[a]n agency may redact the name or other identifying information relating to an individual performing an undercover or covert law enforcement activity from a record.\u201d 65 P.S. \u00a7 67.708(b)(6)(ii), (iii) (emphasis added). The Law also exempts records maintained by a law enforcement agency if disclosure of those records could jeopardize public safety or preparedness or public protection activity. Section 708(b)(2) of the Right-to-Know Law, 65 P.S. \u00a7 67.708(b)(2).\nIn short, the legislature has provided specific guidance on the types of information a responding agency should redact, and it has directed State and local agencies across the Commonwealth to redact such sensitive confidential information from public records every day. Union presumes that the City is unable or unwilling to comply with the requirements of Section 708(b) or that it will provide more than the final award of a grievance arbitrator. There is no basis for Union\u2019s fears.\nThe trial court pointed to the exemption in Section 708(b)(7) for certain types of employee records, such as letters of reference or recommendation, performance ratings or reviews, results of civil service tests, \u201c[w]ritten criticisms of an employee,\u201d \u201c[gjrievance material, including documents related to discrimination or sexual harassment,\u201d and \u201cinformation regarding discipline, demotion or discharge....\u201d 65 P.S. \u00a7 67.708(b)(7)(vi), (vii), (viii). This exemption relates to records found in an employee\u2019s personnel file, not to formal legal adjudications. Assuming, arguendo, that an arbitration award can be considered \u201cgrievance material\u201d or \u201cinformation regarding discipline, demotion or discharge,\u201d Section 708(b)(7)(viii) also advises that the exemption for such material \u201cshall not apply to the final action of an agency that results in demotion or discharge.\u201d 65 P.S. \u00a7 67.708(b)(7)(viii). In any case, whatever Section 708(b)(7) means, it is controlled by the very specific command in Section 708(b)(8)(ii) that the public be given access to a \u201cfinal award or order\u201d of an arbitrator. 65 P.S. \u00a7 67.708(b)(8)(ii).\nFinally, we consider the trial court\u2019s conclusion that releasing arbitration awards would violate Section 708(b)(l)(ii) of the Right-to-Know Law, which exempts from disclosure\n[a] record, the disclosure of which ... would be reasonably likely to result in a substantial and demonstrable risk of physical harm to or the personal security of an individual.\n65 P.S. \u00a7 67.708(b)(1)(H). The trial court noted that this Court\u2019s preliminary injunction in PSEA supported the trial court\u2019s injunction.\nWe disagree with the trial court\u2019s reliance upon the so-called personal security exemption in Section 708(b)(1)(H), which prohibits a disclosure that \u201cwould be reasonably likely to result in a substantial and demonstrable risk of physical harm to or the personal security of an individual.\u201d 65 P.S. \u00a7 67.708(b)(1)(H). Union\u2019s sole witness, John McGrody, testified generally that poHce officers and their fam\u00fcies are frequently threatened. He then speculated that access to arbitration awards will, ipso facto, pose a risk to the officers\u2019 safety and privacy. This testimony fell far short of showing a substantial and demonstrable risk of physical harm to even one individual. More than mere conjecture is needed.\nAs for this Court\u2019s single-judge opinion in PSEA, we find that case has limited application here. PSEA involved a request for access to the home addresses of public school employees, which are not specifically exempted under the Right-to-Know Law. By contrast, all of the sensitive information identified by Union, including the home addresses of law enforcement officers, is expressly exempt from public access in Section 708(b) of the Law.\nAll of the sensitive information Union has identified as requiring protection is already expressly exempted from disclosure under Section 708(b)(2) and (6) of the Right-to-Know Law, 65 P.S. \u00a7 67.708(b)(2), (6). It is the City\u2019s burden to redact this information. Union does not explain why it believes the City will abrogate this responsibiHty and thereby place its police officers and their families at risk. We must presume the opposite, ie., that an agency will act in accordance with law. See Albert v. Lehigh Coal and Navigation Co., 431 Pa. 600, 610 n. 5, 246 A.2d 840, 845 n. 5 (1968) (\u201cThere is a prima facie presumption of the regularity of the acts of public officials which exists until the contrary appear....\u201d).\nFor all of the foregoing reasons, we hold that Union did not demonstrate a clear right to preliminary injunctive relief. Accordingly, we reverse the trial court\u2019s order granting the preliminary injunction.\nORDER\nAND NOW, this 22nd day of October, 2010, the order of the Court of Common Pleas of Philadelphia County in the above-captioned matter, dated September 28, 2009, is REVERSED.\n. Act of February 14, 2008, P.L. 6, 65 P.S. \u00a7\u00a7 67.101 \u2014 67.3104.\n. The records at issue are the written decisions issued by arbitrators pursuant to a grievance procedure established in the collective bargaining agreement between the City and Union. Arbitration hearings are closed to the public. Only designated representatives of the City and Union are permitted to attend and participate. R.R. 120.\n.Union had no other recourse since it could not directly seek administrative relief under the Right-to-Know Law. Philadelphia Newspapers, as the requester, was the only potentially directly aggrieved party.\n. The trial court entered the injunction without prejudice to Philadelphia Newspapers\u2019 right to appeal the City\u2019s response to the Office of Open Records in accordance with the Right-to-Know Law. Philadelphia Newspapers has exercised that right. The Office of Open Records has stayed the matter pending a decision by this Court in the present action.\n. \"For a preliminary injunction to issue, every one of these prerequisites must be established; if the petitioner fails to establish any one of them, there is no need to address the others.\u201d Id. (emphasis in original) (quoting County of Allegheny v. Commonwealth, 518 Pa. 556, 560, 544 A.2d 1305, 1307 (1988)).\n. A sample entry from the list compiled by the City and supplied to Philadelphia Newspapers pursuant to the trial court\u2019s order reads in full: \"2007 [year]; Coleman [name of arbitrator]; 18-Dec-07 [date of disposition]; City win [disposition].\" Appellant's Brief at 18 n.8.\n. Section 708(b)(2) exempts from access by a requester\n[a] record maintained by an agency in connection with ... law enforcement or other public safety activity that, if disclosed, would be reasonably likely to jeopardize or threaten public safety or preparedness or public protection activity....\n65 P.S. \u00a7 67.708(b)(2).\n. It bears noting that the trial court likely exceeded its authority by ordering the City to create a log of its wins and losses in arbitration. If, as the City contends in its reply brief, the requested information does not presently exist in that form, the trial court's injunction violates Section 705 of the Right-to-Know Law, which states:\nWhen responding to a request for access, an agency shall not be required to create a record which does not currently exist or to compile, maintain, format or organize a record in a manner in which the agency does not currently compile, maintain, format or organize the record.\n65 P.S. \u00a7 67.705.",
+        "type": "majority",
+        "author": "Judge LEAVITT."
+      }
+    ],
+    "attorneys": [
+      "Eleanor N. Ewing, Philadelphia, for appellant.",
+      "Marc L. Gelman, Philadelphia, for appel-lees, Michael G. Lutz, Lodge No. 5 of the Fraternal Order of Police, Through its Trustee Ad Litem, John McNesby; Christine O\u2019Shea, Nadine Crawford, Kenneth Fleming and Edward Spangler.",
+      "Christopher H. Casey, Philadelphia, for appellees, Philadelphia Newspapers, LLC and Wendy Ruderman."
+    ],
+    "corrections": "",
+    "head_matter": "Michael G. LUTZ, Lodge No. 5 of the Fraternal Order of Police, Through its Trustee Ad Litem, John McNesby; Christine O\u2019Shea, Nadine Crawford, Kenneth Fleming and Edward Spangler v. CITY OF PHILADELPHIA and Philadelphia Newspapers, LLC and Wendy Ruderman Appeal of: City of Philadelphia.\nCommonwealth Court of Pennsylvania.\nArgued May 18, 2010.\nDecided Oct. 22, 2010.\nEleanor N. Ewing, Philadelphia, for appellant.\nMarc L. Gelman, Philadelphia, for appel-lees, Michael G. Lutz, Lodge No. 5 of the Fraternal Order of Police, Through its Trustee Ad Litem, John McNesby; Christine O\u2019Shea, Nadine Crawford, Kenneth Fleming and Edward Spangler.\nChristopher H. Casey, Philadelphia, for appellees, Philadelphia Newspapers, LLC and Wendy Ruderman.\nBEFORE: PELLEGRINI, Judge, and LEAVITT, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0669-01",
+  "first_page_order": 715,
+  "last_page_order": 722
+}

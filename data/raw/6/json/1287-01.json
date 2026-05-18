@@ -1,0 +1,63 @@
+{
+  "id": 7290574,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Anthony JOHNSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Johnson",
+  "decision_date": "2010-09-03",
+  "docket_number": "No. 66 EM 2010",
+  "first_page": "1287",
+  "last_page": "1287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 247,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661842209483427
+    },
+    "sha256": "9300260e8a184e12fad9cc49d33fbfe7fb57e0db1a827f208ba52b70cff0aca7",
+    "simhash": "1:148cf4af73c72876",
+    "word_count": 37
+  },
+  "last_updated": "2023-07-14T16:58:44.861686+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Anthony JOHNSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of September, 2010, the Application for Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Anthony JOHNSON, Petitioner.\nNo. 66 EM 2010.\nSupreme Court of Pennsylvania.\nSept. 3, 2010."
+  },
+  "file_name": "1287-01",
+  "first_page_order": 1333,
+  "last_page_order": 1333
+}

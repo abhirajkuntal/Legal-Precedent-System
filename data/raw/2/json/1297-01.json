@@ -1,0 +1,199 @@
+{
+  "id": 7290924,
+  "name": "Hon. Alfred RICCI v. Hon. James R. MATTHEWS, Hon. Bruce L. Castor, Jr., Hon. Joseph M. Hoeffel, Montgomery County Commissioners and County of Montgomery; Hon. Risa Vetri Ferman v. Hon. James R. Matthews, Hon. Bruce L. Castor, Jr., Hon. Joseph M. Hoeffel, and County of Montgomery. Appeal of: County of Montgomery, Montgomery County Commissioners, Hon. James R. Matthews, Hon. Bruce L. Castor, Jr. and Hon. Joseph M. Hoeffel",
+  "name_abbreviation": "Ricci v. Matthews",
+  "decision_date": "2010-08-17",
+  "docket_number": "",
+  "first_page": "1297",
+  "last_page": "1303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Pa. 267",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827686
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0267-01"
+      ]
+    },
+    {
+      "cite": "531 Pa. 199",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1834417
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0199-01"
+      ]
+    },
+    {
+      "cite": "466 A.2d 1346",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1784561,
+        1784540,
+        1784518
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/502/0469-01",
+        "/pa/502/0470-01",
+        "/pa/502/0469-02"
+      ]
+    },
+    {
+      "cite": "502 Pa. 469",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1784561,
+        1784518
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/502/0469-01",
+        "/pa/502/0469-02"
+      ]
+    },
+    {
+      "cite": "433 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "381 A.2d 204",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "207",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "815 A.2d 1146",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9340268
+      ],
+      "pin_cites": [
+        {
+          "page": "1150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/815/1146-01"
+      ]
+    },
+    {
+      "cite": "307 A.2d 884",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "452 Pa. 482",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        574334
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/452/0482-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 812,
+    "char_count": 18988,
+    "ocr_confidence": 0.712,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18832063182061964
+    },
+    "sha256": "2e2c05fd49e55f6ccd99bdf1167cc0fc615f97fde60ad94b2910a1647654df19",
+    "simhash": "1:552a378483443424",
+    "word_count": 3041
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and SIMPSON, Judge, and LEAVITT, Judge, and BUTLER, Judge.",
+      "Judge BROBSON and Judge McCULLOUGH did not participate in the decision in this case."
+    ],
+    "parties": [
+      "Hon. Alfred RICCI v. Hon. James R. MATTHEWS, Hon. Bruce L. Castor, Jr., Hon. Joseph M. Hoeffel, Montgomery County Commissioners and County of Montgomery. Hon. Risa Vetri Ferman v. Hon. James R. Matthews, Hon. Bruce L. Castor, Jr., Hon. Joseph M. Hoeffel, and County of Montgomery. Appeal of: County of Montgomery, Montgomery County Commissioners, Hon. James R. Matthews, Hon. Bruce L. Castor, Jr. and Hon. Joseph M. Hoeffel."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nPresident Judge LEADBETTER.\nMontgomery County (County) and its commissioners, James R. Matthews, Bruce L. Castor, Jr. and Joseph M. Hoeffel (collectively, Commissioners) appeal from the order of the Court of Common Pleas of Montgomery County granting the motions for judgment on the pleadings of the Sheriff of Montgomery County, John P. Durante (Sheriff), and the District Attorney of Montgomery County, Risa Vetri Fer-man (DA). In its order, common pleas declared Montgomery County Ordinance No. 09-1 (Ordinance) invalid as applied to the Sheriff and the DA (together, Row Officers) and their employees (collectively, Row Employees), and enjoined the Commissioners from enforcing it against them. Common pleas held that the Commissioners lacked the authority to enact the entire Ordinance, Section 1 of which restricted the political activities of employees of the County, including Row Employees. We affirm as to Section 1 of the Ordinance and vacate and remand as to all other sections.\nMontgomery County is a Second Class A County, governed by the Second Class County Code (Code). In 2009, the Commissioners adopted the Ordinance, Section 1 of which, titled \u201cProhibition on Certain Political Activities,\u201d states:\nA. All County employees holding the following positions or such other positions which may be heretofore created holding the same or substantially similar responsibilities shall be barred from engaging in, and from soliciting any other person to engage in, any political fund-raising and from seeking candidacy for any public office (with the exception of School Board), and from engaging in the management of any political campaign for public office at any time during the course of holding such position.\nHowever, these employees shall retain the right to vote as he or she chooses in any election, to privately and publicly express his/her opinion on political subjects and candidates, to make monetary contributions to any political party, group or candidate, and to otherwise freely associate with persons of any political party or group:\nDistrict Attorney\nFirst Assistant DA\nExecutive Assistant DA (Deputy District Attorney)\nChief Pre-Trials Division\nARD Unit Leader\nForfeiture Unit Supervisor\nChief of Detectives\nAssistant District Attorney\nSheriff\nChief Deputy\nNo County employee may be given a leave of absence to engage in activities banned by this Section.\nB. This prohibition shall not apply to employees seeking public offices to be elected in the year 2009.\nC. This prohibition shall not apply to county elected officials.\nD. Any employee holding elective office other than county elective office as of the date on which this ordinance is adopted may continue to serve in any public office that employee presently holds, but may not seek re-election to any public office other than School Board.\nOrdinance \u00a7 1. The Ordinance includes a number of additional provisions, including: a requirement that employees who submit financial disclosure statements to the state also provide them to the County (\u00a7 2); a ban on the use of County supplies and equipment for political activity (\u00a7 4); and restrictions on employee transactions with the County (\u00a7 5). Row Officers each filed declaratory judgment actions. In her complaint, the DA argued that the Commissioners lacked the authority to apply the prohibition on political activities to her employees, and that the Ordinance violated their free speech rights. In his complaint, the Sheriff argued that the Commissioners lacked the authority to enact the Ordinance, specifically mentioning the prohibition on political activities, and that the enactment of the Ordinance was procedurally defective. The parties stipulated that the two actions would be consolidated before common pleas, and that the Sheriff would abandon his challenge alleging a procedural defect. The parties filed cross-motions for judgment on the pleadings. Common pleas heard argument by the parties, after which it issued its opinion and order. In its opinion, common pleas held that the Commissioners did not have the authority to enact the Ordinance with respect to the Row Employees under either the Code or the Public Official and Employee Ethics Act (Ethics Act). In its order, common pleas granted Row Officers\u2019 motions for judgment on the pleadings, declared the Ordinance invalid as applied to Row Officers and Row Employees, and enjoined the Commissioners from enforcing the Ordinance against the Row Officers and Row Employees. The Commissioners now appeal to this court.\nOn appeal, the Commissioners argue that common pleas erred in concluding that they had no authority to enact the Ordinance, and in disregarding the Ordinance\u2019s savings clause by invalidating more than Section 1 of the Ordinance. The Commissioners also reassert their argument below that the Ordinance does not violate the right to free speech. Because we resolve this case on statutory grounds, we do not reach the free speech issue.\nThe Commissioners argue that their authority to enact the Ordinance is established by Commonwealth ex rel. Specter v. Moak, 452 Pa. 482, 307 A.2d 884 (1978). In that case, our Supreme Court determined that Philadelphia assistant district attorneys were employees of Philadelphia County, and not state officers, and therefore subject to the \u2018resign to run\u2019 provision of Philadelphia\u2019s Home Rule Charter. In reaching that conclusion, our Supreme Court looked to \u201cindicia of employment\u201d such as the power of the Philadelphia City Council to set the salaries and fix the number of assistant district attorneys, as well as the assistant district attorneys\u2019 participation in Philadelphia\u2019s pension plan. Id. at 486, 307 A.2d at 887. Similar indicia of employment are present in this case, as the number and salaries of the Row Employees are set by the Commissioners. See Sections 1822 and 1823 of the Code, 16 P.S. \u00a7\u00a7 4822, 4823. Moreover, the County provides the materials and services needed by the Row Employees to perform their duties. See Sections 507 and 1403 of the Code, 16 P.S. \u00a7\u00a7 3507, 4403. The Row Employees also participate in the County pension system pursuant to the County Pension Law.\nHowever, this case differs significantly from Specter because that case dealt with a home rule jurisdiction, whereas the County in this case is a Second Class A County with no home rule charter. A home rule jurisdiction may \u201cexercise any power and perform any function not denied by [the Pennsylvania] Constitution, by its home rule charter or by the General Assembly.\u201d Wecht v. Roddey, 815 A.2d 1146, 1150 (Pa.Cmwlth.2002) (quoting Pa. Const. art. 9, \u00a7 2). In contrast, the authority of the Commissioners of a Second Class A County is considerably more limited. A county like Montgomery County is \u201cmerely a creature of the sovereign.... The scope of its powers and duties are specified by the Constitution and County Code; it possesses no power nor bears any responsibility in the absence of a specific mandate.\u201d In re the Incorporation of the Borough of Valley-Hi, 33 Pa.Cmwlth. 180, 381 A.2d 204, 207 (1977) (citations omitted). Because the County has no home rule charter, the indicia of employment looked to by the court in Specter are not enough to authorize the Commissioners to enact the Ordinance. Instead, the Commissioners must demonstrate an express constitutional or statutory authorization. Valley-Hi. The Commissioners argue that this mandate can be found in both the Code and the Ethics Act.\nThe Commissioners argue that a number of provisions in the Code establish their authority to enact the Ordinance. Specifically, the Commissioners cite Sections 202, 203 and 508(a) of the Code, 16 P.S \u00a7\u00a7 3202, 3203, 3508(a), as well as the sections cited above establishing that the Commissioners set the number and salaries of the Row Employees and provide them with materials and services. See Sections 507, 1403, 1822 and 1823 of the Code; 16 P.S. \u00a7\u00a7 3507, 4403, 4822, 4823. Section 202 establishes that a county has the capacity, as a corporate body, to engage in various activities, including suing and being sued and holding property, but does not mention regulating employee behavior. Section 203 vests a county\u2019s corporate power in its board of commissioners. Section 508(a) states that the Commissioners \u201cmay adopt resolutions and ordinances prescribing the manner in which powers of the county shall be carried out and generally regulating the affairs of the county.\u201d These provisions, even considered alongside the authorization to set Row Employees\u2019 salaries and provide work materials, do not clearly authorize the ability to regulate the off-duty conduct of Row Employees. Rather, as common pleas noted, they provide, at most, a general grant of authority to the Commissioners to run county business and facilitate the work of the Row Officers and Employees.\nWhile the Code does provide the Commissioners with the general authority to run county business, there are specific provisions in the Code which establish that the Row Officers have supervisory authority over the Row Employees, thus casting doubt on the authority of the Commissioners to enact an ordinance regulating the conduct of Row Employees. The Row Officers have the power to both appoint and remove Row Employees. Sections 450(b), 1203, 1420 and 1440 of the Code; 16 P.S. \u00a7\u00a7 3450(b), 4203, 4420, 4440. The removal power of the Row Officers is exclusive. Hazel v. D\u2019Iorio, 61 Pa.Cmwlth. 126, 433 A.2d 162 (1981), aff'd, 502 Pa. 469, 466 A.2d 1346 (1983). The Commissioners concede that the power to appoint and remove Row Employees necessarily includes the power to supervise their conduct. In fact, the Commissioners concede that they are powerless to enforce the Ordinance against Row Employees, and that they would rely on Row Officers for enforcement.\nThe fact that the Code establishes the hiring, firing and supervision of the Row Employees as the exclusive domain of the Row Officers supports the conclusion that the Commissioners simply do not have the authority to regulate the Row Employees\u2019 off-duty conduct. Absent a clear and express grant of authority, this court cannot conclude that the General Assembly intended the incongruous result that the Code authorizes the Commissioners to pass an ordinance that they have no power to enforce. The provisions cited by the Commissioners simply do not meet that threshold.\nThe Commissioners also argue that they have authority to enact the Ordinance under the Ethics Act. The Ethics Act, which seeks to avoid conflicts of interest and promote financial disclosure among public officials, provides that, \u201c[a]ny governmental body may adopt requirements to supplement this chapter, provided that no such requirement shall in any way be less restrictive than the chapter.\u201d 65 Pa.C.S. \u00a7 1111. \u201cGovernmental body\u201d is broadly defined in the Ethics Act, to include \u201c[a]ny ... commission ... office [or] officer.\u201d 65 Pa.C.S. \u00a7 1102. Under that broad definition, either the Commissioners or the Row Officers would appear to be authorized to supplement the requirements of the Ethics Act. However, they cannot both do so without subjecting the employees to the prospect of being bound to comply with inconsistent requirements. We do not believe the legislature intended such an unworkable result. Thus, while the statute does not explicitly limit the scope of regulations that each body can enact, we conclude that each body was authorized to supplement the Ethics Act with regard only to the employees under its control. As the power to hire, fire and supervise the Row Employees belongs exclusively to the Row Officers, the authority to supplement the Ethics Act regarding the Row Employees\u2019 conduct is theirs alone.\nFinally, the Commissioners argue that common pleas erred by invalidating the entire Ordinance as applied to Row Officers and Row Employees, when the Row Officers\u2019 complaints and common pleas\u2019 decision focused only on Section 1 of the Ordinance. ' The Commissioners argue common pleas failed to give effect to the Ordinance\u2019s savings clause, which states that all sections of the Ordinance are sev-erable.\nAs an initial matter, the Row Officers argue that this issue was waived, because the Commissioners did not raise the issue of severability before common pleas. Generally, an issue is waived if it is raised for the first time in the statement of matters complained of on appeal. Pa. R.A.P 302. However, our Supreme Court has held that where a party has not had an opportunity to fully and fairly address an issue before common pleas, strict compliance with Rule 302 is not required. Cagnoli v. Bonnell, 531 Pa. 199, 611 A.2d 1194 (1992).\nAn examination of the record in this case has convinced us that the Commissioners did not have a full and fair opportunity to address the issue of sever-ability before common pleas. While the Sheriffs complaint does challenge the validity of the Ordinance as applied to his office, most of that document, like virtually every other filing in this case, was devoted almost exclusively to challenging the provisions of Section 1. Considering the focus on Section 1, the Row Officers could not reasonably have been expected to anticipate that common pleas would invalidate the entire ordinance. Thus, we find that the severability issue has not been waived and therefore proceed to the merits.\nThe Statutory Construction Act of 1972 requires that courts treat all statutes as severable. 1 Pa.C.S. \u00a7 1925. Our Supreme Court has held that the principles of the Statutory Construction Act are to be followed when construing a local ordinance. Patricca v. Zoning Bd. of Adjustment of the City of Pittsburgh, 527 Pa. 267, 590 A.2d 744 (1991). In addition, Section 11 of the Ordinance states that its provisions are severable.\nWhile it is clear that the Commissioners do not have the authority to enact Section 1 of the Ordinance, there is virtually nothing on the record about the other sections. It is not entirely clear from an examination of the complaints if the other provisions of the Ordinance were actually challenged by the Row Officers, and the briefs filed in support of the motions were not made a part of the record before us. Therefore, we affirm with respect to Section 1 of the Ordinance, and vacate and remand -with respect to the remainder of the Ordinance, in order for common pleas to first consider if the other sections of the Ordinance were challenged in this action, and, if it is found that they were, to then consider the validity of those provisions, as applied to the Row Employees.\nJudge BROBSON and Judge McCULLOUGH did not participate in the decision in this case.\nORDER\nAND NOW, this 17th day of August, 2010, the order of the Court of Common Pleas of Montgomery County in the above-captioned matter is hereby AFFIRMED with respect to Section 1 of Montgomery County Ordinance No. 09-1 and is VACATED and REMANDED for reconsideration in accordance with the foregoing opinion with respect to all other sections of the ordinance.\nJurisdiction relinquished.\n. While this case was pending before this court, Sheriff Durante passed away. Acting Sheriff Alfred Ricci has been substituted as a party. Pa. R.A.P. 502(c).\n. Act of July 28, 1953, P.L. 723, as amended, 16 P.S. \u00a7\u00a7 3101-6302.\n. 65 Pa.C.S. \u00a7\u00a7 1101-1113.\n. Act of August 31, 1979, P.L. 398, as amended, 16 P.S. \u00a7\u00a7 11651-11682.\n. We do not suggest that the provisions of Section I of the Ordinance are not salutary, only that it is the prerogative of the Row Officers, not of the Commissioners, to impose any such requirements.",
+        "type": "majority",
+        "author": "President Judge LEADBETTER."
+      },
+      {
+        "text": "DISSENTING AND CONCURRING OPINION BY\nJudge LEAVITT.\nIn a well reasoned opinion, the majority upholds the trial court\u2019s order enjoining the Montgomery County Commissioners (Commissioners) from enforcing Montgomery County Ordinance No. 09-1 (Ordinance) against employees of the Sheriff and District Attorney of Montgomery County (Row Officers) because these employees are beyond the reach of the Commissioners. Indeed, the Commissioners concede that the Row Officers have exclusive power to appoint, remove, and supervise their employees and that the Commissioners are powerless to enforce their Ordinance against the Row Officers\u2019 employees. However, the majority affirms the injunction only as to Section 1 of the Ordinance, and it remands for further proceedings on Sections 2, 4 and 5, which also purport to apply to the employees of the Row Officers. I would affirm the injunction in its entirety.\nThe majority\u2019s logic that the Commissioners have no authority to pass an ordinance they cannot enforce applies with equal force to all sections of the Ordinance. A remand to consider the other sections of the Ordinance that purport to apply to employees of Row Officers is an exercise in futility.\nThe trial court declared the Ordinance invalid as it purported to govern the conduct of employees of the Row Officers. The trial court\u2019s injunction was narrowly tailored to protect the prerogatives of the Row Officers, and I would affirm the order in its entirety.\nAccordingly, I concur in part and dissent in part to the majority\u2019s decision.\n. The remaining sections of the Ordinance that are applicable to the employees of the Row Officers and are to be considered on remand are as follows: Section 2 requires employees to provide a copy of their financial disclosure statements, if any, to the County; Section 4 prohibits employees from using County supplies and equipment for political activity; and Section 5 requires employees to use competitive bidding in the purchase of goods and services.\n. The majority believes it is unclear as to whether the other sections of the Ordinance were challenged by the Row Officers. However, the Sheriff's complaint requested a finding that the entire Ordinance was unenforceable as to the employees of the Sheriff's Department and that the County be enjoined from enforcing it. Reproduced Record at 9a (R.R.-). The District Attorney\u2019s complaint also requested a judgment that the Ordinance be declared null and void as it purports to apply to her employees. R.R. 46a.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Judge LEAVITT."
+      }
+    ],
+    "attorneys": [
+      "Philip W. Newcomer, Norristown, for appellants.",
+      "Michael Marino, Collegeville, Richard A. Sprague and Thomas A. Sprague, Philadelphia, for appellee, Hon. Risa Yetri Fer-man.",
+      "Thomas J. Speers, Plymouth Meeting, for appellee, Hon. Alfred Ricci."
+    ],
+    "corrections": "",
+    "head_matter": "Hon. Alfred RICCI v. Hon. James R. MATTHEWS, Hon. Bruce L. Castor, Jr., Hon. Joseph M. Hoeffel, Montgomery County Commissioners and County of Montgomery. Hon. Risa Vetri Ferman v. Hon. James R. Matthews, Hon. Bruce L. Castor, Jr., Hon. Joseph M. Hoeffel, and County of Montgomery. Appeal of: County of Montgomery, Montgomery County Commissioners, Hon. James R. Matthews, Hon. Bruce L. Castor, Jr. and Hon. Joseph M. Hoeffel.\nCommonwealth Court of Pennsylvania.\nArgued May 19, 2010.\nDecided Aug. 17, 2010.\nPhilip W. Newcomer, Norristown, for appellants.\nMichael Marino, Collegeville, Richard A. Sprague and Thomas A. Sprague, Philadelphia, for appellee, Hon. Risa Yetri Fer-man.\nThomas J. Speers, Plymouth Meeting, for appellee, Hon. Alfred Ricci.\nBEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and SIMPSON, Judge, and LEAVITT, Judge, and BUTLER, Judge."
+  },
+  "file_name": "1297-01",
+  "first_page_order": 1299,
+  "last_page_order": 1305
+}

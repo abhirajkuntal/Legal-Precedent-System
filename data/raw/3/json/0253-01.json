@@ -1,0 +1,228 @@
+{
+  "id": 7286271,
+  "name": "Joel BROWN and Iris Brown, Plaintiffs Below, Appellants, v. UNITED WATER DELAWARE INC., Defendant Below, Appellee",
+  "name_abbreviation": "Brown v. United Water Delaware Inc.",
+  "decision_date": "2010-02-15",
+  "docket_number": "No. 291, 2009",
+  "first_page": "253",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "380 A.2d 982",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8009699
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "984"
+        },
+        {
+          "page": "984",
+          "parenthetical": "Quotation and citation omitted."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/380/0982-01"
+      ]
+    },
+    {
+      "cite": "204 S.E.2d 457",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Ga.App. 798",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        746321
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/130/0798-01"
+      ]
+    },
+    {
+      "cite": "51 P.3d 585",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        11417225
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/51/0585-01"
+      ]
+    },
+    {
+      "cite": "809 N.E.2d 1248",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "284 Ill.Dec. 302",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Ill.2d 32",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        8451063
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/211/0032-01"
+      ]
+    },
+    {
+      "cite": "757 N.W.2d 909",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        8210668
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/757/0909-01"
+      ]
+    },
+    {
+      "cite": "593 P.2d 375",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Haw. 582",
+      "category": "reporters:state",
+      "reporter": "Haw.",
+      "case_ids": [
+        1436327
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/haw/60/0582-01"
+      ]
+    },
+    {
+      "cite": "260 U.S. 156",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925655
+      ],
+      "weight": 3,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/260/0156-01"
+      ]
+    },
+    {
+      "cite": "237 U.S. 94",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        631816
+      ],
+      "weight": 3,
+      "year": 1915,
+      "pin_cites": [
+        {
+          "page": "97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/237/0094-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 583,
+    "char_count": 8426,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3564091960573763
+    },
+    "sha256": "2401f362e2e388cc6af8cd6850dcaee016011b7383658b220014fe39ea0601bd",
+    "simhash": "1:ba5db2b897e82a76",
+    "word_count": 1366
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+    ],
+    "parties": [
+      "Joel BROWN and Iris Brown, Plaintiffs Below, Appellants, v. UNITED WATER DELAWARE INC., Defendant Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "BERGER, Justice:\nIn this appeal we consider whether homeowners may state a claim for damages allegedly caused by the negligence of a public utility. The so-called \u201cfiled rate doctrine\u201d requires regulated utilities to charge all of their customers the rate approved by the regulator. The filed rate generally includes restrictions on the utility\u2019s liability. In this case, a water company included in its filed rate a provision exempting it from all liability for damages arising from fire or the failure to provide adequate water pressure. The homeowners allege that their house suffered serious fire damage because the responding fire fighters were unable to open the two hydrants closest to their house. The trial court held that the utility was immune from liability under the filed rate doctrine. We agree that the filed rate doctrine may restrict or eliminate liability for a public utility\u2019s ordinary negligence. It is not at all clear, however, that the filed rate doctrine would apply in cases of gross negligence or willful misconduct. The parties did not fairly present that issue to the trial court. Accordingly, we remand to allow the Superior Court to determine whether the homeowners stated a claim for gross negligence or willful conduct, and, if so, whether those claims also are barred by the filed rate doctrine.\nFACTUAL AND PROCEDURAL BACKGROUND\nIn the early morning of December 20, 2005, Joel and Iris Brown discovered a fire in the living room of their Wilmington home. The Browns\u2019 neighbor called 911, and firefighters responded within seven minutes. A paramedic with the firefighting crew attempted to connect the water hose to the hydrant nearest the Brown\u2019s house. The paramedic was unable to open the valve because he was trying to turn the valve in the wrong direction, and broke the stem. The fire chief then sent his crew to the next closest hydrant. They were unable to open the second hydrant, and concluded that it was frozen. The firefighters finally obtained water from a third hydrant, which was much farther from the Browns\u2019 home. By that time, however, the crew had been on the scene for more than 30 minutes and it was too late to save any portion of the house.\nInvestigations later revealed that United Water Delaware, Inc. had painted over the top of the first hydrant, thereby covering the arrow that shows which way to open the valve. United Water\u2019s inspection records described the second hydrant as \u201cvery hard to open\u201d in November 2004 and \u201chard to open\u201d in April 2005. Nonetheless, the record indicates- that United Water took no action to correct the problem. The Fire Marshall\u2019s Office concluded that the second hydrant failed due to lack of maintenance.\nUnited Water\u2019s \u201cTariff for Water Service\u201d provides:\n49. The Company shall not be considered an insurer of property or persons or to have undertaken to extinguish fire or to protect persons or property against loss by fire or otherwise. The Company does not guarantee any special service, pressure, capacity or facility other than what is provided by ordinary and changing operating conditions as they exist from day to day. It is agreed by the parties receiving service that the Company shall be free and exempt from any and all claims for injury to persons or property by reason of fire, water, failure to supply water pressure or capacity.\nIn 2007, the Browns filed a three count complaint alleging negligence, negligent infliction of emotional distress, and intentional infliction of emotional distress. The trial court summarily dismissed the claim for negligent infliction of emotional distress. In 2009, shortly before the scheduled trial date, United Water moved for summary judgment on the remaining claims. The Superior Court granted the motion, holding that the Browns\u2019 claims are barred by the filed rate doctrine. This appeal followed.\nDISCUSSION\nThe filed rate doctrine originated as a matter of federal law. It forbids a regulated entity from charging rates other than those filed with the regulatory agency. The United States Supreme Court explained:\nUnder the Interstate Commerce Act, the rate of the carrier duly filed is the only lawful charge. Deviation from it is not permitted upon any pretext.... Ignorance or misquotation of rates is not an excuse for paying or charging either less or more than the rate filed. This rule is undeniably strict and it obviously may work hardship in some cases, but it embodies the policy which has been adopted by Congress in the regulation of interstate commerce in order to prevent unjust discrimination.\n\u201cThe rights as defined by the tariff cannot be varied or enlarged by either contract or tort of the carrier.\u201d The filed rate doctrine serves two purposes \u2014 it recognizes the agency\u2019s autonomy in setting fair rates and it prevents service or rate discrimination among consumers.\nMany states have applied the principles of this federal doctrine to the rates filed and approved by state regulatory agencies. The Delaware Court of Chancery recognized the doctrine, although not by name, in Woloshin v. Diamond State Telephone Co. Two lawyers sued the telephone company for omitting their listing in the yellow pages of the phone book. The trial court noted that the phone company had included a limitation on liability in its rates filed with the Public Service Commission, and that it included the same limitation in its contract with the lawyers. The trial court reasoned:\nThe theory is ... that, since [the utility] renders a service affecting the public, the state shall regulate and control it in order to prevent injustice, and, ... in consideration of such regulation and control, [the utility\u2019s] liability is and should be defined and limited. In a sense it is a matter of contract, on the one hand by the utility, and on the other by the state representing all its citizens.\nThe Woloshin court acknowledged that at least one other jurisdiction had imposed liability on a telephone company for a similar omission, but declined to follow that precedent. The court stated that, \u201cthe great weight of authority [is] to the effect that a contractual limitation of liability on the part of a public utility for mere inadvertence is not unconscionable or violative of public policy.\u201d We conclude that Wol-oshin is a correct statement of the law, and that the Browns\u2019 claims for negligence were defeated by Paragraph 49 of United Water\u2019s filed rate, cited above.\nOn appeal, the Browns argue that their complaint alleges gross negligence and willful and wanton conduct. Although Paragraph 49 of United Water\u2019s filed rate purports to exempt the utility from all claims, it is not clear that the filed rate doctrine provides absolute immunity. \u201cCourts overwhelmingly reject attempts to limit liability either by contract or by tariff for gross negligence, willful misconduct, and fraud.\u201d We will not address that issue, however, because it was not fairly presented to the Superior Court.\nCONCLUSION\nBased on the foregoing, we remand for further action in accordance with this decision. Jurisdiction is retained.\n. Appellant's Appendix, A-47, 48 (Emphasis added.).\n. Louisville & Nashville R. Co. v. Maxwell, 237 U.S. 94, 97, 35 S.Ct. 494, 59 L.Ed. 853 (1915).\n.Keogh v. Chicago & Northwestern R. Co., 260 U.S. 156, 163, 43 S.Ct. 47, 67 L.Ed. 183 (1922).\n.See, e.g., Molokoa Village Dev. Co. v. Kauai Elec. Co., 60 Haw. 582, 593 P.2d 375 (1979); Siewert v. Northern States Power Co., 757 N.W.2d 909 (Ct.App. Minn 2008); Adams v. Northern Illinois Gas Co., 211 Ill.2d 32, 284 Ill.Dec. 302, 809 N.E.2d 1248 (2004); Satellite System, Inc. v. Birch Telecom of Oklahoma, Inc., 51 P.3d 585 (Ok.2002); Southern Bell Tel. & Tel. Co. v. Invenchek, Inc., 130 Ga.App. 798, 204 S.E.2d 457 (1974).\n. 380 A.2d 982, 984 (Del.Ch. 1977).\n. Id. at 984 (Quotation and citation omitted.).\n. Ibid.\n. Satellite System, Inc., 51 P.3d at 589.\n. Sup.Ct. R. 8.",
+        "type": "majority",
+        "author": "BERGER, Justice:"
+      }
+    ],
+    "attorneys": [
+      "L. Vincent Ramunno, Esquire, Ramunno & Ramunno, P.A., Wilmington, DE, for Appellants.",
+      "Sean J. Bellew, Esquire, (argued) and David A. Felice, Esquire, Ballard Spahr Andrews & Ingersoll, LLP, Wilmington, DE, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Joel BROWN and Iris Brown, Plaintiffs Below, Appellants, v. UNITED WATER DELAWARE INC., Defendant Below, Appellee.\nNo. 291, 2009.\nSupreme Court of Delaware.\nSubmitted: Nov. 3, 2009.\nDecided: Feb. 15, 2010.\nL. Vincent Ramunno, Esquire, Ramunno & Ramunno, P.A., Wilmington, DE, for Appellants.\nSean J. Bellew, Esquire, (argued) and David A. Felice, Esquire, Ballard Spahr Andrews & Ingersoll, LLP, Wilmington, DE, for Appellee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the Court en Banc."
+  },
+  "file_name": "0253-01",
+  "first_page_order": 287,
+  "last_page_order": 290
+}

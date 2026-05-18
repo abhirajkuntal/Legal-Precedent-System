@@ -1,0 +1,59 @@
+{
+  "id": 7289688,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. James WOODRUFF, Petitioner",
+  "name_abbreviation": "Commonwealth v. Woodruff",
+  "decision_date": "2010-12-22",
+  "docket_number": "No. 122 EM 2010",
+  "first_page": "900",
+  "last_page": "900",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 900"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 328,
+    "ocr_confidence": 0.702,
+    "sha256": "dc6b452e8d834394bf2f6569603fdd6ecc7e9e4b0c980f19d0b24ef4b9307c88",
+    "simhash": "1:5dbde127f3800a92",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T20:45:43.314120+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. James WOODRUFF, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of December, 2010, the Application for Leave to File Original Process is GRANTED, ar.d the Petition for Mandamus and/or Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. James WOODRUFF, Petitioner.\nNo. 122 EM 2010.\nSupreme Court of Pennsylvania.\nDec. 22, 2010."
+  },
+  "file_name": "0900-02",
+  "first_page_order": 900,
+  "last_page_order": 900
+}

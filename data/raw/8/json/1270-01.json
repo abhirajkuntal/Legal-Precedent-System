@@ -1,0 +1,639 @@
+{
+  "id": 7290279,
+  "name": "In re BRIDGEPORT FIRE LITIGATION, Appeal of Professional Flooring Co., Inc., Limerick Carpet & Flooring, Inc., Rose Line Inc. and Renu Electronics, Inc., Appellants. In re Bridgeport Fire Litigation, Appeal of Salmons Industries, Inc., Appellant. In re Bridgeport Fire Litigation, Appeal of Professional Flooring Co., Inc., Limerick Carpet & Flooring, Inc., Rose Line Inc. and Renu Electronics, Inc., Appellants. In re Bridgeport Fire Litigation, Appeal of Salmons Industries, Inc., Appellant. In re Bridgeport Fire Litigation, Appeal of Donald E. Haviland, Jr., Esquire and the Haviland Law Firm, Appellants",
+  "name_abbreviation": "In re Bridgeport Fire Litigation",
+  "decision_date": "2010-11-18",
+  "docket_number": "",
+  "first_page": "1270",
+  "last_page": "1294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2008 WL 7826242",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "412 F.3d 156",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8968177,
+        3440986
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/412/0156-01",
+        "/us-app-dc/366/0374-01"
+      ]
+    },
+    {
+      "cite": "452 U.S. 89",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313645
+      ],
+      "weight": 10,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "100"
+        },
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/452/0089-01"
+      ]
+    },
+    {
+      "cite": "885 A.2d 542",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8904273
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/885/0542-01"
+      ]
+    },
+    {
+      "cite": "228 F.R.D. 75",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        588510
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/228/0075-01"
+      ]
+    },
+    {
+      "cite": "886 A.2d 284",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8894541
+      ],
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/886/0284-01"
+      ]
+    },
+    {
+      "cite": "790 A.2d 300",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        404575,
+        9390919
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0646-01",
+        "/a2d/790/0300-01"
+      ]
+    },
+    {
+      "cite": "567 Pa. 646",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404575
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0646-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "2010 PA Super 190",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 A.2d 92",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "374 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1241438
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/374/0074-01"
+      ]
+    },
+    {
+      "cite": "494 F.2d 799",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        192996
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/494/0799-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 1076",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11633377,
+        607110,
+        11633332,
+        607124,
+        11633433,
+        607103
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1079"
+        },
+        {
+          "page": "1080"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/1076-02",
+        "/pa/556/0190-01",
+        "/a2d/727/1076-01",
+        "/pa/556/0189-02",
+        "/a2d/727/1076-03",
+        "/pa/556/0189-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 190",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607110
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0190-01"
+      ]
+    },
+    {
+      "cite": "521 F.2d 153",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        616262
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/521/0153-01"
+      ]
+    },
+    {
+      "cite": "259 Pa.Super. 37",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        106403
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "footnotes omitted"
+        },
+        {
+          "page": "709",
+          "parenthetical": "footnotes omitted"
+        },
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/259/0037-01"
+      ]
+    },
+    {
+      "cite": "638 F.2d 954",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1357478
+      ],
+      "pin_cites": [
+        {
+          "page": "957"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/638/0954-01"
+      ]
+    },
+    {
+      "cite": "166 F.3d 581",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1397166
+      ],
+      "pin_cites": [
+        {
+          "page": "590-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/166/0581-01"
+      ]
+    },
+    {
+      "cite": "576 F.2d 1157",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        934523
+      ],
+      "pin_cites": [
+        {
+          "page": "1216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/576/1157-01"
+      ]
+    },
+    {
+      "cite": "635 F.2d 501",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1348075
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "508"
+        },
+        {
+          "page": "508"
+        },
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/635/0501-01"
+      ]
+    },
+    {
+      "cite": "465 Pa. 225",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1712635
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/465/0225-01"
+      ]
+    },
+    {
+      "cite": "357 A.2d 574",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "party may not simultaneously attempt to repudiate contract and seek benefits thereunder"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "238 Pa.Super. 824",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "party may not simultaneously attempt to repudiate contract and seek benefits thereunder"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 A.2d 877",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "366 Pa. 385",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845597
+      ],
+      "year": 1951,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/366/0385-01"
+      ]
+    },
+    {
+      "cite": "112 A.2d 394",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "396",
+          "parenthetical": "\"One party to a contract cannot force rescission on the other parties thereto[.]\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "380 Pa. 600",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1256011
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "parenthetical": "\"One party to a contract cannot force rescission on the other parties thereto[.]\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/380/0600-01"
+      ]
+    },
+    {
+      "cite": "159 A.2d 48",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "contract may be rescinded or abandoned by mutual agreement of all parties"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "191 Pa.Super. 488",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        747329
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "contract may be rescinded or abandoned by mutual agreement of all parties"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/191/0488-01"
+      ]
+    },
+    {
+      "cite": "854 A.2d 425",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1329385,
+        9214675
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0479-01",
+        "/a2d/854/0425-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 479",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329385
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0479-01"
+      ]
+    },
+    {
+      "cite": "900 A.2d 398",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8414124
+      ],
+      "pin_cites": [
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0398-01"
+      ]
+    },
+    {
+      "cite": "955 A.2d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8214810,
+        8214580,
+        3991150
+      ],
+      "pin_cites": [
+        {
+          "page": "1020"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/955/1014-02",
+        "/a2d/955/1014-01",
+        "/pa/598/0210-01"
+      ]
+    },
+    {
+      "cite": "992 A.2d 132",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7287880
+      ],
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/992/0132-01"
+      ]
+    },
+    {
+      "cite": "951 A.2d 1222",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1926,
+    "char_count": 76446,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 9.235061288105269e-08,
+      "percentile": 0.5107973476445924
+    },
+    "sha256": "ef79218561a09c2278f02ae75978e2bc66db7008135cad53a2a6628e8a581016",
+    "simhash": "1:b5fe72f6c7deb86a",
+    "word_count": 12096
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BOWES, GANTMAN, and KELLY, JJ."
+    ],
+    "parties": [
+      "In re BRIDGEPORT FIRE LITIGATION, Appeal of Professional Flooring Co., Inc., Limerick Carpet & Flooring, Inc., Rose Line Inc. and Renu Electronics, Inc., Appellants. In re Bridgeport Fire Litigation, Appeal of Salmons Industries, Inc., Appellant. In re Bridgeport Fire Litigation, Appeal of Professional Flooring Co., Inc., Limerick Carpet & Flooring, Inc., Rose Line Inc. and Renu Electronics, Inc., Appellants. In re Bridgeport Fire Litigation, Appeal of Salmons Industries, Inc., Appellant. In re Bridgeport Fire Litigation, Appeal of Donald E. Haviland, Jr., Esquire and the Haviland Law Firm, Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBOWES, J.:\nThese five consolidated appeals were filed in a class action that has 321 class plaintiffs and settled for $35 million against seventeen defendants. Due to the complexity of the procedure and facts and the myriad issues raised, we have divided our discussion into clearly-designated sections.\nI. Factual and Procedural Matters\nA. Preliminary Procedural Background\nThis case arises from a May 15, 2001 fire that destroyed a commercial complex known as the Continental Business Center (the \u201cBusiness Center\u201d) located in Bridgeport, Pennsylvania. Over seventy commercial tenants lost their businesses and hundreds of individuals suffered damages. On May 24, 2001, six businesses affected by the fire, Professional Flooring Co. (\u201cProfessional\u201d), Limerick Carpet & Flooring, Inc. (\u201cLimerick\u201d), Rose Line, Inc. (\u201cRose\u201d), Salmons Industries, Inc. a/t/a Millie Switch (\u201cSalmons\u201d), Renu Electronics, Inc. (\u201cRenu\u201d), and Purdy-Pak, Inc. a/t/a Tite Pak, Inc. and PPI (\u201cPurdy-Pak\u201d), commenced a lawsuit in the Court of Common Pleas of Montgomery County by filing a complaint seeking to recover damages both on behalf of themselves and similarly-situated entities and individuals sustaining damages in connection with the fire. The defendants named in this 2001 complaint included various owners, operators, and managers of the Business Center. After the pleadings were closed, the six plaintiffs filed a motion: 1) seeking class certification pursuant to Pa.R.C.P. 1702; 2) requesting to be named as class representatives; and 3) asking that \u201cthe law firms of Kline & Specter, P.C. and High Swartz Roberts & Seidel, LLP be designated as counsel for the class.\u201d Memorandum Opinion and Order, 4/14/03, at 2. After appropriate legal analysis, the trial court granted class certification, designated the original six plaintiffs as the class representatives, and held that \u201cKline & Specter, P.C. and High, Swartz, Roberts & Seidel LLP are found to be adequate and are designated as class counsel.\u201d Id. at 11. The court included within the class\nAll persons and entities who suffered losses resulting from the fire that started on May 15, 2001 in the Continental Business Center situate in Bridgeport, Pennsylvania. Excluded from the class are defendants, additional defendants which may be named later, and their directors, officers, employees, affiliates and subsidiaries, as well as government entities.\nId.\nThe court approved of a notice to each class member about the pendency of the action and concerning each member\u2019s ability to opt out of the class action to pursue an individual action for damages sustained in the fire. A packet describing the class action was sent to each class member with notice of their right to opt out of this litigation and to file an individual lawsuit. None of the six original plaintiffs elected to opt out of this action to pursue an individual lawsuit.\nTwo years later, on May 14, 2003, Professional, Limerick, Rose, Salmons, Renu, and Purdy-Pak commenced a separate action in the Court of Common Pleas of Montgomery County against various defendants who were involved in the development, management, control, maintenance, and operation of the Business Center. The 2001 and 2003 lawsuits were then consolidated at docket number 2005-20924, civil division, in the Court of Common Pleas of Montgomery County.\nFollowing consolidation, a single action remained against more than thirty defendants at docket number 2005-20924. In January 2005, another class certification process was initiated at docket number 2005-20924 by previously-designated class counsel. The trial court made the identical class certification as that originally declared, with the exception that the language \u201cadditional defendants which may be named later\u201d was omitted. See Memorandum Opinion and Order, 1/6/05, at 12. Once again, it was ordered that notice of the class action and the opportunity to elect to be omitted from that class and to file an individual action be sent to all potential class members. Id. A second notice of class certification was sent to all class members; the court-approved notice to those members informed them again about the pendency of the class action and their right to opt out and to file an individual lawsuit to recover any damages sustained in the fire. Once again, none of the original six plaintiffs that had initiated the 2001 and 2003 lawsuits objected, opted out of the class, or sought a change of class counsel. Instead, they continued to operate as named class representatives.\nIn 2006, the class representatives obtained approval to file an amended complaint that included other entities with potential liability for the fire. On July 28, 2006, the class representatives, on behalf of themselves and the class, filed a \u201cConsolidated Amended Class Action Complaint,\u201d adding more defendants. Consolidated Amended Class Action Complaint, 7/28/06, at 1, 2. This 2006 amended complaint was filed at docket number 2005-20924, the same docket number where the second class certification had been filed. After amendment, there were thirty-seven defendants included within the class action. This lawsuit thereafter became captioned \u201cIn re: Bridgeport Fire Litigation.\u201d All appeals presently pending before this panel were filed at lower court docket number 2005-20924 and under that caption designation.\nIn order to establish liability, class counsel reviewed hundreds of thousands of documents, took 127 depositions, and secured twenty-six expert witness reports from eight different witnesses with expertise in economics, property management, electrical engineering, fire science, and fire cause and origin. Class counsel also reviewed the forty-one expert witness reports from thirty-six expert witnesses retained by the various defendants.\nB. Departure of Donald Haviland from Kline & Specter\nFrom May 2001 through August 2006, this ease proceeded smoothly. On September 6, 2006, Donald E. Haviland, Jr., Esquire, separated from his employment with the law firm of Kline & Specter P.C. (\u201cKline Specter\u201d). A short summary of the difficulties that resulted from that departure is set forth here as it is helpful in understanding some of the contentions raised in these appeals. We will describe in more detail the events that followed Mr. Haviland\u2019s departure from Kline & Specter later, when we resolve an appeal filed by Mr. Haviland and The Haviland Law Firm LLC from a restraining order entered by the trial court.\nThe May 24, 2001 complaint that was the genesis of the Bridgeport Fire Litigation was filed by the law firm of Levin, Fishbein, Sedran and Berman (\u201cLevin\u201d). At that time, Mr. Haviland was a member of Levin, but he soon thereafter joined Kline & Specter. On November 8, 2001, the appearance of Levin as counsel of record for the six named plaintiffs, which had not yet been named class representatives, was withdrawn and the appearance of Kline & Specter was entered. As described above, class certification was obtained on April 14, 2003, and Professional, Limerick, Rose, Salmons, Renu, and Pur-dy-Pak asked to be named the class representatives and also requested that High Swartz and Kline & Specter be appointed as class counsel. Both of those requests were granted in an April 14, 2003 memorandum and order. Mr. Haviland\u2019s name does not appear in that document. Thus, when Mr. Haviland left the firm, Kline & Specter was counsel of record for Professional, Limerick, Rose, Salmons, Renu, and Purdy-Pak as well as co-class counsel.\nOn September 6, 2006, Mr. Haviland notified Kline & Specter that he intended to work for The Haviland Law Firm LLC and sent a letter to various class members asking them to decide whether The Havi-land Law Firm LLC or Kline & Specter should be appointed class counsel. On September 7, 2006, Kline & Specter filed a petition seeking to prevent Mr. Haviland from communicating with the class. On September 11, 2006, the court granted the September 7, 2006 request and ordered Mr. Haviland to refrain from attempting to solicit class members in order to obtain his appointment as class counsel.\nIn response, on September 13, 2006, Mr. Haviland filed both a petition seeking to be appointed as class counsel and a praecipe changing the entry of appearance of counsel of record on behalf of five of the six named class-representatives, Professional, Limerick, Rose, Salmons, and Renu, from Kline & Specter to himself and The Havi-land Law Firm LLC. Kline & Specter responded to the September 13, 2006 petition and asked the court to strike Mr. Haviland\u2019s praecipe for change of entry of appearance of counsel. On October 10, 2006, Mr. Haviland filed an appeal to this Court from the September 11, 2006 trial court order that prevented him from communicating with class members.\nWhile that appeal was pending, the trial court conducted three evidentiary hearings on Mr. Haviland\u2019s September 13, 2006 petition seeking appointment as class counsel. On December 13, 2006, Mr. Haviland voluntarily praeciped to withdraw his September 13, 2006 petition. By order dated December 19, 2006, the trial court directed the withdrawal of Mr. Haviland\u2019s September 13, 2006 petition, and reaffirmed that Kline & Specter was to remain as co-class counsel. The court permitted Mr. Havi-land to act as personal counsel on behalf of Professional, Limerick, Rose, and Renu. Two of the six named class representatives, Purdy-Pak and Salmons, did not retain Mr. Haviland as their personal counsel.\nOn February 14, 2008, this Court vacated the September 11, 2006 restraining order against Mr. Haviland and directed that the trial court enter an order that more explicitly delineated the limitations on contact with class members that the trial court intended to impose on Mr. Haviland. In re Bridgeport Fire, 951 A.2d 1222 (Pa.Super.2008) (unpublished memorandum). As a result, on February 21, 2008, Mr. Haviland asked the trial court for permission to solicit communications from all the class members, and he tendered for court approval a letter that he desired to send to all the 821 plaintiffs herein. Kline & Specter sought an order preventing Mr. Haviland from communicating with the class without prior court approval. After five days of hearings, on May 16, 2008, the court entered an order that barred Mr. Haviland and The Haviland Law Firm LLC from sending the proposed letter to and from contacting any class member other than his four personal clients, Professional, Limerick, Rose, and Renu, without its prior approval.\nC. Pretrial/Trial/Settlement\nDespite the devotion of court and attorney resources to Mr. Haviland\u2019s effort to become class counsel, the class action itself did manage to progress, and the trial was set for February 4, 2008. In separate orders entered January 7, 2008, the court granted summary judgment to six defendants, Cadet Manufacturing Company, Inc. (\u201cCadet\u201d), Scatton\u2019s Heating & Cooling, Inc. (\u201cScatton\u201d), Shihadeh, Inc. (\u201cShi-hadeh\u201d), Pennsylvania-American Water Company (\u201cPA Water\u201d), C.J. Robinson Company, Inc. (\u201cC.J. Robinson\u201d), and Alpha Electric (\u201cAlpha\u201d). Class counsel assented to entry of the aforementioned summary judgment orders and the dismissals of these defendants because after nearly seven years of pretrial discovery, class counsel could not produce any evidence that these six entities were culpable for the fire that destroyed the Business Center. Mr. Haviland challenged those orders on behalf of Professional, Limerick, Rose, and Renu.\nOn January 14, 2008, the trial court entered another order that has been challenged herein by Professional, Limerick, Rose, and Renu. We therefore will briefly set forth the relevant background information about the January 14, 2008 order. As delineated above, on May 14, 2003, Professional, Limerick, Rose, Salmons, Renu, and Purdy-Pak instituted an action that was eventually consolidated with the original 2001 lawsuit at docket number 2005-20924. The May 14, 2003 complaint included among its named defendants the Montgomery County Industrial Development Authority (\u201cMCIDA\u201d). The MCIDA filed preliminary objections to the May 14, 2003 complaint, and on November 17, 2005, the trial court conditionally dismissed MCIDA. Thereafter, Mr. Haviland, ostensibly as personal counsel for Professional, Limerick, Rose, and Renu, filed a praecipe to reinstate the complaint against MCIDA. In the January 14, 2008 order, the trial court struck that praecipe.\nAs trial approached, seventeen defendants remained in this action. One hundred and seven motions in limine were filed, twenty-four of which were prepared by class counsel. The court conducted a hearing on pretrial matters that lasted nearly one month. During this time frame, settlement negotiations were pursued in earnest. Fifteen defendants settled for $80 million. The trial court preliminarily approved this settlement but deferred a hearing and final ruling as to that matter. Trial against two remaining defendants commenced in March 2008. During the course of trial, one of the defendants settled for $4 million.\nTrial continued for several weeks against the sole remaining defendant, Universal Electric. The matter was submitted to the jury, and during deliberations, the jury asked a question that indicated that it had concluded that Universal Electric was not liable. At that point, despite the tenor of the jury\u2019s inquiry, class counsel obtained another $1 million from Universal Electric. Thus, the total settlement agreement reached with respect to all defendants amounted to $85 million.\nNotice of the settlement was distributed to class members, and a fairness hearing was conducted on June 23, 2008, where all class members were permitted to voice objections. By order entered on July 10, 2008, the court approved the $35 million settlement in accordance with Pa.R.C.P. 1714 and appointed a claims administrator. By order entered September 2, 2008, the trial court awarded attorneys\u2019 fees to class counsel in the amount of $11,666,666.66.\nD. Appeals\nThere are presently five appeals pending before this panel. Appeal number 2924 EDA 2008 was filed by Professional, Limerick, Rose, and Renu from the July 10, 2008 order approving the class settlement. Appeal number 2925 EDA 2008 is an appeal by Salmons from the July 10, 2008 order approving the class settlement. Appeal number 2926 EDA 2008 is an appeal by Professional, Limerick, Rose, and Renu from the September 2, 2008 order approving attorneys\u2019 fees. Appeal number 2927 EDA 2008 is an appeal by Salmons from the September 2, 2008 order approving attorneys\u2019 fees. Professional, Limerick, Rose, and Renu are represented by Mr. Haviland and The Haviland Law Firm LLC while Salmons is represented by Matthew F. Corcoran, Esquire. Appeal number 774 EDA 2009 is an appeal by Donald E. Haviland, Jr., Esquire, and The Haviland Law Firm LLC from the May 16, 2008 order preventing them from sending the letter to the plaintiffs and otherwise communicating with the class members without prior court approval.\nProfessional, Limerick, Rose, and Renu also filed seven appeals from interlocutory orders, as follows. They filed separate appeals from each of the six January 7, 2008 orders dismissing Cadet, Scatton, Shihadeh, PA Water, C.J. Robinson, and Alpha as defendants. They also filed an appeal from the January 14, 2008 order striking their praecipe to reinstate the 2003 complaint as to defendant MCIDA. By previous order, this panel dismissed the appeals from these seven interlocutory-orders as duplicative because interlocutory orders are subject to review once an appeal is filed from the final order entered in an action. See Rohm and Haas Co. v. Lin, 992 A.2d 132, 149 (Pa.Super.2010) (\u201cOnce an appeal is filed from a final order, all prior interlocutory orders become reviewable.\u201d); Quinn v. Bupp, 955 A.2d 1014, 1020 (Pa.Super.2008) (\u201ca notice of appeal filed from the entry of the final order in an action draws into question the propriety of any prior non-final orders\u201d).\nII.Appeals of Professional, Limerick, Rose, and Renu At 2924 and 2926 EDA 2008\nA. Issues Presented\nIn their appeals from the July 10, 2008 and September 2, 2008 orders approving the class settlement and the attorneys\u2019 fees of class counsel, respectively, Professional, Limerick, Rose, and Renu have presented these arguments on appeal:\nI. Did the trial court err in dismissing, with prejudice and over objections, Appellants\u2019 non-class claims against the defendants for whom no class was ever certified and no class counsel appointment was ever made under [Pa.R.C.P.] 1701, et seq. ?\nII. Did the trial court err in striking sua sponte Appellants\u2019 Praecipe to Reinstate their non-class claims against defendant MCIDA when such Praecipe followed the express provisions of a stipulated Order allowing reinstatement by praecipe, and no hearing was conducted and no notice to the Class was sent as required by [Pa.R.C.P.] 1714?\nIII. Did the trial court err in dismissing, with prejudice and over objections, Appellants\u2019 claims against defendants for whom the court-appointed class counsel had stipulated to their dismissal, but without a hearing or notice as required by [Pa.R.C.P.] 1714?\nIV. Did the trial court err in approving a putative classwide settlement of Appellants\u2019 non-class claims against defendants for whom no class was ever certified and no class counsel appointment was ever made under [Pa.R.C.P.] 1701, et. seq.?\nV. Did the trial court err in granting final approval to a putative class action settlement, a claims administration process and attorneys\u2019 fees involving both class and non-class claims over the objections of the named plaintiffs?\nAppellants\u2019 Brief of Professional, Limerick, Rose, and Renu at 4. Although not specifically delineated in this statement of issues involved, in the argument portion of their brief, Professional, Limerick, Rose, and Renu also raise various challenges to the propriety of the class settlement and award of attorneys\u2019 fees.\nB. Positions that the Haviland Clients Have Retained Individual Claims in this Class Action and There is No Class Counsel\nAs evidenced by the above statement of questions involved, the factual premise underlying issues one, two, four, and five is that Professional, Limerick, Rose, and Renu are pursuing in this class action certain individual or \u201cnon-class\u201d claims against certain defendants and that their individual claims were improperly resolved as part of the class proceedings. The position that Professional, Limerick, Rose, and Renu have individual, non-class claims pending in this class action rests upon this assertion: \u201cIt is undisputed on this appeal that no class was ever certified as to Appellants\u2019 claims against the Newly-Added Defendants or MCIDA. No motion for class certification was ever filed by Class Counsel, as required by the Rules.\u201d Appellants\u2019 Brief of Professional, Limerick, Rose, and Renu at 19.\nWhile this argumentation is rather obtuse, the fact that it is meritless can be readily ascertained once the premise is explained with clarity: Professional, Limerick, Rose, and Renu are claiming that a second class certification was required when class counsel filed the amended complaint in 2006 at docket number 2005-20924. However, nothing in the rules or case law requires a second class certification merely due to the addition of new defendants. Class certification already had been obtained at the docket number where the 2006 amended complaint was filed, the amended complaint was filed by class counsel, and Professional, Limerick, Rose, and Renu themselves were designated as among the plaintiffs filing the complaint in their capacity as class representatives on behalf of the class.\nWe repeat the pertinent facts to illuminate the soundness of our decision. Two separate lawsuits were filed by Professional, Limerick, Rose, Renu, Salmons, and Purdy-Pak: one lawsuit was filed on May 24, 2001, and a second one was filed on May 14, 2003. As to the 2001 action, class certification was obtained, notice of the right to elect out of the class was sent, and Professional, Limerick, Rose, and Renu failed to opt out of the class. After the May 14, 2003 action was filed, the 2001 and 2003 actions were consolidated and assigned a new docket number, 2005-20924. At that docket number, class certification was obtained, notice of the right to avoid participation in the class action and to file an individual action was sent, and Professional, Limerick, Rose, and Renu again failed to opt out of the class and did not pursue individual lawsuits.\nThen, in 2006, class counsel filed on behalf of the entire class an amended complaint adding different defendants. That amended complaint was filed at docket number 2005-20924, where class certification had already been obtained. Professional, Limerick, Rose, and Renu argue, without citation to any legal authority, that the class had to be certified a second time at the same docket number because the class action complaint was amended to add new defendants. They continue that since the class was not re-certified after the 2006 amendment, they retained individual \u201cnon-class\u201d claims against all the defendants added in 2006.\nWe disagree with this position. No new class plaintiffs were added in the 2006 amended complaint. The 2006 amended complaint did not institute a new lawsuit and did not seek to recover on behalf of any individual or entity that was not already part of this class action. It was not filed at a new docket number, but rather at the docket number where class certification previously was obtained. Thus, this lawsuit did not have to be certified a second time after the 2006 amended complaint was filed because the action already had been certified as a class action. We therefore hold that the Bridgeport Fire Litigation does not to any extent involve individual, non-class claims by Professional, Limerick, Rose, and Renu.\nNext, as is evident in the statement of issues involved, Professional, Limerick, Rose, and Renu made another factual misstatement: there is no class counsel. The April 14, 2003 memorandum and order appointing class counsel was explicit, stating Kline & Specter and High Swartz are co-class counsel in the Bridgeport Fire Litigation. That appointment was never rescinded, and those two firms successfully prosecuted this complex matter to conclusion.\nThe entire foundation for the arguments presented in issues one, two, four, and five of the brief filed by Professional, Limerick, Rose, and Renu is a house of cards. There are no \u201cnon-class\u201d claims in the present litigation, and there is class counsel. Thus, Professional, Limerick, Rose, and Renu do not have the right in this class action to pursue individual claims against any defendant added in the 2006 amended complaint, and issues one, two, four, and five are meritless.\nC. Issue Three\nIn their third issue, Professional, Limerick, Rose, and Renu challenge the January 14, 2008 order striking their praecipe to reinstate the complaint against MCIDA and the six January 7, 2008 orders dismissing Cadet, Scatton, Shihadeh, PA Water, C.J. Robinson, and Alpha. They claim that the orders were improper because the trial court failed to comply with Pa.R.C.P. 1714(a), which states, \u201cNo class action shall be compromised, settled or discontinued without the approval of the court after hearing.\u201d We reject this contention. The orders in question did not discontinue, compromise, or settle the class action. Rather, they dismissed certain defendants because class counsel, after seven years of discovery, failed to uncover a basis upon which to premise liability against those six defendants.\nProfessional, Limerick, Rose, and Renu also argue that the orders in question were infirm because defendants were dismissed without court approval in violation of Pa. R.C.P. 229(b)(1), which states that \u201ca discontinuance may not be entered as to less than all defendants except upon the written consent of all parties or leave of court.\u201d See also Explanatory Comment (in class actions, court must approve dismissal of a defendant). This position is untenable since class counsel did not dismiss these defendants. Instead, after motion by those parties, the trial court entered the orders refusing to reinstate the complaint as to MCIDA and granting summary judgment to Cadet, Scatton, Shihadeh, PA Water, C.J. Robinson, and Alpha. Thus, contrary to these Appellants\u2019 position at page thirty-three of their brief, the court explicitly approved of the dismissals.\nD. Releases Executed In Connection With All Class Action Claims\nHaving clarified that Professional, Limerick, Rose, and Renu have no individual claims pending in this action, we now address their challenges to the propriety of the resolution of the class action itself. We hold that Professional, Limerick, Rose, and Renu are precluded from raising any arguments in this appeal relating to the propriety of the approval of class action and counsel fees due to their execution of releases.\nThe following facts are relevant. On August 20, 2009, Professional, Limerick, Rose, and Renu each signed a release accepting an amount determined by the claims administrator to be the value of their claims in this class action. The initial part of Professional\u2019s release states (emphases added),\nI, Charles Mueller, President of Professional Flooring Company, Inc. accept the amount of $140,978.98, plus $2,412.61 interest, as determined by the Claims Administrator, as full and final settlement of any and all claims arising out of the fire at the Continental Business Center on May 15, 2001. I understand that the Claims Administrator\u2019s determination is final and non-appealable. Professional Flooring Company, Inc., its principals, affiliates and assigns, forever remise, release, discharge and waive its right to pursue any and all claims, objections and appeals relating to the Bridgeport Fire Litigation and the claims administration process.\nThe first section of Limerick\u2019s release says (emphases added),\nI, name Charles G. Sithens, title Sec. Treasurer of M.L. Floor Covering/Limerick Carpet and Flooring, Inc. accept the amount of $165,824.05, plus $2,837.79 interest, as determined by the Claims Administrator, as full and final settlement of any and all claims arising out the fire at the Continental Business Center on May 15, 2001. I understand that the Claims Administrator\u2019s determination is final and non-appealable. M.L. Floor Covering/Limerick Carpet and Flooring, Inc., its principals, affiliates and assigns, forever remise, release, discharge and waive its right to pursue any and all claims, objections and appeals relating to the Bridgeport Fire Litigation and the claims administration process.\nThe beginning portion of Rose\u2019s release provides (emphases added),\nI, Arnold Nadler, President of Rose Line, Inc. accept the amount of $91,099.99, plus $1,559.02 interest, as determined by the Claims Administrator, as full and final settlement of any and all claims arising out the fire at the Continental Business Center on May 15, 2001. I understand that the Claims Administrator\u2019s determination is final and non-appealable. Rose Line, Inc., its principals, affiliates and assigns, forever remise, release, discharge and waive its right to pursue any and all claims, objections and appeals relating to the Bridgeport Fire Litigation and the claims administration process. I understand that $19,430.81 is being withheld from distribution pending resolution of my insurance carrier\u2019s subrogation lien.\nThe initial provisions of Renu\u2019s release are (emphases added),\nI, John Hadik, President of Renu Electronics, Inc. accept the amount of $1,008,512.02, plus $17,258.92 interest, as determined by the Claims Administrator, as full and final settlement of any and all claims arising out the fire at the Continental Business Center on May 15, 2001. I understand that the Claims Administrator\u2019s determination is final and non-appealable. Renu Electronics, Inc., its principals, affiliates and assigns, forever remise, release, discharge and waive its right to pursue any and all claims, objections and appeals relating to the Bridgeport Fire Litigation and the claims administration process. I understand that $136,003.10 is being withheld from distribution pending resolution of my insurance carrier\u2019s subrogation lien.\nAfter the releases were executed, the claims administrator asked each company to dismiss the present appeals in this action and, upon compliance with that request, promised to forward payment. On September 16, 2009, Mr. Haviland, on behalf of all four companies, sent a letter which he characterized as a rescission of the releases signed by his clients. In support of his position that the releases could be rescinded, Mr. Haviland stated that the release language was broader than was required in the order approving the class settlement and that the release did not \u201ccompel my clients to dismiss their meritorious appeals.\u201d Rather than repudiate that Professional, Limerick, Rose, and Renu had the right to receive payment from the claims administrator, in that letter, Mr. Haviland demanded that his clients be paid forthwith.\nWe hold that Mr. Haviland did not articulate any meritorious basis for avoiding the releases. Whether or not the releases contained language broader than that required under the order approving the settlement agreement, Professional, Limerick, Rose, and Renu are bound by the terms of the contracts that they executed. Those terms clearly provide that Professional, Limerick, Rose, and Renu waived their \u201cright to pursue any and all ... appeals relating to the Bridgeport Fire Litigation.\u201d The law is settled:\nWhere the parties, without any fraud or mistake, have deliberately put their engagements in writing, the law declares the writing to be not only the best, but the only, evidence of their agreement. All preliminary negotiations, conversations and verbal agreements are merged in and superseded by the subsequent written contract and unless fraud, accident or mistake be averred, the writing constitutes the agreement between the parties, and its terms and agreements cannot be added to nor subtracted from by parol evidence.\nGlassmere Fuel Service, Inc. v. Clear, 900 A.2d 398, 402 (Pa.Super.2006) (quoting Yocca v. Pittsburgh Steelers Sports, Inc., 578 Pa. 479, 854 A.2d 425, 486 (2004)). By clear wording, Professional, Limerick, Rose, and Renu waived their right to pursue class action claims in the Bridgeport Fire Litigation.\nThe rescission position of Professional, Limerick, Rose, and Renu is nothing more than an assertion that they did not like the release language in the document that they signed and did not want to be bound by that language. This assertion is not grounds for avoiding an agreement; a party to a written contract cannot simply decide that it does not care for the terms of the document and that it does not have to comply with them. There are no allegations of fraud or misrepresentation leveled, and Professional, Limerick, Rose, and Renu never attempted to avoid the benefits of the releases by disavowing their right to receive the funds. Indeed, they have continued to seek payment, by petition, on appeal. On the other hand, the class action plaintiffs have specifically asserted that the releases preclude Professional, Limerick, Rose, and Renu from pursuing their appeals in the class action. See Class Plaintiffs\u2019 Motion to Determine Mootness, 10/20/09.\nFor the reasons that follow, we agree with class plaintiffs\u2019 position that any contentions raised by Professional, Limerick, Rose, and Renu relating to the propriety of the class action have been rendered moot because the releases are valid and cannot be rescinded on the ground asserted in the letter authored by Mr. Haviland.\nContract rescission is permitted only in limited circumstances. First, a contract can be repudiated by mutual agreement of all parties to it. See Kirk v. Brentwood Manor Homes, Inc., 191 Pa.Super. 488, 159 A.2d 48 (1960) (contract may be rescinded or abandoned by mutual agreement of all parties). In this case, the class plaintiffs and claims administrator have not agreed to repudiate those documents and instead, have invoked their validity as grounds for dismissing the appeals by Professional, Limerick, Rose, and Renu. Additionally, Professional, Limerick, Rose, and Renu cannot prevail on any claim that the contracts were rescinded based upon their unilateral action. In re Roberts\u2019 Estate, 380 Pa. 600, 112 A.2d 394, 396 (1955) (\u201cOne party to a contract cannot force rescission on the other parties thereto[.]\u201d)\nA contract can also be avoided if it was procured by fraud or misrepresentation that has been relied upon by the party seeking to rescind the instrument. See La Course v. Kiesel, 366 Pa. 385, 77 A.2d 877 (1951). Professional, Limerick, Rose and Renu raised no allegation of fraud or misrepresentation in the procurement of the releases. Indeed, as analyzed above, the contract language is clear and unequivocal, and they were under no compulsion to execute the contracts containing that verbiage. Finally, we make the following observation. In the letter purporting to rescind the release, Professional, Limerick, Rose and Renu maintained that they were still entitled to be paid the funds, which is a posture that is inconsistent with rescission. Raw v. Lehnert, 238 Pa.Super. 824, 357 A.2d 574 (1976) (party may not simultaneously attempt to repudiate contract and seek benefits thereunder).\nThus, this Court concludes that: 1) the releases were not validly rescinded; and 2) based upon the clear language of the contracts, Professional, Limerick, Rose, and Renu have waived their right to litigate their two appeals relating to the propriety of the court\u2019s action in connection with the Bridgeport Fire Litigation. Hence, we affirm at numbers 2924 and 2926 EDA 2008.\nIII. Salmons\u2019s Appeals At Docket Numbers 2925 and 2927 EDA 2008\nA. Statement of Issues Involved\nSalmons, unlike Professional, Limerick, Rose, and Renu, did not execute a release and raises these contentions regarding the propriety of the settlement of the class action and award of attorneys\u2019 fees:\n1. Did the Trial Court err as a matter of Pennsylvania law in approving the settlement agreement proffered by the class lawyers over their client\u2019s objections?\n2. Did the Trial Court err and abuse its discretion in approving the class lawyers\u2019 settlement agreement?\n3. Did the Trial Court err by not sustaining some or all of Appellant\u2019s Objections as a matter of law?\n4. Did the Trial Court err in Granting Class Plaintiffs\u2019 Motion for Attorneys\u2019 Fees?\nSalmons\u2019s brief at 2.\nB. Approval of Class Action without Consent of Five of Six Named Class Representatives\nSalmons\u2019s first position is that the trial court erred as a matter of law because it approved a settlement that did not have the approval of class counsels\u2019 clients. Salmons\u2019s brief at 16. In this portion of its brief, however, Salmons has conflated the concepts of \u201cclass member\u201d with \u201cclass representative.\u201d By way of illustration, we quote from a portion of its brief, wherein Salmons posits that the agreement \u201cwas not sponsored at the Final Settlement and Fairness Hearing by any class member. In fact, it was formally opposed by five of six.... It is hardly surprising that this Honorable Court is now hearing the appeals of 5 of 6 Class Representatives about the contents of a \u2018settlement agreement\u2019 executed by the class lawyers alone.\u201d Salmons\u2019s brief at 8. Salmons has improperly used the concepts of class members and class representatives interchangeably. While all class representatives are class members, not all class members are class representatives. Salmons simply ignores the fact that there were 321 plaintiffs in this action, not just the six named class representatives, which were litigating this action on behalf of the entire class and not merely themselves.\nOur Supreme Court has clarified that in a class action, it is the members of the class who are actually the plaintiffs. \u201cWhen an action is instituted by a named individual on behalf of himself and a class, the members of the class are more properly characterized as parties to the action.\u201d Bell v. Beneficial Consumer Discount Co., 465 Pa. 225, 348 A.2d 734, 736 (1975). This principle derives from simple logic. The class representatives are named as such to pursue the action on behalf of the entire class. All members of the class are the plaintiffs in a class action and thus are the \u201cclients\u201d of class counsel. The class representatives constitute a portion rather than the entirety of the clients of class counsel. Thus, Salmons\u2019s attempt to equate \u201cclass representatives\u201d with the \u201cclass members\u201d is misguided and is nothing more that an attempt to place its interest above those of the entire class.\nWith that principle in mind, we address Salmons\u2019s first position on appeal, which is that the trial court was not permitted to approve of the class settlement because it was reached without the \u201cclients\u2019 consent and over the clients\u2019 objections.\u201d Salmons\u2019s brief at 16. It continues, \u201cThe Trial Court\u2019s approval of the agreement propounded by the class lawyers presents this threshold question: Is it ever proper, under Pennsylvania Law, for a court to approve a class action settlement executed and sponsored by lawyers alone \u2014 over the clients\u2019 objections?\u201d Id.\nGiven the fact that the 821 class members were the plaintiffs constituting class counsels\u2019 clients, Salmons\u2019s own argument necessarily fails. Of the 321 client class members, only five objected to the settlement. Thus, class counsel actually had the approval of over 98% of their clients. By Salmons\u2019s own rationale, the trial court as a matter of law should have approved of this settlement because nearly one hundred percent of class counsels\u2019 clients were satisfied with it.\nAn identical argument was addressed by the Fifth Circuit Court of Appeals in Kincade v. General Tire and Rubber Co., 635 F.2d 501, 508 (5th Cir.1981), where five of six of the named class representatives as well as other members of a class claimed that a class settlement was inapplicable to them because they did not consent to it. The Court noted that \u201cthe \u2018client\u2019 in a class action consists of numerous unnamed class members as well as the class representatives\u201d and that the class members often will not agree over resolution of the matter. Id. at 508. The Fifth Circuit observed that in light of these facts, class counsel must operate in a manner that counsel believes will be in the best interests of the class as a whole. The Court rejected the notion that each member of the class must approve of the settlement in order for it to be valid. It ruled, \u201cBecause of the unique nature of the attorney-client relationship in a class action, the cases cited by appellants holding that an attorney cannot settle his individual client\u2019s case without the authorization of the client are simply inapplicable.\u201d Id. Hence, in the present case, we reject the assertion that class counsel settled this action without the approval of their clients.\nWe now segue into Salmons\u2019s related position, which is, \u201cThere is no basis for Class Counsel or the Trial Court to override the will of the Class Representative/Appellant.\u201d Salmons\u2019s brief at 16. However, every case that Salmons relies upon in this section of its brief indicates that, contrary to its position herein, a class representative\u2019s consent is not necessary for the approval of settlement of a class action. Pettway v. American Cast Iron Pipe Co., 576 F.2d 1157, 1216 (5th Cir.1978) (\u201cthe assent of named plaintiffs is not a prerequisite to the approval of a settlement\u201d); accord Kincade, supra at 508; see also Lazy Oil Co. v. Witco Corp. 166 F.3d 581, 590-91 (3rd Cir.1999) (\u201cClass Counsel adequately represented the interests of all class members, even if some class members and some of the class representatives are unsatisfied with the results of Class Counsel\u2019s efforts.\u201d); Laskey v. International Union, UAW, 638 F.2d 954, 957 (6th Cir.1981) (\u201cThat the class counsel proposed a settlement which the named representatives opposed does not prove that the interests of the class were not protected.\u201d). We thus agree with the trial court\u2019s position that all the named class representatives did not have to assent to the settlement in order for it to be approved.\nSalmons also seeks to overturn an agreement uncontested by 98% of the class members on the ground that under the Pettway case, the \u201cviews of the class representatives are entitled to great weight.\u201d Salmons\u2019s brief at 21. Pettway bears no resemblance to this case because therein seventy percent of the class members, including class representatives, objected to the settlement reached by class counsel. Herein, we simply refuse to unravel a $35 million settlement because less than 2% of the class members are dissatisfied with it. Indeed, since Professional, Limerick, Rose, and Renu executed releases, Salmons remains the sole class member who can legally challenge the settlement. Salmons thus would have us dismantle a settlement that was seven years in the making against thirty-seven defendants for $35 million solely on the basis that its view of the agreement should prevail over the interests of all the other class members. We decline that invitation.\nC. Propriety of Decision Approving Class Settlement\nSalmons next argues that the trial court\u2019s scrutiny of the settlement agreement and class counsel\u2019s role in its procurement was legally insufficient. Salmons\u2019s brief at 22-27. In Buchanan v. Century Federal Savings and Loan Ass\u2019n, 259 Pa.Super. 37, 393 A.2d 704, 709 (1978) (footnotes omitted), this Court set forth the legal principles to which a trial court must adhere in considering whether to approve a class settlement:\nPrior to approving a class settlement, a lower court must conclude that it is fair and reasonable and adequately protects the members of the class. Although there is no formula for making such a determination, the criteria heretofore employed by the courts include evaluations of (1) the risks of establishing liability and damages, (2) the range of reasonableness of the settlement in light of the best possible recovery, (3) the range of reasonableness of the settlement in light of all the attendant risks of litigation, (4) the complexity, expense and likely duration of the litigation, (5) the stage of the proceedings and the amount of discovery completed, (6) the recommendations of competent counsel, and (7) the reaction of the class to the settlement. See, e.g., Girsh v. Jepson, 521 F.2d 153 (3d Cir.1975). In effect the court should conclude that the settlement secures an adequate advantage for the class in return for the surrender of litigation rights. As with valuation problems in general, there will usually be a difference of opinion as to the appropriate value of a settlement. For this reason, judges should analyze a settlement in terms of a \u201crange of reasonableness\u201d and should generally refuse to substitute their business judgment for that of the proponents. 3 H. Newberg, Newberg on Class Actions, \u00a7 5610b (1977).\nIn Dauphin Deposit Bank and Trust Co. v. Hess, 556 Pa. 190, 727 A.2d 1076, 1079 (1999), our Supreme Court approved of the Buchanan decision and indicated \u201cthat the Buchanan case states the appropriate factors to consider in approving or disapproving a class action settlement^]\u201d In Dauphin, the Court also ruled that \u201csettlements are favored in class action lawsuits and that the standard of review of the trial court\u2019s acceptance or rejection of a settlement proposal is abuse of discretion.\u201d Id. at 1080. Employment of an abuse-of-discretion standard is also in accord with the Buchanan decision where we opined:\nThe question on appeal from an order approving or disapproving a class settlement is whether the lower court abused its discretion in reaching its decision. Bryan v. Pittsburgh Plate Glass Co., 494 F.2d 799 (3d Cir.1974). Under Pennsylvania law, generally, an appellate court will find an abuse of discretion if the record shows that, \u201cthe law has been overridden or misapplied, or that the judgment exercised by the Court was manifestly unreasonable or motivated by partiality, prejudice, bias or ill-will.\u201d Rosenberg v. Silver, 374 Pa. 74, 77, 97 A.2d 92, 94 (1958).\nBuchanan, supra at 709.\nIn the present case, the trial court was cognizant of and discussed the Buchanan factors and analyzed those factors, to the extent that they were relevant. Trial Court Opinion, 3/11/09, at 5-10. We conclude that the court\u2019s approval of the settlement did not constitute an abuse of discretion. The first factor, the risk of establishing liability and damages, was significant because there were over thirty defendants and a contest over the cause of the fire. The $35 million fund obtained was within the range of reasonableness of the settlement in light of the best possible recovery, as follows. Class counsels\u2019 expert witness on damages estimated that the range of damages were between $31 and $41.7 million dollars while the defendants\u2019 economists claimed damages were one-third of that, or between $10 and $12 million. Clearly, the reasonableness of the settlement in light of the risks of litigation was extremely favorable to the class since it was within the range of damages that class plaintiffs could prove and was three times the damages estimates of the defense expert witnesses. With the number of defendants involved, litigation would have been complex and expensive; instead, the class only had to proceed with a shorter trial against two defendants. If the other defendants had remained in the action, making accusations against each other and obfuscating matters, the jury may have not returned a verdict against many of the settling defendants.\nAs to the fifth factor, discovery was completed, and counsel had a good basis for deciding which settlement amounts to accept from which defendants. Competent counsel, which Salmons itself asked to be appointed class counsel, recommended the settlement. Finally, as noted above, nearly all of the class members approved of the settlement. Thus, we conclude that the trial court\u2019s acceptance of the settlement proposal was not an abuse of discretion.\nD. Salmons\u2019s Specific Objections To Propriety Of Class Settlement\nSalmons has raised a series of specific objections to the class settlement. Since we have determined that the trial court did not abuse its discretion in approving the overall settlement, we question Salmons\u2019s ability to raise piecemeal objections to its propriety. Nevertheless, we will briefly discuss each of Salmons\u2019s contentions. First, Salmons argues that class counsel had a conflict of interest in that the \u201cagreement, negotiated and executed by Class Counsel, has a provision which would allow defendants to pay in and take out the other side as \u2018class members.\u2019\u201d Salmons\u2019s brief at 25. Salmons also raises the specter of collusion among class counsel and these defendants.\nThe class certification orders entered in this action prohibited a defendant from being considered a member of the class. The first class certification was:\nAll persons and entities who suffered losses resulting from the fire that started on May 15, 2001 in the Continental Business Center situate in Bridgeport, Pennsylvania. Excluded from the class are defendants, additional defendants which may be named later, and their directors, officers, employees, affiliates and subsidiaries, as well as government entities.\nOrder of Court, 4/14/OB. Then, since the class was unaware of those defendants\u2019 potential liability in connection with the fire when the original action was instituted, the class brought the 2003 lawsuit against new defendants. The second class certification order altered the definition of class plaintiffs so as to eliminate \u201cadditional defendants which may be named later.\u201d See Order of Court, 1/6/05. This language was deleted to prevent another defendant from excluding an injured plaintiff as a class member merely by asserting a claim against that plaintiff. Under the January 6, 2005 order, as long as the class had sued the defendant, that defendant was precluded from participating in the settlement.\nThen, in recognition that certain defendants were both partially responsible for but also injured parties vis a vis the fire, class counsel negotiated an agreement with some defendants wherein they paid settlement amounts but were going to be permitted to make a claim as a class plaintiff. These defendants were recognized by class counsel as injured settling defendants that would otherwise be class members but for the fact that they had some liability in connection with the matter. Class counsel did agree to allow the injured settling defendants to participate in the settlement pool as class plaintiffs. Counsel reasoned that these injured settling defendants could be considered class members because, as a result of the settlement, class plaintiffs would no longer have direct claims against those defendants.\nDespite the agreement, the trial court refused to permit the proposed change in the definition of the class. Thus, the class settlement order provided, \u201cAs is consistent with previous Orders of this Court, the Settlement does not amend the Class definition, and no Settling Defendant shall be permitted to make a claim against the Settlement Fund as a Class Member.\u201d Order of Court, 7/8/08 (emphasis added). In light of the trial court\u2019s action, we conclude that class counsel\u2019s attempt to obtain relief for entities both damaged by and partially responsible for the fire does not vitiate the overall settlement reached and approved herein. Salmons\u2019s certainly suffered no prejudice from counsel\u2019s action.\nClass counsel could be faulted if counsel: 1) failed to sue a responsible defendant; 2) improperly permitted a culpable party to be dismissed; or 3) negotiated an unsupported, low settlement with a defendant with potential liability. However, Salmons fails to substantiate the existence of any of these types of collusion. It does not delineate the name of a single defendant with potential liability that was not a party or was improperly dismissed from this action, nor does it establish by any specific aver-ments that a single liable defendant paid less than it should have tendered. In this portion of its brief, Salmons also continues to raise the untenable position that it alone is class counsel\u2019s client. See Salmons\u2019s brief at 27 (\u201cThe fact of the matter is that it is inconvenient for Class Counsel to have a client in this litigation.\u201d). The fact of the matter remains that 98% of class counsel\u2019s clients raised no objection to the settlement. Thus, we reject the assertion that the class action should be overturned based upon purported collusion among class counsel and the injured settling defendants.\nNext, Salmons raises two arguments related to subrogation. First, it avers that the trial court improperly permitted some insurers to be subrogated as to a portion of the proceeds received by that insurer\u2019s insured. It posits, \u201cThe class members have a right to recover their unreimbursed losses before a single penny can be paid to subrogating insurers.\u201d Salmons\u2019s brief at 28. Salmons also argues that the decision permitting subro-gation to be paid to certain insurers conflicts with a prior decision made by the trial court in this matter.\nSalmons was uninsured and had no sub-rogated insurance company seeking a portion of its funds. Furthermore, none of the other subrogated insurers will receive a portion of Salmons\u2019s settlement because each award to each class member contains a subrogation portion as between the insured class member and that class member\u2019s insurer. Thus, the amount that Salmons will receive will be unaffected by the fact that some insurance companies will be subrogated to the portion of the settlement proceeds paid to those companies\u2019 insureds. Salmons therefore raises an argument that it does not have standing to raise. See Epstein v. Saul Ewing, LLP, 2010 PA Super 190.\nIn another subrogation argument, Salmons posits, \u201cThe Agreement fails to convey the benefit of the $5 million in subrogation liens which were tendered to the class by Erie and CNA\u201d in exchange for the release. Salmons\u2019s brief at 32. As to this position, that Salmons did not receive the benefit of the subrogation claims released by Erie and CNA, we note the following. Salmons did not purchase insurance from either Erie or CNA and has no right to seek additional amounts arising from the fact that these insurance companies waived their subrogation rights in favor of their customers. That waiver inured to the benefit of those insurers\u2019 clients, which paid for coverage.\nFinally, Salmons claims a due process violation since it is precluded by the order approving the class settlement from appealing the claims administrator\u2019s assessment of the amount of its damages. See Salmons\u2019s brief at 34. The core requirements of due process are notice and the opportunity to be heard \u201cat a meaningful time and in a meaningful matter.\u201d Mathews v. Eldridge, 424 U.S. 319, 333, 96 S.Ct. 893, 47 L.Ed.2d 18 (1976); In re R.M., 567 Pa. 646, 790 A.2d 300, 305 (2002). In this case, Salmons\u2019s due process concerns are illusory. When this action was twice certified as a class action, Salmons had opportunities to elect out of this lawsuit and proceed with its own. It failed to avail itself of this opportunity. It was evident that: 1) each plaintiff in the class suffered different amounts of damages; 2) once settlement or verdict was reached, it would benefit the class as a whole; and 3) a procedure would have to be employed to determine each plaintiffs damages award. By seeking class-action resolution of its claim, Salmons necessarily assented to a system for processing the monetary awards and should have envisioned the practice employed.\nAdditionally, Salmons had an opportunity to object and be heard at the June 23, 2008 fairness hearing conducted on the settlement; it availed itself of this right, as well as its right to file these appeals from the approval of the settlement. We are therefore unpersuaded by Salmons\u2019s due process arguments. It had notice and an opportunity to be heard.\nE. Attorneys\u2019 Fees\nFinally, Salmons challenges the award of attorneys\u2019 fees. Pa.R.C.P. 1716 outlines the pertinent factors to be considered in connection with the award of attorneys\u2019 fees in a class action:\nIn all cases where the court is authorized under applicable law to fix the amount of counsel fees it shall consider, among other things, the following factors:\n(1) the time and effort reasonably expended by the attorney in the litigation;\n(2) the quality of the services rendered;\n(3) the results achieved and benefits conferred upon the class or upon the public;\n(4) the magnitude, complexity and uniqueness of the litigation; and\n(5) whether the receipt of a fee was contingent on success.\n\u201c[T]he order in which these factors are listed in the Rule is not in any way intended to suggest an order of priority on comparative importance in the determination of the fee.\u201d Explanatory Comment. A trial court\u2019s award of attorneys\u2019 fees is subject to an abuse-of-discretion standard of review. Signora v. Liberty Travel, Inc., 886 A.2d 284, 292 (Pa.Super.2005).\nHerein, discovery transpired over six years, and class counsel obtained two class certifications and filed three complaints against thirty-seven defendants. Counsel reviewed hundreds of thousands of documents, took 127 depositions, and secured eight expert witnesses who authored twenty-six expert reports. In turn, counsel reviewed forty-one expert reports from thirty-six defense expert witnesses. Counsel also prepared twenty-four motions in limine while reviewing and responding to eighty-three defense motions. There was a month-long pretrial proceeding. Class counsel then prepared for and engaged in a trial as to two defendants, one of which settled during its course. After what appeared to be a defense verdict in the making, counsel managed to obtain another $1 million settlement from the remaining defendant. Class counsel prepared briefs for these five appeals and prosecuted and defended against numerous motions on appeal. This time commitment was extensive and supported the fee in question.\nDefendants estimated overall damages at $10 to $12 million, one-third of the overall settlement. The $85 million settlement was in the range of damages set by the expert witness for the class. Thus, the settlement was a success and conferred a significant benefit upon the class. This case was immensely complex with 321 plaintiffs and thirty-seven defendants and spanned many years. The question of liability for a fire is not a routine negligence question. Finally, class counsels\u2019 fee was entirely contingent, and it had to advance over $1 million in costs to pursue this litigation to a successful conclusion. All of these factors militate in favor of the award in question, and we conclude that the trial court did not abuse its discretion in this case.\nThe appeals at 2925 and 2927 EDA 2008 are affirmed.\nIV. Appeal of Mr. Haviland and The Haviland Law Firm LLC at 774 EDA 2009\nIn this appeal, Mr. Haviland and The Haviland Law Firm LLC challenge the May 16, 2008 order that restrained Mr. Haviland from sending a proposed letter to class members and from communicating with class members without prior approval of the court. We now examine the pertinent factual findings of the trial court.\nThe May 24, 2001 complaint that initiated the Bridgeport Fire Litigation was filed by the law firm of Levin. At that time, Mr. Haviland was a member of Lev-in, but he joined Kline & Specter shortly after the litigation was commenced. On November 8, 2001, the appearance of Lev-in as counsel of record for the six named plaintiffs, which had not yet been named class representatives, was withdrawn and the appearance of Kline & Specter was entered. Professional, Limerick, Rose, Salmons, Renu, and Purdy-Pak sought class certification, asked to be named the class representatives, and requested that High Swartz and Kline & Specter be appointed as class counsel. Both of those requests were granted in an April 14, 2008 memorandum and order. Mr. Haviland\u2019s name does not appear in that document, and he was not named as class counsel. Thus, Kline & Specter was counsel of record for Professional, Limerick, Rose, Salmons, Renu, and Purdy-Pak as well as co-class counsel.\nOn September 6, 2006, Mr. Haviland notified Kline & Specter that he intended to work for The Haviland Law Firm LLC and sent a letter to various class members asking them to decide whether The Havi-land Law Firm LLC or Kline & Specter should be appointed class counsel. On September 7, 2006, Kline & Specter filed a petition seeking to prevent Mr. Haviland from communicating with the class. On September 11, 2006, the court granted Kline & Specter\u2019s September 7, 2006 request and ordered Mr. Haviland to refrain from attempting to solicit class members in order to obtain his appointment as class counsel. On September 13, 2006, Mr. Ha-viland filed both a petition seeking to be appointed as class counsel and a praecipe changing the entry of appearance of counsel of record on behalf of Professional, Limerick, Rose, Salmons, and Renu, but not Purdy-Pak, from Kline & Specter to himself and The Haviland Law Firm LLC. Kline & Specter responded to the September 13, 2006 petition and also asked the court to strike Mr. Haviland\u2019s praecipe for change of entry of appearance of counsel. On October 10, 2006, Mr. Haviland filed an appeal to this Court from the September 11, 2006 order preventing him from communicating with class members.\nOn November 17, 2006, the trial court conducted the first of three evidentiary hearings on Mr. Haviland\u2019s September 13, 2006 petition seeking appointment as class counsel. Then, on December 13, 2006, Mr. Haviland voluntarily praeciped to withdraw his September 13, 2006 petition seeking to be appointed class counsel. By order dated December 19, 2006, the trial court directed the withdrawal of Mr. Havi-land\u2019s September 13, 2006 petition, and reaffirmed that Kline & Specter was to remain as co-class counsel. The court allowed Mr. Haviland to act as personal counsel on behalf of Professional, Limerick, Rose, and Renu. This Court vacated the September 11, 2006 restraining order against Mr. Haviland and directed that the trial court enter an order that more explicitly delineated the limitations on contact with class members that the trial court intended to impose on Mr. Haviland. In re Bridgeport Fire Litigation, supra.\nAs a result, on February 21, 2008, Mr. Haviland sought permission from the trial court to solicit communications from all the class members, and he tendered for court approval a letter that he wanted to send to the plaintiffs herein. By that time, class counsel had negotiated a settlement with some defendants and trial was imminent. The letter read:\nThis is to advise you that I have left Kline and Specter law firm, one of the Court-appointed class counsel in the Bridgeport Fire Litigation. I have formed a new law firm, The Haviland Law Firm, LLC, which has offices at the below listed address. As you may recall, back in October 2001,1 left the law firm of Levin, Fishbein, Sedran & Ber-man, at which I had filed the original Bridgeport Fire lawsuit on behalf of several businesses, to go to Kline & Specter.\nIn the Fall of 2006, you received a letter from Judge O\u2019Neill in the Bridgeport Fire litigation indicating that Kline & Specter would continue to act as counsel for the class in this case. The same remains true today. With the Court\u2019s consent, however, I am writing to you to notify you that I continue to act as personal counsel to 5 of the 6 named representative plaintiffs who filed the original lawsuit, namely, Professional Flooring Co. Inc., Limerick Carpet & Flooring, Inc., Rose Line Inc., Salmons Industries, Inc. a/t/a Millie Switch, and Renu Electronics, Inc. I also continue to act as personal counsel to absent class member George Automotive, Inc.\nI have sent this letter to you to assure that you have been notified of my departure from Kline & Specter, and of my continued individual representation of certain plaintiffs in the case. If you have any questions, you may call me at your convenience.\nAfter Mr. Haviland sought permission to send this letter, Kline & Specter countered with a motion seeking to prevent Mr. Ha-viland from communicating with the class without prior court approval. After five days of hearings, on May 16, 2008, the court entered an order barring Mr. Havi-land from sending the proposed letter to any class member other than his personal clients and also barring him from communicating with any class member other than his personal clients without prior approval of the trial court.\nThe court concluded that the letter that Mr. Haviland wanted to send to the class members was misleading in nearly all respects. First, the letter incorrectly implied that Mr. Haviland recently left Kline & Specter and created a new law firm when he had done so eighteen months previously. Second, the letter failed to define legal terminology such as \u201cclass counsel\u201d and \u201cpersonal counsel\u201d and the vital distinctions between the two terms. Third, the letter was confusing because it stated, \u201cAs you may recall, back in October 2001, I left the law firm of Levin, Fishbein, Sedran & Berman, at which I filed the original Bridgeport Fire lawsuit on behalf of several businesses, to go to Kline & Specter.\u201d This sentence was unclear because the class was not certified in 2001 and 98% of the class members would not \u201crecall\u201d the fact set forth in the letter. In addition, the court observed that the sentence set forth that Mr. Haviland\u2019s 2001 change in law firms did not affect his ability to handle this action, thus creating the false impression that his 2006 change in law firms from Kline & Specter to The Haviland Law Firm LLC also would not affect his ability to handle the Bridgeport Fire Litigation. The court noted that this implication was incorrect because Kline & Specter, not Mr. Haviland, was appointed as co-class counsel and had operated as such since the action was designed as a class action.\nThe court additionally found that the fourth and fifth sentences of the letter were wrong because they indicated that all class members received a letter in fall 2006 from the trial court that Kline & Specter would remain as class counsel following Mr. Haviland\u2019s departure from that firm. However, only the six named class representatives received that communication. Finally, the trial court was displeased with the phrase that the letter was being sent with the trial court\u2019s consent because that language implied that the trial court approved or endorsed Mr. Haviland\u2019s representation of his clients in a personal capacity, which was untrue. The trial court had one last problem with content:\nFinally, in the Proposed Letter, Mr. Haviland requests that the recipient Class Members call him at their conven-fence. This request juxtaposed with the misleading statement that he still represents certain Class Members who are the Class Representatives in this case would likely serve to delude the recipient Class Members into believing that they can contact Mr. Haviland if they have any legal questions about this litigation. This would be entirely improper. For all matters Bridgeport Fire related, the recipient Class Members must contact their appointed Class Counsel, not Mr. Haviland. In his request for telephone contact, Mr. Havi-land fails to make this vital distinction.\nTrial Court Order, 5/16/08, at \u00b6 25. Thus, the court found the entire letter inappropriate.\nThe court refused to permit Mr. Havi-land to send the letter because it contained \u201cmisleading, confusing and improper statements\u201d and the proposed fetter created \u201ca very real risk of disrupting this entire litigation, especially at this precarious moment of partial settlement.\u201d Id. at \u00b6 26. The court explained that it did not credit \u201cMr. Haviland\u2019s stated motive for sending the fetter that he simply wishes to inform former clients of his change of law firms.\u201d Id.\nThe trial court also was troubled by the fact that Mr. Haviland represented at one of the hearings that he had not sent professional announcements about the formation of The Haviland Law Firm, LLC, when Klein & Specter established that this representation was untrue because Mr. Haviland had disseminated announcements in that respect. Furthermore, the trial court disapproved of the fact that after he no longer was an attorney with the firm that was named co-class counsel, Mr. Havi-land attempted to negotiate settlements in this litigation from several defendants on behalf of the class. In addition, the trial court observed that after he left Kline & Specter, Mr. Haviland continued to file legal documents purportedly on behalf of his clients, but obviously with the intent of disrupting the orderly progression of this class action litigation.\nThe court concluded that the \u201cProposed Letter represents Mr. Haviland\u2019s latest attempt to improperly disrupt this Class Action by soliciting Class Members to contact him about this litigation, and thereby risk irreparably harming the Class in order to advance his own interests.\u201d Id. at \u00b636. It entered the following conclusions of law:\n37. Mr. Haviland\u2019s Proposed Letter seeks to communicate about this litigation to parties already represented by counsel in this litigation, which is in violation [of] Rule 4.2 of the Pennsylvania Rules of Professional Conduct.\n38. The Proposed Letter makes false and misleading statements regarding Mr. Haviland\u2019s legal services, which is in violation of Rule 7.1 of the Pennsylvania Rules of Professional Conduct.\n39. Mr. Haviland has made various misrepresentations to this Court, which raise questions concerning the law of perjury, 18 Pa.C.S.A. \u00a7 4902. These include misrepresentations that he never sent professional announcements regarding the formation of The Haviland Law Firm and that Mr. Otis [counsel for a defendant] initiated contact with him concerning settlement negotiations.\n40. Mr. Haviland has made unethical misrepresentations damaging to class members in other class action litigation, namely In re: Lupron Marketing and Sales Practices Litigation, 228 F.R.D. 75 (D.Mass.2005).\n41. A court has the authority to issue an injunction restricting communications between a party and the class, provided that the court has laid out specific factual findings demonstrating the need for such an injunction. Pennsylvania Orthopaedic Society v. Independence Blue Cross, 885 A.2d 542 (Pa.Super.2005); Gulf Oil Co. v. Bernard, 452 U.S. 89, 101 S.Ct. 2193, 68 L.Ed.2d 693 (1981). As detailed at-length supra, this Court has done so.\n42. Furthermore, pursuant to [Pa. R.C.P.] 1713, the Court has broad powers to issue Orders \u201cfor the protection of the members of the class.\u201d\n43. The Court is sensitive to First Amendment concerns raised by an injunction. However, the Court finds that Class Counsel has met its burden in showing that a greater injury would result by refusing the injunction than by granting it. See id.\n44. Pursuant to the framework laid out by the. United States Supreme Court in Gulf Oil and by the Pennsylvania Superior Court in Pennsylvania Orthopaedic Society, and the aforementioned findings of Facts and Conclusions of Law made by the Court, the Court finds that the prerequisites justifying the issuance of a restraining order have been met.\nId. at \u00b6\u00b6 37-44.\nIn Pennsylvania Orthopaedic Society v. Independence Blue Cross, 885 A.2d 542 (Pa.Super.2005), we addressed the propriety of an order preventing communications to class members in a class action. In that case, the trial court issued a temporary restraining order that restricted communications by various entities to potential class members. Therein, we first observed that injunctive relief may be granted only when the moving party has established immediate and irreparable harm that cannot be compensated by damages and that greater injury would result by refusing the injunction. We continued that Pa.R.C.P. 1713 grants a trial court authority to issue orders to control a class action. That rule states that \u201cfor the protection of the members of the class or otherwise for the fair conduct of the action,\u201d that notice \u201cmay be given in such manner as the court may direct.\u201d Pa. R.C.P. 1713(a)(2)(tracking Federal Rule 23(d)).\nWe observed that in Gulf Oil Co. v. Bernard, 452 U.S. 89, 101 S.Ct. 2193, 68 L.Ed.2d 693 (1981), the United States Supreme Court concluded that Federal Rule 23(d) authorized a trial court supervising a class action to enter orders limiting communications to class members to ensure the orderly administration of these complex cases. In Gulf Oil Co., the district court issued a temporary restraining order limiting communications between an attorney and the putative class, but that court did not issue any factual findings. The Supreme Court specifically held that, due to a potential for abuse involving class communications, \u201ca district court has both the duty and the broad authority to exercise control over a class action and to enter appropriate orders governing the conduct of counsel and parties.\u201d Id. at 100, 101 S.Ct. 2193. The Court did reverse the district court therein based on that court\u2019s failure to make factual findings. It ruled that \u201can order limiting communications between parties and potential class members should be based on a clear record and specific findings that reflect a weighing of the need for a limitation and the potential interference with the rights of the parties.\u201d Id. at 101, 101 S.Ct. 2193 (footnote omitted).\nIn Pennsylvania Orthopaedic Society, we adopted the Gulf Oil Co. rationale and held that under Pa.R.C.P. 1713(a)(2), a trial court presiding over a class action can control communications to class members in order to protect the class or to ensure the fair conduct of the action. We also stated that the temporary restraining order at issue therein was warranted because the trial court identified specific misleading or confusing statements in the class communications that compromised the ability of class members to make informed and reasoned choices regarding their participation in the class and acceptance of settlement.\nHerein, the trial court\u2019s factual findings are supported by the record. It conducted hearings and identified how nearly every sentence in Mr. Haviland\u2019s letter was confusing or misleading. It concluded that Mr. Haviland was not attempting to aid in the advancement and settlement of this class action but rather to promote his own interest. The trial court observed that the class action was in the final stages, settlements had been reached with various defendants, and the matter was about to proceed to trial. It ruled that Mr. Havi-land\u2019s communication would disrupt the flow of the action, interfere with the class members\u2019 ability to obtain funds, and cause irreparable harm to the action itself. In light of its factual determinations, the trial court\u2019s decision is unassailable under the applicable law. Hence, we affirm at 774 EDA 2009.\nApplication for relief filed by Salmons under docket numbers 2925 and 2927 EDA 2008 is dismissed as moot. Application for Peremptory Mandamus filed by Professional under docket number 2924 EDA 2008 is dismissed as moot. Motion to Determine Mootness filed by Class Plaintiffs under docket number 2917 EDA 2008 is dismissed as moot. Application to Quash Appeal filed by Alpha under docket number 2917 EDA 2008 is dismissed as moot. Application to Quash Appeal filed by C.J. Robinson under docket number 2917 EDA 2008 is dismissed as moot. Application to Quash Appeal filed by Cadet under docket number 2917 EDA 2008 is dismissed as moot. Application to Enforce April 20, 2009 order filed by Salmons under docket numbers 2925 and 2927 EDA 2008 is dismissed as moot. Orders affirmed.\n. Other defendants were dismissed under circumstances that are not relevant for purposes of these appeals.\n. Pa.R.C.P. 1714, relating to compromise, settlement, and discontinuance of class actions, states:\n(a) No class action shall be compromised, settled or discontinued without the approval of the court after hearing.\n(b) Prior to certification, the representative party may discontinue the action without notice to the members of the class if the court finds that the discontinuance will not prejudice the other members of the class,\n(c)If an action has been certified as a class action, notice of the proposed compromise, settlement or discontinuance shall be given to all members of the class in such manner as the court may direct.\n. This case has been called in doubt on different grounds. See Outlaw v. Airtech Air Conditioning and Heating, Inc., 412 F.3d 156 (D.C.Cir.2005).",
+        "type": "majority",
+        "author": "BOWES, J.:"
+      }
+    ],
+    "attorneys": [
+      "Matthew F. Corcoran and Charles L. Becker, Philadelphia and Henry F. Siedzi-kowski, Blue Bell, for Professional Flooring.",
+      "Nicole B. LaBletta, Paoli, for Alpha Electric.",
+      "Holly Kloos, Exton, for C.J. Robinson.",
+      "Steven Cherry, Philadelphia, for Cadet Manufacturing.",
+      "Thomas B. Schmidt, III, Harrisburg, for Erie Insurance.",
+      "Thomas S. Brown, Philadelphia, for Mutual Boiler.",
+      "John R. Brown, Philadelphia, for Panther Products.",
+      "Frank R. Emmerich, Jr., Philadelphia, for Pennsylvania Water.",
+      "Joseph F. McNulty, Philadelphia, for Royal Bank.",
+      "Catherine M. Lecky, Philadelphia, for Scatton\u2019s Heating & Cooling.",
+      "George F. Dale, Philadelphia, for Shiha-deh.",
+      "William Dudek, Doylestown, for Sweet-zel\u2019s."
+    ],
+    "corrections": "",
+    "head_matter": "In re BRIDGEPORT FIRE LITIGATION, Appeal of Professional Flooring Co., Inc., Limerick Carpet & Flooring, Inc., Rose Line Inc. and Renu Electronics, Inc., Appellants. In re Bridgeport Fire Litigation, Appeal of Salmons Industries, Inc., Appellant. In re Bridgeport Fire Litigation, Appeal of Professional Flooring Co., Inc., Limerick Carpet & Flooring, Inc., Rose Line Inc. and Renu Electronics, Inc., Appellants. In re Bridgeport Fire Litigation, Appeal of Salmons Industries, Inc., Appellant. In re Bridgeport Fire Litigation, Appeal of Donald E. Haviland, Jr., Esquire and the Haviland Law Firm, Appellants.\nSuperior Court of Pennsylvania.\nArgued Jan. 12, 2010.\nFiled Nov. 18, 2010.\nSee also, 2008 WL 7826242.\nMatthew F. Corcoran and Charles L. Becker, Philadelphia and Henry F. Siedzi-kowski, Blue Bell, for Professional Flooring.\nNicole B. LaBletta, Paoli, for Alpha Electric.\nHolly Kloos, Exton, for C.J. Robinson.\nSteven Cherry, Philadelphia, for Cadet Manufacturing.\nThomas B. Schmidt, III, Harrisburg, for Erie Insurance.\nThomas S. Brown, Philadelphia, for Mutual Boiler.\nJohn R. Brown, Philadelphia, for Panther Products.\nFrank R. Emmerich, Jr., Philadelphia, for Pennsylvania Water.\nJoseph F. McNulty, Philadelphia, for Royal Bank.\nCatherine M. Lecky, Philadelphia, for Scatton\u2019s Heating & Cooling.\nGeorge F. Dale, Philadelphia, for Shiha-deh.\nWilliam Dudek, Doylestown, for Sweet-zel\u2019s.\nBEFORE: BOWES, GANTMAN, and KELLY, JJ."
+  },
+  "file_name": "1270-01",
+  "first_page_order": 1296,
+  "last_page_order": 1320
+}

@@ -1,0 +1,451 @@
+{
+  "id": 7285361,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Fred Charles MORAN, Appellant",
+  "name_abbreviation": "Commonwealth v. Moran",
+  "decision_date": "2010-08-16",
+  "docket_number": "",
+  "first_page": "273",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 273"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "913 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851211,
+        8436668
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0480-01",
+        "/a2d/913/0207-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 480",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851211
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0480-01"
+      ]
+    },
+    {
+      "cite": "484 Pa. 486",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1753720
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/484/0486-01"
+      ]
+    },
+    {
+      "cite": "252 Pa.Super. 15",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        93823
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "1264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/252/0015-01"
+      ]
+    },
+    {
+      "cite": "490 Pa. 303",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1763814
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Where the intention of the actor is obvious from the act itself, the finder of fact is justified in assigning the intention that is suggested by the conduct.\""
+        },
+        {
+          "page": "485",
+          "parenthetical": "\"Where the intention of the actor is obvious from the act itself, the finder of fact is justified in assigning the intention that is suggested by the conduct.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0303-01"
+      ]
+    },
+    {
+      "cite": "830 A.2d 537",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9097945,
+        587962
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "542",
+          "parenthetical": "quoting Commonwealth v. Meredith, 490 Pa. 303, 416 A.2d 481, 485 (1980) (\"Where the intention of the actor is obvious from the act itself, the finder of fact is justified in assigning the intention that is suggested by the conduct.\")"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/830/0537-01",
+        "/pa/574/0233-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        587962
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Commonwealth v. Meredith, 490 Pa. 303, 416 A.2d 481, 485 (1980) (\"Where the intention of the actor is obvious from the act itself, the finder of fact is justified in assigning the intention that is suggested by the conduct.\")"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0233-01"
+      ]
+    },
+    {
+      "cite": "672 A.2d 314",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7348360,
+        732366
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "318"
+        },
+        {
+          "page": "318"
+        },
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/672/0314-01",
+        "/pa-super/448/0470-01"
+      ]
+    },
+    {
+      "cite": "408 Pa.Super. 518",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1163269
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/408/0518-01"
+      ]
+    },
+    {
+      "cite": "782 A.2d 574",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9471994
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/782/0574-01"
+      ]
+    },
+    {
+      "cite": "795 A.2d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9428153
+      ],
+      "pin_cites": [
+        {
+          "page": "1038-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/795/1025-01"
+      ]
+    },
+    {
+      "cite": "876 A.2d 1029",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8968757
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1032"
+        },
+        {
+          "page": "1032"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/876/1029-01"
+      ]
+    },
+    {
+      "cite": "744 A.2d 745",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        95754,
+        11491051
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0308-01",
+        "/a2d/744/0745-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 308",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95754
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0308-01"
+      ]
+    },
+    {
+      "cite": "819 A.2d 1198",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9355056
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1204"
+        },
+        {
+          "page": "1207"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/819/1198-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 409",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4193624,
+        8163770
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/600/0001-01",
+        "/a2d/963/0409-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4193624
+      ],
+      "year": 2009,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/600/0001-01"
+      ]
+    },
+    {
+      "cite": "710 A.2d 1083",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        507805,
+        11841839
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1088"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/551/0318-01",
+        "/a2d/710/1083-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507805
+      ],
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/551/0318-01"
+      ]
+    },
+    {
+      "cite": "913 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851211,
+        8436668
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/590/0480-01",
+        "/a2d/913/0207-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 480",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851211
+      ],
+      "year": 2006,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/590/0480-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1397,
+    "char_count": 35361,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 6.979995166813513e-08,
+      "percentile": 0.4223520367403659
+    },
+    "sha256": "09dd10bb841526e75a328ebf9e6ee525ac00305b0edbd0bd0ec860efedf52897",
+    "simhash": "1:936d843acf7ec5a4",
+    "word_count": 5653
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BENDER, OTT and KELLY, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Fred Charles MORAN, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBENDER, J.:\nFred Charles Moran appeals the judgment of sentence imposed following his conviction of Bribery in Official and Political Matters, 18 Pa.C.S. \u00a7 4701. Moran contends that the evidence adduced was not legally sufficient to establish that he acted with criminal intent and/or to gain an unlawful benefit as required by the statute. In addition, he contends that the trial court abused its discretion in denying counsel\u2019s requests to instruct the jury on culpability in conformity with 18 Pa.C.S. \u00a7 302. Upon review, we find the evidence more than ample to sustain Moran\u2019s conviction. Moreover, in view of the measure of intent inherent in the language of the bribery statute and the overwhelming nature of the evidence of intent in this case, we find no abuse of discretion in the trial court\u2019s refusal to instruct the jury in conformity with 18 Pa.C.S. \u00a7 302.\nThe trial judge, the Honorable Harold A. Thompson, Jr., S.J., ably summarized the facts of this case in his Opinion pursuant to Pa.R.A.P. 1925(a):\nDefendant was a well-known politician in Haverford Township (\u201cTownship\u201d), Delaware County, Pennsylvania. He had served for many years as a Township Commissioner. Several years ago, the Commonwealth sold its interests in a several hundred acre parcel located entirely within the Township and formerly operated as the Haverford State Mental Hospital, to the Township for its use. The Township\u2019s proximity to Philadelphia, the relative lack of undeveloped land within the Township, and availability of undeveloped open space in the parcel made this sizeable realty transfer a very valuable asset. The Township examined many opportunities and options to determine the best use for the real estate consistent with its obligation to the people of the Township both as stewards of its development and as conservators of open space for the greater good.\nIn February 2003, the Township Commissioners, by a 5-to-4 vote, decided to retain the services of a consultant ... to supervise the disposition of the parcel.... [The consultant] prepared and issued a Request for Proposals to solicit bid proposals for the property. In December 2003, the developer Goldenberg-Pohlig, doing business as Haverford Hills, L.P. (\u201cHH\u201d), was selected to develop the ground and the Township preliminarily agreed to sell about 61 acres for about $30.65 million dollars.\n* * *\nThe original sale arrangement became unworkable when [Commissioner Andrew] Lewis discovered, in September of 2004, that HH planned on using 74 acres of the Haverford Hospital grounds (including roads) even though the agreement only called for a transfer of a 61 acre parcel. [Commissioners] Lewis and D\u2019Emilio commenced informal discussions with HH. On November 15, 2005, the Township\u2019s Commissioners officially voted to rescind the prior agreement and approved formal renegotia-tions with HH. New discussions took place which resulted in new terms. A restructured arrangement, negotiated in November 2005 and approved at [the] Board of Commissioners meeting the following month involved the transfer of slightly less than 40 acres and a price tag of $17 million. It contemplated the development of 198 age-restricted condominiums, 100 age-restricted carriage houses and 80 single family dwellings. These units would only be made available to people 55 years or older and allowed no school-age children to live there on a permanent basis. In addition, the revised arrangement made practical the prospect of including 6 ball-fields in the development (a component of the prior arrangement but which was not possible on the steep slopes as specified in the plans under the original proposal).\nAfter the major aspects of the new arrangement were the subject of an agreement in principal [sic] (but before the terms were memorialized in writing), the Township\u2019s Commissioners convened a special budget meeting to address a potential budget shortfall for the following calendar year. Several proposals were discussed. One, suggested by Defendant, sought to accelerate the collection of real estate taxes by seeking HH\u2019s cooperation in prepaying about a half million dollars in realty taxes to cover the budget. Commissioner D\u2019Emilio posed the critical question: why would HH agree to such an arrangement? Defendant responded that HH might be accommodating if the Township could accelerate the development process. Lewis then suggested that he and [Defendant] could make a presentation to Todd Pohlig, a principal at Goldenberg-Pohlig (the development partnership), on a telephone call. However, Lewis did not ask [Defendant] what [he] intended to say.\nJust before the Township meeting in mid-December, where the new arrangement was to be presented and ratified, a final negotiation took place where the Township agreed to drop the age-restricted designation (to age-targeted) for the condominium units in exchange for HH\u2019s agreement to increase the cash consideration by $500,000 and a concession to eliminate the single family homes and increase the number of condominiums. The additional half-million dollars was couched as a contribution to Haver-ford Township to be used exclusively towards construction of a nature center or walking trails. This arrangement was accepted by the parties.\nOn December 20, 2005, Defendant and Lewis placed a phone call to Michael Lawry, development director for Gold-enberg Group[,] which was acting as the project manager for Goldenberg-Pohlig in connection with the Haverford State tract development. It was, by all accounts, a brief call. Lewis opened by saying the [Defendant] had something to ask. [Defendant] then said words to the effect, if the purchase price is increased by $500,000 the zoning process will be expedited. [Defendant] off-handedly used the word \u201cextortion\u201d during the call.[] Lawry responded that he would take the matter under advisement. Lawry was concerned by this prospect because in his prior dealings with [Defendant], it was apparent that [Defendant] wielded power in the Township and was \u201cprobably in a position to influence the [development] process.\u201d\nLawry was also aware that anything which could slow the development process could adversely [e]ffect its financial viability. Unless and until local approvals were received, the actual construction could not begin. At least one such approval, a land use approval, would be secured through direct application through the Township\u2019s Board. In addition, ... the property, while operated as a State Hospital, was in an area zoned for institutional use. The contemplated development would require the developer to secure relief from the existing zoning to accommodate the use of the grounds for residential purposes. This process could be handled either as a change of the local zoning ordinance or an application for a conditional use-either of which would also be considered by the Board. [T]he zoning issue could [also] be addressed by the developer through an application handled by the local zoning hearing [b]oard as a special exception or as a request for a variance. In the meantime, [however,] any delay would not abate the accruing costs and investment expenses incurred by HH as the project moved forward.\nShortly after the phone call, Lawry received another call. This time it was Lewis alone. Lewis explained that he did not know what [Defendant] was going to say and that he \u201cdisavowed any suggestion that the zoning in the Township was for sale.\u201d\nTrial Court Opinion, 2/2/09, at 2-7.\nFollowing investigation by agents of the Attorney General\u2019s Office, Moran was charged by grand jury presentment with, among other offenses, Bribery in Official and Political Matters, 18 Pa.C.S. \u00a7 4701. Moran waived his right to a speedy trial under Pa.R.Crim.P. 600, following which his case proceeded to a jury trial which commenced on July 2, 2007. The Commonwealth called, among others, Michael Lawry and Commissioner Lewis, both of whom attested to substantially the same conversation with Moran. In defense, Moran presented no evidence, electing neither to testify on his own behalf nor to call character witnesses. Moran\u2019s counsel argued to the jury that although his client\u2019s language was no doubt tactless, it reflected merely the defendant\u2019s effort to assure the maximum sale price for the land in question thereby benefiting the public at large. Moreover, counsel asserted specifically that Moran did not solicit a personal benefit in exchange for the exercise of governmental authority and that, consequently, his conduct could not be deemed criminal. In accordance with his argument, counsel prompted the trial judge to instruct the jury that it could convict Moran only upon proof of the mens rea prescribed by 18 Pa.C.S. \u00a7 302, which provides \u201c[g]eneral requirements of culpability\u2019 where an explicit mens rea is not otherwise stated. The court denied counsel\u2019s request, however, concluding that in view the statutory language describing the bribery offense and the compelling evidence of Moran\u2019s intent, instruction on section 302 was not necessary. Following deliberation, the jury found Moran guilty as charged and the trial court imposed a sentence of six months\u2019 probation and a f\u00edne of $10,000. The trial court denied Moran\u2019s post-sentence motion and Moran then filed this appeal raising the following questions for our review:\n1. Was the evidence sufficient to prove beyond a reasonable doubt that [Moran] was guilty of Bribery under 18 Pa.C.S. \u00a7 4701 in the respect that there was inadequate proof that [Moran] acted with criminal intent and/or to gain himself an unlawful benefit?\n2. Did the trial judge abuse his discretion in refusing to grant [Moran\u2019s] request that the jury be instructed that [Moran] cannot be convicted of Bribery unless the Commonwealth proves that [Moran] acted with criminal intent?\nBrief for Appellant at 3.\nMoran\u2019s first question challenges the legal sufficiency of the evidence to sustain his conviction. Brief for Appellant at 8. As a general matter, our standard of review of sufficiency claims requires that we evaluate the record \u201cin the light most favorable to the verdict winner giving the prosecution the benefit of all reasonable inferences to be drawn from the evidence.\u201d Commonwealth v. Widmer, 560 Pa. 308, 744 A.2d 745, 751 (2000).\n\u201cEvidence will be deemed sufficient to support the verdict when it establishes each material element of the crime charged and the commission thereof by the accused, beyond a reasonable doubt.\u201d Nevertheless, \u201cthe Commonwealth need not establish guilt to a mathematical certainty,\u201d and may sustain its burden by means of wholly circumstantial evidence. Significantly, \u201c[we] may not substitute [our] judgment for that of the factfinder; if the record contains support for the convictions they may not be disturbed.\u201d\nCommonwealth v. Brewer, 876 A.2d 1029, 1032 (Pa.Super.2005) (citations omitted). Accordingly, \u201c[t]he fact that the evidence establishing a defendant\u2019s participation in a crime is circumstantial does not preclude a conviction where the evidence coupled with the reasonable inferences drawn therefrom overcomes the presumption of innocence.\u201d Id. (quoting Commonwealth v. Murphy, 795 A.2d 1025, 1038-39 (Pa.Super.2002)). So long as the evidence adduced, accepted in the light most favorable to the Commonwealth, demonstrates the respective elements of a defendant\u2019s crimes beyond a reasonable doubt, his convictions will be upheld. See Brewer, 876 A.2d at 1032. Any doubt about the defendant\u2019s guilt is to be resolved by the fact finder unless the evidence is so weak and inconclusive that, as a matter of law, no probability of fact can be drawn from the combined circumstances. See Commonwealth v. DiStefano, 782 A.2d 574, 582 (Pa.Super.2001).\nIn this case, Moran was convicted of Bribery in Official and Political Matters which the applicable statute defines, in pertinent part, as follows:\n\u00a7 4701. Bribery in official and political matters\n(a) Offenses defined. \u2014 A person is guilty of bribery, a felony of the third degree, if he offers, confers or agrees to confer upon another, or solicits, accepts or agrees to accept from another:\n(1) any pecuniary benefit as consideration for the decision, opinion, recommendation, vote or other exercise of discretion as a public servant, party official or voter by the recipient;\n(2) any benefit as consideration for the decision, vote, recommendation or other exercise of official discretion by the recipient in a judicial, administrative or legislative proceeding; or\n(3) any benefit as consideration for a violation of a known legal duty as public servant or party official.\n18 Pa.C.S. \u00a7 4701. Although the statute premises a defendant\u2019s conviction under subsection (a)(1) on his solicitation, acceptance, or agreement to accept a \u201cpecuniary benefit,\u201d subsections (a)(2) and (a)(3) require only a \u201cbenefit,\u201d which need not be pecuniary in nature. While the statutory definition of \u201cpecuniary benefit\u201d offers no discussion of the extent to which a bribe must enrich a defendant directly, the definition of \u201cbenefit\u201d establishes beyond doubt that a conviction premised upon it may be sustained indirectly by an advantage or gain \u201cto any other person or entity in whose welfare [the defendant] is interested.\u201d See 18 Pa.C.S. \u00a7 4501.\nMoran challenges the foregoing distinction, arguing that \u201c[t]he evidence only established that the Appellant was attempting to raise the purchase price of a property the township was selling, but that money, had it been paid, would not have gone to the Appellant but to the Township for which he served as a political officer.\u201d Brief for Appellant at 6. Moran advocates, in addition, that:\nas a matter of basic and fundamental policy in this Commonwealth, it is not acceptable to uphold the conviction of a public official for merely attempting to use his public position as an office holder to try to improve the financial arrangement of a real estate transaction that could benefit the political entity for whom he was working. We submit that \u00a7 4701 was never intended to punish overreaching politicians; rather it is manifest that this law was designed to protect the public from corrupt officials that were attempting to line their own pockets by conferring or withholding the exercise of their official discretion in exchange for pecuniary or economic gain for themselves.\nBrief for Appellant at 12.\nWe find Moran\u2019s argument untenable. It attempts, first, to minimize the evidence of the defendant\u2019s intent in direct contravention of his own language; to be clear, Moran was not \u201cmerely attempting to use his public position as an office holder to try to improve the financial arrangement of a real estate transaction.\u201d See id. Second, Moran\u2019s argument attempts to recast the mandate of section 4701 by limiting its scope where no such limitation is apparent in the statutory language. Pennsylvania\u2019s Statutory Construction Act, 1 Pa.C.S. \u00a7 1921, focuses our review and negates any consideration of matters extraneous to the statutory language except in instances where such language is ambiguous. See 1 Pa.C.S. \u00a7 1921(b) (\u201cWhen the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit.\u201d). In this case, Moran fails to assert that the statute is unclear; moreover, we discern no ambiguity in the language or the construction the legislature chose, either in stating the conduct prohibited, see 18 Pa.C.S. \u00a7 4701, or in prescribing an expansive class of beneficiaries whose receipt of a benefit may render an official\u2019s conduct unlawful, see 18 Pa.C.S. \u00a7 4501. The statute is simple in form and content and its application is equally simple. Plainly put, no person in public service may solicit a benefit as a quid pro quo for his exercise of the official discretion he holds. Although that prohibition extends, as Moran concedes, to those who would enrich themselves, see Commonwealth v. O\u2019Kicki, 408 Pa.Super. 518, 597 A.2d 152 (1991), it extends no less to those who, under color of government authority, extract a benefit payable to others, see Commonwealth v. Parmar, 672 A.2d 314, 318 (Pa.Super.1996). This much the statutes make facially clear. See 18 Pa.C.S. \u00a7 4501.\nEqually significant, however, the statute creates no exception for those purporting to act in the public interest even where the benefit their conduct would extract does inure to the public. Indeed, the definition of \u201cbenefit\u201d upon which conviction under section 4701(a)(2) and (3) necessarily depends, specifically contemplates the commission of bribery based on a defendant\u2019s acceptance or solicitation of \u201canything regarded by the beneficiary as gain or advantage, including benefit to any other person or entity in whose welfare he is interested.\u201d 18 Pa.C.S. \u00a7 4501. To the extent that Haverford Township was \u201can entity in who\u2019s welfare [Moran] [was] interested, (a proposition he does not contest), the sufficiency of the evidence to establish his guilt is clear. Such is the case here.\nThe evidence offers every indication that Moran attempted, in his own words, to \u201cextort\u201d a vast sum of money not to enrich himself but to enrich Haverford Township, of whose board of commissioners he was a member. He made the call in question in his official capacity expressly for the purpose of obtaining money from the Golden-berg Group in view of revelations at the township commissions\u2019 budget meeting. Moran\u2019s motivation beyond that is irrelevant; neither a personal benefit in enhanced political prestige nor a nefarious purpose for the use of the benefit sought is necessary to establish the elements prescribed by section 4701. It is the defendant\u2019s conduct in soliciting or accepting the benefit under color of government authority that constitutes criminal wrongdoing, not the disposition or purpose of the benefit sought. Clearly, any benefit obtained at the expense of the public trust is rendered neither less real nor less illicit for having benefited the public treasury.\nNor is Moran relieved of responsibility for his actions by the statutory qualification that a benefit is \u201cnot an advantage promised generally to a group or class of voters as a consequence of public measures which a candidate engages to support or oppose.\u201d See Brief for Appellant at 9, 12 n. 5. Indeed, his suggestion to a private real estate developer of favorable treatment in the zoning process is far removed from the \u201cpromise ... to a group or class of voters\u201d specified by the statute. The Goldenberg Group was not merely a \u201cgroup or class of voters,\u201d but a commercial interest whose fortunes would rise or fall substantially relative to the decisions made by the Township\u2019s board of commissioners and was thereby made particularly susceptible to government overreaching. Nor can favorable treatment in zoning be described as a legitimate public measure when it comes with a quid pro quo. It is in fact among many abuses of the public trust that the legislature sought to eliminate in framing the prohibitions of section 4701 and the related definitions of section 4501.\nWe conclude accordingly that the evidence adduced was readily sufficient to sustain Moran\u2019s conviction for Bribery in Official and Political Matters. Both of the other parties to the December 2005 conference call attested that Moran expressly proposed to Michael Lawry that the Gold-enberg Group pay Haverford Township $500,000 for privileged treatment in the process of zoning the new development. See N.T., 11/19/07, at 112 (\u201cAnd Mr. Moran said, \u2018Call it extortion, call it what you will. We need $500,000, and we\u2019ll accelerate the zoning. We\u2019ll get you the zoning approvals you need and accelerate the process.\u2019 \u201d) To the discerning ear, such a statement might suggest equally that in the absence of payment the process would be less expeditious, likely increasing Gold-enberg\u2019s holding, legal, and development costs. We can scarcely conceive of a more audacious abuse of government power. The extent to which Moran\u2019s statements solicited \u201c[a] benefit as consideration for the decision, vote, recommendation or other exercise of official discretion by the recipient in a judicial, administrative or legislative proceeding\u201d could not be more clear. Accordingly, the evidence is more than sufficient to establish the benefit element of the bribery charge.\nThe same testimony establishes Moran\u2019s intent. Arguably, the measure of intent necessary for a finding of culpability under section 4701 is implicit in the language of that statute. As applicable to the conduct at issue here section 4701(a) specifies that \u201c[a] person is guilty of bribery ... if he ... solicits, accepts or agrees to accept\u201d an unlawful benefit as defined in section 4501. Each of the foregoing terms indicates that culpability under the statute depends upon evidence of a conscious mind, actively engaged in retaining the prohibited benefit. Solicitation, acceptance, and agreement to accept are inherently volitional; one cannot be said to have engaged in any of them without knowledge of the benefit to be conferred and intent to retain that benefit. Compare The Amerioan Heritage Dictionary, 787 (4th ed.2001) (\u201csolicit Vv. 1. To seek or obtain.\u201d) with id. at 5 (accept \u25ba% 1. To receive willingly) and id. at 18 (\u201cagree \u25bau 1. To grant consent; accede.\u201d). Nevertheless, we acknowledge this Court\u2019s previous pronouncement that \u201cthe bribery statute does not specify the level of culpability applicable to the material elements of this offense[,]\u201d see Parmar, 672 A.2d at 318, and its consequent engrafting of the culpability standard of 18 Pa.C.S. \u00a7 302 as the applicable measure of intent under section 4701.\nSection 302 provides, in pertinent part, as follows:\n\u00a7 302. General requirements of culpability\n(a) Minimum requirements of culpability. \u2014 Except as provided in section 305 of this title (relating to limitations on scope of culpability requirements), a person is not guilty of an offense unless he acted intentionally, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.\n* * * *\n(c) Culpability required unless otherwise provided. \u2014 When the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts intentionally, knowingly or recklessly with respect thereto.\n18 Pa.C.S. \u00a7 302. Finding these provisions clear, we have applied the language of the state on its face, determining that \u201cit is sufficient to show that a person acted intentionally, knowingly or recklessly with respect to the material elements of the crime.\u201d See Parmar, 672 A.2d at 318 (citing 18 Pa.C.S. \u00a7 302(c)).\nApplying the measure of culpability encompassed in section 302(c) as adopted in Parmar, we find the evidence of Moran\u2019s intent unequivocally sufficient to sustain his conviction. Both of the other participants in Moran\u2019s conference call related his language during the call, his express use of the word \u201cextortion,\u201d his omission of any other option, including the purchase of additional land or advance payment of taxes, and the brevity of the conversation. Compare N.T., 11/19/07, at 112 (\u201cCall it extortion, call it what you will. We need $500,000, and we\u2019ll accelerate the zoning. We\u2019ll get you the zoning approvals you need and accelerate the process.\u201d) with N.T., 11/20/07 at 93 (\u201cI\u2019m paraphrasing here ... I don\u2019t know the exact words. If the purchase price for the property is increased by $500,000, the zoning process will be expedited. He said you can call this extortion if you will, but that\u2019s what it\u2019s going to be. Very brief telephone call.\u201d). See also N.T., 11/19/07, at 112 (\u201cMr. Lawry, for clarification said, \u2018is this, the $500,000, part of the $17.5 million, or is it in addition to it?\u2019 And Mr. Moran said it was in addition to the $17.5 million.\u201d). The evidence also shows that Moran acted expressly with the desire to extract more money from the Goldenberg Group notwithstanding his specific knowledge that the parties had already agreed on the essential terms of the price and the amount of land to be conveyed and the warning of other commissioners that the developer would not likely pay real estate taxes in advance. See id. at 98-105. These circumstances coupled with Moran\u2019s own blunt and forceful language make his intent abundantly clear; as Mike Lawry related it at trial, \u201c[C]all this extortion if you will, but that\u2019s what it\u2019s going to be.\u201d N.T., 11/20/07 at 93.\nNotwithstanding the palpably illicit nature of Moran\u2019s conduct, he also challenges the trial court\u2019s instructions to the jury contending that its omission to charge on the modest culpability standard of 18 Pa.C.S. \u00a7 302(c) fatally undermines his conviction and requires a new trial. Perhaps ironically, it is the very clarity of the evidence surrounding Moran\u2019s activities that renders this claim specious. See Commonwealth v. Hall, 574 Pa. 233, 830 A.2d 537, 542 (2003) (quoting Commonwealth v. Meredith, 490 Pa. 303, 416 A.2d 481, 485 (1980) (\u201cWhere the intention of the actor is obvious from the act itself, the finder of fact is justified in assigning the intention that is suggested by the conduct.\u201d)).\nAs we noted above, section 302(c) specifies that \u201c[w]hen the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts intentionally, knowingly or recklessly with respect thereto.\u201d 18 Pa.C.S. \u00a7 302(c). Accordingly, an instruction to the jury based upon it would allow a conviction of bribery for merely reckless behavior, as opposed to the flagrantly intentional conduct that the evidence demonstrated here. We recognize, of course, that in view of this Court\u2019s prior application of section 302 as the measure of culpability under the bribery statute, see Parmar, 672 A.2d at 318, trial courts are well-advised to instruct the jury in accordance with that provision in prosecutions for bribery. Nevertheless, its omission in this case is far from a source of reversible error. The trial court provided a comprehensive charge on the elements of the offense as established by section 4701 and the definition of benefit provided in section 4501. As we noted, supra, although those provisions do not state a standard of culpability directly, they do suggest that conviction must be based upon evidence of a conscious mind, actively engaged in retaining the prohibited benefit. See discussion, infra. A level of intent so implied in the substantive elements of section 4701, which exceeds the threshold enunciated by section 302, obviously satisfies section 302. Thus, the court\u2019s repeated instructions to the jury based upon those elements were, at least on the basis of the evidence adduced here, ample to guide the jury\u2019s deliberation. See Commonwealth v. Bellis, 252 Pa.Super. 15, 380 A.2d 1258, 1264 (1977) rev\u2019d in part on other grounds, Commonwealth v. Bellis, 484 Pa. 486, 399 A.2d 397 (1979) (affirming conviction for bribery under statutory predecessor of section 4701 on the basis that reading bribery statute to the jury and stating elements of the bribery offense, including the fact that money must be received, solicited or taken as a quid pro quo, was sufficient instruction on the issue of intent). To the extent that the court should have instructed on section 302 and did not, its omission is, at most, harmless error which could have no demonstrable effect on the verdict. See Commonwealth v. Bullock, 590 Pa. 480, 913 A.2d 207, 218 (2006) (finding trial court\u2019s failure to instruct jurors on criminal negligence necessary to sustain defendant\u2019s conviction for voluntary manslaughter of an unborn child could not have contributed to the verdict and therefore amounted to harmless error where the evidence, considered in light of the instruction the court gave, demonstrated that the jurors found a degree of culpability of at least criminal negligence). Consequently, we find Moran\u2019s challenge to the trial court\u2019s jury instruction wholly without merit.\nFor the foregoing reasons, we affirm Moran\u2019s judgment of sentence.\nJudgment of sentence AFFIRMED.\nJudge KELLY files a dissenting opinion.\n. In his testimony at trial, Commissioner Lewis described the conversation as follows:\nI \u2014 I introduced Mr. Lawry. I said we have some \u2014 some budget issues facing the township, and Mr. Moran has an idea that he would like to \u2014 to run by you. At that point I turned it over to Mr. Moran. And Mr. Moran said, \u201cCall it extortion, call it what you will. We need $500,000, and we'll accelerate the zoning. We\u2019ll get you the zoning approvals you need and accelerate the process.\u201d Mr. Lawry, for clarification said, \"is this, the $500,000, part of the $17.5 million, or is it in addition to it?\u201d And Mr. Moran said it was in addition to the $17.5 million.\nN.T., 11/19/07, at 112. In his own testimony, Lawry confirmed Lewis\u2019s recollection of the conversation:\nI received the telephone call from Commissioners Lewis and Moran. And Commissioner Lewis said, \"Commissioner Moran has something to ask you.\u201d Commissioner Moran said, if the \u2014 and I'm paraphrasing here ... I don't know the exact words. If the purchase price for the property is increased by $500,000, the zoning process will be expedited. He said you can call this extortion if you will, but that\u2019s what it\u2019s going to be. Very brief telephone call.\nN.T., 11/20/07 at 93.\n. Bribery in Official and Political Matters is a felony of the third degree carrying an Offense Gravity Score of 5. Assuming a defendant\u2019s prior record score of zero, the recommended sentence under Pennsylvania\u2019s Sentencing Guidelines is restorative sanctions to 9 months' imprisonment. See 204 Pa.Code \u00a7 303.16 (Basic Sentencing Matrix).\n. Comparison of the chapter's definitions of both terms demonstrates the significance of this distinction. The respective definitions appear at 18 Pa.C.S. \u00a7 4501 as follows:\n\"Pecuniary benefit.\u201d Benefit in the form of money, property, commercial interests or anything else the primary significance of which is economic gain.\n\"Benefit.\u201d Gain or advantage, or anything regarded by the beneficiary as gain or advantage, including benefit to any other person or entity in whose welfare he is interested, but not an advantage promised generally to a group or class of voters as a consequence of public measures which a candidate engages to support or oppose.\n. Contrary to Moran's assertion, the evidence does not sustain or even suggest the notion that Moran\u2019s exercise in official arm-twisting was merely an effort to drive a hard bargain for the sale of the land and enhance the sale price for the benefit of the public. Moran\u2019s proposal, as recounted by both his fellow commissioner and the developer's representative, was couched as one for the sale of favorable zoning treatment \u2014 not for an increase in the price of the land sold or for the sale of additional real estate. See N.T., 11/19/07, at 112 (\"Mr. Lawry, for clarification said, 'is this, the $500,000, part of the $17.5 million, or is it in addition to it?\u2019 And Mr. Moran said it was in addition to the $17.5 million.\u201d). In point of fact, Moran did not offer additional land for sale and did not propose that Golden-berg should advance future real estate taxes. N.T., 11/20/07, at 5.\n. We consider the sufficiency of the evidence to establish Moran\u2019s intent in conjunction with Moran\u2019s second question on appeal, which challenges the trial court's determination not to instruct the jury on the measure of intent specified in 18 Pa.C.S. \u00a7 302, which provides for culpability generally when no specific standard is otherwise established.\n. Moreover, the character of the conversation was sufficiently coercive to prompt Commissioner Lewis to call the developer back immediately afterward to distance himself from Moran's demand: \u201cThe next thing I did is I picked up the phone and called Mike Lawry back, and said, I want no part of that conversation. Haverford Township is not in the business of selling zoning. He [Lawry] said, I'll act like it never happened.\u201d See N.T., 11/19/07, at 113.",
+        "type": "majority",
+        "author": "BENDER, J.:"
+      },
+      {
+        "text": "DISSENTING OPINION\nBY KELLY, J.:\nI respectfully dissent from the majority\u2019s conclusion that the trial court\u2019s omission of an explicit mens rea instruction from the jury charge was harmless error. As the majority notes, the bribery statute, 18 Pa.C.S.A. \u00a7 4701, does not contain an express mens rea requirement; thus, the default culpability requirement set forth in section 802(c) applies. See Commonwealth v. Parmar, 551 Pa. 318, 710 A.2d 1083, 1088 (1998).\nIt is well-settled that when reviewing the adequacy of a jury instruction, we must consider the charge in its entirety to determine if it is fair and complete. The trial court has broad discretion in phrasing the charge and the instruction will not be found in error if, taken as a whole, it adequately and accurately set forth the applicable law.\nCommonwealth v. Daniels, 600 Pa. 1, 963 A.2d 409, 430 (2009). Additionally, \u201cunder the harmless error doctrine, the judgment of sentence will be affirmed in spite of the error only where the reviewing court concludes beyond a reasonable doubt that the error did not contribute to the verdict.\u201d Commonwealth v. Bullock, 590 Pa. 480, 913 A.2d 207, 218 (2006).\nIn Commonwealth v. Woosnam, 819 A.2d 1198 (Pa.Super.2003), the defendant was convicted by a jury of accidents involving death or personal injury, which does not contain an express mens rea requirement. Id. at 1204. This Court held that the mens rea requirement of negligence, pursuant to 18 Pa.C.S.A. \u00a7 302(b)(4) applied, and that the trial court\u2019s refusal to instruct the jury on that requirement was reversible error, warranting the grant of a new trial. Id. at 1207.\nInstantly, because the default culpability requirement of section 302(c) applies to the bribery statute, Appellant was entitled to an instruction concerning whether he acted intentionally, knowingly, or recklessly. The record indicates that, after the jury began deliberations, it twice asked the court to repeat the definition of bribery. (N.T. Trial, 11/20/07, at 243-44, 248). After the second clarification, Appellant\u2019s counsel argued that the jury may have been confused by the lack of a culpability requirement in the definition of bribery given by the court. (Id, at 258). Thus, I cannot conclude beyond a reasonable doubt that the trial court\u2019s refusal to instruct the jury on the culpability requirement did not contribute to the verdict. See Bullock, supra. For this reason, I would vacate the judgment of sentence and remand for a new trial.\nBecause I would remand for a new trial, I would not reach the first issue, whether the evidence was sufficient to establish Appellant\u2019s guilt.\n. Appellant preserved his jury instruction claim by objecting to the trial court's instruction, in compliance with Pa.R.Crim.P. 647(B). Although the objection was not transcribed, the trial court confirmed that it was raised at sidebar. (See Trial Ct. Op., 2/2/09, at 2 n. 2).\n. 75 Pa.C.S.A. \u00a7 3742.",
+        "type": "dissent",
+        "author": "BY KELLY, J.:"
+      }
+    ],
+    "attorneys": [
+      "Burton A. Rose, Philadelphia, for appellant.",
+      "William R. Stoycos, Asst. Dist. Atty., for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Fred Charles MORAN, Appellant.\nSuperior Court of Pennsylvania.\nArgued June 8, 2010.\nFiled Aug. 16, 2010.\nReargument Denied Oct. 13, 2010.\nBurton A. Rose, Philadelphia, for appellant.\nWilliam R. Stoycos, Asst. Dist. Atty., for Com., appellee.\nBEFORE: BENDER, OTT and KELLY, JJ."
+  },
+  "file_name": "0273-01",
+  "first_page_order": 303,
+  "last_page_order": 314
+}

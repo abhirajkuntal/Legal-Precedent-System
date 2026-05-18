@@ -1,0 +1,299 @@
+{
+  "id": 7289982,
+  "name": "Richard HATCH v. Melissa ANDERSON",
+  "name_abbreviation": "Hatch v. Anderson",
+  "decision_date": "2010-09-30",
+  "docket_number": "",
+  "first_page": "904",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 904"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 94"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "2009 ME 70",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7296920
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 2"
+        },
+        {
+          "page": "917"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/974/0916-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 95",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7292499
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 28"
+        },
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/0081-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 96",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7299543
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "1274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/1269-01"
+      ]
+    },
+    {
+      "cite": "507 A.2d 596",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7894908
+      ],
+      "pin_cites": [
+        {
+          "page": "599"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/507/0596-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 128",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7294875
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "1285"
+        },
+        {
+          "page": "\u00b6 16"
+        },
+        {
+          "page": "1285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/1281-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 124",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291938
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0465-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 123",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9402979
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/802/0430-01"
+      ]
+    },
+    {
+      "cite": "2005 ME 14",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9038844
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/866/0839-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 96",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8416227
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 6-8"
+        },
+        {
+          "page": "841"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/902/0839-01"
+      ]
+    },
+    {
+      "cite": "680 A.2d 1035",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863693
+      ],
+      "pin_cites": [
+        {
+          "page": "1037"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/680/1035-01"
+      ]
+    },
+    {
+      "cite": "303 A.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        6790500
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "800"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/303/0794-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 634,
+    "char_count": 10267,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 1.6104742158422278e-07,
+      "percentile": 0.6854648668706168
+    },
+    "sha256": "e55f39c6bd5753d535770214961dccd01a512d32f9f1eb6a1287b5fc0161ad8e",
+    "simhash": "1:8b2e148a9056dd41",
+    "word_count": 1714
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Richard HATCH v. Melissa ANDERSON."
+    ],
+    "opinions": [
+      {
+        "text": "SILVER, J.\n[\u00b6 1] Richard Hatch appeals from a judgment, entered in the District Court (Bangor, Gunther, J.), granting Melissa Anderson sole parental rights to the parties\u2019 two children and denying Hatch visitation while he is incarcerated. Hatch did not have an attorney representing him at the hearing. He argues that we should recognize a right of indigent persons to court-appointed counsel in family matters when parental rights are at risk of a de facto termination. We hold that the lack of representation by counsel did not deprive Hatch of due process and the court did not otherwise err.\nI. BACKGROUND\n[\u00b6 2] Hatch and Anderson are the unmarried parents of two children who were ages four and nearly two at the time of the hearing. Hatch and Anderson have been separated since the spring of 2007 when Hatch was incarcerated for a probation violation and other charges. Hatch anticipates that he will be released from prison by April 2011.\n[\u00b6 3] Hatch has never seen their younger child, who was born after he was incarcerated. His last in-person contact with the older child was prior to his incarceration. For a period of time while Hatch was in prison, he was in telephone and mail contact with Anderson and their older child. However, in November 2008, Anderson obtained an order of protection from abuse prohibiting Hatch from having any contact with Anderson except as necessary to litigate this parental rights action. The basis for the protection from abuse order and the complaint for sole parental rights was a threatening letter Hatch sent from prison to Anderson\u2019s mother.\n[\u00b6 4] Hatch represented himself throughout the proceeding in District Court, including the evidentiary hearing, whereas Anderson was represented by counsel. Hatch alleged that his ability to represent himself competently at the hearing was significantly compromised due to his unmedicated anxiety. Although he did not move for appointed counsel, he suggested several times that he felt at a loss because he lacked representation.\n[\u00b6 5] The court found two significant facts concerning Hatch. First, it found that the letter Hatch wrote to Anderson\u2019s mother constituted a threat of domestic violence against Anderson. Hatch testified that he intended to direct the threat not at Anderson, but rather at a convicted sex offender with whom Anderson had been involved. He testified that he made the threat out of concern for the safety of his children. Second, the court found that prison visits would not be in the children\u2019s best interest because the children are young and do not have a current relationship with Hatch, and because Hatch\u2019s threatening behavior toward Anderson raised safety issues concerning visitation.\n[\u00b6 6] The court ordered that while Hatch is in prison there would be no visitation, and his communication with the children would be limited to cards and letters, twice a month to each child, and a phone call on special occasions including the children\u2019s birthdays, holidays, and Father\u2019s Day. The order also requires Anderson to inform Hatch if either child has a significant injury, major trauma, or hospitalization, and she must sign a release so that Hatch can contact the children\u2019s medical providers to discuss treatment in those circumstances. Anderson is also required to inform Hatch when the children start public school, and Hatch is permitted to contact the school. The order provides that after Hatch is released, he may have several supervised visits at his own expense followed by contacts in a public place for one hour per week. If those go well, Hatch may seek expanded contact upon motion.\nII. DISCUSSION\nA. Due Process\n[\u00b6 7] Hatch bases his argument for appointed counsel on his assertion that the court essentially terminated his parental rights. He argues that he should have the same due process right to appointed counsel as a parent who is a party to a child protection action by the State. In Danforth v. State Department of Health & Welfare, 303 A.2d 794 (Me.1973), we held that indigent parents involved in child protection actions initiated or prosecuted by the State have the right to court-appointed counsel at the State\u2019s expense. Id. at 800. That right has since been codified and applies to most types of child protection proceedings. P.L. 1979, ch. 733, \u00a7 18 (effective July 3, 1980) (codified at 22 M.R.S. \u00a7 4005(2) (2009)).\n[\u00b6 8] We do not accept the premise that Hatch\u2019s parental rights have been terminated. He will be released early next year, and the order provides for him to have contact with the children after his release. Also, the order is subject to future modification. See Knight v. Knight, 680 A.2d 1035, 1037 (Me.1996). Pursuant to 19-A M.R.S. \u00a7\u00a7 1653(10), 1657 (2009), parental rights and responsibilities may be modified upon petition if the parent seeking the modification can show a substantial change in circumstances. Sargent v. Braun, 2006 ME 96, \u00b6\u00b6 6-8, 902 A.2d 839, 841.\n[\u00b6 9] Hatch also argues that the court deprived him of due process and caused substantial and obvious prejudice by not deciding sua sponte to continue the hearing to another day due to his anxiety. Although Hatch requested a continuance of the hearing for reasons unrelated to his anxiety, he did not request a continuance on grounds of his anxiety. \u201cA trial court is not obligated to order a continuance sua sponte, without prompting by one of the parties, unless substantial and obvious prejudice can be avoided only by doing so.\u201d Bradshaw v. Bradshaw, 2005 ME 14, \u00b6 9, 866 A.2d 839, 842.\n[\u00b6 10] Before the hearing, Hatch attended a court-sponsored mediation session and also participated in at least one case management conference conducted by a family law magistrate. Those events provided Hatch an ample opportunity to be informed of the issues that would be considered at the subsequent hearing. At the hearing, Hatch testified at length and was able to communicate and explain his reasons in support of the visitation order he desired. See Wright & Mills v. Bispham, 2002 ME 123, \u00b6 14, 802 A.2d 430, 434. In addition, the hearing record establishes that any anxiety Hatch was experiencing did not prevent him from making meaningful decisions. For these reasons, we com-elude that the court did not cause substantial or obvious prejudice by proceeding with the hearing.\nB. Remaining Arguments\n[\u00b6 11] Hatch asserts that the court erred in granting him only limited access to the children\u2019s medical and educational records. He argues that this violates 19-A M.R.S. 1653(2)(D)(4) (2009), which states that the order awarding parental rights and responsibilities must include:\nA statement that each parent must have access to records and information pertaining to a minor child, including, but not limited to, medical, dental and school records and other information on school activities, whether or not the child resides with the parent, unless that access is found not to be in the best interest of the child or that access is found to be sought for the purpose of causing detriment to the other parent. If that access is not ordered, the court shall state in the order its reasons for denying that access.\nWe review de novo the interpretation of a statute. Garrison City Broad., Inc. v. York Obstetrics & Gynecology, P.A., 2009 ME 124, \u00b6 9, 985 A.2d 465, 468. Our objective is to give effect to the Legislature\u2019s intent, looking first to the plain meaning of the statute. Id. Section 1653(2)(D)(4) does not require both parents to have full access to records, nor does it require both parents to have equal access irrespective of their personal circumstances. The court\u2019s order authorizes Hatch to contact medical providers treating the children for serious medical conditions, significant injuries, major trauma, or hospitalizations. This was reasonable access given Hatch\u2019s incarceration. The court did not err.\n[\u00b6 12] Hatch also argues that the court denied visitation based solely on his status as a prisoner. The standard of review of an award of sole parental rights is clear error and we will vacate a judgment only \u201cif no competent evidence exists in the record to support it.\u201d Kelley v. Snow, 2009 ME 128, \u00b6 15, 984 A.2d 1281, 1285. The standard of proof is preponderance of the evidence. See Jacobs v. Jacobs, 507 A.2d 596, 599 (Me.1986). Parental rights and responsibilities are determined pursuant to 19-A M.R.S. \u00a7 1653 (2009), applying the standard of the best interest of the child set forth in section 1653(3). Malenko v. Handrahan, 2009 ME 96, \u00b6 22, 979 A.2d 1269, 1274. We will uphold the decision if, \u201c[a]fter a review of the record, it is evident that the court\u2019s findings are supported by the record as a whole.\u201d See Kelley, 2009 ME 128, \u00b6 16, 984 A.2d at 1285.\n[\u00b6 13] Incarceration alone does not provide grounds for termination of parental rights. In re Cody T., 2009 ME 95, \u00b6 28, 979 A.2d 81, 85; Adoption of Hali D., 2009 ME 70, \u00b6 2, 974 A.2d 916, 917. However, Hatch\u2019s rights were not terminated and his status as a prisoner was not the sole reason for the restrictions on visitation. The threatening letter he sent to Anderson\u2019s mother, the children\u2019s ages, and their lack of a relationship with Hatch were additional significant factors. The court explicitly stated that it evaluated the evidence in light of the factors set forth in 19-A M.R.S. \u00a7 1653, and it addressed all of the relevant factors. There was no error. We have fully considered Hatch\u2019s remaining arguments but do not find them persuasive and do not discuss them further.\nThe entry is:\nJudgment affirmed.\n. Although 22 M.R.S. \u00a7 4005(2) (2009) provides that the court appoints and pays for counsel for indigent parents and custodians entitled to legal counsel in certain child protection proceedings, the designation and payment of counsel are functions now performed by the Maine Commission on Indigent Legal Services, pursuant to 4 M.R.S. \u00a7\u00a7 1801-1805 (2009).",
+        "type": "majority",
+        "author": "SILVER, J."
+      }
+    ],
+    "attorneys": [
+      "Nora Healy, Esq. (orally), Misti D. Munster, Esq., Verrill Dana, LLP, Portland, ME, for Richard Hatch.",
+      "Hunter J. Tzovarras (orally), Hampden, ME, for Melissa Anderson."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 94\nRichard HATCH v. Melissa ANDERSON.\nSupreme Judicial Court of Maine.\nArgued: May 20, 2010.\nDecided: Sept. 30, 2010.\nNora Healy, Esq. (orally), Misti D. Munster, Esq., Verrill Dana, LLP, Portland, ME, for Richard Hatch.\nHunter J. Tzovarras (orally), Hampden, ME, for Melissa Anderson.\nPanel: SAUFLEY, C.J., and LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0904-01",
+  "first_page_order": 966,
+  "last_page_order": 969
+}

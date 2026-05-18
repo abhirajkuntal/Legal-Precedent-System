@@ -1,0 +1,102 @@
+{
+  "id": 7290267,
+  "name": "Eugene MAJETT, Petitioner v. COMMONWEALTH of Pennsylvania, COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Majett v. Commonwealth, Court of Common Pleas of Philadelphia County",
+  "decision_date": "2010-09-21",
+  "docket_number": "No. 73 EM 2010",
+  "first_page": "1041",
+  "last_page": "1041",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 1041"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 516,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1883115579325281
+    },
+    "sha256": "504f4100dff62cf7163b193aebe0e927ce9809eb9b5dc9ecf5d7092a71387920",
+    "simhash": "1:2d258c3e61c43937",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eugene MAJETT, Petitioner v. COMMONWEALTH of Pennsylvania, COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of September, 2010, the Application for Leave to File Original Process and the Petition for Writ of Mandamus are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation is not permitted). The Prothonotary is directed to forward filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Eugene MAJETT, Petitioner v. COMMONWEALTH of Pennsylvania, COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 73 EM 2010.\nSupreme Court of Pennsylvania.\nSept. 21, 2010."
+  },
+  "file_name": "1041-01",
+  "first_page_order": 1103,
+  "last_page_order": 1103
+}

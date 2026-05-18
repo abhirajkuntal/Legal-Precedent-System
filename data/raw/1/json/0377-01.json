@@ -1,0 +1,170 @@
+{
+  "id": 7286457,
+  "name": "CAPITAL AUTO SALES, INC., et al., Appellants, v. DISTRICT OF COLUMBIA, et al., Appellees",
+  "name_abbreviation": "Capital Auto Sales, Inc. v. District of Columbia",
+  "decision_date": "2010-08-05",
+  "docket_number": "No. 09-CV-335",
+  "first_page": "377",
+  "last_page": "383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 A.3d 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "108 A.2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8126174
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "376"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/108/0374-01"
+      ]
+    },
+    {
+      "cite": "606 A.2d 189",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11302426
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "190",
+          "parenthetical": "presumed validity of regulatory classification requires only that it be \"rationally related to a legitimate state interest\""
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/606/0189-01"
+      ]
+    },
+    {
+      "cite": "269 A.2d 112",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8058082
+      ],
+      "pin_cites": [
+        {
+          "page": "114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/269/0112-01"
+      ]
+    },
+    {
+      "cite": "650 F.2d 1235",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1240113,
+        3534127
+      ],
+      "pin_cites": [
+        {
+          "page": "1249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/650/1235-01",
+        "/us-app-dc/209/0027-01"
+      ]
+    },
+    {
+      "cite": "209 U.S.App.D.C. 27",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3534127
+      ],
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/209/0027-01"
+      ]
+    },
+    {
+      "cite": "2002 U.S. Dist. LEXIS 4617",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2002,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 973,
+    "char_count": 18096,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3564093891188251
+    },
+    "sha256": "2f0b0ce144dab2f8d110f1d4054c766fd059536e0700db4bd97d68ac453cad15",
+    "simhash": "1:ef2e407cc2c86781",
+    "word_count": 2868
+  },
+  "last_updated": "2024-02-27T22:12:33.551687+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUIZ and KRAMER, Associate Judges, and FARRELL, Senior Judge."
+    ],
+    "parties": [
+      "CAPITAL AUTO SALES, INC., et al., Appellants, v. DISTRICT OF COLUMBIA, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "FARRELL, Senior Judge:\nAppellants, licensed used car dealers in the District of Columbia, challenge a rule issued by the Director of the Department of Consumer and Regulatory Affairs (\u201cthe Director\u201d or \u201cDCRA\u201d) that restricts their ability to store motor vehicles on outside lots. The Director adopted the regulation after repeated inspections revealed conditions attendant on the outside storage of used vehicles purportedly held for sale that, in the Director\u2019s view, endangered the public health and safety. Appellants, besides questioning the manner in which the regulation was adopted, contest portions of it substantively as arbitrary and capricious, in particular a limitation on the number of vehicles stored outside (in all but two zoning districts) which they maintain will effectively drive them out of business. Although the rule does indeed have teeth, the problem it addresses is undeniable on this record, and we conclude that the Director did not err procedurally or overreach her authority in adopting it.\nI.\nToward the end of 2008, several District of Columbia agencies, led by DCRA, performed joint investigative inspections of all used car dealerships in the District. These \u201csweeps\u201d revealed multiple regulatory violations involving especially the storage of motor vehicles that did not appear to be offered for sale. Vehicles were parked in public space in alleys, with car repairs improperly taking place on sidewalks, and the dealers\u2019 lots contained junk vehicles with missing and dangerous auto parts including sharp exposed metal parts and broken glass. Based on these inspections, DCRA suspended the dealer licenses of twenty-three used car dealers.\nBeyond this, however, in December 2008 the Director adopted, on an emergency basis, a new section 314 of Title 16 of the District of Columbia Municipal Regulations establishing a rule for the outdoor storage of motor vehicles. 16 DCMR \u00a7 314 (2009) (\u201cRule 314\u201d). A Notice of Proposed and Emergency Rulemaking was published in the D.C. Register in January 2009. 56 D.C.Reg. 131 (2009). It stated that the emergency rule was needed \u201cto address a gap in the regulation of establishments that purport to be used car dealerships, but function instead as long-term storage lots for motor vehicles that are in varying states of disrepair and are not being actively offered for sale\u201d; and that \u201c[tjhese lots pose an immediate and continuing threat to the public health, safety, and comfort, by, among other things, attracting criminal activity while discouraging normal pedestrian traffic, creating rodent harborages, and causing harm to the environment through discharges of hazardous fluids and other solid waste.\u201d Id. Further, the notice stated that \u201c[t]he Director [of DCRA] also hereby gives notice of the intent to adopt this rule, in final, in not less than thirty (30) days from the publication of this notice in the D.C. Register.\u201d Rule 314 took effect as a final rule forty-nine days later on February 20, 2009, upon publication of the Notice of Final Rule-making in the D.C. Register. 56 D.C.Reg. 1720 (2009). Appellants submitted no comments in response to the proposed rule.\nAs adopted, the regulation prohibits any person from \u201cengaging] in outdoor storage of motor vehicles except on a lot for which the person holds twin business licenses to operate as a motor vehicle dealer and to maintain a used car lot.\u201d 16 DCMR \u00a7 314.2. The \u201coutdoor storage of motor vehicles\u201d is defined as \u201ckeeping, on the same lot or at the same location, five (5) or more motor vehicles outside of a permanent garage or permanent building, for any purpose, including, but not limited to, for storage or display by a licensed dealer.\u201d Id. \u00a7 314.1(b). The rule excludes from its application a sizable number of commercial activities, but otherwise imposes on licensees a series of bonding, recordkeeping, and other requirements pertaining to the storage of motor vehicles. Most stringently, it provides that unless the storage is no longer outside but rather takes place in a \u201cpermanent garage or permanent building,\u201d \u201c[t]he lot shall be located in a C-M or M zoning district,\u201d \u00a7 314.5(a), which are \u201cIndustrial Districts\u201d under the zoning regulations.\nII.\nThe plaintiffs, ten independent used car dealers, sued in Superior Court for injunc-tive relief and a declaratory judgment that Rule 314 was beyond DCRA\u2019s authority to promulgate and arbitrarily singled out used car dealers \u201coperat[ing] under paid and valid licenses\u201d by restrictions on storage that would effectively destroy their livelihood. After an evidentiary hearing at which the evidence described above was received, the trial court upheld the regulation, stating (inter alia) that while the \u201czoning regulations] ... establish a blueprint for what type of activity can occur in a ... given area[, t]hat doesn\u2019t trump licensing authority to make sure that businesses are conducted in a way that\u2019s not harmful to the surrounding areas or to other people\u201d; and thus the fact \u201cthat used car dealerships have to take more steps to keep their businesses from impacting [the] surrounding\u201d area in \u201cthe non-CM/M corridors\u201d does not make the rule an \u201carbitrary\u201d exercise of DCRA\u2019s authority. Accordingly, the court denied the plaintiffs\u2019 request for a preliminary injunction and dismissed their suit, giving rise to this appeal.\nIII.\nAppellants first contend that Rule 314 is invalid because the notice of proposed final rulemaking was combined with a notice of emergency rulemaking, when, they assert, there was no real emergency because actions to enforce existing laws were available (and had been undertaken) against offending dealers. The District responds both that conditions revealed by the sweeps justified emergency rulemaking, see D.C.Code \u00a7 2-505(c) (2006), and that this issue is moot in any event because notice of the intent to adopt a permanent rule was given simultaneously and that rule was adopted before the emergency rule was ever enforced. Our agreement with the latter point makes it unnecessary to consider appellants\u2019 argument that the claimed emergency was not genuine.\nAthough enforcement actions were taken against many used car dealers before the final rule took effect in February 2009, appellants do not dispute that the emergency rule was not the basis for those actions. Further, the original notice declared unambiguously the Director\u2019s intent to adopt the regulation permanently, and appellants received the full statutory period, D.C.Code \u00a7 2-505(a), in which to comment on the proposed rule. Thus their argument boils down to one that a notice announcing a proposed permanent rule is per se invalid if combined with a notice wrongly adopting an emergency rule. No logic supports this proposition, and Wheelchair Carriers Ass\u2019n v. District of Columbia, No. 00-1586, 2002 U.S. Dist. LEXIS 4617 (D.D.C. March 11, 2002), which merely opined (citing inapposite authority) that \u201cdefendants cannot use an invalid [emergency] Rule, containing its Notice of intent to adopt a Final[,] as the legal underpinning for promulgation of that Final Rule,\u201d id. at *14, does not persuade us. Emergency and final rules must meet different demands to take effect, and so long as the requirements for the latter \u2014 essentially notice and fair opportunity to comment\u2014 are satisfied, no reason exists why the one notice is tainted by its inclusion in the same document as the other.\nAppellants further contend that the notice of proposed rulemaking was invalid because one of the three statutory provisions it cited as authority for the regulation had been repealed. But that fact is inconsequential because the notice also cited D.C.Code \u00a7 47-2851.20 (2005), which broadly authorizes the Director of DCRA to \u201cimplement the basic license system outlined in [\u00a7 47-2851.01 et seq.].\u201d Appellants do not \u2014 and cannot \u2014 dispute that this delegated authority includes the power to establish reasonable conditions of licensure. See Br. for App. at 20 (\u201cconceding]\u201d that the statute \u201cwould permit [DCRA] to adopt and prescribe reasonably appropriate\u201d licensure conditions including \u201cappropriate fees\u201d). Thus, the \u201ccitation to the legal authority under which the rule [was] being proposed,\u201d D.C.Code \u00a7 2-505(a) (2006), was sufficient. Cf. Trans-Pacific Freight Conference v. Federal Maritime Comm\u2019n, 209 U.S.App.D.C. 27, 41, 650 F.2d 1235, 1249 (D.C.Cir.1980) (failure to include citation of precise legal authority not fatal because notice otherwise sufficiently clear). Indeed, the new rule itself made clear that violation of its requirements would be \u201ccause for denial suspension, or revocation\u201d of a license issued by DCRA, a clear exercise of its licensing authority. See 16 DCMR \u00a7 314.7.\nIV.\nAppellants\u2019 main substantive challenges to the regulation are twofold: that it amounts to the exercise of zoning powers by a licensing agency not entrusted with that authority; and that, in violation of due process, it singles out for regulation used car dealers who are unfairly blamed for the problems of urban blight that the rule addresses. Neither argument persuades us.\nAppellants\u2019 argument that the Director has arrogated zoning powers to himself rests mainly on the rule\u2019s provision that a permitted \u201coutdoor storage of motor vehicles shall ... [be] on a lot ... located in a C-M or M zoning district.\u201d Rule 314.5(a). Of course, the fact alone that the rule incorporates zoning descriptions does not make it a zoning regulation; many such rules refer to zoning districts in imposing limitations on commercial or private activities. See, e.g., 24 DCMR \u00a7 510.10 (1996) (vending regulation prohibiting vending \u201cfrom a sidewalk within residential zones\u201d in areas \u201coutside of the central vending zone\u201d). Zoning is \u201c[t]he legislative division of a region, esp. a municipality, into separate districts\u201d subject to \u201cregulations ... for land use, building size and the like.\u201d Black\u2019s Law Dictionaey (8th ed. 2004) (\u201czoning\u201d). Rule 314 does not purport to restrict any commercial use or activity to particular zoning districts; instead, for any use otherwise allowed by the zoning regulations, it gives certain entities that store five or more motor vehicles a choice: they may remain where they are but store the vehicles in a permanent garage or building, or they may relocate to an \u201cindustrial\u201d district \u2014 C-M or M \u2014 zoned for comparable activities such as \u201clight manufacturing,\u201d a \u201c[r]epair garage,\u201d or a \u201c[wholesale or storage establishment.\u201d 11 DCMR \u00a7 801.7(h), (i) & (j) (2009). While that is certainly an exercise of regulation, it does not usurp the function of those charged with zoning.\nAppellants nevertheless argue that the rule\u2019s practical effect is to drive them out of nearly all zoning districts (hence out of business) based on an arbitrary classification allowing numerous other businesses \u2014 including some used car dealers \u2014 to remain where they are and store motor vehicles outside. See Br. for App. at 28 (\u201cNo [permanent] structure requirements [are] imposed for vehicles stored outside in CM or [M] districts, or for new car dealers[\u2019] vehicular storage, or storage of used cars at new dealers^] lots in any zone or storage by rental car companies or outdoor auto parking lots.\u201d). The governing legal principles are well-settled. \u201cThere is a strong presumption of constitutionality afforded to such regulations, and one attacking them on due process grounds carries the heavy burden of showing that the regulation is unreasonable and has no rational relationship to the objective sought to be obtained.\u201d Vanderhoof v. District of Columbia, 269 A.2d 112, 114 (D.C.1970) (citations omitted); see also In re Dulansey, 606 A.2d 189, 190 (D.C. 1992) (presumed validity of regulatory classification requires only that it be \u201crationally related to a legitimate state interest\u201d). Rule 814 meets these standards. Although imposing a potentially costly burden on used car dealers who wish to locate or remain in commercial districts, it is not unreasonable either as a response to the conditions of public nuisance that it addresses or in the distinction between businesses it reaches and those it does not. The evidence presented at the hearing described dangerous or unhealthy conditions attendant on the outside storage of used motor vehicles which DCRA could reasonably conclude should not be left to individual abatement actions but rather addressed by a rule dealing preventively and comprehensively with the problem.\nThe fact that the rule leaves untouched used car dealers operating in C-M or M (ie., Industrial) zoning districts is reasonable, given the compatibility of those operations with other uses allowed there by the zoning laws. In devising rules to protect the public from unhealthful conditions in used car lots, the Director could properly take into account these differences between the Industrial and Commercial zoning districts, and the reasonably presumed awareness of visitors to the first of potentially hazardous conditions. Similarly, differences exist between other business activities exempted from the rule\u2019s reach and used car dealerships, differences \u201ceither known [to the rulemaker] or which could reasonably be assumed.\u201d Id. (citations omitted). A new car dealer (subsection (b)(8)) is subject to the standards of the manufacturer for which the dealer has a franchise, and a new car is less likely than a used one to be in disrepair or to attract pests. A rental car company (subsection (b)(7)) is also likely to be affiliated with a national chain that imposes standards for vehicle upkeep. And an outdoor parking lot (subsection (b)(4)) typically keeps cars on a very temporary basis and serves vehicles that must be operational to reach the lot. The Director could reasonably conclude that these and similar businesses pose less of a danger to the public health and safety than do establishments licensed as used car dealers. Our judicial task is not to calibrate whether the regulation is the best possible to address its object or as finely-tuned as it could have been, but to determine only whether the classifications it embodies \u201care rationally related to a legitimate [governmental] interest.\u201d In re Dulansey, supra.\nBecause we conclude that Rule 314 has a rational basis reasonably related to its purpose to protect the public welfare, the trial court properly upheld the regulation.\nAffirmed.\n. More particularly, the record below establishes that most of the lots contained vehicles that were not in saleable condition owing to missing engines and parts, flat tires, dirty condition, and the like. At many lots there was exposed garbage and other spaces potentially harboring rats, junk vehicles and loose auto parts, dangerous building code violations, illegal auto repair operations, and soil saturated with oil and fluids. The dealers failed to use commercial waste companies for regular trash removal, causing discharge of hazardous fluids and other solid waste, and there were large barrels and improper storage containers filled with used automotive oil. In short, many used car lots functioned as long-term storage lots for motor vehicles that were in varying states of disrepair and not being offered for sale. The vehicles did not contain Buyers\u2019 Guides, sticker prices were not affixed to them, and some vehicles were marked \"Not for Sale.\u201d Most lots were not tended during normal business hours and were not used to conduct retail auto sales, but mainly for vehicle storage.\n. These include:\n(6) Storage of towed or repossessed motor vehicles as part of a licensed motor vehicle towing or repossession business;\n(7) Storage of operational motor vehicles as part of a licensed motor vehicle leasing or rental business, or licensed driving school business; or\n(8) Storage or display of motor vehicles by a dealer on a lot that the dealer uses primarily for the sale of new motor vehicles.... Rule 314.1(b).\n. Appellants do not argue that Rule 314 implicates a fundamental right so as to require greater scrutiny than that.\n. Indeed, the rule does not regulate any used car dealer storing four or fewer vehicles outside, a notable limitation given the testimony of one dealer-witness at the hearing that \"now everything has become so [IJnternet connected that you actually can continue to conduct a business even with no cars on the lot and no signage.\u201d\n.The fact that a new car dealer is not covered although having used cars as well on the lot is not arbitrary given the requirement that its business store vehicles \"primarily\u201d for the sale of new ones. Rule 314.1(b)(8).\n. Contrary to appellants\u2019 separate argument, the rule's requirement that anyone storing vehicles outside on a lot file a bond or other security in the amount of $100,000 is not unreasonable, given the substantial expenses the District or a property owner would incur if required to clean up environmental damage, as well as the sizeable damages that members of the public could incur if injured because of dangerous or unhealthful conditions on lots. Cf. Md.Code Transportation \u00a7 15 \u2014 308(b)(3) (imposing bond requirement ranging from $15,000 to $150,000 on Maryland used car dealers). Likewise unmeritorious is appellants\u2019 challenge to the $1,000 license fee the rule imposes. See, e.g., Abdow v. District of Columbia, 108 A.2d 374, 376 (D.C. 1954).\nFinally, appellants have not explained how they were prejudiced by the trial court's refusal to let them present essentially duplicative testimony of additional used car dealers about the financial impact the rule would have on their businesses.",
+        "type": "majority",
+        "author": "FARRELL, Senior Judge:"
+      }
+    ],
+    "attorneys": [
+      "Anthony M. Rachal III for appellants.",
+      "James C. McKay, Jr., Senior Assistant Attorney General, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appel-lees."
+    ],
+    "corrections": "",
+    "head_matter": "CAPITAL AUTO SALES, INC., et al., Appellants, v. DISTRICT OF COLUMBIA, et al., Appellees.\nNo. 09-CV-335.\nDistrict of Columbia Court of Appeals.\nArgued March 31, 2010.\nDecided Aug. 5, 2010.\nAnthony M. Rachal III for appellants.\nJames C. McKay, Jr., Senior Assistant Attorney General, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appel-lees.\nBefore RUIZ and KRAMER, Associate Judges, and FARRELL, Senior Judge."
+  },
+  "file_name": "0377-01",
+  "first_page_order": 407,
+  "last_page_order": 413
+}

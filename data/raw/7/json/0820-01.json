@@ -1,0 +1,392 @@
+{
+  "id": 7286719,
+  "name": "Judith MOORE, Administratrix of the Estate of Donnie R. Moore, Deceased, and in her Own Right, Appellee v. ERICSSON, INC. (Successor to Anaconda Wire and Cable Company), AMTCO/American Biltrite, CBS Corporation, Certainteed Corporation, Champlain Cable Corporation, Cleaver-Brooks, Inc., Crown Cork & Seal Company, Inc., DFT, RPM, Bondex International and Goodyear Tire and Rubber Co., DFT, RPM, Bondex International, Fosterwheeler, LLC, Garlock Sealing Technologies, LLC, General Electric Company, CY Goldberg, Ingersollrand, Georgia Pacific, Melrath Gasket Company, Metropolitan Life Insurance, Owens-Illinois, Inc., Riley Power, Inc., Union Carbide Corporation and Kelly-Moore Paint Co., Appellants; Judith Moore, Administratrix of the Estate of Donnie R. Moore, Deceased, and in her Own Right, Appellant v. Ericsson, Inc. (Successor to Anaconda Wire and Cable Company), AMTCO/American Biltrite, CBS Corporation, Certainteed Corporation, Champlain Cable Corporation, Cleaver-Brooks, Inc., Crown Cork & Seal Company, Inc., DFT, RPM, Bondex International and Goodyear Tire and Rubber Co., DFT, RPM, Bondex International, Fosterwheeler, LLC, Garlock Sealing Technologies, LLC, General Electric Company, CY Goldberg, Ingersollrand, Georgia Pacific, Melrath Gasket Company, Metropolitan Life Insurance, Owens-Illinois, Inc., Riley Power, Inc., Union Carbide Corporation and Kelly-Moore Paint Co., Appellees",
+  "name_abbreviation": "Moore v. Ericsson, Inc.",
+  "decision_date": "2010-09-17",
+  "docket_number": "",
+  "first_page": "820",
+  "last_page": "829",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 820"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 F.3d 35",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1527478
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/15/0035-01"
+      ]
+    },
+    {
+      "cite": "364 Pa.Super. 311",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        674374
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/364/0311-01"
+      ]
+    },
+    {
+      "cite": "755 A.2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225956,
+        11209982
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "in strict liability actions, liability is apportioned equally among joint tort-feasors"
+        },
+        {
+          "page": "672",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0290-01",
+        "/a2d/755/0664-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 290",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225956
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "in strict liability actions, liability is apportioned equally among joint tort-feasors"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0290-01"
+      ]
+    },
+    {
+      "cite": "962 A.2d 1232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8189456
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/962/1232-01"
+      ]
+    },
+    {
+      "cite": "756 A.2d 1116",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225996,
+        11244791
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1121-22"
+        },
+        {
+          "page": "1122",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01",
+        "/a2d/756/1116-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225996
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01"
+      ]
+    },
+    {
+      "cite": "429 Pa.Super 360",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        934748
+      ],
+      "weight": 4,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/429/0360-01"
+      ]
+    },
+    {
+      "cite": "984 A.2d 943",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293755
+      ],
+      "pin_cites": [
+        {
+          "page": "968"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/0943-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 547",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745082
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "question of defective design and unreasonably dangerous are questions of law"
+        },
+        {
+          "parenthetical": "question of defective design and unreasonably dangerous are questions of law"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/480/0547-01"
+      ]
+    },
+    {
+      "cite": "799 A.2d 71",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9411278
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/799/0071-01"
+      ]
+    },
+    {
+      "cite": "816 A.2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9366048
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/816/0296-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 52",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8361565
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/0052-01"
+      ]
+    },
+    {
+      "cite": "932 A.2d 901",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8349020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/932/0901-01"
+      ]
+    },
+    {
+      "cite": "416 Pa.Super. 321",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        912911
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/416/0321-01"
+      ]
+    },
+    {
+      "cite": "980 F.2d 411",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10513508
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/980/0411-01"
+      ]
+    },
+    {
+      "cite": "375 Pa.Super. 187",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        700058
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/375/0187-01"
+      ]
+    },
+    {
+      "cite": "943 A.2d 216",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4087317,
+        8388303
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "226",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "225",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0274-01",
+        "/a2d/943/0216-01"
+      ]
+    },
+    {
+      "cite": "596 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4087317
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0274-01"
+      ]
+    },
+    {
+      "cite": "822 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9125230
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/822/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1123,
+    "char_count": 26691,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.31896492807109605
+    },
+    "sha256": "a55e77a1b4dd85173bdad50d30cf8c017db031ab7550911a1cc9027a61f356b1",
+    "simhash": "1:99aaae2ed818d579",
+    "word_count": 4181
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: ALLEN, LAZARUS, and FREEDBERG , JJ."
+    ],
+    "parties": [
+      "Judith MOORE, Administratrix of the Estate of Donnie R. Moore, Deceased, and in her Own Right, Appellee v. ERICSSON, INC. (Successor to Anaconda Wire and Cable Company), AMTCO/American Biltrite, CBS Corporation, Certainteed Corporation, Champlain Cable Corporation, Cleaver-Brooks, Inc., Crown Cork & Seal Company, Inc., DFT, RPM, Bondex International and Goodyear Tire and Rubber Co., DFT, RPM, Bondex International, Fosterwheeler, LLC, Garlock Sealing Technologies, LLC, General Electric Company, CY Goldberg, Ingersollrand, Georgia Pacific, Melrath Gasket Company, Metropolitan Life Insurance, Owens-Illinois, Inc., Riley Power, Inc., Union Carbide Corporation and Kelly-Moore Paint Co., Appellants. Judith Moore, Administratrix of the Estate of Donnie R. Moore, Deceased, and in her Own Right, Appellant v. Ericsson, Inc. (Successor to Anaconda Wire and Cable Company), AMTCO/American Biltrite, CBS Corporation, Certainteed Corporation, Champlain Cable Corporation, Cleaver-Brooks, Inc., Crown Cork & Seal Company, Inc., DFT, RPM, Bondex International and Goodyear Tire and Rubber Co., DFT, RPM, Bondex International, Fosterwheeler, LLC, Garlock Sealing Technologies, LLC, General Electric Company, CY Goldberg, Ingersollrand, Georgia Pacific, Melrath Gasket Company, Metropolitan Life Insurance, Owens-Illinois, Inc., Riley Power, Inc., Union Carbide Corporation and Kelly-Moore Paint Co., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nLAZARUS, J:\nIn this asbestos personal injury action, Appellant/Cross-Appellee Ericsson, Inc. (Defendant/Ericsson) and Cross-Appellant/Appellee Judith Moore, Individually and as Administratrix of the Estate of Donnie R. Moore, Deceased (Plaintiffs/Moore), appeal from the order of the Court of Common Pleas of Philadelphia County denying Ericsson\u2019s post-trial motions and entering judgment on the molded jury verdict in the amount of $1,190,-654.00 in favor of Moore. We affirm.\nEricsson raises eight issues on appeal:\n1. Did the court err when it failed to grant Ericsson\u2019s motion for nonsuit and/or directed verdict?\n2. Did the court commit an abuse of discretion or error of law when it instructed the jury that the products in question were defective because they contained asbestos and then submitted an improper verdict form that did not require a finding of defect?\n3. Did the court commit an abuse of discretion or error of law in allowing Plaintiffs\u2019 expert, Dr. Eugene J. Mark, to testify beyond the scope of his report and beyond the scope of his expertise?\n4. Did the trial court commit an abuse of discretion in allowing Plaintiffs\u2019 experts to testify regarding EPA Clean Air standards and OSHA standards and then precluding defendants from commenting on governmental standards evidence favorable to it during closing arguments?\n5. Did the trial court commit an abuse of discretion in not preventing the jury from hearing about insurance and permitting Plaintiffs\u2019 counsel to suggest to the jury specific sums of money as an appropriate award for the case?\n6. Did the trial court commit an abuse of discretion or error of law when it consolidated unrelated asbestos cases for trial?\n7. Did the trial court commit an abuse of discretion or error of law in entering judgment on improperly molded jury verdicts including, but not limited to, the satisfaction and payment of Gould\u2019s Pumps, Inc.\u2019s proportionate share of liability and improperly allowing plaintiff to recover more than 100% of the damage award?\n8.Did the trial court commit an abuse of discretion or error of law in improperly calculating delay damages?\nPlaintiff Moore raises two issues on cross appeal:\n1. Did the court err in failing to assign a full and equal share of liability to Johns-Manville when calculating the trial judgment in this case, when both Plaintiff and Defendant stipulated, and the court agreed, that Johns-Manville should be assigned a full and equal share of liability as a joint tortfeasor for purposes of calculating the judgment in this case?\n2. Did the court err in calculating damages for delay as a result of its failure to assign a full and equal share of the liability as a joint tortfeasor to Johns-Manville?\nPlaintiffs, Donnie Moore (Moore) and his wife, Judith Moore, initiated this action on October 11, 2006 against Defendant Ericsson and 34 other defendants, alleging Moore developed mesothelioma as a result of exposure to asbestos dust while working as a laborer and electrician at Kingsport Press, a printing company in Tennessee. Moore worked at Kingsport Press from 1960 until his retirement in 2004. Moore died prior to trial.\nEricsson claims the court erred in denying both its motion for nonsuit at the close of Plaintiffs evidence and its motion for directed verdict at the close of all the evidence. Ericsson claims Plaintiff failed to prove that: (1) Ericsson wire and cable contained asbestos; (2) Donnie Moore inhaled asbestos fibers from Ericsson wire and cable; and (3) Ericsson wme and cable were defective. We disagree.\nIn reviewing a trial court\u2019s decision whether or not to grant a motion for non-suit/directed verdict in favor of one of the parties, an appellate court must consider the evidence, together with all favorable inferences drawn therefrom, in a light most favorable to the verdict winner. Shay v. Flight C Helicopter Services, Inc., 822 A.2d 1 (Pa.Super.2003). To establish causation in an asbestos case the plaintiff must prove the exposure to asbestos caused the injury and that it was the defendant\u2019s asbestos-containing product that caused the injury. To satisfy this burden a plaintiff must meet the \u201cregularity, frequency and proximity\u201d test as articulated by our Supreme Court in Gregg v. V-J Auto Parts Co., 596 Pa. 274, 943 A.2d 216 (2007).\nIn Gregg, our Supreme Court explained the appropriate application of the \u201cfrequency, regularity and proximity\u201d criterion this Court announced in Eckenrod v. GAF Corp., 375 Pa.Super. 187, 544 A.2d 50 (1988). In so doing, the Supreme Court adopted the approach utilized by the United States Seventh Circuit Court of Appeals in the case of Tragarz v. Keene Corp., 980 F.2d 411 (7th Cir.1992), explaining that there is no bright-line distinction between direct and circumstantial evidence cases \u201cbecause this distinction is unrelated to the strength of the evidence and is too difficult to apply, since most cases involve some combination of direct and circumstantial evidence.\u201d Gregg, 943 A.2d at 226 (footnote omitted). More specifically, the Supreme Court opined:\nTragarz explains that these criteria do not establish a rigid standard with an absolute threshold necessary to support liability. Rather, they are to be applied in an evaluative fashion as an aid in distinguishing cases in which the plaintiff can adduce evidence that there is a sufficiently significant likelihood that the defendant\u2019s product caused his harm, from those in which such likelihood is absent on account of only casual or minimal exposure to the defendant\u2019s product. Further, Tragarz suggests that the application of the test should be tailored to the facts and circumstances of the case, such that, for example, its application should become \u201csomewhat less critical\u201d where the plaintiff puts forth [direct rather than only circumstantial] evidence of exposure to a defendant\u2019s product. Similarly, under Tragarz, the frequency and regularity prongs become \u201csomewhat less cumbersome\u201d in cases involving diseases [like mesothelioma] that the plaintiffs competent medical evidence indicates can develop after only minor exposures to asbestos fibers.\nGregg, 943 A.2d at 225 (internal citations omitted).\nAt trial in this case, the evidence established that Moore was employed at Kingsport Press for 44 years. Ericsson owned two companies, Anaconda Wire and Cable Company and Continental Wire and Cable Company; both companies made asbestos wire marketed under the name, \u201cAnaconda.\u201d During his employment at Kingsport Press, Moore was exposed to various asbestos-containing products, including wire and cable attributable to Ericsson. A videotaped deposition showed Moore clearly identifying these products and stating that when these wires and cables were cut or stripped, dust was created. Donnie Moore Deposition, 11/14/2006, at 9-11. Moore stated that he knew the wire was coated with asbestos. Id. at 9-10. He testified that he used the cable and wire in small pieces, so he had to cut them. Cutting the cable and wire released dust and fibers into the air. Moore also testified that he worked within \u201carm\u2019s length\u201d of that dust, and that he inhaled the dust. Id. at 10-12. Moore added that he worked with this cable approximately once a month for his entire career. Id. at 12.\nDoctor Vittorio Argento, an environmental engineer and expert for Ericsson, testified that the Anaconda/Continental wire he tested contained asbestos, between 25% and 40%, and that when he cut the wire it released asbestos into the air. N.T. Trial, 2/26/2009, at 75-78.\nDoctor Richard Lemen, an epidemiologist who began studying asbestos-related diseases in 1970, testified that if asbestos is released from the materials a person is working with, and the person inhales the fibers, that puts that person at risk of developing disease, including fibrosis of the lung, lung cancer, mesothelioma and laryngeal cancer. N.T. Trial, 2/19/2009, at 44.\nEugene Mark, M.D., a certified pathologist at Massachusetts General Hospital and Harvard Medical School, is an expert in mesothelioma and asbestos. He testified that if the evidence showed: (1) that Moore worked with Anaconda wire, (2) that the wire contained asbestos, (3) that Moore would cut or skin back the asbestos insulation to expose the wire once a month, (4) that the wire when cut released visible dust, (5) that he breathed the dust from an arm\u2019s length away, and (6) that, taking into account the frequency and proximity of exposure, Moore\u2019s exposure to Anaconda asbestos wire would have been a substantial contributing factor towards the development of his mesothelioma. N.T. Trial, 2/20/09, at 67-70. Doctor Mark testified that Moore had diffuse malignant mesothe-lioma, that there is no safe level of exposure to asbestos known, N.T. Trial, 2/21/09, at 47-48, and that Moore\u2019s exposure to Ericsson\u2019s wire and cable contributed to his death from mesothelioma. Id. at 41.\nEricsson\u2019s claims regarding certain conflicts in the evidence do not persuade us differently. We agree with Plaintiffs that conflicts in the weight of the evidence and a \u201cbattle of the experts\u201d do not warrant a directed verdict. That is for the jury to resolve. Juliano v. Johns-Manville Corp., 416 Pa.Super. 321, 611 A.2d 238, 240 (1992).\nWe conclude, therefore, that the evidence established that Donnie Moore was exposed to Ericsson asbestos products on a regular, frequent and proximate basis during his forty-four years as an electrician at Kingsport Press. Gregg, supra. The evidence was sufficient for the jury to find that Donnie Moore was regularly exposed to wire and cable manufactured, supplied or distributed by Ericsson, that these products contained asbestos, and that this exposure was a substantially contributing factor in the development of his mesothelioma and his death. See Bugosh v. Allen Refractories Co., 932 A.2d 901 (Pa.Super.2007); Donoughe v. Lincoln Elec. Co., 936 A.2d 52 (Pa.Super.2007); see also Harahan v. AC & S, Inc., 816 A.2d 296 (Pa.Super.2003) (evidence sufficient to establish worker had been injured from exposure to asbestos emanating from defendant\u2019s product where evidence showed decedent died from asbestos-related disease and pipe sealant and roofing cement, to which decedent had been exposed at workplace, contained asbestos and shed asbestos dust which decedent had inhaled); Andaloro v. Armstrong World Ind., Inc., 799 A.2d 71 (Pa.Super.2002) (causation of asbestos-related injuries is shown upon proof that plaintiff inhaled some fibers from products of defendant manufacturer; plaintiff does not have to prove through expert testimony how many asbestos fibers are contained in dust emissions from particular asbestos-containing product, or demonstrate specific lengths of fibers contained in manufacturer\u2019s product, the length of fibers he inhaled, or overall concentration of fibers in air).\nNext, Ericsson claims the court abused its discretion or committed an error of law when it instructed the jury that the products in question were defective because they contained asbestos where the verdict form did not require a finding of defect. In a strict liability design defect case the issue is whether the product contained any element that made it unsafe for its intended use. Azzarello v. Black Bros. Co., 480 Pa. 547, 391 A.2d 1020 (1978) (question of defective design and unreasonably dangerous are questions of law). With respect to asbestos cases, what renders the product unsafe for its intended use is the presence of asbestos in the product, or the dangers from inhalation of asbestos fibers. See Estate of Hicks v. Dana Companies, LLC, 984 A.2d 943, 968 (Pa.Super.2009) (en banc).\nHere, Ericsson stipulated that Moore\u2019s mesothelioma was caused by asbestos. The court determined as a matter of law that the asbestos wire was defective or unreasonably dangerous. As the trial judge stated, the issue was not whether a product was defective because it contained asbestos; \u201c[i]nstead, the trial issues, and therefore the factual issues remaining for the jury were limited to whether the Defendant\u2019s particular product contained asbestos, whether the Plaintiff[ ][was] exposed to it, and whether such exposure caused Plaintiffs mesothelioma.\u201d Trial Court Opinion, 6/4/2009, at 9. We find no error or abuse of discretion.\nIn its third issue, Ericsson claims the court abused its discretion in allowing Plaintiffs\u2019 expert, Dr. Eugene J. Mark, a Pathologist at Massachusetts General Hospital and at Haiward Medical School, to testify beyond \u201chis designation and his area of expertise.\u201d In particular, Ericsson claims that the trial court abused its discretion in permitting Dr. Mark to testify beyond the scope of his expert report, in allowing Dr. Mark to testify using reports and summaries not provided to Ericsson prior to trial, and in permitting Dr. Mark to testify as to whether Moore\u2019s mesotheli-oma was caused by asbestos products attributable to Ericsson.\nThe admission of expert testimony is a matter for the discretion of the trial court and the trial court\u2019s decision will not be overruled absent a clear abuse of discretion. Rafter v. Raymark Industries, Inc., 429 Pa.Super 360, 632 A.2d 897 (1993). Based on our review, we find no error or abuse of discretion.\nAs the trial court points out, prior to trial the parties had agreed that Moore had been exposed to asbestos products during his work life and that this asbestos exposure brought about his death from mesothelioma. Trial Court Opinion, at 6-7. The issue before the jury was product identification, that is, whether Moore was exposed to asbestos products attributable to Ericsson and whether that exposure was a substantial factor in causing Moore\u2019s mesothelioma. Id.\nDoctor Mark was designated to testify regarding the general pathology of Moore\u2019s disease and its clinical course and progression. As an expert in \u201cdust diseases,\u201d one of which is diffuse malignant mesothelioma, Doctor Mark\u2019s expertise encompasses diagnosis as well as causation and treatment of lung disease, tumors, dust disease and infectious disease. N.T. Trial, 2/19/09, at 42-43. Dr. Mark\u2019s opinion in response to the facts and information before him enabled him to give an expert opinion as to causation, and his reliance on summaries of depositions and reports was proper under Pa.R.E. 703. Contrary to Ericsson\u2019s claim, Dr. Mark was not testifying with respect to product identification or what occurred when the wire or cable was cut. Rather, he was relying upon medical reports and Moore\u2019s video deposition, which was proper under the rules of evidence, and basing his opinion on hypotheticals from facts in evidence. See N.T. Trial, 2/19/09, at 67-72. We find no error or abuse of discretion. Rafter, supra.\nEricsson next argues that it is entitled to a new trial because: (1) the court did not allow Ericsson\u2019s counsel to comment in closing arguments on the testimony of Plaintiffs\u2019 experts regarding governmental asbestos standards; (2) the court failed to prevent the jury from hearing about insurance and permitting Plaintiffs\u2019 counsel to suggest a sum of money as an appropriate award; and (3) the court abused its discretion in consolidating this case with three other unrelated cases.\nIn reviewing a trial court\u2019s decision to grant or deny a motion for a new trial, \u201cit is well-established law that, absent a clear abuse of discretion by the trial court, appellate courts must not interfere with the trial court\u2019s authority to grant or deny a new trial.\u201d Harman v. Borah, 562 Pa. 455, 756 A.2d 1116, 1121-22 (2000). Moreover, \u201c[a] new trial is not warranted merely because some irregularity occurred during the trial or another trial judge would have ruled differently; the moving party must demonstrate to the trial court that he or she has suffered prejudice from the mistake.\u201d Id. at 1122 (citations omitted). A trial court abuses its discretion by rendering a judgment that is manifestly unreasonable, arbitrary or capricious, or has failed to apply the law, or was motivated by partiality, prejudice, bias or ill will. See Bednar v. Dana Corp., 962 A.2d 1232 (Pa.Super.2008).\nWith respect to its claim that the court did not allow counsel to comment during closing on the Plaintiffs\u2019 evidence regarding government standards, Ericsson presents no argument that it was prejudiced by the court\u2019s ruling. Broad standards and bald assertions do not demonstrate prejudice. Harman, supra.\nWith respect to the jury hearing information regarding insurance and recovery sums, we note, as pointed out by the trial court, that Ericsson\u2019s recitation of the questioning is taken out of context. The exchange occurred in one of the companion cases, when Gene Sobel, the owner of a hardware store in Philadelphia, was questioned on direct examination by counsel for defendant in that case, Georgia-Pacific, who was attempting to discern whether Sobel\u2019s store stocked joint compound manufactured by Georgia-Pacific. In response to counsel\u2019s question on as to who hired his attorneys, the witness responded, his \u201cinsurance company.\u201d N.T. Trial, 2/27/2009, at 15, 45. Notably, there was no objection to either the question or the response at that time. See Pa.R.E. 103(a)(1). Much later, when the judge called a sidebar on another issue, counsel for Ericsson stated that he had a motion to make regarding that testimony, which the court summarily, and we believe properly, denied. N.T. Trial, 2/27/2009, at 25-26.\nIn a later exchange, Plaintiffs\u2019 counsel on cross-examination asked an argumentative question to that same witness about being accountable for \u201ctens of millions of dollars.\u201d Id. at 47. Counsel for Georgia-Pacific objected to the question, and the trial court interjected and stopped the line of questioning.\nBecause the questionable references occurred during the questioning of a witness in a companion case, and because the trial court halted the questioning referring to \u201cmillions of dollars,\u201d we conclude there was no prejudice to Ericsson in the Moore case. Neither reference had anything to do with the Ronnie Moore case, or defendant Ericsson. In fact, as Ericsson acknowledges in its brief, Ericsson was not a party in any of the other cases, and none of the other plaintiffs worked at Moore\u2019s place of employment. The jury had been instructed to compartmentalize these cases, and the trial judge made it clear that the jury was required to decide each case separately. Id. at 73-74. The fact that a. large, similar verdict-was rendered in each of the cases does not necessarily point to an unfair trial or to a jury\u2019s inability to appreciate specific facts or defenses and parse that out for each individual case. A review of the verdict form in this case indicates that the jury was clearly able to discern those distinctions; the jury\u2019s verdict form specifies which individual defendant\u2019s products were substantial factors in bringing about Moore\u2019s mesothelioma, and which were not. On the other hand, the jury\u2019s consistency in the three verdicts it rendered reflects the consistency in the valuation of the plaintiffs\u2019 suffering and losses.\nAs to Ericsson\u2019s claim that the court should not have consolidated this case with four other asbestos cases, we note first that the decision whether to consolidate a case is within the trial judge\u2019s discretion. See Andaloro, 799 A.2d at 81. Particularly in asbestos-related actions, which involved common questions of law and fact, consolidation promotes judicial economy. See Pa.R.C.P. 213(a). Additionally, Ericsson has cited no case that disapproves of this practice. Ericsson claims that \u201cit is apparent from the jury verdicts returned in this consolidated trial\u201d that its due process rights were denied. The fact that the jury returned a verdict in favor of the Plaintiffs here, or in favor of plaintiffs in the companion cases, does not demonstrate an abuse of discretion or prejudice to the defendant. We find this claim meritless.\nEricsson next claims the court erred or abused its discretion in entering judgment on improperly molded jury verdicts including, but not limited to, the satisfaction and payment of Gould\u2019s Pumps, Inc.\u2019s.proportionate share of liability. The verdict against Ericsson in this case was $2,000,000. In addition to finding Ericsson liable, the jury found two other companies liable: Goulds Pumps, Inc. and Garlock. The court found Ericsson\u2019s per capita liability was one-third of the verdict, or $666,667. See Baker v. ACandS, 562 Pa. 290, 755 A.2d 664 (2000) (in strict liability actions, liability is apportioned equally among joint tort-feasors). The court also found Ericsson was responsible for the difference between Goulds Pumps\u2019 one-third share and the $250,000 pro tanto settlement that Goulds Pumps paid Plaintiff, or $416,667 ($666,667 minus $250,000), or the shortfall amount. The court, therefore, molded the verdict against Ericsson to $1,083,334 ($666,667 + $416,667). Ericsson claims that it should not be responsible for the shortfall difference, and that the court should have required Goulds Pumps to pay Ericsson $416,667 in contribution. The trial court determined that Ericsson\u2019s argument ignores the holding in Baker v. ACandS, supra. We agree.\nIn Baker, our Supreme Court stated:\n[T]he proper method in calculating set-off is first to apportion shares of liability. In the matter sub judice, the trial court correctly determined that in this strict liability action, the verdict was to be apportioned equally among ACandS and the four settling defendants.... The next step in this process is to determine which set-off method applies with regard to each individual settling tort-feasor. As to the Manville Trust\u2019s share, ACandS is entitled to a pro tanto settlement in the amount of $30,000.00. Thus, ACandS is jointly and severally liable for both its share of the verdict as well as the shortfall between the Man-ville Trust\u2019s share and the $30,000.00 it paid in settlement, or for $850,000.00.\nBaker, 755 A.2d at 672 (emphasis added) (internal citations and footnotes omitted). Here, Ericsson is jointly and severally liable for its one-third share of the verdict as well as the shortfall between Goulds Pumps\u2019 share and the settlement it paid. Id. Further, we note that Ericsson does not explain in its argument that it is precluded from filing an action in contribution against Goulds Pumps. The contents of Goulds Pumps\u2019 settlement release, i.e., whether the release contained a \u201chold harmless indemnity provision\u201d protecting it from further liability of any type, is not an issue before this Court.\nFinally, Ericsson argues the trial court improperly calculated delay damages. Ericsson does not dispute that the delay damages should be calculated on the molded verdict, but claims it is responsible only for delay damages on its proportionate share of that molded verdict, not on the shortfall amount. We agree with the trial court that the shortfall amount represents additional liability on Ericsson\u2019s part, and, therefore, delay damages were properly calculated on the molded verdict. The court properly deducted the release amount ($250,000) from the verdict prior to the application of delay damages. We find no abuse of discretion. See Hughes v. GAF Corp., 364 Pa.Super. 311, 528 A.2d 173 (1987). Cf. Weber v. GAF Corp., 15 F.3d 35 (3d Cir.1994) (to allow nonsettling defendant to escape liability for delay damages based upon settlements of others would invite defendants to follow wait-and-see strategy rather than encourage them to make reasonable offers).\nIn their cross-appeal, Plaintiffs claim the court should have assigned a full and equal share of liability to Johns-Manville when molding the verdict and should have calculated delay damages accordingly. The court notes, however, that there was no evidence presented in the Moore case as to any liability on the part of Johns-Manville. Therefore, the court properly did not consider it in molding the verdict, and, consequently, there was no error in calculation of delay damages.\nAffirmed.\n. The molded jury verdict, $1,083,334.00, plus delay damages in the sum of $107,320.00.\n. Ericsson is die only remaining active defendant; the remaining 34 have since settled.\n. Pennsylvania Rule of Evidence 703 provides: \u201cThe facts or data in the particular case upon which an expert bases an opinion or inference may be those perceived by or made known to the expert at or before the hearing. If of a type reasonably relied upon by experts in the particular field in forming opinions or inferences upon the subject, the facts or data need not be admissible in evidence.\u201d Pa.R.E. 703.\n. The case before us was tried along with four other companion cases: Haywood v. Georgia Pacific; Wick v. Oakfabco; Confalone v. Melrather Gasket, Inc.; and Dove v. Crane Company. The Dove and Wick cases settled prior to opening and in the middle of plaintiff's casein-chief, leaving the instant case, Moore, and Haywood and Confalone for the jury\u2019s consideration.",
+        "type": "majority",
+        "author": "LAZARUS, J:"
+      }
+    ],
+    "attorneys": [
+      "Ollie Hart\u00f3n, Atlanta, GA, for Ericsson.",
+      "Denyse Clancy, Dallas, TX, for Moore.",
+      "John J. Hare, Philadelphia, for Goulds Pump, Participating Party."
+    ],
+    "corrections": "",
+    "head_matter": "Judith MOORE, Administratrix of the Estate of Donnie R. Moore, Deceased, and in her Own Right, Appellee v. ERICSSON, INC. (Successor to Anaconda Wire and Cable Company), AMTCO/American Biltrite, CBS Corporation, Certainteed Corporation, Champlain Cable Corporation, Cleaver-Brooks, Inc., Crown Cork & Seal Company, Inc., DFT, RPM, Bondex International and Goodyear Tire and Rubber Co., DFT, RPM, Bondex International, Fosterwheeler, LLC, Garlock Sealing Technologies, LLC, General Electric Company, CY Goldberg, Ingersollrand, Georgia Pacific, Melrath Gasket Company, Metropolitan Life Insurance, Owens-Illinois, Inc., Riley Power, Inc., Union Carbide Corporation and Kelly-Moore Paint Co., Appellants. Judith Moore, Administratrix of the Estate of Donnie R. Moore, Deceased, and in her Own Right, Appellant v. Ericsson, Inc. (Successor to Anaconda Wire and Cable Company), AMTCO/American Biltrite, CBS Corporation, Certainteed Corporation, Champlain Cable Corporation, Cleaver-Brooks, Inc., Crown Cork & Seal Company, Inc., DFT, RPM, Bondex International and Goodyear Tire and Rubber Co., DFT, RPM, Bondex International, Fosterwheeler, LLC, Garlock Sealing Technologies, LLC, General Electric Company, CY Goldberg, Ingersollrand, Georgia Pacific, Melrath Gasket Company, Metropolitan Life Insurance, Owens-Illinois, Inc., Riley Power, Inc., Union Carbide Corporation and Kelly-Moore Paint Co., Appellees.\nSuperior Court of Pennsylvania.\nArgued May 19, 2010.\nFiled Sept. 17, 2010.\nReargument Denied Nov. 19, 2010.\nOllie Hart\u00f3n, Atlanta, GA, for Ericsson.\nDenyse Clancy, Dallas, TX, for Moore.\nJohn J. Hare, Philadelphia, for Goulds Pump, Participating Party.\nBEFORE: ALLEN, LAZARUS, and FREEDBERG , JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0820-01",
+  "first_page_order": 848,
+  "last_page_order": 857
+}

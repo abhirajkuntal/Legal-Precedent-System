@@ -1,0 +1,260 @@
+{
+  "id": 7289339,
+  "name": "D.Z., Petitioner v. BETHLEHEM AREA SCHOOL DISTRICT, Respondent",
+  "name_abbreviation": "D.Z. v. Bethlehem Area School District",
+  "decision_date": "2010-07-27",
+  "docket_number": "",
+  "first_page": "742",
+  "last_page": "754",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 742"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "881 A.2d 54",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8921615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/881/0054-01"
+      ]
+    },
+    {
+      "cite": "931 A.2d 640",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8348489,
+        3249662
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/931/0640-01",
+        "/pa/593/0437-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3249662
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0437-01"
+      ]
+    },
+    {
+      "cite": "878 A.2d 925",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8945772
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/878/0925-01"
+      ]
+    },
+    {
+      "cite": "906 A.2d 642",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8467619
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/906/0642-01"
+      ]
+    },
+    {
+      "cite": "657 A.2d 100",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11928138
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/657/0100-01"
+      ]
+    },
+    {
+      "cite": "416 A.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Pa. Code \u00a7 16.63",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "672 A.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7349474
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/672/0400-01"
+      ]
+    },
+    {
+      "cite": "733 A.2d 19",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11543222
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/733/0019-01"
+      ]
+    },
+    {
+      "cite": "910 A.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8449292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/910/0775-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 1827",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "960 F.2d 1128",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524149
+      ],
+      "pin_cites": [
+        {
+          "page": "1135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/960/1128-01"
+      ]
+    },
+    {
+      "cite": "1 Pa. Code \u00a7 35.187",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 A.3d 712",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7289294
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/2/0712-01"
+      ]
+    },
+    {
+      "cite": "2 A.3d 712",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7289294
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/2/0712-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1203,
+    "char_count": 37867,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 1.1381336528340583e-07,
+      "percentile": 0.577809555692243
+    },
+    "sha256": "ee4a3405223ac52c2e590f326167e6faf63b6f4b8d2be673f0d3b8d015dc8294",
+    "simhash": "1:622365a70445217e",
+    "word_count": 5921
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: COHN JUBELIRER, Judge, and SIMPSON, Judge , and KELLEY, Senior Judge."
+    ],
+    "parties": [
+      "D.Z., Petitioner v. BETHLEHEM AREA SCHOOL DISTRICT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge SIMPSON.\nIn this appeal, D.Z. asks whether a Special Education Hearing Officer (Hearing Officer) erred in determining that Bethlehem Area School District (School District) properly implemented a Gifted Individualized Education Program (GIEP) for her son, J.Z. (Student), with regard to his status as a gifted student under Pennsylvania law for Student\u2019s 2007-2008 (3rd grade) and 2008-2009 (4th grade) school years.\nD.Z. represented herself during the hearings discussed below, although she retained counsel after appealing to this Court. She raises several issues, most of which concern the Hearing Officer\u2019s procedural rulings during the course of the hearings. In D.Z. v. Bethlehem, Area School District (D.Z.I), 2 A.3d 712 (Pa.Cmwlth.2010), a case concerning another of D.Z.\u2019s children, we addressed similar challenges to procedural rulings by the same Hearing Officer. As in D.Z.I, we discern no reversible error in the Hearing Officer\u2019s procedural rulings here. Therefore, we affirm.\nAs noted in D.Z.I, the matters between these parties have a complicated and convoluted history. The relevant portions of that history may be summarized as follows.\nAt the time of the proceedings before the Hearing Officer, Student was a 4th grade student residing within the School District. Student was identified as a gifted student under Pennsylvania educational legislation.\nIn a prior dispute over Student\u2019s gifted educational programming that also resulted in a due process hearing, a different hearing officer determined the School District appropriately designed and properly implemented Student\u2019s GIEP for the 2006-2007 school year, when Student was in 2nd grade (2007 GIEP Decision). Reproduced Record (R.R.) at 70a-79a. The hearing officer also ordered the School District to slightly modify and implement the GIEP for Student\u2019s 3rd grade year. Specifically, the hearing officer recognized the School District agreed to place Student in 4th grade for mathematics instruction during the 3rd grade year, and she ordered that it do so. R.R. at 77a, 79a. Based on the evidence presented, however, the hearing officer determined acceleration in areas such as reading and written expression was not required. R.R. at 77a-78a. Thus, the hearing officer denied all other requests by D.Z. for modification of the GIEP. The hearing officer also determined a GIEP meeting should be held more frequently to determine if appropriate educational progress was made and if additional enrichment was needed. R.R. at 78a. After incorporation of the ordered modification for acceleration in mathematics, the School District issued another GIEP on July 30, 2007, for Student\u2019 3rd grade school year.\nThereafter, the School District proposed a GIEP for the 2008-2009 school year, when Student was in 4th grade, but the parties could not reach an agreement. As a result, the GIEP for Student\u2019s 3rd grade year remained in effect. See 22 Pa.Code \u00a7 16.63(a) (prior GIEP in effect at the time of rejection of, and/or subsequent challenge to, newly proposed GIEP remains in effect for a student during the pendency of any such rejection and/or challenge). Thus, the GIEP for Student\u2019s 3rd grade year, which the prior hearing officer specifically deemed appropriate (with acceleration in mathematics), was the pendent GIEP during the course of the proceedings at issue here.\nIn December 2008, D.Z., representing herself, filed a due process complaint with the Pennsylvania Department of Education, Office of Dispute Resolution. The Hearing Officer held hearings on D.Z.\u2019s complaint on February 6 and May 29, 2009.\nD.Z., whose native language is Mandarin Chinese, requested the services of an interpreter at the hearing. The Hearing Officer granted this request. Ms. Dan-meng Lin served as an interpreter for the proceedings.\nAlthough D.Z. requested only partial translation on an as-needed basis for clarification purposes during the hearings, the Hearing Officer determined this arrangement would be confusing and problematic. Thus, the Hearing Officer required D.Z. to speak only her native language, and required all spoken English by any hearing participant or official be interpreted into D.Z.\u2019s native language. D.Z. repeatedly objected to the Hearing Officer\u2019s \u201call-or-nothing\u201d translation requirement and to his repeated exclusions of her participation in English.\nAt the outset of the February 6, 2009 hearing, the Hearing Officer instructed the School District\u2019s counsel to qualify the interpreter as to her experience and expertise. After that voir dire, the School District offered the interpreter as an expert interpreter. The Hearing Officer accepted that offer, recognizing the interpreter for purposes of translating the proceedings. D.Z. did not object. The interpreter appointed by the Hearing Officer was not officially certified under Pennsylvania law. Notes of Testimony (N.T.) at 6-7.\nThe Hearing Officer then requested that each party, during their consecutive opening statements, state their positions on the issues presented and their requested result. D.Z. stated her issues concerned: Student\u2019s present level of educational performance; her objections to the School District\u2019s assessments and/or evaluations of Student; and, the appropriateness of the proposed GIEP for Student\u2019s 4th grade year. N.T. at 25-31. D.Z. also articulated issues regarding the goals of the GIEP, evaluative and measurement criteria, Student\u2019s enrichment opportunities, the School District\u2019s delays in assessing and updating the GIEP, Student\u2019s lack of improvement in English in his 3rd grade year, and communication difficulty with the School District. Id.\nThe School District responded that: it proposed a GIEP for Student\u2019s 4th grade year which was responsive to his needs and complied with applicable regulations; and, the Hearing Officer did not have jurisdiction over the issue of Student\u2019s progress in English because it was not a subject within Student\u2019s GIEP. N.T. at 31-35. The School District emphasized the sole issue before the Hearing Officer was whether the GIEP for Student\u2019s 4th grade year responded to the areas in which Student was identified as gifted. N.T. at 33-34.\nAfter the parties\u2019 opening statements, the Hearing Officer identified two issues: whether the GIEP for Student\u2019s 4th grade school year was appropriate; and, whether Student made adequate progress under the GIEP for his 3rd grade year in English/reading/writing. N.T. at 35-41.\nAfter identifying the issues, the Hearing Officer began to hear testimony from Student\u2019s 4th grade teacher, prior to the conclusion of the hearing. After a lengthy delay in the proceedings, to which the parties agreed in order to allow for hearings concerning another of D.Z.\u2019s children, the next hearing in this matter occurred on May 29, 2009.\nAt the outset of the May 29 hearing, the School District announced its intention to formally withdraw the proposed GIEP for Student\u2019s 4th grade school year, and it moved to dismiss the matter as moot based on its assertion that the current school year was near an end. The School District also requested that the Hearing Officer issue an order requiring that a GIEP team convene to develop a GIEP for the 2009-2010 school year, Student\u2019s 5th grade year.\nIn response, the Hearing Officer determined that, because the pendent GIEP for Student\u2019s 3rd grade year remained in ef-feet for his 4th grade year, and because a different hearing officer determined that GIEP was appropriate, it was, as a matter of law, appropriate for Student\u2019s 4th grade year. N.T. at 97-101.\nBased on the School District\u2019s invitation to D.Z. to participate in a GIEP meeting for Student\u2019s 5th grade year, along with the impending completion of Student\u2019s 4th grade year, the Hearing Officer focused the remaining proceeding on the \u201cimplementation, or teaching, of [Student] in the [3rd] and [4th grade] school years, in English and math.\u201d N.T. at 101.\nThe Hearing Officer heard continued testimony from Student\u2019s 4th grade teacher, as well as testimony from Student\u2019s 3rd grade teacher, the School District\u2019s mathematics specialist who instructed Student during a portion of his 3rd grade year, and Student\u2019s mathematics teacher for his 4th grade year. After the conclusion of testimony from these witnesses, D.Z., for the first time, informed the Hearing Officer she needed to leave the hearing immediately for a pre-scheduled-appointment, despite the Hearing Officer\u2019s desire to hear testimony from D.Z. The Hearing Officer then indicated he did not intend to reconvene the hearings and considered the matter concluded.\nShortly thereafter, the Hearing Officer issued a decision in which he determined the School District properly implemented Student\u2019s GIEP in math and English for Student\u2019s 3rd and 4th grade years. D.Z. now appeals to this Court.\nOn appeal and now assisted by counsel, D.Z. raises several issues. Specifically, she asserts the Hearing Officer: (i) denied her due process by prohibiting her from speaking English during the hearing; (ii) erred in failing to appoint a certified interpreter or \u201cotherwise qualified interpreter\u201d and failing to replace an ineffective interpreter; (iii) erred in dismissing as moot her challenge to Student\u2019s GIEP for his 4th grade year; (iv) erred in barring her from challenging the appropriateness of Student\u2019s GIEP for Student\u2019s 3rd and 4th grade years; and, (v) improperly excluded evidence relevant to the implementation of the GIEP. D.Z. also questions whether the combination of errors that occurred below resulted in a denial of due process. We consolidate our discussion and analysis of these issues where appropriate.\nI. Use of Interpreter\nA. \u201cAll-or-Nothing\u201d Approach\nD.Z. first maintains the Hearing Officer erred in insisting on an \u201call-or-nothing\u201d approach to her use of the interpreter in these proceedings, which impaired her ability to effectively question witnesses, present evidence and fully participate in the hearing. Specifically, she contends the Hearing Officer denied her due process by prohibiting her from speaking English, and by requiring her to speak only her native language with translation provided by the appointed interpreter.\nIn D.Z.I, we addressed an identical in-terpretational arrangement between the same parties, which addressed similar administrative proceedings before the same Hearing Officer, with the same interpreter, involving litigation over the gifted and special education of another of D.Z.\u2019s children. There, we held D.Z.\u2019s due process rights were safeguarded by the statute affording her access to an interpreter for the proceedings. See 2 Pa.C.S. \u00a7 562. Furthermore, we held the Hearing Officer did not impair D.Z.\u2019s due process rights by using a procedure that afforded D.Z. full access to interpretation of the proceedings. We explained that the Hearing Officer\u2019s decision to employ a procedure that required full, rather than partial, translation was an appropriate exercise of his discretion pursuant to the General Rules of Administrative Practice and Procedure, 1 Pa. Code \u00a7 35.187. That regulatory provision authorizes the presiding officer of an administrative tribunal to regulate the course of the proceedings before him, including the exercise of discretion over the disposition of procedural matters.\nWe also noted that by requiring full interpretation of the proceedings, the Hearing Officer exercised his discretion in a manner that provided D.Z. the maximum opportunity to be heard under the applicable interpretational statutes, and, in so doing, he did not abuse his discretion. Based on the rationale expressed in D.Z.I, we reject D.Z.\u2019s identical argument here.\nB. Appointment of Interpreter\n1. Certified or \u201cOtherwise Qualified\u201d Interpreter\nAs in D.Z.I, D.Z. also takes issue with the Hearing Officer\u2019s appointment of the interpreter. Specifically, she asserts the Hearing Officer erred in failing to appoint a certified or otherwise qualified interpreter as required by 2 Pa.C.S. \u00a7 563.\nD.Z. first notes that the interpreter, by her own admission, was not a certified interpreter under Pennsylvania law. N.T. at 6-7. In the absence of such certification, D.Z. asserts the Hearing Officer erred in failing to properly appoint an otherwise qualified interpreter. To that end, D.Z. argues the relevant statutory provision required the Hearing Officer to determine that \u201ca good faith effort was made to obtain a certified interpreter\u201d and that \u201ca certified interpreter was not reasonably available.\u201d 2 Pa.C.S. \u00a7 563. She contends there is no record evidence to support such a finding here.\nFurther, D.Z. asserts, even if the Hearing Officer could have determined that a certified interpreter was not reasonably available, the Hearing Officer did not state on the record that the interpreter read, understood, and agreed to abide by the code of professional conduct for administrative proceeding interpreters, as mandated by 2 Pa.C.S. \u00a7 563(b)(2)(H). D.Z. argues that the express and unambiguous language of that provision states that a hearing officer seeking to appoint an otherwise qualified interpreter \u201cshall\u201d make such statement of record.\nIn D.Z.I, we explained 2 Pa.C.S. \u00a7 563(b)(2)(ii) requires a presiding officer state on the record that an \u201cotherwise qualified interpreter\u201d has read, understands and agrees to abide by the code of professional conduct; nevertheless, that provision does not excuse a party from raising an objection where the presiding officer does not make this statement on the record. Cf. United States v. Huang, 960 F.2d 1128, 1135 (2d Cir.1992) (emphasis added) (\u201cthough the [federal Court Interpreters Act, 28 U.S.C. \u00a7\u00a7 1827, 1828,] speaks in mandatory terms as to the duty of the court to establish an interpreter program to protect the rights of a defendant whose only or primary language is other than English, it does not preclude a defendant from ... waiving any objection he may have to the certification or performance of a translator for a witness.\u201d) We further stated that, although we are bound to apply the plain language of pertinent statutes, our review of the record revealed no indication that D.Z. raised an issue regarding the code of conduct at any time before the Hearing Officer. Thus, we deemed the issue waived.\nAs in D.Z.I, our review of the record here reveals D.Z. did not raise the issue regarding the code of conduct before the Hearing Officer. Thus, the Hearing Officer and the School District were deprived of an opportunity to cure the procedural irregularity. For the reasons set forth in D.Z.I, we conclude D.Z. waived that issue here as well.\nAdditionally, D.Z. did not assert during the hearings that the Hearing Officer failed to indicate that a good faith effort was made to obtain a certified interpreter and a certified interpreter was not reasonably available. Thus, the Hearing Officer and the School District were deprived of an opportunity to cure the procedural irregularity. As with the issue regarding the code of conduct, D.Z. failed to preserve this issue.\n2. Replacement of Interpreter\nD.Z. further maintains the Hearing Officer\u2019s failure to establish that the interpreter was a certified or \u201cotherwise qualified interpreter\u201d was not harmless error. In support, she points to several places in the record that purportedly show the interpreter\u2019s inaccuracy or unresponsiveness, and she asserts these problems undermined her ability to effectively question witnesses.\nAlso, as in D.Z.I, D.Z. contends the Hearing Officer erred in failing to replace the interpreter when it became clear she was not effective. See 2 Pa.C.S. \u00a7 564. In particular, D.Z. argues the interpreter here was unable to correctly interpret D.Z.\u2019s questions. D.Z. asserts the Hearing Officer did nothing to address the interpreter\u2019s inaccuracies or lack of responsiveness; rather, he questioned D.Z.\u2019s need for an interpreter.\nIn D.Z.I, we explained that demonstrable prejudice is a key factor in assessing whether procedural due process was denied. We also stated that an order of an administrative agency would not be disturbed for harmless error. To constitute reversible error, an evidentiary ruling must not only be erroneous, but also harmful or prejudicial to the complaining party. Id.\nApplying these principles in D.Z.I, we stated that although D.Z. pointed to several places in the record in an effort to show the interpreters there were ineffective, she offered no clear explanation as to what evidence was precluded or improperly developed because of the alleged ineffective communications. More importantly, she offered no explanation of how such evidence would likely lead to a different result. Absent a clear explanation of harm resulting from the translation problems, we declined to disturb the Hearing Officer\u2019s decision.\nThe rationale and result expressed in D.Z.I apply with equal force here. Specifically, D.Z. provides no specific explanation as to what evidence was precluded or improperly developed because of the alleged ineffective communications. In addition, she offers no explanation as to how such evidence would likely lead to a different result. As in D.Z.I, absent a clear explanation of harm resulting from the alleged translation problems, we decline to disturb the Hearing Officer\u2019s decision on this basis.\nII. Challenge to Design of GIEP\nD.Z. next maintains the Hearing Officer erred in barring her from challenging the appropriateness, or design, of Student\u2019s GIEP for his 3rd and 4th grade school years. Again, we disagree.\nAt the outset of the May 29 hearing, the Hearing Officer stated, \u201c[t]he GIEP approved by the previous [hjearing [ojfficer [for Student\u2019s 3rd grade year] has formed the basis of [Student\u2019s] instruction for [Student\u2019s 4th grade year]; and so, as a matter of law, that GIEP is appropriate.\u201d R.R. at 28a. Thus, the Hearing Officer declined to consider the appropriateness of the previously adjudicated GIEP, for the then-current 4th grade school year at issue in D.Z.\u2019s complaint. No error is apparent in this determination.\nMore particularly, res judicata bars re-litigation of a claim when the cause of action in one proceeding is identical to that involved in a prior final judgment. Stilp v. Commonwealth, 910 A.2d 775 (Pa. Cmwlth.2006). The doctrine applies to administrative agency determinations. Hall v. Pa. Bd. of Prob. & Parole, 733 A.2d 19 (Pa.Cmwlth.1999). A party seeking to bar re-litigation of a claim must show the existence of four conditions: (1) identity of the thing sued upon; (2) identity of the cause of action; (3) identity of the persons or parties to the action; and, (4) identity of the quality or capacity of the parties suing or sued. Stilp.\nHere, the Hearing Officer made the following pertinent findings regarding the appropriateness of Student\u2019s GIEP (with emphasis added):\n1. The parties have had a history of disagreement over [Student\u2019s] gifted education program. On July 17, 2007, a special education due process hearing officer found that [Student\u2019s] GIEP was appropriate and was appropriately implemented in [Student\u2019s 2nd grade year] and ordered the GIEP (with slight modifications) to be implemented in [Student\u2019s 3rd grade year.] (Hearing Officer Exhibit [\u201cHO\u201d]-4).\n2. The [School] District incorporated the slight modifications ordered by the hearing officer and issued a GIEP on July 30, 2007. (HO-5).\n3. The parties met to develop [Student\u2019s] GIEP for [Student\u2019s 4th grade year] year and could not reach an agreement. Therefore, the GIEP found to be appropriate in the previous round of due process was implemented for the 2008-2009 school year. That GIEP is the pendent GIEP. (HO-5; NT at 29).\nHearing Officer Dec., 6/12/09, Findings of Fact Nos. 1-3.\nThus, the GIEP for Student\u2019s 2nd grade year, which a prior hearing officer determined was appropriate, remained (with slight modification) in full effect for Student\u2019s 3rd grade, and later, 4th grade year. Because the educational programming provided by the School District, which a prior hearing officer determined was appropriate, remained in effect for Student\u2019s 3rd and 4th grade years, no error is apparent in the Hearing Officer\u2019s determination that the GIEP for Student\u2019s 4th grade year was appropriate as a matter of law. As such, the Hearing Officer did not err in declining to consider D.Z.\u2019s challenge to the design of Student\u2019s GIEP for his 3rd and 4th grade years.\nMore importantly, despite D.Z.\u2019s general contention that the Hearing Officer erred in barring her challenge to the appropriateness of Student\u2019s GIEP for Student\u2019s 3rd and 4th grade school years, it is unclear what evidence D.Z. sought to offer that might have shown design of the GIEP was inappropriate. D.Z.\u2019s brief to this Court is silent as to what design evidence she sought to present. Our review fails to reveal an offer of proof in the record. Absent any explanation of the evidence D.Z. wished to present, and how that evidence could have altered the result, it is impossible to discern any prejudice resulting from the Hearing Officer\u2019s ruling. Under these circumstances, we discern no reversible error. See D.Z.I.\nIII. Exclusion of Evidence as to Implementation of GIEP\nAs a final point, D.Z. contends the Hearing Officer improperly excluded evidence relevant to the issue of whether the School District properly implemented Student\u2019s GIEP.\nIn particular, D.Z. asserts, a review of Student\u2019s GIEP for his 3rd grade year reveals his \u201cinstructional level\u201d for reading comprehension was \u201cgrade 4.\u201d R.R. at 88a. However, she argues the annual goals and short term objectives in the GIEP are not written in terms of a 4th grade reading level; rather, the \u201cgoals\u201d and \u201cobjectives\u201d required the School District to present Student with material at his instructional level during the pendency of the GIEP.\nD.Z. argues she attempted to present evidence as to Student\u2019s current instructional level in reading during his 4th grade year through the School District\u2019s witnesses. Specifically, she contends she tried to ask the School District\u2019s witnesses whether they were implementing Student\u2019s GIEP at his current instructional level, which, during Student\u2019s 4th grade year, was higher than his instructional level at the time the GIEP for his 3rd grade year was written, over a year prior. However, D.Z. argues, the Hearing Officer sustained the School District\u2019s continued objections to this line of questioning on the ground the questions were not relevant to whether the School District properly implemented the GIEP. R.R. at 35a-38a.\nD.Z. asserts she should have been permitted to question the School District\u2019s witnesses and present evidence on Student\u2019s instructional levels during his 3rd and 4th grade years. She contends such questions were directly relevant to a determination of whether the School District properly implemented the GIEP. D.Z. argues the Hearing Officer\u2019s failure to allow examination of witnesses and admission of evidence on issues directly relevant to implementation of the GIEP was an abuse of discretion and denied her due process.\nUnder Section 505 of the Administrative Agency Law, 2 Pa.C.S. \u00a7 505, administrative agencies are not bound by the technical rules of evidence, and all relevant evidence of reasonably probative value may be received. Where the record reveals the evidence sought to be introduced is not reasonably probative, the evidence may be excluded. News-Chronicle Co. v. Pa. Human Relations Comm\u2019n, 672 A.2d 400 (Pa.Cmwlth.1996). The liberal rules of evidence relating to administrative agencies afford agencies broad discretion in admitting or excluding evidence, so the exclusion alone may not constitute a procedural defect. Id.\nContrary to D.Z.\u2019s assertions, our review of the record here reveals the Hearing Officer did not exclude evidence concerning implementation of Student\u2019s GIEP generally, nor did he exclude evidence regarding Student\u2019s instructional level for reading comprehension, specifically.\nBefore the Hearing Officer, D.Z. attempted to challenge the implementation of Student\u2019s GIEP by challenging the level at which Student\u2019s teachers were instructing him. In support of her challenge, D.Z. pointed to a statement in Student\u2019s GIEP for his 3rd grade year that Student was to be instructed at his instructional level.\nTo put this challenge in context, we reiterate that, by operation of regulations, because the parties could not agree on a new GIEP after Student\u2019s GIEP for the 3rd grade year, that programming remained in place until the parties reached an agreement on a new GIEP or a hearing officer ordered a new GIEP. See 22 Pa. Code \u00a7 16.63(a).\nA review of Student\u2019s GIEP for his 3rd grade year reveals that it identified Student\u2019s instructional level for reading comprehension as \u201cgrade 4.\u201d R.R. at 88a. Because Student\u2019s GIEP remained in place for his 4th grade year, the express provision within that document that identified Student\u2019s reading comprehension instructional level at \u201cgrade 4,\u201d also remained in place.\nThrough her questioning of the School District\u2019s witnesses, it appears D.Z. did not understand that the provisions of Student\u2019s GIEP for the 3rd grade year remained in place. Thus, in response to D.Z.\u2019s repeated questions regarding Student\u2019s instructional level, the Hearing Officer explained (with emphasis added):\nI note for the record that on page 3 of 6 [of Student\u2019s GIEP for the 3rd grade year], in the middle of the page the GIEP ... states that [Student\u2019s] in structional level in reading is grade four. The witness has testified that she is instructing [Student] in the fourth grade level. So the GIEP and this witness\u2019 [sic] testimony would seem to address instruction at his instructional level.\n* * *\nThe [G]IEP ... is the GIEP for [Student\u2019s] instruction. It does not matter how much you, or I, or the [S]chool [District, disagrees with [it]. It is [Student\u2019s] GIEP until you approve a new GIEP, or I order a new GIEP....\nBut disagreeing with what is in this document is not an issue in this hearing. The only issue in this hearing is whether [Student\u2019s teacher] taught what was in this document or not. So please ask your questions about what she taught [Student].\nR.R. at 37a-38a.\nThe Hearing Officer\u2019s explanation is consistent with the language of the GIEP and the effect of applicable regulations. As such, we discern no abuse of discretion in the Hearing Officer\u2019s decision to limit D.Z.\u2019s repeated questioning of witnesses on a point that was inconsistent with the express language of the GIEP.\nIn any event, the Hearing Officer himself elicited testimony from Student\u2019s 4th grade teacher concerning her instruction of Student in reading. In response to this questioning, Student\u2019s 4th grade teacher indicated the books she used in her instruction of Student were \u201cin the fifth grade level range.\u201d R.R. at 34a. This witness also testified the books used in Student\u2019s \u201cenrichment\u201d reading instruction were on a \u201cfifth to sixth grade level.\u201d Id.; see also R.R. at 39a-40a. Thus, contrary to D.Z.\u2019s assertions that the Hearing Officer excluded evidence regarding Student\u2019s reading comprehension instruction level, the Hearing Officer himself actually elicited relevant testimony on this issue. Therefore, D.Z.\u2019s claim fails.\nMoreover, Duquesne Light Co. v. Workmen\u2019s Compensation Appeal Board (Kraft), 53 Pa.Cmwlth. 92, 416 A.2d 651 (1980) and Franklin Plastics Corp. v. Department of Environmental Resources, 657 A.2d 100 (Pa.Cmwlth.1995), cited by D.Z. for the proposition that this Court reversed and remanded in cases where an administrative agency\u2019s exclusion of evidence denied a party the right to a full and fair hearing, are factually distinguishable and, therefore, do not compel a different here.\nFirst, in Duquesne Light, this Court remanded a case where a workmen\u2019s compensation referee barred an employer from conducting reasonable cross-examination of witnesses on the issue of whether a claimant provided the employer timely notice of an alleged work-related condition, an issue which was critical to the employer\u2019s defense.\nNext, in Franklin Plastics, we remanded a case to the Environmental Hearing Board where it improperly barred an entity, which the Department of Environmental Resources (DER) charged with various emissions violations, from eliciting, on cross-examination, crucial exculpatory evidence, which restricted its ability to challenge the testimony and evidence DER presented.\nHere, unlike in Duquesne Light and Franklin Plastics, the Hearing Officer did not improperly limit cross-examination on a critical issue. To the contrary, the Hearing Officer permitted D.Z. to examine the School District\u2019s witnesses on relevant issues. The Hearing Officer did not abuse his discretion by limiting D.Z.\u2019s repetitive questions on a point that was not directly relevant to the central the issue before him, which concerned the implementation of Student\u2019s pendent GIEP. Further, the Hearing Officer himself elicited relevant testimony from Student\u2019s 4th grade teacher concerning her instruction of Student in reading. Thus, unlike in Duquesne Light and Franklin Plastics, we discern no reversible error.\nBased on the foregoing, we affirm.\nORDER\nAND NOW, this 27th day of July, 2010, the order of Special Education Hearing Officer dated June 12, 2009, at ODR Case # 9508-08-09-AS, is AFFIRMED.\n. Title 22, Chapter 16 of the Pennsylvania Code sets forth the extensive requirements for drafting GIEPs, including identifying the gifted child, completing a multi-disciplinary evaluation and reevaluation, and writing a GIEP with the student, the student's parents, and representatives from the school district. See B.C. ex rel. J.C. v. Penn Manor Sch. Dist., 906 A.2d 642 (Pa.Cmwlth.2006).\n. Notably, the record does not contain a copy of D.Z.'s complaint.\n. The transcripts of the two hearings are sequentially numbered as if one continuous transcript; therefore, we refer to them as one transcript covering the entirety of the two hearings. See O.R. at Item # s 3-4.\n. The Hearing Officer also noted D.Z. recently filed another complaint regarding the appropriateness of Student\u2019s math instruction in the 3rd and 4th grade years. The Hearing Officer formally dismissed that complaint, and incorporated the issue of \"math instruction in those school years\" into the ongoing proceedings on D.Z.'s original complaint. N.T. at 101.\n. Our review is limited to determining whether an error of law was committed, whether constitutional rights were violated, or whether necessary findings of fact were supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa.C.S. \u00a7 704: Lower Merion Sch. Dist. v. Doe, 878 A.2d 925 (Pa.Cmwlth.2005), aff'd, 593 Pa. 437, 931 A.2d 640 (2007).\n. Because the Hearing Officer properly declined to consider the issue of the appropriateness of the design of Student's GIEP for his 3rd and 4th grade years, we need not address D.Z.\u2019s claim that the Hearing Officer erred in dismissing as moot her challenge to the appropriateness of the GIEP for Student\u2019s 4th grade year.\n. Although D.Z.\u2019s brief lists a sixth question presented, \"Whether a combination of errors that occurred during the Special Education Due Process Hearing resulted in a denial of due process\" she did not brief this issue. To the extent that D.Z. intended to raise this as an issue separate from those discussed above, we conclude she waived the issue by failing to develop it or cite authority for it. E.g., Am. Rock Mechs., Inc. v. Workers' Comp. Appeal Bd. (Bik & Lehigh Concrete Techs.), 881 A.2d 54 (Pa.Cmwlth.2005) (holding issue waived where appellant failed to develop it or cite authority for it).",
+        "type": "majority",
+        "author": "Judge SIMPSON."
+      },
+      {
+        "text": "DISSENTING OPINION BY\nSenior Judge KELLEY.\nI respectfully dissent. The Majority\u2019s opinion ignores the plain statutory mandate at issue, finds waiver where none has been raised or equitably exists, and potentially eviscerates the statutory review scheme governing GIEPs without regard to the annual review rights of parents thereunder. The reasoning for my dissent in this case mirrors the reasoning for my dissent, on the same issues, as more fully set forth in D.Z. v. Bethlehem Area School District (D.Z.I), 2 A.3d 712 (Pa.Cmwlth. 2010).\nTo the extent that the Majority relies upon its prior reasoning on the issue of D.Z.\u2019s purported waiver of any objection to the Hearing Officer\u2019s failure to properly place upon the record the mandatory statement of qualification pursuant to 2 Pa.C.S. \u00a7 563(b)(2), I reiterate that D.Z.\u2019s repeated and persistent objections throughout the record to the interpreter\u2019s qualifications and efficacy should be read as asserting the substance of such an objection, and no waiver should be found.\n' Further, any finding of waiver requires address of D.Z.\u2019s issues challenging the actual effectiveness of the interpreter at issue. That analysis should begin with an examination of the interpreter\u2019s legal qualifications, which are undisputedly insufficient as a matter of law in light of the Hearing Officer\u2019s failure to make the mandated record statement required in Section 563(b)(2).\nAdditionally, D.Z.\u2019s repeated and clear insistence that she has not been heard as a result of the interpreter\u2019s ineffectiveness suffices as a showing of actual prejudice, given the fundamental nature of the due process violations alleged, and given the record\u2019s preservation of D.Z.\u2019s objections on that basis throughout the entirety of the proceedings below. I can conceive of no more obvious and self-evident actual prejudice shown, in the context of a due process violation allegation, than a record replete with assertions that a party is literally not being heard. In my view, the actual prejudice embodied in not being properly interpreted to the Hearing Officer, in light of the use of statutorily unqualified interpreter, is so obvious as to require no official designation thereof within a brief to this Court, given the record to the matter sub judice.\nThe Majority\u2019s application of the doctrine of res judicata to D.Z.\u2019s challenges in this case is, in my view, errant, where neither the identity of the things sued upon, nor the identity of the cause of action, is identical. The instant matter raises the issue of the appropriateness of Student\u2019s GIEP for the 4th grade year, whereas the prior GIEP \u2014 held over as pendant under Pennsylvania regulation in light of D.Z.\u2019s challenge to the proposed and rejected 4th grade GIEP \u2014 addressed such appropriateness only for Student\u2019s 3rd grade year (notwithstanding the pen-dency issue as a practical matter, as mandated by regulation).\nFurther, District\u2019s action in this case, in withdrawing its parentally rejected proposed 4th grade GIEP in the wake of D.Z.\u2019s challenge thereto, sharply illustrates the evisceration of the annual educational plan review scheme established by our General Assembly. Under the Majority\u2019s application of the res judicata doctrine herein, effectively rendering unassailable a pendant carryover education plan in subsequent years, a course of conduct by a district in which it annually withdraws any rejected proposed plan (especially in the later stages of a parent\u2019s challenge, as in this case) and relies upon the unassailability of a pendant plan under res judicata would enable a district to forever evade review of repeatedly rejected plan proposals indefinitely. Such a result is absurd, and at direct odds with the General Assembly\u2019s mandate for annual parental review rights.\nAdditionally, the very hypothetical I advanced in D.Z.I is present in this matter. Student\u2019s previously litigated educational plan included accelerated math instruction at a 4th grade level for Student\u2019s 3rd grade year. Rendering that plan design unassailable under res judicata leads to a result whereby the previously litigated plan, now used as a pendant carryover in subsequent challenged academic years, is unreviewable despite the express advanced design of 4th grade math instruction (for Student\u2019s 3rd grade) now applied to Student\u2019s 4th, 5th, and potentially future academic years. The fact that the Majority (and the Hearing Officer) expressly note that Student received accelerated math instruction at a higher level in his current academic year (despite the pendant 3rd grade design as previously approved) is a happy equitable accident of the instant facts; had that instruction still been provided at the 3rd grade level as previously adjudicated, that clearly improperly designed instruction level would have been unassailable under the Majority\u2019s view.\nI concur in the Majority\u2019s remaining analysis not addressed above.\nI would vacate and remand for further proceedings, on the primary basis of the Hearing Officer\u2019s error as a matter of law in failing to place the statutorily mandated statement regarding otherwise qualified interpreters upon the record, as required by 2 Pa.C.S. \u00a7 563(2)(b).\n. I also object to the Majority's conclusion that D.Z.\u2019s perceived failure to show any actual prejudice in light of the Hearing Officer\u2019s failure to make the mandated record statement regarding the purported otherwise qualified interpreter renders the Hearing Officer\u2019s failure harmless error. Given the fundamental nature of the due process rights implicated herein \u2014 namely, and quite literally, the opportunity to be heard \u2014 a finding of harmless error serves to eviscerate the plain mandate of Section 563(b)(2), and by extension, eviscerates the very due process rights embodied by that Section as recognized by the Majority.",
+        "type": "dissent",
+        "author": "Senior Judge KELLEY."
+      }
+    ],
+    "attorneys": [
+      "Kathryn E. Potalivo, Philadelphia, for petitioner.",
+      "Glenna M. Hazeltine, Bethlehem, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "D.Z., Petitioner v. BETHLEHEM AREA SCHOOL DISTRICT, Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs Dec. 4, 2009.\nDecided July 27, 2010.\nKathryn E. Potalivo, Philadelphia, for petitioner.\nGlenna M. Hazeltine, Bethlehem, for respondent.\nBEFORE: COHN JUBELIRER, Judge, and SIMPSON, Judge , and KELLEY, Senior Judge.\n. This case was reassigned to the author on April 28, 2010."
+  },
+  "file_name": "0742-01",
+  "first_page_order": 758,
+  "last_page_order": 770
+}

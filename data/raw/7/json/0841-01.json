@@ -1,0 +1,610 @@
+{
+  "id": 7286883,
+  "name": "Sterling LEWIS, Appellant v. CRC INDUSTRIES, INC., Appellee",
+  "name_abbreviation": "Lewis v. CRC Industries, Inc.",
+  "decision_date": "2010-09-27",
+  "docket_number": "",
+  "first_page": "841",
+  "last_page": "852",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 841"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 N.J. 375",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        303110
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "\"To succeed under a strict-liability design-defect theory, a plaintiff must prove that (1) the product was defective; (2) the defect existed when the product left the hands of the defendant; and (3) the defect caused the injury to a reasonably foreseeable user.\""
+        },
+        {
+          "page": "1317",
+          "parenthetical": "\"To succeed under a strict-liability design-defect theory, a plaintiff must prove that (1) the product was defective; (2) the defect existed when the product left the hands of the defendant; and (3) the defect caused the injury to a reasonably foreseeable user.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/131/0375-01"
+      ]
+    },
+    {
+      "cite": "266 N.J.Super. 481",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        443213
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "313",
+          "parenthetical": "\"Without that [cautionary instruction], the jury was free to reason that plaintiff was a foreseeable user; the standard of care applied to her; she violated the standard; and she would not have been injured had she not done so: ergo, the [product's] design was not defective.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/266/0481-01"
+      ]
+    },
+    {
+      "cite": "386 A.2d 816",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "832"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 N.J. 152",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        1364065
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/76/0152-01"
+      ]
+    },
+    {
+      "cite": "308 N.J.Super. 308",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        153815
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[P]laintiff who sustains an injury from a defective product in a work setting will not have his or recovery diminished under comparative negligence principles for having allegedly encountered a known risk.\""
+        },
+        {
+          "page": "1269",
+          "parenthetical": "\"[P]laintiff who sustains an injury from a defective product in a work setting will not have his or recovery diminished under comparative negligence principles for having allegedly encountered a known risk.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/308/0308-01"
+      ]
+    },
+    {
+      "cite": "128 N.J. 86",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        707136
+      ],
+      "weight": 8,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "even when plaintiff with actual knowledge of danger presented by defective product knowingly and voluntarily encounters that risk, such conduct cannot serve as basis for defense"
+        },
+        {
+          "page": "642",
+          "parenthetical": "even when plaintiff with actual knowledge of danger presented by defective product knowingly and voluntarily encounters that risk, such conduct cannot serve as basis for defense"
+        },
+        {
+          "page": "641"
+        },
+        {
+          "page": "643"
+        },
+        {
+          "page": "645"
+        },
+        {
+          "page": "645",
+          "parenthetical": "danger jury might improperly focus on plaintiff's behavior in deciding the issue of product defect was \"especially acute\" because throughout trial defendants emphasized plaintiff's lack of due care in using the product"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/128/0086-01"
+      ]
+    },
+    {
+      "cite": "256 N.J.Super. 467",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        337290
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "comparative fault of plaintiff injured while performing job activities at workplace is to be disregarded"
+        },
+        {
+          "page": "672-73",
+          "parenthetical": "comparative fault of plaintiff injured while performing job activities at workplace is to be disregarded"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/256/0467-01"
+      ]
+    },
+    {
+      "cite": "258 N.J.Super. 261",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        317673
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "\"undisputed that defendant's defenses of contributory and comparative negligence were properly stricken on the first day of trial\" because \"neither contributory nor comparative negligence is applicable where an employee is injured at a workplace task\""
+        },
+        {
+          "page": "495-96",
+          "parenthetical": "\"undisputed that defendant's defenses of contributory and comparative negligence were properly stricken on the first day of trial\" because \"neither contributory nor comparative negligence is applicable where an employee is injured at a workplace task\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/258/0261-01"
+      ]
+    },
+    {
+      "cite": "292 N.J.Super. 293",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        762250
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "trial judge properly declined to give comparative negligence charge to jury because comparative negligence \"is not applicable to a workplace setting where the worker has no meaningful choice\""
+        },
+        {
+          "page": "1125",
+          "parenthetical": "trial judge properly declined to give comparative negligence charge to jury because comparative negligence \"is not applicable to a workplace setting where the worker has no meaningful choice\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/292/0293-01"
+      ]
+    },
+    {
+      "cite": "306 N.J.Super. 126",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        52087
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that there is \"no question\" comparative negligence of plaintiff is generally disregarded in workplace setting"
+        },
+        {
+          "page": "344",
+          "parenthetical": "stating that there is \"no question\" comparative negligence of plaintiff is generally disregarded in workplace setting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/306/0126-01"
+      ]
+    },
+    {
+      "cite": "331 N.J.Super. 134",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        1084547
+      ],
+      "weight": 3,
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/331/0134-01"
+      ]
+    },
+    {
+      "cite": "248 N.J.Super. 390",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        358898
+      ],
+      "weight": 3,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/248/0390-01"
+      ]
+    },
+    {
+      "cite": "499 A.2d 530",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "533",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 N.J.Super. 521",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        376765
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/204/0521-01"
+      ]
+    },
+    {
+      "cite": "471 A.2d 15",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 N.J. 263",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        1350533
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/95/0263-01"
+      ]
+    },
+    {
+      "cite": "406 A.2d 140",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 N.J. 150",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        334186
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/81/0150-01"
+      ]
+    },
+    {
+      "cite": "970 A.2d 1159",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7336144
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/970/1159-01"
+      ]
+    },
+    {
+      "cite": "825 A.2d 591",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9116489,
+        197228
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/825/0591-01",
+        "/pa/573/0310-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 310",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197228
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0310-01"
+      ]
+    },
+    {
+      "cite": "654 A.2d 535",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868418,
+        474221
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/654/0535-01",
+        "/pa/539/0596-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 596",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474221
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0596-01"
+      ]
+    },
+    {
+      "cite": "889 A.2d 563",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8993726
+      ],
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/889/0563-01"
+      ]
+    },
+    {
+      "cite": "95 A.2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "opinion_index": 1
+    },
+    {
+      "cite": "11 N.J. 584",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        4207659
+      ],
+      "year": 1953,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nj/11/0584-01"
+      ]
+    },
+    {
+      "cite": "367 Pa.Super. 36",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        682740
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "\"An assignment of error that the trial court failed to give a specific instruction will not be considered unless it affirmatively appears from the record that a request for such an instruction was made [and] that it was denied by the trial court[.]\""
+        },
+        {
+          "parenthetical": "\"An assignment of error that the trial court failed to give a specific instruction will not be considered unless it affirmatively appears from the record that a request for such an instruction was made [and] that it was denied by the trial court[.]\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/367/0036-01"
+      ]
+    },
+    {
+      "cite": "329 Pa.Super. 139",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        608807
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "finding harmless error where the defendant improper admitted evidence concerning causation and plaintiffs contributory negligence where the jury never decided these issues because it found that the defendant was not negligent"
+        },
+        {
+          "page": "5",
+          "parenthetical": "finding harmless error where the defendant improper admitted evidence concerning causation and plaintiffs contributory negligence where the jury never decided these issues because it found that the defendant was not negligent"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/329/0139-01"
+      ]
+    },
+    {
+      "cite": "418 Pa.Super. 405",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        916881
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Appellant's fourth argument is that the trial court erred in charging the jury on superceding cause. Appellant is entitled to no relief, however, because the jury never reached the issue of superceding cause. The jury found that the product was not defective.\""
+        },
+        {
+          "page": "707",
+          "parenthetical": "\"Appellant's fourth argument is that the trial court erred in charging the jury on superceding cause. Appellant is entitled to no relief, however, because the jury never reached the issue of superceding cause. The jury found that the product was not defective.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/418/0405-01"
+      ]
+    },
+    {
+      "cite": "128 N.J. 86",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        707136
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Such evidence could have been considered ... in determining whether the specific manner in which plaintiff had operated the saw had been the sole cause of the accident.\""
+        },
+        {
+          "page": "646",
+          "parenthetical": "\"Such evidence could have been considered ... in determining whether the specific manner in which plaintiff had operated the saw had been the sole cause of the accident.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nj/128/0086-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1228,
+    "char_count": 33108,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 5.30564676896888e-08,
+      "percentile": 0.33508497985789903
+    },
+    "sha256": "647b86306df02708d02e541ad60b63161b8f0a7af0ba6c608d26670c6629ce9b",
+    "simhash": "1:9ebad00a78053cf9",
+    "word_count": 5230
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: ALLEN, LAZARUS, and FREEDBERG, JJ."
+    ],
+    "parties": [
+      "Sterling LEWIS, Appellant v. CRC INDUSTRIES, INC., Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nLAZARUS, J.:\nSterling Lewis appeals from the judgment entered in the Philadelphia County Court of Common Pleas in favor of Appel-lee, CRC Industries, Inc. (\u201cCRC\u201d), following a jury trial in this strict product liability action. After careful review, we reverse and remand for a new trial.\nLewis, worked as an apprentice lineman for Vineland Municipal Electrical Utility, a New Jersey company. Lewis was the junior member of a four-person team, which included Kevin Sherman. On October 1, 2004, the team received a work order to perform pole top breaker maintenance. Part of the work order required the team to clean pole top electrical switches using CRC PF Precision Cleaner (\u201cPrecision Gleaner\u201d), an aerosol solution manufactured by CRC. The team decided Lewis would perform the maintenance. This would be the second time Lewis performed pole-top breaker maintenance, and his first time using Precision Cleaner to perform such maintenance.\nLewis and Sherman put on protective gloves, sleeves, and gauntlets. Lewis and Sherman were then lifted, each in them own insulated one-person passenger bucket, to the electrical switches. The switch is comprised, in part, of a \u201cblade side\u201d and a \u201ckeeper side.\u201d Once in position, Lewis cleaned the switches spraying Precision Cleaner to remove dirt and grease. At one point, Lewis climbed up on a step inside his bucket to gain better access to clean the switches. In doing so, Lewis\u2019s right hip touched the uninsulated metal tie rod. Lewis then sprayed Precision Cleaner to the keeper side of the switch, and in doing so received a severe electrical shock.\nSherman supervised as Lewis cleaned the switches. On direct examination, Sherman confirmed that Lewis stepped up in his bucket and sprayed Precision Cleaner. Sherman testified that he then witnessed a \u201csmall ball of fire\u201d travel through the air toward Lewis and \u201croll\u201d around his hand. N.T. Trial, 3/18/09, at 16. Sherman testified he believed that when Lewis stepped up in his bucket Lewis\u2019s right hip made contact with the uninsulated metal tie rod, which completed an electrical circuit causing Lewis to be electrocuted. N.T. Trial, 3/18/09, at 68. As a result, Lewis sustained severe burns and scarring to his body.\nLewis sued CRC alleging that Precision Cleaner was designed defectively and contained inadequate warnings of the product\u2019s dangers. In particular, Lewis claimed the product was defective because the aerosol spray conducted electricity. After a two-week trial, the jury determined that, according to New Jersey law, the product was not designed defectively and returned a verdict in favor of CRC. On appeal, Lewis contends that the trial court\u2019s jury instructions were erroneous. Specifically, Lewis alleges: (1) the trial court improperly instructed the jury on the principles of contributory and comparative negligence and assumption of risk and, (2) the trial court failed to instruct the jury not to consider his use of the product when determining whether the product was defective under the risk-utility analysis.\nUnder Pennsylvania law, our standard of review when considering the adequacy of jury instructions in a civil case is to \u201cdetermine whether the trial court committed a clear abuse of discretion or error of law controlling the outcome of the case.\u201d Stewart v. Motts, 539 Pa. 596, 654 A.2d 535 (1995). It is only when \u201cthe charge as a whole is inadequate or not clear or has a tendency to mislead or confuse rather than clarify a material issue\u201d that error in a charge will be found to be a sufficient basis for the award of a new trial. Id. at 540; Ferrer v. Trustees of University of Pennsylvania, 573 Pa. 310, 825 A.2d 591, 612 (2002); see also Tindall v. Friedman, 970 A.2d 1159, 1175 (Pa.Super.2009).\nFirst, Lewis contends the trial court committed reversible error in instructing the jury on the principles of contributory and comparative negligence and assumption of risk in this strict product liability action. We agree.\nNew Jersey case law has repeatedly held that the principles of comparative and contributory negligence do not apply in a strict product liability action where a plaintiff is injured by a defective product while performing a job assignment at his or her workplace. Suter v. San Angelo Foundry & Mach. Co., 81 N.J. 150, 406 A.2d 140 (1979); Green v. Sterling Extruder Corp., 95 N.J. 263, 471 A.2d 15, 16 (1984).\nIn Suter, the New Jersey Supreme Court held that \u201can employee engaged at his assigned task on a plant ... has no meaningful choice,\u201d and \u201cirrespective of the rationale that the employee may have unreasonably and voluntarily encountered a known risk, we hold as a matter of policy that such an employee in not guilty of contributory negligence.\u201d Id. at 167 (emphasis added). The \u201cessence of the Suter rule is that the employee had no meaningful choice. He either worked at his assigned task or was subject to discipline or being labeled as a troublemaker.\u201d Crumb v. Black & Decker, 204 N.J.Super. 521, 499 A.2d 530, 533 (1985) (emphasis added).\nIn Tirrell v. Navistar Int\u2019l, Inc., 248 N.J.Super. 390, 591 A.2d 643 (1991), plaintiff was killed when a tractor-trailer ran over him while operating in reverse. At the time of the accident, plaintiff-employee had recently arrived at his jobsite and was speaking with his foreman. The tractor-trailer was delivering a backhoe plaintiff was to service. Plaintiffs widow brought a product liability action against the manufacturer of the tractor-trailer. Her lawsuit alleged the tractor-trailer was designed defectively because the manufacturer failed to equip the tractor-trailer with an audible back-up signal. The jury returned a verdict in her favor. On appeal, the court rejected defendant\u2019s contention that Suter had limited the \u201cemployee exception\u201d to the comparative negligence defense to \u201can employee engaged at his assigned task on a plant machine.\u201d Id. at 648. The court stated that \u201cany limitation of the Suter principle to a factory setting would now clearly be inappropriate.\u201d Id.\nAccording to the court in Cavanaugh v. Skil Corp., 331 N.J.Super. 134, 751 A.2d 564 (1999), Tirrell represented the \u201cnext logical step\u201d of Suter, which could no longer be interpreted \u201cto apply only to factory workers injured while performing assigned tasks on factory machines on the factory floor.\u201d Id. at 595. The Cavanaugh court reasoned:\n[I]t would be ludicrous to allow a factory employee to recover but not a construction worker solely because the former works inside a building on the factory floor. It would be equally ludicrous and unjust to permit an employee to recover for injuries sustained by a freestanding, stationary machine but not by a hand-held saw.\nId.\nIndeed, since Suter, case law has established that the principles of comparative and contributory negligence are disregarded in the context of a strict product liability action involving workers injured performing a job task. See Congiusti v. Ingersolh-Rand Co., 306 N.J.Super. 126, 703 A.2d 340, 344 (1997) (stating that there is \u201cno question\u201d comparative negligence of plaintiff is generally disregarded in workplace setting); Mettinger v. W.W. Lowensten, Inc., 292 N.J.Super. 293, 678 A.2d 1115, 1125 (1996) (trial judge properly declined to give comparative negligence charge to jury because comparative negligence \u201cis not applicable to a workplace setting where the worker has no meaningful choice\u201d); Fabian v. Minster Mach. Co., 258 N.J.Super. 261, 609 A.2d 487, 495-96 (1992) (\u201cundisputed that defendant\u2019s defenses of contributory and comparative negligence were properly stricken on the first day of trial\u201d because \u201cneither contributory nor comparative negligence is applicable where an employee is injured at a workplace task\u201d); Ramos v. Silent Hoist & Crane Co., 256 N.J.Super. 467, 607 A.2d 667, 672-73 (1992) (comparative fault of plaintiff injured while performing job activities at workplace is to be disregarded).\nMoreover, New Jersey\u2019s Product Liability Act prohibits a trial court from charging the jury on contributory and comparative negligence when an employee is injured on workplace machinery or equipment. Under N.J.S.A. 2A:58C-3(a)(2), a product manufacturer may defend against design defect claims by showing:\nThe characteristics of the product are known to the ordinary consumer or user, and the harm was caused by an unsafe aspect of the product that is an inherent characteristic of the product and that would be recognized by the ordinary person who uses or consumes the product with the ordinary knowledge common to the class of persons for whom the product is intended.\nThe New Jersey Legislature, however, expressly stated that this paragraph \u201cshall not apply to industrial machinery or other equipment used in the workplace.\u201d N.J.S.A. 2A:58C-3(a)(2) (emphasis added).\nApplicable case law also prohibits the court from introducing to the jury the principle of assumption of risk as a defense to a plaintiffs strict product liability claim stemming from an injury due to a defective product used in a workplace setting. See Johansen v. Makita USA, Inc., 128 N.J. 86, 607 A.2d 637, 642 (1992) (even when plaintiff with actual knowledge of danger presented by defective product knowingly and voluntarily encounters that risk, such conduct cannot serve as basis for defense); Grier v. Cochran W. Corp., 308 N.J.Super. 308, 705 A.2d 1262, 1269 (1998) (\u201c[P]laintiff who sustains an injury from a defective product in a work setting will not have his or recovery diminished under comparative negligence principles for having allegedly encountered a known risk.\u201d).\nIn the case sub judice, the trial court improperly instructed the jury on the doctrines of contributory and comparative negligence and assumption of risk. The trial court instructed the jury, in part, as follows:\nI will briefly define for you negligence. There is a question on the jury verdict form that asks you to determine whether the plaintiff was negligent. Whether his negligence was an intervening cause or the proximal cause of his injuries. The legal term negligence, otherwise known as carelessness, means not using the ordinary care reasonably prudent people would use in a given situation. A negligent conduct may be an act or an omission or a failui'e to act when there\u2019s a duty to do so. Negligence is failing to do something reasonably careful people would do, or doing something reasonably careful people would not do. You must determine how reasonably careful people would act under the circumstances in this case.\nOrdinary care is not an absolute term, but a relative one. Ordinary care is what reasonably careful people would use in a given situation. People must use ordinary care not only to protect themselves, their property and others, but also to avoid injury to others. What constitutes ordinary care varies with the existing particular circumstances and condition. The amount of care required by the law must be in keeping with the degree of danger involved.\nThe defendant contends that the plaintiff was at fault for the happening of this accident. The defendant must prove that the plaintiff voluntarily, unreasonably proceeded to encounter a known danger and that such action was a proximal cause of the accident. The mere failure to discover a defect in the product or to guard against a possibility of the existence is not a defense for the defendant. In other words, the defendant must prove that the plaintiff had actual knowledge of the particular danger ruled by his conduct and knowingly and voluntarily encountered that risk to win on this defense.\nThis is comparative negligence. If you find that both the plaintiff and the defendant were at fault and proximally caused the accident, then you must compare their negligent conduct in terms of percentages ... you will attribute to each of them that percentage that you find describes or measures his or its contribution to the happening of the accident.\nN.T. Trial, 3/31/09, at 22-23; 48-49.\nTo justify its instructions to the jury, the trial court reasoned that Lewis had a \u201cmeaningful choice to perform the work in a safe manner, and that he had actual knowledge of the danger posed by the product.\u201d Trial Court Opinion, 12/24/09, at 19. We disagree.\nThe trial court erred by introducing to the jury the principles of contributory and comparative negligence and assumption of risk because Lewis was injured at his workplace while performing pole top breaker maintenance using Precision Cleaner as part of his assigned task as a utility worker. Lewis had no choice but to use Precision Cleaner pursuant to the work order, which directed its use. We decline to distinguish between a factory, construction, or utility worker injured using an allegedly defective product assigned to complete a work task. The allegedly defective workplace product may be a heavy piece of industrial machinery, a hand-held saw, a can of aerosol solution, or \u201cother equipment used in the workplace.\u201d N.J.S.A. 2A:58C-3(a)(2). The workplace may be inside a factory, or outside atop a utility pole. The trial court\u2019s instructions contravened binding New Jersey case law. Therein, the courts have liberally applied the principle that workers injured on the job have no \u201cmeaningful choice\u201d and are protected from the doctrines of assumption of -risk and contributory and comparative negligence in similar strict product liability actions. See Cavanaugh, supra; Ramos, supra; Fabian, supra; Mettinger, supra; Congiusti, supra; Tirrell, supra.\nFurthermore, we disagree with the trial court\u2019s conclusion that the evidence presented at trial indicated that Lewis somehow voluntarily encountered a known risk. The evidence presented at trial indicated that Lewis stepped up inside his bucket to extend his body to clean the switch using Precision Cleaner and touched the. uninsulated metal tie-rod. Such conduct, however, is more appropriately characterized as \u201cmere carelessness or inadvertence,\u201d which cannot relieve a manufacturer of liability in a strict product liability action. See Johansen v. Makita USA, Inc., 128 N.J. 86, 607 A.2d 637, 641 (1992) citing Cepeda v. Cumberland Eng\u2019g Co., 76 N.J. 152, 386 A.2d 816, 832 (1978). Having concluded that Lewis did not have a \u201cmeaningful choice\u201d whether to use Precision Cleaner, we conclude the trial court committed reversible error by instructing the jury on the principles of comparative and contributory negligence and assumption of risk.\nNext, Lewis contends the trial court erred by failing to limit the jury\u2019s consideration of his conduct in determining' whether Precision Cleaner was designed defectively. Appellant\u2019s Brief, at 30. Specifically, Lewis argues that the trial court failed to instruct the jury that Lewis\u2019s conduct could only be considered when determining the issue of causation. We agree.\nIn a strict product liability action, a jury may consider evidence of plaintiffs conduct on the issue of causation. Johansen v. Makita USA, Inc., 128 N.J. 86, 607 A.2d 637, 643 (1992). Limiting instructions are, therefore, critical to clarify for the jury the proper purpose of such evidence. This is so even where the jury finds that the product was not defective and does not reach the issue of causation. Id. at 640. The jury\u2019s focus in determining whether a product is designed defectively should be squarely on the condition of the product, and not the plaintiffs use of the product. Id. at 642.\nHere, the trial judge instructed the jury on the risk-utility analysis in determining whether Precision Cleaner was designed defectively. The trial judge instructed the jury as a follows:\n[Y]ou must consider and weigh the following facts: one, the usefulness and benefit of the product as it was designed to the user and the public as a whole. Was there a need that this product be designed in this specific manner? Two, the safety aspects of the product. That is, the likelihood or risk that the product as designed would cause injuries and the probable seriousness of any injury which could have or should have been anticipated through the use of the product. Three, was the substitute design for this product feasible and practical? Four, the ability of the defendant to eliminate the unsafe character of the product without impairing its usefulness or making it too expensive to maintain its utility. Five, the ability of foreseeable use[r]s to avoid danger by the exercise of care and use of the product. Six, the foreseeable user\u2019s awareness of the danger inherent in the product and them avoidability because of the general public\u2019s knowledge of the obvious condition of the product or of the existence of suitable warnings or instructions.\nIn applying the risk utility factors remember that a product may not be considered reasonably safe unless the risks have been reduced to the greatest extent possible consistent with the product\u2019s continued utility. That is, without impairing its usefulness and without making it too expensive for it to be reasonably marketable.\nN.T. Trial, 12/24/09, 37-39. The fifth factor above asks the jury to consider the conduct of the foreseeable user. Johansen makes clear that the focus is on an \u201caverage user,\u201d and not the particular plaintiff. Accordingly,\n[A]n instruction that the plaintiffs conduct not be considered in the context of the risk-utility analysis is essential. Without it, a jury might find that a product, although improperly designed, is not defective because the plaintiff could have avoided the danger posed by the product through the exercise of due care. Put differently, a jury not properly instructed might inadvertently compare a plaintiffs and defendant\u2019s fault in determining whether a product is defectively designed.\nJohansen, 607 A.2d at 645; see also Ladner v. Mercedes-Benz of North America, 266 N.J.Super. 481, 630 A.2d 308, 313 (1993) (\u201cWithout that [cautionary instruction], the jury was free to reason that plaintiff was a foreseeable user; the standard of care applied to her; she violated the standard; and she would not have been injured had she not done so: ergo, the [product\u2019s] design was not defective.\u201d).\nHere, like Johansen, the risk that the omission of limiting instructions misled or confused the jury in its determination of whether the product was designed defectively was great. Although the trial court properly instructed the jury on the risk-utility factors, it failed to provide any limiting instructions. The trial court failed to explain to the jury that Lewis\u2019s conduct was not relevant to its application of the fifth factor of the risk-utility analysis. The trial court also failed to properly instruct the jury that evidence of Lewis\u2019s conduct was relevant only to the issue of causation, even after being given the opportunity to correct the error upon plaintiffs counsel\u2019s objection. See N.T. Trial, 3/31/09, at 58. These instructions were critical to ensure the jury correctly understood the proper scope within which to consider evidence of Lewis\u2019s conduct. Namely, that the jury understood that the risk-utility analysis contemplates an \u201caverage user\u201d of the product and that Lewis\u2019s conduct was relevant only to the issue of causation. Johansen, at 645.\nIndeed, the potential for jury confusion was further heightened by defense counsel\u2019s repeated efforts, throughout trial, to highlight Lewis\u2019s conduct in using the product. During opening statements, defense counsel stated that Lewis\u2019s conduct caused his injuries. Specifically, defense counsel stated that Lewis either: stepped up inside his bucket causing him to lose his insulation, failed to properly insulate his bucket, touched the metal tie rod, touched the metal can of Precision Cleaner to a piece of electrified equipment, or removed his safety gloves. See N.T. Trial, 3/17/09, at 46-56. The defense\u2019s expert referenced these same causes, and during closing statements, defense counsel made reference to each of them again. See N.T. Trial, 3/27/09, at 9-16; N.T. Trial, 3/30/09, at 41-47, 54-56.\nWhile this evidence could have been properly considered by the jury in determining the issue of causation, at the close of trial the court was required to ensure that the jury understood the proper purpose of such evidence. An instruction not to consider Lewis\u2019s conduct when determining whether Precision Cleaner was defective under the risk-utility analysis was critical to the jury\u2019s ability to separate the issue of design defect from the issue of causation. Johansen, supra. Ensuring that the jury did not conflate the two issues is critical in a case such as this where the jury must first determine whether the product was designed defectively before determining whether the defective product caused plaintiffs injuries. Jurado, supra. Here, like Johansen, we conclude the trial court committed reversible error in failing to instruct the jury on the limited role evidence of Lewis\u2019s conduct played in determining whether Precision Cleaner was designed defectively. The trial court should have instructed the jury that evidence of Lewis\u2019s conduct was neither a defense to his strict product liability action nor relevant to the jury\u2019s determination of whether the product was designed defectively under the risk-utility analysis.\nCRC counters by positing that even if the jury had been improperly instructed any error was harmless because the jury ended deliberations after finding that the product was not defectively designed and the jury, therefore, never reached the issue of causation. Appellee\u2019s Brief, at 41. We disagree and find this self-serving argument unavailing because it ignores the fundamental principle that a jury must determine the issue of design defect without considering the specific conduct of the plaintiff. Johansen, supra. Such conduct is irrelevant to the jury\u2019s determination of whether a product was designed defectively when the product was originally designed by the manufacturer some time before the product reached the hands of the particular plaintiff. That the jury determined the product was not designed defectively does not alone relieve our concern that the jury confused the two issues. This is because the jury likely considered Lewis\u2019s use of the product when it determined whether the product was designed defectively under the risk-utility analysis.\nBy charging the jury on the principles of comparative and contributory negligence and assumption of risk and by failing to limit the jury\u2019s consideration of Lewis\u2019s conduct, the trial court abused its discretion. It is only when \u201cthe charge as a whole is inadequate or not clear or has a tendency to mislead or confuse rather than clarify a material issue\u201d that error in a charge will be found to be a sufficient basis for the award of a new trial. Motts, supra. Our review of the entire record indicates that the trial court\u2019s errors created the real danger that the jury improperly considered Lewis\u2019s conduct in determining whether the product was designed defectively. We are, therefore, compelled to conclude that the trial court\u2019s abuse of discretion was prejudicial and likely affected the outcome of the case. Motts, supra; Ferrer, supra; Tindall, supra.\nJudgment reversed. Case remanded for a new trial. Jurisdiction relinquished.\nALLEN, J., files a Dissenting Opinion.\n. The bucket was equipped with a fiberglass step mounted 16 inches above the bucket\u2019s floor.\n. Lewis\u2019s failure to warn claim is not relevant to our disposition.\n. See Jurado v. W. Gear Works, 131 N.J. 375, 619 A.2d 1312, 1317 (1993) (\"To succeed under a strict-liability design-defect theory, a plaintiff must prove that (1) the product was defective; (2) the defect existed when the product left the hands of the defendant; and (3) the defect caused the injury to a reasonably foreseeable user.\u201d).\n. The parties agreed New Jersey substantive law would govern this action. Procedurally, Pennsylvania law governs and, therefore, determines our standard of review of Lewis's challenge to the trial court's jury instructions.\n. Because of our disposition of these issues, we do not address Lewis\u2019s claim that the court erred in admitting certain evidence at trial.\n. Lewis preserved these issues on appeal by objecting to the trial court's instructions at the time of trial, in his post-trial motion, and in his Pa.R.A.P. 1925(b) statement.\n. In Johansen, the New Jersey Supreme Court held that the trial court committed plain error in failing to instruct the jury on the limited relevance of plaintiff's conduct in using the product. The court reversed and remanded for a new trial. Likewise, in Ladner, the Superior Court of New Jersey, Appellate Division, concluded that the trial court\u2019s failure to instruct the jury not to consider plaintiff\u2019s conduct when determining design defect under a risk-utility analysis constituted reversible error and ordered a new trial. Ladner, at 314.\n. See Johansen, 607 A.2d at 645 (danger jury might improperly focus on plaintiff's behavior in deciding the issue of product defect was \u201cespecially acute\u201d because throughout trial defendants emphasized plaintiff's lack of due care in using the product).\n. The trial court expressed the identical argument in defense of its jury instructions. See Trial Court Opinion, 12/24/09, at 20.",
+        "type": "majority",
+        "author": "LAZARUS, J.:"
+      },
+      {
+        "text": "DISSENTING OPINION BY\nALLEN, J.:\nI respectfully dissent. In this products liability action, Appellant Sterling Lewis, plaintiff below, appeals from the judgment entered in favor of defendant-manufacturer, CRC Industries, Inc (\u201cCRC\u201d). Appellant alleged that CRC manufactured a defective aerosol spray, PE Precision Cleaner (\u201cPrecision Cleaner\u201d). Appellant used Precision Cleaner to clean electrical switches that were located at the top of a utility pole, and he was electrocuted. Following trial, a jury found that Precision Cleaner was not defective in its design.\nUpon review of the record and applicable case law, I conclude that Appellant\u2019s issues on appeal lack merit. To support my position, I rely upon the thorough and detailed analysis of the learned trial judge, the Honorable Nitza I. Quinones Alejandro, in her Pa.R.A.P, 1925(a) opinion. Below, I summarize the major points contained in Judge Alejandro\u2019s Pa.R.A.P. 1925(a) opinion, adding only brief commentary to supplement her analysis.\nFirst, the trial judge did not err in allowing CRC to introduce evidence of Appellant\u2019s conduct to establish that Appellant\u2019s unreasonable behavior was the sole, proximate cause of his injury.\nHere, CRC introduced evidence that: (1) Appellant read the warnings on the Precision Cleaner can and knew that the spray conducted electricity and should not be applied to equipment that was energized; (2) Appellant broke his insulation protection when he climbed the step inside the protective bucket and exposed parts of his body that would otherwise be protected by the bucket; (3) Appellant knowingly sprayed Precision Cleaner on a charged electrical switch; (4) Appellant removed his protective work gear, which was required by his employer and would have prevented his injuries; and (5) a co-worker of Appellant warned Appellant to reposition himself into a more safe place shortly before Appellant cleaned the energized switch. Trial Court Opinion (T.C.O.), 12/24/09, at 19-20; 3, 12-13, 17. I agree with the trial judge that this evidence was relevant and admissible to prove that Appellant\u2019s unreasonable use of Precision Cleaner was the sole, proximate cause of his injuries. See Johansen v. Makita USA, Inc., 128 N.J. 86, 607 A.2d 637, 646 (1992) (\u201cSuch evidence could have been considered ... in determining whether the specific manner in which plaintiff had operated the saw had been the sole cause of the accident.\u201d).\nSecond, Appellant claims that the trial judge erred in instructing the jury on the legal principles of comparative negligence and superseding cause. Brief for Appellant at 42-48, 51-54. Even if the trial judge erred in instructing the jury on comparative negligence and superseding cause, the error(s) were harmless because the jury found that Precision Cleaner was not defective in its design. As such, the jury never reached the issues of comparative negligence and superseding cause, and any error with regard to these charges would not have affected the verdict. Harkins v. Calumet Realty Co., 418 Pa.Super. 405, 614 A.2d 699, 707 (1992) (\u201cAppellant\u2019s fourth argument is that the trial court erred in charging the jury on superceding cause. Appellant is entitled to no relief, however, because the jury never reached the issue of superceding cause. The jury found that the product was not defective.\u201d); Robinson v. Philadelphia, 329 Pa.Super. 139, 478 A.2d 1, 5 (1984) (finding harmless error where the defendant improper admitted evidence concerning causation and plaintiffs contributory negligence where the jury never decided these issues because it found that the defendant was not negligent).\nThird, Appellant complains that the trial judge erred in failing to issue a limiting instruction to the jury informing them that they may not consider his negligent conduct when assessing factors 5 and 6 of the risk utility test. Brief for Appellant at 30-31. I find this issue waived due to Appellant\u2019s failure to affirmatively request a limiting instruction during trial.\nHere, prior to the trial court\u2019s charge to the jury, Appellant did not submit a proposed limiting instruction informing the jury that they may not consider Appellant\u2019s negligence when determining liability. Although Appellant generally took exception to the trial court\u2019s instruction on comparative negligence immediately after the jury was charged and before it deliberated, Appellant never affirmatively requested that the trial court issue an independent instruction limiting the jury\u2019s consideration of Appellant\u2019s conduct. As such, Appellant\u2019s assertion that the trial court erred in failing to issue a limiting instruction is waived, because Appellant did not specifically submit or request a proposed limiting instruction during the proceedings below. Vernon v. Stash, 367 Pa.Super. 36, 532 A.2d 441 (1987) (\u201cAn assignment of error that the trial court failed to give a specific instruction will not be considered unless it affirmatively appears from the record that a request for such an instruction was made [and] that it was denied by the trial court[.]\u201d).\nFourth, the trial judge did not err in failing to instruct the jury on Appellant\u2019s claim that Precision Cleaner contained a manufacturing defect. Quite simply, Appellant failed to adduce any competent evidence that would permit the jury to draw an inference that Precision Cleaner deviated from its original design. T.C.O., 12/24/09, at 21-24. I note that CRC\u2019s representations regarding Precision Cleaner\u2019s performance capabilities do not amount to evidence of Precision Cleaner\u2019s actual, scientific design. See Brief for Appellant at 19-20.\nFifth, the trial judge did not err in failing to provide a more elaborate charge on the third element of the risk-utility test. Brief for Appellant at 26-29. Indeed, the alleged omission would be redundant of the charge that the trial judge provided; even with the alleged omission, the charge clearly and accurately conveyed the law to the jury, instructing them to consider whether the alternative design submitted by Appellant was feasible and practical. T.C.O., 12/24/09, at 32-33. Consequently, I discern no reversible error on the part of the trial judge.\nFor these reasons, and relying upon Judge Alejandro\u2019s Pa.R.A.P. 1925(a) opinion, I respectfully dissent. I would affirm the judgment entered in favor of CRC.\n. Indeed, an examination of Appellant's motion in limine, the trial court's charging conference, and Appellant's exceptions to the charges indicate that Appellant merely requested that the comparative negligence charge be used only to explain the concept of sole, proximate causation and not proportional fault or general liability. R.R. at 323-34; 2169; 2171-72; 2302. At no time did Appellant specifically request that the trial court issue a limiting instruction with regard to his negligent conduct and whether Precision Cleaner was defective.\n. I note that New Jersey, unlike Pennsylvania, invokes the plain error doctrine to review issues on appeal that were not properly objected to at the time of trial. In re Stern, 11 N.J. 584, 95 A.2d 593 (1953). Although the trial court was obligated to apply the substantive law of New Jersey, the parties must abide by Pennsylvania\u2019s procedural rules, which include the Pennsylvania Rules of Evidence and Rules of Civil Procedure. See Wilson v. Transp. Ins. Co., 889 A.2d 563, 571 (Pa.Super.2005). Therefore, this Court is compelled to apply Pennsylvania\u2019s rules regarding waiver and our standard of review for addressing appellate issues.",
+        "type": "dissent",
+        "author": "ALLEN, J.:"
+      }
+    ],
+    "attorneys": [
+      "Charles L. Tannenbaum, Jenkintown, for appellant.",
+      "Brett Wolfson, Philadelphia, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Sterling LEWIS, Appellant v. CRC INDUSTRIES, INC., Appellee.\nSuperior Court of Pennsylvania.\nArgued May 19, 2010.\nFiled Sept. 27, 2010.\nReargument Denied Dec. 7, 2010.\nCharles L. Tannenbaum, Jenkintown, for appellant.\nBrett Wolfson, Philadelphia, for appel-lee.\nBEFORE: ALLEN, LAZARUS, and FREEDBERG, JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0841-01",
+  "first_page_order": 869,
+  "last_page_order": 880
+}

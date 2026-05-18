@@ -1,0 +1,175 @@
+{
+  "id": 7289233,
+  "name": "BOROUGH OF ELLWOOD CITY v. ELLWOOD CITY POLICE DEPARTMENT WAGE POLICY COMMITTEE, Appellant",
+  "name_abbreviation": "Borough of Ellwood City v. Ellwood City Police Department Wage Policy Committee",
+  "decision_date": "2010-07-01",
+  "docket_number": "",
+  "first_page": "699",
+  "last_page": "706",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 699"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "914 A.2d 936",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8336656
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "943"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/914/0936-01"
+      ]
+    },
+    {
+      "cite": "901 A.2d 991",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3467078,
+        8419094
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1000"
+        },
+        {
+          "page": "1000-01",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0525-01",
+        "/a2d/901/0991-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 525",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3467078
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0525-01"
+      ]
+    },
+    {
+      "cite": "968 A.2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7332401
+      ],
+      "weight": 5,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/0246-01"
+      ]
+    },
+    {
+      "cite": "929 A.2d 647",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "593 Pa. 736",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "915 A.2d 174",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8332606
+      ],
+      "pin_cites": [
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/0174-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 835,
+    "char_count": 20429,
+    "ocr_confidence": 0.715,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.3190373261143796
+    },
+    "sha256": "587863e543d2bb1f0876be572bd222ad8f171d6020f1d399a7705c082dee33b3",
+    "simhash": "1:959162cfd5ccdf43",
+    "word_count": 3369
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and BROBSON, Judge, and McCullough, Judge."
+    ],
+    "parties": [
+      "BOROUGH OF ELLWOOD CITY v. ELLWOOD CITY POLICE DEPARTMENT WAGE POLICY COMMITTEE, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge BROBSON.\nAppellant Ellwood City Police Department Wage and Policy Committee (Union) appeals from an order of the Court of Common Pleas of Lawrence County (trial court), vacating an interest arbitration award that required the Borough of Ell-wood City (Borough) to create a deferred retirement compensation (or option) plan \u2014 or DROP \u2014 as part of its police officers\u2019 pension plan. The trial court found that the arbitrators exceeded their authority by requiring the Borough to create the DROP, which the trial court concluded would be an illegal act. For the reasons that follow, we reverse the trial court.\nThe Union is the certified collective bargaining representative for Borough\u2019s police force. The Union and the Borough entered into a collective bargaining agreement (CBA) for the period from January 1, 2003 through December 31, 2005. Article IX of the CBA, entitled \u201cD.R.O.P. Program Account,\u201d provides:\nA. The Borough will meet with representatives of the [Union] and develop a [DROP]. The DROP plan will be incorporated in its entirety into this contract as set forth in full. The Borough shall not be obligated to agree to any plan, which does require the Borough to make any additional payments to the Police Pension Plan.\nB. Within 180 days after the execution of this agreement, the parties shall negotiate the precise provisions of the DROP Program conforming to the requirements of Section 1. In the event the parties are unable to agree to the provisions of the plan, either party may invoke the procedure of Act 111 to resolve the issues. The attached \u201cAppendix A\u201d, referred to as the DROP Account, shall be used as a guide. Upon negotiation of the DROP Program, the Borough shall amend all Police Pension related ordinances to comply with the [CBA],\nC. In the event it is determined that the DROP Program is not permitted under the laws of Pennsylvania, the Borough then agrees to negotiate a Deferred Compensation Program for officers who would have been eligible for DROP.\n(Reproduced Record (R.R.) 8a-9a) (emphasis added.)\nBetween March and August 2005, the Borough and the Union, through meetings and correspondence, attempted to reach agreement on a DROP. In the midst of the discussions, a member of the Union provided formal notice to the Borough of his intent to enter the yet-to-be created DROP as of June 2005. In response to an August 8, 2005 letter from the Union, demanding that the Borough implement a DROP pursuant to the CBA, the Borough informed the Union in writing of its solicitor\u2019s conclusion that the laws of Pennsylvania did not permit the Borough to create and implement a DROP.\nThe Union filed a grievance on August 15, 2005, asserting that the Borough had violated Article IX, subsection A of the CBA by refusing to proceed to create and implement a DROP. William J. Miller, Jr. (Miller), serving as arbitrator, issued an award on August 10, 2006, sustaining the Union\u2019s grievance and concluding that the Borough had violated the CBA by refusing to continue to bargain with the Union regarding the DROP or by failing to submit the dispute for interest arbitration under Act 111. The Borough filed a Petition to Vacate or Modify Arbitration Award with the trial court. In a July 30, 2007 Order, the trial court remanded the matter to a Board of Interest Arbitrators (Board), with Miller serving as chair, for the determination of whether a DROP should be added to the police officers\u2019 pension plan.\nOn May 22, 2008, the Board issued an award (Interest Award), directing the Borough to modify the police pension plan to provide for a DROP. The Board included in its award a definition of \u201cDROP\u201d and sixteen separate provisions that the Borough should include in its ordinance adopting a DROP. (R.R. 232a-235a.)\nOn June 3, 2008, the Borough filed a petition with the trial court, seeking to vacate or modify the Interest Award. By its April 16, 2009 Order, the trial court vacated the Interest Award. In a supporting Opinion, the trial court reasoned: \u201cThe arbitrators exceeded their authority in requiring [the Borough] to enact a DROP because the benefit is beyond those permitted by Act 600. Act 600 states that an officer\u2019s pension shall be calculated on the last thirty-six months of employment. This is not possible with a DROP participant.\u201d (R.R. 370a.)\nThe Union filed a timely appeal to this Court. On appeal, the Union and the Borough directly address the trial court\u2019s stated reason for finding that the DROP violated Act 600 \u2014 i.e., that the provisions of the DROP would require the Borough, in violation of Section 5(c) of Act 600, to ignore the employment period following official retirement (the DROP participation period) in calculating pension benefits. They also, however, brief other alleged inconsistencies between the DROP and the governing statutory scheme. Specifically, the Borough raises the following additional reasons we should affirm the trial court\u2019s decision: (1) a DROP is per se illegal because, under Section 5(b) of Act 600, a police officer cannot be both retired, and thus receive pension benefits, and employed; (2) the DROP does not require participants to contribute to the pension plan, and thus, the DROP is in violation of Sections 1(a) and 6(a) of Act 600.\nIn an appeal from an interest arbitration award under Act 111, this Court exercises a narrow certiorari scope of review, which limits our analysis to the following areas: (1) the jurisdiction of the arbitrators, (2) the regularity of the proceedings, (3) the limits of the arbitrators\u2019 authority, and (4) the deprivation of constitutional rights. Upper Merion Twp. v. Upper Merion Twp. Police Officers, 915 A.2d 174, 178 (Pa.Cmwlth.2006), allocator den., 593 Pa. 736, 929 A.2d 647 (2007). In this case, the sole issue, as noted above, concerns the question of whether the Board exceeded its authority by requiring the Borough to perform illegal acts. Numerous decisions of this Court have held that arbitration awards may require a municipality to do only those things that they could do voluntarily, and awards may not compel a municipality to perform an act that violates the law. See, e.g., Shippensburg Police Ass\u2019n v. Borough of Shippensburg, 968 A.2d 246 (Pa.Cmwlth.2009). An arbitration award that exceeds such limitations constitutes an excess of the authority of the arbitrator or arbitration panel. Id.\nWe first address whether the DROP, as provided in the Interest Award, violates Sections 5(b) and/or (c) of Act 600. Section 5(c) provides, in relevant part: \u201cMonthly pension or retirement benefits other than length of service increments shall be computed at one-half the monthly average salary of such member during not more than the last sixty nor less than the last thirty-six months of employment.\u201d 53 P.S. \u00a7 771(c) (emphasis added). Under the DROP, the pension benefit is based on the DROP participant\u2019s salary in the months preceding his official retirement date, and the salary the participant receives during the DROP participation period, during which the participant is employed, is ignored. The trial court reasoned that this arrangement violates Section 5(c).\nIn addition to pressing the trial court\u2019s reasoning on appeal, the Borough adds that the DROP would also require the Borough to violate Section 5(b) of Act 600, which provides for a municipality\u2019s determination of the amount of a retiree\u2019s pension benefit only \u201cfollowing retirement.\u201d Id. \u00a7 771(b) (emphasis added). The Borough argues that, because an employee who participates in a DROP is still working and thus is not \u201cretired,\u201d the DROP would preclude the Borough from calculating benefits in accordance with Section 5(b) of Act 600.\nIn response, the Union stresses the fact that the DROP in no way violates the provision of Act 600 that establishes minimum service and age requirements (superannuation) an employee must satisfy in order to retire and that, under the DROP, a member will have \u201cretired\u201d for pension purposes before beginning employment as a DROP participant. As a consequence of official retirement, a member foregoes for pension purposes any beneficial post-retirement changes to the employee\u2019s earning status, such as service increments and annual pay raises, that, but for the employee\u2019s official retirement, might have resulted in increased pension benefits. A DROP participant, the Union urges, thus provides contractual consideration to be able to participate in a DROP.\nThe Union further argues that the Court should interpret the retirement provisions of Act 600 to apply to those members who have elected a fixed date upon which to retire formally and upon which to begin participation in the DROP. The Union argues that the use of the terms \u201csalary\u201d and \u201cemployment\u201d in Section 5(c) of Act 600 in the context of the \u201clast thirty-six months of employment\u201d is simply for the purpose of fixing pension benefits, and that the implementation of the DROP will not interfere with the underlying purpose of this provision to provide municipalities with a measure of certainty for concerns relating to the adequacy of pension funding. The Union argues that implementation of the DROP in this case is consistent with allaying, not aggravating, those legitimate concerns.\nWe agree with the Union\u2019s suggested reading of Sections 5(b) and (c) of Act 600. Though the argument that one cannot be both retired and employed has some facial appeal, in the context of Act 600, retirement is a status that serves one particular purpose \u2014 i.e., fixing a municipality\u2019s pension liability for the electing police officer. Once a pension plan member reaches legal eligibility for retirement (superannuation under Section 3 of Act 600), the member can elect to retire and thereby trigger a determination of benefits based upon the member\u2019s formal notification to his employer of his intent to retire. This is, in essence, what happens under the DROP. A member of the plan eligible for retirement under Act 600 gives notice to his or her employer of the member\u2019s intent to retire under Act 600. Under the DROP, as with a conventional retiree, both the member and the Borough are bound by the fixed retirement date for purposes of Act 600 benefit calculations. At that point, under Act 600, the member is retired and benefits are calculable in accord with Sections 5(b) and (c). The employment status of a DROP participant after his retirement status is fixed under Act 600 is irrelevant. We thus do not see how the Borough\u2019s compliance with the Interest Award would force the Borough to violate Sections 5(b) and (c) of Act 600.\nMoreover, if there was any question as to the per se legality of DROPs in this Commonwealth, the General Assembly answered it in 2009, when it amended the Municipal Pension Plan Funding Standard and Recovery Act, commonly referred to as Act 205. Act 44 amended Section 102 of Act 205 by adding a specific definition of the term \u201cDROP\u201d as follows:\nA deferred retirement option plan created and operated by a local government ... or any deferred retirement option plan or similar program established by a local government that provides for the commencement and accumulation of retirement benefit payments for active employees with a disbursement of the accumulated payments and interest earnings as a lump sum upon termination of employment.\nSection 102 of Act 205 (emphasis added). That same section also defines the term \u201cDROP participant\u201d as \u201c[a] retired member of a local government-defined benefit pension plan who is eligible to participate in a DROP under [S]ection 1112 [of Act 205], who has elected to participate in a DROP under [S]ection 1113 [of Act 205] and who is not an elected official.\u201d Section 102 of Act 205. Our General Assembly has thus reflected in its definition of \u201cDROP participants\u201d the concept we embrace in this case \u2014 that a retiree may continue to be employed by his or her employer following retirement. In fact, under these definitions, only a retiree who continues employment could participate in a DROP.\nFurthermore, Act 205, as amended by Act 44, expressly recognized that some local governments already may have established DROPs prior to the passage of Act 44. Section 1123 specifically addresses conformance of pre-existing DROPs to the requirements of amended Act 205, as follows:\nA local government that established a DROP prior to or on the effective date of this section that does not conform to the provisions of this chapter relating to elected officials shall amend its plan within 180 days of the effective date of this section or when the current labor-management contract creating the plan expires, whichever is later, to conform with the provisions of this chapter with respect to future DROP participants who are elected officials.\nEven though this language requires preexisting DROPs to come into compliance with certain provisions of Act 205, we can also reasonably infer from this provision that the General Assembly did not intend Act 44 to be construed as somehow rending illegal or unauthorized DROPs that existed prior to the passage of Act 44.\nFinally, Section 1114 of Act 205 acknowledges the same distinction between retirement for purposes of determining pension benefits and cessation of employment that we observe here with respect to Act 600 pension benefits. Section 1114 of Act 205 provides, as follows:\n(a) Fixing retirement benefit, retirement date, retirement benefits and DROP dates. \u2014 Effective with the date of retirement, which shall be the day before the effective date of DROP participation, the member\u2019s monthly, normal retirement benefit under the pension plan, the member\u2019s effective date of retirement and the member\u2019s effective dates of beginning and terminating employment as a DROP participant shall be fixed.\n(b) Effective dates.\u2014\n(1) A retired member\u2019s effective date of participation in a DROP shall begin the day following the effective date of the member\u2019s regular retirement.\n(2) A retired member\u2019s participation in a DROP shall end on the last day of the participation period specified in the ordinance establishing the DROP that is in effect on the effective date of the retired member\u2019s participation in the DROP.\nUnder Act 205, employees who desire to participate in a DROP must submit an irrevocable letter of resignation from regular employment indicating a retirement date with an irrevocable election, including an agreement to \u201cforego ... [a]ctive participation in the retirement system.\u201d Section 1113 of Act 205.\nWe turn now to the Borough\u2019s argument that the Interest Award excuses DROP participants from contributing to the pension plan in violation of Sections 1(a) and 6(a) of Act 600. Section 1(a) provides that the police pension fund or pension annuity is to be maintained, inter alia, \u201cby a charge against each member of the police force.\u201d 53 P.S. \u00a7 767(a). Section 6(a) provides that \u201c[m]embers shall pay into the fund, monthly, an amount equal to not less than five per centum nor more than eight per centum of monthly compensation.\u201d Id. \u00a7 772(a). As the basis for its contention, the Borough refers the Court to a memo written by the Union to the Borough Manager, Dr. Joseph Cioffi, indicating that the proposed DROP does not require a DROP participant to contribute to the pension fund.\nThe question presently before this Court is whether the Interest Award requires the Borough to implement a change to its police officers\u2019 pension plan that would violate Act 600. We find nothing in the Interest Award that addresses to what extent, if at all, DROP participants must continue to pay into the police officers\u2019 pension fund. Accordingly, even if we were to adopt the Borough\u2019s premise that any DROP plan that excuses DROP participants from contributing to the police pension plan violates Sections 1(a) and 6(a) of Act 600, it would not cause us to affirm the trial court and vacate the Interest Award on this ground. The Interest Award is silent on this point. Accordingly, the legal issue is not properly before us on an appeal from the Interest Award.\nAccordingly, because we conclude that the Interest Award, directing the Borough to implement a DROP, does not require the Borough to act in violation of Act 600, we reverse the trial court\u2019s order.\nORDER\nAND NOW, this 1st day of July, 2010, the order of the Court of Common Pleas of Lawrence County is REVERSED.\n. Simply stated, a DROP allows a participant in a pension plan to set an \"official\u201d retirement date for purposes of fixing the participant's pension benefit, while allowing the participant to continue to work for the municipality as an employee for a limited period (e.g., one to five years).\n. Act of June 24, 1968, as amended, 43 P.S. \u00a7\u00a7 217.1-.10.\n. The Police Pension Fund Act, Act of May 29, 1956, P.L. (1955) 1804, as amended, 53 P.S. \u00a7\u00a7 767-778 (Act 600).\n. 53 P.S. \u00a7 771(c).\n. 53 P.S. \u00a7 771(b).\n. Id. \u00a7\u00a7 767(a), 772(a).\n. In considering whether one of the four areas of narrow certiorari review is implicated in an appeal of a trial court's order vacating an Act 111 interest arbitration award, this Court generally exercises a plenary standard of review. Town of McCandless v. McCandless Police Officers Ass\u2019n, 587 Pa. 525, 540, 901 A.2d 991, 1000 (2006). Our Supreme Court in McCandless qualified that general rule, noting that such \"non-deferential\u201d review would apply unless the \"preliminary determination itself depended to some extent upon arbitral fact-finding or a construction of the relevant CBA. In other words, in the absence of the noted caveat, there is no reason in law or logic why a court should defer to the arbitrator on questions whether jurisdiction existed, whether the proceedings were regular, whether there was an excess of the arbitrator's powers, or whether constitutional rights were deprived.\u201d Id. at 540-41, 901 A.2d at 1000-01 (citation omitted).\n. Section 3 of Act 600 provides, in relevant part:\nEach ordinance or resolution establishing a police pension fund shall prescribe a minimum period of total service in the aggregate of twenty-five years in the same borough, town, township or regional police department and shall fix the age of the members of the force at fifty-five years, or, if an actuarial study of the cost shows that such reduction in age is feasible, may fix the age of the members of the force at fifty years, after which they may retire from active service ....\n53 P.S. \u00a7 769 (emphasis added).\n. Act of December 18, 1984, P.L. 1005, as amended, 53 P.S. \u00a7\u00a7 895.101-895.1131.\n. Act of September 18, 2009, P.L. 396.\n. 53 P.S. \u00a7 895.102.\n. 53 P.S. \u00a7 895.102 (emphasis added). The Act 44 amendments included Sections 1112 and 1113 of Act 205, 53 P.S. \u00a7 895.1112 and \u00a7 895.1113, which relate, respectively, to eligibility to participate in DROPs and the manner in which an eligible member may elect to participate.\n. 53 P.S. \u00a7 895.1123.\n. 53 P.S. \u00a7 895.1114.\n. 53 P.S. \u00a7 895.1113(b)(1) and (2)(A).\n. We note, however, that, in conjunction with Section 6(c) of Act 600, a union and a municipality may engage in collective bargaining negotiations under Act 111 for the reduction or elimination of member contributions to a police pension plan. In Schuylkill Haven Borough v. Schuylkill Haven Police Officers Association, 914 A.2d 936 (Pa.Cmwlth. 2006), we observed:\n[Section 6(c) of Act 600, as amended by the Act of April 17, 2002, P.L. 239 (Act 30),] eliminated the statutory requirement that a police officer contribute to the pension fund ... before municipal contributions are required to keep the fund actuarially sound. In other words, members of the fund will no longer be legally required to contribute to their own plan before the municipality is required to contribute. The parties can now reduce or eliminate officer contributions regardless of the actuarial soundness of the pension fund.\nSchuylkill Haven, 914 A.2d at 943. Consequently, prior to the Interest Award in this case, unions could negotiate with municipalities for the elimination of member contributions.",
+        "type": "majority",
+        "author": "Judge BROBSON."
+      }
+    ],
+    "attorneys": [
+      "Eric C. Stoltenberg, Pittsburgh, for appellant.",
+      "Edward Leymarie, Jr., Ellwood City, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "BOROUGH OF ELLWOOD CITY v. ELLWOOD CITY POLICE DEPARTMENT WAGE POLICY COMMITTEE, Appellant.\nCommonwealth Court of Pennsylvania.\nArgued April 21, 2010.\nDecided July 1, 2010.\nEric C. Stoltenberg, Pittsburgh, for appellant.\nEdward Leymarie, Jr., Ellwood City, for appellee.\nBEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and BROBSON, Judge, and McCullough, Judge."
+  },
+  "file_name": "0699-01",
+  "first_page_order": 715,
+  "last_page_order": 722
+}

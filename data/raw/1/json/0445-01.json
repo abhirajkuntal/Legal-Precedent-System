@@ -1,0 +1,1346 @@
+{
+  "id": 7287159,
+  "name": "STATE of Maine v. Keith R. NADEAU",
+  "name_abbreviation": "State v. Nadeau",
+  "decision_date": "2010-07-29",
+  "docket_number": "",
+  "first_page": "445",
+  "last_page": "868-902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 A.3d 445"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 71"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "2010 U.S.App. LEXIS 9023",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. App. LEXIS",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*5",
+          "parenthetical": "\"We review for clear error whether a search fell within the scope of consent.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WL 1735521",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*2",
+          "parenthetical": "\"We review for clear error whether a search fell within the scope of consent.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1998 ME 251",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11642376
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 4"
+        },
+        {
+          "page": "1226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/724/1222-01"
+      ]
+    },
+    {
+      "cite": "173 F.3d 761",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11623311
+      ],
+      "pin_cites": [
+        {
+          "page": "765-66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/173/0761-01"
+      ]
+    },
+    {
+      "cite": "183 F.3d 1190",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11550183
+      ],
+      "pin_cites": [
+        {
+          "page": "1194-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/183/1190-01"
+      ]
+    },
+    {
+      "cite": "225 F.3d 858",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11233751
+      ],
+      "pin_cites": [
+        {
+          "page": "862-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/225/0858-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 125",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7293332
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6 1"
+        },
+        {
+          "page": "832"
+        },
+        {
+          "page": "832-33"
+        },
+        {
+          "page": "833"
+        },
+        {
+          "page": "834-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/0831-01"
+      ]
+    },
+    {
+      "cite": "523 F.3d 31",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3783758
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/523/0031-01"
+      ]
+    },
+    {
+      "cite": "148 F.3d 952",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        288521
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "953",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/148/0952-01"
+      ]
+    },
+    {
+      "cite": "527 F.3d 1126",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3566520
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1129, 1135",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/527/1126-01"
+      ]
+    },
+    {
+      "cite": "569 F.3d 597",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3660604
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "604",
+          "parenthetical": "applying clear error review to scope of consent determinations"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/569/0597-01"
+      ]
+    },
+    {
+      "cite": "598 F.3d 340",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4221112
+      ],
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/598/0340-01"
+      ]
+    },
+    {
+      "cite": "93 F.3d 189",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7629042
+      ],
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/93/0189-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 108",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9097547
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 21"
+        },
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/830/0433-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 80",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8416290
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "713"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0702-01"
+      ]
+    },
+    {
+      "cite": "406 N.J.Super. 510",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        3893329
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/406/0510-01"
+      ]
+    },
+    {
+      "cite": "2008 U.S. Dist. LEXIS 59797",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "*6-7",
+          "parenthetical": "a preview search \"involve[s] securing the computer's hard drive and searching for files containing still images and video images\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 3166947",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "*3",
+          "parenthetical": "a preview search \"involve[s] securing the computer's hard drive and searching for files containing still images and video images\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "425 A.2d 986",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7994437
+      ],
+      "pin_cites": [
+        {
+          "page": "990"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/425/0986-01"
+      ]
+    },
+    {
+      "cite": "1998 ME 1",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11873302
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 5-6, 12"
+        },
+        {
+          "page": "389, 391"
+        },
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/704/0387-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 55",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11460041
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 3"
+        },
+        {
+          "page": "977"
+        },
+        {
+          "page": "977",
+          "parenthetical": "concluding that the defendant's statements were involuntary because he suffered from dementia"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/748/0976-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 88",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11104042
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "1175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/772/1173-01"
+      ]
+    },
+    {
+      "cite": "496 A.2d 635",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11309964
+      ],
+      "pin_cites": [
+        {
+          "page": "637, 639-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/496/0635-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 172",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11182807
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "228"
+        },
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0223-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 103",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9100352
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/829/0247-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 77",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9436500
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/796/0050-01"
+      ]
+    },
+    {
+      "cite": "297 A.2d 363",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11251749
+      ],
+      "pin_cites": [
+        {
+          "page": "371-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/297/0363-01"
+      ]
+    },
+    {
+      "cite": "502 A.2d 1037",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7902257
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1039"
+        },
+        {
+          "page": "1039"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/502/1037-01"
+      ]
+    },
+    {
+      "cite": "211 F.R.D. 31",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        1031182
+      ],
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/211/0031-01"
+      ]
+    },
+    {
+      "cite": "183 F.Supp.2d 468",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9396628
+      ],
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/183/0468-01"
+      ]
+    },
+    {
+      "cite": "38 A. 368",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 9,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "page": "368"
+        },
+        {
+          "page": "452"
+        },
+        {
+          "page": "369"
+        },
+        {
+          "page": "450"
+        },
+        {
+          "page": "369"
+        },
+        {
+          "page": "450"
+        },
+        {
+          "page": "368"
+        },
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Me. 448",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        611574
+      ],
+      "weight": 2,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "page": "449"
+        },
+        {
+          "page": "449"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/90/0448-01"
+      ]
+    },
+    {
+      "cite": "748 F.Supp. 36",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4109760
+      ],
+      "pin_cites": [
+        {
+          "page": "45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/748/0036-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 921",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866364
+      ],
+      "pin_cites": [
+        {
+          "page": "923"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/674/0921-01"
+      ]
+    },
+    {
+      "cite": "534 F.Supp.2d 217",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3635469
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "223"
+        },
+        {
+          "page": "224",
+          "parenthetical": "\"There was no egregious or gratuitously excessive conduct on the part of the agents ... [nor] was [there] rummaging, prying, or superfluous detention of any occupants .... \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/534/0217-01"
+      ]
+    },
+    {
+      "cite": "183 F.Supp.2d 108",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9395187
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "111",
+          "parenthetical": "holding that inevitable discovery was inapplicable because the government asserted \"no independent and legal means by which [certain evidence] would have [been] inevitably discovered\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/183/0108-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 113",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8348104
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "295"
+        },
+        {
+          "page": "295",
+          "parenthetical": "Saufley, C.J., dissenting"
+        },
+        {
+          "page": "\u00b6 17"
+        },
+        {
+          "page": "275",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0268-01"
+      ]
+    },
+    {
+      "cite": "434 F.3d 25",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        931726
+      ],
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/434/0025-01"
+      ]
+    },
+    {
+      "cite": "270 F.3d 30",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9462469
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "42"
+        },
+        {
+          "page": "45",
+          "parenthetical": "concluding that there was not an incentive for police misconduct because the issue of whether a de facto arrest occurred \"was itself close and ... the police might have reasonably believed they had undertaken only a justified investigatory stop\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/270/0030-01"
+      ]
+    },
+    {
+      "cite": "787 F.2d 736",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1560530
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "744"
+        },
+        {
+          "page": "746"
+        },
+        {
+          "page": "744"
+        },
+        {
+          "page": "744-45"
+        },
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/787/0736-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 112",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8357060
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 17"
+        },
+        {
+          "page": "758"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/928/0753-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 97",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11513209
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "1023"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/751/1018-01"
+      ]
+    },
+    {
+      "cite": "608 A.2d 772",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7931860
+      ],
+      "pin_cites": [
+        {
+          "page": "776"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/608/0772-01"
+      ]
+    },
+    {
+      "cite": "371 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450611
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "484-85, 488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0471-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 431",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6201711
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0431-01"
+      ]
+    },
+    {
+      "cite": "22 F.3d 374",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10507170
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "377"
+        },
+        {
+          "page": "378",
+          "parenthetical": "concluding that police had independent probable cause to search the defendant's home"
+        },
+        {
+          "page": "378",
+          "parenthetical": "\"It is inevitable that the existence of probable cause would find fruition in the issuance of a search warrant.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/22/0374-01"
+      ]
+    },
+    {
+      "cite": "583 A.2d 1016",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7392412
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1019-20"
+        },
+        {
+          "page": "1019-20",
+          "parenthetical": "stating that inevitable discovery applied because police had independent legal means to discover a bag containing drugs"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/583/1016-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 6",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8189003
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 47"
+        },
+        {
+          "page": "986"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/962/0973-01"
+      ]
+    },
+    {
+      "cite": "424 F.3d 768",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8925205
+      ],
+      "pin_cites": [
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/424/0768-01"
+      ]
+    },
+    {
+      "cite": "324 F.Supp.2d 168",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9372466
+      ],
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/324/0168-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 248",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221328
+      ],
+      "weight": 6,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "251",
+          "parenthetical": "determining that under the circumstances presented, \"it was objectively reasonable for the police to conclude that the general consent to search respondents' car included consent to search containers within that car\""
+        },
+        {
+          "parenthetical": "determining that under the circumstances presented, \"it was objectively reasonable for the police to conclude that the general consent to search respondents' car included consent to search containers within that car\""
+        },
+        {
+          "parenthetical": "determining that under the circumstances presented, \"it was objectively reasonable for the police to conclude that the general consent to search respondents' car included consent to search containers within that car\""
+        },
+        {
+          "page": "250-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0248-01"
+      ]
+    },
+    {
+      "cite": "594 F.3d 1111",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3522634
+      ],
+      "pin_cites": [
+        {
+          "page": "1113, 1120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/594/1111-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 83",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8417127
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "796"
+        },
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/901/0792-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 87",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8357042
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "750"
+        },
+        {
+          "page": "\u00b6\u00b6 29-30"
+        },
+        {
+          "page": "\u00b6 29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/928/0746-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 104",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199234
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "112, 115-17",
+          "parenthetical": "applying clear error standard of review to factual findings and de novo review for conclusions of law to determine voluntariness"
+        },
+        {
+          "parenthetical": "applying clear error standard of review to factual findings and de novo review for conclusions of law to determine voluntariness"
+        },
+        {
+          "parenthetical": "applying clear error standard of review to factual findings and de novo review for conclusions of law to determine voluntariness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0104-01"
+      ]
+    },
+    {
+      "cite": "1997 ME 70",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11919429
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "1251"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/691/1248-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 5,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "256 F.3d 14",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11084791
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "15"
+        },
+        {
+          "page": "15-16"
+        },
+        {
+          "page": "16"
+        },
+        {
+          "page": "19"
+        },
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/256/0014-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 107",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8351110
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 16"
+        },
+        {
+          "page": "1173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/932/1169-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 15",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291625
+      ],
+      "weight": 17,
+      "pin_cites": [
+        {
+          "page": "\u00b6 3"
+        },
+        {
+          "page": "718"
+        },
+        {
+          "page": "\u00b6 19"
+        },
+        {
+          "page": "722"
+        },
+        {
+          "page": "\u00b6 4"
+        },
+        {
+          "page": "718-19"
+        },
+        {
+          "page": "719"
+        },
+        {
+          "page": "725"
+        },
+        {
+          "page": "\u00b6 19"
+        },
+        {
+          "page": "722"
+        },
+        {
+          "page": "\u00b6 27"
+        },
+        {
+          "page": "724"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0716-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1866,
+    "char_count": 57917,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 2.897295451483781e-07,
+      "percentile": 0.8447930748086085
+    },
+    "sha256": "97da912fb6fcb5fbc3d3628543af257cb871b8abf009a34f9a28ad56e5ba9b0b",
+    "simhash": "1:a2463fb221594609",
+    "word_count": 9499
+  },
+  "last_updated": "2024-02-27T22:12:33.551687+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Keith R. NADEAU."
+    ],
+    "opinions": [
+      {
+        "text": "LEVY, J.\n[\u00b6 1] Keith R. Nadeau appeals from a judgment of conviction of two counts of possession of sexually explicit material (Class D), 17-A M.R.S. \u00a7 284(1)(A) (2009), entered in the Superior Court (Franklin County, Murphy, J.) after his conditional guilty plea. Nadeau contends that the court erred in denying his motion to suppress evidence, asserting that (1) the warrantless searches and seizures of his personal computer and flash drive were unlawful and not justified by any exception to the warrant requirement of the Fourth Amendment to the U.S. Constitution; (2) once a search warrant was issued, the officers\u2019 failure to return the warrant and a written inventory within ten days violated M.R.Crim. P. 41(d); and (3) his oral and written statements were made before he received the requisite Miranda warnings and were involuntary. We affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] Viewing the evidence in the light most favorable to the court\u2019s judgment, State v. Bailey, 2010 ME 15, \u00b6 3, 989 A.2d 716, 718, the record supports the following facts.\n[\u00b6 3] In December 2007, Nadeau was an undergraduate student at the University of Maine at Farmington. On December 5, the University\u2019s police department received a report from another student that, on December 4, Nadeau had shown child pornography to the student on Nadeau\u2019s personal computer in Nadeau\u2019s dorm room. University Police Officers John Irving and Dean Hart proceeded to Na-deau\u2019s dorm room. Officer Hart wore a hidden recording device, and both were armed and in uniform.\n[\u00b6 4] Nadeau opened his door in response to the officers\u2019 knocking. The officers asked if they could enter the room, and Nadeau responded, \u2018Yeah. Sure.\u201d The officers informed Nadeau that they had received a complaint that he was in possession of child pornography. Nadeau responded by asking the officers if he could shut his door, and they agreed. Nadeau then stated that his parents had taken him to court the previous year after child pornography was found on his home computer. Officer Irving then suggested that the images on Nadeau\u2019s computer might be \u201cpreexisting\u201d and from that earlier case, to which Nadeau responded: \u201cThat\u2019s what I, I found it and then I haven\u2019t had a chance to delete \u2019em.\u201d The officers then requested the pornographic images and Nadeau consented:\n[Nadeau]: I was going to delete \u2019em.\nPO Hart: Ah, we, we need to have that.\nPO Irving: Absolutely. Yeah.\nPO Hart: Alright?\n[Nadeau]: Yup. I I haven\u2019t, I was, I found them on my laptop key and I need to delete them and I haven\u2019t had a chance.\nAs this colloquy was occurring, Nadeau turned toward his desk, took the flash drive out of a drawer, and handed it to Officer Hart.\n[\u00b6 5] Nadeau became extremely emotional during the interview, both crying at times and stating that he did not want to go to jail. The officers sought to calm him by explaining that he was not going to jail at that time, and they asked him whether he wanted to continue the interview at their office where the setting would be more private. He declined. Next, the officers asked Nadeau whether he was going to hurt himself, and he promised that he would not. Nadeau did express concern, however, that his parents were \u201cgonna kill\u201d him. Again, the officers told Na-deau that he could accompany them to their office, but, once again, he declined. Despite his emotional state, Nadeau\u2019s answers were coherent and responsive to the questions asked.\n[\u00b6 6] The officers asked Nadeau if he wanted to write an explanation of the circumstances that led to his possession of the images, and he agreed. When Officer Hart informed Nadeau that he did not have a Miranda card with him but that anything he said could be used against him, Nadeau interrupted and stated, \u201cI\u2019ve already been through all this.\u201d Officer Hart did not complete the rest of the Miranda warnings. Officer Hart then replied, \u201cBut the more cooperative you are, the better things are for you.\u201d This first segment of the interview lasted approximately twelve minutes.\n[\u00b6 7] While Nadeau was writing his statement, Officer Irving left the room to contact Edward Blais, the chief of the University\u2019s police department. After speaking with Chief Blais by phone, Officer Irving met briefly with Officer Hart outside the dorm room. When they reentered, Officer Hart told Nadeau that, after speaking with Chief Blais, they were \u201cgoing to have to take [the] computer too.\u201d Although Officer Hart explained that they would try to return the computer to Na-deau later that night, Nadeau expressed concerns because his computer contained his schoolwork and e-mails to his professors. At no time did Nadeau give the officers explicit verbal or written consent to search or seize his computer. This second segment of the interview, beginning when the officers reentered the dorm room to when they left in possession of Nadeau\u2019s computer, lasted less than a minute.\n[\u00b6 8] Later that evening, Officer Hart returned to Nadeau\u2019s room to obtain the power cord for Nadeau\u2019s computer. When Officer Hart arrived, Nadeau and his mother, Kimberly Nadeau, were both present and Officer Hart spoke to Kimberly. She refused to give Officer Hart the power cord and asked him to call their attorney, which he did. The attorney did not request the return of the computer or flash drive during the phone conversation. Chief Blais delivered the flash drive and computer to the Maine State Police Computer Crimes Unit (the \u201cCrime Lab\u201d) in Vassalboro.\n[\u00b6 9] Three days later, on December 7, Nadeau and Kimberly went to speak with Chief Blais. Kimberly requested that Chief Blais return Nadeau\u2019s computer, but the Chief declined, explaining that it had already been sent to the Crime Lab. Chief Blais also spoke by phone with Nadeau\u2019s attorney in the succeeding days, but the attorney never requested the return of the computer equipment.\n[\u00b6 10] When the Crime Lab received the equipment, it was informed by Chief Blais that Nadeau had consented to the search and seizure of both the flash drive and the computer. Sergeant Glen Lang, who was assigned to the Crime Lab, informed Chief Blais that a preview search of the evidence should be conducted and that, based on the results of the preview search, they would then determine whether they would need a search warrant \u201cto go further and do a forensic exam of the equipment.\u201d\n[\u00b6 11] The preview search revealed that the computer contained child pornography. Working with the assistance of Sergeant Lang, Assistant District Attorney Jim Andrews, and Assistant Attorney General Carlos Diaz, Chief Blais sought and obtained a search warrant on December 11, 2007. The warrant required that it be executed and an inventory be prepared and returned to the court within ten days of its issuance. On the same day, Chief Blais delivered the warrant to the Crime Lab where it was filed with the other pending cases. The Crime Lab had a significant backlog of requests for the forensic examination of computers at that time.\n[\u00b6 12] The Crime Lab completed its examination of the computer in July 2008, approximately seven months after the search warrant was obtained. The State never sought an extension of the ten-day deadline to return the warrant. When Chief Blais received the report detailing the results of the forensic exam from the Crime Lab, he delivered it to the Franklin County District Attorney\u2019s Office. Chief Blais explained that, because the case was different from others that he had previously worked on, he \u201ctotally didn\u2019t think about the inventory that needed to go back to the Court.\u201d An inventory was never prepared or filed with the court.\n[\u00b6 13] Nadeau was indicted for possession of sexually explicit material (Class C), 17-A M.R.S. \u00a7 284(1)(C) (2009), and two counts of possession of sexually explicit material (Class D), 17-A M.R.S. \u00a7 284(1)(A). In denying Nadeau\u2019s motions to suppress evidence and his statements to the police, the Superior Court issued a detailed opinion setting forth its findings and conclusions. In summary, the court determined that (1) Nadeau was not in custody when he made statements to the University Police and that his statements were voluntary; (2) Nadeau consented to the seizure and search of the flash drive and that his consent was never revoked; (3) Nadeau did not consent to the seizure of his computer, but that the exclusionary-rule did not apply to this evidence because the computer\u2019s discovery was inevitable; (4) the State \u201ccompletely failed to timely file the return\u201d of the warrant, but that the filing was ministerial and did not justify suppression of the evidence for noncompliance; and (5) although the search warrant had expired before the July search was completed, the good faith exception applied because the Crime Lab believed that there was consent to search the equipment and it had a valid warrant based on probable cause.\n[\u00b6 14] After the denial of his motion to suppress, Nadeau entered a conditional guilty plea to the two counts of possession of sexually explicit material (Class D), 17-A M.R.S. \u00a7 284(1)(A), in contemplation of the State\u2019s dismissal of the felony possession of sexually explicit material (Class C), 17-A M.R.S. \u00a7 284(1)(C). For the first charge of possession of sexually explicit material, Nadeau was sentenced to 270 days in jail and ordered to register as a sex offender. Nadeau was also sentenced to 270 days in jail for the second charge\u2014 to be served consecutively with the first charge \u2014 but the confinement was suspended. He was also placed on probation for one year.\nII. DISCUSSION\n[\u00b6 15] This appeal presents a variety of legal issues stemming from the search and seizure of Nadeau\u2019s flash drive and computer, and the inculpatory statements he made to the police. When reviewing the denial of a motion to suppress, we review the trial court\u2019s factual findings for clear error and its legal conclusions de novo. State v. Bilynsky, 2007 ME 107, \u00b6 16, 932 A.2d 1169, 1173. Because our analysis of the issues presented is lengthy, we offer the following synopsis of our conclusions:\nA. The warrantless search and seizure of Nadeau\u2019s flash drive were lawful due to Nadeau\u2019s consent.\nB. The initial warrantless seizure of Nadeau\u2019s computer violated the Fourth Amendment because it was not authorized by Nadeau\u2019s consent.\nC. The warrantless preview search of Nadeau\u2019s computer was not justified by exigent circumstances and, contrary to the State\u2019s contention, was neither required by nor consistent with the decision of the First Circuit Court of Appeals in United States v. Brunette, 256 F.3d 14 (1st Cir.2001).\nD. Because Nadeau\u2019s computer would have been inevitably discovered by the authorities through lawful means, the initial warrantless seizure and the unlawful preview search do not require the remedy of suppression.\nE. The State\u2019s failure to complete its forensic examination of the computer within the ten-day period established by the warrant and M.R.Crim. P. 41(d) does not justify application of the exclusionary rule.\nF. The State\u2019s failure to file an inventory with the court within the ten-day period established by M.R.Crim. P. 41(d) does not justify application of the exclusionary rule.\nG. Nadeau\u2019s statements to the police were not made in violation of the requirements of Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966), and were voluntary.\nA. The Warrantless Search and Seizure of Nadeau\u2019s Flash Drive Were Lawful Due to Nadeau\u2019s Consent\n[\u00b6 16] Nadeau argues for the suppression of the flash drive and the data stored on the flash drive because he never consented to its seizure by the police. He contends that neither his words nor his gestures constituted an objective manifestation of consent and that he turned the flash drive over to the police only in response to their persistent demands.\n1. Consent\n[\u00b6 17] A search conducted pursuant to consent is one of the well-settled and \u201cestablished exceptions to the requirements of both a warrant and probable cause.\u201d See Schneckloth v. Bustamonte, 412 U.S. 218, 219, 93 S.Ct. 2041, 36 L.Ed.2d 854 (1973). Consent must be given freely and voluntarily. State v. Seamen\u2019s Club, 1997 ME 70, \u00b6 7, 691 A.2d 1248, 1251. The State has the burden of proving by a preponderance of the evidence \u201cthat an objective manifestation of consent was given by word or gesture.\u201d Id.\n[\u00b6 18] A court\u2019s factual findings addressing the existence of consent are reviewed for clear error. See, e.g., Bailey, 2010 ME 15, \u00b6 19, 989 A.2d at 722. The ultimate question of whether the facts, as found, establish that an individual consented to the ensuing search and seizure is a distinctly legal question that we will review de novo. This approach is consistent with the bifurcated standard of review that the United States Supreme Court and this Court apply to a variety of analogous issues with constitutional import. See Miller v. Fenton, 474 U.S. 104, 112, 115-17, 106 S.Ct. 445, 88 L.Ed.2d 405 (1985) (applying clear error standard of review to factual findings and de novo review for conclusions of law to determine voluntariness); see also State v. Dion, 2007 ME 87, \u00b6 22, 928 A.2d 746, 750 (\u201cWe [re]view a decision on whether a person was in custody as a mixed question of fact and law.\u201d). We treat consent as a mixed question of law and fact because the ultimate issue of whether consent was given and, if given, the scope of that consent, has a \u201cuniquely legal dimension\u201d arising from core constitutional values. See State v. Tuplin, 2006 ME 83, \u00b6 13, 901 A.2d 792, 796 (quotation marks omitted).\n[\u00b6 19] The recorded interview between the University Police and Nadeau indicates that he verbally consented to the seizure of the flash drive. After Officer Hart stated, \u201cAh, we, we need to have that,\u201d Officer Irving stated, \u201cAbsolutely Yeah.\u201d Officer Hart then asked, \u201cAlright?\u201d to which Nadeau responded, \u201cYup.\u201d Moreover, the officers testified that Nadeau, upon being confronted about possessing child pornography, voluntarily moved towards his desk to retrieve the flash drive before he gave it to the police. Thus, Nadeau\u2019s verbal consent was consistent with his physical actions. These findings are sufficient to support the ultimate conclusion that Nadeau consented to the seizure of the flash drive by the police. The court did not commit clear error in its factual findings, and we discern no error in the court\u2019s ultimate conclusion that Na-deau consented to the search and seizure of the flash drive.\n2. Scope of Consent\n[\u00b6 20] Nadeau asserts that even if he is found to have consented to the seizure of the flash drive, his consent cannot be construed as having extended beyond the initial impoundment of the flash drive by the police. Thus, he argues that even if we conclude that the seizure of the flash drive was lawful, the ensuing warrantless search of the digital information contained in the flash drive was unlawful because the search was conducted without a warrant and in the absence of any exception to the warrant requirement. Nadeau also relies on our recent decision in Bailey, 2010 ME 15, 989 A.2d 716, for the proposition that the court erred in this case because it relied on subjective factors to determine the scope of his consent.\n[\u00b6 21] In Bailey, a police officer was investigating a lead regarding the dissemination of child pornography through a network program connected to the Internet. 2010 ME 15, \u00b6 4, 989 A.2d at 718-19. The officer appeared at the defendant\u2019s home and asked the defendant for permission to examine the defendant\u2019s computer. Id. \u00b6 7, 989 A.2d at 719. The reason given by the officer for the search was to determine whether others had improperly accessed the computer over the Internet. Id. Haying been provided access to the computer, the officer \u201cran a general search for all of the video files on [the defendant\u2019s] computer.\u201d Id. \u00b6 28, 989 A.2d at 725. We concluded that the court erred in considering subjective factors when determining the scope of the defendant\u2019s consent because such factors are inconsistent with the standard of objective reasonableness by which a person\u2019s manifestation of consent is measured. Id. Applying the objective reasonableness standard, we determined that the officer\u2019s search exceeded the scope of the defendant\u2019s consent because the \u201csearch was not consistent with [its] stated purpose.\u201d Id.\n[\u00b6 22] Here, the court\u2019s conclusion that Nadeau consented to the search of the flash drive was based in part on subjective factors. Specifically, the court cited both Nadeau\u2019s intelligence and his prior dealings with law enforcement in reaching its conclusion that his consent extended to the search of the flash drive. Nevertheless, the court\u2019s other factual findings, independent of these subjective considerations, provide ample support for its conclusion that the scope of Nadeau\u2019s consent included consent to access the digital information stored on the flash drive. At the outset of the interview with Nadeau, the officers explicitly informed Nadeau that they were investigating a complaint that he possessed child pornography. In response, Nadeau acknowledged that he was in possession of child pornography stored on his flash drive. The police then explained that they would need to take the flash drive, and Nadeau handed it to them.\n[\u00b6 23] Within the context of the specific encounter between the officers and Na-deau, Nadeau\u2019s words and gestures com-munieated his implicit consent to the search of the digital information stored on the flash drive that he handed to the officers. See United States v. Vongxay, 594 F.3d 1111, 1113, 1120 (9th Cir.2010) (holding that the defendant gave implied consent to a search of his person by placing his hands on his head in response to the officer\u2019s request to search him). The police were abundantly clear that the reason for and object of their investigation was child pornography. The object of their search was not limited to the flash drive itself, but plainly extended to any child pornography stored in the drive\u2019s digital memory. Moreover, when Nadeau handed the flash drive to the officers, he expressed no limitations on what they might do with it. Viewed objectively, a person in Nadeau\u2019s situation would have reasonably understood that the act of voluntarily handing the flash drive to the police was tantamount to handing over the child pornography itself. See Florida v. Jimeno, 500 U.S. 248, 251, 111 S.Ct. 1801, 114 L.Ed.2d 297 (1991) (determining that under the circumstances presented, \u201cit was objectively reasonable for the police to conclude that the general consent to search respondents\u2019 car included consent to search containers within that car\u201d).\n3. Withdrawal of Consent\n[\u00b6 24] Having concluded that Na-deau consented to the seizure and search of the flash drive, we next consider Na-deau\u2019s assertion that he subsequently withdrew his consent. Nadeau contends that his mother\u2019s testimony that she requested the return of the device contradicts the court\u2019s finding that there was no evidence that he withdrew his consent to the seizure of the flash drive. He also contends that the court erred in concluding that a parent cannot assert constitutional rights for his or her adult children.\n[\u00b6 25] Nadeau\u2019s argument that he withdrew his consent to the seizure and search of the flash drive is unpersuasive. \u201c[T]he law generally requires that the withdrawal of consent amount to an unequivocal act or statement of withdrawal.\u201d (United States v. Cadieux, 324 F.Supp.2d 168, 170 (D.Me.2004) (quotation marks omitted)); see also United States v. Sanders, 424 F.3d 768, 774 (8th Cir.2005) (\u201cWithdrawal of consent need not be effectuated through particular magic words, but an intent to withdraw consent must be made [known] by unequivocal act or statement.\u201d (quotation marks omitted)).\n[\u00b6 26] There was no evidence that Nadeau personally expressed, directly or otherwise, a desire to withdraw his consent to the search and seizure of the flash drive. In addition, the court was not compelled to accept the mother\u2019s testimony that she was acting as her son\u2019s authorized agent when she requested the return of the computer and the flash drive from Chief Blais. Although a college student, Nadeau was an adult at the time of these events. There is no presumption at law that the parent of an adult child is acting as the child\u2019s authorized agent in matters affecting the child, nor was the court required to find the same as a matter of fact based solely on the mother\u2019s claim. Based on the evidence before it, the court was not required to conclude that there was an unequivocal withdrawal of consent.\nB. The Initial Warrantless Seizure of Na-deau\u2019s Computer Was Not Authorized by Nadeau\u2019s Consent and Violated the Fourth Amendment\n[\u00b6 27] The court found that Na-deau did not consent to the seizure of his computer. The State, however, argues that the court erred in ruling that the police took Nadeau\u2019s computer without his consent and that this error should be corrected if we vacate the court\u2019s decision.\n[\u00b6 28] The court\u2019s finding that Nadeau did not consent to the seizure of his computer is supported by evidence in the record. See Bailey, 2010 ME 15, \u00b6 19, 989 A.2d at 722. The transcript from the officers\u2019 interview with Nadeau demonstrates that the officers explicitly invoked Chief Blais\u2019s authority when explaining to Na-deau why they needed to seize his computer. Nadeau expressed reservations about the seizure of his computer because he needed his computer to complete school assignments. Moreover, Nadeau did not spontaneously hand over the computer to the officers as he did with the flash drive. The court\u2019s legal conclusion that Nadeau neither consented to the seizure of his computer nor to any of the searches of the computer that followed was not erroneous.\nC. The Warrantless \u201cPreview Search\u201d of the Computer Was Supported Neither by Exigent Circumstances Nor the Holding of United States v. Brunette\n[\u00b6 29] The search warrant issued December 11, 2007, was based in part on information obtained from the warrant-less preview search of the computer conducted at the Crime Lab several days after the computer was taken from Na-deau. Because the computer was already in the State\u2019s possession, there were no exigent circumstances that would excuse the police from adhering to the Fourth Amendment\u2019s warrant requirement. The State contends, however, that the decision of the First Circuit Court of Appeals in United States v. Brunette, 256 F.3d 14, both authorized and required the State to conduct a preview search of the computer as a necessary step to obtain a search warrant. We disagree.\n[\u00b6 30] In Brunette, a consumer watchdog group alerted an Internet service provider that alleged child pornography had been posted on an Internet site. 256 F.3d at 15. The Internet service provider discovered that the defendant was the source of the posting, and it copied thirty-three photographic images onto a disk that it forwarded to the U.S. Customs Service. Id. at 15-16. A Customs agent viewed the images and applied for a warrant to search the defendant\u2019s home. Id. at 16. The agent neither appended any of the allegedly pornographic images to the warrant application nor described them in his affidavit. Id. The affidavit only offered the agent\u2019s conclusion that the images constituted child pornography pursuant to a statute. Id. A search warrant was issued, and the defendant\u2019s computers were seized. Id.\n[\u00b6 31] The trial court denied the defendant\u2019s motion to suppress the images obtained from his computers. Id. On appeal, the First Circuit concluded that the trial court erred in denying the defendant\u2019s motion to suppress because the judge had no independent basis for determining whether the images were pornographic:\nIn sum, there having been no basis for issuing the warrant other than concluso-ry statutory language, the magistrate judge should have viewed the images and the district court should not have excused his failure to do so. It was error to issue the warrant absent an independent review of the images, or at least some assessment based on a reasonably specific description. Ordinarily, a magistrate judge must view an image in order to determine whether it depicts the lascivious exhibition of a child\u2019s genitals.\nId. at 19.\n[\u00b6 32] Brunette, therefore, stands for the proposition that to make a probable cause determination, the judicial officer must \u201ceither ... look at the allegedly pornographic images, or at least [make] an assessment based on a detailed, factual description of them.\u201d Id. at 18. The Brunette opinion further emphasized that even where the affidavit established that the agent was experienced in determining whether certain images met the statutory definition of child pornography, probable cause \u201cmust be assessed by a judicial officer, not an investigating agent.\u201d Id.\n[\u00b6 33] The State asserts that Brunette, as applied to this case, required that it \u201cprovide samples of the images from the electronic devices\u201d when it applied for the search warrant because the computer and the pornographic materials stored in it were in Chief Blais\u2019s possession at the time he prepared his affidavit. In Brunette, however, the police lawfully possessed the pornographic images, but failed to provide either copies of the images or a detailed description of them in the affidavit submitted in support of the search warrant application so that a judicial officer could make an independent determination of whether the images were indeed pornographic.\n[\u00b6 34] Unlike Brunette, in this case the police unlawfully possessed the computer and had not accessed the images on the computer prior to the preview search. Regardless of its limited scope and purpose, the preview search was still a search. Further, it was performed without a warrant and in the absence of exigent circumstances or some other exception to the warrant requirement. The Fourth Amendment does not sanction the State\u2019s circular logic that an otherwise unconstitutional warrantless search becomes constitutional if it is undertaken by authorities to develop evidence of probable cause for the purpose of securing a search warrant.\n[\u00b6 35] The warrantless preview search and seizure of digital information from Na-deau\u2019s computer constituted a violation of the Fourth Amendment.\nD. The Initial Warrantless Seizure of the Computer and the Unlawful Preview Search Do Not Require Suppression Because of the Inevitable Discovery Exception\n[\u00b6 36] The court determined that Nadeau had not consented to the seizure of the computer, but concluded that the remedy of suppression of the computer and its digital data as evidence was not warranted based on the inevitable discovery exception. Under the exception, the State bears the burden of establishing by a preponderance of the evidence, see State v. Johnson, 2009 ME 6, \u00b6 47, 962 A.2d 973, 986, that \u201cevidence found because of a Fourth Amendment violation would inevitably have been discovered lawfully.\u201d State v. Storer, 583 A.2d 1016, 1019-20 (Me.1990) (quotation marks omitted). \u201cThe prosecution may not rely on speculation but rather must meet this burden of proof based on \u2018demonstrated historical facts capable of ready verification or impeachment.\u2019 \u201d United States v. Ford, 22 F.3d 374, 377 (1st Cir.1994) (quoting Nix v. Williams, 467 U.S. 431, 444 n. 5, 104 S.Ct. 2501, 81 L.Ed.2d 377 (1984)). Nadeau contends that the inevitable discovery exception does not apply and that the officers\u2019 unconstitutional conduct warranted the application of the exclusionary rule.\n[\u00b6 37] Evidence obtained from an unlawful search or seizure in violation of the Fourth Amendment is often excluded from admission in evidence at trial unless a particular exception applies. See, e.g., Wong Sun v. United States, 371 U.S. 471, 484-85, 488, 83 S.Ct. 407, 9 L.Ed.2d 441 (1963); see also State v. May, 608 A.2d 772, 776 (Me.1992). The inevitable discovery doctrine is one such exception to the application of the exclusionary remedy. State v. St. Yves, 2000 ME 97, \u00b6 18, 751 A.2d 1018, 1023.\n[\u00b6 38] We have previously stated that courts are to consider two elements when determining whether evidence would have been inevitably and lawfully discovered: \u201c(1) the evidence could ... have been gained lawfully from information that is truly independent from the warrantless search, and (2) the evidence inevitably would have been discovered by such lawful means.\u201d State v. Cormier, 2007 ME 112, \u00b6 17, 928 A.2d 753, 758. This test is based on a three-part test developed by the First Circuit in United States v. Silvestri, 787 F.2d 736, 744 (1st Cir.1986). In addition to these two elements, the First Circuit\u2019s test applies a third element, which we adopt today: the application of the inevitable discovery exception neither provides an incentive for police misconduct nor significantly weakens fourth amendment protections. Id.; see also United States v. Scott, 270 F.3d 30, 42 (1st Cir.2001); United States v. Almeida, 434 F.3d 25, 28 (1st Cir.2006); State v. Rabon, 2007 ME 113, \u00b6 77 n. 15, 930 A.2d 268, 295 (Saufley, C.J., dissenting) (\u201cA third aspect of the inevitable discovery exception has been identified by the First Circuit, which I conclude is embedded in the first two Storer elements.\u201d). This three-part test properly focuses the inquiry \u201con the questions of independence and inevitability\u201d and provides the \u201cflexibility] ... to handle the many different fact patterns which will be presented.\u201d Silvestri, 787 F.2d at 746. In addition, the Silvestri test accounts for \u201cwhether the application of the inevitable discovery rule in any particular ease before the court would encourage police misconduct or reduce the protections offered by the Fourth Amendment.\u201d Rabon, 2007 ME 113, \u00b6 77 n. 15, 930 A.2d at 295 (Saufley, C.J., dissenting).\n[\u00b6 39] Applying the three-part test to the factual circumstances of this case, we conclude that the inevitable discovery exception applies to the seizure of the computer and that suppression of the evidence is not warranted.\n1. The Evidence Could Have Been Gained Lawfully from Information That Was Truly Independent from the Warrantless Search.\n[\u00b6 40] The legal means by which the State could have lawfully obtained Na-deau\u2019s computer were truly independent of the means actually employed. Compare Storer, 583 A.2d at 1019-20 (stating that inevitable discovery applied because police had independent legal means to discover a bag containing drugs), and Ford, 22 F.3d at 378 (concluding that police had independent probable cause to search the defendant\u2019s home), with United States v. Holmes, 183 F.Supp.2d 108, 111 (D.Me. 2002) (holding that inevitable discovery was inapplicable because the government asserted \u201cno independent and legal means by which [certain evidence] would have [been] inevitably discovered\u201d). First, pri- or to the unlawful seizure of the computer, the police had received a detailed report from a student that Nadeau had shown the student child pornography on Nadeau\u2019s computer, in Nadeau\u2019s dorm room, the day before. The reliability of the student\u2019s information was established by Nadeau\u2019s statements to the officers and the officers\u2019 observation of Nadeau\u2019s possession of the computer and flash drive described by the student. Second, the police had audio-recorded and written admissions from Na-deau that he had child pornography on a flash drive that he used with his computer. Third, the police were in lawful possession of the flash drive, which did in fact contain child pornography. This evidence was itself sufficient to establish probable cause for the issuance of a search warrant for Nadeau\u2019s computer. See Ford, 22 F.3d at 378 (\u201cIt is inevitable that the existence of probable cause would find fruition in the issuance of a search warrant.\u201d); see also United States v. Jadlowe, 534 F.Supp.2d 217, 223 (D.Mass.2008) (holding that a warrant would have been sought because \u201c[t]oo much evidence had been gathered and too much corroborating conduct on the part of the defendants had been observed for agents to simply take the chance that what was delivered ... was some innocent commodity\u201d).\n2. The Evidence Inevitably Would Have Been Discovered by Lawful Means\n[\u00b641] We need not speculate as to whether the police would have ultimately sought and obtained a search warrant because the police sought a search warrant within days of coming into possession of the computer. Even though they mistakenly believed Nadeau had consented to the seizure of his computer, they viewed a warrant as a necessary predicate to the forensic examination of the computer in recognition that a person\u2019s consent can be withdrawn. Moreover, the affidavit in support of the warrant application described with particularity the evidence on the computer that was sought. See State v. Allard, 674 A.2d 921, 923 (Me.1996) (stating that \u201cgeneral warrants are constitutionally prohibited\u201d because the Constitutions of the United States and Maine \u201crequire that a search warrant describe with particularity the place or person subject to the search\u201d (quotation marks omitted)). The particularity of the warrant application served to protect Nadeau\u2019s legitimate privacy interests in the lawful electronic information also stored in the computer.\nInternet use (such as Internet browser history, search engine history, temporary Internet files), electronic communications (such as email and email attachments, chat room communications, writings created generated on word processing software, notepads, etc.), stored data files and folders, graphic visual images (such as photographs, movie clips and scanned images), personal calendars or diaries, and any other electronic data that demonstrates the identity of the person(s) who exercised dominion or control over the computer or its contents.\n[\u00b6 42] The fact that Chief Blais\u2019s search warrant affidavit contained information derived from the illegal seizure and preview search of the computer does not preclude the application of the inevitable discovery exception under these circumstances. Evidence seized during the execution of a search warrant, which is based on information acquired by unconstitutional means, need not be excluded if (1) the information that was illegally obtained and used to support the issuance of a warrant is excised from the affidavit, and (2) we determine that \u201cthe judge or magistrate would have had probable cause to issue the warrant relying solely on the remaining information.\u201d Rabon, 2007 ME 113, \u00b6 17, 930 A.2d at 275 (quotation marks omitted). Here, although Chief Blais\u2019s warrant affidavit contains information from the unconstitutional preview search on December 7, 2007, once excised, the redacted affidavit contains sufficient probable cause for the issuance of the warrant.\n[\u00b6 43] In this case, there is little room for doubt that if the officers had only secured Nadeau\u2019s dorm room with the computer inside and sought a search warrant \u2014 as should have happened \u2014 they would have successfully obtained the warrant. That warrant would have led to the inevitable discovery of the child pornography on Nadeau\u2019s computer.\n3. The Application of the Inevitable Discovery Exception Neither Provides an Incentive for Police Misconduct Nor Significantly Weakens Fourth Amendment Protections\n[\u00b6 44] Applying the inevitable discovery exception under the circumstances presented does not create an incentive for police misconduct. There is no indication that the officers did not believe that Na-deau had consented to the seizure of his computer, as he had with respect to his flash drive. Further, by ultimately seeking a search warrant for the computer, the authorities demonstrated an absence of excessive overreaching and an intention to comply with the fundamental protections of the Fourth Amendment. Compare Jadlowe, 534 F.Supp.2d at 224 (\u201cThere was no egregious or gratuitously excessive conduct on the part of the agents ... [nor] was [there] rummaging, prying, or superfluous detention of any occupants .... \u201d), with United States v. Rullo, 748 F.Supp. 36, 45 (D.Mass.1990) (holding that the inevitable discovery exception did not apply where police used excessive physical force to compel a suspect to disclose the location of a gun and gave improper testimony at the suppression hearing). Furthermore, the decision to conduct a warrantless preview search of the computer was based on the erroneous but good faith belief that the same was required by Brunette. In short, there is no indication in the record that the preview search was intended to subvert the Fourth Amendment warrant requirement. See Scott, 270 F.3d at 45 (concluding that there was not an incentive for police misconduct because the issue of whether a de facto arrest occurred \u201cwas itself close and ... the police might have reasonably believed they had undertaken only a justified investigatory stop\u201d).\n[\u00b6 45] Because the computer would have inevitably been discovered by lawful means, and the forensic examination of the computer occurred only after the police obtained a warrant that was based on probable cause, independent of the information that had been unlawfully obtained, the court did not err in denying the suppression motion.\nE. The State\u2019s Failure to Complete its Forensic Examination of the Computer Within the Ten-Day Period Established by the Warrant and M.R.Crim. P. 41(d) Does Not Support the Application of the Exclusionary Rule\n[\u00b6 46] The search warrant was issued on December 11, 2007, and contained the following directive: \u201cThis warrant shall be executed between the hours of 7:00 A.M. and 9:00 P.M. and shall be returned, together with a written inventory, within 10 days of the issuance hereof, to the Maine District Court in Farming-ton.\u201d Nadeau argues that the completion of the forensic search of his computer on July 21, 2008, long exceeded the ten-day period specified by the warrant and was therefore unconstitutional because the warrant had expired. The State contends that the failure to complete the forensic examination of the computer within the ten-day period does not justify the exclusion of that evidence, arguing that \u201cthe complexity of computer searches require[s] more flexibility with regard to the manner in which the evidence is obtained.\u201d\n[\u00b6 47] Rule 41(d) of the Maine Rules of Criminal Procedure explicitly requires that warrants be executed and returned within ten days:\nThe warrant may be executed and returned only within 10 days after its date. Upon the expiration of the 10 days, the warrant must be returned to the District Court designated in the warrant.\nIn State v. Guthrie, 90 Me. 448, 449, 38 A. 368, 368 (1897), we addressed the issue regarding the timing of the execution of a search warrant. In that case, we held that an unexplained three-day delay in executing a search warrant, once it had been issued, resulted in the warrant\u2019s expiration. Id. at 452, 38 A. at 369. We observed that search warrants are powerful investigative tools, the execution of which requires close judicial scrutiny and oversight: \u201c[A search warrant] is a sharp and heavy police weapon to be used most carefully lest it wound the security or liberty of the citizen.\u201d Id. at 450, 38 A. at 369. To guard against the unlawful invasion of personal liberty, we concluded, \u201cIt is an integral principle in our system of law and government that ministerial officers assuming to execute a statute or process upon the property or person of a citizen shall execute it promptly, fully and precisely.\u201d Id. Failure to execute a search warrant promptly rendered the warrant \u201cfunctus officio.\u201d Id. at 450, 38 A. at 368.\n[\u00b6 48] The execution of a search warrant is the act of lawfully searching for and taking possession of property as authorized by the warrant. Unlike Guthrie, where the police did not search for or take possession of the item that was described in the search warrant until after the warrant had expired, 90 Me. at 449, 38 A. at 368, the officers in this case were already in possession of the computer at the time the warrant was issued. Thus, the warrant in the present case was effectively executed at the time it was issued, and there was no danger that a search for the computer conducted after the expiration of the ten-day period would result in a seizure based on stale probable cause. Further, once law enforcement officials are in lawful possession of an item, they need not obtain a search warrant each and every time they examine the item. See United States v. Hernandez, 183 F.Supp.2d 468, 480 (D.P.R.2002) (\u201cThe documents are seized within the time frame established in the warrant but examination of these documents may take a longer time, and extensions or additional warrants are not required.\u201d); see also United States v. Triumph Capital Group, Inc., 211 F.R.D. 31, 65 (D.Conn.2002) (holding that a special agent\u2019s subsequent searches of computer data, which was obtained from an initial search and seizure conducted pursuant to a warrant, were \u201cnot analogous to returning to a crime scene to search for additional evidence and do not establish an impermissible, war-rantless second or continuing search\u201d). Thus, the State\u2019s forensic examination of the computer after the ten-day return period specified in the warrant was neither unconstitutional nor a violation of M.R.Crim. 41(d).\nF. The Failure to Return the Warrant and File an Inventory With the Court Within the Ten-Day Period Established by M.R.Crim. P. 41(d) Does Not Support the Application of the Exclusionary Rule\n' [\u00b6 49] Nadeau also contends that the court erred by failing to provide an exclusionary remedy when Chief Blais failed to return the warrant and file an inventory with the court. Rule 41(d) of the Maine Rules of Criminal Procedure outlines the process by which a written inventory must be completed and returned with the warrant within ten days:\nThe return shall be accompanied by a written inventory of any property taken. The inventory shall be made in the presence of the person from whose possession or premises the property was taken, if the person is present, or in the presence of at least one credible person other than the applicant for the warrant. It shall be verified by the officer. Upon request the judge shall deliver a copy of the inventory to the person from whom or from whose premises the property was taken and to the applicant for the warrant.\n[\u00b6 50] As we have previously held, \u201cnon-compliance with the ministerial demands of Rule 41(d) does not invalidate the search and seizure conducted pursuant to a warrant.\u201d See, e.g., State v. Ellis, 502 A.2d 1037, 1039 (Me.1985). Our jurisprudence clarifies that \u201cministerial demands\u201d refer to acts such as completing an inventory in the person\u2019s presence and providing a receipt of an inventory. See, e.g., State v. Appleton, 297 A.2d 363, 371-72 (Me.1972). The application of the exclusionary rule is reserved for \u201cpersistent official disregard of the ministerial duties in Rule 41(d).\u201d Ellis, 502 A.2d at 1039.\n[\u00b6 51] Here, Chief Blais\u2019s failure to return the warrant accompanied by the written inventory amounts to a ministerial violation of Rule 41(d). Nadeau points to no actual prejudice flowing from this failure. The application of the exclusionary rule is not justified because the record supports the court\u2019s finding that Chief Blais\u2019s actions did not demonstrate \u201cpersistent official disregard\u201d of the requirements in Rule 41(d).\nG. Nadeau\u2019s Statements to the Police Were Not Made in Violation of the Requirements of Miranda v. Arizona and Were Voluntary\n[\u00b6 52] In addition to his Fourth Amendment arguments, Nadeau also argues that the court erred in concluding that he was not in custody at the time he made oral and written statements to the police and that the requirements of Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, were not violated.\n[\u00b6 53] \u201c[A] Miranda warning is necessary only if a defendant is: (1) in custody; and (2) subject to interrogation.\u201d State v. Higgins, 2002 ME 77, \u00b6 12, 796 A.2d 50, 54 (quotation marks omitted). Statements made by a person subjected to custodial interrogation who is not first given Miranda warnings are inadmissible against that person at trial. State v. Bridges, 2003 ME 103, \u00b6 23, 829 A.2d 247, 254.\n[\u00b6 54] A person, who is not subject to formal arrest, may be in custody if \u201ca reasonable person standing in the shoes of [the defendant would] have felt he or she was not at liberty to terminate the interrogation and leave\u201d or if there was \u201ca formal arrest or restraint on freedom of movement of the degree associated with formal arrest.\u201d State v. Holloway, 2000 ME 172, \u00b6 14, 760 A.2d 223, 228 (quotation marks omitted). We consider several factors in their totality, see id. \u00b6 19, 760 A.2d at 229, to determine whether a person was objectively in custody.\n[\u00b6 55] The totality of the factors establishes that Nadeau was not in custody for purposes of triggering the Miranda requirements. First, the officers asked permission to enter Nadeau\u2019s room, and he consented. Second, the interview that followed was conducted in the familiar surroundings of Nadeau\u2019s own dorm room. Compare Dion, 2007 ME 87, \u00b6\u00b6 29-30, 928 A.2d at 752 (concluding that defendant was not in custody when he was questioned by police at his house), with State v. Thibodeau, 496 A.2d 635, 637, 639-40 (Me.1985) (concluding that the defendant was in custody when police placed him in the back of a two-door cruiser, drove him to an isolated side street, and questioned him for up to forty minutes). Third, the officers repeatedly told Nadeau that he was neither under arrest nor going to jail at that time, and offered him the option of continuing the interview in his dorm room or accompanying them to their office. Fourth, the interview was short in duration. Fifth, the officers\u2019 interview style was relatively low-key and non-confrontational. See Dion, 2007 ME 87, \u00b6 29, 928 A.2d at 752. Therefore, because Nadeau was not in custody at the time he spoke with the officers, no Miranda violation occurred.\n[\u00b6 56] Lastly, Nadeau argues that his statements were involuntarily made because \u201cthe officers exploited [his] emotional state and fears when questioning him.\u201d To determine whether a confession is voluntary, a suppression judge considers the totality of the circumstances. See id. \u00b6 32, 928 A.2d at 752. The State bears the burden of proving beyond a reasonable doubt that a confession is voluntary and, therefore, admissible in evidence. See State v. Sawyer, 2001 ME 88, \u00b6 8, 772 A.2d 1173, 1175. \u201c[T]o find a statement voluntary, it must first be established that it is the result of defendant\u2019s exercise of his own free will and rational intellect.\u201d State v. Rees, 2000 ME 55, \u00b6 3, 748 A.2d 976, 977 (quotation marks omitted).\n[\u00b6 57] Several facts, supported by record evidence, lead to the conclusion that Nadeau\u2019s statements to the police officers were voluntary. First, Nadeau was coherent and responsive, albeit very upset, throughout the interview. Compare id. \u00b6\u00b6 1-2, 748 A.2d at 977 (concluding that the defendant\u2019s statements were involuntary because he suffered from dementia), with State v. Coombs, 1998 ME 1, \u00b6\u00b6 5-6, 12, 704 A.2d 387, 389, 391 (holding that defendant\u2019s statements, which were made while she was periodically crying, intermittently handcuffed to a pole, and in an interrogation room for two to three hours, were voluntary). Second, Nadeau assured the officers that he was not going to harm himself. Third, the officers neither made threats to Nadeau nor used physical force to obtain statements from him. Although Officer Hart stated, \u201c[T]he more cooperative you are, the better things are for you,\u201d this was not an implicit threat or a concrete promise of leniency. See State v. Theriault, 425 A.2d 986, 990 (Me.1981) (holding that defendant\u2019s statements to officers were voluntary even after the officers told the defendant that \u201cit would be better to tell us [the truth]\u201d and that \u201cpeople would think more of him if he got it off his chest\u201d (quotation marks omitted)). Fourth, there is no suggestion that Na-deau was suffering from a mental illness or was under the influence of any substances. Fifth, the entire interaction lasted less than fifteen minutes.\n[\u00b6 58] Because the totality of circumstances establish beyond a reasonable doubt that Nadeau\u2019s oral and written statements were the product of his free will and intellect, the court did not err in concluding that his statements to the police were made voluntarily and should not be suppressed.\nThe entry is:\nJudgment affirmed.\n. A \u201cpreview search\u201d is a quick search that scans a computer\u2019s data for contraband or relevant evidence. See United States v. Barefoot, No. 07-405, 2008 WL 3166947, at *3, 2008 U.S. Dist. LEXIS 59797, at *6-7 (W.D.Pa. Aug. 5, 2008) (a preview search \"involve[s] securing the computer's hard drive and searching for files containing still images and video images\u201d); New Jersey v. Finesmith, 406 N.J.Super. 510, 968 A.2d 715, 718 (App. Div.2009) (a forensic \"preview enables the police to conduct a cursory search that will reveal any media on that computer such as video files or pictures\u201d) (quotation marks omitted). It allows an examiner to view digital evidence \"in a read-only mode, without actually acquiring it.\u201d Sharon D. Nelson & John W. Simek, Preparing for Electronic Discovery, GPSolo, Dec. 2005, at 42, 45. Thus, the search is not permanent and does not capture and store images and data, but rather allows an examiner to develop a report based on what the examiner observed at a particular moment in time. See id.\n. In finding that Nadeau had consented to the search of the flash drive, the court reasoned that\nAny reasonable person in the defendant\u2019s situation would be aware that the officers were looking not only to seize the equipment but also to search it. It is difficult to draw a contrary conclusion based upon the nature of computer crimes, the evidence of which is uncovered by searching the equipment and not through a simple exterior viewing.\n. See also State v. Tuplin, 2006 ME 83, \u00b6 13, 901 A.2d 792, 796 (applying bifurcated standard of review to the issue of whether a defendant voluntarily waived his right to testify); State v. Watson, 2006 ME 80, \u00b6 31, 900 A.2d 702, 713 (reviewing waiver of counsel as a mixed question of fact and law); State v. Lockhart, 2003 ME 108, \u00b6 21, 830 A.2d 433, 442 (reviewing waiver of Miranda rights as a mixed question of fact and law); State v. Coombs, 1998 ME 1, \u00b6 8, 704 A.2d 387, 390 (stating that the factual findings of whether a confession is voluntary \"are reviewed deferentially, [but that] the application of legal principles to those findings is reviewed independently\u201d).\n. We have not previously identified a fixed standard of review for scope of consent issues. See State v. Bailey, 2010 ME 15, \u00b6 27, 989 A.2d 716, 724 (\"[W]e have not yet determined the appropriate standard of review to be applied to a trial court\u2019s determination of [the scope of consent] issue.\u201d). The United States Supreme Court has not addressed the issue of whether the scope of consent is a factual determination reviewed for clear error or a legal conclusion reviewed de novo. See Florida v. Jimeno, 500 U.S. 248, 250-51, 111 S.Ct. 1801, 114 L.Ed.2d 297 (1991). The federal circuit courts have not adopted a uniform standard of review for this issue. Compare United States v. Stewart, 93 F.3d 189, 192 (5th Cir.1996) (\"Objective reasonableness is a question of law reviewed de novo.\u201d), with United States v. Cruz-Castro, No. 09-10243, 2010 WL 1735521, at *2, 2010 U.S.App. LEXIS 9023, at *5 (9th Cir. Apr. 30, 2010) (\"We review for clear error whether a search fell within the scope of consent.\u201d), United States v. Jackson, 598 F.3d 340, 348 (7th Cir.2010) (\"[W]hether the search remained within the boundaries of the consent is a question of fact ....\u201d (quotation marks omitted)), United States v. Canipe, 569 F.3d 597, 604 (6th Cir. 2009) (applying clear error review to scope of consent determinations), United States v. Pikyavit, 527 F.3d 1126, 1129, 1135 (10th Cir. 2008) (same), and United States v. Coffman, 148 F.3d 952, 953 (8th Cir. 1998) (same); see also United States v. Jones, 523 F.3d 31, 39 (1st Cir.2008) (\"[W]e state no view on whether the scope of a given instance of consent is reviewed de novo or merely for clear error. ...\"). We discern no reason to review a court's determination of the scope of consent any differently than we review the question of consent itself. Therefore, a court's factual findings concerning the scope of consent for a search are reviewed for clear error, but its legal conclusion is reviewed de novo.\n. In the analogous setting of motor vehicle searches, we held that a defendant\u2019s consent to a search of his vehicle did not extend to closed containers within it. State v. Sargent, 2009 ME 125, \u00b6 1, 984 A.2d 831, 832. In Sargent, a police deputy asked a defendant who had been stopped at a vehicle checkpoint for a seatbelt violation for permission to search the defendant\u2019s vehicle. Id. \u00b6\u00b6 2, 3, 984 A.2d at 832-33. The deputy found and searched a shaving-kit style bag without additional consent and found pills that appeared to be methamphelamines. Id. \u00b6 5, 984 A.2d at 833. In concluding that a reasonable person would not have believed that his or her consent extended to containers, we focused on the nature of the vehicle stop and that the defendant was not informed of the object of the search. Id. \u00b6 14, 984 A.2d at 834-35.\n. See also United States v. Walls, 225 F.3d 858, 862-63 (7th Cir.2000) (finding implied consent to entry of house by police when defendant opened the door and stepped back to provide room for the police to enter); United States v. Patten, 183 F.3d 1190, 1194-95 (10th Cir.1999) (holding that the defendant gave implied consent to search his suitcase when he silently and without objection unzipped his suitcase after an officer asked, \"Well, do you think we could take a look at your suitcase there? I don\u2019t want to necessarily look in it.\u201d (quotation marks omitted)); United States v. Gordon, 173 F.3d 761, 765-66 (10th Cir.1999) (stating that defendant\u2019s act of removing a key from his pocket and handing it to the police in response to the police officers' request to open the bag constituted implied consent).\n. The decision by the First Circuit Court of Appeals in United States v. Silvestri distinguished between factual situations involving \u201cwarrantless searches that are never followed by a warrant and warrantless searches that are followed by a warranted search.\u201d 787 F.2d 736, 744 (1st Cir.1986). The danger in applying the inevitable discovery exception in the former situation is that it bypasses the Fourth Amendment warrant requirement if the government can show by a preponderance of the evidence that the exception should apply. Id. at 744-45. In the latter situation, the \u201cstakes are somewhat different\u201d because \"[t]he fact that a warrant has been obtained removes speculation as to whether a magistrate would in fact have issued a warrant on the facts and also ensures ... that the fourth amendment has not been totally circumvented.\u201d Id. at 745.\n. The search warrant specifically described the computer and flash drive that were to be seized and authorized \"the making of a duplicate or 'image' of any computer or electronic data storage device.\u201d The search warrant described the evidence to be seized on these devices as follows:\n1. Visual images depicting persons under the age of 18 engaged in sexually explicit conduct, as defined in 17-A M.R.S.A. \u00a7 281(4).\n2. Computer records or data that are evidence of the intentional or knowing manufacture, possession, or dissemination of sexually explicit materials, including but not limited to records of\n. Functus officio means \"without further authority or legal competence because the duties and functions of the original commission have been fully accomplished.\u201d Black's Law Dictionary 682 (7th ed.1999).\n. We do not discuss the Superior Court's application of the good faith exception because the search warrant, which authorized the July forensic examination of the computer, never \u201cexpired.\u201d\n. We have established ten factors we examine in totality to determine whether a person was in custody:\n(1) the locale where the defendant made the statements;\n(2) the party who initiated the contact;\n(3) the existence or non-existence of probable cause to arrest (to the extent communicated to the defendant);\n(4) subjective views, beliefs, or intent that the police manifested to the defendant, to the extent they would affect how a reasonable person in the defendant's position would perceive his or her freedom to leave;\n(5) subjective views or beliefs that the defendant manifested to the police, to the extent the officer\u2019s response would affect how a reasonable person in the defendant's position would perceive his or her freedom to leave;\n(6) the focus of the investigation (as a reasonable person in the defendant's position would perceive it);\n(7) whether the suspect was questioned in familiar surroundings;\n(8) the number of law enforcement officers present;\n(9) the degree of physical restraint placed upon the suspect; and\n(10) the duration and character of the interrogation.\nState v. Michaud, 1998 ME 251, \u00b6 4, 724 A.2d 1222, 1226.\n. Nadeau suggests that the very question regarding potential self-harm indicates that he was not acting voluntarily. To the contrary, this good police practice is appropriately designed to be solicitous of the defendant\u2019s safety.",
+        "type": "majority",
+        "author": "LEVY, J."
+      }
+    ],
+    "attorneys": [
+      "Michael A. Cunniff, Esq. (orally), McCloskey, Mina & Cunniff, LLC, Portland, ME, for Keith R. Nadeau.",
+      "Andrew S. Robinson, Asst. Dist. Atty. (orally), Franklin County District Attorney\u2019s Office, Farmington, ME, for the State of Maine."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 71\nSTATE of Maine v. Keith R. NADEAU.\nSupreme Judicial Court of Maine.\nArgued: April 13, 2010.\nDecided: July 29, 2010.\nMichael A. Cunniff, Esq. (orally), McCloskey, Mina & Cunniff, LLC, Portland, ME, for Keith R. Nadeau.\nAndrew S. Robinson, Asst. Dist. Atty. (orally), Franklin County District Attorney\u2019s Office, Farmington, ME, for the State of Maine.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0445-01",
+  "first_page_order": 475,
+  "last_page_order": 898
+}

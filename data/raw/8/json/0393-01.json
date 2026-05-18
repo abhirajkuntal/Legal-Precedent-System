@@ -1,0 +1,242 @@
+{
+  "id": 7285252,
+  "name": "Paul Dante CANGEMI v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Appellant",
+  "name_abbreviation": "Cangemi v. Commonwealth, Department of Transportation, Bureau of Driver Licensing",
+  "decision_date": "2010-11-10",
+  "docket_number": "",
+  "first_page": "393",
+  "last_page": "401",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 393"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "723 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11765472,
+        1701960
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/723/0655-01",
+        "/pa/555/0193-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 193",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701960
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0193-01"
+      ]
+    },
+    {
+      "cite": "647 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862932,
+        1464342
+      ],
+      "weight": 7,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "288-89"
+        },
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/647/0287-01",
+        "/pa-commw/166/0643-01"
+      ]
+    },
+    {
+      "cite": "623 A.2d 369",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1443679
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/154/0118-01"
+      ]
+    },
+    {
+      "cite": "623 A.2d 364",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "367-68"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "616 A.2d 1105",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1438747
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1108"
+        },
+        {
+          "page": "1107"
+        },
+        {
+          "page": "1107-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/151/0351-01"
+      ]
+    },
+    {
+      "cite": "755 A.2d 100",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11200115
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/755/0100-01"
+      ]
+    },
+    {
+      "cite": "812 A.2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11368545
+      ],
+      "pin_cites": [
+        {
+          "page": "740"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/812/0736-01"
+      ]
+    },
+    {
+      "cite": "875 A.2d 1228",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8973501
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1231"
+        },
+        {
+          "page": "1231",
+          "parenthetical": "\"Once [ ]DOT satisfies its burden of proving a prima facie violation, the burden shifts to the licensee to prove, by 'clear and convincing evidence,' [that] the vehicle was insured at the time it was driven.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/875/1228-01"
+      ]
+    },
+    {
+      "cite": "949 A.2d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8232894
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/949/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 776,
+    "char_count": 21865,
+    "ocr_confidence": 0.698,
+    "pagerank": {
+      "raw": 8.594203391136843e-08,
+      "percentile": 0.489367912955543
+    },
+    "sha256": "b9f411848a781ac1a17ef1b816ab2017844976332f6140abffa5bedd5b7934ca",
+    "simhash": "1:bb2af708f14e37be",
+    "word_count": 3602
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and McCULLOUGH, Judge, and BUTLER, Judge."
+    ],
+    "parties": [
+      "Paul Dante CANGEMI v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge COHN JUBELIRER.\nCommonwealth of Pennsylvania, Department of Transportation, Bureau of Driver Licensing (DOT) appeals from the order of the Court of Common Pleas of Bucks County (trial court), sustaining Paul Dante Cangemi\u2019s (Owner) appeal from the three-month suspension of his driving privileges by DOT for permitting his vehicle to be driven without financial responsibility coverage.\nOn July 2, 2008, Owner pled guilty and was convicted of violating Section 1786(f) of the Motor Vehicle Financial Responsibility Law (MVFRL), 75 Pa.C.S. \u00a7 1786(f), for permitting his vehicle to be operated without the required financial responsibility coverage. (Electronically] Transmitted Conviction Report, Ex. C-l, Item 2, R.R. at 45a.) As a result, DOT notified Owner by letter dated August 1, 2008 that, pursuant to Section 1786(d) of the MVFRL, 75 Pa.C.S. \u00a7 1786(d), Owner\u2019s operating privileges would be suspended effective September 5, 2008. (Letter from DOT to Owner (August 1, 2008) at 1, Ex. C-l, Item 1, R.R. at 42a.) On August 26, 2008, Owner filed an appeal to the trial court, which held a de novo hearing.\nBased on the testimony presented, the trial court found that, on May 21, 2008, Scott Humphrey (Humphrey), who was employed by Owner at Suburban Chimney Company (Company), asked Owner if he could borrow a Company truck and Owner agreed. (Trial Ct. Op. at 2; Hr\u2019g Tr. at 5, 8, R.R. at 20a, 23a.) All Company trucks are owned by Owner. (Hr\u2019g Tr. at 5, R.R. at 20a.) At the time of Humphrey\u2019s request, Owner owned approximately 10 trucks, three of which were uninsured. (Trial Ct. Op. at 2; Hr\u2019g Tr. at 5, R.R. at 20a.) One of the three uninsured trucks, a Ford Ranger, was parked inside the fenced lot where the Company vehicles were located. (Hr\u2019g Tr. at 5-6, R.R. at 20a-21a.) When Humphrey had previously borrowed a truck from Owner, Humphrey borrowed a white utility truck and had not borrowed the Ford Ranger. (Trial Ct. Op. at 2; Hr\u2019g Tr. at 20, R.R. at 35a.) However, on May 21, 2008, the Ford Ranger was the only vehicle available and Humphrey did not know that the Ford Ranger was no longer insured. (Trial Ct. Op. at 2; Hr\u2019g Tr. at 6,12,13, R.R. at 21a, 27a, 28a.) Owner kept all of the keys to all of the vehicles in the same lockbox, and did not distinguish the keys to uninsured vehicles in any way. (Trial Ct. Op. at 2; Hr\u2019g Tr. at 8-9, R.R. at 23a-24a.) According to Owner, Humphrey tried to reach him by phone, but Owner was unavailable because he was attending a charitable event. (Hr\u2019g Tr. at 10, R.R. at 25a.) Based on Owner\u2019s permission for Humphrey to \u201cborrow a truck,\u201d Humphrey retrieved the keys to the Ford Ranger and drove it out of the fenced lot onto a highway. (Hr\u2019g Tr. at 10, 13, R.R. at 25a, 28a.)\nTo satisfy its burden of proving that Owner permitted the operation of an uninsured vehicle, DOT introduced Exhibit C, which included an \u201cElectronically] Transmitted Conviction Report\u201d showing that Owner was criminally convicted of permitting the Ford Ranger to be driven without financial responsibility coverage. (Ex. C-1, Item 2, R.R. at 45a.) However, the trial court held that DOT \u201cfailed to establish a prima facie case.\u201d (Trial Ct: Op. at 4.) The trial court concluded that, \u201cHumphrey\u2019s use of the vehicle was nonpermis-sive\u201d because the trial court made the credibility determination that Owner believed that Humphrey was going to take the same white utility truck as he always had. (Trial Ct. Op. at 4.) Accordingly, the trial court sustained Owner\u2019s appeal and rescinded his suspension. (Trial Ct. Order, R.R. at 58a.) This appeal by DOT followed.\nOn appeal, DOT argues that the trial court erred as a matter of law when it held that Owner did not permit Humphrey to operate the Ford Ranger because Section 1786(d) does not require DOT to prove Owner\u2019s intent when he allowed Humphrey to borrow \u201ca truck.\u201d We agree.\nDOT suspended Owner\u2019s driving privileges for a period of three months, pursuant to Section 1786 of the MVFRL, which provides, in pertinent part:\n\u00a7 1786. Required financial responsibility\n(a) General rule. \u2014 Every motor vehicle of the type required to be registered under this title which is operated or currently registered shall be covered by financial responsibility.\n(d) Suspension of registration and operating privilege.\u2014\n(1) The Department of Transportation shall suspend the registration of a vehicle for a period of three months if it determines the required financial responsibility was not secured as required by this chapter and shall suspend the operating privileges of the owner or registrant for a period of three months if the department determines that the owner or registrant has operated or permitted the operation of the vehicle without the required financial responsibility.\n(4) Where an owner or registrant\u2019s operating privilege has been suspended under this subsection, the owner or registrant shall have the same right of appeal under section 1550 (relating to judicial review) as provided for in cases of suspension for other reason. The court\u2019s scope of review in an appeal from an operating privilege suspension shall be limited to determining whether:\n(i) the vehicle was registered or a type required to be registered under this title; and\n(ii) the owner or registrant operated or permitted the operation of the same vehicle when it was not covered by financial responsibility. The fact that an owner, registrant or operator of the motor vehicle failed to provide competent evidence of insurance or the fact that the department received notice of a lapse, termination or cancellation of insurance for the vehicle shall create a presumption that the vehicle lacked the requisite financial responsibility. This presumption may be overcome by producing clear and convincing evidence that the vehicle was insured at the time it was driven.\n75 Pa.C.S. \u00a7 1786 (italicized emphasis added).\nIn order to sustain its burden of proof under Section 1786(d), DOT must establish that: (1) Owner\u2019s vehicle was of a type that required registration; (2) the financial responsibility coverage for Owner\u2019s vehicle was not secured or maintained; and (3) Owner operated or permitted the operation of the vehicle while it was not covered by financial responsibility. Baum v. Department of Transportation, Bureau of Driver Licensing, 949 A.2d 345, 349 n. 7 (Pa.Cmwlth.2008). There is no dispute that Owner\u2019s Ford Ranger must be insured and that his Ford Ranger was not insured during its operation. Thus, the first two elements are satisfied. The third element is satisfied by the introduction of the \u201cElectronically] Transmitted Conviction Report,\u201d (Ex. C-l, Item 2, R.R. at 45a), showing Owner\u2019s guilty plea on July 2, 2008 of violating Section 1786(f) for \u201cpermitting a vehicle] to be operated upon a highway of this Commonwealth without [the required] financial responsibility,\u201d 75 Pa.C.S. \u00a7 1786(f) (emphasis added). Capone v. Department of Transportation, Bureau of Driver Licensing, 875 A.2d 1228, 1231 (Pa.Cmwlth.2005); see also Baum, 949 A.2d at 349 n. 7 (citing to Williams v. Department of Transportation, Bureau of Driver Licensing, 812 A.2d 736, 740 (Pa.Cmwlth.2002) (holding that evidence of a certified copy of an accident report satisfies DOT\u2019s initial prima facie burden of proof)). The trial court opined that DOT \u201cfailed to establish a prima facie case,\u201d because \u201cHumphrey\u2019s use of the vehicle was nonpermissive.\u201d (Trial Ct. Op. at 4.) However, under Capone, the certified proof of Owner\u2019s guilty plea and conviction of Section 1786(f) satisfied DOT\u2019s prima facie burden. Accordingly, the trial court erred in finding that DOT did not meet its prima facie burden of proof.\nDOT argues that because it met its prima facie burden of proof, the burden shifted to Owner to rebut DOT\u2019s prima facie case by proving, with clear and convincing evidence, that he did not permit Humphrey to operate the uninsured Ford Ranger. See Capone, 875 A.2d at 1231 (\u201cOnce [ ]DOT satisfies its burden of proving a prima facie violation, the burden shifts to the licensee to prove, by \u2018clear and convincing evidence,\u2019 [that] the vehicle was insured at the time it was driven.\u201d). The definition of \u201cclear and convincing evidence\u201d is \u201c \u2018evidence that is so clear and direct as to permit the trier of fact to reach a clear conviction, without hesitancy, as to the truth of the facts at issue.\u2019 \u201d Id. (quoting Mateskovich v. Department of Transportation, Bureau of Driver Licens ing, 755 A.2d 100, 102 n. 6 (Pa.Cmwlth.2000)).\nDOT contends that, when Owner gave Humphrey permission to operate a truck without any limiting instructions, Owner \u201cpermitted the operation of [a] vehicle without the required financial responsibility.\u201d 75 Pa.C.S. \u00a7 1786(d)(1). In response, Owner contends that, although he gave Humphrey permission to drive a truck, he never gave Humphrey permission to drive the truck (the Ford Ranger) that did not have insurance. To support this argument, Owner notes that, in the past, Humphrey only borrowed a white utility truck and, therefore, he believed that Humphrey would borrow a white utility truck when Humphrey asked to borrow a truck. Owner further asserts that, although Humphrey tried to contact him when a white utility truck was not available in the Company\u2019s lot, Owner was not able to be reached because he was attending a charity sports event. Accordingly, Owner argues the trial court did not err when it held that Humphrey\u2019s use of the Ford Ranger was \u201cnonpermissive,\u201d (Trial Ct. Op. at 4), because he did not intend for Humphrey to drive the uninsured Ford Ranger.\nHere, the trial court credited the testimony of Owner and found as fact that Owner gave Humphrey permission to \u201cborrow a truck\u201d; that \u201c[Owner] expected Humphrey to take a white \u2018utility body truck\u2019 as that was the only style truck Humphrey had ever borrowed\u201d; and that Owner \u201cdid not give Humphrey permission to take the [uninsured] black Ford Ranger.\u201d (Trial Ct. Op. at 2.) As such, those factual findings will not be disturbed on appeal. What we must determine, however, is whether the trial court erred as a matter of law when it made the legal conclusion that, notwithstanding his summary conviction for violating Section 1786(f), Owner did not violate Section 1786(d)(1) because, although he permitted Humphrey to borrow a truck, he did not intend for Humphrey to borrow and drive the uninsured Ford Ranger.\nSection 1921(b) of the Statutory Construction Act of 1972 provides that, \u201c[w]hen the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit.\u201d 1 Pa.C.S. \u00a7 1921(b). The plain language of Section 1786(d)(1) requires DOT to suspend the operating privileges of an owner or registrant if DOT \u201cdetermines that the owner or registrant has operated or permitted the operation of [a] vehicle without the required financial responsibility.\u201d 75 Pa. C.S. \u00a7 1786(d)(1) (emphasis added). The verb \u201cto permit\u201d is defined as follows: \u201c1: to consent to expressly or formally ... 2: to give (a person) leave: AUTHORIZE ... 3: ... to give over ... 4: to make possible-\u201d Webster\u2019s Third New International Dictionary ' 1683 (2002). Accordingly, a plain reading of Section 1786(d)(1) reveals that the Legislature merely required an Owner to: expressly consent; authorize; make possible; or give leave, i.e., permit a vehicle to be operated without the required financial responsibility, in order to suspend the operating privileges of an owner or registrant.\nInitially, we emphasize that Owner pled guilty to and was convicted of violating Section 1786(f) of the MVFRL, which provides as follows:\nOperation of a motor vehicle without required financial responsibility.\u2014 Any owner of a motor vehicle for which the existence of financial responsibility is a requirement for its legal operation shall not operate the motor vehicle or permit it to be operated upon a highway of this Commonwealth without the financial responsibility required by this chapter. In addition to the penalties provided by subsection (d), any person who fails to comply with this subsection commits a summary offense and shall, upon conviction, be sentenced to pay a fine of $300.\n75 Pa.C.S. \u00a7 1786(f) (italicized emphasis added). Because Owner never appealed the conviction to this summary offense, and cannot challenge his guilty plea and conviction before this Court on appeal, it is problematic that his argument here on appeal is in direct contradiction to his unchallenged conviction. He was convicted for violating Section 1786(f) which required that he \u201cpermit\u201d the vehicle to be operated without financial responsibility. This language is almost identical to the language in Section 1786(d)(1) (\u201cthe owner or registrant has operated or permitted the operation of the vehicle without the required financial responsibility,\u201d 75 Pa.C.S. \u00a7 1786(d)(1) (emphasis added)), which Owner argues he did not violate. Both subsections use the same word \u201cpermit,\u201d which cannot have a different meaning within the same section of the MVFRL. As such, Owner cannot successfully argue that he did not \u201cpermit\u201d the vehicle to be operated to rebut DOT\u2019S prima facie case.\nThis holding is consistent with this Court\u2019s precedent in which \u201c[w]e have held many times that the propriety of a criminal conviction may not be collaterally attacked in a civil license suspension hearing.\u201d Department of Transportation, Bureau of Driver Licensing v. Diamond, 151 Pa.Cmwlth. 351, 616 A.2d 1105, 1108 (1992). In Diamond, we explained that \u201cDOT\u2019S records are not infallible. To blindly affirm a revocation where there is clear evidence that the motorist had been acquitted of the underlying offense would, in our view, elevate form over substance and work a manifest injustice.\u201d Id. at 1107. We therefore held that once DOT submits evidence of the conviction, there is a rebuttable presumption that the conviction exits; \u201c[ajbsent clear and convincing evidence that the record is erroneous, this presumption becomes conclusive on the issue of the conviction.\u201d Id. at 1107-08. In Diamond, the licensee produced an acquittal of the offense; because the conviction was a nullity, the presumption was rebutted. However, a licensee\u2019s mere testimony that the district justice did not find him guilty of a citation, although credited by the trial judge, was insufficient to overcome certified evidence of the conviction in Mateskovich, 755 A.2d at 102. Since DOT submitted certified evidence of Owner\u2019s conviction in this case, which was not appealed, with no evidence that the record of conviction is erroneous, the presumption is conclusive on the issue of the conviction.\nMoreover, the facts of this case establish that when Owner authorized Humphrey to \u201cborrow a truck,\u201d he created circumstances that made it possible for the uninsured Ford Ranger to be operated on the Commonwealth\u2019s highways. Owner agreed that Humphrey could borrow a truck and did not verbally express any limitations; rather, he just \u201cassumed\u201d that Humphrey would borrow a white utility truck. (Hr\u2019g Tr. at 19, R.R. at 34a.) In fact, Owner testified, \u201cI kind of leave it up to the discretion of my employees to, you know, grab a truck, you know, that is somewhat, that they know we\u2019ve driven before.\u201d (Hr\u2019g Tr. at 10, R.R. at 25a.) However, Owner could not recall ever telling Humphrey that he could only borrow the white utility style trucks that he had borrowed in the past. (Hr\u2019g Tr. at 20, R.R. at 35a.) Additionally, Owner parked the uninsured Ford Ranger in the same fenced lot with the other white utility truck Humphrey had borrowed previously and kept the keys for the Ford Ranger in the same lock box with the other keys. By telling Humphrey that he may borrow \u201ca truck\u201d without any limiting instructions and leaving it up to Humphrey\u2019s \u201cdiscretion\u201d regarding which truck to drive, as well as failing to take any precautions to prevent the use of the uninsured Ford Ranger, Owner did permit the uninsured vehicle to be operated, regardless of what he meant when he authorized Humphrey to take a vehicle.\nOur conclusion here, that Owner violated Section 1786(d)(1) by authorizing or making it possible for Humphrey to operate the uninsured Ford Ranger on the Commonwealth\u2019s highways, is consistent with previous cases in which this Court has held that Section 1786 contains no mens rea requirement, such as Department of Transportation, Bureau of Driver Licensing v. Slack, 153 Pa.Cmwlth. 4, 623 A.2d 364 (1992), overruled on other grounds, Department of Transportation, Bureau of Driver Licensing v. Buss, 154 Pa.Cmwlth. 118, 623 A.2d 369 (1993), and Stone v. Department of Transportation, Bureau of Driver Licensing, 166 Pa.Cmwlth. 643, 647 A.2d 287 (1994). In Slack, DOT suspended the vehicle registrations of a husband and wife (owners) under Section 1786 when their insurance company informed DOT that their insurance coverage lapsed. Id., 623 A.2d at 365. On appeal to the trial court, the owners argued that they did not receive notice that their insurance coverage had lapsed because of late payment. Id. The trial court sustained the appeal because it concluded that DOT had not met the burden of proving the owners had operated the vehicles without the required financial responsibility because there was no evidence that they intended to operate without insurance. Id. at 366. This Court reversed, agreeing with DOT\u2019s argument that \u201cthe trial court erred in incorporating an element of intent into Section 1786 which is not clearly present in the plain unambiguous language of the statute.\u201d Id. at 367.\nSimilarly, in Stone, this Court affirmed a trial court\u2019s order that affirmed DOT\u2019s suspension of operating privileges because there was no requirement in Section 1786 that DOT establish that the owner was at fault or that the owner intended to operate the vehicle without insurance. Id., 647 A.2d at 288-89. As in Slack, the owner in Stone argued that he failed to receive notice that his insurance coverage had lapsed. Id. at 288. Therefore, the owner argued that our Court should not find him in violation of Section 1786 because he did not intend to operate his vehicle without insurance. Id. Although this Court was sympathetic to the owner\u2019s dilemma that, as a truck driver, he would be unable to work without his license during the three-month suspension, this Court nonetheless determined that DOT was not required to show that the owner intended to operate the vehicle without insurance. Id. This Court, therefore, concluded that the owner had failed to rebut DOT\u2019s prima facie case. Id.\nAlthough the owners in both Slack and Stone were also the operators of the uninsured vehicles, these cases involved the same sentence in Section 1786(d)(1) at issue here, and the Court\u2019s holdings in those cases support the conclusion that the focus is not on what Owner meant to specifically authorize. Rather, in order to \u201cpermit\u201d the operation of an uninsured vehicle, Owner must merely take affirmative action that makes it possible for the uninsured vehicle to be operated, which occurred in this case.\nThis interpretation also furthers the policy of the MVFRL. In enacting the MVFRL, the Legislature intended to provide a minimal level of compensation for victims of motor vehicle accidents. Slack, 623 A.2d at 367-68. To ensure this compensation, the Legislature placed the burden on the owner or registrant of a vehicle to insure his or her vehicle and imposed penalties for the failure to do so. 75 Pa. C.S. \u00a7\u00a7 1786(d)(1), (f). This policy choice is reasonable because the owner or registrant of a vehicle is in a better position to guarantee that the vehicle has insurance than a driver who is granted permission to borrow the vehicle. For example, in this case, Owner and Humphrey both testified that Humphrey did not know that the vehicle was not insured, although Owner did know. (Hr\u2019g Tr. at 13, 19, R.R. at 28a, 34a). Section 1786(d)(1) requires DOT to suspend the operating privileges of owners to prevent them from allowing others to operate their vehicles without insurance, even by mistake.\nIn this case, Owner specifically pled guilty and was convicted of violating Section 1786(f) for permitting the uninsured Ford Ranger to be driven on the Commonwealth\u2019s highways without the required insurance. In light of this conviction, coupled with Owner\u2019s affirmative actions that made it possible for the uninsured Ford Ranger to be driven on the highways by Humphrey, we conclude that Owner \u201cpermitted the operation of [a] vehicle without the required financial responsibility\u201d for purposes of 75 Pa.C.S. \u00a7 1786(d)(1).\nAccordingly, we reverse the order of the trial court.\nORDER\nNOW, November 10, 2010, the order of the Court of Common Pleas of Bucks County in the above-captioned matter is hereby REVERSED and Paul Dante Can-gemi\u2019s driving privilege suspension is REINSTATED.\n. The record is silent as to how the authorities discovered Humphrey was driving the Ford Ranger without insurance.\n. \u201c[0]ur standard of review in a license suspension case is ... limited to determining whether the trial court\u2019s findings are supported by competent evidence, and whether the trial court committed an error of law or an abuse of discretion in making its decision.\u201d Todd v. Department of Transportation, Bureau of Driver Licensing, 555 Pa. 193, 198 n. 2, 723 A.2d 655, 658 n. 2 (1999).",
+        "type": "majority",
+        "author": "Judge COHN JUBELIRER."
+      }
+    ],
+    "attorneys": [
+      "Harold H. Cramer, Asst. Chief Counsel, Harrisburg, for appellant.",
+      "Brandon R. Wind, Fountainville, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "Paul Dante CANGEMI v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Appellant.\nCommonwealth Court of Pennsylvania.\nArgued Sept. 16, 2010.\nDecided Nov. 10, 2010.\nHarold H. Cramer, Asst. Chief Counsel, Harrisburg, for appellant.\nBrandon R. Wind, Fountainville, for ap-pellee.\nBEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and McCULLOUGH, Judge, and BUTLER, Judge."
+  },
+  "file_name": "0393-01",
+  "first_page_order": 419,
+  "last_page_order": 427
+}

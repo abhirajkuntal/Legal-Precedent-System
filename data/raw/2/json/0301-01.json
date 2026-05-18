@@ -1,0 +1,557 @@
+{
+  "id": 7286091,
+  "name": "GUARDIANSHIP OF JEWEL M.",
+  "name_abbreviation": "Guardianship of Jewel M.",
+  "decision_date": "2010-08-17",
+  "docket_number": "",
+  "first_page": "301",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 301"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 80"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "457 U.S. 922",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196193
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0922-01"
+      ]
+    },
+    {
+      "cite": "485 U.S. 80",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13799
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0080-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108460
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "10-11",
+          "parenthetical": "noting that prejudgment remedy statutes enable a party to utilize state procedures with the \"overt, significant assistance of state officials,\" thereby involving state action substantial enough to implicate the Due Process Clause"
+        },
+        {
+          "parenthetical": "noting that prejudgment remedy statutes enable a party to utilize state procedures with the \"overt, significant assistance of state officials,\" thereby involving state action substantial enough to implicate the Due Process Clause"
+        },
+        {
+          "parenthetical": "noting that prejudgment remedy statutes enable a party to utilize state procedures with the \"overt, significant assistance of state officials,\" thereby involving state action substantial enough to implicate the Due Process Clause"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0001-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 87",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11091075
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 19"
+        },
+        {
+          "page": "1165"
+        },
+        {
+          "page": "\u00b6 20"
+        },
+        {
+          "page": "1165"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/775/1158-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7367448
+      ],
+      "pin_cites": [
+        {
+          "page": "733-34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/638/0732-01"
+      ]
+    },
+    {
+      "cite": "76 A. 942",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1910,
+      "pin_cites": [
+        {
+          "page": "943"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Me. 543",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        645792
+      ],
+      "year": 1910,
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/106/0543-01"
+      ]
+    },
+    {
+      "cite": "2005 ME 55",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8923313
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/881/0649-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 121",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9078793
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "138-39"
+        },
+        {
+          "page": "140",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/834/0131-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 88",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9436566
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "1267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/797/1265-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 98",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7299563
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/1279-01"
+      ]
+    },
+    {
+      "cite": "526 A.2d 1380",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7927976
+      ],
+      "pin_cites": [
+        {
+          "page": "1381"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/526/1380-01"
+      ]
+    },
+    {
+      "cite": "481 A.2d 139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7914309
+      ],
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/481/0139-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 74",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7297111
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b627"
+        },
+        {
+          "page": "\u00b6 27"
+        },
+        {
+          "page": "962"
+        },
+        {
+          "page": "\u00b6 27"
+        },
+        {
+          "page": "962"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/0955-01"
+      ]
+    },
+    {
+      "cite": "308 A.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "410 A.2d 1027",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7998081
+      ],
+      "pin_cites": [
+        {
+          "page": "1029"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/410/1027-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 198",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11152533
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "299"
+        },
+        {
+          "page": "300"
+        },
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "299"
+        },
+        {
+          "page": "\u00b6 26"
+        },
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/0291-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 584",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532102
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0584-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 645",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11723248
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "657-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0645-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413198
+      ],
+      "weight": 5,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "72-73"
+        },
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0057-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 17",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291636
+      ],
+      "weight": 22,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 12-13"
+        },
+        {
+          "page": "729-30"
+        },
+        {
+          "page": "\u00b6\u00b6 15-16, 21"
+        },
+        {
+          "page": "730-31, 732"
+        },
+        {
+          "page": "732"
+        },
+        {
+          "page": "731"
+        },
+        {
+          "page": "732"
+        },
+        {
+          "page": "732-33"
+        },
+        {
+          "page": "733"
+        },
+        {
+          "page": "\u00b6 17"
+        },
+        {
+          "page": "731"
+        },
+        {
+          "page": "733",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "729"
+        },
+        {
+          "page": "730"
+        },
+        {
+          "page": "\u00b6 20"
+        },
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0726-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1229,
+    "char_count": 36186,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 4.496746686420167e-07,
+      "percentile": 0.9228030282846607
+    },
+    "sha256": "0ef056f95dd7758090000866ff7ae4d2c4c03919fe9c8e723870e8b0545dfb58",
+    "simhash": "1:35ea9726240297d4",
+    "word_count": 5958
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "GUARDIANSHIP OF JEWEL M."
+    ],
+    "opinions": [
+      {
+        "text": "ALEXANDER, J.\n[\u00b6 1] In this appeal we address, again, an issue that has recently arisen with some frequency: the quality of evidence that must be presented and standards of proof that must be met to remove a child from a parent\u2019s care and custody through a guardianship proceeding. See 18-A M.R.S. \u00a7 5-204(c) (2009). For the second time, the father of Jewel M. appeals from a judgment of the York County Probate Court (Bailey, J.) granting the child\u2019s maternal grandmother\u2019s petition for a temporary guardianship, establishing the grandmother as Jewel\u2019s temporary coguardian along with the father. See Guardianship of Jewel M. (Jewel I), 2010 ME 17, 989 A.2d 726.\n[\u00b6 2] The father argues that the Probate Court erred by: (1) granting the grandmother\u2019s petition because relitigation of the issues involved is barred by res judicata; (2) failing to consider the father\u2019s parental fitness before establishing the temporary guardianship; and (3) concluding that the living situation at the father\u2019s residence is temporarily intolerable pursuant to 18-A M.R.S. \u00a7 5-204(c). The father also argues that attorney fees and costs should be assessed against the grandmother. Because the court\u2019s findings, based on the evidence submitted, cannot support the imposition of a guardianship in a contested proceeding, we vacate and remand with direction to terminate the temporary cog-uardianship awarded to the grandmother and allow the father to parent his child. We decline to award attorney fees.\nI. GOVERNING LEGAL STANDARDS\n[\u00b6 3] Before addressing the particular circumstances of this appeal, it is useful to review the legal standards that govern a case when a third party, here the grandmother, invokes legal process to attempt to limit or remove a parent\u2019s fundamental right to parent his or her child.\n[\u00b6 4] A decade ago, the United States Supreme Court ruled that a parent has a fundamental liberty interest in parenting his or her child \u2014 an interest that cannot be infringed without strict adherence to the Due Process Clause, which: \u201cdoes not permit a State to infringe on the fundamental right of parents to make child rearing decisions simply because a state judge believes a \u2018better\u2019 decision could be made.\u201d Troxel v. Granville, 530 U.S. 57, 72-73, 120 S.Ct. 2054, 147 L.Ed.2d 49 (2000). Thus, the United States Supreme Court has observed that the state has only a \u201cde minim-is\u201d interest in child care decision-making by a fit parent. See Stanley v. Illinois, 405 U.S. 645, 657-58, 92 S.Ct. 1208, 31 L.Ed.2d 551 (1972). Reflective of this \u201cde minimis\u201d state interest, \u201cthere is a presumption that fit parents act in the best interests of their children.\u201d Troxel, 530 U.S. at 68, 120 S.Ct. 2054 (citing Parham v. J.R., 442 U.S. 584, 602, 99 S.Ct. 2493, 61 L.Ed.2d 101 (1979)).\n[\u00b6 5] The same year that Troxel was decided, we ruled similarly in Rideout v. Riendeau, 2000 ME 198, \u00b6 18, 761 A.2d 291, 299, addressing a grandparents\u2019 visitation statute, a law that, like the guardianship statute as applied in this case, \u201callows the courts to determine whether parents will be required to turn their children over to the grandparents against the parents\u2019 wishes,\u201d id. \u00b6 21, 761 A.2d at 300. We held that \u201c[t]he power of the court to adjudicate such disputes and to enforce its own orders constitutes state involvement in a way that clearly implicates parents\u2019 fundamental liberty interests in the care and custody of their children.\u201d Id.\n[\u00b6 6] Last year, in a guardianship appeal, we emphasized that:\n[W]e have consistently recognized, absent a showing of unfitness, parents\u2019 fundamental liberty interest with respect to the care, custody, and control of their children. See Rideout, 2000 ME 198, \u00b6 18, 761 A.2d at 299; Osier v. Osier, 410 A.2d 1027, 1029 (Me.1980) (recognizing that \u201cany decision terminating or limiting the right of a parent to physical custody of his child also affects his constitutionally protected liberty interest in maintaining his familial relationship with the child\u201d); Danforth v. State Dep\u2019t of Health & Welfare, 308 A.2d 794, 797 (Me.1978) (discussing the natural and fundamental rights of parents to the custody of their children).\nGuardianship of Jeremiah T., 2009 ME 74, \u00b627, 976A.2d 955, 962.\n[\u00b6 7] This year in Jewel I, we reviewed the issues that are before us again on this appeal as follows:\nTitle 18-A M.R.S. \u00a7 5-204(c) does not define the term \u201ctemporarily intolerable ... living situation.\u201d 18-A M.R.S. \u00a7 5-204(c). Our construction of that term is informed, however, by the fundamental liberty interest parents have in parenting their children. See Guardianship of Jeremiah T., 2009 ME 74, \u00b6 27, 976 A.2d 955, 962. Because a temporarily intolerable living situation must relate to a parent\u2019s inability to care for the child, proof of parental unfitness is a required element to support the establishment of a guardianship over the parent\u2019s objection. Id. The statute\u2019s requirement of a \u201cliving situation ... that is at least temporarily intolerable for the child even though the living situation does not rise to the level of jeopardy required for the final termination of parental rights,\u201d 18-A M.R.S. \u00a7 5-204(c), thus requires the court to find that the parent\u2019s inability to meet the child\u2019s needs constitutes an urgent reason that \u201cmay have a dramatic, and even traumatic, effect upon the child\u2019s well-being,\u201d Rideout v. Riendedu, 2000 ME 198, \u00b6 26, 761 A.2d 291, 301, if the child lives with the parent.\nAccordingly, a guardianship may only be ordered pursuant to section 5-204(c) if the court finds that (1) the parent is currently unable to meet the child\u2019s needs and that inability will have an effect on the child\u2019s well-being that may be dramatic, and even traumatic, if the child lives with the parent, and (2) the proposed guardian will provide a living situation that is in the best interest of the child. This standard is, as indicated in section 5-204(c), less stringent than the standard for finding jeopardy. See 22 M.R.S. \u00a7 4002(6) (2009). Although a temporarily intolerable living situation may arise from the physical condition of a parent\u2019s residence, it is by no means restricted to that circumstance.\nJewel I, 2010 ME 17, \u00b6\u00b6 12-13, 989 A.2d at 729-30.\n[\u00b6 8] With this background, the law governing review of the Probate Court decision at issue in this appeal may be summarized as follows:\n[\u00b6 9] First, the father has a fundamental liberty interest in parenting his child that may not be infringed simply by proof that a grandparent might provide a \u201cbetter\u201d living arrangement for the child.\n[\u00b6 10] Second, because a temporarily intolerable living situation must relate to a parent\u2019s inability to care for the child, proof of parental unfitness is a required element to support the imposition of a guardianship over the parent\u2019s objection.\n[\u00b6 11] Third, while the standard for proof of a temporarily intolerable living situation, 18-A M.R.S. \u00a7 5-204(c), may be less stringent than the standard for a finding of jeopardy, 22 M.R.S. \u00a7 4002(6) (2009), a guardianship may only be ordered, pursuant to section 5-204(c), if the court finds that: (1) the parent is unfit in that he is currently unable to meet the child\u2019s needs and that inability will have an effect on the child\u2019s well-being that may be dramatic, and even traumatic, if the child lives \u2022with the parent; and (2) the proposed guardian will provide a living situation that is in the best interest of the child.\n[\u00b6 12] Fourth, while section 5-204(c) states that the standard of proof may be less stringent than the standard for finding jeopardy, section 5-204(c) imposes on the guardianship petitioner the higher, clear and convincing evidence burden of proof to create in the fact-finder an \u201cabiding conviction\u201d that it is \u201chighly probable\u201d that facts sought to be proved are the correct view of the events. See Taylor v. Comm\u2019r of Mental Health & Mental Retardation, 481 A.2d 139, 153 (Me.1984).\n[\u00b6 13] Having stated the law that will govern our review, we proceed to consider the factual and legal issues in this appeal.\nII. CASE HISTORY\n[\u00b6 14] Jewel M. was born in April 2005. The mother and father were divorced when Jewel was two years old. The mother was granted primary physical custody, and the father was granted rights of contact. After her parents separated, Jewel was exposed to domestic violence by the mother\u2019s boyfriend and another individual and may have been sexually abused by men while in her mother\u2019s care.\n[\u00b6 15] On September 9, 2008, without notice to the father, the maternal grandmother filed two petitions in Probate Court: one for appointment as temporary guardian and the other as guardian of the child. The Probate Court appointed the grandmother as temporary guardian on September 17, 2008. The child was subsequently diagnosed with post-traumatic stress disorder and began weekly therapy with a therapist in the vicinity of the grandmother\u2019s residence in Biddeford.\n[\u00b6 16] In January 2009, the father, a resident of Holden, filed a motion to dissolve the temporary guardianship. After a hearing on the father\u2019s motion and the grandmother\u2019s outstanding petition for guardianship, the Probate Court granted the grandmother\u2019s petition in April 2009. The Probate Court found the father\u2019s living situation \u201cintolerable\u201d because he: (1) lacked a parental rights order giving him the primary residential care of the child; (2) had had limited and inconsistent contact with the child; (3) had not arranged for a qualified therapist for the child near his home; and (4) had yet to establish through hair follicle drug testing that he was drug-free.\n[\u00b6 17] The Probate Court\u2019s April 2009 order provided a plan for the child to transition to the father\u2019s care and custody if certain conditions were met. Thus, the Probate Court ordered that the court would terminate the guardianship and the father would have complete care, custody, and control of Jewel when the father provided proof that: (1) the District Court had approved an agreement, into which the parents had recently entered, to modify the father\u2019s and mother\u2019s parental rights judgment to provide that the father would have primary residential care of the child; (2) the father had procured a qualified therapist for the child near his home; and (3) the father had passed a hair follicle drug test. The court ordered a visitation schedule between the father and Jewel.\n[\u00b6 18] In May 2009, the father appealed from the Probate Court\u2019s judgment granting the grandmother\u2019s petition for guardianship. On appeal, the father argued that the court erred in (1) finding that a temporarily intolerable living situation existed with respect to him, and (2) denominating the grandmother\u2019s guardianship as permanent when it was, in effect, temporary.\n[\u00b6 19] In July 2009, while the father\u2019s appeal was pending, the father, grandmother, and the child attended an intake session with a doctor at Acadia Hospital in Bangor for the purpose of transitioning the child from her therapist in the Bidde-ford area to a therapist near her father\u2019s residence in Holden. The child was accepted for therapy at Acadia Hospital, but was put on a waiting list. Follow-up appointments proved difficult because, under the court-ordered visitation schedule, the father had physical custody of the child only at times when the facility was not available for appointments. The child was later scheduled for an appointment in September 2009, but the appointment was can-celled and not rescheduled.\n[\u00b6 20] The father asserts that the grandmother cancelled the therapy appointment. The grandmother asserts that she contacted the assigned therapist and informed her that Jewel had been engaging in play therapy with her current therapist, and that the Bangor area therapist said she did not offer play therapy and suggested another therapist who was supposed to initiate setting up a new appointment. Under either version, it is evident that the grandmother\u2019s initiative led to the cancellation of the September 2009 appointment.\n[\u00b6 21] We heard oral argument on the father\u2019s appeal in January 2010 and issued Jewel I on March 9, 2010. We affirmed the court\u2019s finding that the father presented a temporarily intolerable living situation, basing our conclusion primarily on two of the Probate Court\u2019s findings as supported in the record: (1) no court order was then in effect granting the father the right to Jewel\u2019s primary residential care, and (2) the father\u2019s limited and inconsistent contact with Jewel could result in trauma to Jewel if there were a sudden shift in her residence from her grandmother to her father. Jewel I, 2010 ME 17, \u00b6\u00b6 15-16, 21, 989 A.2d at 730-31, 732. Noting these findings, we held that there was a sufficient basis to extend the guardianship to allow for a transition in residence. Id. \u00b6 21, 989 A.2d at 732. We also concluded that the father\u2019s failure to find a therapist for Jewel as of the April 2009 hearing was relevant to the temporarily intolerable living situation inquiry, but we noted that the finding, considered in isolation, \u201cmight not support a court concluding that a temporarily intolerable living situation exists under the unique circumstances of this case....\u201d Id. \u00b6 17, 989 A.2d at 731.\n[\u00b6 22] In conclusion on that issue, we stated:\nJewel\u2019s need for a slow, steady transition of increasing contact with the father, and the father\u2019s need to finalize his custody rights in the family matter and procure a therapist for Jewel, considered together, established a temporarily intolerable living situation. If Jewel were placed immediately with the father without the opportunity for a transition and before the father could legally assert a right to custody superior to that of the mother, the resulting situation would be, as the court found, traumatic for Jewel and contrary to her well-being.\nId. \u00b6 21, 989 A.2d at 732.\n[\u00b6 23] We further held that, as a matter of law, the Probate Court\u2019s order established a temporary guardianship, rather than a permanent guardianship. Id. \u00b6 24, 989 A.2d at 732-33. We modified the Probate Court\u2019s judgment to reflect the fact that the guardianship ordered was temporary. Id. Reflecting our understanding from review of the record, the briefs, and representations made at oral argument that the parties were cooperating in working toward a transition to full custody for the father, we stated at the conclusion of our decision that:\nBoth parties represented at oral argument that the father\u2019s visitation had occurred as required by the court\u2019s judgment and that the father had been awarded residential care of Jewel by the District Court in the family matter. We expect that once the father has provided the Probate Court with the name of a licensed qualified therapist for Jewel, the court will terminate the guardianship and Jewel will be transferred to her father\u2019s custody without condition.\nId. \u00b625, 989 A.2d at 733. The mandate was: \u201cJudgment is modified in accordance with this opinion and, as modified, is affirmed.\u201d Id.\n[\u00b6 24] Subsequent events quickly proved our understanding of the parties\u2019 cooperation mistaken. On the day our decision was published, the grandmother immediately, and in violation of the Probate Court\u2019s order, terminated the father\u2019s access to the child. We also take judicial notice, see M.R. Evid. 201, of District Court files indicating that subsequently the grandmother, using her standing as a guardian, has obtained temporary protection from abuse orders that have restricted or barred the father\u2019s access to his child, although that access is, presumably, authorized by an outstanding, valid parental rights order. See Finn v. Lipman, 526 A.2d 1380, 1381 (Me.1987) (holding that a court can take judicial notice of court records in other cases including pleadings and docket entries).\n[\u00b6 25] On or about March 12, 2010, the father submitted a letter to the Probate Court, pursuant to Jewel I, stating that the father had \u201cidentified [a doctor] as the qualified, licensed therapist who will be working with [the child] prospectively.\u201d\n[\u00b6 26] Our mandate in Jewel I was docketed in the Probate Court on March 29, 2010. On the same day, the grandmother filed a new petition for temporary guardianship of Jewel, asserting that the father had taken no action to engage a therapist for Jewel and that Jewel had reported that the father had abused her. The father filed a motion to dismiss the grandmother\u2019s petition for temporary guardianship, arguing that he had submitted the name of a qualified therapist to the Probate Court and had otherwise complied with Jewel I, that he was, therefore, entitled to custody of the child, and that the grandmother\u2019s allegations were barred by res judicata.\n[\u00b6 27] On April 8, 2010, the Probate Court held a hearing to address the then-existing guardianship order as well as a testimonial hearing on the grandmother\u2019s new petition for a temporary guardianship. At the hearing, the court apparently first concluded, over the grandmother\u2019s objection, that the father had complied with the terms of the then-existing guardianship order and with Jewel I by providing the name of a therapist for Jewel, and that the court was obligated to terminate that temporary guardianship pursuant to Jewel I. Accordingly, the court terminated that order.\n[\u00b6 28] The court then heard testimony as to the grandmother\u2019s new petition for a temporary guardianship. Although the grandmother had indisputably played a role in limiting follow-up visits to engage a Bangor area therapist, the grandmother testified that the father had done nothing since the July 2009 intake session at Acadia Hospital to procure a therapist for Jewel, and, although the father had identified a therapist, the grandmother claimed that the identified therapist did not see patients and would not personally treat Jewel.\n[\u00b6 29] The child\u2019s therapist in the Bid-deford area did not appear at the hearing but was permitted to testify by phone, as she was on a trip. That therapist testified that she had engaged Jewel in weekly play therapy for eighteen months; that neither the father nor another therapist had contacted her about transitioning Jewel to another therapist; that it would be traumatic for Jewel if her treatment ended abruptly; and that it would be best for Jewel to have a slow and steady period of transition between her current and new therapists in order to develop trust with the new therapist. This last position about the need for a transition period was similar to the position taken at the April 2009 hearing, at which time the child\u2019s guardian ad litem had recommended a five-month transition period to full custody for the father. That transition period would have been completed in September or October of 2009.\n[\u00b6 30] The therapist also testified that on that very day, April 8, 2010, apparently while preparing for her trip, she had engaged in a play therapy session with Jewel in which Jewel had disclosed, for the first time, that her father had sexually abused her. The therapist also claimed that in December 2009 and January 2010, Jewel disclosed to her incidents of physical abuse by the father, which the therapist was required to report. A case manager at Spurwink Services, a private contractor for the State, indicated that after a follow-up investigation, the December and January abuse allegations were not pursued further.\n[\u00b6 31] Responding to questions by the guardian ad litem and the child\u2019s mother, the therapist conceded that she was \u201creally not at all\u201d convinced that the father had actually committed the acts of abuse she had reported to the court, and that the child\u2019s statements could have been based on events that had occurred some time ago with individuals other than the father, or could have resulted from suggestions by the grandmother. The child\u2019s mother also indicated during her cross-examination of Jewel\u2019s therapist that the acts of physical abuse that Jewel had reported were similar to abuse that the grandmother had subjected the mother to when she was a child.\n[\u00b6 32] The father testified that he intends to engage Jewel in therapy once he has custody of her, and that he had recently spoken to Acadia and confirmed that Jewel can receive treatment at that facility. He further testified that because the original intake evaluation is outdated, he must take the child on a weekday for a new evaluation. The father stated that he had been unable to obtain a new evaluation because the grandmother had prevented him from seeing Jewel since Jewel I was decided and because compliance with HI-PAA laws inhibited his ability to initiate her therapy without the grandmother\u2019s presence. He argued that he was not unfit and there could be no intolerable living situation as a result of his not having begun counseling for the child when he had not yet had the opportunity to do so.\n[\u00b6 33] After the hearing, the court entered an order appointing the father and the grandmother as temporary coguardi-ans of the child. The court concluded that an intolerable living situation existed because \u201c[i]t would be traumatic and not in Jewel\u2019s best interest for her to be in the full custody of her father without a transition in counseling,\u201d and that it would be in the child\u2019s best interest to appoint the father and grandmother as coguardians for not more than six months. The court awarded primary residence of Jewel to the father and grandmother for part of each week, respectively, and ordered that they facilitate the child\u2019s transition between counselors. The court\u2019s order provided that the court would review the matter on June 9, 2010, to assess whether the intolerable living situation had been alleviated and the temporary guardianship would be terminated.\n[\u00b6 34] The findings in the court\u2019s order were sparse. However, we can infer that in making the father a coguardian and allowing Jewel to reside with him for part of each week, the court must have found that: (1) the grandmother had failed to meet her burden to prove that the father was an unfit parent; (2) it was not credible to attribute the reported physical or sexual abuse to the father; and (3) for at least part of each week, the grandmother had failed to prove that the father\u2019s living situation was intolerable.\n[\u00b6 35] The father appealed from this judgment pursuant to 18-A M.R.S. \u00a7 1-308 (2009) and M.R.App. P. 1.\n[\u00b6 36] After the father filed this appeal, the grandmother filed a complaint for protection from abuse on behalf of Jewel against the father on April 30, 2010. The District Court (Biddeford, Foster, J.; Douglas, J.; Janette, J.; O\u2019Neil, J.) granted four successive temporary protection from abuse orders, the first of which prohibited the father from having contact with Jewel and, contrary to the orders of the Probate Court and the District Court in the parental rights action, awarded exclusive temporary custody of Jewel to the grandmother. The second and third temporary protection from abuse orders awarded temporary custody of Jewel to the grandmother, but granted the father limited supervised visitation. The fourth order was to remain in effect until further order.\n[\u00b6 37] The Probate Court was informed on June 8, 2010, of the temporary order for protection from abuse in place against the father and held the previously-scheduled hearing on June 9, 2010. It appears that there was a status conference, but no orders were issued as a result of the conference, and a case management conference was scheduled. It does not appear that the temporary guardianship at issue in this appeal has been terminated since the appeal was filed or that this appeal is otherwise moot. See generally M.R.App. P. 3(b); M.R. Civ. P. 62(a); M.R. Prob. P. 62.\nIII. LEGAL ANALYSIS\nA. Res Judicata\n[\u00b6 38] The father argues that, because the grandmother filed for, and was granted, a new appointment as temporary coguardian based on the same circumstances that were litigated when the Probate Court granted her original petition for a guardianship, the court was barred by the doctrine of res judicata from granting, over the father\u2019s objection, the grandmother\u2019s subsequent petition for temporary guardianship. \u201cWe review de novo a determination that res judicata bars a particular litigation.\u201d Portland Co. v. City of Portland, 2009 ME 98, \u00b6 22, 979 A.2d 1279, 1287.\n[\u00b6 39] There are two branches of the res judicata doctrine, issue preclusion and claim preclusion. Marin v. Marin, 2002 ME 88, \u00b6 7, 797 A.2d 1265, 1267. Issue preclusion, also known as collateral estoppel, \u201cprevents the relitigation of factual issues already decided if the identical issue was determined by a prior final judgment, and ... the party estopped had a fair opportunity and incentive\u201d in an earlier proceeding to present the same factual issue or issues it wishes to litigate again in a subsequent proceeding. Macomber v. MacQuinn-Tweedie, 2003 ME 121, \u00b6 22, 834 A.2d 131, 138-39. \u201cCollateral estoppel arises only if the identical issue necessarily was determined by a prior final judgment.\u201d Id. \u00b6 25, 834 A.2d at 140 (quotation marks omitted).\n[\u00b6 40] Claim preclusion bars the relitigation of claims if: (1) the same parties or their privies are involved in both actions; (2) a valid final judgment was entered in the prior action; and (3) the matters presented for decision in the second action were, or might have been, litigated in the first action. Id. \u00b6 22, 834 A.2d at 139.\n[\u00b6 41] Principles of res judicata must be applied with caution in domestic relations cases, as new developments often inform decisions as to what may be in the best interest of a child in circumstances where relationships must continue and will change over time until a child reaches majority. The issues raised by the grandmother in her new petition for temporary guardianship were based on events and circumstances arising subsequent to the establishment of the original guardianship, i.e., whether (1) given Jewel\u2019s current needs and events occurring since the previous guardianship was established, the child would benefit from a transitional period between her existing therapist and a new therapist she had yet to meet near her father\u2019s home; and (2) new allegations by the child of abuse or neglect by her father, even if unsubstantiated, warranted the establishment of a new temporary guardianship to take effect.\n[\u00b6 42] The issues the grandmother raised in support of the petition for temporary guardianship at issue in this appeal, including our opinion in Jewel I, arose, at least in part, after the prior guardianship was established. Therefore, her petition was not barred, as a matter of law, by res judicata.\nB. Failure to Follow the Law Court Mandate\n[\u00b6 43] On remand, a trial court must adhere to our mandate and \u201c \u2018effectuate the decision of the [C]ourt.\u2019 \u201d State v. Patterson, 2005 ME 55, \u00b6 9, 881 A.2d 649, 651 (quoting Farnsworth, v. Whiting, 106 Me. 543, 546, 76 A. 942, 943 (1910)). In Patterson, we held that the trial court\u2019s failure on remand to \u201c \u2018make clear its findings of fact and conclusions of law\u2019 \u201d in disregard of this Court\u2019s decision and the party\u2019s request for specific findings constituted \u201can unsustainable exercise of its discretion.\u201d Id.; cf. Estate of Voignier, 638 A.2d 732, 733-34 (Me.1994) (holding that, on remand, the Probate Court did not fail to follow this Court\u2019s mandate).\n[\u00b6 44] In this case, we affirmed the Probate Court\u2019s determination that a temporarily intolerable living situation existed with respect to the father, finding that it was relevant, though possibly not sufficient in isolation, that the father had not yet found a qualified therapist in his area for Jewel. Jewel I, 2010 ME 17, \u00b6 17, 989 A.2d at 731. We then stated in conclusion that \u201c[w]e expect that once the father has provided the Probate Court with the name of a licensed qualified therapist for Jewel, the court will terminate the [then-existing] guardianship and Jewel will be transferred to her father\u2019s custody without condition.\u201d Id. \u00b6 25, 989 A.2d at 733 (emphasis added). The mandate affirmed the court\u2019s judgment as modified in accordance with our opinion. Id.\n[\u00b6 45] The Probate Court appeared to find that the father had complied with our decision in Jewel I because it terminated the guardianship then at issue. It then took up the new guardianship petition. We do not construe this action as violative of our mandate, although any further guardianship proceedings after this opinion should be precluded for reasons discussed below.\nC. Sufficiency of the Evidence and the Probate Court\u2019s Findings\n[\u00b6 46] The Probate Court purported to establish the temporary coguar-dianship at issue in this appeal pursuant to 18-A M.R.S. \u00a7 5-204(c), which provides, in relevant part, that guardians or coguardi-ans may be appointed for an unmarried minor when the court finds, by clear and convincing evidence, that:\n[A] living situation has been created that is at least temporarily intolerable for the child even though the living situation does not rise to the level of jeopardy required for the final termination of parental rights, and that the proposed guardian will provide a living situation that is in the best interest of the child.\n18-A M.R.S. \u00a7 5-204(c); see also 18-A M.R.S. \u00a7 5-207(c) (2009); In re Amberley D., 2001 ME 87, \u00b6 19, 775 A.2d 1158, 1165. We held in Jewel I that a \u201ctemporarily intolerable living situation must relate to a parent\u2019s inability to care for the child\u201d and that \u201cproof of parental unfitness is a required element to support the establishment of a guardianship over the parent\u2019s objection.\u201d 2010 ME 17, \u00b6 12, 989 A.2d at 729. Accordingly:\n[A] guardianship may only be ordered pursuant to section 5-204(c) if the court finds that (1) the parent is currently unable to meet the child\u2019s needs and that inability will have an effect on the child\u2019s well-being that may be dramatic, and even traumatic, if the child lives with the parent, and (2) the proposed guardian will provide a living situation that is in the best interest of the child.\nId. \u00b6 13, 989 A.2d at 730; see also Guardianship of Jeremiah T., 2009 ME 74, \u00b6 27, 976 A.2d at 962.\n[\u00b6 47] On appeal, we review the Probate Court\u2019s findings for clear error. In re Amberley D., 2001 ME 87, \u00b6 20, 775 A.2d at 1165. Here, by appointing the father as a coguardian, the Probate Court necessarily concluded that the grandmother had failed to prove, to the clear and convincing evidence standard, that the father was an unfit parent. By allowing the child to reside with the father for part of each week, the Probate Court necessarily concluded that the grandmother had failed to prove, to the clear and convincing evidence standard, that the father\u2019s living situation was temporarily intolerable. With the grandmother having failed to prove these essential facts, her second petition for a temporary guardianship should have been denied.\n[\u00b6 48] The Probate Court\u2019s judgment establishing the current temporary coguar-dianship appears to have been based on a conclusion that a temporarily intolerable living situation had been created because \u201c[i]t would be traumatic and not in Jewel\u2019s best interest for her to be in the full custody of her father without a transition in counseling.\u201d This was certainly a legitimate concern, and one that was applied in the April 2009 order to justify imposition of the guardianship at that time. Had the transition contemplated in April 2009 occurred, this case would have been long over. The record of the April 2010 hearing unequivocally establishes that, by her action, the grandmother prevented the counseling transition from occurring.\n[\u00b6 49] The grandmother cannot prevail on her burden of proof to establish a temporary guardianship by creating the situation that prevents the father from establishing a new therapist for the child in the area where he lives. The court\u2019s finding and the evidence in the record do not support, to the clear and convincing evidence standard, the findings we have held are necessary to support imposition of a temporary guardianship and its invasion of a parent\u2019s fundamental liberty interest. The temporary guardianship awarded to the grandmother must be terminated immediately, as it is not supported on this record. The mandate shall issue immediately, without the usual fourteen-day waiting period.\n[\u00b6 50] We conclude with one other observation on issues that have impacted this case. At the point that the Probate Court had terminated the original temporary guardianship in accordance with our opinion, the only operative order governing custody of the child was the District Court parental rights order. The District Court is the court with primary jurisdiction over actions involving domestic relations, parental rights, and children. 19-A M.R.S. \u00a7 103 (2009). The Probate Court recognized this jurisdiction, referencing the District Court parental rights order in its April 2009 decision. To keep all issues before the court with primary jurisdiction for domestic relations and parental rights issues, the appropriate remedy for a grandparent seeking access to a child against a parent\u2019s wishes should be a Grandparents Visitation Act action pursuant to 19-A M.R.S. \u00a7\u00a7 1801-1805 (2009). This is the primary remedy the Legislature has established to resolve grandparent-parent disputes.\n[\u00b6 51] While the Probate Court has authority to address grandparent-parent disputes pursuant to the guardianship statute, when there is an outstanding, valid parental rights order, as there is in this case, the Probate Court must, as a threshold matter, determine whether the grandparent should be required to exhaust the remedy provided by the Grandparents Visitation Act as prerequisite to proceeding on the guardianship petition. In this manner, the court recognizes the jurisdiction of the District Court under title 19-A and minimizes the possibility of separate, yet simultaneous proceedings involving the best interest of a child in two courts. Further, this threshold determination will enable the Probate Court to quickly dispose of marginal guardianship petitions in cases in which a grandparent visitation action can afford complete relief.\nThe entry is:\nJudgment Vacated. Remanded to terminate the guardianship order. Mandate to issue forthwith.\n. Citing Connecticut v. Doehr, 501 U.S. 1, 10-11, 111 S.Ct. 2105, 115 L.Ed.2d 1 (1991) (noting that prejudgment remedy statutes enable a party to utilize state procedures with the \"overt, significant assistance of state officials,\u201d thereby involving state action substantial enough to implicate the Due Process Clause); see also Peralta v. Heights Med. Ctr., Inc., 485 U.S. 80, 85, 108 S.Ct. 896, 99 L.Ed.2d 75 (1988); Lugar v. Edmondson Oil Co., 457 U.S. 922, 941, 102 S.Ct. 2744, 73 L.Ed.2d 482 (1982).\n. We did modify the Probate Court\u2019s order, however, by striking the finding that evidence established a need for the father to prove through hair follicle testing that he was drug-free, concluding that the \"total body of evidence\u201d and other of the court's findings indicated an absence of proof that the father had a substance abuse problem. Guardianship of Jewel M., 2010 ME 17, \u00b6 20, 989 A.2d 726, 732.\n. Spurwink Services opened an inquiry as a result of the reports that the father was abusive to or neglectful of Jewel, but the case was closed because the child was living with the grandmother. Despite these allegations, the father's unsupervised visitation with Jewel continued and, until the April 8 hearing, the grandmother never raised any concerns about the allegations directly with the father.\n. At the time of the hearing, the father was not working because he was caring for his wife who was undergoing chemotherapy treatments, but he believed this would not prevent his being able to meet Jewel\u2019s needs. The father also has a young son living with him, with whom Jewel has a good bond.",
+        "type": "majority",
+        "author": "ALEXANDER, J."
+      }
+    ],
+    "attorneys": [
+      "Amanda E. Ramirez, Esq., McGarry & Holmes, LLC, Wells, ME, for father.",
+      "John A. Turcotte, Esq., Ainsworth, The-lin & Raftice, P.A., South Portland, ME, for grandmother."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 80\nGUARDIANSHIP OF JEWEL M.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: July 21, 2010.\nDecided: Aug. 17, 2010.\nAmanda E. Ramirez, Esq., McGarry & Holmes, LLC, Wells, ME, for father.\nJohn A. Turcotte, Esq., Ainsworth, The-lin & Raftice, P.A., South Portland, ME, for grandmother.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 331,
+  "last_page_order": 342
+}

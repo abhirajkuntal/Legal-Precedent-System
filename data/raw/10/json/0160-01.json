@@ -1,0 +1,297 @@
+{
+  "id": 7283189,
+  "name": "In re Petition of A.O.T. Nl.R., Appellant",
+  "name_abbreviation": "In re Petition of A.O.T.",
+  "decision_date": "2010-12-23",
+  "docket_number": "Nos. 09-FS-994, 09-FS-995, 09-FS-996",
+  "first_page": "160",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 9509,
+    "name": "United States Court of Appeals for the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 636",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 F.3d 369",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1852358
+      ],
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/38/0369-01"
+      ]
+    },
+    {
+      "cite": "559 A.2d 745",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7895673
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "749",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/559/0745-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 847",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225235
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "861"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0847-01"
+      ]
+    },
+    {
+      "cite": "581 A.2d 1205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371545
+      ],
+      "pin_cites": [
+        {
+          "page": "1214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/581/1205-01"
+      ]
+    },
+    {
+      "cite": "8 A.3d 1215",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7289958
+      ],
+      "pin_cites": [
+        {
+          "page": "1222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/8/1215-01"
+      ]
+    },
+    {
+      "cite": "618 A.2d 715",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7361302
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "717-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/618/0715-01"
+      ]
+    },
+    {
+      "cite": "6 A.3d 1247",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290343
+      ],
+      "pin_cites": [
+        {
+          "page": "1253-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/6/1247-01"
+      ]
+    },
+    {
+      "cite": "851 F.2d 1439",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5660432,
+        11366730
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/271/0212-01",
+        "/f2d/851/1439-01"
+      ]
+    },
+    {
+      "cite": "271 U.S.App.D.C. 212",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        5660432
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/271/0212-01"
+      ]
+    },
+    {
+      "cite": "829 A.2d 237",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9100330
+      ],
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/829/0237-01"
+      ]
+    },
+    {
+      "cite": "546 A.2d 1001",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7942329
+      ],
+      "pin_cites": [
+        {
+          "page": "1004"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/546/1001-01"
+      ]
+    },
+    {
+      "cite": "115 Stat. 2100",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 675",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "(5)(E)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1096,
+    "char_count": 26709,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 1.3061430802636296e-07,
+      "percentile": 0.6233755327048025
+    },
+    "sha256": "3ca8681e2ab611c16dce35293d892e73e807e41663a6b14793e1c9230d1b5a95",
+    "simhash": "1:d710f306820e6573",
+    "word_count": 4302
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUIZ and GLICKMAN, Associate Judges, and TERRY, Senior Judge."
+    ],
+    "parties": [
+      "In re Petition of A.O.T. Nl.R., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "GLICKMAN, Associate Judge:\nNl.R. appeals the trial court\u2019s waiver of his consent to the adoption of his daughters and the accompanying termination of his parental rights. We agree with appellant\u2019s contention that notwithstanding provisions of the District of Columbia Family Court Act of 2001, under the Family Court\u2019s General Rule D(c), a magistrate judge is not authorized to conduct an adoption trial without the parties\u2019 consent. Because appellant withheld his consent to trial before a magistrate judge, we reverse and remand for a new adoption trial before an associate judge of the Family Court.\nI.\nAppellant Nl.R. is the biological father of I.R., M.R., and Ne.R. The three girls were born in 1994, 1996, and 1998, respectively. Appellant gained sole legal custody of the children in 2000 after they were removed from the care of their mother, L.B., following allegations of neglect. L.B. has not been involved in the girls\u2019 lives since that time.\nThe children lived with appellant until February 2005, when he was arrested and jailed on drug charges. He later was sentenced to serve a prison term of 18 months. On March 15, 2005, the three girls were placed together in the foster home of A.O.T., the woman who eventually would seek to adopt them. The children have lived with A.O.T. continuously since then.\nFollowing the foster care placement, the District filed petitions in Superior Court alleging that I.R., M.R., and Ne.R. were neglected children within the meaning of D.C.Code \u00a7 16 \u2014 2301(9)(A)(ii) and (iii) as a result of appellant\u2019s incarceration. Appellant stipulated that he was unable to discharge his parental responsibilities while in jail. The stipulation, executed by appellant, his counsel, an Assistant Attorney General for the District, the guardian ad litem for the children, and a Child and Family Services Agency (\u201cCFSA\u201d) social worker, recited that\n[N1.R.] loves his children very much and is solely concerned with what is in their best interest. All parties agree that the case goal for [I.R., M.R., and Ne.R.] is reunification with [Nl.R.] without the court\u2019s supervision. [Nl.R.] agrees to cooperate with CFSA and to accept, pursue and complete all reasonable service referrals provided to her [sic] by CFSA.\nIn May 2005, Magistrate Judge Tara J. Fentress adjudicated the children neglected on the basis of appellant\u2019s stipulation and committed them to CFSA\u2019s care, specifying reunification with appellant as the ultimate permanency goal. Reunification remained the goal identified in CFSA\u2019s three reports to the court between May and November 2005. However, at a permanency hearing on November 3, 2005, Magistrate Judge Fentress changed the goal from reunification with appellant to adoption. The reason given for the change by the magistrate judge in her permanency hearing order was that\nThe father will remain incarcerated beyond the ASFA timelines for reunification. The current foster parent, with whom the children have been placed since March 15, 2005, is willing to adopt.\nAppellant objected unsuccessfully to the change in goal.\nOn February 27, 2006, the District moved in the neglect cases to terminate appellant\u2019s parental rights, and on March 29, 2006, A.O.T. filed petitions to adopt I.R., M.R., and Ne.R. By court order, the adoption cases were consolidated with the neglect cases and were assigned to Magistrate Judge Fentress.\nAppellant moved to have the adoption and termination of parental rights (\u201cTPR\u201d) trial reassigned to a Superior Court associate judge. He argued that reassignment was required under Family Court General Rule D(c) and D.C.Code \u00a7 11-1732(j)(5) (Supp.2010), which provide that a magistrate judge may not conduct such proceedings without the parties\u2019 consent, and under Canon 3(E)(1) of the Code of Judicial Conduct, which requires a judge to recuse herself when her impartiality reasonably might be questioned. Appellant declared that he did not consent to have Magistrate Judge Fentress preside over the adoption and TPR trial because he had reason to believe she had \u201cpre-judged the case.\u201d As appellant explained, he perceived that when she decided in November 2005 to change the permanency goal in the neglect cases to adoption over his objection,\nthe current Magistrate Judge ... determined, based upon information she received from various sources, that it would be in the best interest of the children if they were adopted by them current foster parent. The issue of whether it is in the best interests of the children to be adopted is the central issue to be litigated. Therefore, there is the appearance that the present judicial officer has pre-judged the case, having already ruled on this issue\nIn the neglect cases, appellant also claimed, the magistrate judge had \u201cheard, and accepted as true,\u201d unreliable hearsay evidence that was \u201chighly prejudicial\u201d to him. \u201cGiven this imbalance at the outset of trial,\u201d appellant concluded, \u201cit is only fair that a new judge be assigned to hear the case.\u201d\nMagistrate Judge Fentress denied appellant\u2019s motion, finding \u201cno binding authority that justifies certification of these cases to an Associate Judge.\u201d Appellant petitioned the Presiding Judge of the Family Court, Judge Anita Josey-Herring, to review that decision. Although she ruled that the appeal was premature, Judge Josey-Herring also opined that the party-consent requirement applicable to magistrate judges generally by virtue of \u00a7 ll-1732(j)(5) had been superseded by the enactment of D.C.Code \u00a7 11-1732A (Supp.2010) in the District of Columbia Family Court Act of 2001. Section 11-1732A sets forth \u201c[sjpecial rules for magistrate judges of the Family Court of the Superior Court and the Domestic Violence Unit.\u201d Specifically, in contrast to \u00a7 11\u2014 1732(j)(5), \u00a7 11-1732A (d)(2) empowers magistrate judges to conduct proceedings in Family Court without conditioning their authority to do so on the parties\u2019 consent. Judge Josey-Herring did not address the impact of \u00a7 11-1732A (d)(2) on Family Court General Rule D(c), however.\nIn August 2007, the adoption and TPR trial was held before Magistrate Judge Fentress, who ultimately found it in the children\u2019s best interests to waive the parental consents and grant A.O.T.\u2019s petition to adopt I.R., M.R., and Ne.R. On review, Judge Josey-Herring affirmed that decision. In doing so, the judge reaffirmed her earlier conclusion that consent of the parties was not required for the magistrate judge to conduct the proceedings.\nII.\nWhether Magistrate Judge Fentress was authorized to preside over the adoption trial without appellant\u2019s consent turns on whether Congress overrode the consent requirement of Family Court General Rule D(c) when it passed the District of Columbia Family Court Act of 2001. The Superior Court has not amended or revoked Rule D(c) in the several years that legislation has been on the books. If the Rule is irreconcilable with the Family Court Act, however, the Rule cannot prevail. On the other hand, if the Rule is compatible with the legislation, appellant was entitled to invoke it. The question concerns two provisions added by the Act to the D.C.Code: \u00a7 11-1732A (d)(2), which specifies the authority of magistrates to conduct proceedings in the Family Court, and \u00a7 11-1104, which imposes the \u201cone family, one judge\u201d requirement for Family Court cases. As the issue before us is one of statutory interpretation, our review is de novo.\nWe agree with appellant that Rule D(c) does not conflict with \u00a7 11-1732A (d)(2). The Rule, promulgated years before the Family Court Act, implemented the requirement in D.C.Code \u00a7 ll-1732(j)(5) that magistrate judges generally must have the parties\u2019 consent in order to conduct trials and other proceedings in Superior Court (including its Family Division). Congress chose to exempt magistrate judges in Family Court from that statutory restriction when it enacted \u00a7 11-1732A (d)(2) as part of the Family Court Act. Its evident purpose in doing so was to enable magistrate judges to shoulder much of the burden of the Family Court\u2019s caseload (particularly its child abuse and neglect docket). Nonetheless, it does not follow from the omission in \u00a7 11-1732A (d)(2) of a statutory party-consent requirement that Congress meant to foreclose the Superior Court from adopting (or, as happened, retaining) such a requirement by court rule. The statute\u2019s silence on the necessity for party consent to magistrate judge trials in Family Court is some indication that Congress was satisfied, in the interests of preserving the Court\u2019s flexibility, to leave the latter question ultimately to the Court\u2019s discretion, as exercised via its rule-making power. As part of the Family Court Act, Congress reaffirmed in subsection (n) of \u00a7 11-1732 (the original magistrate judge statute) that the Superi- or Court Board of Judges \u201cmay promulgate rules, not inconsistent with the terms of this section [i.e., \u00a7 11-1732], which are necessary for the fair and effective utilization of magistrate judges in the Superior Court.\u201d (Emphasis added.) It is not suggested that Rule D(c) is beyond the Superior Court\u2019s power under \u00a7 ll-1732(n), and nothing in \u00a7 11-1732A expressly purports to countermand or limit that power. Rather, as appellant emphasizes, \u00a7 11\u2014 1732A (d)(2) provides (repeatedly) that the Family Court magistrate judge\u2019s adjudicative authority is \u201csubject to the rules of the Superior Court.\u201d Given that specific language, we are hard pressed to find a clear contradiction between \u00a7 11-1732A (d)(2) and Rule D(c). We have been given no reason to believe that the party-consent requirement in the Rule has, in practice, impeded the statutory goal of maximizing the use of magistrate judges to conduct Family Court proceedings, or that it is likely to do so in the future.\nWe likewise conclude that Rule D(e) is compatible with D.C.Code \u00a7 11-1104. The statute embodies a core policy of the Family Court Act of 2001 \u2014 that \u201c[t]o the greatest extent practicable, feasible, and lawful,\u201d all cases involving members of the same family \u201cshall be assigned to the same judge or magistrate judge\u201d in Family Court. We perceive no fundamental tension between that statutory policy and the choice afforded by Rule D(c). A Superior Court associate judge who hears a family matter (because a litigant has exercised the option not to consent to trial before a magistrate judge) can continue to hear other related matters, fulfilling the \u201cone family, one judge\u201d goal. The statute expresses a policy in favor of there being one decision-maker, but it does not express a preference for magistrate judges over associate judges. The potential for a rule of court permitting parties to withhold consent to the assignment of their cases to magistrate judges to undercut the \u201cone family, one judge\u201d policy arises only when there exists a related case that already has been decided by, or that already is pending before, a magistrate judge. Even then, it often may be possible to avoid or alleviate any conflict between the right granted by Rule D(c) and the statutory policy by reassigning the pending related case to an associate judge or by assigning the new case to the same associate judge who would review (or has reviewed) the magistrate judge\u2019s decision in the related case pursuant to D.C.Code \u00a7 ll-1732(k). (Possibly the latter course could have been followed here.)\nMoreover, the \u201cone family, one judge\u201d policy is not absolute or mondad. There are countervailing considerations. The Rule recognizes that a litigant may have many valid reasons to seek adjudication by an associate judge rather than a magistrate judge. And by its terms, \u201cone family, one judge\u201d is not to be followed if it would be impracticable, infeasible, or unlawful to do so. Illustratively, in his testimony before Congress, then-Chief Judge King envisioned limitations required as a matter of due process: \u201cFor example,\u201d he said, \u201ca termination [of parental rights] trial might require a judge who had not spent years listening [in related neglect proceedings] to hearsay and hearing third-hand comments from social workers about other family members, and so on, just to give the elements of a fair trial in the termination process.\u201d In addition, D.C.Code \u00a7 ll-1104(b)(3) specifically provides that compliance with the \u201cone family, one judge\u201d policy is \u201csubject to applicable standards of judicial ethics.\u201d Notably, under Canon 3(E)(1), on which appellant relied in this case, the \u201cone family, one judge\u201d rule must give way if the judge\u2019s impartiality \u201cmight reasonably be questioned.\u201d In short, considerations of adjudicative fairness and judicial impartiality may override \u201cone family, one judge.\u201d\nOn the record before us, appellant\u2019s stated reason for withholding his consent to the magistrate judge\u2019s conduct of the adoption trial was fully consistent with \u00a7 ll-1104(b)(3) and the overriding goal of ensuring a fair trial before an impartial trier of fact. There is no reason to believe that appellant\u2019s stated reason was pretextual. We cannot conclude that appellant misused Rule D(c) to thwart the appropriate sweep of the \u201cone family, one judge\u201d policy.\nFurthermore, we have no data indicating the frequency with which litigants object to magistrate judges in Family Court, let alone how often they do so in a manner that undermines the objective of the \u201cone family, one judge\u201d requirement. In the absence of such information, we think it fair to assume that litigants generally do not seek to evade the \u201cone family, one judge\u201d regime. So far as appears, in other words, the tension between the Rule and the \u201cone family, one judge\u201d requirement is more theoretical than real. We therefore cannot find that Rule D(c) is incompatible with D.C.Code \u00a7 11-1104.\nIII.\nWe conclude that under D.C.Code \u00a7 11-1732A (d)(2) and Family Court General Rule D(c), Magistrate Judge Fentress lacked authority to conduct the adoption and TPR trial without appellant\u2019s consent. Because appellant lodged an objection, we must vacate the judgment and remand the cases for a new trial before an associate judge of the Family Court.\nSo ordered.\n. As a result, we do not reach appellant\u2019s other claims of error on the part of the trial court.\n. Appellant was released in June 2006, after approximately sixteen months of incarceration.\n. D.C.Code \u00a7 16-2301 (9)(A) (Supp.2010) defines the term \"neglected child\u201d to mean, inter alia, a child:\n(ii) who is without proper parental care or control, subsistence, education as required by law, or other care or control necessary for his or her physical, mental, or emotional health, and the deprivation is not due to the lack of financial means of his or her parent, guardian, or custodian; [or]\n(iii) whose parent, guardian, or custodian is unable to discharge his or her responsibilities to and for the child because of incarceration, hospitalization, or other physical or mental incapacity!.]\n. As implemented in District law, the federal Adoption and Safe Families Act (\u201cASFA\u201d) timelines referenced in the magistrate judge's order presumptively require the District to move to terminate the parent and child relationship if the child \"has been in court-ordered custody under the responsibility of the District for 15 of the most recent 22 months.\u201d D.C.Code \u00a7 16 \u2014 2354(b)(3)(A) (Supp.2010); see also 42 U.S.C. \u00a7 675(5)(E) (2006). Appellant contends the magistrate judge erred in concluding that the District would have to move to terminate his parental rights before the anticipated end of his incarceration, or that grounds existed to justify the change in goal. We need not settle those questions in this appeal.\n. TPR and adoption proceedings are within the purview of General Rule D(c) and D.C.Code \u00a7 11-1732(j)(5). In pertinent part, the Rule provides as follows:\n(c) Other Family Division Proceedings. With the consent of the parties, and subject to the other provisions of this Rule, a hearing commissioner may conduct proceedings in any other contested or uncontested matter in the Family Division, excluding jury trials and felony juvenile trials. In these proceedings, the hearing commissioner may make findings and enter final orders or judgments which shall constitute final orders or judgments of the Superior Court.\nSuper. Ct. Gen. Fam. R. D(c). (General Rule D employs the outdated terms \"hearing commissioner\u201d and \"Family Division\u201d instead of \"magistrate judge\u201d and \u201cFamily Court,\u201d because it predates the District of Columbia Family Court Act of 2001, which changed the terminology throughout the District of Columbia Code. See Pub.L. No. 107-114, 115 Stat. 2100, 2113-14, \u00a7\u00a7 2, 5 (Jan. 8, 2002).)\nSection (j) of D.C.Code \u00a7 11-1732 similarly provides in pertinent part that a properly designated magistrate judge \"may perform the following functions\u201d:\n(5) Subject to the rules of the Superior Court and with the consent of the parties involved, make findings and enter final orders or judgments in other uncontested or contested proceedings, in the Civil, Criminal, and Family Divisions of the Superior Court, excluding jury trials and trials of felony cases.\n. See Code of Judicial Conduct for the District of Columbia Courts (1995) Canon 3(E)(1) (\"A judge shall disqualify himself or herself in a proceeding in which the judge's impartiality might reasonably be questioned....\").\n. Appellant did not identify the hearsay evidence to which he referred.\n. Only A.O.T., the adoption petitioner, responded to appellant\u2019s reassignment motion. A.O.T. disagreed that appellant had a right to \"revoke\u201d his supposed prior consent (in the neglect cases) to proceed before Magistrate Judge Fentress. Nonetheless, recognizing that appellant \"would almost certainly\u201d obtain review by a Family Court associate judge anyhow if the magistrate judge granted the adoption petitions, see D.C.Code \u00a7 1 l-1732(k) (Supp.2010), A.O.T. took \"no stand\u201d on whether appellant\u2019s motion should be granted. The District and the guardian ad litem likewise did not oppose reassignment.\nIn this court, no appellee has pressed the argument A.O.T. made below, that appellant could not \"revoke\u201d his initial (presumed) consent to proceed before Magistrate Judge Fen-tress at the outset of the neglect cases. We think the argument is not well-taken, if only because the adoption petitions commenced separate proceedings.\n. The magistrate judge also refused to recuse herself, stating that appellant had not complied with Superior Court Civil Rule 63-1 (requiring affidavits to disqualify a judge for bias or prejudice), and declaring that, in any case, grounds for recusal did not exist. Appellant has not challenged this ruling. We note, however, that while Civil Rule 63-1 does apply in neglect proceedings, see Super. Ct. Neglect R. 1(b), it is inapplicable in adoption proceedings. See Super. Ct. Adoption R. 1(b). Instead, recusal motions in adoption proceedings are governed by Adoption Rule 63, which differs materially from its counterpart in the Civil Rules. Adoption Rule 63 does not require an affidavit when a party moves for a judicial officer to recuse herself for reasons other than bias or prejudice arising from sources outside of the court proceedings in the pending case or prior cases. See Super. Ct. Adoption R. 63(b)(1), (2).\n. D.C.Code \u00a7 11-1732A (d)(2) provides:\n(d) Functions of family court and domestic violence unit magistrates. \u2014 A magistrate judge, when specifically designated by the chief judge in consultation with the appropriate presiding judge to serve in the Family Court or in the Domestic Violence Unit and subject to the rules of the Superior Court and the right of review under section 11 \u2014 1732(k), may perform the following functions:\n(2) Subject to the rules of the Superior Court and applicable Federal and District of Columbia law, conduct hearings, make findings and enter interim and final orders or judgments in uncontested or contested proceedings within the jurisdiction of the Family Court and the Domestic Violence Unit of the Superior Court (as described in section 11-1101), excluding jury trials and trials of felony cases, as assigned by the appropriate presiding judge.\n.Appellant also argues (for the first time on appeal) that Congress did not intend magistrate judges to handle adoption cases, but only neglect and abuse cases. We find no support for that contention in either the statute or its legislative history. D.C.Code \u00a7 11-1732A (d)(2) contains no such limitation.\n. See Flemming v. United States, 546 A.2d 1001, 1004 (D.C.1988) (holding provision of Superior Court rule void based on \"direct conflict\u201d with statute).\n. District of Columbia v. Cato Inst., 829 A.2d 237, 239 (D.C.2003).\n. Absent indications to the contrary, we normally infer that \"[wjhere the words of a later statute differ from those of a previous one on the same or [a] related subject, the Congress must have intended them to have a different meaning.\u201d Muscogee (Creek) Nation v. Hodel, 271 U.S.App.D.C. 212, 217, 851 F.2d 1439, 1444 (1988). The legislative history of the Family Court Act of 2001, though sparse with respect to the rationale, does appear to confirm that the omission of a party-consent requirement in \u00a7 11-1732A was intentional. The elimination of that requirement was proposed by the then-Chief Judge of the Superior Court in his submission to the House subcommittee considering the original Family Court bill. See Reform of the Family Division of the District of Columbia Superior Court\u2014Improving Services to Families and Children: Hearing Before the H. Subcomm. on the Dist. of Columbia, 107th Cong. 29 n. 3 (2001) (statement of Rufus King, III, Chief Judge, Superior Court of the Dist. of Columbia).\n. Cf. Gause v. United States, 6 A.3d 1247, 1253-54 (D.C.2010) (en banc).\n. That would be consistent with the decision to leave die necessity for appointing magistrate judges and designating them to the Family Court up to the Chief Judge of Superior Court in consultation with either die Board of Judges or the Presiding Judge of the Family Court. See D.C.Code \u00a7\u00a7 11-1732(a) (appointment), 11-1732A (d) (designation to Family Court).\n. Section 11\u20141732(j) similarly provides that magistrate judges may perform their functions \"subject to die rules of the Superior Court.\u201d In Canada v. Management Partnership, Inc., 618 A.2d 715, 717-18 (D.C.1993), we read the phrase as making \"clear that hearing commissioners [now magistrate judges] are to 'perform the ... functions' authorized by the statute ... in accordance with the Superior Court procedural rules that apply to the setting in which the case is heard.\u201d Based on Canada, the District argues that the \"rules\u201d referred to in the phrase \"subject to the rules of the Superior Court\u201d are only tire \"rules regarding the actual conduct of litigation, not rules regarding whether the magistrate judge has authority in the first place.\u201d Brief for the District of Columbia at 26. We disagree. The distinction drawn by the District is arbitrary and inconsistent with the broad grant of rule-making power in \u00a7 11-1732(n) discussed above, and it finds no support in Canada. We cautioned in that case that \u201d[w]e do not deal here with a Superior Court rule which expressly addresses the question of hearing commissioner jurisdiction and restricts or particularizes it in a given circumstance to an extent less than encompassed by the statute.\u201d 618 A.2d at 718 n. 9.\n. Two provisions of \u00a7 11-1104 are applicable here. Subsection (a) provides:\n(a) \u201cOne family, one judge\u201d requirement for cases and proceedings.- \u2014 To the greatest extent practicable, feasible, and lawful, if an individual who is a party to an action or proceeding assigned to the Family Court has an immediate family or household member who is a party to another action or proceeding assigned to the Family Court, the individual\u2019s action or proceeding shall be assigned to the same judge or magistrate judge to whom the immediate family member\u2019s action or proceeding is assigned.\nAnd subsection (b)(2)(B) similarly provides:\n(B) All cases involving an individual. \u2014 If an individual who is a party to an action or proceeding assigned to the Family Court becomes a party to another action or proceeding assigned to the Family Court, the individual's subsequent action or proceeding shall be assigned to the same judge or magistrate judge to whom the individual\u2019s initial action or proceeding is assigned to the greatest extent practicable and feasible.\nUnder either of these subsections, appellant\u2019s TPR and adoption cases were presumptively to be assigned to the magistrate judge in the neglect cases involving appellant\u2019s children.\n. Hearing, supra note 14, at 133 (emphasis added).\n. Section 11-1104(b)(3) provides:\n(3) Standards of judicial ethics. \u2014 -The actions of a judge or magistrate judge in retaining an action or proceeding under this paragraph shall be subject to applicable standards of judicial ethics.\n. The test is whether an \u201cobjective observer\u201d might reasonably question the judge\u2019s impartiality. See In re M.C., 8 A.3d 1215, 1222 (D.C.2010) (quoting Belton v. United States, 581 A.2d 1205, 1214 (D.C.1990), and Liljeberg v. Health Servs. Acquisition Corp., 486 U.S. 847, 861, 108 S.Ct. 2194, 100 L.Ed.2d 855 (1988)). \"Neither bias in fact nor actual impropriety is required to violate the Canon.\u201d Scott v. United States, 559 A.2d 745, 749 (D.C. 1989) (en banc).\n. We express no view on the merits of appellant\u2019s stated objections to Magistrate Judge Fentress. The question of whether she should have recused herself pursuant to Canon 3(E)(1) is not before us.\n. See, e.g., Mark I, Inc. v. Gruber, 38 F.3d 369, 370 (7th Cir.1994) (explaining that, under the federal magistrate judge statute, 28 U.S.C. \u00a7 636(c), \"the whole proceeding before the magistrate judge may be set at naught\u201d if it was conducted without all parties\u2019 consent).",
+        "type": "majority",
+        "author": "GLICKMAN, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Joy Aceves-Amaya, Student Attorney, with whom Tanya Asim Cooper, Supervising Attorney, and Sarah Mir and Robert Maxwell, Student Attorneys, were on the brief, for appellant.",
+      "Deborah Cason Daniel, was on the brief for appellee A.O.T.",
+      "Thomas P. O\u2019Toole, filed a statement in lieu of brief for appellee L.B.",
+      "Kristen Pisani, filed a brief for appellee guardian ad litem for I.R., M.R., and Ne.R.",
+      "Sonia I. Ignatova, Special Assistant Attorney General, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, Donna M. Murasky, Deputy Solicitor General, and Stacy L. Anderson, Assistant Attorney General, were on the brief, for the District of Columbia."
+    ],
+    "corrections": "",
+    "head_matter": "In re Petition of A.O.T. Nl.R., Appellant.\nNos. 09-FS-994, 09-FS-995, 09-FS-996.\nDistrict of Columbia Court of Appeals.\nArgued Jan. 28, 2010.\nDecided Dec. 23, 2010.\nJoy Aceves-Amaya, Student Attorney, with whom Tanya Asim Cooper, Supervising Attorney, and Sarah Mir and Robert Maxwell, Student Attorneys, were on the brief, for appellant.\nDeborah Cason Daniel, was on the brief for appellee A.O.T.\nThomas P. O\u2019Toole, filed a statement in lieu of brief for appellee L.B.\nKristen Pisani, filed a brief for appellee guardian ad litem for I.R., M.R., and Ne.R.\nSonia I. Ignatova, Special Assistant Attorney General, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, Donna M. Murasky, Deputy Solicitor General, and Stacy L. Anderson, Assistant Attorney General, were on the brief, for the District of Columbia.\nBefore RUIZ and GLICKMAN, Associate Judges, and TERRY, Senior Judge."
+  },
+  "file_name": "0160-01",
+  "first_page_order": 194,
+  "last_page_order": 201
+}

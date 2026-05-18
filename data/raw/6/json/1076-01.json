@@ -1,0 +1,112 @@
+{
+  "id": 7289792,
+  "name": "John J. MIRAVICH and Patricia J. Miravich, Sue Davis-Haas, Richard H. Haas, Ida C. Smith, Zildia Perez, Leon Perez, Donna Galczynski, Kevin Galczynski, Alan Ganas, Renee Froelich, and Scott Matthews, Appellants v. TOWNSHIP OF EXETER, Berks County, Pennsylvania",
+  "name_abbreviation": "Miravich v. Township of Exeter",
+  "decision_date": "2010-10-28",
+  "docket_number": "",
+  "first_page": "1076",
+  "last_page": "1080",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1076"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "636 A.2d 231",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7355865,
+        1456443
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/636/0231-01",
+        "/pa-commw/161/0052-01"
+      ]
+    },
+    {
+      "cite": "471 A.2d 119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "709 A.2d 999",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11842170
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1003"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/709/0999-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 555,
+    "char_count": 10396,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 1.3255443293012065e-07,
+      "percentile": 0.6277003022183919
+    },
+    "sha256": "2020d9cb54d74797bc2d2d93cfc310f25f4a7fb76a3db2177219c2dbbbeb8fe8",
+    "simhash": "1:d4636230227d289f",
+    "word_count": 1693
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "John J. MIRAVICH and Patricia J. Miravich, Sue Davis-Haas, Richard H. Haas, Ida C. Smith, Zildia Perez, Leon Perez, Donna Galczynski, Kevin Galczynski, Alan Ganas, Renee Froelich, and Scott Matthews, Appellants v. TOWNSHIP OF EXETER, Berks County, Pennsylvania."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY appeal from the order of the Court of Common Pleas of Berks County, dismissing their land use appeal. The Protestants, who own land adjacent and near to a proposed 34-lot development on land owned by Intervener Metrodev V (Landowner), appealed from the approval by the Exeter Township (Township) Board of Supervisors (Board) of the Preliminary Subdivision and Land Development application for 26 of the lots in question. Common pleas held that the Protestants lacked standing to appeal the Township\u2019s approval. We reverse.\nPresident Judge LEADBETTER.\nJohn J. and Patricia J. Miravieh, Sue Davis-Haas, Richard H. Haas, Ida C. Smith, Zildia and Leon Perez, Donna and Kevin Galczynski, Alan Ganas, Renee Froelieh and Scott Matthews (Protestants)\nIn 2005, the Metropolitan Development Group (Developer) submitted an application for Preliminary Subdivision and Land Development approval of the lots in question. The application was considered by the Township at a number of meetings of the Township Planning Commission, and at one meeting of the Board, and was approved by the Board in 2008. Minutes were taken at each of these meetings, but no verbatim transcript was produced. There is no indication in the record, or in the arguments of the parties, that the Protestants received notice of these meetings, nor is there any indication that they attended any.\nWithin 30 days of the Board\u2019s approval, Protestants filed the instant land use appeal with common pleas. Landowner intervened, and moved that Protestants be required to file a bond, pursuant to Section 1003-A(d) of the Municipalities Planning Code (MPC), 53 P.S. \u00a7 11003-A(d). Landowner and Protestants filed briefs on the issue of the bond request, and nearly a year passed. Subsequently, the Township, in its first substantive filing in the ease, filed a motion to dismiss, arguing that the Protestants lacked standing because they failed to appear in the proceedings below. Common pleas granted the motion, and an appeal to this court followed.\nOn appeal, the Protestants argue that the Township waived their objection to standing by not raising the issue immediately and that common pleas erred in finding that Protestants lacked standing. Because we find that the Protestants have standing, we need not reach the waiver issue.\nCommon pleas held that the Protestants lack standing because they had not appeared before the Board or the Planning Commission. Common pleas noted that it was unable to locate any caselaw dealing with the standing of protestants to appeal from approval of subdivision plans by the Board, and instead relied on cases analyzing appeals from decisions of a Zoning Hearing Board (ZHB). These cases make clear that one who does not appear or object on the record before a ZHB does not have standing to appeal the ZHB\u2019s decision to common pleas. For instance, in Leoni v. Whitpain Township Zoning Hearing Board, 709 A.2d 999 (Pa.Cmwlth. 1998), this court noted that: \u201c[RJegardless of whether an individual is a \u2018person aggrieved,\u2019 that person must nonetheless appear or at least raise some objection before the [zoning hearing] Board in order to have standing to advance an objection on appeal.\u201d Id. at 1003.\nAs is apparent from this statement, standing as discussed in Leoni comprises two concepts. The first is substantive standing, which looks to whether the putative litigant has a sufficient interest in the outcome of the litigation to be allowed to participate. This facet of standing\u2014 whether one has an interest that is direct, immediate and substantial \u2014 is required at all levels of proceedings, and in the context of standing to appeal is generally described as whether one is \u201caggrieved\u201d by the decision sought to be reviewed. The other aspect of standing, the one at issue both here and in Leoni, is procedural in nature, i.e., whether one has asserted his right to participate sufficiently early. This inquiry involves a balancing of the interests of judicial economy and those of due process. Objections must be stated in sufficient time that they can be heard without duplicative hearings, but not until potential objectors have sufficient notice of the proceedings that it is reasonable to expect them to assert their rights. For the reasons which follow, we hold that it was error for common pleas to apply the Leoni procedural rule of standing to this case.\nSection 909.1 of the MPC, 53 P.S. \u00a7 10909.1, determines which local bodies have jurisdiction over various types of land use disputes. Section 909.1(a) lists the disputes heard by the ZHB, while 909.1(b)(2) makes clear that the \u201cgoverning body,\u201d a term that in this case refers to the Board of Supervisors, has jurisdiction over approval of subdivisions and land development. While appeals from both Supervisors\u2019 and ZHB decisions are governed by the same provision, Section 1002-A, 53 P.S. \u00a7 11002-A, the procedures at the board level are so different that applying the same procedural standing rules to such appeals is inappropriate.\nThe conduct of ZHB hearings is governed by Section 908 of the MPC, 53 P.S. \u00a7 10908, which includes numerous procedural requirements, some of which will be noted briefly here. Public notice as well as a written notice posted on the affected tract of land is required before a hearing. Section 908(1). At the hearing, all parties have the right to be represented by counsel, and to present evidence and arguments. Section 908(5). A stenographic record must be kept of the proceedings. Section 908(7). The MPC also includes a mechanism for determining who is a party before the ZHB, stating:\nThe parties to the hearing shall be the municipality, any person affected by the application who has made timely appearance of record before the board, and any other person including civic or community organizations permitted to appear by the board. The board shall have power to require that all persons who wish to be considered parties enter appearances in writing on forms provided by the board for that purpose.\nSection 908(3). Generally, the MPC provides that ZHB hearings are on the record, and with prescribed rules and procedures.\nIn contrast, the MPC places virtually no procedural requirements on a Board of Supervisors considering subdivisions and land development proposals. In fact, the statute makes clear that public hearings themselves are not required. Section 508(5) of the MPC, 53 P.S. \u00a7 10508(5) (\u201cBefore acting on any subdivision plat, the governing body or the planning agency, as the case may be, may hold a public hearing thereon after public notice\u201d) (emphasis added); Edwards Eng\u2019g Corp. v. Davies, 80 Pa.Cmwlth. 47, 471 A.2d 119 (1984).\nAgainst this background, it is clear why the rule requiring an appearance before the ZHB before a party is granted standing in a zoning appeal does not extend to appeals from subdivision and land development decisions. In the zoning context, there is a hearing preceded by notice, a formal definition of who can be a party at that hearing, a record and a mechanism for making a formal appearance. Leoni, 709 A.2d 999. Thus, the rule that those who may wish to be parties to a subsequent appeal are required to appear at the ZHB hearing serves both judicial economy and is fair to all interested parties. However, because similar procedural protections are not required in subdivision and land development proceedings, it would be manifestly unfair, if not a denial of due process, to impose such a stringent rule as a prerequisite to subdivision and land development appeals.\nHad the Board voluntarily followed the procedures required of a ZHB and provided notice and a hearing on the record with a clear procedure for entering an appearance, we would agree with common pleas that Protestants were required to meet both the standards set out in Leoni in order assert their objections oil appeal. However, because the Board provided none of these procedural protections, we hold that the only applicable standing requirement is substantive, ie., whether Protestants are \u201cpersons aggrieved.\u201d See In re Application of Rouse & Assoc. Ship Road Land Ltd. Partnership, 161 Pa. Cmwlth. 52, 636 A.2d 231 (1993). It is well-established that adjacent property owners have substantive standing to object to subdivision plans both before the governing body and in land use appeals to common pleas. Id. For this reason, we must reverse and remand for further proceedings on Protestants\u2019 appeal.\nORDER\nAND NOW, this 28th day of October, 2010, the order of the Court of Common Pleas of Berks County in the above-captioned matter is hereby REVERSED, and the matter is REMANDED for further proceedings not inconsistent with this opinion.\nJurisdiction relinquished.\n. The remaining eight lots are outside the boundaries of Exeter Township and are not a subject of this litigation.\n. Developer is not a party to this litigation. Landowner asserts that Developer was acting as its agent in filing the application, an assertion that the Protestants appear to dispute. As no party disputes that the Landowner has standing to participate in this appeal, this dispute has no bearing on this phase of the litigation.\n.Act of July 31, 1968, P.L. 805, as amended. Section 1003-A was added by the Act of December 21, 1988, P.L. 1329.\n. Common pleas cites Ryan, Pennsylvania Zoning Law and Practice, \u00a7 11.2.5 (Supp. 2009) for the proposition that the rules of standing are the same before both the ZHB and the Board of Supervisors. However, that section of the treatise deals with practice before these boards, which is the first place an objection could be formally asserted, and relates to substantive standing rather than the procedural issue involved here.\n. Added by the Act of December 21, 1988, P.L. 1329.\n. Added by the Act of December 21, 1988, P.L. 1329.",
+        "type": "majority",
+        "author": "President Judge LEADBETTER."
+      }
+    ],
+    "attorneys": [
+      "John J. Miravieh, Exton, for appellants.",
+      "John J. Mahoney, Chester Springs, for appellee, Township of Exeter.",
+      "Michael A. Setley, Wyomissing, for ap-pellee, Metrodev V, LP."
+    ],
+    "corrections": "",
+    "head_matter": "John J. MIRAVICH and Patricia J. Miravich, Sue Davis-Haas, Richard H. Haas, Ida C. Smith, Zildia Perez, Leon Perez, Donna Galczynski, Kevin Galczynski, Alan Ganas, Renee Froelich, and Scott Matthews, Appellants v. TOWNSHIP OF EXETER, Berks County, Pennsylvania.\nCommonwealth Court of Pennsylvania.\nArgued Sept. 13, 2010.\nDecided Oct. 28, 2010.\nJohn J. Miravieh, Exton, for appellants.\nJohn J. Mahoney, Chester Springs, for appellee, Township of Exeter.\nMichael A. Setley, Wyomissing, for ap-pellee, Metrodev V, LP.\nBEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "1076-01",
+  "first_page_order": 1122,
+  "last_page_order": 1126
+}

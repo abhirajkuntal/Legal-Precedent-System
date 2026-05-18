@@ -1,0 +1,569 @@
+{
+  "id": 7290373,
+  "name": "David KISSI, Appellant, v. Hugh G. HARDESTY, Appellee",
+  "name_abbreviation": "Kissi v. Hardesty",
+  "decision_date": "2010-08-13",
+  "docket_number": "No. 09-CV-648",
+  "first_page": "1125",
+  "last_page": "1132",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 1125"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "285 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064389
+      ],
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/285/0310-01"
+      ]
+    },
+    {
+      "cite": "734 A.2d 1077",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11549196
+      ],
+      "pin_cites": [
+        {
+          "page": "1081"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/734/1077-01"
+      ]
+    },
+    {
+      "cite": "702 F.2d 1189",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1848027,
+        3642389
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/702/1189-01",
+        "/us-app-dc/227/0001-01"
+      ]
+    },
+    {
+      "cite": "227 U.S.App.D.C. 1",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3642389
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/227/0001-01"
+      ]
+    },
+    {
+      "cite": "574 F.3d 781",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3676109,
+        3542886
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "786"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/574/0781-01",
+        "/us-app-dc/387/0420-01"
+      ]
+    },
+    {
+      "cite": "387 U.S.App.D.C. 420",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3542886
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/387/0420-01"
+      ]
+    },
+    {
+      "cite": "963 F.2d 453",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11298913,
+        3498484
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/963/0453-01",
+        "/us-app-dc/295/0350-01"
+      ]
+    },
+    {
+      "cite": "295 U.S.App.D.C. 350",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3498484
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/295/0350-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1746",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "352 F.2d 711",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3652882,
+        851263
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "714"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/352/0711-01"
+      ]
+    },
+    {
+      "cite": "122 U.S.App.D.C. 235",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3652882
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "998 A.2d 286",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7286028
+      ],
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/998/0286-01"
+      ]
+    },
+    {
+      "cite": "736 A.2d 977",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11578663
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "981"
+        },
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/0977-01"
+      ]
+    },
+    {
+      "cite": "412 F.2d 1091",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2187469
+      ],
+      "weight": 6,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "1094"
+        },
+        {
+          "page": "1094"
+        },
+        {
+          "page": "1094"
+        },
+        {
+          "page": "1094"
+        },
+        {
+          "page": "1093"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/412/1091-01"
+      ]
+    },
+    {
+      "cite": "134 U.S.App.D.C. 44",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "weight": 5,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "47"
+        },
+        {
+          "page": "47"
+        },
+        {
+          "page": "47"
+        },
+        {
+          "page": "47"
+        },
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "957 A.2d 23",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8204585
+      ],
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/957/0023-01"
+      ]
+    },
+    {
+      "cite": "785 A.2d 647",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9459403
+      ],
+      "pin_cites": [
+        {
+          "page": "650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/785/0647-01"
+      ]
+    },
+    {
+      "cite": "393 F.3d 201",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9169809,
+        3435461
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/393/0201-01",
+        "/us-app-dc/364/0178-01"
+      ]
+    },
+    {
+      "cite": "364 U.S.App.D.C. 178",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3435461
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/364/0178-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 320",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11469001
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0320-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 752",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294597
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "757"
+        },
+        {
+          "page": "762-63",
+          "parenthetical": "holding that where plaintiff suffers injury in the District as a result of tortious conduct outside the forum, the required nexus is met and the in-forum conduct in the District required by statute is considered a \"plus factor\" and need not be related to the claim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/0752-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 1103",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293749
+      ],
+      "pin_cites": [
+        {
+          "page": "1105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/1103-01"
+      ]
+    },
+    {
+      "cite": "779 A.2d 264",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9490287
+      ],
+      "pin_cites": [
+        {
+          "page": "269-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/779/0264-01"
+      ]
+    },
+    {
+      "cite": "592 A.2d 1038",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7378632
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1040"
+        },
+        {
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/592/1038-01"
+      ]
+    },
+    {
+      "cite": "408 A.2d 31",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7955157
+      ],
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/408/0031-01"
+      ]
+    },
+    {
+      "cite": "589 A.2d 918",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11294962
+      ],
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/589/0918-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 1217",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297475
+      ],
+      "pin_cites": [
+        {
+          "page": "1222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/1217-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 925,
+    "char_count": 22256,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.31883576996187807
+    },
+    "sha256": "0e4cddf3561f7411b68e07ab8a4ba8dd98511923339acf59a5751d1fa50d9f09",
+    "simhash": "1:be0f9da8914d8561",
+    "word_count": 3487
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUIZ, FISHER, and THOMPSON, Associate Judges."
+    ],
+    "parties": [
+      "David KISSI, Appellant, v. Hugh G. HARDESTY, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "RUIZ, Associate Judge:\nAppellant, David Kissi, challenges the Superior Court\u2019s grant of summary judgment dismissing his complaint for lack of personal jurisdiction over appellee. For the reasons that follow, we affirm.\nI. Facts\nAppellant, a District of Columbia resident, is proceeding pro se and was incarcerated in Lisbon, Ohio, during part of these proceedings. It is undisputed that on September 7, 2000, appellant\u2019s company, DK & R Company (\u201cDK & R\u201d), which is incorporated in Delaware, filed for bankruptcy in the United States Bankruptcy Court for the District of Maryland and that on September 23, 2003, two Maryland condominium units owned by. DK & R were sold to Morgan Investments, L.L.C. (\u201cMorgan Investments\u201d) as part of the bankruptcy proceedings. The condominium units are located in the Riggs Hill Condominium in Jessup, Maryland.\nOn September 27, 2008, appellant filed a complaint alleging that appellee, Hugh Hardesty, and the Riggs Hill Condominium Association converted his personal property at the Riggs Hill Condominium in Maryland and filed a \u201cfalse condo fee claim\u201d against appellant. Appellant\u2019s complaint refers to appellee and Riggs Hill as a single \u201cdefendant\u201d and states that they share the same address: \u201c10630 Riggs Hill Rd., V & W, Jessup, MD 20794.\u201d The complaint asserts that the Superior Court \u201chas jurisdiction because Plaintiff is a D.C. resident and also worked in D.C. prior to his incarceration. And members of the Riggs Hill Condo Association have D.C. ties. At least some do business in D.C. and have D.C. bank accounts.\u201d\nAppellee filed a motion to dismiss asserting lack of subject matter and personal jurisdiction, statute of limitations bar, failure to state a claim, and failure to join necessary parties. In the motion, appellee states that he is \u201cpart-owner\u201d of Morgan Investments, L.L.C., the entity that purchased appellant\u2019s Riggs Hill Condominium units from the bankruptcy trustee for DK & R. Appellee also submitted an affidavit in which he asserts that he is a resident of Maryland, does not own property in the District, and that:\n[He] work[s] for a corporation (which [he] own[s]) which is located in Maryland (not Washington, D.C.) and does business only infrequently in D.C. The contracting projects (for [his] business) which do occur from time to time in Washington, D.C. have absolutely nothing whatsoever to do with the Plaintiff in the above-captioned action, or his alleged personal property, or any alleged taking.\nThe affidavit also states that appellee is not an officer of the Riggs Hill Condominium Association.\nAppellant filed an opposition to the motion to dismiss, requesting that the court \u201chelp [appellant] enforce Discovery and compel all the Defendants to respond to [appellant\u2019s] request for interrogatories so that [appellant] can demonstrate jurisdictional facts to prove this court is the proper forum.\u201d Appellant, however, did not file any interrogatories.\nThe trial judge (Judge Beck) denied ap-pellee\u2019s motion without prejudice and gave appellant leave to reformulate and clarify his claims in an amended complaint. The Superior Court\u2019s order states, in relevant part:\nThe amended complaint shall set forth in greater detail the basis for Plaintiffs complaint and for this court\u2019s jurisdiction. For example, because there are multiple defendants, Plaintiff should not simply refer to actions by \u201cDefendant\u201d but instead should be clear about which Defendant did the specific actions set forth in his complaint. He also should describe where and when the activities about which he complains occurred. And he should describe with specificity why this court has personal jurisdiction over each of the Defendants, especially if the conduct about which Plaintiff complains occurred in Maryland. In addition Plaintiff shall set forth in the Complaint detailed information that will enable the court to assist with service of process on the Riggs Hill Condo Association.\n(Emphasis added.)\nAppellant subsequently filed an amended complaint claiming that, in addition to taking his personal property, the defendants \u201cconspired to take\u201d appellant\u2019s real property \u201cwithout compensation.\u201d The amended complaint names nine additional defendants, but does not clarify which defendant did the fraudulent actions alleged in the complaint or describe where and when the actions occurred. With regard to personal jurisdiction, the amended complaint states:\nAnd if Hugh Hardesty, a Defendant, were to raise a Federal Rules of Civil Procedure (FRCVP) Rule 12(b)(l-7) jurisdictional issue that this claim doesn\u2019t belong in this courtroom, then this court should hold a FRCVP Rule 12(1) hearing to afford all the Defendants a chance to come to the court to contest whether this is the proper forum or not.\nThereafter, appellee filed a motion for summary judgment, with a supporting affidavit and other documentation, in which he renewed his challenge to the complaint based on lack of personal jurisdiction. Appellant opposed the motion for summary judgment by filing an affidavit in which he asserted that members of Riggs Hill Condominium Association \u201cdo business in D.C., attend church, and have D.C. bank accounts and are also members of unions and trade organizations headquartered in D.C.\u201d There is no allegation in the affidavit that appellee, in his capacity as part owner of the entity that acquired the condominium units, is a member of the condominium association.\nThe trial judge (Judge Long) granted appellee\u2019s motion for summary judgment, finding that appellant had failed to (1) clarify which defendants allegedly committed which actions, (2) present evidence to establish personal jurisdiction over the defendants, and (3) dispute that his claim was time-barred. Appellant\u2019s timely appeal followed.\nII. Standard of Review for Summary Judgment\n\u201cSummary judgment is appropriate only when there are no material facts in issue and it is clear that the movant is entitled to judgment as a matter of law.\u201d Carter v. District of Columbia, 980 A.2d 1217, 1222 (D.C.2009); see also Super. Ct. Civ. R. 56(c). Courts \u201clook to see if the moving party has met its burden of proving that no material fact remains in dispute, and ... whether the party opposing the motion has offered \u2018competent evidence admissible at trial showing that there is a genuine issue as to a material fact.\u2019\u201d Hill v. White, 589 A.2d 918, 921 (D.C.1991) (quoting Nader v. de Toledano, 408 A.2d 31, 48 (D.C.1979)).\n\u201cThis court must conduct an independent review of the record when reviewing a trial court\u2019s order granting summary judgment.\u201d Graff v. Malawer, 592 A.2d 1038, 1040 (D.C.1991). \u201cIn so doing, we determine whether any relevant factual issues exist by examining and taking into account the pleadings, depositions, and admissions along with any affidavits on file, construing such material in the light most favorable to the party opposing the motion.\u201d Id. (internal citation omitted); see also Super. Ct. Civ. R. 56(c).\nIII. Whether the Superior Court Has Personal Jurisdiction Over Appellee\nA District of Columbia court may assert personal jurisdiction over a foreign defendant if jurisdiction is authorized by statute and the exercise of jurisdiction is consistent with the due process clause. See, e.g., Holder v. Haarmann & Reimer Corp., 779 A.2d 264, 269-71 (D.C.2001). \u201cThe plaintiff bears the burden of proving that the court may establish personal jurisdiction over the defendant.\u201d Harris v. Omelon, 985 A.2d 1103, 1105 (D.C.2009).\nThe District of Columbia\u2019s long-arm statute sets forth two requirements for personal jurisdiction over a foreign defendant: (1) the \u201cdefendant must have engaged\u201d in one of the acts listed in section 13-423(a); and (2) the \u201cclaim for relief [must] aris[e] from acts enumerated in the statute,\u201d per section 13-423(b). Etchebarne-Bourdin v. Radice, 982 A.2d 752, 757 (D.C.2009) (quotations omitted).\nHere, appellant, a District of Columbia resident, claims injury resulting from appellee\u2019s alleged fraud and his conversion of appellant\u2019s real and personal property located in Maryland. The evidence of record is that appellee is a Maryland resident, does not own any D.C. property, and works for a Maryland corporation that he owns. While appellee admits in his affidavit that his Maryland company does projects \u201cfrom time to time in Washington, D.C.,\u201d he asserts that his business activities in the District have \u201cabsolutely nothing whatsoever to do with the plaintiff in [this] action, or his alleged personal property, or any alleged taking.\u201d Appellant has not disputed appellee\u2019s factual assertions.\nA. Subsections (a)(1) and (a)(2)\nAppellee\u2019s admission that he does occasional business \u201cprojects\u201d in the District does not justify the exercise of personal jurisdiction under subsections (a)(1) or (a)(2) of the District\u2019s long-arm statute because subsection (b) of the statute requires that appellant\u2019s claim for relief \u201caris[e] from\u201d these jurisdictional activities. See Shoppers Food Warehouse v. Moreno, 746 A.2d 320, 335 (D.C.2000) (\u201c[F]or the Superior Court to have jurisdiction over [a plaintiff\u2019s] claim, the claim ha[s] to be related to or substantially connected with [the defendant\u2019s] activity in the District.\u201d). Appellant does not allege that his claims arise from or are related to appellee\u2019s business activities in the District. Nor has appellant contested appel-lee\u2019s assertion that his business activities in the District have \u201cabsolutely nothing whatsoever to do with [appellant].\u201d Therefore, the facts of record do not justify the exercise of personal jurisdiction over appellee under either subsection (a)(1) or (a)(2) of the District\u2019s long-arm statute.\nB. Subsection (a)(3)\nSimilarly, appellant\u2019s allegation that ap-pellee fraudulently acquired his real property and converted his personal property \u2014 all located in Maryland \u2014 does not meet the requirements of subsection (a)(3), which allows the court to exercise personal jurisdiction over a foreign defendant who causes injury to a plaintiff in the District \u201cby an act or omission in the District.\u201d See D.C.Code \u00a7 13-423(a)(3) (2001).\nC. Subsection (a)(4)\nSubsection (a)(4) of the District\u2019s long-arm statute allows a court to exercise personal jurisdiction over a defendant who committed an act outside the District of Columbia that caused a \u201ctortious injury in the District\u201d if the defendant \u201cregularly does or solicits business, engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed, or services rendered\u201d in the District. D.C.Code \u00a7 13-423(a)(4) (2001); see Etchebarne-Bourdin, 982 A.2d at 762-63 (holding that where plaintiff suffers injury in the District as a result of tortious conduct outside the forum, the required nexus is met and the in-forum conduct in the District required by statute is considered a \u201cplus factor\u201d and need not be related to the claim). Appellant\u2019s complaint alleges that appellee committed a tortious act outside of the District and the assertion in appellee\u2019s affidavit that his Maryland company undertakes projects in the District \u201cfrom time to time\u201d could be understood as \u201cdo[ing] business\u201d in the District; we will assume so for present purposes. However, appellant\u2019s submissions do not contend that (much less explain how) the alleged conversion of his personal property and fraudulent taking of his real property in Maryland caused an injury in the District of Columbia. Appellant\u2019s bare assertion that he is a D.C. resident is not sufficient to establish that he suffered \u201ctortious injury\u201d in the District as a result of an alleged fraud or conversion that took place in Maryland. Without injury in the District, the Superior Court of the District of Columbia cannot exercise personal jurisdiction over appellee under subsection (a)(4). See Helmer v. Doletskaya, 364 U.S.App.D.C. 178, 186, 393 F.3d 201, 209 (2004) (finding no personal jurisdiction where the \u201coriginal events that caused the alleged injury to [the plaintiff] ... occurred] outside the District of Columbia,\u201d but the plaintiff, a D.C. resident, failed to show that the resulting fraud also caused injury to him \u201cin the District of Columbia\u201d).\nBecause appellant has failed either to assert necessary facts or to show that there is a disputed material fact relevant to personal jurisdiction under the District\u2019s long-arm statute, we conclude that summary judgment was properly granted.\nD. Appellant\u2019s Discovery Requests\nAppellant repeatedly requested discovery that might allow him to demonstrate that District of Columbia courts can exercise personal jurisdiction over appel-lee, and he appears to allege on appeal that the trial judge erred by not ordering such discovery. While this court has permitted reasonable discovery at the request of pro se plaintiffs whose claims face dismissal for lack of personal jurisdiction, at a minimum the plaintiff must allege some facts that would justify the exercise of jurisdiction. See Wilson v. Wilson, 785 A.2d 647, 650 (D.C.2001) (granting relief where plaintiffs allegations \u201cdemonstrate[d] a sufficient nexus between [the defendant] and the District of Columbia to justify discovery on whether personal jurisdiction over [the defendant] would comport with basic fairness\u201d). Here, other than saying he is a D.C. resident, appellant has not alleged a necessary fact\u2014injury suffered in the District of Columbia\u2014that is a prerequisite for the exercise of personal jurisdiction over appellee. Even though he asked for discovery, he did not in fact file interrogatories or request documents. Moreover, it is difficult to conceive why appellant would need discovery from ap-pellee in order to put forth a prima facie case that appellant suffered injury in the District. We therefore find that the trial judge\u2019s failure to order discovery was not an abuse of discretion. See, e.g., Clampitt v. Am. Univ., 957 A.2d 23, 28 (D.C.2008).\nIV. Appellant\u2019s Status as a Pro Se Plaintiff\nFinally, we note that appellant has repeatedly asserted, before this court and the Superior Court, that his claims should be \u201ctreat[ed] favorably\u201d because he is a pro se litigant. It has long been recognized that pro se litigants can face considerable challenges in prosecuting their claims without legal assistance, see, e.g., Hudson v. Hardy, 134 U.S.App.D.C. 44, 47, 412 F.2d 1091, 1094 (1968), and we are aware that appellant, in addition to representing himself, was incarcerated during some portion of these proceedings. In Hudson, the D.C. Circuit acknowledged that \u201cthe requirements of the summary judgment rule may not fairly be applied \u2018with strict literalness\u2019 to a prisoner unrepresented by counsel and subject to the \u2018handicaps ... detention necessarily imposes upon a litigant.\u2019 \u201d 134 U.S.App.D.C. at 47, 412 F.2d at 1094 (quoted in Mac-Leod v. Georgetown Univ. Med. Ctr., 736 A.2d 977, 981 (D.C.1999)); see also Padou v. District of Columbia, 998 A.2d 286, 292 (D.C.2010) (noting that \u201cwe have followed the District of Columbia Circuit in requiring trial judges to exercise special care with a pro se litigant in special circumstances\u201d). An incarcerated appellant \u201chas neither the facilities nor has he had the opportunity to provide the documentary evidence that would have been necessary, by ordinary standards, to defeat appellees\u2019 motion for summary judgment.\u201d Hudson, 134 U.S.App.D.C. at 47, 412 F.2d at 1094. Therefore, before dismissing an appellant\u2019s claim under Rule 56(b), \u201cas a bare minimum\u201d the trial court should provide the appellant \u201cwith fair notice of the requirements of the summary judgment rule.\u201d Id.\nThe record before us shows that appellant had a fair opportunity to present his claims to the court. Cf. Hudson, 134 U.S.App.D.C. at 47, 412 F.2d at 1094 (quoting Phillips v. United States Bd. of Parole, 122 U.S.App.D.C. 235, 238, 352 F.2d 711, 714 (1965)). The trial court gave appellant leave to plead a viable claim in an amended complaint and informed appellant that \u201che should describe with specificity why th[e] court has personal jurisdiction over each of the Defendants, especially if the conduct about which Plaintiff complains occurred in Maryland.\u201d Appellant did not include any further relevant information that established personal jurisdiction when he re-plead his claims. Moreover, when appellee opposed the amended complaint by filing a motion for summary judgment, appellant filed an opposition labeled, \u201cA 28 U.S.C. \u00a7 1746 Affidavit in Contesting Hardesty\u2019s Affidavit Combined with Opposition to Defendant\u2019s 56(a) Motion (Summary Judgment).\u201d Appellant\u2019s opposition contains numerous attachments which, although irrelevant to the issue of the court\u2019s personal jurisdiction over ap-pellee, do establish that he was apprised of the requirements of the summary judgment rule. Thus, this is not a case where a Rule 12(b)(6) motion to dismiss was treated as a Rule 56 motion for summary judgment without notice to appellant, cf. Hudson, 134 U.S.App.D.C. at 46, 412 F.2d at 1093; Neal v. Kelly, 295 U.S.App.D.C. 350, 352, 963 F.2d 453, 455 (1992), or where summary judgment was granted after the plaintiff failed to respond to the opposing party\u2019s motion for summary judgment. Cf. Malik v. District of Columbia, 387 U.S.App.D.C. 420, 425, 574 F.3d 781, 786 (2009).\nWe think that the trial court showed proper consideration for appellant\u2019s lack of formal legal training and circumstances, and we reiterate that, \u201cwhere a litigant is seeking a monetary award, we do not believe pro se status necessarily justifies special consideration ... [and] he cannot generally be permitted to shift the burden of litigating his case to the courts.... \u201d Mac-Leod, 736 A.2d at 979 (quoting Dozier v. Ford Motor Co., 227 U.S.App.D.C. 1, 6, 702 F.2d 1189, 1194 (1983)).\nThe judgment of the Superior Court of the District of Columbia is hereby\nAffirmed.\n. Specifically, the complaint alleges that Har-desty and Riggs Hill converted his \"furniture, PCs, work tools and inventory of computer supplies after Plaintiff had notified the Defendant that he would remove his items in front of his property.\u201d\n. The motion was supported by several documents, including a deed that shows that legal title to appellant's condominium units was conveyed to Morgan Investments, L.L.C. on September 23, 2003, by DK & R\u2019s bankruptcy trustee.\n. With respect to the additional defendants named in appellant\u2019s amended complaint, the trial judge later found that appellant provided only the information to properly serve and summon Hardesty. Therefore, this appeal addresses only the claim against Hardesty.\n. Appellee also argued that because the alleged conversion would have occurred on or about the time when DK & R's property was sold, in September 2003, see supra note 2, the complaint, filed in 2008, would have been Sled outside the applicable three year statute of limitations. See D.C.Code \u00a7 12-301(2) (2001). Appellant did not dispute either that the alleged conversion would have occurred at the time the real property was transferred or that the transfer took place in 2003.\n. Appellee had also filed a motion to dismiss, which appellant opposed in a filing, captioned \"Opposition to Dismiss,\u201d that focused exclusively on describing Rule \"60 (b) findings no court ha[s] ever reviewed\u201d and did not include any facts relevant to personal jurisdiction. The trial court properly construed both of appellee's motions as a motion for summary judgment because the parties submitted affidavits and other documents in support of their motions. See Super. Ct. Civ. R. 12(c); Gross v. District of Columbia, 734 A.2d 1077, 1081 (D.C.1999).\n. D.C.Code\u00a7 13-423 (2001) provides:\n(a) A District of Columbia court may exercise personal jurisdiction over a person, who acts directly or by an agent, as to a claim for relief arising from the person's\u2014\n(1) transacting any business in the District of Columbia;\n(2) contracting to supply services in the District of Columbia;\n(3) causing tortious injury in the District of Columbia by an act or omission in the District of Columbia;\n(4)causing tortious injury in the District of Columbia by an act or omission outside the District of Columbia if he regularly does or solicits business, engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed, or services rendered, in the District of Columbia;\n(b) When jurisdiction over a person is based solely upon this section, only a claim for relief arising from acts enumerated in this section may be asserted against him.\n. Helmer examines the exercise of personal jurisdiction under subsection (a)(3), rather than subsection (a)(4). But because both subsections refer to \"tortious injury in the District of Columbia,\u201d Helmer's analysis of the location of the plaintiffs injury is persuasive authority.\n. We therefore do not consider the Superior Court's alternate grounds for dismissal. As noted, the trial court also found that appellant\u2019s complaint was time-barred. Appellant did not allege facts that would bring his complaint within the statute of limitations or dispute appellee's factual assertions supporting the trial court\u2019s determination that the complaint was filed outside the statute of limitations. See supra note 4. From our review of the record, there is no indication that the statute of limitations was tolled by appellant's incarceration. See D.C.Code \u00a7 12-302 (2001) (providing that statute is tolled if a person is imprisoned \"at the time the right of action occurs\"). A press release from the U.S. Department of Justice attached to appellant's amended complaint states that appellant was convicted and sentenced in 2006, approximately three years after the tortious taking and conversion are alleged to have occurred.\n. Hudson is binding on our court pursuant to M.A.P. v. Ryan, 285 A.2d 310, 312 (D.C.1971).",
+        "type": "majority",
+        "author": "RUIZ, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "David Kissi, pro se.",
+      "Greg Howard, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "David KISSI, Appellant, v. Hugh G. HARDESTY, Appellee.\nNo. 09-CV-648.\nDistrict of Columbia Court of Appeals.\nSubmitted June 9, 2010.\nDecided Aug. 13, 2010.\nDavid Kissi, pro se.\nGreg Howard, for appellee.\nBefore RUIZ, FISHER, and THOMPSON, Associate Judges.\nThe decision in this case was originally issued August 13, 2010, as an unpublished Memorandum Opinion and Judgment. It is now being published at the request of the Superior Court."
+  },
+  "file_name": "1125-01",
+  "first_page_order": 1159,
+  "last_page_order": 1166
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7288087,
+  "name": "In re the NOVEMBER 3, 2009 ELECTION FOR COUNCIL OF the BOROUGH OF BELLEVUE WARD ONE. Petition of David Piet",
+  "name_abbreviation": "In re the November 3, 2009 Election for Council of the Borough of Bellevue Ward One",
+  "decision_date": "2010-12-16",
+  "docket_number": "",
+  "first_page": "1137",
+  "last_page": "1137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 1137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 314,
+    "ocr_confidence": 0.651,
+    "sha256": "a42e809e328d028450797b905783c5952a5ebaf3e74aba122d8cc41b2122583f",
+    "simhash": "1:5da8c1a66e83cfa7",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T15:10:56.058049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re the NOVEMBER 3, 2009 ELECTION FOR COUNCIL OF the BOROUGH OF BELLEVUE WARD ONE. Petition of David Piet."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 16th day of December, 2010, the Petition for Allowance of Appeal is hereby DENIED. The Petition to Intervene is hereby DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re the NOVEMBER 3, 2009 ELECTION FOR COUNCIL OF the BOROUGH OF BELLEVUE WARD ONE. Petition of David Piet.\nSupreme Court of Pennsylvania.\nDec. 16, 2010."
+  },
+  "file_name": "1137-02",
+  "first_page_order": 1159,
+  "last_page_order": 1159
+}

@@ -1,0 +1,204 @@
+{
+  "id": 7285540,
+  "name": "HEARST TELEVISION, INC., d/b/a WGAL-TV and Daniel O'Donnell, Appellants v. Michael L. NORRIS, in his official capacity as Coroner of Cumberland County and the Pennsylvania Office of Open Records",
+  "name_abbreviation": "Hearst Television, Inc. v. Norris",
+  "decision_date": "2010-11-16",
+  "docket_number": "",
+  "first_page": "420",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 420"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "907 A.2d 468",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8932105,
+        2573387
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "472-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/907/0468-01",
+        "/pa/589/0028-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 28",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2573387
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "35-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0028-01"
+      ]
+    },
+    {
+      "cite": "994 A.2d 1179",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/994/1179-01"
+      ]
+    },
+    {
+      "cite": "999 A.2d 672",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7288531
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/999/0672-01"
+      ]
+    },
+    {
+      "cite": "859 A.2d 852",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9163503
+      ],
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/859/0852-01"
+      ]
+    },
+    {
+      "cite": "962 A.2d 682",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 12,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "636-37"
+        },
+        {
+          "page": "637",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "637"
+        },
+        {
+          "page": "637"
+        },
+        {
+          "page": "637",
+          "parenthetical": "stating that trial courts have inherent power to limit public access to coroner's reports based on privacy or privilege concerns"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "599 Pa. 534",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3440818
+      ],
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "541"
+        },
+        {
+          "page": "541-42"
+        },
+        {
+          "page": "542-43"
+        },
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0534-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 894,
+    "char_count": 25654,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 1.3052087507885409e-07,
+      "percentile": 0.6230728123531526
+    },
+    "sha256": "a861bf01eff662cfdb97372b16b4b8b047060ef2df367568c91eb89ef90dac13",
+    "simhash": "1:9e01ea282b681d88",
+    "word_count": 4242
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: COHN JUBELIRER, Judge, and LEAVITT, Judge, and FRIEDMAN, Senior Judge."
+    ],
+    "parties": [
+      "HEARST TELEVISION, INC., d/b/a WGAL-TV and Daniel O\u2019Donnell, Appellants v. Michael L. NORRIS, in his official capacity as Coroner of Cumberland County and the Pennsylvania Office of Open Records."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge COHN JUBELIRER.\nHearst Television, Inc., d/b/a WGAL-TV and Daniel O\u2019Donnell (together, Reques-ters) appeal the December 23, 2009, Order of the Court of Common Pleas of Cumberland County (trial court) that upheld the decision of the Pennsylvania Office of Open Records (OOR), which denied Requesters\u2019 appeal from the denial of their Right-to-Know Request (Request) by Michael Norris, then Coroner of Cumberland County (the Coroner). Through the Request, Re-questers sought to obtain records from the Coroner setting forth the manner of death of a student at Shippensburg University. In this case, the parties agree that \u201cmanner of death\u201d records are public records and must ultimately be disclosed to the public as a matter of law. However, the parties disagree as to when the Coroner must disclose these public records, and this is the issue presently before our Court.\nI. Facts and Procedural Posture\nThe facts, as found by the trial court, are as follows. On April 16, 2009, a 19-year-old college student was found dead in his Shippensburg apartment and, subsequently, the Coroner investigated the death. Requesters sought the manner of death records of the student from the Coroner who, acting as the Agency Open Records Officer, denied the request. Relying on Section 1251 of the Act, commonly known as the \u201cCoroner\u2019s Act,\u201d the Coroner stated that \u201c[a]ny information this office may have regarding the manner of death for any person who died in 2009 is not public record and would not become public under current law until 30 days after the end of the year. [16 P.S. \u00a7 ] 1251.\u201d (Letter from the Coroner to Re-questers (April 28, 2009), R.R. at 4a.) Pursuant to the Right-to-Know Law (RTKL), Requesters appealed to the OOR. On May 27, 2009, the OOR issued a Final Determination denying the appeal, concluding that \u201cthe requested record is a public record under the RTKL when it is deposited with the prothonotary\u2019s office as required by [Section 1251 of] the Coroner\u2019s Act.... As such, the autopsy report will be available 30 days after the end of 2009.\u201d (OOR Final Determination at 4, May 27, 2009, R.R. at 10a.) Requesters filed a motion for reconsideration to the OOR, which was granted. On July 24, 2009, the OOR issued a Determination Upon Petition for Reconsideration (Reconsideration Determination) affirming its Final Determination and concluding that immediate access to official records of the Coroner is not required under Section 708(b)(20) of the RTKL, 65 P.S. \u00a7 67.708(b)(20), which provides as follows:\n(b) Exceptions. \u2014 Except as provided in subsections (c) and (d), the following are exempt from access by a requester under this act:\n(20) An autopsy record of a coroner or medical examiner and any audiotape of a postmortem examination or autopsy, or a copy, reproduction or facsimile of an autopsy report, a photograph, negative or print, including a photograph or videotape of the body or any portion of the body of a deceased person at the scene of death or in the course of a postmortem examination or autopsy taken or made by or caused to be taken or made by the coroner or medical examiner. This exception shall not limit the reporting of the name of the deceased individual and the cause and manner of death.\nId. (emphasis added). Relying on the Supreme Court\u2019s decision in Penn Jersey Advance, Inc. v. Grim, 599 Pa. 534, 962 A.2d 682 (2009), the OOR determined that Section 708(b)(20) does not require immediate access to manner of death records because requiring immediate disclosure of such records would conflict with the Coroner\u2019s Act and, thus, violate Section 3101.1 of the RTKL, 65 P.S. \u00a7 67.3101.1 (stating that the RTKL does not apply when it is in conflict with another state statute). (Reconsideration Determination at 7-8, R.R. at 37a-38a.) Requesters appealed to the trial court.\nOn December 23, 2009, the trial court issued the Order upholding the OOR\u2019s Final Determination that the manner of death records need not be immediately disclosed by the Coroner pursuant to Section 708(b)(20) of the RTKL. The trial court rejected Requesters\u2019 argument that the proviso in Section 708(b)(20), which states \u201c[t]his exception shall not limit the reporting of the name of the deceased individual and the cause and manner of death,\u201d 65 P.S. \u00a7 67.708(b)(20), (the Proviso), is an exception to the autopsy records exemption that makes manner of death records immediately disclosable under the RTKL. The trial court held that because the General Assembly failed to adopt language that could have more clearly expressed a desire to make such records subject to immediate disclosure under the RTKL, the trial court was permitted to resort to statutory interpretation or look to the legislative history of the provision. The trial court examined the original bill of Section 708(b)(20) and the first amendment passed in the House of Representatives and noted that, initially, the Proviso specifically referenced the Coroner\u2019s Act. (Trial Ct. Op. at 7.) Therefore, the trial court held that notwithstanding the fact that the final amendment in the Senate, which became law, \u201cchanged the last sentence slightly [by taking] out the specific reference to [the Coroner\u2019s Act],\u201d the Proviso does not \u201cmandate access by a requester to the reporting of the name of the deceased individual and the cause and manner of death; rather,\u201d the Proviso only \u201cmakes sense if it is a reference to not limiting information that a coroner may release under the Coroner\u2019s Act.\u201d (Trial Ct. Op. at 7-8.) Requesters now appeal to this Court.\nII. Discussion\nOn appeal, Requesters contend that the manner of death records must be disclosed immediately, pursuant to the RTKL. The Coroner argues that these records are exempt from the RTKL\u2019s disclosure provisions under the autopsy records exemption found in Section 708(b)(20) of the RTKL and do not have to be disclosed until those records are required to be filed with the prothonotary, thirty days after the end of the calendar year, pursuant to Section 1251 of the Coroner\u2019s Act. Each party also argues that it is entitled to costs and fees related to this appeal. We will address the issues in turn.\nA. Whether Manner of Death Records are Immediately Disclosable\nSection 302(a) of the RTKL states that: \u201cA local agency shall provide public records in accordance with this act.\u201d 65 P.S. \u00a7 67.302(a). Section 102 of the RTKL defines the term \u201cpublic record\u201d as including a local agency \u201crecord\u201d that: \u201c(1) is not exempt under section 708; (2) is not exempt from being disclosed under any other Federal or State law or regulation or judicial order or decree; or (3) is not protected by a privilege.\u201d 65 P.S. \u00a7 67.102. Section 102 also defines the term \u201crecord\u201d as \u201c[i]nformation, regardless of physical form or characteristics, that documents a transaction or activity of an agency and that is created, received or retained pursuant to law or in connection with a transaction, business or activity of the agency.\u201d Id. Section 102 further makes clear that the term \u201crecord\u201d includes \u201ca document, paper, letter, map, book, tape, photograph, film or sound recording, information stored or maintained electronically and a data-processed or image-processed document.\u201d Id. Moreover, Section 305(a) of the RTKL, 65 P.S. \u00a7 67.305(a), states that records possessed by local agencies are presumed to be public records, but that this \u201cpresumption shall not apply if: (1) the record is exempt under section 708; (2) the record is protected by a privilege; or (3) the record is exempt from disclosure under any other Federal or State law, regulation or judicial order or decree.\u201d Id.\nSection 708(a)(1) of the RTKL provides that: \u201cThe burden of proving that a record of a ... local agency is exempt from public access shall be on the ... local agency receiving a request by a preponderance of the evidence.\u201d 65 P.S. \u00a7 67.708(a)(1). Section 708(b) sets forth numerous exemptions from public disclosure. At issue here is the autopsy exemption found at Section 708(b)(20) and, in particular, the Proviso within that exemption. In interpreting the meaning of the Proviso, this Court must also consider Sections 1251 and 1236.1 of the Coroner\u2019s Act, which provide as follows:\n\u00a7 1251. Official records of coroner\nEvery coroner, within thirty (30) days after the end of each year, shall deposit all of his official records and papers for the preceding year in the office of the prothonotary for the inspection of all persons interested therein.\n\u00a7 1286.1. Requests for examinations and reports\n(a) Requests for examinations or other professional services by other counties or persons may be complied with at the discretion of the coroner pursuant to guidelines established by the county commissioners.\n(b) A set of fees and charges for such examinations or professional services shall be established by the coroner, subject to approval by the county commissioners, and shall be accounted for and paid to the county treasurer_ Payment for examinations or professional services shall be the responsibility of the county or person requesting such services.\n(c) The coroner may charge and collect a fee of up to one hundred dollars ($100) for each autopsy report, up to fifty dollars ($50) for each toxicology report, up to fifty dollars ($50) for each inquisition or coroner\u2019s report and such other fees as may be established from time to time for other reports and documents requested by nongovernmental agencies. The fees collected shall be accounted for and paid to the county treasurer ... and shall be used to defray the expenses involved in the county complying with the provisions of the act of March 2, 1988 (P.L. 108, No. 22), referred to as the Coroners\u2019 Education Board Law.\n16 P.S. \u00a7\u00a7 1251, 1236.1 (emphasis added).\nRequesters argue that manner of death records are subject to immediate public disclosure under the Proviso, which provides that \u201c[t]his exception shall not limit the reporting of ... the cause and manner of death.\u201d 65 P.S. \u00a7 67.708(b)(20). Re-questers contend that the Proviso contains no reference to Section 1251 of the Coroner\u2019s Act and that by removing any reference to that section in the final version of the law, the General Assembly intended to require manner of death records to be made public upon request, consistent with the RTKL\u2019s mandate and in contrast to autopsy reports, which are dealt with in the sentence preceding the Proviso. In essence, Requesters argue that the Proviso is an exception within the autopsy record exemption. Additionally, Requesters contend that there is no conflict between any part of Section 708(b)(20) of the RTKL and Sections 1251 and 1236.1 of the Coroner\u2019s Act because nothing in Section 1251 limits public access to manner of death records. Requesters further argue that there is nothing in Section 1236.1 of the Coroner\u2019s Act that conflicts with requiring manner of death records to be disclosed immediately under the RTKL because the only discretion the Coroner has under Section 1236.1 is whether to perform services in the first place. Finally, Requesters argue that to withhold immediate access to these records under the RTKL would undermine the General Assembly\u2019s intent to promote timely access of government information to citizens by narrowly construing the exemptions from disclosure.\nIn opposition, the Coroner essentially adopts the OOR\u2019s analysis in its Reconsideration Determination and argues that manner of death records are not available for immediate disclosure under the Proviso in Section 708(b)(20) of the RTKL. Relying on the Supreme Court\u2019s decision in Penn Jersey, the OOR determined that the RTKL cannot mandate immediate access to manner of death records under the Proviso because, if it did, the RTKL would conflict with Sections 1251 and 1236.1 of the Coroner\u2019s Act. (Reconsideration Determination at 7-8, R.R. at 37a-38a.)\nThe Supreme Court issued its decision in Penn Jersey prior to the enactment of Section 708(b)(20) of the RTKL. Nonetheless, the Supreme Court\u2019s opinion in Penn Jersey interprets Sections 1251 and 1236.1 of the Coroner\u2019s Act and provides insight into the interplay between the RTKL and the Coroner\u2019s Act. In Penn Jersey, the Supreme Court reversed this Court and held that a coroner\u2019s autopsy report is an official record within the meaning of Section 1251 of the Coroner\u2019s Act and, therefore, must be deposited with the prothono-tary. Penn Jersey, 599 Pa. at 541, 962 A.2d at 636-37. Although the Supreme Court expressed \u201cno opinion at this time on the relationship between the Coroner\u2019s Act and the [RTKL],\u201d id. at 536 n. 2, 962 A.2d at 633 n. 2, in reaching this holding, the Supreme Court explained:\n[W]e do not share the Commonwealth Court\u2019s perception that there is a conflict between Section 1251, which may allow access to autopsy reports free of charge if they are deemed \u201cofficial\u201d records, and the later-enacted Section 1236.1(c), which allows a coroner to charge for autopsy reports. By the terms of Section 1251, the records that a coroner must deposit with the prothono-tary are not available until thirty days after the end of each year, at which time interested persons may \u201cinspect\u201d such records. Section 1236.1, which is entitled \u201cRequests for examinations and reports,\u201d authorizes a coroner to charge up to $100 for each autopsy report, without mention of any time requirement. 16 P.S. \u00a7 1236.1(c). Thus, Section 1236.1 merely provides a rapid means of procuring an autopsy report for those who do not wish to wait until after the end of the year, and who are also willing to pay the charges associated with procuring it. The existence of such mechanism for obtaining an autopsy report does not compel the conclusion that autopsy reports are therefore not official records under Section 1251.\nId. at 542^13, 962 A.2d at 637 (emphasis added) (citations omitted).\nKeeping the Supreme Court\u2019s interpretation of the Coroner\u2019s Act in mind, we now determine whether an interpretation of Section 708(b)(20) of the RTKL requiring manner of death records to be immediately disclosable would conflict with the Coroner\u2019s Act. In interpreting exemptions under the RTKL, this Court is required to follow the rules of statutory construction, which direct that \u201c[e]very statute shall be construed, if possible, to give effect to all of its provisions\u201d and that \u201c[w]hen the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit.\u201d Section 1921(a) and (b) of the Statutory Construction Act of 1972, 1 Pa.C.S. \u00a7 1921(a)-(b). This Court is not permitted to \u201cinsert a word the legislature failed to supply into a statute.\u201d Girgis v. Board of Physical Therapy, 859 A.2d 852, 854 (Pa.Cmwlth.2004). However, where a statute is ambiguous, this Court may look beyond the plain language of a statute and consider other matters, such as: \u201c[t]he occasion and necessity for the statute\u201d; \u201c[t]he object to be attained\u201d; \u201c[t]he former law, if any, including other statutes upon the same or similar subjects\u201d; \u201c[t]he consequences of a particular interpretation\u201d; or \u201c[l]egislative and administrative interpretations of such a statute.\u201d 1 Pa.C.S. \u00a7 1921(c)(1), (4)-(6), (8). Additionally, it is to be presumed \u201c[t]hat the General Assembly does not intend a result that is absurd, impossible of execution or unreasonable\u201d and \u201c[t]hat the General Assembly intends the entire statute to be effective and certain.\u201d Section 1922(1) and (2) of the Statutory Construction Act of 1972, 1 Pa.C.S. \u00a7 1922(l)-(2).\nAlthough at first blush the Proviso appears to be an exception within the exemption, we agree with the OOR that such interpretation cannot prevail because immediate disclosure of manner of death records would conflict with the Coroner\u2019s Act, which was not the intent of the General Assembly when enacting the RTKL. Although the RTKL generally mandates immediate access to public records, Section 3101.1 of the RTKL provides that \u201c[i]f the provisions of this act regarding access to records conflict with any other Federal or State law, the provisions of this act shall not apply.\u201d 65 P.S. \u00a7 67.3101.1. The Coroner\u2019s Act specifies that manner of death information is to be filed annually, \u201cwithin thirty (30) days after the end of each year ... for the inspection of all persons interested therein.\u201d 16 P.S. \u00a7 1251. Thus, requiring the immediate disclosure of manner of death information under the Proviso set forth in Section 708(b)(20) would be inconsistent with a coroner\u2019s specific obligation to annually file this information with the prothonotary pursuant to Section 1251 of the Coroner\u2019s Act. The Coroner\u2019s Act also specifically authorizes a coroner to exercise discretion with regard to \u201c[r]e-quests for examinations or other professional services.\u201d 16 P.S. \u00a7 1236.1(a). Such requests could include requests for autopsies or other medical examinations that usually generate a written report. A coroner\u2019s discretion under this section extends to not only deciding whether to undertake certain examinations and services but also to releasing the information within the written report that was generated by those services. Penn Jersey, 599 Pa. at 541-42, 962 A.2d at 637. As correctly noted by the Coroner, it would be inconsistent with Section 1236.1 of the Coroner\u2019s Act, which gives a coroner discretion regarding whether to release cause of death information before being required to do so under the Coroner\u2019s Act, to require a coroner to immediately release that same information upon request under the RTKL. Moreover, in interpreting Sections 1251 and 1236.1 of the Coroner\u2019s Act, the Supreme Court, in Penn Jersey, made clear that the information contained in an autopsy report \u2014 manner of death information\u2014 is not available to the public until the records are filed with the prothonotary thirty days after the end of the year in accordance with Section 1251, or prior to that time if a coroner uses his or her discretion to grant a request for rapid procurement under Section 1236.1. Penn Jersey, 599 Pa. at 542-43, 962 A.2d at 637. Thus, the Proviso cannot mandate immediate disclosure.\nBecause we agree with the OOR and the Coroner that manner of death records are not immediately disclosable under Section 708(b)(20) of the RTKL, we affirm the trial court\u2019s Order upholding the OOR\u2019s decision denying Requesters\u2019 appeal from their RTKL Request.\nB. Whether the Parties are entitled to Costs and Fees\nRequesters argue that they are entitled to a reasonable sum reflecting attorney\u2019s fees and costs of litigation pursuant to Section 1304(a) of the RTKL, 65 P.S. \u00a7 67.1304(a), because the Coroner\u2019s denial of the Request is contradicted by the language in Section 708(b)(20) of the RTKL and undermines the clear intent in the RTKL to promote timely access to public records. The Coroner argues that he is entitled to fees and costs pursuant to Section 1304(b) of the RTKL, 65 P.S. \u00a7 67.1304(b), because Requesters have offered no substantial basis for their appeal and their appeal is frivolous.\nReasonable attorney fees and costs of litigation may be granted under Section 1304 of the RTKL, which provides:\n(a) Reversal of agency determination. \u2014 If a court reverses the final determination of the appeals officer or grants access to a record after a request for access was deemed denied, the court may award reasonable attorney fees and costs of litigation or an appropriate portion thereof to a requester if the court finds either of the following:\n(1) the agency receiving the original request willfully or with wanton disregard deprived the requester of access to a public record subject to access or otherwise acted in bad faith under the provisions of this act; or\n(2) the exemptions, exclusions or defenses asserted by the agency in its final determination were not based on a reasonable interpretation of law.\n(b) Sanctions for frivolous requests or appeals. \u2014 The court may award reasonable attorney fees and costs of litigation or an appropriate portion thereof to an agency or the requester if the court finds that the legal challenge under this chapter was frivolous.\n(c) Other sanctions. \u2014 Nothing in this act shall prohibit a court from imposing penalties and costs in accordance with applicable rules of court.\n65 P.S. \u00a7 67.1304. With regard to Re-questers\u2019 argument that they are entitled to fees and costs under Section 1304(a), that request is denied because Requesters have not prevailed in this appeal and there is absolutely no evidence presented that the Coroner acted in bad faith or refused the Request based on an unreasonable interpretation of the law. Likewise, the Coroner\u2019s request for costs and fees under Section 1304(b) is denied because the issue presented in this appeal is a novel issue and involves the interpretation of two complicated statutes. The Coroner presented no evidence that Requesters\u2019 commencement of this appeal was arbitrary, vexatious or done in bad faith within the meaning of Section 1304(b) of the RTKL. Therefore, fees and costs are denied to both parties.\nIII. Conclusion\nBased on the foregoing opinion, we affirm the Order of the trial court and deny both parties costs and fees.\nORDER\nNOW, November 16, 2010, the order of the Court of Common Pleas of Cumberland County in the above-captioned matter is hereby AFFIRMED. The request for reasonable attorney fees and litigation costs made by Appellants and Appellees are hereby DENIED.\n. On January 5, 2010, counsel for the Coroner filed a Suggestion of Succession, informing the trial court that the term of office of Michael L. Norris had expired and that he had been succeeded by Todd C. Eckenrode. The Suggestion of Succession requested that the caption be changed to reflect that the defendants are \"Todd C. Eckenrode, Successor to Michael L. Norris, in his official capacity as Coroner of Cumberland County, and the Pennsylvania Office of Open Records.\u201d However, the trial court did not change the caption prior to Requesters filing their Notice of Appeal.\n. Act of August 9, 1955, P.L. 323, 16 P.S. \u00a7 1251.\n. Act of February 14, 2008, P.L. 6, 65 P.S. \u00a7\u00a7 67.101 \u2014 67.3104.\n. Specifically, the trial court states as follows: The provision in the original bill was as follows:\nThis exception shall not limit the\n8 reporting of the name of the deceased individual, the cause\n9 of death and whether the death was caused by criminal\n10 activity or criminal negligence in accordance with section\n11 1251 of the act of August 9, 1955 (P.L. 323, No. 130), known as\n12 The County Code[, i.e., the Coroner\u2019s Act],\nThis following amendment was added in the House of Representatives:\nThis exception shall not limit the\n8 reporting of the name of the deceased individual, the cause\n9 of death' and' whether the-death -was eaused-by criminal\n10 activity or criminal negligence and the cause and manner of death to all persons interested therein in accordance with section\n11 1251 of the act of August 9, 1955 (P.L. 323, No. 130), known as\n12 The County Code[, i.e., the Coroner\u2019s Act].\nThis final amendment, which became law, was added in the Senate:\nThis exception shall not limit the\n8 reporting of the name of the deceased individual and the cause and manner of death to-all persons interested-therein in accordance with section\n11 1251 of the-act of August 9, 1-955 (P.L. 323, No. 13Q-)r-known-as\n42 \u2014 T-he-\u20acounty Code.\n(Trial Ct. Op. at 6-7 (footnote omitted).)\n. Because there is no dispute as to the facts in this case, \"our review is limited to determining whether the trial court abused its discretion, committed any error of law or violated any constitutional rights.\u201d SWB Yankees LLC v. Gretchen Wintermantel, 999 A.2d 672, 674 n. 2 (Pa.Cmwlth.2010). \"The scope of review for a question of law under the [RTKL] is plenary.\u201d Id. (quoting Stein v. Plymouth Township, 994 A.2d 1179, 1181 n. 4 (Pa.Cmwlth.2010)).\n. There has been no argument that this issue is moot, and we agree with Requesters that this appeal remains properly before us. The issue raised is one of important public interest, and it is capable of repetition unless settled and apt to elude review. Commonwealth v. Dixon, 589 Pa. 28, 35-36, 907 A.2d 468, 472-73 (2006).\n. The Pennsylvania Coroner's Association (Amicus Curiae) has filed a brief expressing its support for the Coroner's position.\n. We note that interpreting the Proviso to be consistent with the Coroner's Act also enables individuals who wish to challenge disclosure of a coroner's records without redaction to know when such disclosure would be made. See Article I, section 1 of the Pennsylvania Constitution (acknowledging a fundamental constitutional right to reputation); Penn Jersey, 599 Pa. at 542, 962 A.2d at 637 (stating that trial courts have inherent power to limit public access to coroner\u2019s reports based on privacy or privilege concerns).\n. Here, our determination is limited to the autopsy exemption found in Section 708(b)(20) of the RTKL. The Coroner has not asserted that any other exemptions under the RTKL would prevent manner of death records from being publicly disclosed.",
+        "type": "majority",
+        "author": "Judge COHN JUBELIRER."
+      }
+    ],
+    "attorneys": [
+      "Jonathan R. Donnellan, New York, NY, for appellants.",
+      "Keith O. Brenneman, Mechanicsburg, for appellee, Michael L. Norris. Terressa E. George, Altoona, for amicus curiae, Pennsylvania Coroner\u2019s Association."
+    ],
+    "corrections": "",
+    "head_matter": "HEARST TELEVISION, INC., d/b/a WGAL-TV and Daniel O\u2019Donnell, Appellants v. Michael L. NORRIS, in his official capacity as Coroner of Cumberland County and the Pennsylvania Office of Open Records.\nCommonwealth Court of Pennsylvania.\nArgued Sept. 14, 2010.\nDecided Nov. 16, 2010.\nJonathan R. Donnellan, New York, NY, for appellants.\nKeith O. Brenneman, Mechanicsburg, for appellee, Michael L. Norris. Terressa E. George, Altoona, for amicus curiae, Pennsylvania Coroner\u2019s Association.\nBEFORE: COHN JUBELIRER, Judge, and LEAVITT, Judge, and FRIEDMAN, Senior Judge."
+  },
+  "file_name": "0420-01",
+  "first_page_order": 446,
+  "last_page_order": 454
+}

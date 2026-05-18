@@ -1,0 +1,849 @@
+{
+  "id": 7291219,
+  "name": "Diane L. FASTUCA, Appellant v. L.W. MOLNAR & ASSOCIATES, Louis W. Molnar, Jr. and Mary Lou Molnar, individually and t/d/b/a L.W. Molnar & Associates, Appellees",
+  "name_abbreviation": "Fastuca v. L.W. Molnar & Associates",
+  "decision_date": "2011-01-18",
+  "docket_number": "",
+  "first_page": "1230",
+  "last_page": "1251",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 11961230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "903 A.2d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8411032,
+        3788381
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1207",
+          "parenthetical": "\"judges of coordinate jurisdiction sitting in the same case should not overrule each other's decisions on the same issue\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/903/1192-01",
+        "/pa/588/0242-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788381
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "268",
+          "parenthetical": "\"judges of coordinate jurisdiction sitting in the same case should not overrule each other's decisions on the same issue\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0242-01"
+      ]
+    },
+    {
+      "cite": "199 Cal.Rptr. 246",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal.App.3d 1165",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2121444
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/151/1165-01"
+      ]
+    },
+    {
+      "cite": "484 N.Y.S.2d 472",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Misc.2d 875",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        834964
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/126/0875-01"
+      ]
+    },
+    {
+      "cite": "426 N.Y.S.2d 140",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 A.D.2d 938",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3187259
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/74/0938-01"
+      ]
+    },
+    {
+      "cite": "Mich. Comp. Laws Ann. \u00a7 600.5035",
+      "category": "laws:leg_statute",
+      "reporter": "Mich. Comp. Laws Ann.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "950 A.2d 980",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8231538
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/950/0980-01"
+      ]
+    },
+    {
+      "cite": "499 Pa. 132",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1778894
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "136"
+        },
+        {
+          "page": "1359"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/499/0132-01"
+      ]
+    },
+    {
+      "cite": "820 A.2d 1240",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        197190,
+        9315622
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0034-01",
+        "/a2d/820/1240-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197190
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0034-01"
+      ]
+    },
+    {
+      "cite": "125 A.2d 755",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "766",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "386 Pa. 306",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1268340
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "328",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/386/0306-01"
+      ]
+    },
+    {
+      "cite": "157 A.2d 366",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "398 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1289165
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/398/0183-01"
+      ]
+    },
+    {
+      "cite": "328 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "458 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479676
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/458/0546-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736917
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "460"
+        },
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/476/0456-01"
+      ]
+    },
+    {
+      "cite": "459 Pa. 660",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        481028
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "662-63"
+        },
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/459/0660-01"
+      ]
+    },
+    {
+      "cite": "750 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11529928,
+        93706,
+        11529860,
+        93317
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "850"
+        },
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/750/0843-02",
+        "/pa/561/0433-01",
+        "/a2d/750/0843-01",
+        "/pa/561/0434-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93317
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "447"
+        },
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0434-01"
+      ]
+    },
+    {
+      "cite": "847 A.2d 180",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9256447
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/847/0180-01"
+      ]
+    },
+    {
+      "cite": "218 A.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 8,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "794",
+          "parenthetical": "analyzed at length, infra,"
+        },
+        {
+          "page": "793"
+        },
+        {
+          "page": "794"
+        },
+        {
+          "page": "794"
+        },
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "421 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1900449
+      ],
+      "weight": 2,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "146",
+          "parenthetical": "analyzed at length, infra,"
+        },
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/421/0141-01"
+      ]
+    },
+    {
+      "cite": "483 Pa. 106",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1751165
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "120"
+        },
+        {
+          "page": "939-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/483/0106-01"
+      ]
+    },
+    {
+      "cite": "491 Pa. 385",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1765638
+      ],
+      "weight": 11,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "388"
+        },
+        {
+          "page": "191"
+        },
+        {
+          "page": "393"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "396"
+        },
+        {
+          "page": "196"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/491/0385-01"
+      ]
+    },
+    {
+      "cite": "110 A.2d 383",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "380 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1256073
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/380/0123-01"
+      ]
+    },
+    {
+      "cite": "105 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "377 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1249623
+      ],
+      "weight": 2,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/377/0323-01"
+      ]
+    },
+    {
+      "cite": "260 A.2d 769",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 4,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "770"
+        },
+        {
+          "page": "771"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "436 Pa. 370",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1926109
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/436/0370-01"
+      ]
+    },
+    {
+      "cite": "253 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024085
+      ],
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "168",
+          "parenthetical": "quoting Green"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/253/0167-01"
+      ]
+    },
+    {
+      "cite": "97 A. 1067",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1916,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Green"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Pa. 79",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021226
+      ],
+      "pin_cites": [
+        {
+          "page": "91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/64/0079-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 438",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3788041,
+        8467371
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0429-01",
+        "/a2d/905/0438-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788041
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0429-01"
+      ]
+    },
+    {
+      "cite": "523 Pa. 541",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1820328
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "545"
+        },
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0541-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 766",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8988656,
+        5653048
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "770"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/892/0766-01",
+        "/pa/586/0170-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 170",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5653048
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0170-01"
+      ]
+    },
+    {
+      "cite": "969 A.2d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4192673,
+        4192709,
+        7263728,
+        7263604,
+        7263541,
+        4192636
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1182",
+          "parenthetical": "order"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0635-02",
+        "/pa/600/0636-02",
+        "/a2d/969/1181-03",
+        "/a2d/969/1181-02",
+        "/a2d/969/1181-01",
+        "/pa/600/0636-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 636",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4192636,
+        4192709
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "637",
+          "parenthetical": "order"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0636-01",
+        "/pa/600/0636-02"
+      ]
+    },
+    {
+      "cite": "780 A.2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9482845
+      ],
+      "pin_cites": [
+        {
+          "page": "667"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/780/0664-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2130,
+    "char_count": 71486,
+    "ocr_confidence": 0.711,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.188323527742351
+    },
+    "sha256": "b9dcbcc50c51e619363d8bef6fb23e4ef3ff287f0c4f30b81ddfb434d54d556f",
+    "simhash": "1:aea0c7b4775a0b8a",
+    "word_count": 11277
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ.",
+      "Former Justice GREENSPAN did not participate in the decision of this case.",
+      "Chief Justice CASTILLE and Justices EAKIN, BAER and McCAFFERY join the opinion.",
+      "Justice SAYLOR files a concurring opinion."
+    ],
+    "parties": [
+      "Diane L. FASTUCA, Appellant v. L.W. MOLNAR & ASSOCIATES, Louis W. Molnar, Jr. and Mary Lou Molnar, individually and t/d/b/a L.W. Molnar & Associates, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice TODD.\nIn this case, we review a trial court\u2019s termination of a common law arbitration proceeding after the arbitrator has entered \u201cfindings\u201d which do not resolve all outstanding issues between the parties. Following our review, we conclude the arbitrator\u2019s interim \u201cfindings\u201d in this case do not constitute an award within the meaning of Section 7341 of our Commonwealth\u2019s Uniform Arbitration Act, and, thus, that the trial court had no authority under that section to review such findings. Moreover, we determine that the trial court did not possess inherent equitable authority to end the arbitration proceedings before the arbitrator made a final award. Consequently, we affirm the order of the Superior Court.\nThis case arises out of a contentious dissolution of a familial partnership. The following sequence of events gave rise to the present appeal, as aptly described by the Superior Court in its opinion, and further gleaned from the record in this matter. In 1972, Appellant, Diane L. Fas-tuca, in conjunction with her siblings, Louis W. Molnar, Jr. and Mary Lou Molnar, formed L.W. Molnar and Associates (collectively \u201cAppellees\u201d). The partnership managed real estate investment properties, and it endured for nearly 26 years with no major disputes among the partners until 1998 when Appellant became disenchanted with the way partnership revenues were being divided. Although Appellant tried, with the aid of counsel, to work out her dispute with the other partners for nearly five years thereafter, no amicable resolution could be reached. Accordingly, she sent Appellees a letter on September 20, 2003, notifying them of her intent to dissolve the partnership under Section 8353 of our Commonwealth\u2019s Uniform Partnership Act, 15 Pa.C.S.A. \u00a7 8353, and requesting that her partnership share be distributed to her.\nOn November 17, 2003, Appellant filed a complaint in equity in the Court of Common Pleas of Allegheny County which requested the dissolution and winding up of the partnership, and also the issuance of a preliminary injunction to prevent any dissipation of partnership assets. In response, Appellees filed a motion to compel arbitration pursuant to the partnership agreement, which provides in relevant part:\n14. Arbitration. Any controversy or claim arising out of or relating to this Agreement or the breach thereof shall be settled by arbitration in accordance with the rales then obtaining of the American Arbitration Association, and judgment upon an award rendered may be entered in any court having jurisdiction thereof.\nPartnership Agreement, 9/11/72, at \u00b6 14 (R.R. at 189a).\nOn February 4, 2004, the presiding motions judge of Allegheny County, then-Judge, now former-justice, Cynthia Baldwin, heard argument on Appellant\u2019s motion and, thereafter, entered an order denying Appellant\u2019s request for a preliminary injunction and dismissing her complaint in equity, without prejudice. The order also directed the parties to proceed to arbitration on \u201call issues raised in [Appellant\u2019s] Motion for Preliminary Injunction and [Appellant\u2019s] Complaint in Equity, in accordance with the terms of the partnership agreement among the parties.\u201d Trial Court Order, 2/4/04 (R.R. at 64a).\nThe parties mutually selected David B. Fawcett, Esquire (\u201carbitrator\u201d) to conduct the arbitration under the rules of the American Arbitration Association. By agreement of the parties, on September 15, 2004, the arbitrator entertained arguments and received written submissions from them outlining their respective positions as to the legal issues surrounding the dissolution of the partnership. On September 17, 2004, the arbitrator issued a document entitled \u201cFindings of Arbitrator\u201d in which he made the following determinations relevant to this appeal. The arbitrator found that Appellant had validly exercised her right to dissolve the partnership under Section 8353(2) of the Uniform Partnership Act, which allows a partner to dissolve a partnership even if done in violation of the partnership agreement. Findings of Arbitrator, 9/17/04, \u00b6 3 (R.R. at 346a). However, the arbitrator also found that, because this dissolution had contravened the terms of the written partnership agreement, which the arbitrator had determined to be the law of the partnership between the parties, he concluded Appellees had a right to continue the business and, also, to receive damages from Appellant for breach of contract. Id. at \u00b6 7 (R.R. at 347a). Therefore, the arbitrator required Appellees to pay Appellant the value of her interest in the partnership at the time of dissolution, less any damages Appellees suffered on account of the wrongful dissolution. Id. The arbitrator further decreed that the purchase price for Appellant\u2019s partnership interest was to be computed according to either \u00b6 12(d) of the partnership agreement, which provided the purchase price of the partners\u2019 share was to be its fair market value for the latest fiscal year preceding the sale as determined by general accounting principles, or under Section 8360(b)(2) of the Uniform Partnership Act. Findings of Arbitrator at \u00b6 9. The arbitrator also directed Appellees to grant Appellant prompt access \u201cto all the Partnership books, records and accounts and any other relevant information\u201d which would establish its value. Id. at \u00b6 11. Additionally, the arbitrator specified he retained jurisdiction \u201cto resolve any controversy or claim regarding the purchase price and/or the value of the interest that [Appellant] is entitled to, or any further dispute between the parties pertaining to the dissolution of [the partnership].\u201d Id. at \u00b6 14.\nThereafter, Appellant filed a motion for clarification arguing the arbitrator\u2019s finding that the partnership \u201cwas for a definite term and a specific purpose\u201d was \u201ccontrary to the written Partnership Agreement and contrary to applicable precedent.\u201d Appellant\u2019s Motion to Clarify/Modify Ruling, 9/27/04, at \u00b6\u00b6\u2019s 3-5 (R.R. at 351a). Additionally, although Appellees granted Appellant access to some partnership records, a dispute arose regarding Appellant\u2019s request that Appellees grant her experts access to certain documents which Appellant claimed were pertinent to the determination of the value of the partnership \u2014 a claim which Appellees contested. Further, Appellant sought the release of a master\u2019s report regarding the value of the partnership prepared as part of the divorce case of Appellee, Mary Lou Molnar, and Appel-lees requested a copy of Appellant\u2019s expert report valuing the partnership. On November 2, 2004, the arbitrator denied Appellant\u2019s motion for clarification, directed the parties to provide the judge overseeing the divorce case a consent order to release the master\u2019s report, instructed Appellees\u2019 counsel to meet with her clients and submit a status report on the disclosure of documents, and required Appellant to submit a status report estimating the time necessary to review the documents and prepare an appraisal of the partnership value.\nThis order, however, did not resolve the continuing conflicts between Appellant and Appellees. On March 4, 2005, Appellant filed a motion with the arbitrator to compel the distribution of partnership profits for 2003 and 2004 on March 15, 2005, and for distribution of partnership profits from every preceding calendar year to occur annually thereafter on March 15th. Ap-pellees filed a response on June 4, 2005, contending the motion should be denied since the valuation process ordered by the arbitrator was ongoing. The arbitrator did not rule on this motion.\nDue to further inability of the parties to agree on the manner of production of documents, the time for such review to occur, and the appraisal of the value of the partnership, the arbitrator ordered the parties to appear in his office on September 15, 2005 with a written proposal for implementing both his findings of September 17, 2004, and his letter of November 4, 2004. Arbitrator\u2019s Letter, 9/8/05 (R.R. at 397a). After the conference, the arbitrator issued a written determination that the partnership was to produce the requested partnership documents promptly, Appellant\u2019s expert was to review the accountant\u2019s report on those documents and forward a copy to Appellees\u2019 counsel, and a date was to be set for a mutual exchange of reports on the value of the partnership interest. Arbitrator\u2019s Letter, 9/16/05 (R.R. at 402a).\nAppellant contended that she still did not receive the partnership records from Appellees which she sought, and, after a telephone conference among the parties and the arbitrator, the arbitrator issued an order on November 7, 2005 directing that Appellant prepare a request for production of documents itemizing the documents not produced and, also, requiring Appellees to file a formal response under oath, and either produce the documents or explain why such documents could not be produced. After Appellant had prepared her request and Appellees had filed then' response, in late November 2005, Appellant filed a motion with the arbitrator to find Appellees in contempt, and for leave to enforce any contempt order in the Court of Common Pleas of Allegheny County.\nThe arbitrator convened a meeting of the parties on December 15, 2005, after which he directed Appellant prepare a summary of the issues discussed regarding the production and preparation of the documents, and he required Appellant to send the summary to Appellees in order for them to respond and indicate their agreement or disagreement with the matters contained in the summary. The arbitrator did not rule on the contempt request. The summary was sent by Appellant on March 15, 2006, and the arbitrator directed Ap-pellees to answer and send a copy to him by May 31, 2006. Letter of Arbitrator, 5/22/06 (R.R. at 426-27a).\nOnce the arbitrator received Appellees\u2019 response, he ordered them to resubmit it to him in a different format, which they did, along with signed authorizations permitting Appellant to examine certain bank and real estate records of the partnership. On July 17, 2006, the arbitrator directed Appellant to use the authorizations \u201cin a timely fashion and make immediate arrangements to review and/or copy any of the documents requested produced and/or available in the Request for Production of Documents.\u201d Letter of Arbitrator, 7/17/06 (R.R. at 458a).\nAppellant next filed a motion in the Allegheny County Court of Common Pleas on November 10, 2006 to terminate the arbitration, contending, inter alia, that the records provided to her were incomplete, that the arbitrator was \u201cineffective in achieving complete compliance with Judge Baldwin\u2019s order,\u201d and that continuation of the arbitration would be \u201cfutile.\u201d Motion to Terminate Arbitration, 11/10/06, at 11, 13-14, (R.R. at 81a, 83a-84a). The presiding motions judge, Judge Timothy O\u2019Reilly, conducted oral argument on the motion on November 20, 2006, but held his final decision in abeyance as he, thereafter, attempted to settle the case by conducting mediation among the parties.\nAlso on November 20, 2006, the arbitrator issued an order scheduling a hearing for January 8, 2007 in order to finally determine the value of Appellant\u2019s purchase price for her partnership share in accordance with his prior findings of September 17, 2004. The arbitrator also required each party to submit to him a written summary of their respective factual and legal positions, a witness list, expert reports, and copies of exhibits. Order of Arbitrator, 11/20/06 (R.R. at 462a). The trial judge, however, stayed the arbitrator\u2019s scheduled hearing by order dated January 2, 2007, pending further order, so he could conduct more settlement negotiations. Trial Court Order, 1/2/07 (R.R. at 66a). Appellees filed a notice of appeal of this order with the Superior Court, but that appeal was quashed for failure to file a statement of matters complained of on appeal. The trial judge still considered the matter under advisement, and he later issued an order on June 26, 2007, which terminated the arbitration and directed the parties to proceed with actions in partition to divide real estate held by the partnership. Appellees appealed again to the Superior Court.\nThe trial judge, in his opinion prepared pursuant to Pa.R.A.P. 1925(a), acknowledged that arbitration is a favored means of dispute resolution. However, the trial judge expressed his view that he was \u201cincreasingly disenchanted with the quality of justice achieved before Arbitrators,\u201d and viewed the instant case as suffering from the infirmity of irregularity. Trial Court Opinion, 6/26/07, at 7. The trial judge characterized the arbitrator\u2019s findings made on September 17, 2004 as an \u201cAward,\u201d which he regarded as \u201cunjust, inequitable and unconscionable\u201d because it rested on arguments and no sworn testimony was taken by the arbitrator, even though Appellant had requested it. Id. The trial judge also characterized as \u201cmind boggling\u201d the arbitrator\u2019s finding that Appellant\u2019s resort to the Uniform Partnership Act to dissolve the partnership was \u201cwrongful\u201d and a basis for the award of damages. The trial judge further observed that the arbitrator had not appointed a receiver to wind up the partnership affairs, nor did he obtain production of the documents Appellant had requested. Id. at 8. Noting the continuing dispute between the parties over the production of records, the trial judge stated: \u201cCourts are much better equipped than Arbitrators to decide and enforce discovery issues.\u201d Id. The trial judge concluded by declaring he was terminating the arbitration and directing the parties to proceed to \u201cenforce the award as modified via Partition.\u201d Id. at 9. The trial judge also stated that he specifically found \u201cthat this issue of wrongful termination and damages [is] contrary to law and indeed an unconscionable finding.\u201d Id.\nA panel of the Superior Court reversed the trial judge and reinstated the arbitration in a published opinion, authored by Judge Bender and joined by Judges Bowes and Tamilia. Fastuca, supra. In its opinion, the Superior Court first determined whether the trial court\u2019s order of June 26, 2007 terminating the arbitration was final and, hence, appealable under Pa.R.A.P. 341. The Superior Court remarked that the question of whether an order which terminates an ongoing arbitration is ap-pealable was a question of first impression in Pennsylvania. In addressing this question, the Superior Court considered \u201cwhether the practical ramification of the order will be to dispose of the case.\u201d Fastuca, 950 A.2d at 986 (quoting Friia v. Friia, 780 A.2d 664, 667 (Pa.Super.2001)). The Superior Court reasoned that, since the original complaint filed by Appellant had been dismissed by then-Judge Baldwin\u2019s order of February 4, 2004, which also directed the parties to arbitrate all issues raised in the complaint, \u201cthe arbitration process ... was the only avenue of relief remaining, upon termination of which both the parties and their claims were \u2018out of court.\u2019 \u201d Fastuca, 950 A.2d at 987. Thus, the Superior Court concluded that these \u201cpractical ramifications\u201d of the trial judge\u2019s order rendered it final. Id. Accordingly, the Superior Court held that \u201ca trial court\u2019s order purporting to terminate arbitration when the arbitration proceeding is the only means then of record for resolution of the parties\u2019 dispute is a final order for purposes of appellate review.\u201d Id.\nThe Superior Court then proceeded to consider the merits of Appellees\u2019 substantive claims raised in their appeal. Appel-lees contended that the trial judge abused his discretion with the entry of his order of June 26, 2007 terminating the arbitration, since the order professed to alter the arbitrator\u2019s findings. They also claimed that the trial judge exceeded his lawful authority when he terminated the ongoing arbitration. The Superior Court observed that the proper resolution of both questions was intertwined and dependent on the scope of the authority of a trial court to intervene in an arbitration before an arbitrator enters what he or she designates as an award.\nThe Superior Court began its determination of the extent of a trial court\u2019s power to intervene in ongoing arbitration proceedings by discussing the various types of arbitration authorized by Pennsylvania law: statutory arbitration, common law arbitration, compulsory arbitration, and voluntary arbitration of pending civil matters or issues. The Superior Court noted that the specific type of arbitration the parties to the instant appeal had participated in was common law arbitration and, therefore, governed by Section 7341 of our Commonwealth\u2019s Uniform Arbitration Act which provides:\nThe award of an arbitrator in a nonjudicial arbitration which is not subject to Subchapter A (relating to statutory arbitration) or a similar statute regulating nonjudicial arbitration proceedings is binding and may not be vacated or modified unless it is clearly shown that a party was denied a hearing or that fraud, misconduct, corruption or other irregularity caused the rendition of an unjust, inequitable or unconscionable award.\n42 Pa.C.S.A. \u00a7 7341.\nThe Superior Court interpreted Section 7341 as granting a trial court only the limited authority to vacate or modify an award of an arbitrator, based on its observation that the statute makes \u201cno mention of preliminary determinations of any sort.\u201d Fastuca, 950 A.2d at 988. The Superior Court viewed this omission from the statute as an intentional restriction of the trial court\u2019s power, not an accidental one. The Superior Court noted that, prior to the arbitrator\u2019s entry of an award, the trial court is statutorily empowered to merely issue orders which compel or stay an arbitration proceeding, as authorized by Sections 7304(a) and (b) of the Uniform Arbitration Act. The Superior Court also held that the power to stay an arbitration under Section 7304(b) is further limited to only determining whether the parties agreed to arbitrate their dispute.\nAddressing the facts of this case, the Superior Court disapproved of the trial judge\u2019s conclusion, without discussion, that the arbitrator\u2019s September 17, 2004 findings were an award subject to modification or vacation under Section 7341. The Superior Court noted that these findings did not resolve the dispute between the parties, but, rather, were simply preliminary determinations by the arbitrator, as evidenced by the fact that the arbitrator expressly retained jurisdiction to address the value of Appellant\u2019s partnership share and any further disputes that pertained to the dissolving of the partnership. The Superi- or Court found that, \u201cby determining facts and focusing on remaining legal issues, such as the continuity of the partnership and Fastuca\u2019s putative breach of the partnership agreement, the Findings frame the issues that remain subject to resolution at subsequent hearings.\u201d Fastuca, 950 A.2d at 989. The Superior Court also viewed the arbitrator\u2019s order for the parties to exchange all relevant information regarding the valuation of Appellant\u2019s partnership share as an additional indication that his findings were merely preliminary. Consequently, the Superior Court concluded that, since the findings did not constitute an award, the trial judge lacked express authority under Section 7341 to modify or vacate those findings, and he only had authority to issue a stay for the limited purpose of determining the arbitra-bility of the underlying claims. The Superior Court therefore deemed the trial judge\u2019s order terminating the arbitration to be a \u201cnullity.\u201d Fastuca, 950 A.2d at 990.\nThe Superior Court further observed that any petition to vacate or modify an award must be filed within 30 days of the entry of the award as specified by Section 7342(b). Hence, the court reasoned that, even if it were to consider the arbitrator\u2019s findings to be equivalent to an award, and Appellant\u2019s motion to terminate to be comparable to a petition to modify or vacate, Appellant was still entitled to no relief since the motion to terminate was filed over two years after the arbitrator rendered his findings \u2014 well more than the thirty day period allowed by Section 7342. The Superior Court, therefore, reversed the order of the trial court and reinstated the arbitration proceedings so that the arbitration ordered by Judge Baldwin could be completed.\nThereafter, Appellant petitioned our Court for allowance of appeal, which we granted in order to consider two issues:\n1.) Whether the arbitrator\u2019s findings of September 17, 2004 constituted a final award within the meaning of 42 Pa. C.S.A. \u00a7 7341?\n2.) Whether a trial court has equitable powers to terminate a common law arbitration prior to the entry of a final award by the arbitrator?\nFastuca v. L.W. Molnar & Assoc., 600 Pa. 636, 637, 969 A.2d 1181, 1182 (2009) (order).\nWe begin with the question of whether the arbitrator\u2019s \u201cfindings\u201d of September 17, 2004 constituted a final award under Section 7341 of the Arbitration Act. In their briefs to our Court, Appellant and Appellees both agree with the Superior Court that the arbitrator\u2019s findings were not in the nature of an award because: the arbitrator indicated by the language used in his findings that he did not believe it to be his final award; he expressly maintained jurisdiction over future contemplated proceedings; he required status updates from the parties; and he did not, in his findings, resolve all of the disputed matters between the parties which were before him. Additionally, both parties agree that the plain language of Section 7341 does not permit judicial review of any ruling of the arbitrator other than a final award. After our own separate and careful review, we agree that the Superior Court was correct in its ruling that the arbitrator\u2019s findings did not constitute an award, as that term is used in Section 7341, and, hence, those findings were not subject to judicial review under that statute.\nBecause questions of statutory interpretation are questions of law, our standard of review of the Superior Court\u2019s interpretation of Section 7341 is de novo, and our scope of review is plenary. Kopko v. Miller, 586 Pa. 170, 177, 892 A.2d 766, 770 (2006). As our Court has previously noted, in interpreting provisions of the Uniform Arbitration Act, a reviewing court must, as in interpreting all statutes, ascertain and effectuate the intent of the General Assembly. Goeller v. Liberty Mut. Ins. Co., 523 Pa. 541, 545, 568 A.2d 176, 177 (1990). It is axiomatic that the best indication of the intent of the legislature is usually found in the plain language of a statute. Martin v. Commonwealth, Dept. of Transp., Bureau of Driver Licensing, 588 Pa. 429, 438, 905 A.2d 438, 443 (2006). Thus, we will interpret the words of the Uniform Arbitration Act in accord with the ordinary rules of grammar, as well as in a manner consistent with their common and approved usage. 1 Pa.C.S. \u00a7 1903; Goeller, supra.\nNeither Section 7341, nor any other section of the Uniform Arbitration Act, explicitly defines a common law arbitration award; however, our Court has previously described an arbitration award as \u201cthe judgment of a tribunal selected by the parties to determine matters actually in variance between them.\u201d Green & Coates Street Pass. Ry. Co., v. Moore, 64 Pa. 79, 91 (Pa.1870); Keiser v. Berks County, 97 A. 1067, 253 Pa. 167, 168 (1916) (quoting Green). Further, in Great American Ins. Co. v. American Arb. Assoc., 436 Pa. 370, 260 A.2d 769 (1970) our Court established that the sine qua non of an award is its finality in disposing of all the matters submitted by the parties to the arbitrator for his or her decision. In Great American, an individual injured in an automobile accident pursued a claim against her brother\u2019s automobile insurance company for uninsured motorists\u2019 benefits, and the matter was referred, under the terms of the policy, to common law arbitration before an arbitrator from the American Arbitration Association. The arbitrator divided the proceedings into two parts: the first was to determine whether the injured individual was covered under the policy, and the second was to calculate her damages. After conducting the first hearing, the arbitrator ruled that coverage existed under the policy, and he scheduled a second hearing. Prior to the second hearing, the insurer filed a complaint in equity against the American Arbitration Association seeking to enjoin the second arbitration hearing on the basis that the arbitrator had committed an error of law in interpreting the insurance contract. The trial court refused to grant the injunction on the basis that there had been no misconduct by the arbitrator.\nOur Court affirmed and agreed that there had been no misconduct by the arbitrator in rendering his decision which would justify the granting of equitable relief. We also observed that allowing equitable intervention under such circumstances \u201cwould mean that arbitration proceedings, instead of being a quick and easy mode of obtaining justice, would be merely an unnecessary step in the course of litigation, causing delay and expense, but settling nothing finally.\u201d Great American, 436 Pa. at 373, 260 A.2d at 770. Our Court further remarked that a complaint in equity was not the proper manner for a party to obtain judicial review of an arbitrator\u2019s decision; rather, we reminded that a petition to vacate the arbitration award was the correct method to obtain such review. We noted that the decision of the arbitrator after the first hearing was not an award since it did not address the issue of damages, pointing out that it was quite possible that the arbitrator would award no damages at the second hearing, or that the arbitrator\u2019s final damage award would be satisfactory to the insurer. We therefore concluded that \u201cthe insurer was attempting to gain interlocutory review by the equity route rather than await a final award and then petition to vacate it,\u201d id. 436 Pa. 370, 260 A.2d at 771, and we indicated that dismissal of the equitable complaint by the trial court would have been proper on these grounds as well. Thus, applying this rationale to the case at bar, it is clear that since the arbitrator\u2019s findings of September 17, 2004 which did not resolve all outstanding issues arising from the dispute between Appellant and Appellees were, likewise, interlocutory, they did not constitute an award.\nVarious secondary legal authorities have also recognized a requirement that an arbitrator\u2019s decision must resolve all disputed matters presented to him or her in order for that decision to constitute an award. See, e.g., 3 P.L.E. Arbitration \u00a7 12 (defining award as the final judgment or decision pronounced by the arbitrators in settlement of the controversy submitted to them); Black's Law Dictionary (8th. Edition) (defining award as \u201c[a] final judgment or decision, esp. one by an arbitrator ... assessing damages.\u201d) Thus, in accord with our prior precedent, and the common and accepted meaning of the term award as it is generally used in the context of arbitration proceedings, we hold that, for an arbitrator\u2019s decision to constitute an award within the meaning of Section 7341, it must be a ruling by the arbitrator which finally resolves all disputed matters submitted to him or her by the parties and must, therefore, include the arbitrator\u2019s decision on all outstanding legal issues, and all necessary factual determinations.\nIn the case sub judice, it is clear the arbitrator bifurcated the resolution process of the claims of Appellant and Appel-lees which they wished him to address into two phases. In the first phase, he determined all legal issues surrounding the dissolution of the partnership \u2014 i.e., the basis on which it transpired and the relative rights of the parties in its aftermath \u2014 and he set forth his decision on those issues in his findings of September 17, 2004. At that time, however, he clearly did not attempt to address the factual question of the proper valuation of Appellant\u2019s partnership share. Instead, he recognized the need for the parties to gather information and prepare valuation figures so that he could later issue a final ruling on the amount Appellees were required to pay Appellant for her share. Towards that end, he ordered the aforementioned exchange of documents and expert reports, and he expressly retained jurisdiction to resolve any other issues arising out of the dissolution of the partnership. Thus, the arbitrator clearly contemplated that there would be a second phase of the proceedings in which the value of Appellant\u2019s partnership share would be finally determined by him. Consequently, since the arbitrator\u2019s findings of September 17, 2004 were not a full and final determination of all matters submitted to him for his consideration, the Superior Court\u2019s conclusion that these findings did not constitute an award under Section 7341, and were therefore not subject to judicial review under that statutory provision, was well founded and correct.\nWe turn next to the question of whether a trial court, even though lacking express statutory authority under Section 7341 to terminate an ongoing common law arbitration proceeding before the arbitrator has entered an award, has inherent equitable authority to do so. Appellant concedes that the plain language of Section 7341 \u201cdoes not appear to permit the interlocutory review of an ongoing arbitration proceeding.\u201d Appellant\u2019s Brief at 17. Nevertheless, she avers the trial court was empowered to act under the principle that courts possess general powers to act equitably when there exists no adequate remedy at law. Appellant claims the remedy provided by Section 7341 was both \u201cinadequate\u201d and \u201cinaccessible,\u201d noting Appel-lees\u2019 failure to turn over the books and records of the partnership. Appellant\u2019s Brief at 19. Appellant contends the arbitration had gone on for over three years, and the arbitrator had not issued a final award, nor secured the production of the documents which she requested. She avers her costs of litigation continued to accumulate during this time period, while the value of the partnership fluctuated over the course of the same time \u2014 waxing and waning as the values of the real estate market changed. She claims these factors constituted a \u201ccontinuing prejudice.\u201d Id. at 20. Additionally, she argues other actions involving disposition of real property owned by the partnership were languishing in the courts of common pleas because of the ongoing arbitration. Thus, Appellant reasons, the statutory remedy which required her to wait for final disposition was wholly inadequate.\nAs support for the proposition that a trial court has equitable power to act to protect a litigant from such alleged undue expense and delay, Appellant cites to our Court\u2019s decision in Duquesne Light v. Upper St. Clair, 377 Pa. 323, 105 A.2d 287 (1954). In that case, an electric utility company sought to build a power transmission line through a residential area of a first class township. The utility sought approval from the PUC to do so, pursuant to the state law governing the proper procedure utility companies were to follow to obtain easements. The township sought to block the construction of the utility line towers on the grounds that their presence would violate the township zoning code. The township additionally promised to impose daily fines on the utility\u2019s contractors, so long as they continued with the construction without a permit, and, also, threatened the possible arrest of anyone involved in the construction process.\nThe utility ceased construction, but it sought injunctive relief from the trial court to block the township from enforcing its ordinance, which the trial court granted. Our Court upheld the court\u2019s grant of in-junctive relief on the grounds that the township code was preempted by the state public utility code and, thus, the township zoning ordinances were unenforceable against the utility company. We further noted that the utility was exposed to a potential fine of $3,000 per day if it chose to continue construction, and, while construction was halted, it was unable to meet the excess power demand of its customers and was consequently losing $150.00 to $300.00 per hour. Our Court held that these facts established that the utility had no adequate remedy at law since the administrative procedures afforded by the first class township code were time consuming and that the utility would be incurring these mounting daily losses \u201cwhile waiting for [the township\u2019s] administrative machinery to grind out an appealable order, or for a test case on the criminal side to run its course.\u201d Duquesne Light, 377 Pa. at 341, 105 A.2d at 295. Because we considered this potential financial harm to Duquesne Light to be \u201cirreparable\u201d under the circumstances, we ruled that the trial court had equitable jurisdiction to provide the injunctive remedy which it did. Id.\nAppellant herein contends that the delay and alleged ineffectiveness of the arbitration was likewise leading to harm to her financial interests and, had the trial court not exercised equitable jurisdiction, that harm would have been irreparable. She again avers her harm arose from an alleged deprivation of her property interests via increased litigation costs and fluctuation in market values of the property interests of the partnership due to the three year length of the arbitration. She claims that requiring her and other litigants in her position to remain in arbitration \u201cin these circumstances without remedy on the pretext that a court may not examine a matter absent an award would serve, if only by delay, to prejudice the litigants and deprive them of them property rights.\u201d Appellant\u2019s Brief at 23.\nAppellant additionally asserts that the delay in the arbitration affected her fundamental right to due process. As an example, she cites Everett v. Harron, 380 Pa. 123, 110 A.2d 383 (1955), in which our Court held that it was proper for plaintiffs to use an action in equity to generally enjoin a public amusement facility from barring the admission of African Americans on the basis of race, even though such discriminatory conduct was prohibited by a criminal statute, which also allowed anyone who was the victim of such discrimination to bring a civil action against the offending party. Our Court observed that equity acts to protect specific interests, which may involve either property or personal rights, and the fact that impairment of those interests is punished by the criminal law does not deprive a court from exercising equity jurisdiction to also protect them.\nAppellant also discusses our holding in Mattos v. Thompson, 491 Pa. 385, 421 A.2d 190 (1980), in which we ruled that the mandatory arbitration process created by the former Pennsylvania Health Care Services Malpractice Act (\u201cMalpractice Act\u201d) for the adjudication of medical malpractice claims failed to achieve the legislature\u2019s objective of providing a speedy and effective means by which such claims could be resolved, and, thus, created \u201can oppressive burden upon the right to jury trial guaranteed by our state constitution.\u201d Id., at 388, 421 A.2d at 191. Reviewing the considerable data prepared by the Commonwealth Court on the operation of the panels, our Court concluded that the panels did not provide an \u201cefficacious alternative dispute-resolution procedure.\u201d Id. at 393, 421 A.2d at 194. Consequently, we found: \u201cthe delays involved in processing [malpractice] claims under the prescribed procedures set up under the [Malpractice] Act result in an oppressive delay and imper-missibly infringes upon the constitutional right to a jury.\u201d Id. at 396, 421 A.2d at 196.\nHowever, our Court also reaffirmed in this opinion that it continued to regard \u201carbitration as a viable, expeditious, alternative method of dispute resolution.\u201d Id. (quoting Parker v. Children\u2019s Hospital of Philadelphia, 483 Pa. 106, 120, 394 A.2d 932, 939-40 (1978)). We expressed our confidence that \u201cas experience has demonstrated ... arbitration is still a viable alternative that can be effective in many areas.\u201d Mattos, 491 Pa. at 397, 421 A.2d at 196.\nAppellant contends that Everett supports the proposition that a trial court may use its equitable authority to enjoin the violation of fundamental rights if legal or statutory remedies are inadequate, or when resort to such remedies would cause \u201cinordinate delay.\u201d Appellant\u2019s Brief at 25. Appellant asserts that Mattos establishes \u201cthat oppressive delay may constitute a deprivation of a litigant\u2019s due process rights.\u201d Appellant\u2019s Brief at 25. She specifically avers that she endured just such an oppressive delay because of the length of the arbitration proceedings. She also claims that there were what she termed \u201cglaring irregularities\u201d in the conduct of the arbitration process relating to the disputed discovery issues, including: the alleged denial of an evidentiary hearing by the arbitrator, the refusal of the arbitrator to allow a stenographic record be made of certain proceedings or to present witnesses at them, and the arbitrator\u2019s issuing of findings based solely on argument by the attorney for Appellees and not the presentation of factual evidence. Appellant\u2019s Brief at 26.\nAppellees counter Appellant\u2019s arguments by first reminding that our Court has twice held that an action in equity is not the acceptable method of terminating an ongoing common law arbitration proceeding, citing Harleysville Mut. v. Adair, 421 Pa. 141, 146, 218 A.2d 791, 794 (1966) (analyzed at length, infra,), and Great American, supra. Appellees argue that had the General Assembly wished to reserve to the courts the powers to intervene in arbitrations prior to the issuance of a final award they could have explicitly provided such a power when they enacted the Uniform Arbitration Act. Appellees call our attention to the fact that other states like Michigan have expressly provided courts with these types of equitable powers in their arbitration acts. Appellees aver that the fact such a specific reservation to the trial court of such equitable authority has been omitted from Pennsylvania\u2019s Uniform Arbitration Act signifies the intent of our legislature to specifically prohibit trial court intervention prior to the entry of a final award.\nAdditionally, Appellees contend that Pennsylvania limits judicial review of common law arbitration proceedings, and \u201chas a strong public policy favoring arbitration.\u201d Appellees\u2019 Brief at 44. Appellees point out that arbitration is favored because it promotes \u201cswift and orderly disposition\u201d of claims. Id. (quoting McCarl\u2019s Inc. v. Beaver Falls Municipal Auth., 847 A.2d 180 (Pa.Cmwlth.2004)). Appellees maintain that, if a disappointed party to an arbitration is able to secure judicial intervention prior to a final award, then this would negate arbitration\u2019s beneficial advantages, since a party could bring a trial court into the proceedings any time he or she \u201clost\u201d any part of the arbitration proceedings. Appellees\u2019 Brief at 45. This court intervention, Appellees argue, would expend the court\u2019s limited resources and stall the final resolution of the disputed matters.\nAppellees assert this is precisely what transpired in the instant case, averring that Appellant was \u201cdispleased and disappointed\u201d with the arbitrator\u2019s rulings on the liability issues and that her actions in seeking the stay from the trial court delayed the final remedy hearing. Appel-lees\u2019 Brief at 45. Appellees proffer that had the trial court not terminated the arbitration and the final hearing been held as scheduled, a final award could have been issued several years ago, and, as the Superior Court found, the award would have been renewable under Section 7341.\nAppellees discredit Appellant\u2019s reliance on Pennsylvania cases which they contend involve \u201cmatters fundamentally different from common law arbitration.\u201d Appellees\u2019 Brief at 47. They note, for instance, that Duquesne Light involved a dispute which arose under the zoning codes of a local municipality, and Mattos was concerned with a compulsory arbitration process required by statute. Appellees point out that since these cases involved mandatory, statutorily prescribed methods of dispute resolution they, consequently, have no bearing on common law arbitration proceedings which are voluntary and governed by the contractual terms set forth by the parties. Consequently, Appellees aver that there is no coherent rule justifying equitable intervention which can be discerned from those cases which are applicable to common law arbitration. Ap-pellees, therefore, urge our Court not to fashion a rule circumventing the clear statutory limitations on court interference with common law arbitrations.\nAppellees contend that none of the equitable standards which Appellant advances as a proposed standard for judicial intervention in cases such as this one \u2014 i.e. inadequate statutory remedies, prevention of irreparable harm, protection of property, or avoidance of deprivation of fundamental rights or multiplicity of suits \u2014 were applicable to the instant matter. Appellees argue this matter was not going to go on indefinitely as Appellant suggests since, at the time the trial court intervened, the arbitrator had scheduled a hearing to make a final ruling on the value of the partnership share. Appellees note, in response to Appellant\u2019s contentions about her alleged costs of litigation and diminution in property values of the partnership, that this hearing was scheduled mere days before the trial court intervened and, at that hearing, she was going to be able to present expert evidence on the value of the real estate held by the partnership and any other evidence she wished concerning proper valuation of her partnership share. Appellees additionally point out that, after the hearing was concluded, the arbitrator would have issued his final award, and Appellant could have sought court review of it under Section 7341 of the Uniform Arbitration Act. Appellees assert that we should not attempt to fashion a judicial remedy to address egregious conduct or hypothetical facts which are not present in this case, and they additionally argue that Sections 7341 and 7342 of the Uniform Arbitration Act already provide adequate means of judicial review for such situations if they are presented by future cases.\nIn resolving the parties\u2019 competing claims, we are guided by the following principles. As our Court has observed on repeated occasions, the settlement of disputes by arbitration is favored by the public policy of this Commonwealth and is, therefore, encouraged by our courts and by statute. Borgia v. Prudential Ins. Co., 561 Pa. 434, 447, 750 A.2d 843, 850 (2000); Flightways Corp. v. Keystone Helicopter Corp., 459 Pa. 660, 662-63, 331 A.2d 184, 185 (1975). As discussed above, when the parties in this matter entered into their partnership agreement, they agreed that any controversy or claim relating to the agreement or an alleged breach thereof would be settled by the arbitration process under the rules of the American Arbitration Association (\u201cAAA\u201d). See Partnership Agreement at \u00b6 14. Since the parties\u2019 agreement expressly provided that the AAA rules were to govern their arbitration proceedings, and no mention or reference was made to the provisions of Pennsylvania\u2019s. Uniform Arbitration Act governing statutory arbitration, the Superior Court was correct in concluding the parties intended all disputes arising out of the agreement to be settled through common law arbitration. See Borgia, 561 Pa. at 439, 750 A.2d at 846; Runewicz v. Keystone Ins. Co., 476 Pa. 456, 460, 383 A.2d 189, 191 (1978).\nWhen parties of equal bargaining power consent in an agreement to settle all future disputes as to its interpretation by utilizing common law arbitration, they are bound by that provision, and the function of the courts is limited to enforcing this contractual provision according to its terms as established by the parties. Borough of Ambridge v. Columbia, 458 Pa. 546, 328 A.2d 498 (1974). As former Justice Musmanno aptly noted in regard to the limited ability of parties to subsequently change the agreed upon terms and conditions under which such an arbitration is to be conducted: \u201c[t]he person who offers carte blanche to another to enter the temple of arbitration may not later on impose restrictions as to the type of clothing the other person shall wear when he presents himself at the doors of the temple.\u201d Wyoming Radio v. National Association of Broadcast Employees and Technicians, 398 Pa. 183, 187, 157 A.2d 366, 367 (1960).\nNevertheless, in spite of this deference to the parties\u2019 choice of common law arbitration as their favored means of dispute resolution, the question of whether a trial judge has equitable jurisdiction to terminate an ongoing arbitration for the reasons cited by Appellant is governed by the well established precept that courts will have \u201c[equitable] jurisdiction and in furtherance of justice will afford relief if the statutory or legal remedy is not adequate, or if equitable relief is necessary to prevent irreparable harm.\u201d Pennsylvania State Chamber of Commerce v. Torquato, 386 Pa. 306, 328, 125 A.2d 755, 766 (1956) (emphasis omitted). However, we are also bound by the corollary principle that if a sufficient legal remedy exists \u201ca court is divested of equity jurisdiction.\u201d Pentlong v. GLS Capital, 573 Pa. 34, 43, 820 A.2d 1240, 1245 (2003). Consequently, \u201cin order to determine whether equity jurisdiction is proper in the face of an existing legal or statutory remedy, we must determine if the legal remedy available ... is adequate and complete.\u201d Id. We note in this respect that \u201cthe fact that a court of equity may be capable of achieving an expeditious resolution of a dispute does not warrant its intrusion where there is a statutoiy process designed for its resolution.\u201d Mercy Hosp. of Pittsburgh v. Pennsylvania Human Relations Comm., 499 Pa. 132, 136, 451 A.2d 1357, 1359 (1982).\nAlthough Appellant has couched her arguments in terms of an asserted denial of her right to due process of law and impingement of her fundamental individual property rights, her arguments, distilled to their essence, are, in actuality, complaints over the rulings of the arbitrator regarding Appellees\u2019 alleged failure to provide the documents she desired to obtain, and the supposed excessive delay in the arbitrator\u2019s rendering of a final ruling.\nRegarding the discovery issue, as Appel-lees have pointed out, in Harleysville, supra our Court specifically rejected the use of an action in equity by a party who is dissatisfied with an arbitrator\u2019s handling of a discovery issue as a means of blocking a common law arbitration from continuing and obtaining judicial review of that issue before the entry of a final award. In Harleysville, a driver of a motor vehicle was injured in an accident and sought recovery under the uninsured motorist coverage contained in his own policy. The insurer disputed the claim, and the matter proceeded to common law arbitration in accordance with the terms of the policy. After an arbitrator was selected, the insurer demanded the injured driver answer 83 interrogatories. The driver refused, and the matter was submitted to the arbitrator for resolution. The arbitrator ruled that the driver did not have to answer the interrogatories and scheduled a hearing on the underlying coverage dispute. Shortly before the hearing, the insurer filed a complaint in equity seeking an injunction to prevent the hearing from going forth. The trial court denied the request, and our Court affirmed.\nIn our opinion, we noted the question of whether the insurer was entitled to the discovery it requested was \u201cpurely one of procedure.\u201d Harleysville, 421 Pa. at 144, 218 A.2d at 793. As a procedural question, our Court deemed the matter controlled by the AAA rules which the parties voluntarily agreed would govern the arbitration. We noted that, by making this agreement, the parties \u201cvoluntarily surrendered the right to invoke any of the procedural devices which would be available in an action at law.\u201d Id. at 145, 218 A.2d at 794. We further opined, \u201c[t]he right to discovery is one of these devices which is not obligatory as an essential of due process to a valid ai'bitration proceeding.\u201d Id. We therefore reasoned that, if we were to allow parties, who have, of them own free will, agreed to enter the arbitration process and to be bound by AAA rules in the conduct of that process, to later avail themselves of the full panoply of civil procedural devices available in conventional civil actions, and thereby disregard the terms of their contract and the AAA rules, this \u201cwould eliminate, or at least severely curtail, arbitration as a means of facilitating the solution of disputes.\u201d Id.\nWe further expressly disapproved of using actions in equity as a means of interfering with an arbitration process once it had begun. We decreed that the use of such suits by a party to end an ongoing arbitration because of the party\u2019s unhappiness with an arbitrator\u2019s discovery ruling was improper:\nTo permit an equity action to be brought to restrain an arbitration proceeding in toto or to obtain declaratory judgments as to procedural matters because of dissatisfaction with an interlocutory ruling of the arbitrator would be unthinkable. No such injunctive or declaratory judgment process is available in an ordinary civil action at law as a means of challenging an interlocutory ruling by the court.\nAfter the commencement of the arbitration the arbitration procedures agreed to by appellant controlled. To permit appellant to maintain this proceeding in equity would permit it to gain by indirection what it is not entitled to by direct action.\nId. at 145-146, 218 A.2d at 794.\nIn addition, our Court held that provisions of our Commonwealth\u2019s Arbitration Act of 1927 provided the insurer with \u201ca complete method of statutory relief\u2019 since it permitted an appeal to a court which was empowered under this act to \u201cvacate, modify, or correct an award where the arbitrators exceed their powers or refuse to hear evidence or by misbehavior prejudice the rights of a party.\u201d Id. at 146, 218 A.2d at 794. As a result of the availability of this remedy we deemed the use of equitable proceedings to be \u201cimproper and unjustified.\u201d Id.\nLikewise, Appellant in the present matter voluntarily contracted to have any controversies or claims which arose under an agreement submitted to arbitration, and, also, expressly agreed that any such arbitration would be conducted in accordance with AAA rules which specifically authorized the arbitrator \u201cto resolve any disputes concerning the exchange of information.\u201d See American Arb. Assn. Commercial Arb. Rules and Mediation Procedures, Amended and Effective July 1, 2003, Rule 21(c), (R.R. at 490a). Consequently, when the arbitrator implemented his various conciliatory measures to settle the conflict between Appellant and Appel-lees over what documents Appellant would be entitled to review prior to the final hearing, Appellant received precisely what she had bargained for, namely, the services of a neutral arbitrator who would resolve the dispute. Merely because she was dissatisfied with the particular remedies the arbitrator attempted to implement, Appellant was not entitled to immediate equitable intervention by the court of common pleas to restrain the arbitration process before its completion. Moreover, like the disgruntled insurer in Harleys-ville, she, too, had other legal avenues by which she could have sought relief for her complaints concerning the alleged lack of access to documents and purported procedural flaws in the arbitration process.\nAs the Superior Court and Appellees have noted, the trial judge\u2019s intervention, though obviously well-intentioned, actually deprived Appellant of the ability to expeditiously utilize those legal remedies which were available to her. The trial judge\u2019s order terminating the arbitration prevented the arbitrator from holding a final hearing, during which time Appellant could directly have raised to the arbitrator the complaints she now raises regarding the manner in which the arbitration process was conducted, and she could have requested that the arbitrator consider them as factors in his ultimate valuation decision. Moreover, and most importantly, had the arbitration process not been circumvented by the trial court\u2019s response to Appellant\u2019s motion to terminate the arbitration, once the arbitrator entered his final award, if dissatisfied, Appellant could have then properly sought judicial review under Section 7341 and requested vacation or modification of the award based on the alleged \u201cglaring irregularities\u201d she claims occurred in the conduct of the arbitration. Appellant\u2019s Brief at 26. Consequently, Appellant suffered no denial of her due process rights which warranted the trial court\u2019s exercise of equitable jurisdiction, as, had she simply allowed the arbitrator\u2019s entry of a final award, Section 7341 would have provided her a \u201ccomplete method of statutory relief.\u201d Harleysville, supra.\nWith respect to Appellant\u2019s complaint of excessive delay in the arbitrator\u2019s making of an award, we conclude a trial court does not have equitable jurisdiction to terminate an arbitration because of such delay, since a legislatively prescribed and wholly adequate remedy exists which governs such a circumstance. An arbitrator does not have unchecked power to continue proceedings indefinitely before rendering a decision. If an arbitrator fails to act, a court is specifically empowered to remove the arbitrator and replace him or her. See 42 Pa.C.SA. \u00a7 7305 (\u201c[W]hen an arbitrator appointed fails to act or is unable to act and his successor has not been appointed, the court on application of a party shall appoint one or more arbitrators.\u201d)\nIn the case at bar, we see nothing of record to suggest that the arbitrator was acting in a dilatory manner such that his removal under this section would- have been warranted at the time the trial court terminated the arbitration. To the contrary, our review of the record, as discussed above, suggests that the arbitrator acted in a prompt, diligent manner to resolve the myriad difficulties that arose between the parties regarding the review of the relevant partnership records. The arbitrator conducted many proceedings after his findings of September 17, 2004 in order to settle the issues that arose over the scope and manner by which review of those records was to be conducted. His attentiveness to the parties\u2019 concerns was evidenced by his prompt scheduling of conferences and hearings to address additional issues presented to him by the parties as they arose, as well as his diligent efforts to fashion a workable, mutually acceptable solution to the document disclosure dispute between the parties.\nFurther, although there was no explicit time limit in the partnership agreement under which this arbitration was to be completed, because, as discussed above, the agreement specified that the arbitration was to be conducted in accord with the AAA Rules, a time limit existed under which the arbitrator had to render his final decision. See, American Arb. Assn. Commercial Arb. Rules and Mediation Procedures, supra, Rule 41, (R.R. at 494a) (\u201cThe award shall be made promptly by the arbitrator and, unless otherwise agreed by the parties or specified by law, no later than 30 days from the date of closing the hearing, or, if oral hearings have been waived, from the date of the AAA\u2019s transmittal of the final statements and proofs to the arbitrator.\u201d) Consequently, because the arbitrator had scheduled the final hearing to determine the value of Appellant\u2019s partnership share for January 8, 2007, a conclusive end to the arbitration proceedings was in sight for Appellant, since the arbitrator\u2019s decision had to be rendered within 30 days after that hearing. If the arbitrator failed to render a decision within a reasonable period after that 30 day period elapsed, then Appellant could have gone to the trial court seeking relief under Section 7305. However, such relief, as provided by the plain language of that statutory provision, is limited to replacement of the arbitrator, not termination of the entire arbitration proceeding, as the trial court in the present matter did.\nThe cases which Appellant has cited in support of a finding of equitable jurisdiction, Duquesne Light, Everett, and Mottos, do not compel a different result. The plaintiffs in those cases had limited legal recourse available to them to avoid irreparable harm to their pecuniary interests or personal rights. They were required to either submit their dispute to entities which they had no choice in selecting and no way to reasonably estimate or affect the timing of those entities\u2019 ultimate decisions, or, alternatively, forced to enmesh themselves in the machinery of the criminal justice process. These plaintiffs, therefore, had no satisfactory legal method by which to expeditiously advance then* respective claims, nor could they reasonably estimate how long it would take for them to obtain a final determinative ruling.\nBy contrast, Appellant herein chose to have an arbitrator resolve all of her claims under the partnership agreement pursuant to AAA rules, and, thus, she was assured that she could avail herself of the procedural protections provided by those rules, including the requirement that the arbitrator\u2019s final decision be made within 30 days of the holding of a final hearing. Consequently, Appellant had amply sufficient legal recourse to protect her financial interests, and a time period in which she could be certain of receiving a final resolution of all her claims, unlike the plaintiffs in Duquesne Light, Everett, and Mattos.\nThe fact that Appellant can cite to no statutory authority or Pennsylvania case-law which recognizes an equitable power of a trial court to terminate a common law arbitration proceeding before the arbitrator has rendered an award is unsurprising, given the public policy of our Commonwealth which generally favors voluntary arbitration as a means of speedy and effective alternative dispute resolution that parties may choose to settle their disputes. Permitting micromanagement by a court of ongoing common law arbitrations in situations such as that which transpired in the present case would defeat the contractual intent of the parties who bargained for their disputes to be resolved with minimal court intrusion. If we were to allow the type of pre-award equitable court intervention which Appellant presently seeks, it would result in the omnipresent prospect of a trial court being dragged into the minutiae of the arbitral process by any party who wants immediate judicial review of every unfavorable discovery ruling by the arbitrator-, or who desires to escape from the arbitration process altogether through its termination, if he or she perceives it to be unfolding in an unfavorable manner. This would severely undermine the legislature\u2019s intent, as reflected by its enactment of the Uniform Arbitration Act, to restrict the degree of permissible judicial intrusion into common law arbitrations once they have commenced.\nMoreover, as discussed above, recognition of any such inherent equitable judicial authority is wholly unnecessary under the circumstances of this case, as the legislature has already afforded specified statutory remedies of which Appellant could have availed herself to address the alleged procedural shortcomings in the arbitration process. In accord with these considerations, we have, in Great American and Harleysville, discussed supra, disapproved of the use of equitable proceedings to obtain interlocutory review of discovery matters, or to deprive an arbitrator of the ability to render a final decision on matters submitted to him by the parties in accordance with their agreement to arbitrate, and we reaffirm those holdings today.\nThe proper role of the trial court in this matter was to effectuate the parties\u2019 intent to have an arbitrator resolve any and all disputed issues which could arise out of the performance of the partnership agreement, including issues arising from Appellant\u2019s withdrawal from the partnership. Judge Baldwin\u2019s order of February 4, 2004, referring the matters in contention to common law arbitration, was consistent with the parties\u2019 intent. The trial judge\u2019s order of June 26, 2007, purporting to terminate the arbitration, was not. As the Superior Court properly concluded, such an order was not authorized by law, nor, for the reasons which we have outlined above, did the trial judge have inherent equitable authority to enter such an order. The Superior Court\u2019s May 9, 2008 order reversing the trial court\u2019s order of June 26, 2007, and reinstating the arbitration proceeding, is therefore affirmed.\nOrder affirmed. Jurisdiction relinquished.\nFormer Justice GREENSPAN did not participate in the decision of this case.\nChief Justice CASTILLE and Justices EAKIN, BAER and McCAFFERY join the opinion.\nJustice SAYLOR files a concurring opinion.\n. Uniform Arbitration Act of Oct. 5, 1980, P.L. 693, No. 142, codified at 42 Pa.C.S.A. \u00a7\u00a7 7301-7362.\n. Fastuca v. Molnar, 950 A.2d 980 (Pa.Super.2008).\n. Act of Dec. 21, 1988, P.L. 1444, No. 177, \u00a7 103.\n. There was no transcript made of this proceeding.\n. Section 8353(2) provides:\n\u00a7 8353. Causes of dissolution\nDissolution is caused:\n(2) In contravention of the agreement between the partners, where the circumstances do not permit a dissolution under any other provision of this section, by the express will of any partner at any time.\n15 Pa.C.S.A. \u00a7 8353(2).\n. Partnership Agreement, supra, \u00b6 12(d), (R.R. at 187a-188a).\n. Section 8360(b)(2) of the Uniform Partnership Act provides:\n(2) The partners who have not caused the dissolution wrongfully, if they all desire to continue the business in the same name, either by themselves or jointly with others, may do so, during the agreed term for the partnership, and for that purpose may possess the partnership property, if they secure the payment by bond approved by the court, or pay to any partner who has caused the dissolution wrongfully the value of his interest in the partnership at the dissolution, less any damages recoverable under paragraph (l)(ii) [entitling the partners who have not caused the wrongful dissolution to damages for breach of the agreement from the partner or partners responsible for the wrongful dissolution], and in like manner indemnify him against all present or future partnership liabilities.\n15 Pa.C.S.A. \u00a7 8360(b)(2).\n.Prior to the meeting, Appellant requested that it be transcribed; however, Appellant avers that the arbitrator did not allow transcription even though she had court reporters present. Motion to Terminate Arbitration, 10/28/98, at \u00b6\u00b6\u2019s 27-30 (R.R. at 77a). No transcript of this meeting appears in the record.\n. Appellees contend that they never received notice that Appellant ever delivered the authorizations to the holders of the requested records. Appellees' Letter to Arbitrator, 11/14/06, at 2 (R.R. at 460a).\n. According to Appellant\u2019s motion, the records sought related to the propriety of the alleged transfer of partnership funds by Ap-pellees to a corporation in which Appellant and Appellees are each 1/3 owners, and which is the subject of separate litigation. Motion to Terminate Arbitration, 11/10/06, at 5-7 (R.R. at 75a-77a). Appellees took the position that they fully complied with the arbitrator\u2019s order to disclose all documents which the arbitrator\u2019s order required to ascertain the value of the partnership, and that the remaining documents Appellant sought were not relevant or material to the valuation of the real estate properties which they contend comprised the majority of the partnership assets. See, e.g., Claimants\u2019 Response to Motion for Contempt, 12/7/05 at 2, 5 (R.R. at 412a, 415a). Also, some of the documents may have been destroyed in the widespread flooding which occurred in the Pittsburgh region in 2004. Motion to Terminate Arbitration, 11/10/06, at 6 (R.R. at 76a). We are not concerned in this appeal with the merits of these respective contentions, as they are not relevant to the disposition of the issues which we granted allocatur to consider.\n. The relevant portions of Rule 341 provide as follows:\nRule 341. Final Orders; Generally\n(a) General rule. Except as prescribed in subdivisions (d), and (e) of this rule, an appeal may be taken as of right from any final order of an administrative agency or lower court.\n(b) Definition of final order. A final order is any order that:\n(1) disposes of all claims and of all parties.\nPa.R.A.P. 341(a), (b)(1).\n. See 42 Pa.C.S.A. \u00a7\u00a7 7301-7320, 7341, 7361, and 7362, respectively.\n. \u00a7 7304. Court proceedings to compel or stay arbitration\n(a) Compelling arbitration. \u2014 On application to a court to compel arbitration made by a party showing an agreement described in Section 7303 (relating to validity of agreement to arbitrate) and a showing that an opposing party refused to arbitrate, the court shall order the parties to proceed with arbitration. If the opposing party denies the existence of an agreement to arbitrate, the court shall proceed summarily to determine the issue so raised and shall order the parties to proceed with arbitration if it finds for the moving party. Otherwise, the application shall be denied.\n(b) Stay of arbitration. \u2014 On application of a party to a court to stay an arbitration proceeding threatened or commenced the court may stay an arbitration on a showing that there is no agreement to arbitrate. When in substantial and bona fide dispute, such an issue shall be forthwith and summarily tried and determined and a stay of the arbitration proceedings shall be ordered if the court finds for the moving party. If the court finds for the opposing party, the court shall order the parties to proceed with arbitration.\n42 Pa.C.S.A. \u00a7 7304(a), (b).\n. Appellant does not contend that there is any specific provision of the Uniform Arbitration Act which expressly authorizes a trial court to equitably intervene in a common law arbitration proceeding under these circumstances, and our independent review discerns no statutory language which confers such a power on a trial court.\n. See, e.g., Mich. Comp. Laws Ann. \u00a7 600.5035 (providing that arbitration act shall not be construed \"to impair, diminish, or in any manner to affect the equitable power and authority of any court over arbitrators, awards, or the parties thereto; nor to impair or affect any action upon any award, or upon any bond or other engagement to abide an award.\u201d).\n. Arbitration Act of April 25, 1927, April 25, P.L. 381, No. 248, \u00a7\u00a7 7, 10, codified at 5 P.S. \u00a7\u00a7 167, 170, repealed by the Uniform Arbitration Act.\n. Under 42 Pa.C.S.A. \u00a7 7342, certain provisions of the Uniform Arbitration .Act governing statutory arbitration, including 42 Pa. C.S.A. \u00a7 7305, are applicable to common law arbitration.\n. Appellant also cites three cases from other jurisdictions which she claims illustrate the inherent power of a court to \"interject into a pending arbitration and even terminate it where the interests of justice require.\u201d Appellant\u2019s Brief at 28. Since these decisions are from other jurisdictions, they are, of course, not binding on us in our interpretation of Pennsylvania law.\nIn Belanger v. State Farm, 74 A.D.2d 938, 426 N.Y.S.2d 140 (N.Y.A.D.1980), the New York intermediate court of appeals concluded a trial court had equitable authority to remove an arbitrator who was not acting impartially, and, also, to impose conditions on the arbitration to ensure no party would gain undue advantage. There is no alleged partiality by the arbitrator in the present matter.\nIn J Brooks Securities v. Vanderbilt Securities, 126 Misc.2d 875, 484 N.Y.S.2d 472 (N.Y.Sup.1985), a New York trial court entered an injunction before an arbitration commenced in order to prevent one of the parties from disseminating wrongful information and attempting to take clients from the other party until an arbitration panel could be assembled and, under the terms of the arbitration agreement, render a decision on whether the injunction should continue to stop these practices. The trial court therefore acted to preserve the status quo between the parties so that the efficacy of the arbitration process would not be irrevocably harmed by the actions of one of the parties. The trial court in the instant case, by contrast, did not act to facilitate the conduct of the arbitration; rather, it fatally impeded the ongoing arbitration process by terminating it.\nIn Manatt, Phelps, Rothenberg & Tunney v. Lawrence, 151 Cal.App.3d 1165, 199 Cal.Rptr. 246 (Cal.App.2d.Dist.1984), the intermediate court of appeals of California concluded that a trial court had authority under the California Business and Professions Code to terminate arbitration proceedings after they had begun if, at any time, it found the matter was \"not amenable to arbitration.\u201d Id. at 1173. Manat\u00ed is therefore unhelpful to Appellant as Pennsylvania\u2019s Uniform Arbitration Act does not confer upon a Pennsylvania trial judge the same plenary power. Further, Judge Baldwin\u2019s ruling of February 4, 2004 had already determined that all of Appellant's claims regarding her withdrawal from the partnership were subject to the parties\u2019 agreement to arbitrate. No other trial judge could alter this ruling under the law of the case doctrine. See, e.g., In re De Facto Condemnation and Taking of Lands of WBF Associates, L.P. ex rel. Lehigh-Northampton Airport Authority 588 Pa. 242, 268, 903 A.2d 1192, 1207 (2006) (\"judges of coordinate jurisdiction sitting in the same case should not overrule each other\u2019s decisions on the same issue\u201d).",
+        "type": "majority",
+        "author": "Justice TODD."
+      },
+      {
+        "text": "Justice SAYLOR,\nconcurring.\nI join the majority opinion, subject to some modest differences of degree.\nAs this case reflects, the expediency, inexpensiveness, and certainty of arbitration sometimes may be seen as more of an ideal than a practical reality. I continue to support arbitration nonetheless, in light of the comparative advantages it offers, which I believe are realized in many situations. Moreover, I agree with the majority that, if greater net benefits are to be achieved, judicial intervention must be restrained, consistent with the legislative direction. Finally, with no disrespect intended to the arbitrator \u2014 who very well may have performed admirably \u2014 I see it as beyond the scope of our review to comment on his handling of the discovery disputes. From my perspective, it is more than enough to say that, on this record, the common pleas court erred both in intervening and in the form of intervention chosen.",
+        "type": "concurrence",
+        "author": "Justice SAYLOR,"
+      }
+    ],
+    "attorneys": [
+      "William Shaw Stickman, IV, Del Sole Cavanaugh Stroyd, L.L.C., Samuel P. Ka-min, Pittsburgh, David Alan Wolf, Goldberg, Kamin & Garvin, Arthur H. Stroyd, Jr., Del Sole Cavanaugh Stroyd, L.L.C., for Diane L. Fastuca.",
+      "Kevin Patrick Lucas, Manion McDon-ough & Lucas, P.C., Pittsburgh, Cathy A. Chromulak, Chromulak & Associates, L.L.C., for L.W. Molnar & Associates, et al."
+    ],
+    "corrections": "",
+    "head_matter": "Diane L. FASTUCA, Appellant v. L.W. MOLNAR & ASSOCIATES, Louis W. Molnar, Jr. and Mary Lou Molnar, individually and t/d/b/a L.W. Molnar & Associates, Appellees.\nSupreme Court of Pennsylvania.\nArgued Sept. 16, 2009.\nDecided Jan. 18, 2011.\nWilliam Shaw Stickman, IV, Del Sole Cavanaugh Stroyd, L.L.C., Samuel P. Ka-min, Pittsburgh, David Alan Wolf, Goldberg, Kamin & Garvin, Arthur H. Stroyd, Jr., Del Sole Cavanaugh Stroyd, L.L.C., for Diane L. Fastuca.\nKevin Patrick Lucas, Manion McDon-ough & Lucas, P.C., Pittsburgh, Cathy A. Chromulak, Chromulak & Associates, L.L.C., for L.W. Molnar & Associates, et al.\nCASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ."
+  },
+  "file_name": "1230-01",
+  "first_page_order": 1230,
+  "last_page_order": 1251
+}

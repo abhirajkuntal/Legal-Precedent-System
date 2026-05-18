@@ -1,0 +1,563 @@
+{
+  "id": 7290547,
+  "name": "IRWIN UNION NATIONAL BANK AND TRUST COMPANY, v. George M. FAMOUS and Nancy L. Famous and ATL Ventures. Appeal of ATL Ventures, Appellant",
+  "name_abbreviation": "Irwin Union National Bank v. Famous",
+  "decision_date": "2010-08-09",
+  "docket_number": "",
+  "first_page": "1099",
+  "last_page": "1106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 1099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "130 A.2d 137",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "140",
+          "parenthetical": "announcement at sheriffs sale regarding lien has no legal effect"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "388 Pa. 139",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1272564
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "parenthetical": "announcement at sheriffs sale regarding lien has no legal effect"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/388/0139-01"
+      ]
+    },
+    {
+      "cite": "337 Pa.Super. 470",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        624047
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/337/0470-01"
+      ]
+    },
+    {
+      "cite": "429 Pa.Super. 282",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        934777
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "569"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/429/0282-01"
+      ]
+    },
+    {
+      "cite": "736 A.2d 650",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11576945
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/0650-01"
+      ]
+    },
+    {
+      "cite": "805 A.2d 491",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11433616,
+        312811
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/805/0491-01",
+        "/pa/569/0462-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 462",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312811
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0462-01"
+      ]
+    },
+    {
+      "cite": "757 A.2d 972",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11243928
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/757/0972-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "558 Pa. 620",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "718 A.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11687988
+      ],
+      "pin_cites": [
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/718/0788-01"
+      ]
+    },
+    {
+      "cite": "854 A.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9215848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/854/0597-01"
+      ]
+    },
+    {
+      "cite": "650 A.2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474235,
+        11324860
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0044-01",
+        "/a2d/650/0412-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 44",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474235
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0044-01"
+      ]
+    },
+    {
+      "cite": "806 A.2d 423",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11346052
+      ],
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/806/0423-01"
+      ]
+    },
+    {
+      "cite": "702 A.2d 1027",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        18012,
+        11896631
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0634-02",
+        "/a2d/702/1027-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 634",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        18232,
+        18012
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0634-01",
+        "/pa/549/0634-02"
+      ]
+    },
+    {
+      "cite": "932 A.2d 78",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8343421
+      ],
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/932/0078-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 362",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "596 Pa. 703",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "918 A.2d 766",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8329465
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "771"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/918/0766-01"
+      ]
+    },
+    {
+      "cite": "820 A.2d 702",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "573 Pa. 662",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "810 A.2d 164",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9307728
+      ],
+      "pin_cites": [
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/810/0164-01"
+      ]
+    },
+    {
+      "cite": "684 A.2d 630",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7352705,
+        772849
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "631",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/684/0630-01",
+        "/pa-super/454/0067-01"
+      ]
+    },
+    {
+      "cite": "454 Pa.Super. 67",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        772849
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/454/0067-01"
+      ]
+    },
+    {
+      "cite": "672 A.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        732408,
+        7348533
+      ],
+      "weight": 5,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "329"
+        },
+        {
+          "page": "330"
+        },
+        {
+          "page": "331"
+        },
+        {
+          "page": "329-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/448/0496-01",
+        "/a2d/672/0326-01"
+      ]
+    },
+    {
+      "cite": "448 Pa.Super. 496",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        732408
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/448/0496-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 1199",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "582 Pa. 718",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "859 A.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9163130
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "791"
+        },
+        {
+          "page": "789"
+        },
+        {
+          "page": "790"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "789-90",
+          "parenthetical": "internal citation omitted"
+        },
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/859/0788-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 899,
+    "char_count": 18844,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 2.1151900801751784e-07,
+      "percentile": 0.7637269585987445
+    },
+    "sha256": "7fedf8abc32263700aa5be0ea772052a03951e0e0c8278f11aa1b2065526d441",
+    "simhash": "1:e76cc53b132c9d3e",
+    "word_count": 3159
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: SHOGAN, COLVILLE , and FREEDBERG *, JJ."
+    ],
+    "parties": [
+      "IRWIN UNION NATIONAL BANK AND TRUST COMPANY, v. George M. FAMOUS and Nancy L. Famous and ATL Ventures. Appeal of ATL Ventures, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nFREEDBERG, J.:\nAppellant, ATL Ventures (\u201cATL\u201d), as third party purchaser, appeals from the August 17, 2009 orders of the Court of Common Pleas of Chester County, which denied ATL\u2019s amended petition to set aside the sheriffs sale, and ATL\u2019s motion for reconsideration. For the reasons discussed below, we affirm.\nThe relevant facts of this matter are taken from the trial court\u2019s November 2, 2009 Opinion. On May 29, 2002, first mortgage holder GE Capital Mortgage (\u201cGE\u201d) filed a complaint in mortgage foreclosure on the property known as parcel number 15-9-37, 5th Ward, Phoenixville Boro, Chester County, Pennsylvania. George and Nancy Famous (\u201cthe Famous-es\u201d) are the owners of the property. On June 19, 2008, second mortgage holder Irwin Union National Bank & Trust Company (\u201cIrwin Union\u201d) filed a complaint in mortgage foreclosure. Irwin Union obtained a default judgment and assessment of damages. ATL purchased the property at a January 15, 2009 sheriffs sale on Irwin Union\u2019s judgment for $25,100.00.\nOn March 12, 2009, ATL filed a petition to set aside the sheriffs sale of January 15, 2009. Irwin Union filed a response on March 20, 2009. ATL filed an amended petition to set aside the sheriffs sale on April 2, 2009. By Order dated April 16, 2009, the trial court continued a scheduled sheriffs sale in GE\u2019s foreclosure action against the Famouses to June 18, 2009. The same order gave ATL thirty (30) days to conduct discovery on its petition to set aside the sheriffs sale.\nOn August 17, 2009, after argument, the trial court denied ATL\u2019s petition to set aside the sheriffs sale. On August 20, 2009, GE purchased the property at a sheriffs sale conducted as a result of its foreclosure action. On August 27, 2009, ATL filed a motion for reconsideration, which was denied by Order of September 2, 2009. ATL filed a timely appeal and was ordered to file a concise statement of errors complained of on appeal pursuant to Pa.R.A.P. 1925(b). Appellant timely filed the 1925(b) statement, and the trial court issued an opinion.\nOn appeal, ATL raises the following issues for our review:\n1. Should the court have allowed the Appellant, ATL, to develop factual support for its claims that there is a custom in Chester County to announce the existence of potential clouds on the title of property being sold at sheriffs sale before the sale occurs and that the mortgage in this matter was subject to a first mortgage?\n2. Where there are irregularities in a sheriffs sale, should not the highest bidder having paid for the property which is of little value and having never received a Sheriffs deed have the right to have the money refunded by the Sheriff?\n3. Was ATL deprived of property in the proceeding without due process of law in violation of the Fifth and Fourteenth Amendments of the Constitution of the United States because of the vagueness of the legal provisions governing the proceedings?\n4. Should the court have applied the caveat emptor doctrine in this matter where the foreclosing second Mortgagee knew of the existence of a first mortgage and the specific date of the sale with respect to which foreclosure proceedings had been commenced before the commencement of proceedings to foreclose the second mortgage?\n5. Should the trial court have considered important substantive issues rather than dismiss the Petition solely on the basis of the caveat emptor doctrine which places a heavy burden on the participating parties in the sheriffs sale?\nATL\u2019s Brief at 2.\nPennsylvania Rule of Civil Procedure 3132 provides:\nSetting Aside Sale\nUpon petition of any party in interest before delivery of ... the sheriffs deed to real property, the court may, upon proper cause shown, set aside the sale and order a resale or enter any other order which may be just and proper under the circumstances.\nThus, the relevant inquiry is whether proper cause has been shown to set aside the sheriffs sale. The decision to set aside a sheriffs sale is within the sound discretion of the trial court. Merrill Lynch Mortgage Capital v. Steele, 859 A.2d 788, 791 (Pa.Super.2004), appeal denied, 582 Pa. 718, 872 A.2d 1199 (2005) (table). A petition to set aside a sheriffs sale is based on equitable principles. National Penn Bank v. Shaffer, 448 Pa.Super. 496, 672 A.2d 326, 329 (1996). \u201cThe burden of proving circumstances warranting the exercise of the court\u2019s equitable powers is on the petitioner, and the request to set aside a sheriffs sale may be refused due to insufficient proof to support the allegations in the petition.\u201d Kaib v. Smith, 454 Pa.Super. 67, 684 A.2d 630, 631 (1996) (internal citations omitted). Sheriffs sales have been set aside where the validity of the sale proceedings is challenged, a deficiency pertaining to the notice of the sale exists, or where misconduct occurs in the bidding process. Blue Ball National Bank v. Balmer, 810 A.2d 164, 167 (Pa.Super.2002), appeal denied, 573 Pa. 662, 820 A.2d 702 (2003) (table). This court will not reverse the trial court\u2019s decision absent a clear abuse of discretion. Kaib, supra.\nATL claims that the trial court erred by failing to allow full discovery in this matter, so that it could more fully develop its claim that custom in Chester County required Irwin Union to disclose the existence of a first mortgage on the property. The April 16, 2009 Order in this matter allowed thirty (30) days for discovery. The record reflects that ATL served several sets of interrogatories. On June 16, 2009, ATL filed a motion to compel further answers to the interrogatories from Irwin Union. For reasons that are not apparent from the record, the motion to compel was not ruled upon.\nPennsylvania Rule of Civil Procedure 4008.1(a) provides for the scope of discovery as follows:\nScope of Discovery Generally. Opinions and Contentions\nSubject to the provisions of Rules 4003.2 to 4003.5 inclusive and Rule 4011, a party may obtain discovery regarding any matter, not privileged, which is relevant to the subject matter involved in the pending action, whether it relates to the claim or defense of the party seeking discovery or to the claim or defense of any other party ...\nAppellant contends that the thirty (30) day time period in which to conduct discovery was inadequate and, because of this, it was unable to fully develop the record on this matter to establish a custom of announcement of the liens prior to the sheriffs sale.\nATL did not file a petition to extend the discovery period in this matter. Therefore, it cannot complain that the allotted time for discovery was too short.\nFurther, in the motion to compel, ATL does not specify the nature of the information sought; what specific interrogatories Irwin Union either declined to answer or did not fully answer; in what manner Irwin Union\u2019s responses were inadequate; and how the information sought was reasonably calculated to lead to the discovery of admissible evidence. ATL\nclaims that it was unable to fully develop the record with respect to the contention that it was the custom at Chester County Sheriffs sales for the attorney for the foreclosing party to announce the existence of an encumbrance on the property. However, ATL does not explain in its argument how the responses impacted on its ability to prove that the custom was breached. This Court will not act as counsel and will not develop arguments on behalf of an appellant. Commonwealth v. Hardy, 918 A.2d 766, 771 (Pa.Super.2007), appeal denied, 596 Pa. 703, 940 A.2d 362 (2008) (table); Bombar v. West American Insurance Company, 932 A.2d 78, 94 (Pa.Super.2007). When deficiencies in a brief hinder our ability to conduct meaningful appellate review, we may dismiss the appeal entirely or find certain issues to be waived. Pa.R.A.P. 2101; Hardy, supra. It is not this Court\u2019s responsibility to comb through the record seeking the factual underpinnings of ATL\u2019s claim. Commonwealth v. Mulholland, 549 Pa. 634, 702 A.2d 1027, 1034 n. 5 (1997). Because ATL failed to clarify the specifics of its discovery claims, and further because it did not seek additional time for discovery, we find this claim to be waived. Pa.R.A.P. 302(a); Pa.R.A.P. 2119(e); Pa.R.A.P. 2101; Hardy, supra.\nFinally, discovery is limited to that which is \u201crelevant to the subject matter involved in the pending action.\u201d Pa.R.C.P. 4003.1(a). As will be developed infra, the existence of such a local custom is irrelevant to this case.\nATL also argues that it is entitled to a refund of the money it paid because it did not receive a deed to the property. Additionally, ATL claims that it was deprived of the money it advanced for the purchase price without due process of law in violation of the Fifth and Fourteenth Amendments of the United States Constitution. Irwin Union responds that these claims are waived because ATL raised them for the first time in its 1925(b) concise statement. In its reply brief, ATL concedes that the issues were raised for the first time in the 1925(b) statement but claims that the issues are not waived because they are matters of law.\nIt is well settled that issues not raised below cannot be advanced for the first time in a 1925(b) statement or on appeal. See Pa.R.A.P. 802(a) (\u201cIssues not raised in the lower court are waived and cannot be raised for the first time on appeal.\u201d); Diamond Reo Truck Company v. Mid-Pacific Industries, Inc., 806 A.2d 423, 430 (Pa.Super.2002) (issues cannot be raised first in a 1925 statement). In support of its contention that it was not required to raise this issue below, ATL cites three cases: (1) Otte v. Covington TP. Road Sup\u2019rs, 539 Pa. 44, 650 A.2d 412, 414 (1994); (2) Commonwealth v. Smith, 854 A.2d 597 (Pa.Super.2004); and (3) Jara v. Rexworks, Inc., 718 A.2d 788, 792 (Pa.Super.1998), appeal denied, 558 Pa. 620, 737 A.2d 743 (1999) (table). None are apposite. In Otte, the Pennsylvania Supreme Court held that the Commonwealth Court did not err in deciding a case on the merits where the trial court did not issue a 1925(a) opinion, as the case involved only \u201cpure questions of law.\u201d Otte, supra. Nothing in Otte supports the view that a question of law raised for the first time in an appellant\u2019s 1925(b) concise statement must be decided on the merits by an appellate court. In Smith, this Court noted that, \u201c[wjaiver is required when an ordered statement is not filed, but is discretionary with the trial court when the statement is belatedly filed.\u201d Id. at 599-600 (internal citation omitted) (emphasis added). There is no support in Smith for the proposition that waiver is discretionary when an appellant raises an issue for the first time in a 1925(b) statement. Lastly, Jara concerned the non-aggrieved party\u2019s not filing a cautionary post-trial motion, and in later decisions this Court specifically rejected the notion that Jara stood for the proposition that an issue raised for the first time in a 1925(b) statement was preserved for appellate review. See Chalkey v. Roush, 757 A.2d 972, 979 n. 6 (Pa.Super.2000), affirmed, 569 Pa. 462, 805 A.2d 491 (2002).\nATL\u2019s next claim is that the doctrine of caveat emptor should not be applied in this matter because Irwin Union was aware of the existence of the first mortgage but did not advise potential buyers of that fact. This Court has long held that:\n[a] Sheriffs Sale is made without warranty; the purchaser takes all the risk, and the rule of caveat emptor applies in all its force. The purchaser at such a sale receives all the right, title, and interest in the property that the judgment debtor held and the rights of the purchaser become fixed when the property is knocked down to the highest bidder. If the debtor had no rights in the property at the time of the sheriffs sale, however, no title passes to the purchaser.\nJuniata Valley Bank v. Martin Oil Co., 736 A.2d 650 (Pa.Super.1999) (internal citation omitted).\nATL contends that there is a custom in Chester County of announcing the existence of encumbrances on the property at sheriffs sale. ATL does not cite any legal authority which supports the notion that local custom prevails, given the adoption of the doctrine of \u201ccaveat emptor \u201d in the cases cited herein. ATL does not claim that Irwin Union was asked about, made representations about, or supplied misleading information about the existence of a first mortgage. ATL also does not aver that a title search would not have revealed the existence of a first mortgage.\nThis Court has held that a purchaser\u2019s error in assuming that a sheriffs sale had the legal effect of discharging a first mortgage was not sufficient ground to set aside a sheriffs sale. National Penn Bank v. Shaffer, 672 A.2d at 330. In so holding, this Court stated:\n[bidders, therefore, must look out and take care of themselves. It is their business to examine beforehand, and after having made themselves acquainted with the facts and circumstances in relation to encumbrances, if any exist, then to decide for themselves as to what will be the legal effect and operation of the sale upon them.\nId. The Court also noted that courts have generally refused to award relief because of a party\u2019s unilateral mistake of law or fact. Id. at 331.\nIn support of its contention that equitable relief is appropriate in this matter, ATL cites Merrill Lynch Mortgage Capital v. Steele, 859 A.2d 788 (Pa.Super.2004). However, that case is factually inapposite. In Merrill Lynch, the property at question had been listed for sheriffs sale when a private party purchased the property the day before the sale. Id. at 789. The private purchaser had sent the mortgage payoff proceeds to the mortgage creditor before the sheriffs sale. Despite the private sale, the property was then sold to a different party at a sheriffs sale. The deed issued to the private party was recorded several hours after the sheriffs sale but before the sheriffs deed was issued to the buyer at the sheriffs sale. The private purchaser filed a timely petition to set aside the sheriffs sale, which was denied by the trial court because of a lack of standing and, in the alternative, because the petition failed to set forth sufficient grounds to set aside the sale. Id. at 790. This Court reversed, finding that the private purchaser who purchased the property prior to sheriffs sale was a bona fide innocent purchaser for value, whereas the party who purchased the property at sheriffs sale knew that there was the possibility that the sale could be set aside in accordance with Pa.R.C.P. 3132. Id. at 792.\nATL does not dispute Irwin Union\u2019s claim that ATL regularly buys properties at sheriffs sale and, thus, is acquainted with the risks associated with such a purchase. There was nothing which prevented ATL from conducting a title search prior to purchase which would have revealed the existence of the first mortgage lien on the property. The cases ATL relies on for support of the view that equitable considerations require that it be granted relief are all from the early part of the twentieth century. We have specifically disavowed reliance on such cases, noting that \u201c... [t]he difficulties and expense of ascertaining the state of a title ... have been substantially reduced by the advent of advanced information technology. Equitable considerations therefore no longer favor the protection of purchasers to the extent necessary [in earlier cases].\u201d National Penn Bank v. Shaffer, 672 A.2d at 329-30.\nATL\u2019s final claim is that there were \u201cimportant substantive issues\u201d that the trial court should have decided rather than relying on the \u201ccaveat emptor\u201d principle. Those issues are: (1) the price ATL bid for the property in question is inadequate; (2) Irwin Union did not give the Famouses proper notice of their right to stop or prevent the sheriffs sale; (3) the property description in the sheriffs handbills is incorrect; and (4) the underlying mortgage was a \u201ctoxic mortgage\u201d and, therefore, void as against public policy.\n\u201c[A] party seeking judicial resolution of a controversy in this Commonwealth must, as a prerequisite, establish that he has standing to maintain the action.\u201d Merrill Lynch Mortgage Capital v. Steele, 859 A.2d at 789-90 (internal citation omitted). \u201cA party has standing if he is aggrieved, i e., he can show a substantial, direct, and immediate interest in the out-comet.]\u201d Id. at 790.\nATL has not shown that it was aggrieved by paying an \u201cinadequate\u201d price for the property. Further, it is well established that mere inadequacy of the sale price of real estate is not a sufficient ground for setting aside a sheriffs sale; rather the price must be \u201cgrossly inadequate,\u201d a claim not made by ATL. S & T Bank by Dalessio v. Dalessio, 429 Pa.Super. 282, 632 A.2d 566, 569 (1993).\nATL has not established how it was aggrieved by the allegedly inadequate notice sent to the Famouses. Therefore, ATL lacks standing to contest this issue.\nIrwin Union concedes that the house number of the property is listed incorrectly in the sheriffs handbills. However, ATL does not claim that this caused any confusion, that it bid on the wrong property, or that this in any way affected the sheriffs sale. Thus, the contention lacks merit.\nATL has further failed to provide any legal support for a claim that a \u201ctoxic mortgage\u201d is a ground for setting aside a sheriffs sale. In its brief, ATL acknowledges that the term \u201ctoxic mortgage\u201d is not a legal term, but rather a term coined by the media, economists, and finance experts to describe certain financially dubious mortgages. ATL\u2019s Brief at 16. ATL also admits that it has no direct knowledge of whether the mortgage in the instant matter was \u201ctoxic.\u201d Accordingly, there is no merit to this contention.\nOrder AFFIRMED. Jurisdiction RELINQUISHED.\n. We have reordered the issues in ATL's brief.\n. Pa.RX.P. 318 l(a)(l)(8) makes Pa.R.C.P. 3132 applicable to mortgage foreclosure actions.\n. ATL purchased only those rights of Irwin Union, the junior lienholder. A junior lien-holder's rights are divested when a senior lienholder sells the property at sheriff's sale. 42 Pa.C.S.A. \u00a7 8152; Unity Savings Assn. v. American Urban Sciences Foundation, Inc., 337 Pa.Super. 470, 487 A.2d 356, 358 (1984).\n. \"Titles to real estate are protected by the public records and can not be divested or defeated by matters dehors the record.\u201d Liss v. Medary Homes, 388 Pa. 139, 130 A.2d 137, 140 (1957) (announcement at sheriffs sale regarding lien has no legal effect).",
+        "type": "majority",
+        "author": "FREEDBERG, J.:"
+      }
+    ],
+    "attorneys": [
+      "Thomas R. Kellogg, Plymouth Meeting, for appellant.",
+      "Louis P. Vitti, Pittsburgh, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "IRWIN UNION NATIONAL BANK AND TRUST COMPANY, v. George M. FAMOUS and Nancy L. Famous and ATL Ventures. Appeal of ATL Ventures, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted May 17, 2010.\nFiled Aug. 9, 2010.\nReargument Denied Oct. 15, 2010.\nThomas R. Kellogg, Plymouth Meeting, for appellant.\nLouis P. Vitti, Pittsburgh, for appellee.\nBEFORE: SHOGAN, COLVILLE , and FREEDBERG *, JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "1099-01",
+  "first_page_order": 1161,
+  "last_page_order": 1168
+}

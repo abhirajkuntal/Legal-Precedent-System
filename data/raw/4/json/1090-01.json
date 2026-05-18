@@ -1,0 +1,550 @@
+{
+  "id": 7290522,
+  "name": "Richard & Debra D'ADAMO, Appellants v. ERIE INSURANCE EXCHANGE, Appellee; Donald Holocher and Lisa Holocher, His Wife, Appellants v. Erie Insurance Exchange, Appellee",
+  "name_abbreviation": "D'Adamo v. Erie Insurance Exchange",
+  "decision_date": "2010-04-30",
+  "docket_number": "",
+  "first_page": "1090",
+  "last_page": "1099",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 1090"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "318 Pa.Super. 386",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        91115
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citations omitted"
+        },
+        {
+          "page": "10",
+          "parenthetical": "internal citations omitted"
+        },
+        {
+          "parenthetical": "stating fundamental rule of damages is that injured party cannot recover twice for same injury; rule is equally applicable to recipient of insurance benefits, which compensates recipient for injuries suffered, even if recipient legally has another claim of recovery for same loss"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/318/0386-01"
+      ]
+    },
+    {
+      "cite": "909 A.2d 828",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8459170
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "831"
+        },
+        {
+          "page": "831"
+        },
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/909/0828-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 1111",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8337749
+      ],
+      "pin_cites": [
+        {
+          "page": "1118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/1111-01"
+      ]
+    },
+    {
+      "cite": "735 A.2d 100",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56742,
+        11533791
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0595-01",
+        "/a2d/735/0100-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 595",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56742
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0595-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 730",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "974 A.2d 502",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/974/0502-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 1154",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        730305,
+        7872829
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "holding UIM provider entitled to setoff where exhaustion clause stated: \"There is no coverage [under UIM policy] for bodily injury arising out of the ownership, maintenance or use of an underin-sured motor vehicle until: (1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/447/0214-01",
+        "/a2d/668/1154-01"
+      ]
+    },
+    {
+      "cite": "447 Pa.Super. 214",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        730305
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "holding UIM provider entitled to setoff where exhaustion clause stated: \"There is no coverage [under UIM policy] for bodily injury arising out of the ownership, maintenance or use of an underin-sured motor vehicle until: (1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/447/0214-01"
+      ]
+    },
+    {
+      "cite": "672 A.2d 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "543 Pa. 707",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "658 A.2d 1346",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        719792,
+        7883806
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/442/0155-01",
+        "/a2d/658/1346-01"
+      ]
+    },
+    {
+      "cite": "442 Pa.Super. 155",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        719792
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/442/0155-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 1120",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "some internal citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "542 Pa. 655",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "some internal citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "656 A.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7881643,
+        718028
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "943-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/656/0941-01",
+        "/pa-super/441/0103-01"
+      ]
+    },
+    {
+      "cite": "441 Pa.Super. 103",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        718028
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/441/0103-01"
+      ]
+    },
+    {
+      "cite": "338 N.W.2d 256",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10672296
+      ],
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/338/0256-01"
+      ]
+    },
+    {
+      "cite": "592 A.2d 45",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "527 Pa. 624",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "399 Pa.Super. 206",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        886680
+      ],
+      "weight": 4,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/399/0206-01"
+      ]
+    },
+    {
+      "cite": "551 A.2d 216",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "520 Pa. 590",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "370 Pa.Super. 51",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        689158
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "ew banc"
+        },
+        {
+          "parenthetical": "ew banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/370/0051-01"
+      ]
+    },
+    {
+      "cite": "640 A.2d 1234",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1843209,
+        7871724
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1235"
+        },
+        {
+          "page": "1235-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0583-01",
+        "/a2d/640/1234-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 583",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843209
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0583-01"
+      ]
+    },
+    {
+      "cite": "696 A.2d 152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12021280,
+        960539,
+        12021320,
+        960589
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/696/0152-01",
+        "/pa/548/0209-01",
+        "/a2d/696/0152-02",
+        "/pa/548/0210-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960539
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0209-01"
+      ]
+    },
+    {
+      "cite": "677 A.2d 1224",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        736347,
+        7876780
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/450/0631-01",
+        "/a2d/677/1224-01"
+      ]
+    },
+    {
+      "cite": "450 Pa.Super. 631",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        736347
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/450/0631-01"
+      ]
+    },
+    {
+      "cite": "818 A.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "572 Pa. 758",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "806 A.2d 1270",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11367139
+      ],
+      "pin_cites": [
+        {
+          "page": "1272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/806/1270-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 986,
+    "char_count": 26883,
+    "ocr_confidence": 0.703,
+    "pagerank": {
+      "raw": 1.8288454266733924e-07,
+      "percentile": 0.7204282952403789
+    },
+    "sha256": "648ff6d295bf159f93395dc79f315e10d36f81a71767ef65415190ea37cebb45",
+    "simhash": "1:67e82dfc6d4e769c",
+    "word_count": 4130
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LALLY-GREEN , GANTMAN, and ALLEN, JJ."
+    ],
+    "parties": [
+      "Richard & Debra D\u2019ADAMO, Appellants v. ERIE INSURANCE EXCHANGE, Appellee. Donald Holocher and Lisa Holocher, His Wife, Appellants v. Erie Insurance Exchange, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nGANTMAN, J.:\n\u00b6 1 Appellants, Richard and Debra D\u2019Adamo and Donald and Lisa Holocher, appeal from the judgments entered in the Lackawanna County Court of Common Pleas on Appellants\u2019 statutory arbitration awards. Appellants ask us to determine whether the arbitrators properly gave Ap-pellee, Erie Insurance Exchange (\u201cErie\u201d), a credit of $750,000.00 on each award to account for Appellants\u2019 recoveries from the tortfeasor\u2019s liability insurance policies. We hold Erie was entitled to a credit of $750,000.00 on each arbitration award, consistent with Appellants\u2019 recoveries from the tortfeasor\u2019s liability insurance policies; and the court properly refused to vacate/modify the arbitration awards to disallow the credits. Accordingly, we affirm the judgments entered on the arbitration awards.\n\u00b6 2 The trial court opinion sets forth the relevant facts and procedural history of this case as follows:\nThis matter originally arose by reason of a two-vehicle auto accident which occurred on or about October 22, 2002 in Vernon Township, New Jersey. At the time of the accident, [Appellant] Richard D\u2019Adamo was a passenger in a vehicle operated by [Appellant] Donald Holocher. While proceedings against the third party were still pending, [Appellants] made claims for underinsurance motorist coverage [ (\u201cUIM\u201d) ] against [Appel-lee], Under the terms of the policy [\u201cErie policy\u201d], the matter proceeded to [statutory] arbitration before three arbitrators on January 4, 2006, in Pike County, Pennsylvania, pursuant to the Arbitration Act of 1927. At all times relevant hereto, [Appellants] were Pike County residents.\nOn or about April 26, 2006, in Pike County, the Arbitration Panel rendered separate but identical awards for [Appellants]. In two (2) to one (1) decisions, the Arbitration Panel awarded [Appellants] gross awards of eight hundred fifty thousand dollars ($850,000.00) each, including loss of consortium claims. From the gross award, and as to each claimant, the Panel determined that Erie was entitled to a total setoff of seven hundred fifty thousand dollars ($750,000.00), five hundred thousand ($500,000.00) of which was attributable to an alleged applicable umbrella policy.\nOn or about May 5, 2006, [Appellants] filed, in Lackawanna County, Petitions to Modify/Correct the aforementioned award. In each petition, [Appellants] argue that it was an error of law for the Panel to have applied the five hundred thousand dollar umbrella coverage as an offset to the UIM award. Accordingly, [Appellants] are requesting this [c]ourt to modify and/or correct the subject award to reflect an offset [limited to] two hundred fifty thousand dollars ($250,000.00) of primary coverage, resulting in a net award [from Erie] of six hundred thousand dollars ($600,000.00) for each claimant.\n(Trial Court Opinion, filed February 11, 2008, at 2-3) (internal citations and footnotes 1, 3 omitted). Erie filed a reply with new matter to Appellants\u2019 petition on May 30, 2006. On June 20, 2006, Appellants filed preliminary objections to Erie\u2019s new matter. Erie filed a comprehensive reply with supporting brief to Appellants\u2019 preliminary objections and Appellants\u2019 petition to modify/correct on July 6, 2006, and a supplement on July 7, 2006. On February 11, 2008, the trial court denied Appellants\u2019 petition to modify/correct the arbitration award. Appellants filed then-appeals on March 7, 2008.\n\u00b6 3 Appellants present the following issue for our review:\nWHETHER THE ARBITRATION PANEL ERRED IN APPLYING THE FACE VALUE OF A PERSONAL \u201cEXCESS LIABILITY\u201d POLICY AS AN OFFSET TO AN UNDERIN-SURED MOTORIST ARBITRATION AWARD?\n(Appellants\u2019 Brief at 4).\n\u00b6 4 The Arbitration Act of 1927 gives the trial court authority \u201cto modify or correct the award where the award is contrary to law and is such that had it been a verdict of a jury the court would have entered a different judgment or a judgment notwithstanding the verdict.\u201d 42 Pa.C.S.A. \u00a7 7302(d)(2). \u201cWhen we review a trial court\u2019s decision to affirm, modify or vacate an arbitration award, this Court may reverse only for an abuse of discretion or an error of law.\u201d Rudloff v. Nationwide Mut. Ins. Co., 806 A.2d 1270, 1272 (Pa.Super.2002), appeal denied, 572 Pa. 758, 818 A.2d 505 (2003).\n\u00b6 5 Appellants argue their arbitration awards should not have been reduced by the amount they had already received under the tortfeasor\u2019s personal umbrella policy. Appellants contend Erie is entitled to a credit only for the amount Appellants recovered under the tortfeasor\u2019s motor vehicle insurance policy. In other words, Appellants maintain the principle of \u201coffset\u201d does not extend to a non-motor vehicle insurance policy such as the tortfea-sor\u2019s personal umbrella policy. Appellants direct our attention to the Motor Vehicle Financial Responsibility Law (MVFRL) and two (2) internal provisions of the Erie policy, which Appellants assert create conflicts that make the policy internally ambiguous. The pertinent section of the MVFRL defines an underinsured motor vehicle as follows:\n\u00a7 1702. Definitions\n* * *\n\u201cUnderinsured motor vehicle.\u201d A motor vehicle for which the limits of available liability insurance and self-insurance are insufficient to pay losses and damages.\n* * *\n75 Pa.C.S.A. \u00a7 1702 (emphasis added). The first internal policy provision gives the definition of an underinsured motor vehicle as follows:\n\u201cunderinsured motor vehicle\u201d means a motor vehicle for which the limits of available liability bonds or insurance or self-insurance at the time of the accident are insufficient to pay losses and damages.\n(See Exhibit A to Erie\u2019s Reply to Appellants\u2019 Preliminary Objections, at 1; R.R. at 102a).. The second internal policy provision is the exhaustion clause that states in pertinent part:\nWhen the accident involves underin-sured motor vehicles, we will not pay until all other forms of insurance under all bodily injury liability bonds and insurance policies and self-insurance plans applicable at the time of the accident have been exhausted by payment of their limits or have been resolved by settlement or by final resolution of the court.\n(Id. at 3; R.R. at 104a). Appellants maintain Erie\u2019s exhaustion clause \u201cappears to require that all applicable liability insurance (both motor vehicle and non-motor vehicle) be exhausted prior to pursuing an underinsured motorist claim.\u201d (Appellants\u2019 Brief at 21). Appellants take the position that Erie\u2019s exhaustion directly conflicts with the narrow definitions of \u201cunderinsured motor vehicle\u201d set forth in the MVFRL and in Erie\u2019s own policy. Specifically, Appellants claim the MVFRL definition for an underinsured motor vehicle demonstrates only a tortfeasor\u2019s motor vehicle insurance policy can serve as the reference for defining \u201cunderinsured status.\u201d Appellants insist if the legislature intended for non-motor vehicle coverage to be included in the UIM analysis, the legislature would have explicitly mentioned such coverage in the language of the statute. Appellants contend the Erie policy\u2019s definition of \u201cunderinsured motor vehicle\u201d also demonstrates the insurance policy covering the tortfeasor\u2019s motor vehicle alone determines a tortfeasor\u2019s \u201cunderin-sured status.\u201d Appellants insist these conflicting clauses in the Erie policy constitute an ambiguity that must be resolved against Erie.\n\u00b6 6 Appellants further claim Erie\u2019s exhaustion clause violates public policy due to its overly broad language and is therefore unenforceable as a matter of law. Appellants aver Erie\u2019s right of subrogation against the tortfeasor protects Erie, if the court revokes the credit to the arbitration award attributable to the tortfeasor\u2019s personal umbrella policy. Appellants also rely on Kromer v. Reliance Ins. Co., 450 Pa.Super. 631, 677 A.2d 1224 (1996), affirmed, 548 Pa. 209, 696 A.2d 152 (1997), where this Court held victims of an accident could not collect UIM benefits under their own umbrella policies. Appellants suggest that if the injured parties\u2019 own umbrella policies cannot be reached to provide UIM coverage, then the tortfeasor\u2019s umbrella policy should likewise be inaccessible when calculating any offset to Appellants\u2019 UIM recovery. Appellants conclude this Court should modify the arbitration award by removing the setoff attributable to Appellants\u2019 recovery under the tortfea-sor\u2019s personal umbrella policy.\n\u00b6 7 In response, Erie argues both the MVFRL and the insurance policy provisions make clear UIM providers are entitled to a credit for all available liability coverage from the tortfeasor, including personal umbrella policies. Erie contends the tortfeasor\u2019s personal umbrella policy was also available to compensate for the loss Appellants suffered as result of the car accident and Erie was therefore entitled to a credit for the amounts paid to Appellants under the tortfeasor\u2019s motor vehicle insurance policy and the tortfea-sor\u2019s personal umbrella policy. Erie states the language contained in the MVFRL does not limit \u201cavailable liability insurance\u201d only to the tortfeasor\u2019s motor vehicle policy. Instead, all of the tortfeasor\u2019s liability insurance is \u201cavailable\u201d insurance to compensate the injured parties and must be considered in the UIM calculus. Erie further maintains its policies with Appellants are unambiguous, as the policy language contemplates a credit for all available liability coverages. Erie also submits its exhaustion clause is not overly broad, as it is in harmony with the MVFRL, the internal policy provisions, and the public policy of lowering insurance costs. Erie concludes the trial court properly denied Appellants\u2019 petition to modify the arbitration awards. We agree with Erie\u2019s position.\n\u00b6 8 The enactment of the MVFRL \u201creflected a legislative concern for the spiraling consumer cost of automobile insurance and the resultant increase in the number of uninsured motorists driving on public highways. The legislative concern for the increasing cost of insurance is the public policy to be advanced by statutory interpretation of the MVFRL.\u201d Paylor v. Hartford Ins. Co., 536 Pa. 583, 587, 640 A.2d 1234, 1235 (1994). \u201cThe purpose of underinsured motorist coverage is to protect the insured (and his additional insureds) from the risk that a negligent driver of another vehicle will cause injury to the insured (or the additional insureds) and will have inadequate coverage to compensate for the injuries caused by [the negligent driver].\u201d Id. at 587, 640 A.2d at 1235-36 (quoting Wolgemuth v. Harleysville Mut. Ins. Co., 370 Pa.Super. 51, 535 A.2d 1145 (1988)(ew banc), appeal denied, 520 Pa. 590, 551 A.2d 216 (1988)).\n\u00b6 9 \u201cThere is no authority in Pennsylvania for the proposition that exhaustion clauses per se are contrary to the intent of the legislature or violative of constitutional or administrative mandates.\u201d Kester v. Erie Ins. Exchange, 399 Pa.Super. 206, 582 A.2d 17, 21 (1990), appeal denied, 527 Pa. 624, 592 A.2d 45 (1991). Exhaustion clauses help to prevent UIM claimants from manipulating the payment of their awards:\nThe statutorily mandated coverage for underinsured motorist benefits was not intended to permit the insured absolute and arbitrary discretion to determine how payment should be apportioned between his or her own insurance company and the tortfeasor\u2019s liability carrier. This was poignantly observed by the Supreme Court of Minnesota as follows:\n[T]he insured cannot obtain a below-limit settlement from the tortfeasor and then recoup the \u201cgap\u201d from the underinsurance carrier. Practically, the insured would have no incentive to obtain the best settlement if he or she is assured of recovering the \u201cgap\u201d from the underinsurance carrier. Use of underinsurance benefits in this way runs counter to the agreement of the parties. It would also place the unde-rinsurer at an unfair disadvantage in which it had no control over the insured\u2019s right to settle but yet had to pay the difference between the settlement and the liability limits. It might also lessen the incentive of the liability carrier to make its best offer to the claimant.\n[Schmidt v. Clothier, 338 N.W.2d 256, 261 (Minn.1983) ]\n* * *\nThus, when the insureds settled their claim against the tortfeasor\u2019s liability carrier for less than policy limits, the underinsured motorist carrier was entitled to compute its payment to its injured insureds as though the tortfeasor\u2019s policy limits had been paid.\nUnder this view, the insureds will not be allowed underinsured motorist benefits unless their damages exceed the maximum liability coverage provided by the liability carriers of other drivers involved in the accident; and their [UIM] insurer will, in any event, be allowed to credit the full amounts of the tortfea-sors\u2019 liability coverages against the insureds\u2019 damages.\nBoyle v. Erie Ins. Co., 441 Pa.Super. 103, 656 A.2d 941, 943-44 (1995), appeal denied, 542 Pa. 655, 668 A.2d 1120 (1995) (some internal citations omitted) (holding UIM insurer entitled to setoff where exhaustion clause stated: \u201cWith respect to underin-sured motor vehicles, [UIM Provider] will not be obligated to make any payment until the limits under all bodily injury insurance policies and liability bonds applicable at the time of the accident, including other than motor vehicle insurance, have been exhausted by payments of settlements or judgments\u201d) (emphasis added). See also Chambers v. Aetna Cas. and Sur. Co., 442 Pa.Super. 155, 658 A.2d 1346 (1995), appeal denied, 543 Pa. 707, 672 A.2d 303 (1996) (holding UIM provider entitled to setoff for liability coverage carried by tortfeasor where exhaustion clause stated UIM provider: \u201cwill pay under this coverage only after the limits of liability under any applicable bodily injury, liability bonds or policies have been exhausted by payment of judgments or settlements\u201d) (emphasis added); Kelly v. State Farm Ins. Co., 447 Pa.Super. 214, 668 A.2d 1154 (1995) (holding UIM provider entitled to setoff where exhaustion clause stated: \u201cThere is no coverage [under UIM policy] for bodily injury arising out of the ownership, maintenance or use of an underin-sured motor vehicle until: (1) The limits of liability of all bodily injury liability bonds and policies that apply have been used up by payment of judgments or settlements to other persons ...\u201d) (italics in original) (emphasis added).\n\u00b6 10 The interpretation of an insurance contract is a matter of law and is generally performed by a court. Kropa v. Gateway Ford, 974 A.2d 502 (Pa.Super.2009), appeal denied, \u2014 Pa. -, 990 A.2d 730 (2010). The goal of insurance contract interpretation is \u201cto ascertain the intent of the parties as manifested by the language of the written instrument.\u201d Madison Const. Co. v. Harleysville Mut. Ins. Co., 557 Pa. 595, 606, 735 A.2d 100, 106 (1999). \u201cWhen analyzing an insurance policy, a court must construe words of common usage in their natural, plain, and ordinary sense.\u201d Continental Cas. Co. v. Pro Machine, 916 A.2d 1111, 1118 (Pa.Super.2007) (citing Mitsock v. Erie Ins. Exchange, 909 A.2d 828, 831 (Pa.Super.2006)). If \u201cthe language of the [insurance] contract is clear and unambiguous, a court is required to give effect to that language.\u201d Id. at 831 (quoting Madison Const. Co., supra). A court must not \u201cdistort the meaning of the language or resort to a strained contrivance in order to find an ambiguity.\u201d Mitsock, supra at 831.\n\u00b6 11 \u201cWhile it is a fundamental rule of damages that a person injured by the tortious act of another is entitled to compensation, a court will not allow that person more than one satisfaction in damages. An injured party cannot recover twice for the same injury.\u201d Rossi v. State Farm Auto. Ins. Co., 318 Pa.Super. 386, 465 A.2d 8, 10 (1983) (internal citations omitted). This rule applies equally to situations where the injured party legally has another claim for the same loss; the purpose of this rule of damages in any context is to avoid unjust enrichment. Id.\n\u00b6 12 Instantly, in response to Appellants\u2019 claims, the trial court reasoned as follows:\nThis [c]ourt disagrees with [Appellants] that the definitions of \u201cUnderinsured Motor Vehicle\u201d in the MVFRL, as well as in the Policy, control the disposition of this issue. If [Appellants\u2019] argument had merit, the subject definitions[,] especially the ones contained in the MVFRL[,] would conflict and negate most if not all exhaustion clauses contained in policies including those clauses that have been deemed valid. Secondly, [Appellants], in interpreting these definitions, applied a rather narrow focus. The definitions of \u201cunderinsured motor vehicle\u201d in the MVFRL and the Policy does not address the applicability of set-offs. It is the exhaustion clauses in the policies and how they have been judicially interpreted which prevails. A broader interpretation of the subject definitions suggest that umbrella policies are applicable to an operator of a motor vehicle. To maintain and suggest that the definition of underinsured motor vehicles in the MVFRL controls how exhaustion clauses are to be applied is a broad stretch that has no merit or legal foundation, and correspondingly an argument this [c]ourt is not willing to adopt. For the same reason articulated herein, this [c]ourt does not find a conflict between the [P]olicy\u2019s definition of an \u201cunderinsured motor vehicle\u201d and the Policy\u2019s exhaustion clause.\nA review of the subject exhaustion clause will also reveal that it is not void as a matter of public policy or law. Our courts have upheld exhaustion clauses when they operate as a threshold requirement and not a barrier to underin-sured motorist coverage. Exhaustion clauses have been declared invalid when they require an insured to exhaust all forms of insurance beyond those applicable to owners/operators of motor vehicles. The focus of valid exhaustion clauses should be the owners and operators of the motor vehicle involved in the accident.\nIn [Kester, supra ], the Pennsylvania Superior Court had struck down an exhaustion clause because of its rather broad and impermissible reach. In Kester, the subject exhaustion clause required exhaustion of \u201call other forms of insurance applicable at the time of the accident.\u201d The exhaustion clause in Kester required claimant to pursue and exhaust coverages applicable to all tort-feasors including PennDOT which maintained the highway on which the accident had occurred. Applying [the] standard articulated in [Boyle, supra], and relying on the analysis provided in [Kester, supra], it is apparent that the subject exhaustion clause is not void as a matter of public policy or law.\nWe would agree with [Appellants\u2019] submissions that umbrella policies are not motor vehicle policies, but [Appellants\u2019] reliance on [Kromer, supra ] is misplaced. In Kromer, employees of an insured were injured in an auto accident and sought declaratory relief against insurance carriers that provided umbrella and excess coverage. The subject excess/umbrella policies do not provide UIM coverage and Plaintiffs were arguing that they were statutorily required to provide same. Unlike the case at bar, the plaintiffs in Kromer were attempting to extend applicable UIM coverage by asserting an alleged statutory mandate. The Pennsylvania Superior Court denied plaintiffs\u2019 requested relief and held excess umbrella and commercial excess liability policies are not policies of motor vehicle liability insurance and accordingly, they are not required to provide uninsur[ed]/underinsur[ed] motorist coverage as mandated in the MVFRL, more particularly in 75 Pa.C.S.A. \u00a7 1731(a). Accordingly, the Kromer Court did not address the issue before this [c]ourt. The Kromer Court did not extend its analysis to a review of umbrella/excess policies as a setoff to a UIM award. The decision in Kromer does not change the landscape before this [c]ourt nor does it support [Appellants\u2019] argument. The fact that such policies are not motor vehicle policies per se does not negate their application as a setoff in an under-insured arbitration setting.\n* * *\nWe would agree that [Erie] has reserved for itself a right of subrogation against the tortfeasor for all monies paid under its UIM endorsement. This, however, does not and should not control the resolution of this issue. One may argue that [Appellants\u2019] argument would frustrate the cost-containment objective of the MVFRL. Notwithstanding same, [Appellants\u2019] argument does not alter this [c]ourt\u2019s view concerning the validity of the exhaustion clause and the corresponding applicability of the umbrella coverage as a setoff.\n(Trial Court Opinion at 15-18) (internal citations, quotation marks, and footnote omitted) (emphasis in original). We accept the trial court\u2019s analysis.\n\u00b613 The MVFRL and the Erie policy both broadly define an underinsured motor vehicle as a motor vehicle for which the limits of all available liability insurance are insufficient to pay the injured parties\u2019 losses and damages. Contrary to Appellants\u2019 assertions, the tortfeasor\u2019s liability insurance for compensation included his personal umbrella policy limits and must be considered when defining the tortfea-sor\u2019s \u201cunderinsured status.\u201d In other words, \u201cavailable liability insurance\u201d under both the MVFRL and Erie\u2019s policy provisions must take into account the tortfea-sor\u2019s motor vehicle insurance and his personal umbrella policy limits, before the tortfeasor can be deemed underinsured. The use of the words \u201cmotor vehicle\u201d in the MVFRL and Erie\u2019s policy provisions definitions does not serve to limit \u201cavailable\u201d liability insurance to just motor vehicle insurance policies. We refuse to distort the meaning of the policy language or resort to a strained contrivance just to find an ambiguity that might lead to a recovery. See Mitsock, supra. The MVFRL, the Erie policy definition of an underin-sured motor vehicle, and the policy\u2019s exhaustion clause, make clear UIM coverage is not triggered until the tortfeasor\u2019s liability coverage was depleted. Thus, we see no conflict in the MVFRL, the underin-sured motor vehicle definition in the Erie policy, or the policy\u2019s exhaustion clause.\n\u00b6 14 With respect to Appellants\u2019 reliance on Kromer, supra, we observe tort victims cannot extend their own umbrella policies to increase their UIM coverage or as \u201cexcess\u201d UIM coverage. The tortfeasor\u2019s liability can reach his personal umbrella policy. In this regard, Appellants are simply comparing apples and oranges. Although a tort victim cannot use his own personal umbrella policy as a source for UIM benefits, Kromer does not prohibit Erie, as a UIM provider, from obtaining a credit equal to the amount Appellants\u2019 recovered from the tortfeasor, including the funds recovered from the tortfeasor\u2019s personal umbrella policy.\n\u00b6 15 In this case, the UIM calculus is as follows. The UIM arbitration determined each Appellant couple had sustained damages in the amount of $850,000.00 per couple. Each Appellant couple had already received $250,000.00 from the tortfeasor\u2019s motor vehicle policy and $500,000.00 from the tortfeasor\u2019s personal umbrella policy, for a total of $750,000.00 per couple. Upon depletion of the tortfeasor\u2019s liability insurance, each Appellant couple was entitled to UIM benefits from Erie only in an amount equal to the net difference between the $850,000.00 per couple damages award and the $750,000.00 each couple had already received from the tortfeasor. See Rossi, supra, (stating fundamental rule of damages is that injured party cannot recover twice for same injury; rule is equally applicable to recipient of insurance benefits, which compensates recipient for injuries suffered, even if recipient legally has another claim of recovery for same loss).\n\u00b6 16 Erie\u2019s exhaustion clause was designed to control Appellants\u2019 ability to determine how their arbitration awards would be apportioned between Erie and the tortfeasor\u2019s insurance providers. See Boyle, supra. Interpreting the exhaustion clause to allow Erie a credit equal to the amounts Appellants recovered from the tortfeasor\u2019s motor vehicle and umbrella policies causes Appellants to collect the majority of their $850,000.00 arbitration awards from the tortfeasor and also prevents Appellants from recovering from Erie an amount that exceeds their arbitration awards. See id.; Rossi, supra. Pursuant to the terms of its policies, Erie was properly entitled to a credit equal to the full liability coverage Appellants recovered from the tortfeasor, including the tortfea-sor\u2019s umbrella policy. See Boyle, supra; Chambers, supra; Kelly, supra. Therefore, Appellants are not entitled to relief on the grounds stated.\n\u00b6 17 Based upon the foregoing, we hold Erie was entitled to a credit of $750,000.00 on each arbitration award, consistent with Appellants\u2019 recoveries from the tortfea-sor\u2019s liability insurance policies; and the court properly refused to vacate/modify the arbitration awards to disallow the credits. Accordingly, we affirm the judgments entered on the arbitration awards.\n\u00b6 18 Judgments affirmed.\n. The caption in the trial court opinion identifies Richard D'Adamo\u2019s wife as \u201cLinda\" D\u2019Adamo. The docket entries and Appellants\u2019 notice of appeal indicate Richard D'Adamo's wife\u2019s name is Debra.\nAs to each claimant, the Panel permitted a setoff of two hundred fifty thousand dollars ($250,000.00) (primary coverage of tortfea-sor \u2014 $500,000.00 [total]) and five hundred thousand dollars ($500,000.00) (umbrella coverage of tortfeasor \u2014 $1 million [total]). It is apparent from the record that the total amount of coverage available to the third party was made known to the Arbitrators....\n. Appellants filed their appeals prior to entry of judgment on the arbitration awards. Pursuant to this Court's request, final judgment was entered on the awards on November 12, 2008. The court did not order concise statements of matters complained of on appeal and Appellants filed none.\n. The Act of 1927 (5 P.S. \u00a7\u00a7 161-181) was repealed and replaced by the Uniform Arbitration Act of 1980, 42 Pa.C.S.A. \u00a7\u00a7 7301-7320. The Historical Note to 42 Pa.C.S.A. \u00a7 7302(d)(2) states an arbitration agreement may provide for arbitration pursuant to the Act of 1927. See 42 Pa.C.S.A. \u00a7 7302(d)(2). The arbitration provisions in the Erie policy at issue expressly provide for arbitration under the 1927 Act.",
+        "type": "majority",
+        "author": "GANTMAN, J.:"
+      }
+    ],
+    "attorneys": [
+      "Scott B. Cooper, Harrisburg and Charles Kannesbecker, Milford, for D\u2019Ada-mo, appellants.",
+      "Scott B. Cooper, Harrisburg and Jason R. Ohliger, Milford, for Holocher, appellants.",
+      "James C. Haggerty, Philadelphia, for Erie Insurance."
+    ],
+    "corrections": "",
+    "head_matter": "Richard & Debra D\u2019ADAMO, Appellants v. ERIE INSURANCE EXCHANGE, Appellee. Donald Holocher and Lisa Holocher, His Wife, Appellants v. Erie Insurance Exchange, Appellee.\nSuperior Court of Pennsylvania.\nArgued Nov. 18, 2008.\nFiled April 30, 2010.\nReargument Denied July 12, 2010.\nScott B. Cooper, Harrisburg and Charles Kannesbecker, Milford, for D\u2019Ada-mo, appellants.\nScott B. Cooper, Harrisburg and Jason R. Ohliger, Milford, for Holocher, appellants.\nJames C. Haggerty, Philadelphia, for Erie Insurance.\nBEFORE: LALLY-GREEN , GANTMAN, and ALLEN, JJ.\nJudge Lally-Green did not participate in the consideration or decision of this case."
+  },
+  "file_name": "1090-01",
+  "first_page_order": 1152,
+  "last_page_order": 1161
+}

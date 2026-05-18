@@ -1,0 +1,139 @@
+{
+  "id": 7288019,
+  "name": "WIRELESS PROPERTIES, LLC, a Delaware limited liability company, Plaintiff Below, Appellant, v. CC FINANCE LLC, a Delaware limited liability company, Defendant Below, Appellee",
+  "name_abbreviation": "Wireless Properties, LLC v. CC Finance LLC",
+  "decision_date": "2010-10-28",
+  "docket_number": "No. 163, 2010",
+  "first_page": "613",
+  "last_page": "618",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 613"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "833 A.2d 961",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9085249
+      ],
+      "pin_cites": [
+        {
+          "page": "970"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/833/0961-01"
+      ]
+    },
+    {
+      "cite": "616 A.2d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7935787
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1195-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/616/1192-01"
+      ]
+    },
+    {
+      "cite": "953 A.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8179913
+      ],
+      "pin_cites": [
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/953/0241-01"
+      ]
+    },
+    {
+      "cite": "991 A.2d 1153",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291873
+      ],
+      "pin_cites": [
+        {
+          "page": "1159-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/1153-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 640,
+    "char_count": 14650,
+    "ocr_confidence": 0.727,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828665300563854
+    },
+    "sha256": "bf880072c200386366d52c4f8befa02aa4b29cd5923e364c610df5fe391bcfb4",
+    "simhash": "1:9092511fcd98fd43",
+    "word_count": 2252
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HOLLAND, JACOBS and RIDGELY, Justices."
+    ],
+    "parties": [
+      "WIRELESS PROPERTIES, LLC, a Delaware limited liability company, Plaintiff Below, Appellant, v. CC FINANCE LLC, a Delaware limited liability company, Defendant Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HOLLAND, Justice:\nThe plaintiff-appellant, Wireless Properties, LLC (\u201cWireless\u201d) brought this action for breach of contract pursuant to a Loan and Security Agreement between Wireless and defendant-appellee, CC Finance LLC (\u201cCrown\u201d) effective as of September 18, 2006 (the \u201cLoan Agreement\u201d). Wireless filed its initial complaint on October 8, 2009. Crown then moved to dismiss the complaint on the ground that Wireless failed to allege that Crown consented in writing to increases in the Loan Commitment. The Superior Court provisionally dismissed the complaint, finding that the Loan Agreement provided that Crown\u2019s consent was required to increase the Loan Commitment. The Superior Court nonetheless granted Wireless an opportunity to amend its complaint.\nOn January 20, 2010, Wireless filed an amended complaint (the \u201cAmended Complaint\u201d). Crown again moved to dismiss. In a bench ruling, the Superior Court dismissed the Amended Complaint, finding that it did not adequately allege that Wireless had received Crown\u2019s consent.\nWireless makes two arguments on appeal. First, Wireless argues that the Superior Court erred in finding that Crown\u2019s express consent to increases was required under the Loan Agreement. Second, Wireless claims that the Superior Court erroneously found that the Amended Complaint failed to adequately allege that Crown consented to increases in the Loan Commitment. We have concluded that both arguments are without merit.\nFacts\nCrown and Wireless are parties to a Loan Agreement through which Crown agreed to loan Wireless funds for the construction and improvement of cellular communications towers. The Agreement sets forth the terms and conditions upon which Crown would be obligated to advance funds to Wireless in the future. The Agreement defines \u201cLoan Commitment,\u201d as follows:\n\u201cLoan Commitment\u201d means Crown\u2019s agreed-upon obligation to fund the Loan to Wireless in an amount up to the product of (a) twelve (12); and (b) the aggregate Tower Case Flow generated by the Fifteen Towers (and any subsequent Towers if Crown has agreed in its sole discretion) less all obligations and indebtedness of Wireless that encumbers, in whole or in part, one or more of the Fifteen Towers and any Subsequent Towers. On the execution date of this Agreement, the initial Loan Commitment (as determined by the calculation above), shall be an amount up to Five Million Four Hundred Ninety-Nine Thousand Eight Hundred fifty-Four Dollars and Zero Cents ($5,499,854.00) ... The Loan Commitment may, from time to time, be increased or reduced pursuant to the terms of this Agreement. Notwithstanding anything set forth above or elsewhere in this Agreement, under no circumstances shall the Loan Commitment be adjusted to exceed the Loan Commitment Maximum Amount of $10,000,000].\nThe Loan Commitment amount could be \u201cincreased or reduced pursuant to the terms of this Agreement.\u201d In no event, however, could the Loan Commitment exceed $10 million.\nIn Section 2.1 of the Agreement, Crown agreed \u201cto lend to Wireless on a non-revolving basis, from time-to-time on or after the date of this Agreement and prior to the [maturity date], amounts which do not exceed the Loan Commitment, as increased or reduced hereunder.\u201d Section 2.2(a) of the Agreement, entitled \u201cDiscretionary Adjustments to Loan Commitment,\u201d describes the terms upon which the Loan Commitment may be increased (or decreased), and specifically provides the following with respect to Crown\u2019s consent:\nThe then-current Loan Commitment may be increased by Crown at any time and from time-to-time in the exercise of its sole discretion if, prior to the [maturity date], Crown elects to loan additional funds to Wireless pursuant to this Agreement ...\nAnything to the contrary contained in this Agreement notwithstanding, any increase in the Loan Commitment shall be subject to the consent of Crown, which consent Crown may grant or withhold in its sole discretion, and such consent must be in writing.\nSection 2.2(b), addressing adjustments resulting from the addition or elimination of tower licenses contains similar language.\nUnder Section 2.3 of the Agreement, Wireless may \u201crequest\u201d an advance once each calendar quarter. Crown is only obligated to disburse, however, upon \u201csatisfaction of the conditions set forth in Article VI of the Agreement.\u201d Article VI provides: \u201cIn the case of any Advances requested to be made, after giving effect thereto, the aggregate Advances shall not exceed the maximum amount of Advances permitted under Section 2.1 hereof, as such amount may be adjusted pursuant to Section 2.2. hereof.\u201d Accordingly, Wireless\u2019 right to an advance at any particular time is capped at the then-existing Loan Commitment amount.\nCrown advanced to Wireless the initial Loan Commitment amount of $5,499,845.00. After disbursing the initial Loan Commitment amount of $5,499,845.00, Crown increased the Loan Commitment amount and funded additional advances to Wireless. Many of these additional advances made to Wireless were used to pay Crown interest owed by Wireless under the Agreement. Wireless alleges that on three occasions, Crown declined to fund advances requested by Wireless.\nIssues on Appeal\nWireless\u2019 appeal asserts two arguments. First, the Loan Commitment automatically increased, without Crown\u2019s written consent, upon the addition of licenses (or increased revenues from existing licenses) by application of the Tower Cash Flow formula set forth in the Agreement. Second, the Amended Complaint adequately alleged that Crown consented to additional increases in the Loan Commitment by periodically calculating in a spreadsheet the effect of new license revenue on the potential availability of funds that could be committed pursuant to the Agreement\u2019s formula.\nCrown\u2019s Consent Required\nWireless argues that, pursuant to the Tower Cash Flow formula described in the Agreement, the Loan Commitment \u201cwould, without any act by Crown, adjust based on changes in revenue or expenses on existing licenses.\u201d The Superior Court rejected that argument, holding that \u201c[t]he agreement with respect to further borrowing seems to be clear that increasing the loan commitment was left to the sole discretion of Crown regardless of Wireless\u2019 being able to demonstrate that it met the terms of the formula contained in the loan agreement.\u201d\nWireless now argues, for the first time on appeal, that because Section 2.1 refers to adjustment \u201cmechanisms\u201d and because Section 2.2 is captioned \u201cDiscretionary Adjustments to Loan Commitment\u201d the parties must have also agreed to some additional automatic or \u201cnon-discretionary\u201d mechanisms to adjust the Loan Commitment. There is no provision in the Agreement, however, that sets forth an automatic or non-discretionary mechanism. The only provisions of the Agreement that address increases in the Loan Commitment above the original disbursed amount of $5,499,854.00 are Sections 2.2(a) and (b). Neither Section 2.2(a) nor 2.2(b) supports Wireless\u2019 argument because they expressly provide;\nAnything to the contrary contained in this Agreement notwithstanding, any increase in the Loan Commitment shall be subject to the consent of Crown, which consent Crown may grant or withhold in its sole discretion, and such consent must be in writing.\nThe Agreement defines the Loan Commitment as \u201c[Cjrowris agreed-upon obligation to fund the Loan to Wireless in an amount up to the [Tower Cash Flow formula].\u201d If the parties intended the Loan Commitment to equal the amount derived from the formula, it could have been written that way. Instead, the Agreement provides that Crown must first consent to (or \u201cagree to\u201d) the ceiling derived under the formula. Crown asserts that the Tower Cash Flow formula serves a purpose: it caps the maximum Loan Commitment amount that Crown could permit in its discretion, and it also limits the maximum decrease in the Loan Commitment that Crown could unilaterally impose. Crown submits it does not, however, as Wireless maintains, automatically obligate Crown to fund additional monies to Wireless. The Superior Court agreed.\nThe Loan Agreement unambiguously limits Crown\u2019s obligation to advance funds to an initial Loan Commitment amount of $5,499,854.00 and provides that any increase in that amount requires Crown\u2019s written consent which may be granted or denied in Crown\u2019s sole discretion. The Amended Complaint admits that the original Loan Commitment amount was disbursed in full to Wireless. Accordingly, the Superior Court properly held that any alleged failure by Crown to advance fund in amounts above $5,599,854.00, is not actionable, because Crown had the right to withhold its consent.\nConsent Allegations Inadequate\nWireless argues that if Crown\u2019s consent was required, the Amended Complaint adequately alleges that Crown consented to increases in the Loan Commitment. The Amended Complaint contains the following allegations regarding Crown\u2019s alleged consent to increases in the Loan Commitment:\nSection 2.2 of the Loan Agreement contemplates that Wireless, with Crown\u2019s consent, may add additional towers or licenses to existing towers that would, by virtue of increased revenues, also increase the Loan Commitment under the formula contained in the Loan Agreement.\nCrown consented to increases in the Loan Commitment based on the addition of certain licenses to existing towers owned by Wireless. /\nWireless asserts that the Loan Agreement\u2019s consent requirement would be met by Crown consenting to Wireless adding licenses to existing towers \u201cthat would, by virtue of increased revenues, also increase the Loan Commitment under the formula contained in the Loan Agreement.\u201d\nThe Superior Court noted that these allegations of consent that Wireless added to its Amended Complaint are in \u201c[a] passive voice. Who increased it? How did it get increased? I mean, you are being very vague there. And that\u2019s troublesome because this goes to the heart of the argument that we had in December.\u201d The Superior Court reasoned, \u201csaying that Crown consented is simply a conclusion. It doesn\u2019t say how'Crown consented. To the extent that it says how they did that in the allegation, it would be based upon the addition of certain licenses \u2014 which is what you did, not them \u2014 to existing towers owned by Wireless....\u201d\nAlternatively, Wireless argues that the Agreement\u2019s written consent requirement was satisfied by alleging that Crown furnished spreadsheets showing \u201cthat the then-current Loan Commitment amount as of December 31, 2008 was $8,514,480.17.\u201d Wireless alleges that such spreadsheets constitute written expressions of Crown\u2019s consent. Crown responds that its calculation of the maximum permissible borrowing capacity under the Agreement\u2019s Tower Cash Flow formula is in no way the equivalent of an expression of intent \u2014 in writing \u2014 to obligate itself to advance funds up to that amount.\nThe words \u201cLoan Commitment\u201d do not appear on the spreadsheets. The spreadsheet calculates the \u201cLoan Used to Date,\u201d the \u201cMaximum] Loan Available\u201d and the \u201cRemaining Loan Capacity.\u201d Those terms are consistent with the Agreement, which imposed a formula to cap the maximum Loan Commitment and granted Crown the discretion to loan up that amount (i.e., the \u201cremaining loan capacity.\u201d). The Superior Court held that Crown\u2019s calculations on a spreadsheet cannot, as a matter of law, constitute the written consent required by the Agreement. We agree.\nFinally, Wireless alleges that the requirements of a formal writing may be waived. Wireless claims that Crown advanced funds in the past and accordingly, increased the Loan Commitment amount without providing evidence of its written consent. Crown asserts that the loan itself is evidence of Crown\u2019s consent. The Superior Court agreed with Crown\u2019s position:\nIt\u2019s one thing for a lender to obligate itself to a loan by advancing the money without including a written statement that the loan amount has been increased. They forked over the money. At that point they couldn\u2019t say, wait a minute, give us the money back, or something along those lines, because the money has been advanced and that\u2019s that; even if there\u2019s no written document to that effect. So that\u2019s one thing.\nIt\u2019s another thing to say, however, that because in one instance or more the lender has turned over the increased loan amount without a written statement that because it\u2019s done that in a few instances in the past ... that henceforward they are obligated to turn over money and not put it in writing.\nThe Agreement recites that \u201cneither [it] nor any portion or provisions hereof may be changed, modified, amended, waived, supplemented, discharged, cancelled, or terminated orally or by any course of dealing, or in any manner other than by an agreement in writing, signed by the party to be charged.\u201d The Superior Court properly ruled that there is no basis to conclude that Crown\u2019s past advances amount to a waiver of its discretionary ability to refuse to consent in the future.\nConclusion\nThe judgment of the Superior Court is affirmed.\n. See Osborn v. Kemp, 991 A.2d 1153, 1159\u201460 (Del.2010) (\"[w]hen the contract is clear and unambiguous, we will give effect to the plain-meaning of the contract\u2019s terms and provisions.\u201d) (internal citation omitted); see also AT & T Corp. v. Lillis, 953 A.2d 241, 252 (Del.2008) (where no ambiguity exists plain meaning controls as \" 'creating [an ambiguity] could, in effect, create a new contract with rights, liabilities, and duties to which the parties had not assented ... \u201d\u2019 (citing Rhone-Poulenc Basic Chemicals Co. v. American Motorists Ins. Co., 616 A.2d 1192, 1195-96 (Del. 1992))).\n. See Beam ex rel. Martha Stewart Living Omnimedia, Inc., v. Stewart, 833 A.2d 961, 970 (Del.Ch.2003) (\"conclusory statements\u2014those unsupported by well-pled factual allegations \u2014 are not accepted as true.\u201d).",
+        "type": "majority",
+        "author": "HOLLAND, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Richard D. Allen, Esquire and Thomas W. Briggs, Jr., Esquire, Morris, Nichols, Arsht & Tunnell, Wilmington, Delaware, for appellant.",
+      "Richard H. Morse, Esquire and Michele Sherretta Budicak, Esquire, Young, Cona-way, Stargatt & Taylor, LLP, Wilmington, Delaware, and Thomas I. Elkind, Esquire (argued), Foley & Lardner, LLP, Boston, Massachusetts, for appellant.",
+      "James D. Taylor, Jr., Esquire, Saul Ewing LLP, Wilmington, Delaware, and David R. Moffitt, Esquire (argued), Saul Ewing, LLP, Wayne, Pennsylvania, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "WIRELESS PROPERTIES, LLC, a Delaware limited liability company, Plaintiff Below, Appellant, v. CC FINANCE LLC, a Delaware limited liability company, Defendant Below, Appellee.\nNo. 163, 2010.\nSupreme Court of Delaware.\nSubmitted: Sept. 15, 2010.\nDecided: Oct. 28, 2010.\nRichard D. Allen, Esquire and Thomas W. Briggs, Jr., Esquire, Morris, Nichols, Arsht & Tunnell, Wilmington, Delaware, for appellant.\nRichard H. Morse, Esquire and Michele Sherretta Budicak, Esquire, Young, Cona-way, Stargatt & Taylor, LLP, Wilmington, Delaware, and Thomas I. Elkind, Esquire (argued), Foley & Lardner, LLP, Boston, Massachusetts, for appellant.\nJames D. Taylor, Jr., Esquire, Saul Ewing LLP, Wilmington, Delaware, and David R. Moffitt, Esquire (argued), Saul Ewing, LLP, Wayne, Pennsylvania, for ap-pellee.\nBefore HOLLAND, JACOBS and RIDGELY, Justices."
+  },
+  "file_name": "0613-01",
+  "first_page_order": 613,
+  "last_page_order": 618
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7289670,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Luis MONTIGO, Petitioner",
+  "name_abbreviation": "Commonwealth v. Montigo",
+  "decision_date": "2010-12-22",
+  "docket_number": "No. 120 EM 2010",
+  "first_page": "900",
+  "last_page": "900",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 900"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 325,
+    "ocr_confidence": 0.708,
+    "sha256": "f96ae06e24502ee30262af09b3db5ccc557eb78c97699431529c91afcbe8be02",
+    "simhash": "1:4dfd733673e6092e",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T20:45:43.314120+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Luis MONTIGO, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of December, 2010, the Application for Leave to File Original Process is GRANTED, and the Petition for Mandamus and/or Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Luis MONTIGO, Petitioner.\nNo. 120 EM 2010.\nSupreme Court of Pennsylvania.\nDec. 22, 2010."
+  },
+  "file_name": "0900-01",
+  "first_page_order": 900,
+  "last_page_order": 900
+}

@@ -1,0 +1,246 @@
+{
+  "id": 7288509,
+  "name": "John D. WILLIAMS, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (POHL TRANSPORTATION), Respondent",
+  "name_abbreviation": "Williams v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-07-29",
+  "docket_number": "",
+  "first_page": "742",
+  "last_page": "749",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 742"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "858 A.2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9160608
+      ],
+      "pin_cites": [
+        {
+          "page": "n. 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/858/0641-01"
+      ]
+    },
+    {
+      "cite": "769 A.2d 1220",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11114521
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1222"
+        },
+        {
+          "page": "1224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/769/1220-01"
+      ]
+    },
+    {
+      "cite": "569 A.2d 1024",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1399148
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/131/0189-01"
+      ]
+    },
+    {
+      "cite": "2 A.3d 689",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7289210
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/2/0689-01"
+      ]
+    },
+    {
+      "cite": "736 A.2d 67",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11572381
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/0067-01"
+      ]
+    },
+    {
+      "cite": "496 A.2d 1349",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "837 A.2d 1283",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9305321
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/837/1283-01"
+      ]
+    },
+    {
+      "cite": "696 A.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12022014
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/696/0263-01"
+      ]
+    },
+    {
+      "cite": "586 A.2d 988",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1410888
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "990"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/137/0022-01"
+      ]
+    },
+    {
+      "cite": "630 A.2d 544",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1449120
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "557"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/157/0553-01"
+      ]
+    },
+    {
+      "cite": "443 A.2d 1376",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "651 A.2d 694",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12257021
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "699",
+          "parenthetical": "holding that the claimant did not work within Pennsylvania as a rule, but rather spent an equal amount of time working in Pennsylvania as well as other states"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/651/0694-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 847,
+    "char_count": 24214,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 1.2403719478202704e-07,
+      "percentile": 0.6077605296679459
+    },
+    "sha256": "83ff1310521f1fccd03bff0b76ef4099a71c393943505010cb9dd4940a373984",
+    "simhash": "1:244e990890386554",
+    "word_count": 3882
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, BROBSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "John D. WILLIAMS, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (POHL TRANSPORTATION), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge FLAHERTY.\nJohn D. Williams (Claimant) petitions for review from an order of the Workers\u2019 Compensation Appeal Board (Board) that reversed the decision of a Workers\u2019 Compensation Judge (WCJ) that granted a Claim Petition filed against POHL Transportation (Employer) as well as a Claim Petition for Benefits from the Uninsured Employer Guaranty Fund and Uninsured Employer. We reverse the order of the Board and reinstate the order of the WCJ granting Claimant\u2019s Petitions.\nClaimant filed a Claim Petition against Employer alleging he sustained an injury to his right leg in the course and scope of his employment on June 1, 2007. Claimant subsequently filed a Penalty Petition alleging Employer violated the Pennsylvania Workers\u2019 Compensation Act (Act) Act of June 2, 1915, P.L. 736, as amended, 77 P.S. \u00a7\u00a7 1-1041.4, 2501-2708. Claimant alternatively filed a Claim Petition for Benefits from the Uninsured Employer Guaranty Fund and Uninsured Employer. Timely answers were filed by both Employer and the Uninsured Employer Guaranty Fund (Fund) denying Claimant\u2019s allegations. All Petitions were consolidated. The parties agreed that the issue of jurisdiction should be decided first.\nClaimant, a truck driver, resides in Williamsport, Pennsylvania. Claimant submitted a log showing his miles driven for Employer from July 12, 2006 through June 1, 2007. According to Claimant, he drove approximately 111,000 total miles for Employer before sustaining his work-related injury. About 42,000 miles were driven within Pennsylvania. Claimant agreed he logged nearly 35,000 miles in Ohio. The remaining miles were allocated over various states. Claimant stated that he had the opportunity to start and stop some of his trips at his home.\nClaimant explained that in seeking employment, he contacted Employer about a position and spoke to a recruiter over the phone. He elaborated that following a background check, he was invited to Versailles, Ohio. A driver for Employer picked him up at his home and drove him to Ohio. Claimant was required to submit to orientation as well as a road test, physical, and a drug test. Claimant was hired by Employer. Claimant agreed that he was injured on June 1, 2007 and that his injury occurred in Vermont. He agreed that he received workers\u2019 compensation benefits in Ohio. He has since ceased receiving wage loss benefits under the laws of Ohio.\nEmployer presented the testimony of Brian Pohl, its general manager, who explained that a potential employee must undergo a road test, submit to a physical, and agree to drug testing before he can be hired. That was the purpose behind bringing Claimant to Versailles, Ohio. Claimant successfully passed all tests and was hired. Claimant did not receive pay for time at orientation. Once hired, he was paid by the mile. Mr. Pohl stated that dispatching takes place in Ohio. Employer does not maintain any drop areas in Pennsylvania, although it has clients with drop areas within the Commonwealth. Employer does not operate any facilities anywhere other than its main office in Ohio.\nDavid Pohl, Vice President of Finance, also testified on behalf of Employer. He agreed Employer has no place of business in Pennsylvania and maintains no drop areas within the Commonwealth.\nBy an interlocutory order issued April 11, 2008, the WCJ found Claimant\u2019s employment was \u201cprincipally localized\u201d in Pennsylvania inasmuch as Claimant is domiciled in Pennsylvania and a substantial part of his work was conducted within the Commonwealth. Reproduced Record (R.R.) at 18a. In concluding that a substantial part of Claimant\u2019s work was conducted within Pennsylvania, the WCJ noted that Claimant was permitted to begin and end trips at his home in Williamsport, that trip logs showed that over one-third of the miles traveled by Claimant in the course and scope of employment were within Pennsylvania, and that although he would receive assignments from dispatch located in Ohio, he did not regularly work at or from an Ohio terminal.\nOn November 17, 2008, the WCJ issued a final decision based on a stipulation of facts. The WCJ granted Claimant\u2019s Claim Petition filed against Employer without waiver of the right to appeal the issue of jurisdiction. He awarded total disability benefits with certain credits given for benefits paid under the Ohio claim. The WCJ specified that Claimant\u2019s work-related medical bills are currently being paid under the Ohio claim. The WCJ determined that Employer shall assume responsibility for Claimant\u2019s work-related medical bills in the event that there is a change in status in the Ohio claim. He marked the Penalty Petition filed against Employer withdrawn. The WCJ also granted the Petition filed against the Fund. In the event that Employer defaults on its obligation, the WCJ concluded the Fund was secondarily liable for payment of benefits in Pennsylvania. The WCJ incorporated by reference the contents of his April 2008 Interlocutory Order.\nOn appeal, the Board reversed the WCJ\u2019s determination that jurisdiction lies within the Commonwealth. The Board found that Employer was located in Ohio, that Claimant was hired at an Ohio location, and that he received his assignments from Ohio. Although the Board agreed Claimant traveled throughout the state, it found Claimant did not \u201cprimarily work in Pennsylvania.\u201d R.R. at 44a. This appeal followed.\nClaimant argues on appeal that the Board erred in reversing the WCJ\u2019s determination that subject matter jurisdiction over Claimant\u2019s work injury properly lies within the Commonwealth. According to Claimant, his employment was \u201cprincipally localized\u201d within Pennsylvania as that term is defined in the Act. He posits that he is domiciled in Pennsylvania and spent a \u201csubstantial\u201d part of his working time furthering Employer\u2019s business within the Commonwealth. Claimant asserts that the Board misapplied statutory authority as well as case law in finding to the contrary.\nJurisdiction can be invoked for out-of-state injuries through the extraterritorial provisions established in Section 305.2 of the Act, added by Section 9 of the Act of December 5, 1974, P.L. 782, 77 P.S. \u00a7 411.2, that provides, in pertinent part:\n(a) If an employe, while working outside the territorial limits of this State, suffers an injury on account of which he ... would have been entitled to the benefits provided by this act had such injury occurred within this State, such employe ... shall be entitled to the benefits provided by this act, provided that at the time of such injury:\n(1) His employment is principally localized in this State, or\n(2) He is working under a contract of hire made in this State in employment not principally localized in any state\n(d) As used in this section:\n(4) A person\u2019s employment is principally localized in this or another state when (i) his employer has a place of business in this or such other state and he regularly works at or from such place of business, or (ii) having worked at or from such place of business, his duties have required him to go outside of the State not over one year, or (iii) if clauses (1) and (2) foregoing are not applicable, he is domiciled and spends a substantial part of his working time in the service of his employer in this or such other state.\n(5) An employe whose duties require him to travel regularly in the service of his employer in this and one or more other states may, by written agreement with his employer, provide that his employment is principally localized in this or another such state, and, unless such other state refuses jurisdiction, such agreement shall be given effect under this act_ (Emphasis added).\nA claimant has the burden of proof to establish jurisdiction in Pennsylvania for his workers\u2019 compensation claim. Atkins v. Workmen\u2019s Compensation Appeal Board (Geo-Con, Inc.), 651 A.2d 694 (Pa.Cmwlth.1994). The focus of Section 305.2 of the Act is on the claimant\u2019s employment, not on the employer. Interstate Carriers Coop. v. Workmen\u2019s Compensation Appeal Board (DeSanto, Jr.), 66 Pa. Cmwlth. 288, 443 A.2d 1376 (1982). An award of workers\u2019 compensation benefits in another state does not preclude an employee from seeking benefits in Pennsylvania. Denison v. Workmen\u2019s Compensation Appeal Board (Insulcon Co.), 157 Pa. Cmwlth. 553, 630 A.2d 544 (1993). The claimant must still meet his burden of proving he is entitled to benefits under Pennsylvania law; i.e., that he is disabled by a work-related injury. Id. at 557.\nThe three clauses of Section 305.2(d)(4) of the Act are all separate and distinct methods for determining jurisdiction under the Act. Holland v. Workmen\u2019s Compensation Appeal Board (Pep Boys), 137 Pa.Cmwlth. 22, 586 A.2d 988 (1990). In finding employment is principally localized in a given state pursuant to Section 305.2(a)(1) and (d)(4)(i) of the Act in terms of whether a claimant regularly works at a place of business within that state, one must consider whether the claimant worked at that location as a rule and not as an exception. Goldberg v. Workers\u2019 Compensation Appeal Board (Star Enterprises), 696 A.2d 263 (Pa.Cmwlth.1997). See also Macomber v. Workers\u2019 Compensation Appeal Board (Penske Transp. Serv.), 837 A.2d 1283 (Pa.Cmwlth.2003)(holding employment was principally localized in New Jersey when the employer had a place of business in that state and each day the claimant went to that location to pick up his truck, he got his orders there, and returned to that site at the end of the day); Atkins, 651 A.2d at 699 (holding that the claimant did not work within Pennsylvania as a rule, but rather spent an equal amount of time working in Pennsylvania as well as other states).\nIf the injured worker\u2019s employment is determined to be principally localized in this state or another by either clause (i) or (ii) of Section 305.2(d)(4) of the Act, there is no need to proceed to clause (iii). Holland, 586 A.2d at 990. In the event the facts warrant application of the latter provision, it must be determined whether the claimant is domiciled in Pennsylvania and spends a \u201csubstantial part of his working time\u201d in the Commonwealth.\nThis Court has previously had the opportunity to review what it means for an employee to spend a \u201csubstantial part of his working time\u201d in this Commonwealth for the purposes of determining whether his employment is \u201cprincipally localized\u201d in this state. In Robbins v. Workmen\u2019s Compensation Appeal Board (Mason-Dixon Line, Inc.), 91 Pa.Cmwlth. 269, 496 A.2d 1349 (1985), the claimant, also a truck driver, had 15 of his 37 loads, or 40%, originate in Morrisville, Pennsylvania or Philadelphia, Pennsylvania. He dispatched one load each in Lancaster and Beaver Falls, Pennsylvania. Further, on nine assignments that did not originate in Pennsylvania, the claimant spent time driving through Pennsylvania. We found that these facts supported a finding that the claimant spent a substantial part of his working time in the service of his employer in Pennsylvania.\nIn Lambie v. Workers\u2019 Compensation Appeal Board (Curry Lumber Co.), 736 A.2d 67 (Pa.Cmwlth.1999), this Court declined to apply the holding of Robbins to find the injured worker spent a substantial amount of working time looking for lumber in Pennsylvania. The claimant in that case worked at a saw mill in Maryland. He testified that he spent approximately two days per week working within Pennsylvania. A coworker corroborated the claimant\u2019s testimony. The employer\u2019s co-owner disagreed with this assessment and indicated that, at most, the claimant would look for lumber in Maryland, Pennsylvania, and West Virginia one day per month. The WCJ rejected the claimant\u2019s testimony and that of the coworker because it was unclear as to the exact amount of time the claimant spent within the Commonwealth. Further, the WCJ noted a lack of documentary evidence supporting the claimant\u2019s claim. In light of the WCJ\u2019s credibility determinations, we found the claimant failed to prove he spent a substantial amount of his working time in Pennsylvania.\nUpon review of the aforementioned, we agree with Claimant that the WCJ was correct in the first instance to find jurisdiction over his claim to workers\u2019 compensation benefits properly lies within Pennsylvania. Claimant, who sustained an injury in Vermont, had the burden of proof in this proceeding to establish jurisdiction in the Commonwealth. Atkins. Because he sustained an injury outside the territorial limits of this State, Claimant had to pursue relief under Section 305.2 of the Act. Pursuant to Section 305.2(a)(1) of the Act, Claimant had the option of establishing that his employment was \u201cprincipally localized\u201d in this State.\nSubsection (d)(4) of Section 305.2 of the Act provides three separate and distinct methods for determining whether employment is \u201cprincipally localized\u201d within Pennsylvania. Holland. Neither clause (i) or (ii) of Section 305.2(d)(4) of the Act are applicable to the instant matter as Employer does not have a place of business in Pennsylvania. Thus, consistent with the determination made by the WCJ, our focus shifts to Section 305.2(d)(4)(iii) of the Act. Holland. That subsection provides that Claimant\u2019s employment is \u201cprincipally localized\u201d within this state if he established he is domiciled in Pennsylvania and spends a substantial part of his working time in the service of Employer in this Commonwealth.\nThere is no dispute that Claimant is domiciled in Pennsylvania. The crux of this appeal is whether Claimant spends a substantial part of his working time in Pennsylvania. In analyzing this remaining issue, the emphasis is on Claimant\u2019s employment, not on Employer. DeSanto, Jr. Moreover, we take note that under principles of statutory construction, words and phrases are to be construed according to their common and approved usage. Ma-comber, 837 A.2d at 1287. The term \u201csubstantial\u201d is defined as \u201cconsiderable in quantity\u201d or \u201cbeing largely but not wholly that which is specified.\u201d Merriam-Webster\u2019s Collegiate Dictionary 1174 (10th ed. 1997).\nThe uncontradicted evidence submitted into the record concerning Claimant\u2019s work time is the testimony of Claimant and his driver\u2019s log. That evidence indicates that of the 110,751 miles Claimant has driven for Employer, 42,000 miles, or 38% of Claimant\u2019s work time, has been spent in Pennsylvania. Claimant drove 35,187 miles, 32% of his work time, in Ohio. The remaining 30% of Claimant\u2019s work time was spent driving in 19 other states. This breakdown reveals that Claimant spent the largest portion of his time driving in Pennsylvania. It is indisputable that time spent driving is work time as Claimant was paid by the mile. He was not paid by the load or any other method. When not driving, Claimant was not generating earnings.\nClaimant spent the greatest percentage of his time driving in Pennsylvania. In order to be principally localized in Pennsylvania, Section 305.2(d)(4)(iii) does not require Claimant to spend a majority of his working time in this state, but rather only a substantial part of his working time. Determining what a substantial part is requires a comparison with the working time spent elsewhere. He spent approximately 6% more time driving in Pennsylvania than he did the next most highly traveled state, Ohio. No other state was even close in mileage. The record firmly establishes Claimant spent a considerable part of his work time traveling in Pennsylvania thereby meeting the definition of \u201csubstantial.\u201d Macomber. His drive time was not spent completely within this state, but we cannot say he did not spend a substantial part of his work time driving in this state.\nIn so finding, we point out a difference in terminology used in Section 305.2(d)(4)(i) compared to Section 305.2(d)(4)(iii) of the Act to establish jurisdiction. The former subsection requires a place of business in Pennsylvania and proof that the claimant \u201cregularly works\u201d at or from that place of business. To satisfy the requirement that the claimant regularly works at or from a Pennsylvania location, this Court has required proof that the injured worker worked at that location as a general rule, not as an exception. Goldberg, Macomber, Atkins. The standard in regard to work time is not as heavy for the latter subsection. When the factor concerning domicile is added, the claimant is no longer required to show he regularly works at or from a facility in Pennsylvania, he is only required to show a substantial part of his work time is spent within the Commonwealth.\nWe recognize that the language in Robbins and Hiller concerning whether the injured workers satisfied the standard under Section 305.2(d)(4)(iii) of the Act was deemed dicta in Holland inasmuch as the claimants satisfied the elements under Section 305.2(d)(4)(i) of the Act. Therefore, there was no need to address Section 305.2(d)(4)(iii) of the Act. We nonetheless find the analysis in Robbins concerning whether the claimant spent a substantial part of his work time in Pennsylvania persuasive. In that case, we found the claimant satisfied his burden in this regard when 40% of his loads originated in Pennsylvania and of the nine assignments that did not originate in Pennsylvania, the claimant spent time driving through Pennsylvania. Interestingly, in Robbins, although 40% of the claimant\u2019s loads originated in Pennsylvania, there is no indication of how much mileage was actually driven in Pennsylvania. No driver\u2019s logs were submitted in Robbins, whereas in the instant matter, 38% of Claimant\u2019s actual mileage was accrued in the Commonwealth, the most of any state. The facts of the instant matter arguably are more in Claimant\u2019s favor than the facts in Robbins.\nThis Court acknowledges that no jurisdiction was found in Lambie despite the fact that the injured employee explained that he spent two days per week working in Pennsylvania. The WCJ, in that matter, however, rejected the claimant\u2019s testimony. Claimant\u2019s testimony herein was found credible.\nBased upon our review, we believe the Board erred in determining that jurisdiction was lacking in the instant matter. We reverse the order of the Board and reinstate the decision of the WCJ dated November 17, 2008 that awarded Claimant workers\u2019 compensation benefits.\nORDER\nAND NOW, this 29th day of July, 2010, the order of the Workers\u2019 Compensation Appeal Board in the above-captioned matter is reversed. The decision of the WCJ dated November 17, 2008 awarding Claimant workers\u2019 compensation benefits is reinstated.\n. Our review is limited to determining whether an error of law was committed, whether necessary findings of fact are supported by substantial evidence and whether constitutional rights were violated. Phoenixville Hosp. v. Workers' Compensation Appeal Board (Shoap), 2 A.3d 689 (Pa.Cmwlth.2010).\n. The Fund filed a brief entitled \u201cBrief Filed By Respondent, Pa. Uninsured Employers Guaranty Fund.\u201d By order dated May 4, 2010, this Court deemed that the Fund\u2019s brief shall be treated as an amicus curiae brief.\n. Robbins was followed in Hiller v. Workmen's Compensation Appeal Board (Deberardinis), 131 Pa.Cmwlth. 189, 569 A.2d 1024 (1990). Therein, this Court held that the injured worker properly brought a claim within Pennsylvania where his employer had a place of business within the Commonwealth and the claimant regularly worked at that place of business. Alternatively, we found that the employee was domiciled in Pennsylvania and spent a substantial part of his working time in this state.\n. We acknowledge that Employer and the Fund contend Claimant spent more time driving outside of Pennsylvania than in the state. They assert Claimant spent 62% of his time driving outside of the Commonwealth. All that is required by Section 305.2(d)(4)(i\u00edi) of the Act is that Claimant work a \"substantial\u201d amount of time within the Commonwealth. We believe that Claimant's evidence showing Claimant spent 38% of his time working in Pennsylvania, the largest percentage allocated to any state, is sufficient to meet his burden.\n. Claimant relies heavily on Owens v. Workers\u2019 Compensation Appeal Board (G.D. Leasing of Indiana), 769 A.2d 1220 (Pa.Cmwlth.2001), to support his claim that he spent a substantial amount of his work time in Pennsylvania. Claimant\u2019s reliance is misplaced. The claimant in that case was injured outside of Pennsylvania, yet filed a claim for benefits within the Commonwealth. The WCJ found that the claimant\u2019s employment was \"principally localized\u201d in Pennsylvania because the employer \"had a place of business\u201d in this state that the claimant \"regularly worked from or at.\u201d Owens, 769 A.2d at 1222. The WCJ nonetheless dismissed the claimant's claim petition because he signed a contract for hire with the employer agreeing that the exclusive remedy for workers' compensation was in the state of Indiana. The Board affirmed. We reversed reiterating that the focus of Section 305.2 of the Act is on the claimant\u2019s employment and not the employer. We found the claimant did not sign an agreement \"localizing his employment\u201d in Indiana. Id. at 1224. Because there was no dispute that the claimant\u2019s employment was principally localized in Pennsylvania, we found the claimant could pursue workers' compensation benefits within the Commonwealth.\nIn the instant matter, there is no issue concerning an agreement to localize Claimant\u2019s employment in another state. Moreover, even though the WCJ in Owens did indicate the claimant's employment in that matter was principally localized in Pennsylvania, he did so finding the employer had a place of business within the state and that the claimant regularly worked at or from that place of business. The WCJ's findings in that instance were made under Section 305.2(d)(4)(i) of the Act, not Section 305.2(d)(4)(iii) of the Act. Owens does not apply to the matter before us.\n. Employer cites language in Pugh v. Workers' Compensation Appeal Board (Transpersonnel, Inc.), 858 A.2d 641, n. 8 (Pa.Cmwlth.2004), that \"[o]ne third of [a claimant's] time does not necessarily equate with substantial service in Pennsylvania.\u201d Employer suggests that Pugh controls the instant matter and warrants a finding that Claimant\u2019s employment was not principally localized in Pennsylvania. We reject Employer's contention. The claimant, in Pugh, asserted that subject matter jurisdiction over his work-related injury lay within the Commonwealth. He claimed, in part, that he was always dispatched from Pennsylvania and he spent one-third of his time in Pennsylvania as a driver trainer. We found, however, that no evidence to support the claimant's contention was found in the record. In a one sentence analysis we dismissed the claimant's argument that his employment was principally localized in Pennsylvania under Section 3 05.2(d)(4)(iii) of the Act as there was no evidence of record to support the injured worker\u2019s claim. While the excerpt cited by Employer does appear earlier in our opinion in Pugh, it was not dispositive of the appeal. Moreover, to say that one-third of a claimant\u2019s time in Pennsylvania \"does not necessarily equate with substantial service\" in the Commonwealth does not forever preclude a claimant from establishing jurisdiction in Pennsylvania based on a similar percentage of time working within the state. Claimant, in the instant matter, spent 38% of his work time in the Commonwealth, a greater percentage than any other state. Unlike in Pugh, there is evidence of record to support this claim. Pugh does not control.\n. Because we find Claimant established jurisdiction in Pennsylvania pursuant to Section 305.2(a)(1) and (d)(4)(iii) of the Act, we need not address Claimant\u2019s alternative theory that jurisdiction lies within Pennsylvania under Section 305.2(a)(2) of the Act.",
+        "type": "majority",
+        "author": "Senior Judge FLAHERTY."
+      }
+    ],
+    "attorneys": [
+      "David F. Stern, Philadelphia, for petitioner.",
+      "Audrey J. Copeland, King of Prussia, for respondent.",
+      "Shawn C. Gooden, Philadelphia, for ami-cus curiae, PA Uninsured Employers Guaranty Fund."
+    ],
+    "corrections": "",
+    "head_matter": "John D. WILLIAMS, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (POHL TRANSPORTATION), Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs June 25, 2010.\nDecided July 29, 2010.\nDavid F. Stern, Philadelphia, for petitioner.\nAudrey J. Copeland, King of Prussia, for respondent.\nShawn C. Gooden, Philadelphia, for ami-cus curiae, PA Uninsured Employers Guaranty Fund.\nBEFORE: LEADBETTER, President Judge, BROBSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0742-01",
+  "first_page_order": 804,
+  "last_page_order": 811
+}

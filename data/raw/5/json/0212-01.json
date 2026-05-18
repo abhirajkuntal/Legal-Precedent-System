@@ -1,0 +1,59 @@
+{
+  "id": 7284661,
+  "name": "Allen L. FEINGOLD, and A.L. Feingold & Associates, and Feingold, Feingold & Garcia, P.C. and Zohar Stark v. Mitchell S. BERGER, Esquire, and Ryan, Brown, McDonnell, Berger & Gibbons, P.C. and Patrick J. McDonnell, Esquire and McDonnell & Associates, P.C. and Gulf Insurance Company. Petition of Allen L. Feingold",
+  "name_abbreviation": "Feingold v. Berger",
+  "decision_date": "2010-09-27",
+  "docket_number": "No. 94 EM 2010",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 543,
+    "ocr_confidence": 0.697,
+    "sha256": "7ce93e1ac8830517dc75f0248115a58c93b1cccb0d28dc0b40d71622bd3e09b2",
+    "simhash": "1:4c2f8f2d62a2ac82",
+    "word_count": 84
+  },
+  "last_updated": "2023-07-14T15:48:37.042050+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen L. FEINGOLD, and A.L. Feingold & Associates, and Feingold, Feingold & Garcia, P.C. and Zohar Stark v. Mitchell S. BERGER, Esquire, and Ryan, Brown, McDonnell, Berger & Gibbons, P.C. and Patrick J. McDonnell, Esquire and McDonnell & Associates, P.C. and Gulf Insurance Company. Petition of Allen L. Feingold."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of September, 2010, the Petition for Allowance of Appeal, treated as an Application for Relief per Pa.R.A.P. 128, is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Allen L. FEINGOLD, and A.L. Feingold & Associates, and Feingold, Feingold & Garcia, P.C. and Zohar Stark v. Mitchell S. BERGER, Esquire, and Ryan, Brown, McDonnell, Berger & Gibbons, P.C. and Patrick J. McDonnell, Esquire and McDonnell & Associates, P.C. and Gulf Insurance Company. Petition of Allen L. Feingold.\nNo. 94 EM 2010.\nSupreme Court of Pennsylvania.\nSept. 27, 2010."
+  },
+  "file_name": "0212-01",
+  "first_page_order": 242,
+  "last_page_order": 242
+}

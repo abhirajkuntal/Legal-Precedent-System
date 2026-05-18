@@ -1,0 +1,63 @@
+{
+  "id": 7286977,
+  "name": "Fred CARTER, Appellant v. COMMONWEALTH of Pennsylvania, Governor Edward G. Rendell And Pennsylvania Department of Corrections, Appellees",
+  "name_abbreviation": "Carter v. Commonwealth",
+  "decision_date": "2010-07-20",
+  "docket_number": "",
+  "first_page": "466",
+  "last_page": "466",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 466"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 296,
+    "ocr_confidence": 0.651,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661803522062113
+    },
+    "sha256": "5ab5cb7b33850022d72728bf90e2207257fc467feac1ca59d6fb57d7b98ecb78",
+    "simhash": "1:4dc90c86e301a8b2",
+    "word_count": 44
+  },
+  "last_updated": "2023-07-14T21:40:41.647294+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred CARTER, Appellant v. COMMONWEALTH of Pennsylvania, Governor Edward G. Rendell And Pennsylvania Department of Corrections, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of July, 2010, the Order of the Commonwealth Court is hereby AFFIRMED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fred CARTER, Appellant v. COMMONWEALTH of Pennsylvania, Governor Edward G. Rendell And Pennsylvania Department of Corrections, Appellees.\nSupreme Court of Pennsylvania.\nJuly 20, 2010."
+  },
+  "file_name": "0466-01",
+  "first_page_order": 496,
+  "last_page_order": 496
+}

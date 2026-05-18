@@ -1,0 +1,199 @@
+{
+  "id": 7289533,
+  "name": "Terry L. STEEN and Anita I. Steen, Husband and wife, Appellants v. PENNSYLVANIA TURNPIKE COMMISSION",
+  "name_abbreviation": "Steen v. Pennsylvania Turnpike Commission",
+  "decision_date": "2010-08-18",
+  "docket_number": "",
+  "first_page": "747",
+  "last_page": "754",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "506 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1790969
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/506/0622-01"
+      ]
+    },
+    {
+      "cite": "805 A.2d 51",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11428020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/805/0051-01"
+      ]
+    },
+    {
+      "cite": "786 A.2d 349",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9454615
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "352",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/786/0349-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 607",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11901487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/0607-01"
+      ]
+    },
+    {
+      "cite": "938 A.2d 499",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8316075
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/938/0499-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 80",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823776
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a trial court has authority to regulate post-trial motions practice"
+        },
+        {
+          "parenthetical": "holding that a trial court has authority to regulate post-trial motions practice"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0080-01"
+      ]
+    },
+    {
+      "cite": "493 A.2d 130",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "662 A.2d 691",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863962
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/662/0691-01"
+      ]
+    },
+    {
+      "cite": "482 Pa. 58",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1749708
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/482/0058-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 767,
+    "char_count": 21083,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18830537996616792
+    },
+    "sha256": "ffe4b37f034bd4826e9c868428941fbd82af0bf31a186771a6221e8a49ee3cb9",
+    "simhash": "1:85af053773833cd4",
+    "word_count": 3409
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, McGINLEY, Judge, COHN JUBELIRER, Judge, SIMPSON, Judge, BROBSON, Judge, McCULLOUGH, Judge, and BUTLER, Judge.",
+      "Judge BUTLER joins in this dissent."
+    ],
+    "parties": [
+      "Terry L. STEEN and Anita I. Steen, Husband and wife, Appellants v. PENNSYLVANIA TURNPIKE COMMISSION."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nPresident Judge LEADBETTER.\nTerry L. Steen and Anita I. Steen (the Steens) appeal from the order of the Court of Common Pleas of Bucks County denying the Steens\u2019 motion for post-trial relief from an order sustaining the preliminary objections of the Pennsylvania Turnpike Commission (Commission) to the Steens\u2019 petition for appointment of viewers pursuant to Section 502(c) of the Eminent Domain Code (Code), 26 Pa.C.S. \u00a7 502(c). After review, we affirm.\nThe Steens owned four and a half acres of property abutting 1-95 in Bristol Township, Bucks County, Pennsylvania. The Steens also owned three outdoor advertising signs erected on the property. On August 7,1987, the Steens sold the property to Mountain Ridge Enterprises, Inc. (Mountain Ridge). At the same time, the Steens executed an Easement Agreement with Mountain Ridge, which granted the Steens an easement over the property to access and maintain the outdoor advertising signs. The easement was recorded in the Office of the Recorder of Deeds of Bucks County on August 12, 1987. The Steens then sold the signs to Steen Advertising, Inc. and since 1987, have continuously leased their easement to Steen Advertising, Inc., in exchange for an annual fee.\nThe Easement Agreement by and between the Steens (Grantees) and Mountain Ridge (Grantor), provided the following:\n1. Grantor hereby grants and conveys to Grantee ... an easement over the property for the purpose of ingress and egress ... to the Signs for the purpose of using, inspecting, maintaining, replacing and repairing, changing the advertising message, and all other related uses, of the Signs....\n2. The aforesaid easement includes the right of access and the right to have the Signs remain on the property being granted to the Grantee ...\n4. The Signs shall be located in the approximate area in which they are located on the date of this conveyance and these Signs shall remain the sole property of the Grantee despite the aforesaid conveyance of fee simple title to the Property by the Grantee to the Grantor.\n5. The Grantee may sell, transfer, convey, and assign all of Grantee\u2019s right, title and interest in the Signs and in the rights created pursuant to this easement agreement.\n13. If all of the property or material portion thereof is taken or condemned for a public or quasi-public use, to the extent that the Grantee may no longer maintain, use, or relocate the Signs within the Property, the easement granted and created hereby shall automatically terminate as of the date title to the condemned real estate vests in the condemnor, with the qualification that the foregoing shall apply only if Grantee is unable to relocate Grantee\u2019s Signs on the property....\nAll proceeds and awards which may be payable as a result of the taking or condemnation of all or part of the Property shall belong to and be paid to the Grantor. Notwithstanding the foregoing, Grantee shall have the right to assert a separate claim for loss of the Signs if said condemnation results in the taking of the Signs or in the elimination of Grantee\u2019s access to the Signs. Pursuant thereto, Grantor and Grantee shall each file separate claims for condemnation damages.\nEasement Agreement, R.R. at 32a-38a.\nIn March 2000, Mountain Ridge conveyed its interest in the property to Orange Hill, Inc. On June 27, 2007, the Commission filed a Declaration of Taking in Bucks County, Pennsylvania, seeking to condemn the property for the purpose of constructing the 1-95 interchange project. The declaration of taking named Orange Hill, Inc., and Steen Advertising, Inc., as condemnees. It did not name the Steens individually. In December 2007, Orange Hill, Inc. tendered possession of the property to the Commission in exchange for certain just compensation.\nOn August 18, 2008, the Steens filed their petition for appointment of viewers contending that they should have been identified as condemnees under Section 304(b)(l)(iv) of the Code, 26 Pa.C.S. \u00a7 304(b)(l)(iv), because they had an interest in the condemned property by way of their easement. The Steens sought just compensation for the Commission\u2019s purported de facto taking. The Commission responded by filing preliminary objections to the Steens\u2019 petition, asserting that the petition failed to state a claim upon which relief could be granted, that the Steens\u2019 easement had automatically terminated upon the filing of the declaration of taking, and that Steen Advertising, Inc., and not the Steens individually, was the owner of the signs and thus the only party entitled to compensation for the loss of the signs. Following a hearing, the trial court entered its order on April 2, 2009, sustaining the preliminary objections filed by the Commission. The Steens then filed a motion for post-trial relief seeking a judgment notwithstanding the verdict or a new trial. The Steens\u2019 motion was denied by the trial court on May 7, 2009. In its opinion, the trial court determined that the easement agreement expressly provided that the easement automatically terminated upon the filing of a declaration of taking. Therefore, because the Steens were attempting to recover for an easement which had extinguished upon the filing of a declaration of taking and no longer had value, it had properly sustained the Commission\u2019s preliminary objections and properly denied the Steens\u2019 post-trial motions. This appeal followed.\nBefore reaching the merits of the Steens\u2019 appeal, we must address the motion to quash filed by the Commission. In its motion, the Commission alleges that the Steens\u2019 filing of post-trial motions following the trial court\u2019s April 2, 2009, order sustaining the Commission\u2019s preliminary objections was inappropriate and that it did not toll the thirty-day appeal period provided by Pa. Rule of Appellate Procedure 341. Because the Steens did not file a notice of appeal until May 22, 2009, well in excess of thirty days of the April 2, 2009 order, the Commission contends that the Steens\u2019 appeal is untimely and, hence, must be quashed. We disagree.\nNormally, an order sustaining preliminary objections to a petition for the appointment of a board of view ends a matter and puts a party out of court, thereby triggering the thirty-day appeal period. However, where a trial court entertains and rules upon a post-trial motion, as did the trial court in this case, the appeal period runs from the date of the order disposing of the motion. See Appeal of Borough of Churchill, 525 Pa. 80, 575 A.2d 550 (1990) (holding that a trial court has authority to regulate post-trial motions practice); Codispot v. Butler County Tax Claim Bureau, 938 A.2d 499 (Pa.Cmwlth.2007) (holding that a trial court may exercise discretion in entertaining post-trial motions and that an appeal properly lies from the trial court\u2019s disposition of the motions); In re Upset Price Tax Sale for Springfield Township, 700 A.2d 607 (Pa.Cmwlth.1997) (holding that absent some local rule prohibiting the filing of post-trial motions in a particular type of proceeding, where a trial court has ruled upon the merits of post-trial motions, that ruling is the order from which an appeal may be taken). Thus, we conclude that because the trial court entertained and ruled upon the Steens\u2019 post-trial motion, disposing of it by its May 7, 2009 order, the Steens\u2019 appeal filed on May 22, 2009, was timely.\nTurning now to the merits, the Steens raise the following issues for our review: first, whether as owners of an easement across property condemned by the Commission they should have been considered condemnees entitled to file a claim for damages; second, whether the Commission, by virtue of its condemnation, substantially interfered with the Steens\u2019 beneficial use and enjoyment of their easement without the payment of just compensation; and third, whether the Commission, by its Notice to Vacate, deprived the Steens of the beneficial use and enjoyment of their easement without the payment of just compensation.\nThe Steens first argue that the trial court erred in sustaining the Commission\u2019s preliminary objections because the evidence of record establishes that they were the owners of an easement across property condemned by the Commission, and, as such, they are condemnees under the Code entitled to just compensation. The Steens correctly assert that under Section 103 of the Code, a \u201ccondemnee\u201d is defined as the \u201cowner of a property interest taken, injured or destroyed.\u201d 26 Pa. C.S. \u00a7 103. Furthermore, Section 507(a) requires the \u201cclaim of all the owners of the condemned property, including ... owners of easements ... shall be heard or tried together.\u201d 26 Pa.C.S. \u00a7 507(a). According to the Steens, the easement agreement defined the substantial property rights and interests vested in them, including the right to access the signs at all times, the right to have their signs remain on the property, the right to erect, use, inspect, install, maintain, repair and replace electrical lines to the signs, the right to sell, transfer, convey and assign all of their right, title and interest in the signs and in the rights created under the agreement. The Steens argue that their easement was extinguished by the Commission\u2019s condemnation of the servient estate, i. e., the property, but because they were not named as condemnees in the declaration of taking, the Commission effectuated a de facto taking of their easement for which they are entitled to just compensation. Finally, the Steens argue that the language in Paragraph 13 of the Easement Agreement that they, as Grantees, \u201cshall have the right to assert a separate claim for loss of the Signs if said condemnation results in the taking of the signs or in the elimination of Grantee\u2019s access to the Signs,\u201d expressly provided them with the right to file a separate claim, \u201cif condemnation resulted in the loss of access, i.e., their Easement.\u201d Brief for Appellants, at 16.\nWhen reviewing an express easement, the rights conferred by the grant of an express easement must be ascertained solely from the language of the easement agreement, provided that the language of the agreement is unambiguous. Norma L. Joiner v. The Southwest Central Rural Electric Co-Operative Corp., 786 A.2d 349 (Pa.Cmwlth.2001). \u201cIn effect, an easement is interpreted in the same manner as any other contract; if the language of the agreement is clear, our inquiry is ended _\u201d Id. at 352 (citation omitted).\nPursuant to the language of Paragraph 13 of the agreement, the easement automatically terminates in the event of a condemnation which eliminated the use of the Signs. While the provision also preserves \u201cthe right to assert a separate claim for loss of the Signs if said condemnation results in the taking of the Signs or in the elimination of Grantee\u2019s access to the Signs,\u201d the plain language provides a separate claim only for loss of the signs if the condemnation eliminates access to them, not a separate claim for loss of access. Once the Signs were condemned, the easement (allowing access to maintain and repair signs that no longer existed) ceased to have any value. A separate claim was recognized in the declaration of taking for loss of the Signs themselves, which by that time had been sold to Steen Advertising, Inc., the only entity which sustained a compensable loss other than the landowner, Orange Hill.\nTherefore, because the easement was extinguished by operation of the Easement Agreement, there is no property interest and, therefore, no de facto taking. In sustaining the Commission\u2019s preliminary objections and denying the Steens\u2019 motion for post-trial relief, the trial court relied upon the express language from Paragraph 13 of the Easement Agreement. We see no error in the trial court\u2019s well-reasoned decision, and, accordingly, we affirm the order of the trial court sustaining the preliminary objections of the Commission to the Steens\u2019 petition for appointment of viewers.\nORDER\nAND NOW, this 18th day of August, 2010, the motion to quash filed by the Pennsylvania Turnpike Commission in the above-captioned matter is hereby DENIED. The order of the Court of Common Pleas of Bucks County, which sustained the preliminary objections of the Commission to the Steens\u2019 petition for appointment of viewers, is AFFIRMED.\n. The Lease Agreement is attached as Exhibit 3 to the Steens\u2019 Petition for Appointment of Viewers. See R.R. at 47a.\n. This section provides that: \"The notice shall specify ... [t]he names of the owners of the property interests condemned, as reasonably known to the condemnor.\u201d\n. Section 502(a) of the Code provides that a \u201ccondemnor, condemnee or displaced person may file a petition requesting the appointment of viewers,\" where a declaration of taking has been filed. 26 Pa.C.S. \u00a7 502(a). Section 502(c)(1) specifically provides that the \"owner of a property interest who asserts that the owner\u2019s property interest has been condemned without the filing of a declaration of taking may file a petition for the appointment of viewers_\u201d 26 Pa.C.S. \u00a7 502(c)(1). Upon the filing of preliminary objections to such petition, the Code provides that the trial court shall \"promptly\u201d determine the same and \"shall conduct an evidentiary hearing\u201d if an issue of fact is raised. Section 504(d)(4) and (5) of the Code, 26 Pa.C.S. \u00a7 504(d)(4), (5).\n.Preliminary objections are the exclusive method of raising objections to a petition for appointment of viewers alleging a de facto taking. Genter v. Blair County Convention & Sports Facilities Auth., 805 A.2d 51 (Pa.Cmwlth.2002).\n. Based on the issue presented, the scope of our review is limited to ascertaining whether the trial court committed an error of law. Our review of legal errors is plenary.\n. The note to Rule of Civil Procedure No. 227.1 states that \u201c[a] motion for post-trial relief may not be filed to orders disposing of preliminary objections, motions for judgment on the pleadings or for summary judgment, motions relating to discovery or other proceedings which do not constitute a trial. See U.S. National Bank in Johnstown v. Johnson, 506 Pa. 622, 487 A.2d 809 (1985).\" Subsection (h) allows for the filing of \u201cpost-trial relief ... following a trial upon an appeal from the decision of viewers pursuant to the Eminent Domain Code.\u201d In the explanatory note to that subsection, it states that, \"Subdivision (h) eliminates any distinction with respect to the filing of a motion for post-trial relief between jury and non-jury trials following an appeal from the decision of viewers in eminent domain proceedings.\" In any event, we note that in the cases we cite herein, where the trial court has ruled on the merits of a party\u2019s post-trial motions, it is from that order that an appeal will lie.\n. Because we conclude that this matter is determined by resolution of the Steens\u2019 first issue, we will not consider their remaining issues.",
+        "type": "majority",
+        "author": "President Judge LEADBETTER."
+      },
+      {
+        "text": "DISSENTING OPINION BY\nJudge McCullough.\nBecause I believe that Terry L. Steen and Anita I. Steen (the Steens), as owners of an easement across property condemned by the Pennsylvania Turnpike Commission (Commission), are entitled to just compensation for the taking, I respectfully dissent.\nArticle 1, Section 10 of the Pennsylvania Constitution provides that private property shall not \u201cbe taken or applied to public use, without authority of law and without just compensation being first made or secured.\u201d Both our Pennsylvania Supreme Court and this Court have held that an easement is extinguished by a taking under eminent domain, thereby entitling the easement holder to damages. Curtis v. Redevelopment Authority of the City of Philadelphia, 482 Pa. 58, 393 A.2d 377 (1978); Captline v. County of Allegheny, 662 A.2d 691 (Pa.Cmwlth.1995).\nIndeed, section 507(a) of the Eminent Domain Code specifically recognizes the \u201cowners of easements\u201d as persons having an interest in a condemned property such that their claim for damages \u201cshall be heard or tried together\u201d with the claims of the owner of the property itself. 26 Pa. C.S. \u00a7 507(a). Moreover, the purpose of Eminent Domain is to ensure just compensation to those persons whose land is condemned by Eminent Domain, which may require certain provisions of the Code to be liberally construed so as to achieve this purpose. Department of Transportation v. Beamer, 89 Pa.Cmwlth. 490, 493 A.2d 130 (1985).\nContrary to the Majority, I do not believe that the language of paragraph 13 of the Easement Agreement, which automatically terminates the easement in event of condemnation, is intended to strip the property owners of their constitutionally recognized property rights. Such an interpretation negates the legal effect of condemnation and Eminent Domain, is contrary to the parties\u2019 expressed intent, and renders the Steens\u2019 easement without value and the other pertinent contractual language meaningless. Paragraph 13 provides as follows:\nIf all of the property or material portion thereof is taken or condemned for a public or quasi-public use, to the extent that the Grantee may no longer maintain, use, or relocate the Signs within the Property, the easement granted and created hereby shall automatically terminate as of the date title to the condemned real estate vests in the condemnor, with the qualification that the foregoing shall apply only if Grantee is unable to relocate Grantee\u2019s Signs on the property. Notwithstanding the foregoing, the Grantor\u2019s right to erect improvements shall not be limited by the foregoing and, in the event of relocation of the Signs near such improvements, the Grantor and Grantee exercising reasonable judgment, shall decide upon a mutually convenient location for relocating the Signs.\nAll proceeds and awards which may be payable as a result of the taking or condemnation of all or part of the Property shall belong to and be paid to the Grantor. Notwithstanding the foregoing, Grantee shall have the right to assert a separate claim for loss of the Signs if said condemnation results in the taking of the Signs or in the elimination of Grantee\u2019s access to the Signs. Pursuant thereto, Grantor and Grantee shall each file separate claims for condemnation damages.\n(R.R. at 37a-38a.) (Emphasis added.) Clearly, this language does nothing more than restate the law, which is to say that an easement is perpetual unless it is \u201ctaken\u201d by condemnation. While the Steens sold the signs to Steen Advertising, Inc., they never relinquished or assigned ownership of the easement itself. Rather, the evidence of record reveals that, since 1987, the Steens have continuously leased the easement to Steen Advertising, Inc., in exchange for an annual fee.\nFurthermore, while the trial court correctly noted that paragraph 13 recognized two parties with viable claims, the property owner and the sign owner, nothing in this paragraph reflects an intent to limit an award resulting from condemnation solely to these two parties. Significantly, at the time of execution of the Easement Agreement, the Steens owned the signs, and the Easement Agreement recognized two distinct situations under which the Steens could assert a separate claim, either by a taking of the signs themselves or by elimination of access to the signs.\nParagraph 5 of the Easement Agreement specifically allowed the Steens to \u201csell, transfer, convey, and assign all of [their] right, title and interest in the Signs and in the rights created pursuant to this easement agreement.\u201d (R.R. at 34a.) Although the Steens subsequently sold the signs to Steen Advertising, Inc., they maintained ownership of the easement, thereby retaining the access rights. Paragraph 13 of the Easement Agreement simply did not contemplate the current situation, i.e., a third party with an ownership interest in the easement, but paragraph 5 clearly allowed for such. For that reason, I do not believe that paragraph 13 can be construed so as to exclude this third party, the Steens, the owners of the access rights, from an award of condemnation damages. In exercising their contractual rights, the Steens conveyed their ownership interest in the signs, but retained ownership of the easement. Therefore, unlike the Majority, I would conclude that the Steens also sustained a compensable loss pursuant to section 507(a) of the Eminent Domain Code.\nAccordingly, I would hold that the Commission\u2019s declaration of taking deprived the Steens of the beneficial use of their easement, for which they are entitled to just compensation, and I would reverse the order of the trial court and remand for the appointment of viewers.\nJudge BUTLER joins in this dissent.\n. I do not disagree with the Majority's denial of the motion to quash filed on behalf of the Commission.",
+        "type": "dissent",
+        "author": "Judge McCullough."
+      }
+    ],
+    "attorneys": [
+      "Leslie M. Gerstein, Philadelphia, for appellants.",
+      "Mark D. Bradshaw, Harrisburg, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "Terry L. STEEN and Anita I. Steen, Husband and wife, Appellants v. PENNSYLVANIA TURNPIKE COMMISSION.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs May 19, 2010.\nDecided Aug. 18, 2010.\nLeslie M. Gerstein, Philadelphia, for appellants.\nMark D. Bradshaw, Harrisburg, for ap-pellee.\nBEFORE: LEADBETTER, President Judge, McGINLEY, Judge, COHN JUBELIRER, Judge, SIMPSON, Judge, BROBSON, Judge, McCULLOUGH, Judge, and BUTLER, Judge."
+  },
+  "file_name": "0747-01",
+  "first_page_order": 781,
+  "last_page_order": 788
+}

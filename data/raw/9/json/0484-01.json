@@ -1,0 +1,508 @@
+{
+  "id": 7284785,
+  "name": "Michael WILLIAMS, Appellant, v. DISTRICT OF COLUMBIA, et al., Appellees",
+  "name_abbreviation": "Williams v. District of Columbia",
+  "decision_date": "2010-12-09",
+  "docket_number": "No. 09-CV-1192",
+  "first_page": "484",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 484"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "705 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11870808
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "628"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/705/0624-01"
+      ]
+    },
+    {
+      "cite": "68 A.2d 905",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8142925
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "905"
+        },
+        {
+          "page": "906"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/68/0905-01"
+      ]
+    },
+    {
+      "cite": "141 F.3d 1139",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        191532
+      ],
+      "pin_cites": [
+        {
+          "page": "1143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/141/1139-01"
+      ]
+    },
+    {
+      "cite": "66 F.3d 279",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11313228
+      ],
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/66/0279-01"
+      ]
+    },
+    {
+      "cite": "649 A.2d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7879877
+      ],
+      "pin_cites": [
+        {
+          "page": "1075"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/649/1064-01"
+      ]
+    },
+    {
+      "cite": "816 A.2d 793",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9369013
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "808"
+        },
+        {
+          "page": "808"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/816/0793-01"
+      ]
+    },
+    {
+      "cite": "1997 U.S. Dist. LEXIS 3248",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "*26"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1997 WL 129394",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "*10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "550 U.S. 544",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3556136
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/550/0544-01"
+      ]
+    },
+    {
+      "cite": "515 F.3d 224",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3645156
+      ],
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/515/0224-01"
+      ]
+    },
+    {
+      "cite": "691 A.2d 1169",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11918683
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "1171"
+        },
+        {
+          "page": "1172"
+        },
+        {
+          "page": "1172"
+        },
+        {
+          "page": "1171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/691/1169-01"
+      ]
+    },
+    {
+      "cite": "884 A.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8903777
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "77"
+        },
+        {
+          "page": "77",
+          "parenthetical": "observing that \"the time period within which [the defamatory statement] was published is apparent, i.e., between the date of [appellee's] letter (April 4, 1998) and the time that it was first shown to appellant by [a third party] (February 2000)\""
+        },
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/884/0063-01"
+      ]
+    },
+    {
+      "cite": "977 A.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7296232
+      ],
+      "pin_cites": [
+        {
+          "page": "948"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/977/0941-01"
+      ]
+    },
+    {
+      "cite": "779 A.2d 918",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9494754
+      ],
+      "pin_cites": [
+        {
+          "page": "923"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/779/0918-01"
+      ]
+    },
+    {
+      "cite": "484 A.2d 958",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7914926
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "989"
+        },
+        {
+          "page": "986"
+        },
+        {
+          "page": "986"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/484/0958-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 580",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11185866
+      ],
+      "pin_cites": [
+        {
+          "page": "594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0580-01"
+      ]
+    },
+    {
+      "cite": "715 A.2d 873",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11708647
+      ],
+      "pin_cites": [
+        {
+          "page": "877"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/715/0873-01"
+      ]
+    },
+    {
+      "cite": "391 F.3d 1377",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9145329
+      ],
+      "pin_cites": [
+        {
+          "page": "1382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/391/1377-01"
+      ]
+    },
+    {
+      "cite": "234 F.3d 9",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11144669
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "13"
+        },
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/234/0009-01"
+      ]
+    },
+    {
+      "cite": "957 A.2d 921",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8209714
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "924"
+        },
+        {
+          "page": "925"
+        },
+        {
+          "page": "925"
+        },
+        {
+          "page": "926"
+        },
+        {
+          "page": "925"
+        },
+        {
+          "page": "925"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/957/0921-01"
+      ]
+    },
+    {
+      "cite": "931 A.2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8352262
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1028"
+        },
+        {
+          "page": "1023"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/931/1018-01"
+      ]
+    },
+    {
+      "cite": "702 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11889466
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "210"
+        },
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/702/0207-01"
+      ]
+    },
+    {
+      "cite": "580 A.2d 127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1187,
+    "char_count": 29930,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 2.3935212125435187e-07,
+      "percentile": 0.7981434438841801
+    },
+    "sha256": "e45a581536c68ed79596bd095deee53c1100de29a758b88228058cdae63dc64d",
+    "simhash": "1:59829544414c92dc",
+    "word_count": 4671
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WASHINGTON, Chief Judge, THOMPSON, Associate Judge, and NEBEKER, Senior Judge."
+    ],
+    "parties": [
+      "Michael WILLIAMS, Appellant, v. DISTRICT OF COLUMBIA, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "THOMPSON, Associate Judge:\nOn April 8, 2009, appellant Michael Williams filed a complaint against the District of Columbia (\u201cthe District\u201d), Mayor Adrian Fenty, and Clark Ray, then-Director of the District of Columbia Department of Parks and Recreation (\u201cDPR\u201d) asserting that he had been terminated from his position with DPR in violation of the District of Columbia Whistleblower Protection Act (\u201cDC-WPA\u201d or \u201cAct\u201d), D.C.Code \u00a7\u00a7 1-615.51 to -59 (2001). He also asserted claims for defamation and intentional infliction of emotional distress. The defendants brought a motion to dismiss, which the trial court granted, finding that Williams failed to state a claim for relief for each of the three causes of action because: (1) he did not allege facts showing that he made a \u201cprotected disclosure\u201d under the DC-WPA; (2) his defamation claim lacked sufficient specificity; and (3) the circumstances of his termination did not rise to the \u201cextreme and outrageous\u201d level required to sustain an intentional infliction of emotional distress claim. On appeal, Mr. Williams argues that the trial court\u2019s judgment granting the motion to dismiss should be reversed.\nWe affirm the trial court\u2019s ruling as to Williams\u2019s DC-WPA and intentional infliction of emotional distress claims, but reverse and remand as to his defamation claim.\nI.\nFor purposes of our review of the trial court\u2019s ruling granting defendants\u2019 motion to dismiss, we must accept as true, and we view in the light most favorable to appellant Williams, the following allegations set out in the complaint. Warner v. District of Columbia, 580 A.2d 127, 129 (D.C.1990). In January 2008, Williams was hired as the Associate Director of Athletic Programs for DPR, a position in which he was \u201cresponsible for the administration of DPR\u2019s youth basketball leagues.\u201d The rules of the youth basketball league established that children ages six through eight play in the \u201cPee Wee\u201d division, and children ages nine and ten play in the \u201cPony\u201d division. The rules provided that a child\u2019s age was to be determined on April 5 of each year, and therefore a player who had turned or would turn nine before April 5, 2009 was not eligible to play in the Pee Wee division in 2009, but instead should play in the Pony division. The rules, which were \u201cdesigned \u2018to provide a safe, healthy and positive environment for all youth participants,\u2019 \u201d also required each child to provide DPR with documentation that included age verification.\nOn or about February 11, 2009, DPR staff members notified Williams that \u201cthey were receiving calls from members of the public\u201d who were complaining that Mayor Fenty\u2019s twin sons were playing in the Pee Wee league even though they were \u201cineligible\u201d because they would turn nine years old on March 8, 2009. Two days later, Williams \u201clearned of additional complaints [about Mayor Fenty\u2019s children] from parents of younger children.\u201d Williams called Sean Conley, a personal aide to Mayor Fenty, to ask about Fenty\u2019s children, and Conley \u201cadmitted that Defendant Fenty\u2019s children were playing in a younger division in violation of the rules ... [and] confirmed that Defendant Fenty was aware of the violation.\u201d\nOn February 13, 2009, Williams called Ray, his supervisor, to tell him the \u201cfacts he had learned\u201d about Mayor Fenty\u2019s children. Ray \u201cadmitted that Defendant Fenty\u2019s children were playing in violation of the rules [and] promised to ... get advice on how to handle the situation.\u201d On February 17, 2009, Ray \u201ctold [Williams] that Defendant Fenty\u2019s children were going to continue to play in the Pee Wee division.\u201d That day, Williams asked \u201can associate\u201d to contact Mayor Fenty \u201cto discuss the situation.\u201d On February 18, 2009, the associate told Williams that Mayor Fenty responded to his inquiry \u201cby cursing and belittling the associate.\u201d\nOn February 23, 2009, Ray informed Williams that he was being terminated from his job effective March 9, 2009. Ray told Williams that he was being terminated for budgetary reasons, but, in response to Williams\u2019s questions about why he was being fired, also told Williams, \u201c[Y]ou are smart and can figure it out.\u201d\nOn March 25, 2009, Williams testified before the Council of the District of Columbia (the \u201cCouncil\u201d) about his termination and his allegations regarding Mayor Fentjfs sons\u2019 participation in violation of the basketball league rules. He asserts in his complaint that \u201cagents and employees\u201d of the District retaliated against him \u201cby publishing and/or republishing false and defamatory \u2018explanations\u2019 for his abrupt termination,\u201d specifically, that Williams was terminated for embezzlement. The complaint further asserts that \u201c[o]n information and belief, a senior official of the District of Columbia government who was displeased with\u201d Williams\u2019s allegations of retaliatory termination and with his testimony before the Council \u201cinitiated publication of the false rumor.\u201d It also asserts that \u201c[\u00a1Individuals who are present and former employees of DPR and/or are active in youth sports activities\u201d called Williams \u201cto tell him that the (false) rumor accusing him of embezzlement is \u2018out there\u2019 in the community.\u201d\nOn August 27, 2009, the trial court granted the defendants\u2019 motion to dismiss Williams\u2019s complaint. This appeal followed.\nII.\nWe review the trial court\u2019s order granting the motion to dismiss de novo. Duncan v. Children\u2019s Nat\u2019l Medical Ctr., 702 A.2d 207, 210 (D.C.1997). To survive a motion to dismiss, a complaint \u201cmust set forth sufficient information to outline the legal elements of a viable claim for relief or to permit inferences to be drawn from the complaint that indicate that these elements exist.\u201d Chamberlain v. Am. Honda Fin. Corp., 931 A.2d 1018, 1028 (D.C.2007) (internal quotation marks omitted). We consider each issue in turn.\nA. The Whistleblower Claim\nThe DC-WPA establishes that \u201cthe public interest is served when employees of the District government are free to report waste, fraud, abuse of authority, violations of law, or threats to public health or safety without fear of retaliation or reprisal.\u201d D.C.Code \u00a7 1-615.51 (2001). The Act prohibits a supervisor from taking a \u201cprohibited personnel action,\u201d including terminating an employee, in retaliation for that employee\u2019s having made a \u201cprotected disclosure.\u201d D.C.Code \u00a7\u00a7 1-615.52, 53 (2001). Under the DC-WPA, a \u201cprotected disclosure\u201d is defined as a \u201cdisclosure,\u201d to a \u201csupervisor or a public body,\u201d of information that the employee \u201creasonably believes evidences\u201d either gross mismanagement, gross misuse or waste of public resources or funds, substantial and specific danger to the public health and safety, or\u2014pertinent to Williams\u2019s allegations\u2014\u201c[ajbuse of authority in connection with the administration of a public program or the execution of a public contract\u201d or a \u201cviolation of a federal, state, or local law, rule or regulation^]\u201d D.C.Code \u00a7 l-615.52(a)(6) (2001). To establish a prima facie case under the DC-WPA, Williams was required to allege facts establishing that he made a protected disclosure, that a supervisor retaliated against him by taking a prohibited personnel action against him, and that his protected disclosure was a contributing factor to the retaliation or prohibited personnel action. Wilburn v. District of Columbia, 957 A.2d 921, 924 (D.C.2008).\nWilliams asserted in his complaint that he reasonably believed that Mayor Fenty\u2019s sons\u2019 participation in the Pee Wee league evidenced an \u201cabuse of authority in connection with the administration of a public program and a violation of a DPR rule or regulation.\u201d He alleged, as Count I of his complaint (\u201cTermination in Violation of the Whistleblowers\u2019 Protection Act\u201d), that because \u201che raised concerns about Defendant Fent/s abuse of authority\u201d that amounted to \u201cprotected disclosures,\u201d \u201cDefendants Fenty and Ray used their authority to cause [his] termination\u201d in \u201cretaliation for his activities as a whistleblower.\u201d\nIn considering defendants\u2019 motion to dismiss, the trial court reasoned that the \u201cdetermining factor is whether plaintiff\u2019s information already was in the public domain.\u201d Citing Meuwissen v. Dep\u2019t of Interior, 234 F.3d 9 (Fed.Cir.2000) (applying the federal whistleblower statute), the trial court found that because Williams\u2019s complaint acknowledged that the information he conveyed to Ray \u201calready was known by members of the public,\u201d the information was in the public domain and therefore did not qualify as a \u201cprotected disclosure\u201d within the meaning of the Act.\nIn Wilburn, we quoted the statement in Meuwissen that \u201ca disclosure of information that is publicly known is not a disclosure under the WPA, whose purpose is to protect employees who possess knowledge of wrongdoing that is concealed ... and who step forward to help uncover and disclose that information[.]\u201d 957 A.2d at 925 (quoting 234 F.3d at 13) (internal quotation marks omitted). This statement formed the basis of our observation that it was \u201cquestionable whether Wilburn\u2019s conveyance of information [\u201cinformation that had been known for some time both within and outside OHR\u201d] was a \u2018disclosure\u2019 at all.\u201d Wilburn, 957 A.2d at 925. Ultimately, however, we did not decide whether Wilburn had made a \u201cdisclosure\u201d within the meaning of the Act, but simply assumed that she had done so, and decided the case on the ground that the information she conveyed was not about any of the types of abuse or violations enumerated in the statute. Id. at 926.\nAppellees urge us to decide the issue we avoided in Wilburn and to conclude, as the trial court did, that Williams did not make a protected \u201cdisclosure\u201d since, as alleged in the complaint, the information he reported was publicly known (i.e., known to some parents as well as to some DPR staffers and at least one \u201cDPR senior staff person\u201d). We decline to adopt a reading of the DC-WPA that would protect employees who have conveyed to their supervisors information about the existence of an abuse of the type enumerated in the Act only in instances in which no one in the general public is aware of the abuse. Such a reading would not comport with the purpose of the Act, which is to foster an environment in which District employees feel free to expose abuses to their superiors who are in a position to \u201crecommend or take remedial or corrective action[.]\u201d D.C.Code \u00a7 l-615.52(a)(8) (2001). But on the specific facts alleged in Williams\u2019s complaint\u2014not only public knowledge but also vocalized public concern about the very information that Williams conveyed\u2014we agree that Williams\u2019s actions fell outside the protection of the DC-WPA. Williams alleged that on or about February 11, 2009, there were \u201ccalls from members of the public\u201d complaining about violations of the DPR Rules; that on February 13, 2009, he \u201clearned of additional complaints from parents of younger children\u201d; and that he \u201cwas concerned that the facts would be reported in the press.\u201d In short, Williams alleged that he made a \u201cdisclosure\u201d to his supervisor in circumstances in which members of the public had already been vocal enough to DPR that Williams believed the alleged abuse would be addressed by the press. The premise of the DC-WPA, however, is that District employees \u201ccan function as the \u2018eyes and ears\u2019 of District taxpayers.\u201d Like other whistleblower statutes, it was enacted to \u201cprotect employees who risk their own personal job security for the benefit of the public.\u201d In the circumstances alleged in the complaint\u2014members of the public having themselves perceived an alleged abuse, and already vociferously and repeatedly drawing attention to it\u2014the purpose of the Act does not demand that we recognize Williams\u2019s relaying of the public\u2019s complaints as a protected disclosure. We do not doubt that Williams\u2019s \u201cdisclosure\u201d was commendable and well-intentioned, but he did not bring himself within the protection of the DC-WPA and was \u201cnot serving [its particular] purpose ... by disclosing what [was] already known\u201d and being reported to DPR. We therefore uphold the trial court\u2019s dismissal of Williams\u2019s Count I DC-WPA claim.\nBecause Williams\u2019s Count I DC-WPA claim fails, his Count II DC-WPA also fails. Count II, \u201cRetaliatory Defamation in Violation of the Whistleblowers\u2019 Protection Act,\u201d is based on Williams\u2019s allegation that the defendants retaliated against him for testifying at a Council hearing about his \u201ctermination in violation of the [DC-WPA].\u201d Specifically, he alleged that defendants retaliated by \u201cspreading ... defamatory \u2018explanations\u2019 \u201d about the reason for his termination. Nothing in the record suggests that the Council or the public was already aware of the (alleged) \u201ctermination in violation of the [DC-WPA],\u201d so Williams\u2019s testimony to the Council in which he made that allegation would seem to qualify as a \u201cdisclosure\u201d to a \u201cpublic body\u201d within the meaning of the DC-WPA. D.C.Code \u00a7 1-615.52(a)(6). But, to make a \u201cprotected disclosure\u201d to the Council, Williams had to disclose information that he \u201creasonably believe[d] evidence[d]\u201d the type of unlawful activity or abuse at which the DC-WPA is directed\u2014i.e., information indicating that DPR committed \u201csuch serious errors ... that a conclusion the agency erred is not debatable among reasonable people.\u201d Wilburn, 957 A.2d at 925 (quoting White v. Department of the Air Force, 391 F.3d 1377, 1382 (Fed.Cir.2004)). We concluded above, however, that Williams\u2019s relaying of public complaints to his supervisor was not a \u201cprotected disclosure,\u201d meaning (1) that reasonable people could have viewed Williams\u2019s termination (allegedly) because of that non-protected disclosure as not \u201csuch [a] serious error[ ],\u201d id,.; and (2) that Williams\u2019s Count II allegation\u2014that defendants retaliated against him for disclosing to the Council what reasonable people might regard as the not-so-seriously-erroneous (alleged) reason for his termination\u2014fails to state a viable DC-WPA claim. For that reason, we affirm the dismissal of Count II.\nB. The Defamation Claim\nAs recounted above, Williams alleged in his complaint that \u201c[o]n information and belief, a senior official of the District of Columbia government who was displeased with Plaintiffs allegations of unlawful, retaliatory termination and his testimony to the Council Committee, initiated publication of the false rumor\u201d that Williams \u201cwas terminated for \u2018embezzlement[.]\u2019\u201d He further alleged that \u201c[i]ndi-viduals who are present and former employees of DPR and/or are active in youth sports activities\u201d had called him \u201cto tell him that the (false) rumor accusing him of embezzlement is \u2018out there\u2019 in the community.\u201d The trial court dismissed this defamation claim because it determined that Williams \u201cfail[ed] to identify who allegedly made the statement, when it allegedly was made and to whom it allegedly was made.\u201d We review this ruling de novo. Wallace v. Skadden, Arps, Slate, Meagher & Flom, 715 A.2d 873, 877 (D.C.1998).\n\u201cIn the District of Columbia, \u2018a statement is defamatory if it tends to injure [the] plaintiff in his trade, profession or community standing, or lower him in the estimation of the community.\u2019 \u201d Guilford Transp. Indus., Inc. v. Wilner, 760 A.2d 580, 594 (D.C.2000) (quoting Howard University v. Best, 484 A.2d 958, 989 (D.C.1984)). In order to state a claim for defamation, a plaintiff must show \u201c(1) that the defendant made a false and defamatory statement concerning the plaintiff; (2) that the defendant published the statement without privilege to a third party; (3) that the defendant\u2019s fault in publishing the statement amounted to at least negligence; and (4) either that the statement was actionable as a matter of law irrespective of special harm or that its publication caused the plaintiff special harm.\u201d Beeton v. District of Columbia, 779 A.2d 918, 923 (D.C.2001) (internal quotation marks and citations omitted). Our focus in determining whether a complaint for defamation was properly dismissed is \u201cwhether the factual allegations ... are sufficient to permit [ap-pellees] to form responsive pleadings\u201d to appellant\u2019s claim of defamation. Solers, Inc. v. Doe, 977 A.2d 941, 948 (D.C.2009) (noting that we do not apply a heightened pleading standard to defamation claims) (quoting Oparaugo v. Watts, 884 A.2d 63, 77 (D.C.2005)).\nBoth Williams and appellees rely on Crowley v. North Am. Telecomm. Ass\u2019n, 691 A.2d 1169 (D.C.1997), to bolster their arguments with regard to the defamation claim. Plaintiff Crowley was terminated from his job at the North American Telecommunications Association (\u201cNATA\u201d). He alleged in his complaint that on March 1, 1995, Boland, his former supervisor, made defamatory statements about him to Crowley\u2019s former co-workers. Id. at 1171. His complaint set out \u201cthe substance of the alleged defamatory statement\u201d (\u201cthat an empty bullet casing found in the hallway was probably left by Crowley,\u201d id. at 1172), \u201cthe identification by employment of the persons\u201d to whom the statement was made, and the date of the alleged statement. Id. It also identified by name the speaker of the alleged defamatory statement. Id. Given that the complaint contained that identifying information, we concluded that it was sufficient to withstand a motion to dismiss. Id.\nWe are satisfied that Williams\u2019s complaint passed muster under Crowley and should not have been dismissed at the pleading stage. It alleged the substance of the alleged defamatory statement, i.e., that the plaintiff was \u201cterminated for \u2018embezzlement.\u2019\u201d Similar to the complaint in Crowley, it \u201cidentified] by employment\u201d the persons to whom the statement was allegedly made: \u201c[individuals who are present and former employees of DPR and/or are active in youth sports activities.\u201d Although it does not allege a specific date or dates on which defamatory statements were made, it attributes the defamatory statement to a senior District official \u201cwho was displeased with Plaintiffs allegations of unlawful, retaliatory termination and his testimony to the Council Committee\u201d (emphasis added) and thus fixes the date or dates at a time after Williams\u2019s testimony before the Council (\u201con March 25, 2009\u201d) and before April 8, 2009, the date on which Williams filed his complaint. In Oparaugo, we found sufficient a complaint that alleged facts that narrowed the time of publication of a defamatory statement to a 22-month window. 884 A.2d at 77 (observing that \u201cthe time period within which [the defamatory statement] was published is apparent, i.e., between the date of [appellee\u2019s] letter (April 4, 1998) and the time that it was first shown to appellant by [a third party] (February 2000)\u201d). Despite the absence of an allegation about a more precise date, we concluded that the plaintiffs allegations were \u201csufficient to permit appellees to re-spond\u00ed.]\u201d Id. at 78. We conclude the same as to Williams\u2019s complaint, which points appellees to a two-week period during which the alleged defamatory explanations for his termination were made.\nFinally, we consider the fact that, unlike the complaint in Crowley, Williams\u2019s complaint did not identify the speaker of the alleged defamatory statement. Crowley, 691 A.2d at 1172. Appellees argue that, in alleging who \u201cinitiated publication of the false rumor that [he] was terminated for \u2018embezzlement,\u2019 \u201d the complaint is insufficiently precise, specifying only a \u201ccategorization[ ] which can include hundreds, if not thousands, of persons,\u201d and requiring appellees \u201cto interview an unreasonably large pool of persons\u201d to answer the complaint. We disagree. Williams alleged that \u201ca senior official of the District of Columbia government who was displeased with [his] allegations of unlawful, retaliatory termination and his testimony to the Council Committee\u201d initiated a false rumor about the reason for his termination. We think the subset of \u201csenior\u201d District officials who would have been \u201cdispleased with [Williams\u2019s particular] allegations ... and ... testimony\u201d is not so large that Williams\u2019s claim should be foreclosed before any discovery has been conducted. What is called for at the motion to dismiss stage is simply \u201c \u2018enough facts to raise a reasonable expectation that discovery will reveal evidence of the necessary element.\u201d Phillips v. County of Allegheny, 515 F.3d 224, 234 (3d Cir.2008) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 556, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)). Williams\u2019s complaint states enough about the individuals (\u201c[individuals who are present and former employees of DPR and/or are active in youth sports activities\u201d) who called him to tell Williams about the rumor of embezzlement to give appellees (and Williams) a sufficient focus with which to begin discovery. Cf. Altschuler v. Univ. of Pennsylvania Law School, 1997 WL 129394, at *10, 1997 U.S. Dist. LEXIS 3248, at *26 (S.D.N.Y. Mar. 20, 1997) (concluding that complaint that attributed alleged defamatory statements to \u201ca professor or administrator at the University of Pennsylvania law school who was talking about plaintiff to a member of [a law firm\u2019s] hiring committee,\u201d was \u201cnot so vague or conclusory as to require dismissal\u201d). Accordingly, we reverse the dismissal of Williams\u2019s defamation claim and remand for further proceedings.\nC. The Intentional Infliction of Emotional Distress Claim\nThe final count of Williams\u2019s complaint was that he \u201csuffered severe emotional distress\u201d as a result of appellees\u2019 \u201cextreme and outrageous\u201d conduct that \u201cabruptly terminat[ed]\u201d his \u201csuccessful career.\u201d The trial court dismissed this claim on the ground that the conduct complained of did not rise to the necessary level of outrageous conduct.\nIn order to establish a prima facie case of intentional infliction of emotional distress, a plaintiff must show \u201c(1) extreme and outrageous conduct on the part of the defendants, which (2) intentionally or recklessly (3) causes the plaintiff severe emotional distress.\u201d Futrell v. Department of Labor Fed. Credit Union, 816 A.2d 793, 808 (D.C.2003). To survive a motion to dismiss his intentional infliction of emotional distress claim, Williams needed to allege in his complaint conduct that was \u201cso outrageous in character, and so extreme in degree, as to go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community.\u201d Bernstein v. Fernandez, 649 A.2d 1064, 1075 (D.C.1991).\n\u201cWe have been exacting as to the proof required to sustain such claims in an employment context,\u201d Futrell, 816 A.2d at 808, because \u201cgenerally, employer-employee conflicts do not rise to the level of outrageous conduct.\u201d Duncan v. Children\u2019s Nat\u2019l Med. Ctr., 702 A.2d 207, 211 (D.C.1997). For example, in Crowley, discussed supra, plaintiff Crowley alleged that his supervisor terminated him and then defamed him, causing him to suffer intentionally inflicted emotional distress. Id. at 1171. We affirmed the dismissal of his intentional infliction of emotional distress claim, stating that \u201c[s]uch circumstances are not the type for which liability may be imposed for this particular tort.\u201d Crowley, 691 A.2d at 1171. Williams\u2019s intentional infliction of emotional distress claim can fare no better. Therefore, we uphold the trial court\u2019s dismissal of the claim.\nFor the foregoing reasons, we affirm the trial court\u2019s ruling dismissing Williams\u2019s DC-WPA and intentional infliction of emotional distress claims, but reverse as to the dismissal of his defamation claim and remand for further proceedings consistent with this opinion.\nSo ordered.\n. This court has recognized that the federal whistleblower statute, and its accompanying federal case law, are instructive in interpreting the DC-WPA. Wilburn, 957 A.2d at 925.\n. Cf. Horton v. Department of the Navy, 66 F.3d 279, 282 (Fed.Cir.1995) (noting that the puipose of the Whistleblower Protection Act is to encourage disclosure of wrongdoing, such as by \"disclosure to the press\u201d).\n. D.C. Council, District of Columbia Whistle-blower Protection Act of 1998, Committee on Government Operations, Report on Bill 12-191, at 3 (April 28, 1998).\n. Willis v. Department of Agric., 141 F.3d 1139, 1143 (Fed.Cir.1998).\n. In December 2009, the Council passed the Whistleblower Protection Amendment Act of 2009, D.C. Law 12-160, in which it amended the DC-WPA definition of \"protected disclosure\u201d so that the term explicitly includes \"any disclosure of information, not specifically prohibited by statute, without restriction to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee\u2019s duties, ...\u201d 57 D.C.Reg. 896 (2010); D.C.Code \u00a7 1-615.52(a)(6) (2010) (emphasis added). We agree with appellees that the language we have italicized reflects the Council\u2019s focus on protecting employees or applicants who risk their job security to disclose information that might have already been disclosed by another employee or applicant, not on protecting employees' or applicants\u2019 conveyance of information that is the subject of discussion among, and that has already been the subject of complaints by, concerned members of the general public. Stated differently, retaliation against an employee who relays public complaints about a perceived abuse (and who persists in trying to rectify the situation complained of, even when his superiors say \"stop\u201d) may well merit reproach, but it does not appear to be the particular evil at which the DC-WPA was aimed.\n.Meuwissen, 234 F.3d at 14.\n. We do not reach appellees\u2019 argument that the matter that Williams reported to his supervisor was at most a \"trivial,\u201d \"technical\" violation that was not the type of abuse that reasonable people would agree was sufficiently serious to be the basis of a DC-WPA claim.\n. By contrast, in Watwood v. Credit Bureau, Inc., 68 A.2d 905 (D.C.1949), the plaintiff alleged merely that the defendants had \"furnished certain written reports and information\u201d to an individual \"in which the defendants made false and libelous statements as to the financial situation of the plaintiff, as to her marital status ar.d other libelous information which was untrue and false.\u201d Id. at 905. Because the complaint contained \"neither the [alleged defamatory] language nor its substance,\u201d and contained \"a bare legal conclusion\u201d about \u201clibelous\u201d statements \u201cwith nothing in the complaint to support the conclusion,\u201d it was insufficient to state a claim. Id. at 906.\n.As discussed supra, in the DC-WPA counts of his complaint, Williams alleged that the spreading of false rumors about the reason for his termination constituted a retaliatory, prohibited personnel action. Under the DC-WPA, it is a \"supervisor\u201d who is prohibited from taking such an action. D.C.Code \u00a7 1-615.53. A \u201csupervisor\u201d is \"an employee having authority, in the interest of an agency, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or responsibility to direct them, or to evaluate their performance, or to adjust their grievances, or effectively to recommend such action\u201d or an individual who \"has the authority to effectively recommend or take remedial or corrective action for the [abuse] that an employee may allege or report. ...\u201d D.C.Code \u00a7 1-615.52(a)(8) (quoting D.C.Code \u00a7 l-617.01(d)). Thus, the \"inference[] to be drawn from the complaint,\u201d Chamberlain, 931 A.2d at 1023, is that the person or persons who allegedly spread the false rumor about Williams\u2019s termination were individuals with authority to take a personnel action against Williams or to correct the youth basketball irregularity that he described\u2014i.e., Williams\u2019s former superiors in DPR or their superiors, rather than (the much larger class of) any senior official in the District of Columbia government.\n. Appellees successfully moved to stay discovery pending a ruling on their motion to dismiss.\n. In the meantime, as necessary and appropriate, defendants can answer the defamation allegations by stating that they are \"without knowledge or information sufficient to form a belief as to the truth of [Williams's] averment[s],\u201d a statement that \"has the effect of a denial.\u201d Super. Ct. Civ. R. 8(b).\n. Williams relies on this court\u2019s statement in Best, 484 A.2d at 986, that \u201c[a]ctions which violate public policy may constitute outrageous conduct sufficient to state a cause of action for infliction of emotional distress.\u201d In Best, however, we cited the public policy behind the D.C. Human Rights Act in concluding that allegations of sexual harassment in the workplace stated a claim for intentional infliction of emotional distress. See id. Our conclusion, supra, that Williams's complaint did not state a claim for a violation of the DC-WPA undermines his argument that the conduct he complains of similarly violated public policy. Williams\u2019s claim is more akin to the intentional infliction of emotional distress claim that we dismissed in Kerrigan v. Britches of Georgetowne, Inc., 705 A.2d 624, 628 (D.C.1997), where we held that allegations that an employer manufactured evidence to establish a claim of sexual harassment against an employee, demoted him, and leaked the information to other employees did not \"rise to the level of outrageous conduct\u201d necessary to state a claim for intentional infliction of emotional distress. Id. (quoting Best, 484 A.2d at 986).",
+        "type": "majority",
+        "author": "THOMPSON, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "John M. Clifford, with whom Stephanie J. Bryant, and Billie Pirner Garde, Washington, DC, were on the brief, for appellant.",
+      "Richard S. Love, Senior Assistant Attorney General, with whom Peter J. Nickles, Attorney General for the District of Columbia, and Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for ap-pellees."
+    ],
+    "corrections": "",
+    "head_matter": "Michael WILLIAMS, Appellant, v. DISTRICT OF COLUMBIA, et al., Appellees.\nNo. 09-CV-1192.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 14, 2010.\nDecided Dec. 9, 2010.\nJohn M. Clifford, with whom Stephanie J. Bryant, and Billie Pirner Garde, Washington, DC, were on the brief, for appellant.\nRichard S. Love, Senior Assistant Attorney General, with whom Peter J. Nickles, Attorney General for the District of Columbia, and Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for ap-pellees.\nBefore WASHINGTON, Chief Judge, THOMPSON, Associate Judge, and NEBEKER, Senior Judge."
+  },
+  "file_name": "0484-01",
+  "first_page_order": 506,
+  "last_page_order": 516
+}

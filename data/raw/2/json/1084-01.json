@@ -1,0 +1,368 @@
+{
+  "id": 7290320,
+  "name": "WATERSIDE TOWERS RESIDENT ASSOCIATION INC., et al., Appellants, v. TRILON PLAZA COMPANY, et al., Appellees",
+  "name_abbreviation": "Waterside Towers Resident Ass'n v. Trilon Plaza Co.",
+  "decision_date": "2010-08-26",
+  "docket_number": "Nos. 06-CV-903, 08-CV-163",
+  "first_page": "1084",
+  "last_page": "1092",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 1084"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "503 N.Y.S.2d 575",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "pin_cites": [
+        {
+          "page": "576-77"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 A.D.2d 885",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3483993
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/121/0885-01"
+      ]
+    },
+    {
+      "cite": "383 N.Y.S.2d 935",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 A.D.2d 714",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5447922
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/53/0714-01"
+      ]
+    },
+    {
+      "cite": "950 A.2d 704",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8229808
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/950/0704-01"
+      ]
+    },
+    {
+      "cite": "485 A.2d 199",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7905858
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "205",
+          "parenthetical": "\"The writing must be interpreted as a whole, giving a reasonable, lawful, and effective meaning to all its terms.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/485/0199-01"
+      ]
+    },
+    {
+      "cite": "956 A.2d 684",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8208746
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/0684-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 1202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295331
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "\"This case thus differs in that respect from Gomez, supra, where 'the ... transaction was contemplated by, and carried out in accordance with, the Stock Sale Agreement, which spelled out the obligations of the parties.' \""
+        },
+        {
+          "page": "1206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/981/1202-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 1135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8990439
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/892/1135-01"
+      ]
+    },
+    {
+      "cite": "640 A.2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7865049
+      ],
+      "weight": 5,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "727-28"
+        },
+        {
+          "page": "728"
+        },
+        {
+          "page": "726",
+          "parenthetical": "citations and internal quotation marks omitted"
+        },
+        {
+          "page": "730"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/640/0718-01"
+      ]
+    },
+    {
+      "cite": "672 A.2d 1083",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366375
+      ],
+      "pin_cites": [
+        {
+          "page": "1084"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/672/1083-01"
+      ]
+    },
+    {
+      "cite": "659 A.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868681
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/659/0241-01"
+      ]
+    },
+    {
+      "cite": "682 A.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862706
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "652, 654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/682/0651-01"
+      ]
+    },
+    {
+      "cite": "894 A.2d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8437882,
+        8438013
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1119"
+        },
+        {
+          "page": "1119"
+        },
+        {
+          "page": "1116",
+          "parenthetical": "finding that a 95% transfer of interest was not a \"sale\" even though \"the Owners admitted ... that the 95/5 transaction was crafted to avoid the Sale Act's requirement that the individual tenants of a housing accommodation be given notice and an opportunity to purchase the buildings.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/894/1113-01",
+        "/a2d/894/1113-02"
+      ]
+    },
+    {
+      "cite": "967 A.2d 1276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8166963
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "note 4"
+        },
+        {
+          "page": "1283"
+        },
+        {
+          "page": "1284",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "note 4"
+        },
+        {
+          "page": "1284"
+        },
+        {
+          "page": "note 4"
+        },
+        {
+          "page": "1282",
+          "parenthetical": "\"The two defining characteristics of a sale under subsection (a) are (1) the passing of general and absolute title (2) in exchange for consideration.\""
+        },
+        {
+          "page": "note 4"
+        },
+        {
+          "page": "1282-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/1276-01"
+      ]
+    },
+    {
+      "cite": "965 A.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8163246
+      ],
+      "pin_cites": [
+        {
+          "page": "838"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/965/0832-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1092,
+    "char_count": 28284,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 5.802540171629644e-08,
+      "percentile": 0.3614998403381819
+    },
+    "sha256": "d307b1c94c3ccf1f96f0b6e4ab17939eca31d600eeb832d844457a4ef8c9a4d2",
+    "simhash": "1:a686b5e821a00fc5",
+    "word_count": 4633
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before GLICKMAN and KRAMER, Associate Judges, and BELSON, Senior Judge."
+    ],
+    "parties": [
+      "WATERSIDE TOWERS RESIDENT ASSOCIATION INC., et al., Appellants, v. TRILON PLAZA COMPANY, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "KRAMER, Associate Judge:\nThis case requires us to revisit the definition of a \u201csale\u201d under the D.C. Rental Housing Conversion and Sale Act, D.C.Code \u00a7\u00a7 42-3404.02 et seq. The Sale Act gives \u201ca residential tenant whose landlord proposes to sell the property or discontinue its use as rental housing\u201d two rights that are relevant here: (1) the right to receive a bona fide offer of sale from the owner when the owner decides to put the property up for sale, and (2) a right of first refusal when the owner has received an acceptable purchase offer from a third party. At the time these suits were brought, the Sale Act did not explicitly define \u201csale.\u201d Rather, it left the meaning of the term to the courts to determine, except that it specifically \u201cincluded\u201d some transactions within the scope of the t\u00e9rm. As a result, the topic has been the subject of extensive litigation, and the Council of the District of Columbia has enacted several amendments aimed at addressing the problem. Notably, the Council amended the Act in 2005 to clarify that transactions of the sort at issue here do constitute a sale.\nThe issue, then, is whether the trial court erred when it held, as a matter of law, that a series of transactions between TPC and UDRT did not constitute a \u201csale\u201d under the applicable version of the Sale Act even though the transactions ultimately resulted in a complete transfer of ownership of the Waterside Complex from TPC to UDRT.\nI. Factual Background\nBecause the case is before us after the trial court granted summary judgment, we must summarize the relevant facts in the light most favorable to appellants, after drawing all justifiable inferences in their favor.\nA. Initial restructuring of TPC\u2019s ownership of the Waterside Complex\nThe Waterside Complex is a collection of apartment buildings located at 901-947 6th Street, Southwest. It consists of the Townhouses and the Towers, which sit on separately-deeded parcels of real estate. TPC owned both properties in fee simple from 1992 until 1998. On March 11, 1998, TPC restructured its ownership of the Towers. It created the Towers Trust and deeded the Towers to it. TPC then created the Towers Holding Company, wholly owned by TPC, and assigned all of its beneficial interest in the Towers Trust to that company to hold the Towers in trust for its benefit. In the end, the Towers Trust held absolute title to the Towers; the Towers Holding Company held the sole beneficial interest of the Towers Trust and therefore' of the Towers themselves, and TPC wholly owned the Towers Holding Company. Thus, though it was \u201crestructured,\u201d the Towers\u2019 ownership changed in form but not in substance since TPC ultimately retained ownership and control of the property. At the same time, TPC retained title to the Townhouses in fee simple.\nB. The transaction between TPC and UDRT\nApproximately four-and-a-half years later, on October 24, 2003, TPC entered into a contract with UDRT designed to transfer ownership of the Waterside Complex to UDRT while avoiding the Sale Act\u2019s requirement to offer a right of first refusal to its tenants. To that end, the parties\u2019 \u201cContribution Agreement\u201d provided that TPC would create the Townhouses Trust, modeled on the Towers Trust, and convey the title to the Townhouses to the Townhouses Trust. The sole beneficiary of the Townhouses Trust would be the Townhouses Holding Company, which would be modeled on the Towers Holding Company and be wholly owned by TPC. To finalize the transfer, the \u201cContribution Agreement\u201d provided that TPC would sell 95% of its interest in both the Townhouses and Towers Holding Companies to UDRT in return for approximately $50 million at closing.\nAt the same time, TPC and UDRT executed an \u201cAmended and Restated Limited Liability Company Agreement\u201d that included \u201cput and call\u201d provisions allowing either party to force the sale of the remaining 5% ownership interest in the holding companies to UDRT 866 days after closing. All of these transaction documents were executed contemporaneously in December 2008. The final settlement between TPC and UDRT computed a brokerage commission based on 100% of the purchase price, even though TPC ostensibly sold only 95% of its interest in the Towers and Townhouses Holding Companies to UDRT.\nOn December 3, 2004, exactly 366 days after signing, TPC sent notice that it would exercise the \u201cput\u201d for the remaining TPC interest in the holding companies. The transfer did not take place, however, because WTRA commenced this action on December 2, 2004.\nC. Trial court proceedings\nWTRA alleged that the transactions between TPC and UDRT violated the Sale Act because they constituted a sale and the Waterside Complex tenants received no notice or offer of sale from TPC. WTRA also alleged violations of the D.C. Consumer Protection Procedures Act and various common law torts.\nFollowing discovery, on December 5, 2005, appellees moved to dismiss on the ground that WTRA lacked standing to challenge the transaction and, in the alternative, moved for summary judgment on the ground that the transaction was not a \u201csale\u201d within the meaning of the Sale Act.\n1. Townhouses\nJudge Patricia A. Broderick denied the Townhouses defendants\u2019 motion to dismiss for lack of standing, but granted summary judgment in their favor, concluding that, as a matter of law, the transactions regarding the Townhouses were not a \u201csale.\u201d WTRA filed a timely notice of appeal.\n2. Towers\nOn March 14, 2006, the trial court granted the Towers defendants\u2019 motion to dismiss for lack of standing because it concluded that WTRA did not represent a majority of the heads of household that had resided in the housing accommodation for at least ninety days prior to the date of the challenged transaction, as required by the Sale Act. The court dismissed all claims related to the Towers without prejudice.\nWTRA responded by recruiting additional members to cure the standing problem and filing a second complaint on November 30, 2006, alleging essentially the same claims as in the original complaint. The trial court initially stayed this action, pending resolution of the appeal regarding the Townhouses. But the Towers defendants moved to lift the stay in order to file a summary judgment motion on the grounds that the transactions regarding the Towers were not a \u201csale\u201d as defined by the Sale Act. The Towers defendants also filed a separate motion for summary judgment, arguing that WTRA\u2019s claims were res judicata given the trial court\u2019s earlier summary judgment ruling regarding the Townhouses.\nOn January 30, 2008, Judge Robert E. Morin granted both motions on two grounds: (1) res judicata, and (2) because the Towers transactions did not constitute a \u201csale\u201d under the Sale Act. WTRA filed a timely notice of appeal, and we consolidated the two appeals.\nII. Legal Discussion\nWe review grants of summary judgment de novo and apply the same standards as the trial court. The facts are largely undisputed. Thus, the only issue before us involves a question of law: Did the set of transactions between TPC and UDRT constitute a \u201csale\u201d under either relevant subsection of the Sale Act, i.e., \u00a7 42-3404.02(a) or (c>?\nA. D.C.Code \u00a7 42-3404.02(a)\nSubsection (a) provides that \u201c[bjefore an owner of a housing accommodation may sell the accommodation, ... the owner shall give the tenant an opportunity to purchase the accommodation at a price and terms which represent a bona fide offer of sale.\u201d We have held that a property transaction must involve \u201can \u2018absolute transfer\u2019 or amount to the passing of \u2018general and absolute title,\u2019 \u201d in order to qualify as a sale under subsection (a). We have established that the transfer of \u201ca special interest falling short of complete ownership\u201d does not qualify as a \u201csale.\u201d Accordingly, in West End we held that a long-term lease with an option to buy was not a sale. And in Twin Towers, we concluded that a transfer of 95% interest in conjunction with a tenancy in common agreement was not a sale because it did not effect an \u201cabsolute transfer.\u201d\nImportantly, in Wallasey we also held that a single-party conveyance to a limited liability company wholly-owned by the grantor for \u201cno purpose other than to legitimately limit [the owner\u2019s] liability\u201d was not a sale. Thus, Wallasey stands for the proposition that, even when a conveyance takes \u201cthe appearance of a sale,\u201d this court will not find a \u201csale\u201d to have occurred if the transaction (1) does not involve arms-length bargaining with a third-party, and (2) changes only the form and not the substance of the ownership.\nSubsequently, in Gomez, we held that a transfer of absolute title from one wholly-owned company to a wholly-owned subsidiary could be a \u201csale\u201d where the transaction also involved arms-length bargaining resulting in an agreement to sell 99% of the stock of the subsidiary company to a third party \u201cin return for consideration of value.\u201d In doing so, we distinguished Wallasey because \u201cthe entire transaction [meaning the transfer of absolute title from one subsidiary to another, followed by the sale of the transferee\u2019s stock] was contemplated by, and carried out in accordance with, the Stock Sale Agreement.\u201d But, in Alcazar, a case with similar facts, we came to the opposite conclusion because we found dispositive the lack of an overarching agreement pursuant to which the parties undertook to complete the complex transactions that resulted in the transfer of ownership.\nGuided by these principles, we turn to the transactions at hand. Appel-lees assert that, even if we decide that appellants have not waived subsection (a), Twin Towers controls the outcome. Although the transactions at issue are similar to those in Wallasey and Twin Towers, there are significant differences that distinguish both cases. Here, a contract specifically provided for the transfer of 100% of TPC\u2019s interest in the Townhouses to the Townhouses Trust. It follows that TPC\u2019s right to receive the proceeds of the sale of the Townhouses Holding Company was contingent on the initial transfer of fee simple title in the Townhouses from TPC to the Townhouses Trust. Therefore, neither Twin Towers nor Wallasey are dis-positive. We have to determine whether, when we view the entire transaction as a whole, the conveyances in this multi-step property deal triggered the strictures of the Sale Act.\nWe conclude that the conveyance of the Townhouses resulted in a \u201csale\u201d under subsection (a). The \u201cContribution Agreement\u201d compelled the transfer of TPC\u2019s entire interest in the Townhouses to the Townhouses Trust. TPC\u2019s promise to transfer absolute title was in exchange for valuable consideration flowing from UDRT to TPC. These facts lead to the conclusion that this conveyance was not a mere \u201crestructuring\u201d as in Wallasey. Rather, viewing the entire transaction as a whole like we did in Gomez, the transfer constituted a \u201csale\u201d because TPC transferred absolute title in Townhouses to the Townhouses Trust as part of an agreement in which a third party, UDRT, would thereby gain an interest in the property. Because none of the facts upon which we base this conclusion are in dispute, we hold that, as a matter of law, TPC indeed \u201csold\u201d the Townhouses under subsection (a).\nThe same reasoning does not help us resolve the Towers transactions, however, because TPC restructured its ownership of the Towers around the Towers Trust and the Towers Holding Company well before it entered into the UDRT contract. Because the transfer of absolute title from TPC to the Towers Trust was not connected to the sale of the property to UDRT, we must conclude that the initial restructuring could not be a \u201csale\u201d under subsection (a). Indeed, in Alcazar, we held that where \u201cabsolute title passed ... to a new entity wholly owned by the grant- or,\u201d the conveyance was \u201ca change in the form of ownership, not a sale under [subsection (a) ]\u201d in the absence of an agreement with a third party that required the conveyance as part of a larger transaction. WTRA cannot prove that TPC conveyed absolute title to the Towers pursuant to an agreement with a third party because the conveyance took place years before TPC entered into a contract with UDRT. Therefore, we affirm the grant of summary judgment with respect to the Towers transactions under subsection (a). The only remaining question is whether the Towers transactions can qualify as a \u201csale\u201d under \u00a7 42-3404.02(c).\nB. D.C.Code \u00a7 42-3404.02(c)\nSubsection (c) provides that:\nFor the purposes of this subchapter, the term \u201csell\u201d or \u201csale\u201d includes the transfer of 100% of all partnership interests in a partnership which owns the accommodation as its sole asset to 1 transferee\n... in 1 or more transactions occurring during a period of 1 year from the date of the first such transfer....\nGiven that the Towers transactions did not result in the transfer of a 100% interest in the Towers within one year, the plain language of the statute suggests that this was not a \u201csale\u201d under subsection (c). Appellants argue, however, that the Towers transactions nevertheless qualify as a \u201csale\u201d because subsection (c) is broader than it appears on its face.\n\u201c[T]he starting point for interpreting a statute is the language of the statute itself, and that, absent a clearly expressed legislative intention to the contrary, that language must ordinarily be regarded as conclusive .... [I]f the words are clear and unambiguous, we must give effect to [the statute\u2019s] plain meaning....\u201d Under this general rule of statutory interpretation, we cannot find that the Towers transactions amounted to a \u201csale\u201d under subsection (c). Subsection (c) describes only certain transactions that constitute a \u201csale.\u201d The Towers transactions do not fit within any of these descriptions because they were designed not to be concluded within one year. The words of the statute are clear and unambiguous. Accordingly, there is no reason to look beyond its plain meaning.\nAppellants also urge us to adopt a \u201csham transaction doctrine,\u201d by which these transactions would still be considered \u201csales\u201d under subsection (c) because they were designed to evade the plain language of the statute and because their purpose was to effectuate a 100% transfer of the Townhouses and the Towers. Appellants are correct in noting that the transactions involving the Holding Companies appear to be designed specifically to avoid subsection (c). This does not mean, however, that we accept their contention that these transactions were a sham. The fatal flaw in appellants\u2019 argument is their failure to realize that the Sale Act was written to encompass only certain transactions as \u201csales.\u201d We have held that a transaction that specifically skirts subsection (c) is not necessarily a sham. Thus, the Towers transactions do not qualify as a \u201csale\u201d under subsection (c).\nIII. Conclusion\nA transaction that transfers a 100% interest in a property from one party to a wholly-owned subsidiary is a sale under D.C.Code \u00a7 42-3404.02(a) if the transfer is required by a contract with a third-party following arms-length bargaining, as a result of which the third party acquires an ownership interest in the property. Accordingly, the trial court erred by granting summary judgment for appellees with respect to the Townhouses. Since the trial court dismissed appellants\u2019 other claims because they stemmed from the underlying transfer of the properties in violation of the Sale Act, those claims should be reinstated as well.\nAt the same time, the trial court was correct in concluding that the Towers transactions were not a sale under either \u00a7 42-3404.02(a) or (c) because the Trust/Holding Company restructuring with regard to the Towers was not required by the appellees\u2019 contract, nor was the subsequent transfer of TPC\u2019s interest in violation of the plain requirements of \u00a7 42-3404.02 as we have construed them so far. We thus affirm with respect to the Towers transactions, noting only that the Townhouses decision could not have constituted res judicata for the Towers matter, because the Townhouses issue should have been resolved on different legal grounds.\nReversed in part and affirmed in part.\n.For ease of reference, we list here all the terms that we have abbreviated in the order that they appear in the opinion:\nSale Act: D.C. Rental Housing Conversion and Sale Act\nTPC: Trilon Plaza Company, L.P.\nUDRT: United Dominion Realty Trust\nTownhouses: Twenty low-rise townhouses, a component of the Waterside Complex\nTowers: Three high-rise buildings, another component of the Waterside Complex\nTowers Trust: Waterside Trust, to which TPC deeded the Towers in 1998.\nTowers Holding Company: Waterside Towers, LLC, assignee of TPC's beneficial interest in the Towers Trust, to hold the Towers in trust for TPC's benefit. Wholly owned by TPC.\nTownhouses Trust: Trilon Townhouses Trust, modeled on the Towers Trust, and to which TPC deeded the Townhouses in 2003, pursuant to a contract with UDRT.\nTownhouses Holding Company: Trilon Townhouses, LLC, modeled on the Towers Holding Company.\nWTRA: Waterside Residents Association, Inc.\n. 1836 S St. Tenants Ass\u2019n, Inc. v. Estate of Battle, 965 A.2d 832, 838 (D.C.2009).\n. See D.C.Code \u00a7 42-3404.02(c) (2001).\n.See Rental Housing Conversion and Sale Amendment Act, 2005 D.C. Sess. Law Serv. 16-15 (West) (amending D.C.Code \u00a7 42-3404.02 to clarify that \"the terms \u2018sell\u2019 or \u2018sale\u2019 include, but are not limited to, the execution of any agreement pursuant to which the owner of the housing accommodation agrees to ... [t]he transfer of an ownership interest in a corporation, partnership, limited liability company, association, trust, or other entity which owns an accommodation as its sole or principal asset, which, in effect, results in the transfer of the accommodation....\u201d). Appellants have stipulated that the amendment is inapplicable since it was enacted after the transactions at bar took place. See Gomez v. Independence Mgmt. of Delaware, Inc., 967 A.2d 1276, 1281 n. 3 (D.C.2009); Twin Towers Plaza Tenants Ass'n v. Capitol Park Assocs., L.P., 894 A.2d 1113, 1115 n. 1 (D.C.2006).\n. Anderson v. Ford Motor Co., 682 A.2d 651, 652, 654 (D.C. 1996).\n. Fry v. Diamond Const., Inc., 659 A.2d 241, 245 (D.C. 1995).\n. Appellees conceded that this was their intent. An internal UDRT memorandum stated that \"[W]e have been advised [by counsel] ... in order to maximize our protection from claims of tenants' rights, this deal needs to be based on [the set of transactions discussed here].... The entity ownership aspect, rather than an asset ownership, was selected because these types of deals are not being successfully challenged by [tenants].\u201d\n. Our well-established summary judgment standard calls for affirmance where\n[T]he pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. This court conducts an independent review of the record, in the light most favorable to the non-moving party.... Once a moving party makes an initial showing that the record presents no genuine issue of material fact, the burden shifts to the opposing party to set forth specific facts showing that there is a genuine issue for trial.\nMagwood v. Giddings, 672 A.2d 1083, 1084 (D.C.1996).\n. Twin Towers Plaza Tenants Ass'n, supra note 4, 894 A.2d at 1119 (quoting West End Tenants Ass\u2019n v. George Washington Univ., 640 A.2d 718, 727-28 (D.C. 1994)).\n. Id.\n. West End Tenants Ass\u2019n, supra note 9, 640 A.2d at 728.\n. Twin Towers Plaza Tenants Ass\u2019n, supra note 4, 894 A.2d at 1119.\n. Wallasey Tenants Ass\u2019n v. Varner, 892 A.2d 1135, 1141 (D.C.2006).\n. See id. C'[M]ost significantly, [the landlord] remained in ultimate control of the Wal-lasey at all times.\u201d).\n. Gomez, supra note 4, 967 A.2d at 1283.\n. Id. at 1284 (emphasis added).\n. Alcazar Tenants\u2019 Ass\u2019n v. Smith Prop. Holdings, L.P., 981 A.2d 1202, 1207 n. 3 (D.C. 2009) (\"This case thus differs in that respect from Gomez, supra, where \u2018the ... transaction was contemplated by, and carried out in accordance with, the Stock Sale Agreement, which spelled out the obligations of the parties.' \") (citing Gomez, supra note 4, 967 A.2d at 1284) (emphasis in original).\n. As a threshold matter, appellees contend that there could be no \"sale\u201d under subsection (a) because legal title did not change hands when TPC deeded the properties to the Trusts. The appellees rely on the fact that title to the properties never actually vested in the Trustee and instead vested in the beneficiaries of the Trusts, the Holding Companies (which were wholly owned by TPC). See D.C.Code \u00a7 42-1501 (\"Where lands ... are conveyed or devised to one person, ... to the use of or in trust for another, no estate or interest, legal or equitable, shall vest in the trustee....\"). We reject this argument. We have never focused solely on the passing of legal title in determining the meaning of the term \"sale.\u201d A transaction may constitute a transfer of \"general and absolute title\u201d even when the legal title does not change hands.\n. At trial, appellants argued that the Towers transactions constituted a \"sale\u201d under subsection (c). Appellees contend that they therefore waived the argument that the Towers transactions could be a sale under subsection (a). See Tucci v. District of Columbia, 956 A.2d 684, 697 n. 12 (D.C.2008) (\"[T]he well-established rule that a party who fails to raise an issue at trial generally waives the right to raise that issue on appeal ... applies specifically in a case of summary judgment.\u201d (citation and internal quotation marks omitted)). Subsection (a), however, is the general provision that prohibits the owner of a housing accommodation from selling the property without offering the tenants an opportunity to purchase it. While subsection (c) describes some transactions that are \"sales,\u201d we cannot say that appellants waived an argument that the Towers transactions were a \"sale\u201d under subsection (a)\u2019s general provision by focusing on the more specific descriptions in subsection (c).\n. We consider contracts in their entirety. 1010 Potomac Assocs. v. Grocery Mfrs. of America, Inc., 485 A.2d 199, 205 (D.C. 1984) (\"The writing must be interpreted as a whole, giving a reasonable, lawful, and effective meaning to all its terms.\u201d) (citation omitted).\n. See Gomez, supra note 4, 967 A.2d at 1282 (\"The two defining characteristics of a sale under subsection (a) are (1) the passing of general and absolute title (2) in exchange for consideration.\u201d).\n. See supra note 16 and associated text.\n. It is true that the \"Contribution Agreement\u201d required TPC to sell a 95% interest in the Towers Holding Company to UDRT combined with an explicit requirement that TPC eventually transfer its remaining 5% interest when the put or call provisions were exercised. Appellants assert that this type of transaction could be a \"sale\u201d under our recent decision in CB Richard Ellis Real Estate Services, Inc. v. Spitz, 950 A.2d 704 (D.C.2008). We disagree. The property at issue in CB Richard Ellis was transferred from one limited liability company to a partnership in which the \"selling\u201d LLC received a 5% interest. Thus, we held that a \"sale\u201d occurred because the transfer was from one entity to another entity not wholly owned or controlled by the same party. In other words, the transfer of absolute tide, \"unlike the transaction in Wal-lasey, ... effected a complete change in ownership and control.\u201d Id. at 713 n. 19. Here, the transfer of absolute title from TPC to the Towers Trust did not change the substance of the Towers' ownership. Nor is there any evidence that the transfer was part of an agreement with a third party.\n.Alcazar Tenants Ass\u2019n, supra note 17, 981 A.2d at 1206.\n. D.C.Code \u00a7 42-3404.02(c) was also amended in 2005. See Rental Housing Conversion and Sale Amendment Act, 2005 D.C. Sess. Law Serv. 16-15 (West). The parties agree that the amendment does not apply retroactively and that the applicable law is the Sale Act as it existed prior to the amendment. See supra note 4.\n. Appellants suggest that the statute is \"ambiguous,\u201d a conclusion allegedly recognized by UDRT\u2019s own counsel before the closing. They also cite a Superior Court opinion where Judge Morin wrote that the \"assertion that only a 100% transfer of partnership or corporate interest invokes the operation of [subsection (c) ] is questionable in light of the language of the statute that such a transaction is \u2018included\u2019 in the definition, which suggests that other examples may also constitute a sale within the statutory definition.\u201d Newton Street Tenants Ass\u2019n v. Newton Partners, LLC, No. 05-4444, at 11 (D.C.Super.Ct. May 18, 2006). We have never held that to be the case, however. As we explain below, we find no ambiguity in subsection (c). Finally, appellants point to the Council\u2019s amendment of the Sale Act to \"clarify\u201d that a 100% transfer of interest in an entity that owns an accommodation as its sole asset is not the exclusive example of a sale. On that issue, see note 25, supra, and note 28, infra.\n. West End Tenants Ass\u2019n, supra note 9, 640 A.2d at 726 (citations and internal quotation marks omitted).\n. In the legislative history for the 2005 amendment to the Sale Act, the Council stated that subsection (c) has been interpreted too narrowly. See D.C. Law 16-15, \u201cRental Housing Conversion and Sale Amendment Act of 2005,\u201d Mar. 11, 2005 at 3. (\"The legal definition of sale has been misinterpreted to mean exclusively that a sale can only take place when 100% interest is transferred in a real estate transaction within one year. However, the law was never meant to treat the definition of sale in such a narrow fashion.\u201d). This legislative history does not control the interpretation of statutory language passed years earlier because \"the views of a subsequent [legislature] form a hazardous basis for inferring the intent of an earlier one.\u201d Twin Towers Plaza Tenants Ass\u2019n, supra note 4, 894 A.2d at 1120 n. 14. See Gomez, supra note 4, 967 A.2d at 1282-83.\n. Appellants argue that this court already adopted the \"sham transaction doctrine\u201d in West End Tenants Ass\u2019n, but they merely refer to a citation in which this court quotes a New York decision. West End Tenants Ass\u2019n, supra note 9, 640 A.2d at 730 (\"Ten years after Quigley [v. Capolongo, 53 A.D.2d 714, 383 N.Y.S.2d 935 (1976)], the Supreme Court of New York, Appellate Division, held that where the language of the first refusal agreement stated that '[l]and!ord agrees to give \"first refusal\u201d on sale,' a net lease with an option to purchase was \u2018not a conveyance amounting to a \"sale\u201d of property so as to activate plaintiff\u2019s right of first refusal, absent a showing that the net lease was a \"sham\u201d or otherwise entered into in bad faith for the purpose of defeating plaintiffs [sic] rights.\u201d (quoting Kings Antiques Corp. v. Varsity Properties, Inc., 121 A.D.2d 885, 503 N.Y.S.2d 575, 576-77 (N.Y.App.Div.1986))). We have not previously recognized any \"sham transaction doctrine\u201d and it does not appear that we did do so in West End Tenants Ass n, which in any event construed subsection (a) and not (c).\n. See Twin Towers Plaza Tenants Ass'n, supra note 4, 894 A.2d at 1116 (finding that a 95% transfer of interest was not a \"sale\u201d even though \"the Owners admitted ... that the 95/5 transaction was crafted to avoid the Sale Act\u2019s requirement that the individual tenants of a housing accommodation be given notice and an opportunity to purchase the buildings.\")",
+        "type": "majority",
+        "author": "KRAMER, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Jonathan K. Tycko, with whom Hassan A. Zavareei and Steven A. Skalet, Washington, DC, were on the brief, for appellants.",
+      "Kirk R. Ruthenberg, with whom Erin M. Shoudt, Washington, DC, was on the brief, for Waterside Towers appellees.",
+      "Richard W. Luchs, with whom Gregory T. DuMont, Washington, DC, was on the brief, for Trilon Plaza Company appellees.",
+      "Lisa J. Dessel, Washington, DC, and Rena Schild were on the brief for Trilon Townhouses appellees."
+    ],
+    "corrections": "",
+    "head_matter": "WATERSIDE TOWERS RESIDENT ASSOCIATION INC., et al., Appellants, v. TRILON PLAZA COMPANY, et al., Appellees.\nNos. 06-CV-903, 08-CV-163.\nDistrict of Columbia Court of Appeals.\nArgued Feb. 25, 2009.\nDecided Aug. 26, 2010.\nJonathan K. Tycko, with whom Hassan A. Zavareei and Steven A. Skalet, Washington, DC, were on the brief, for appellants.\nKirk R. Ruthenberg, with whom Erin M. Shoudt, Washington, DC, was on the brief, for Waterside Towers appellees.\nRichard W. Luchs, with whom Gregory T. DuMont, Washington, DC, was on the brief, for Trilon Plaza Company appellees.\nLisa J. Dessel, Washington, DC, and Rena Schild were on the brief for Trilon Townhouses appellees.\nBefore GLICKMAN and KRAMER, Associate Judges, and BELSON, Senior Judge."
+  },
+  "file_name": "1084-01",
+  "first_page_order": 1100,
+  "last_page_order": 1108
+}

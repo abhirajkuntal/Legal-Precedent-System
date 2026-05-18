@@ -1,0 +1,517 @@
+{
+  "id": 7288144,
+  "name": "In re D.L.H., an Incapacitated Person. Appeal of M.I.H. and V.B.H., (Guardians)",
+  "name_abbreviation": "In re D.L.H.",
+  "decision_date": "2010-08-17",
+  "docket_number": "",
+  "first_page": "505",
+  "last_page": "515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "503 Pa. 190",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785955
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "195",
+          "parenthetical": "reflecting the axiom that the holding of an opinion is to be read against the facts that are before the court"
+        },
+        {
+          "page": "128",
+          "parenthetical": "reflecting the axiom that the holding of an opinion is to be read against the facts that are before the court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0190-01"
+      ]
+    },
+    {
+      "cite": "876 A.2d 904",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687721,
+        8968327
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "912"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0149-01",
+        "/a2d/876/0904-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 149",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687721
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0149-01"
+      ]
+    },
+    {
+      "cite": "534 A.2d 452",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1809869,
+        1809922,
+        1809925
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/517/0001-01",
+        "/pa/517/0003-01",
+        "/pa/517/0002-01"
+      ]
+    },
+    {
+      "cite": "517 Pa. 3",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1809922
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/517/0003-01"
+      ]
+    },
+    {
+      "cite": "928 A.2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1017-18"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "593 Pa. 184",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3250122
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0184-01"
+      ]
+    },
+    {
+      "cite": "992 A.2d 75",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3698272,
+        7286771
+      ],
+      "weight": 7,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/605/0484-02",
+        "/a2d/992/0075-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 708",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196926,
+        7292959
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0292-01",
+        "/a2d/983/0708-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 292",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196926
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0292-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 261",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215746
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "282"
+        },
+        {
+          "page": "2853"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0261-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 12101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "794 F.2d 79",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1591252
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/794/0079-01"
+      ]
+    },
+    {
+      "cite": "613 F.Supp. 684",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3776913
+      ],
+      "pin_cites": [
+        {
+          "page": "699"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/613/0684-01"
+      ]
+    },
+    {
+      "cite": "984 A.2d 935",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293511,
+        4197354,
+        4196522,
+        7293486,
+        4196753,
+        7293502
+      ],
+      "weight": 4,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/0935-03",
+        "/pa/603/0431-02",
+        "/pa/603/0431-01",
+        "/a2d/984/0935-01",
+        "/pa/603/0430-01",
+        "/a2d/984/0935-02"
+      ]
+    },
+    {
+      "cite": "603 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196522,
+        4197354
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0431-01",
+        "/pa/603/0431-02"
+      ]
+    },
+    {
+      "cite": "432 N.E.2d 712",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "716"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "385 Mass. 555",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        900790
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/385/0555-01"
+      ]
+    },
+    {
+      "cite": "450 A.2d 1376",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        199310
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1380",
+          "parenthetical": "\"[Pjrior judicial approval is required before a guardian may consent to administering or withholding of proposed extraordinary medical treatment.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/304/0553-01"
+      ]
+    },
+    {
+      "cite": "304 Pa.Super. 558",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "560",
+          "parenthetical": "\"[Pjrior judicial approval is required before a guardian may consent to administering or withholding of proposed extraordinary medical treatment.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "967 A.2d 971",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8162250
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "986-87"
+        },
+        {
+          "page": "982-87"
+        },
+        {
+          "page": "981-82",
+          "parenthetical": "\"Such a statutory construction would lead to an unreasonable outcome in that a guardian, under the guise of claiming the incompetent's best interest, could terminate the life of the incompetent whenever he/she deems fit and without first seeking judicial approval.\""
+        },
+        {
+          "page": "986"
+        },
+        {
+          "page": "983"
+        },
+        {
+          "page": "984-85"
+        },
+        {
+          "page": "981-82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/0971-01"
+      ]
+    },
+    {
+      "cite": "673 A.2d 905",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7865377,
+        461515,
+        461577,
+        7865247
+      ],
+      "weight": 9,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "913",
+          "parenthetical": "\"[W]e stress that the matter sub judice addresses only a very narrow issue.... \""
+        },
+        {
+          "page": "910"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/673/0905-02",
+        "/pa/543/0591-01",
+        "/pa/543/0592-01",
+        "/a2d/673/0905-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461577
+      ],
+      "weight": 4,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "608"
+        },
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1307,
+    "char_count": 32917,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828935586592113
+    },
+    "sha256": "5687f1697ff51295506d4fccfbf7866e403057752462c4fbc1516120e6f590bd",
+    "simhash": "1:86440795961f6b00",
+    "word_count": 5166
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+    ],
+    "parties": [
+      "In re D.L.H., an Incapacitated Person. Appeal of M.I.H. and V.B.H., (Guardians)."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice SAYLOR.\nIn this appeal, we consider whether plenary guardians can refuse life-preserving medical treatment on behalf of a person who lacks \u2014 and has always lacked \u2014 the capacity to make personal healthcare decisions, where the person is neither suffering from an end-stage medical condition nor permanently unconscious.\nD.L.H. (\u201cDavid\u201d), age 53, has suffered from profound mental retardation since birth and has resided at the Ebensburg Center, a Department of Public Welfare (\u201cDPW\u2019) facility, for nearly his entire life. He is an incapacitated person under the guardianship provisions of the Probate, Estates and Fiduciaries Code, 20 Pa.C.S. \u00a7\u00a7 5501-5555. See id. \u00a7 5501 (delineating the meaning of \u201cincapacitated person\u201d). In 2002, Appellants, David\u2019s parents, were duly appointed his plenary guardians under such authority. See id. \u00a7 5512.1(c).\nIn 2007, David became ill with aspiration pneumonia and was transferred from the Ebensburg Center to a local hospital. There, treating physicians determined that his condition required that he be placed on a mechanical ventilator. Appellants attempted to decline that treatment on his behalf, asserting that mechanical ventilation was not in his best interest. See generally id. \u00a7 5521(a) (\u201cIt shall be the duty of the guardian of the person to assert the rights and best interests of the incapacitated person\u201d). The hospital denied that request, however, and David remained on a ventilator for several weeks. Subsequently, his condition improved to the point where he no longer required this treatment.\nIn light of the dispute over David\u2019s medical care, Appellants petitioned the orphans\u2019 court to be appointed his \u201chealth care agents\u201d for purposes of the Health Care Agents and Representatives Act. The Act is part of a larger statutory scheme recognizing a qualified right of individuals to make decisions related to their own health care, see id. \u00a7 5423(c)(1), and establishing a framework for substitute health care decision-making for persons who are \u201cincompetent\u201d to do so. The mechanics include the use of \u201cadvance health care directives,\u201d such as \u201chealth care powers of attorney,\u201d as well the potential involvement of \u201chealth care representatives,\u201d where no previous agency relationship has been established. Id. \u00a7\u00a7 5422, 5456, 5461.\nA \u201chealth care agent,\u201d designated by an advance health care directive, normally has the same authority as a competent principal to make health care decisions concerning the principal\u2019s care with no requirement of court approval. See id. \u00a7 5456(a), 5454(e). Additionally, and of central relevance to the present appeal, Section 5462(c)(1) of the Act imposes an affirmative duty of care on attending physicians and health care providers, as follows:\nHealth care necessary to preserve life shall be provided to an individual who has neither an end-stage medical condition nor is permanently unconscious, except if the individual is competent and objects to such care or a health care agent objects on behalf of the principal if authorized to do so by the health care power of attorney or living will.\n20 Pa.C.S. \u00a7 5462(c)(1).\nIn their petition seeking the status of health care agents, Appellants took the position that the Act \u201cdoes nothing more than codify the Supreme Court\u2019s rule [derived from In re Fiori, 543 Pa. 592, 673 A.2d 905 (1996) ] that parents may exercise exactly the kind of judgment that [Appellants] seek to exercise here.\u201d Petition at 3 \u00b6 14. See generally 20 Pa.C.S. \u00a7 5423(a) (\u201cNothing in this chapter is intended to ... affect or supersede the holdings of In re Fiori [.]\u201d). Furthermore, they relied on their broad powers as plenary guardians for David.\nDPW opposed the petition, and the orphans\u2019 court appointed counsel for David. Despite the technical mootness of the issues raised in Appellants\u2019 petition, the court decided to resolve the matter, evidently reasoning that the case fell within an exception to the mootness doctrine. A hearing was scheduled; however, the facts as related above were agreed, and the parties merely advanced their legal positions.\nAppellants maintained the position that, although David had been incapacitated since birth, he retained the inherent right to make medical decisions under Fiori\u2014 including the right to refuse life-preserving treatment \u2014 and such right extended to them as his plenary guardians. In response, David\u2019s counsel expressed concern that a guardian\u2019s decision-making should be consistent with the medical recommendations where the life of the incapacitated person is at stake.\nDPW offered a more concrete legal position, namely, that Section 5462(c)(1) of the Act requires caregivers to take medical measures necessary to preserve life on behalf of an incompetent person, where such a person does not suffer from an end-stage condition or permanent unconsciousness. According to DPW, Section 5462(c)(1) allows for a single exception, entailing displacement of the caregivers\u2019 obligation to provide treatment by the decision of a health care agent, ie., \u201c[a]n individual designated by a principal in an advance health care directive.\u201d 20 Pa.C.S. \u00a7 5422; see also id. \u00a7 5452 (governing the execution of health care powers of attorney). Since David was never competent to so provide, this procedure was unavailable on the governing terms of the statute. DPW acknowledged that this Court\u2019s Fiori decision, as invoked by Appellants, does in fact vindicate the right of incompetent persons \u2014 in some situations \u2014 to make medical decisions via a surrogate. However, DPW highlighted that the decision was closely and carefully limited by the Court to circumstances in which the incompetent person is in a permanent vegetative state. See Fiori, 543 Pa. at 608, 673 A.2d at 913 (\u201c[W]e stress that the matter sub judice addresses only a very narrow issue.... \u201d).\nUpon its review, the orphans\u2019 court denied Appellants\u2019 petition, essentially adopting DPWs position that In re D.L.H., No. 21-02-293, slip op. at 3, 6 (C.P.Cumberland, Jan. 24, 2008) (per Hon. Edgar B. Bayley) (quoting DPW\u2019s brief) (emphasis in original and footnote omitted). The court also credited DPW\u2019s position that the authority provided a close family member in Fiori is limited to a situation in which the incompetent person is permanently unconscious. See id. at 5.\nFor the medical circumstances present here, the General Assembly adopted, in [the Act], a per se rule, 20 Pa.C.S. \u00a7 5462(c)(1), that simply removes the life or death decision from guardians, relatives, or health care representatives (who are not \u2014 unlike health care agents \u2014 chosen by the principal). According to the General Assembly, in these particular medical circumstances, life is to be chosen over death.\n* * *\nThe relief the guardians specifically seek \u2014 to transform guardianship into health care agen[ey] \u2014 imputes to this Court a power the legislature has withheld from it, i.e., the power to create health care agency (see \u201chealth care agent,\u201d 20 Pa.C.S. \u00a7 5422) when none has previously existed. Under [the Act], guardians can \u201crevoke or amend\u201d an existing health care agency if the principal becomes incompetent, 20 Pa.C.S. \u00a7 5460(a), but they cannot create one where none ever existed, which is the case here.\nAppellants appealed to the Superior Court, which affirmed in a published opinion, albeit on different grounds. See In re D.L.H., 967 A.2d 971 (Pa.Super.2009). Initially, as to the mootness doctrine, the court invoked the great-public-importance and capable-of-repetition-yet-evading-review exceptions. See Fiori, 543 Pa. at 600 n. 4, 673 A.2d at 909 n. 4.\nOn the merits, the intermediate court indicated that the Act was inapplicable to David, since, on account of his lifelong incapacity, he could not comply with its terms for refusing life-preserving treatment or appointing a healthcare agent. See D.L.H., 967 A.2d at 981 n. 4 (quoting 20 Pa.C.S. \u00a7 5423(a) (evincing the legislative intent that \u201c[t]his chapter provides a statutory means for competent adults to control their health care through instructions written in advance or by health care agents or health care representatives and requested orders.\u201d)). Moreover, the court agreed with DPW that Fiori was inapplicable, given that David\u2019s life-threatening medical condition was temporary. See id. at 986-87.\nIn spite of these conclusions, the Superi- or Court did not accept DPW\u2019s core position that the Act\u2019s Section 5462(c)(1) imposes a per se requirement on health care providers to provide treatment in the absence of an end-stage condition, permanent unconsciousness, or a decision by a health care agent relieving providers of their obligation. Rather, the court envisioned a residual power in plenary guardians to su-\npersede that duty, subject to court approval. See id. at 981 n. 4 (explaining that the Act and the authority of a health care agent \u201cinforms our understanding of the extent to which a guardian possesses \u2018plenary\u2019 power.\u201d); see also id. at 982-87. In terms of the role of the orphans\u2019 court, the intermediate appellate court also expressed a concern that abuses could occur on implementation of a more liberal approach to the role of a plenary guardian in the administration of life-preserving care. See id. at 981-82 (\u201cSuch a statutory construction would lead to an unreasonable outcome in that a guardian, under the guise of claiming the incompetent\u2019s best interest, could terminate the life of the incompetent whenever he/she deems fit and without first seeking judicial approval.\u201d). The Superior Court also invoked the concept of parens patriae to justify court involvement and drew support from In re Terwilliger, 304 Pa.Super. 558, 560, 450 A.2d 1376, 1380 (1982) (\u201c[Pjrior judicial approval is required before a guardian may consent to administering or withholding of proposed extraordinary medical treatment.\u201d) (quoting In re Moe, 385 Mass. 555, 432 N.E.2d 712, 716 (1982)). Additionally, the court expressed a concern with protecting the ethical integrity of the medical community. See D.L.H., 967 A.2d at 986.\nThe Superior Court concluded that, before an orphans\u2019 court could empower a guardian to decline life-preserving treatment for an incapacitated person, the guardian would first have to petition the court for the right to do so, and then prove \u2014 by clear and convincing evidence\u2014 that death is in the incompetent\u2019s best interest. See id. at 983. When applying this standard to the present case, the court concluded that the evidence was inadequate to establish, clearly and convincingly, that refusing mechanical ventilation was in David\u2019s best interest, particularly since Appellants offered no medical proof that his aspiration pneumonia was a severe, permanent medical condition. See id. at 984-85.\nWe accepted discretionary review on Appellant\u2019s petition, framing the question presented as follows:\nWhether plenary guardians have the authority to decline potentially life-sustaining treatment for a lifelong incapacitated person who is not suffering from an end-stage medical illness or is in a permanent vegetative state.\nIn re D.L.H., 603 Pa. 431, 984 A.2d 935 (2009) (per curiam). The parties have pointed out that there is some imprecision in this framing of the issue, given that the Act contains a particular definition for \u201clife-sustaining treatment,\u201d centered on end-stage and permanent unconsciousness scenarios. See 20 Pa.C.S. \u00a7 5422. Thus, we take this opportunity to conform the question presented to our statement above (\u201c[W]e consider whether plenary guardians can refuse life-preserving medical treatment on behalf of a person who lacks \u2014 and has always lacked \u2014 the capacity to make personal healthcare decisions, where the person is neither suffering from an end-stage medical condition nor permanently unconscious.\u201d).\nPresently, Appellants open their argument with a strong focus on the guardianship provisions of the Probate, Estates and Fiduciaries Code, emphasizing that they are invested with the duty to assert David\u2019s rights and best interests. See id. \u00a7 5521(a). Further, they observe that the guardianship statute contains a specific list of excluded medical decisions, which does not include mechanical ventilation. In this regard, Appellants refer to certain powers and duties reserved expressly for the orphans\u2019 court, see id. \u00a7 5521(d), and other specific limitations on a guardian\u2019s powers, as follows:\n(f) Powers and duties not granted to guardian. \u2014 The court may not grant to a guardian powers controlled by other statute, including, but not limited to, the power:\n(1) To admit the incapacitated person to an inpatient psychiatric facility or State center for the mentally retarded.\n(2) To consent, on behalf of the incapacitated person, to the relinquishment of the person\u2019s parental rights.\n20 Pa.C.S. \u00a7 5521(f). Thus, Appellants argue that, as David\u2019s plenary guardians, they are the appropriate legal surrogates empowered to vindicate his right to decline medical intervention, even where such treatment would be necessary to preserve David\u2019s life. See Brief for Appellants at 9 (\u201c[A]ll other powers not reserved for the Orphans Court under sections 5521(d) and (f) should be presumed to be granted under section 5521(a).\u201d).\nAppellants further contend that the Superior Court erred in adopting Terwilli-ger\u2019s \u201cextraordinary medical treatment\u201d standard, as it was derived from dicta, and, in any event, was superseded by the noted provisions of the guardianship statute. Appellants apparently maintain that, to the extent that the Terwilliger standard remains extant, this Court should reject it, as it is unworkable.\nAppellants finally maintain that, when reading the guardianship statute in pari materia with the Act, it is apparent that the Legislature intended for the power of a guardian to be superior to that of a health care agent. In this regard, Appellants rely on a provision of the Act providing for the accountability of a health care agent to a guardian, and empowering guardians to amend or revoke the agency. See 20 Pa.C.S. \u00a7 5460(a). Therefore, Appellants assert that Section 5462(c)(1) must be read to mandate \u201clife [preserving] treatments in cases where an appropriate surrogate has not been designated in accordance with the terms of [the Act] or other law,\u201d such as the guardianship statute. Brief for Appellants at 12 (emphasis removed). Appellants argue that a contrary interpretation would thwart that provision\u2019s purpose, which is to permit surrogate decision-making when an individual lacks capacity. According to Appellants,\nBy reading section 5462(c)(1) without considering other provisions of the law, such as sections 5460, 5511 and 5521 of the guardianship statute, DPW successfully urged the Orphans Court to apply section 5462(c)(1) in a way that causes David to forfeit any right to ever control when, where, how and how many times he is forced to submit to a wide range of medical treatments, because of his lifelong lack of capacity. This erroneous construction raises profound questions regarding the right of incapacitated individuals to exercise the same right to decline medical procedures that is enjoyed by other citizens.\nId. at 13 (citing Fiori, 543 Pa. at 601, 673 A.2d at 910).\nDavid and DPW, acting through the Ebensburg Center, (collectively, \u201cAppel-lees\u201d) filed a joint brief relying on DPW\u2019s core position as developed above. They seek affirmance of the Superior Court\u2019s order, but preferably under the protective, per se rule of Section 5462(c)(1) as interpreted in the orphans\u2019 court\u2019s decision. Specifically, Appellees maintain that, where an incompetent person who has no health care agent suffers from a life-threatening but treatable medical condition, life-preserving medical care must be provided. It is Appellees\u2019 position that, under Section 5462(c)(1), no consent from any third party is required, and no objection by a guardian or health care representative can be honored. See, e.g., Brief for Appellees at 10 (\u201cBy identifying only competent patients or health care agents as empowered to object to life-preserving treatment in the specified circumstances, \u00a7 5462(c)(l)\u2019s exclusion of guardians cannot be doubted.\u201d). Appellees also draw support from related provisions of Chapter 54. See, e.g., 20 Pa.C.S. \u00a7 5423(a)(3) (\u201cNothing in this chapter is intended to ... permit any ... omission to end life other than as defined in this chapter.\u201d), (c)(1) (couching the right of individuals to make decisions relating to their own health care as a \u201cqualified\u201d one).\nAppellees challenge Appellants\u2019 contention that the guardianship statute provides authority, in and of itself, for plenary guardians to decline life-preserving treatment on behalf of an incompetent. Appel-lees explain that the powers withheld from a guardian are not limited to those specifically enumerated in Sections 5521(d) and (f), as Appellants assert. Rather, Section 5521(f) expressly provides that \u201c[t]he court may not grant to a guardian powers controlled by other statute, including, but not limited to,\u201d those specifically identified in the statute and portrayed by Appellants as the exclusive restrictions. Id. \u00a7 5521(f) (emphasis added). Appellees also observe that, because the Act was implemented fourteen years after the guardianship statute, the latter obviously could not have accounted for the former. Therefore, Ap-pellees maintain, a court cannot convert a guardian into a health care agent. Moreover, Appellees refute any contention that the Legislature overlooked guardianship interests in drafting Section 5462(c)(1), in view of the Act\u2019s multiple references to guardians and explicit delineation of the relationship between health care agents and guardians, see id. \u00a7 5460(a) (providing for the accountability of a health care agent to a guardian).\nAs concerns the Superior Court\u2019s decision, Appellees specifically take issue with its holding that the Act simply does not apply to persons who have always lacked competence. In this regard, Appellees argue that the Superior Court incorrectly treated a stated purpose of Chapter 54\u2014 to provide a means for competent adults to control their health care through advance health care directives or health care representatives, see id. \u00a7 5423(a) \u2014 as the chapter\u2019s only aim. Appellees explain that the Act also explicitly provides for default surrogates not chosen by the principal, namely, health care representatives, without differentiating between persons who have always lacked competence and those who have lost their previous capacity to make medical decisions. See id. \u00a7 5461; supra note 3. Moreover, Appellees highlight that no explanation has been offered \u201cwhy the General Assembly would value the life of a once-competent person over that of a never-competent person.\u201d Brief for Ap-pellees at 6 n.4.\nAppellees posit that, in light of the plain language of Section 5462(c)(1), it is unnecessary to speculate as to the General Assembly\u2019s underlying intent. Nevertheless, they offer that the Legislature may have been focused on the specific involvement of the principal in creating and shaping the relationship in the agency situation, as contrasted with a guardianship scenario, in which the principal has no such opportunity. Additionally, Appellees believe, as do a number of their amici, that the statute reflects the concern that guardians do not always act in the best interest of incapacitated persons, despite their charge to do so. See, e.g., Clark v. Cohen, 613 F.Supp. 684, 699 (E.D.Pa.1985), aff'd, 794 F.2d 79 (3d Cir.1986). See generally Brief for Appellees at 16 (\u201c[T]he legislature concluded that case-by-case determinations based on \u2018quality of life\u2019 considerations \u2014 whether made by guardians or by courts of common pleas \u2014 would too often be wrongly decided, decided against life.\u201d). According to Appellees, any doubt as to whether a major goal of Section 5462(c)(1) was to protect disabled persons from such discrimination is eliminated by Section 5462(c)(2), which references the Americans with Disabilities Act, 42 U.S.C. \u00a7 12101, et seq. See 20 Pa.C.S. \u00a7 5462(c)(2). Finally, citing Cruzan v. Director, Missouri Department of Health, 497 U.S. 261, 110 S.Ct. 2841, 111 L.Ed.2d 224 (1990), Appellees develop that a state may properly assert an unqualified interest in the preservation of human life to be weighed against the constitutionally protected interests of the individual. See id. at 282, 110 S.Ct. at 2853. Although Appellees highlight that no constitutional issues have been raised here, they believe that aspects of the Cruzan decision are illuminating.\nThe issue before us is one of statutory interpretation; it is therefore a question of law subject to plenary review by this Court to be conducted de novo. As neither party challenges the Superior Court\u2019s determination that the appeal falls within exceptions to the mootness doctrine, we decline to exercise our discretion to review that finding and proceed on that premise. Cf. Rendell v. Pa. State Ethics Comm\u2019n, 603 Pa. 292, 309, 983 A.2d 708, 718 (2009).\nIn statutory interpretation, our task is to discern the intent of the Legislature, and the foremost indication of legislative intent is the plain language of the statute. See 1 Pa.C.S. \u00a7 1921(a) \u2014 (b); see, e.g., In re Erie Golf Course, \u2014 Pa.-, -, 992 A.2d 75, 85 (2010). Here, as Appellees amply develop, and as the orphans\u2019 court determined, Section 5462(c)(1) explicitly limits the category of persons empowered to refuse life-preserving medical treatment on behalf of an incompetent person who is not faced with an end-stage condition or permanent unconsciousness to health care agents. See 20 Pa.C.S. \u00a7 5462(c)(1). Although the Act provides certain powers to guardians and health care representatives, see, e.g., id. \u00a7\u00a7 5460(b), 5461(c), it does not explicitly authorize either surrogate to object to life-preserving care under Section 5462(c)(1) in the noted circumstances. Cf. 1 Pa.C.S. \u00a7 1924 (\u201cExceptions expressed in a statute shall be construed to exclude all others.\u201d).\nChapter 54 reflects a careful legislative effort to balance various rights and interests in the sensitive arena of personal medical care provided to one who is not competent to assert his or her own rights. On the one hand, the statute manifests respect for advance health care directives, as well as the decisions of close relatives and friends, where the incompetent person suffers from an end-stage condition or permanent unconsciousness, and enables health care providers to comply with such decisions. See, e.g., 20 Pa.C.S. \u00a7\u00a7 5423(a)(1), 5423(c)(4), 5426, 5431, 5456, 5462(c). The enactment, on the other hand, more sharply regulates the situation in which the incompetent person suffers from a life-threatening but treatable condition, obviously reflecting the Legislature\u2019s assertion of a policy position of greater state involvement to preserve life in such circumstances. As Appellees develop, Section 5462(c)(1) does allow for life-preserving medical treatment to be refused in such instances, but only by a health care agent (or the principal should he or she regain the capacity to make health care decisions). Moreover, since a health care agent can only be designated by a competent principal, see id. \u00a7 5452(a) (\u201cAn individual of sound mind may make a health care power of attorney ... \u201d), we also agree with Appellees and the orphans\u2019 court that such refusal is unavailable in the case of one who has never been competent to delegate the act of personal medical decision-making in the first instance.\nAlso in line with Appellees\u2019 arguments and the orphans\u2019 court\u2019s decision, and for the reasons they have advanced, we agree that the guardianship statute does not alter this regime. Section 5521(d) and (f) of the Probate, Estates and Fiduciaries Code, by their own terms, do not provide the exclusive list of unauthorized acts for guardians. Rather, the proscription expressly subsumes acts forbidden of guardians under other statutes, such as Section 5462(c)(1). See id. \u00a7 5521(f).\nWe also agree that the Superior Court adopted too limited a perspective concerning the Act\u2019s scope. While the Act clearly reflects the express policy of empowering competent adults to effectuate advance health care directives, the provision for health care representation even in the absence of such directives, see id. \u00a7 5461, clearly conveys that the statute advances other purposes as well. Accordingly, we are unable to disregard the limitations inherent in Section 5462(c)(l)\u2019s clearly-worded exception to the general requirement for treatment for life-threatening but curable medical conditions.\nWith regard to Appellants\u2019 argument that the accountability provision of the Act demonstrates a legislative intent to afford guardians powers at least coextensive with the health care agent, since that section subordinates a health care agent\u2019s decision-making authority to that of a guardian, see id. \u00a7 5460(a), we disagree. Section 5460(a) can readily be construed as providing an additional layer of protection to incompetent persons, as a health care agent may be deprived of the power to make life-ending decisions by a guardian. Moreover, although the statute expressly affords a guardian the ability to \u201crevoke\u201d or \u201camend\u201d the appointment of a health care agent, see id., it does not confer the power to appoint such an agent in the first instance. This dovetails with the plain-meaning interpretation of the overall enactment reflected in Appellees\u2019 arguments and the orphans\u2019 court\u2019s decision \u2014 the Act simply does not allow for the refusal of life-preserving care to one who has never had the ability to appoint a health care agent and does not suffer from an end-stage condition or permanent unconsciousness.\nWe recognize Appellants\u2019 concern with the possibility that David may face additional medical interventions which they may quite reasonably regard as painful and intrusive. Further, we make no policy-oriented criticism of the position Appellants have taken, which we have no doubt reflects deeply held beliefs arising out of their personal experience with David\u2019s profound disability and ongoing medical needs. We find only that the salient policy decision has been made by the Legislature, in Section 5462(c)(1) of the Act, as is its prerogative as the policy-setting branch. See Program Admin. Servs., Inc. v. Dauphin County Gen. Auth., 593 Pa. 184, 192, 928 A.2d 1018, 1017-18 (2007). In the absence of meritorious arguments grounded in the Constitution, the courts are bound to enforce the statutory qualifications on David\u2019s right to control his treatment as exercised by his guardians.\nWe hold that where, as here, life-preserving treatment is at issue for an incompetent person who is not suffering from an end-stage condition or permanent unconsciousness, and that person has no health care agent, the Act mandates that the care must be provided.\nThe order of the Superior Court is affirmed, albeit we have disapproved a portion of its reasoning. Jurisdiction is relinquished.\nChief Justice CASTILLE, Justices EAKIN, BAER, TODD, McCAFFERY and ORIE MELVIN join the opinion.\n. Act of Nov. 29, 2006, P.L. 1484, No. 169 \u00a7 4 (as amended 20 Pa.C.S. \u00a7\u00a7 5451-5471) (\"the Act\"). The Act is reposed in a subchapter of Chapter 54 of the Probate, Estates and Fiduciaries Code, entitled \"Health Care,\u201d and the Chapter 54 definitions, see id. \u00a7 5422, and legislative findings and intent, see id. \u00a7 5423, pertain.\n. The Chapter 54 definition of \"incompetent,\u201d see 20 Pa.C.S. \u00a7 5422, overlaps substantially with the guardianship scheme\u2019s definition of \"incapacitated,\u201d see id. \u00a7 5501. If there is a difference, it is not material to the resolution of this appeal, and it is undisputed that David is both an incompetent and incapacitated person for purposes of the respective enactments.\n. According to an amicus, \"health care representatives,\u201d who may be family members or other individuals who know the incompetent person, see 20 Pa.C.S. \u00a7 5461(d), act as surrogate decision-makers of last resort. In any event, the concept is not directly relevant here, since a \"health care representative,\u201d as understood through the Act, may make a health care decision only where a guardian with the general power to make such decisions has not been appointed. See id. \u00a7 5461(a)(3).\n. The Superior Court also determined that this interpretation was consistent with the common law distinction between an agent and a guardian, and that its conclusion was compelled by practical considerations. See D.L.H., 967 A.2d at 981-82.\n. See Brief for Appellants at 9 (\"[T]he Legislature, in essence, specifically and expressly defined 'extraordinary medical treatments\u2019 in sections 5521(d) and (f). Because the Legislature did not include the discretion to control ... mechanical ventilation in the list of excluded duties of guardians, [Appellants] were within their authority to exercise this control on David's behalf.\u201d).\n. See, e.g., Brief for Appellants at 8 (\"Without a clear definition of [the] phrase [\"extraordinary medical treatment\u201d,] the health care system will establish a \u2018safety zone\u2019 that will contribute to the erosion of the rights of incapacitated persons who will now be forced to submit to a range of procedures that, even arguably, might be \u2018extraordinary.\u2019 \"); id. at 10 (\u201c[T]he Superior Court's parents [sic] patri-ae analysis goes against the modern trend and is a step backward because that procedure precludes the kind of on-the-spot decision making that cases like this call for.\u201d).\n. Appellees also argue that, even assuming the Act is inapplicable to those who have never been competent to make personal medical decisions, the same result is reached under the common law rule. See In re Estate of Dorone, 517 Pa. 3, 9, 534 A.2d 452, 455 (1987).\n. Also aiding our review, amicus briefs have been submitted by: Disability Rights Network of Pennsylvania, the ARC of Pennsylvania, Achieva, Vision for Equality, Liberty Resources, Inc., Pennsylvania Developmental Disabilities Council, and Not Dead Yet; the Pennsylvania Medical Society and the Hospital and Healthsystem Association of Pennsylvania; and Dr. George Isajiw, Dr. John A. Flamini, Dr. John M. Travaline, Dr. Karl Ben-zio, and the Pennsylvania Family Institute.\n. To the extent that Appellants argue that applying Section 5462(c)(1) to a lifelong incompetent implicates that person's common law right to refuse medical care, this Court has held that, \"[w]here the Legislature expressly provides a comprehensive legislative scheme, these provisions supersede the prior common law principles.\u201d Stemlicht v. Stemlicht. 583 Pa. 149, 163. 876 A.2d 904, 912 (2005). Thus, by virtue of that provision, which requires that life-preserving treatment must be provided to an incompetent who is not suffering from end-stage medical condition or permanent unconsciousness and has not appointed a health care agent, the Legislature has supplanted the common law right to refuse medical treatment in these instances.\n. The Pennsylvania Medical Society and the Hospital and Healthcare Association of Pennsylvania, as amici, have submitted a brief centrally focused on their concern that the Superior Court's holding, broadly read, might unduly impinge on statutorily authorized surrogate decision-making in the end-of-life and permanent-unconsciousness scenarios. Nothing in this matter should be so read, as Appellants obviously favor broad decision-making powers on behalf of surrogates; Appellees have consistently expressly distinguished the \"life-sustaining treatment\u201d scenario as being \"radically different\u201d from that involving a life-threatening but curable condition; and thus, a \"life-sustaining treatment\u201d situation has never been before the courts in this case. See generally Commonwealth v. McCann, 503 Pa. 190, 195, 469 A.2d 126, 128 (1983) (reflecting the axiom that the holding of an opinion is to be read against the facts that are before the court).",
+        "type": "majority",
+        "author": "Justice SAYLOR."
+      }
+    ],
+    "attorneys": [
+      "Christopher Steven Lucas, for Guardians M.I.H. & V.B.H.",
+      "Randall Luke Wenger, Camp Hill, H. Aden Steven, Matthew S. Bowman, for Amicus Curiae Pa. Family Institute.",
+      "Robert B. Hoffman, Eckert Seamans Cherlin & Mellott, LLC, Harrisburg, David Edwin Loder, Lisa Whitcomb Clark, Duane Morris, L.L.P., Philadelphia, for Amicus Curiae PA Medical Society & The Hospital and Healthsystem Assoc, of PA.",
+      "Howard C. Ulan, Harrisburg, for Ebens-burg Center.",
+      "Jane Adams, Jane Adams Attorney at Law, Carlisle, for D.L.H.",
+      "James Clark Munro, Spence, Custer, Saylor, Wolfe & Rose, Johnstown, for Memorial Hospital.",
+      "Mark J. Murphy, Pittsburgh, Robin Resnick, Shari Ann Mamas, Disability Rights Network of PA, for Appellee Ami-cus Curiae Disability Rights Network of PA."
+    ],
+    "corrections": "",
+    "head_matter": "In re D.L.H., an Incapacitated Person. Appeal of M.I.H. and V.B.H., (Guardians).\nSupreme Court of Pennsylvania.\nArgued May 11, 2010.\nDecided Aug. 17, 2010.\nChristopher Steven Lucas, for Guardians M.I.H. & V.B.H.\nRandall Luke Wenger, Camp Hill, H. Aden Steven, Matthew S. Bowman, for Amicus Curiae Pa. Family Institute.\nRobert B. Hoffman, Eckert Seamans Cherlin & Mellott, LLC, Harrisburg, David Edwin Loder, Lisa Whitcomb Clark, Duane Morris, L.L.P., Philadelphia, for Amicus Curiae PA Medical Society & The Hospital and Healthsystem Assoc, of PA.\nHoward C. Ulan, Harrisburg, for Ebens-burg Center.\nJane Adams, Jane Adams Attorney at Law, Carlisle, for D.L.H.\nJames Clark Munro, Spence, Custer, Saylor, Wolfe & Rose, Johnstown, for Memorial Hospital.\nMark J. Murphy, Pittsburgh, Robin Resnick, Shari Ann Mamas, Disability Rights Network of PA, for Appellee Ami-cus Curiae Disability Rights Network of PA.\nBEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+  },
+  "file_name": "0505-01",
+  "first_page_order": 521,
+  "last_page_order": 531
+}

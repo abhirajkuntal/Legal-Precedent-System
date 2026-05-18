@@ -1,0 +1,129 @@
+{
+  "id": 7288772,
+  "name": "ASTON TOWNSHIP, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (McPARTLAND), Respondent; Andrew McPartland, Petitioner v. Workers' Compensation Appeal Board (Aston Township), Respondent",
+  "name_abbreviation": "Aston Township v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-08-19",
+  "docket_number": "",
+  "first_page": "773",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "830 A.2d 649",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9098374
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/830/0649-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 855",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293203
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0855-01"
+      ]
+    },
+    {
+      "cite": "732 A.2d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11553528,
+        56770
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/732/1201-01",
+        "/pa/557/0272-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 272",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56770
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0272-01"
+      ]
+    },
+    {
+      "cite": "342 A.2d 459",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 559,
+    "char_count": 15811,
+    "ocr_confidence": 0.707,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1882974644467689
+    },
+    "sha256": "245bb9b619953fa5deddd1e75bbc281b39f3dda113354e3b5179c278e8ebab54",
+    "simhash": "1:55e74945b5eb8374",
+    "word_count": 2427
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: PELLEGRINI, Judge, and McCULLOUGH, Judge, and BUTLER, Judge."
+    ],
+    "parties": [
+      "ASTON TOWNSHIP, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (McPARTLAND), Respondent. Andrew McPartland, Petitioner v. Workers\u2019 Compensation Appeal Board (Aston Township), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge PELLEGRINI.\nAston Township (Employer) and Andrew McPartland (Claimant) each appeal from the order of the Workers\u2019 Compensation Appeal Board (Board) which affirmed the determination of the Workers\u2019 Compensation Judge (WCJ) finding that Employer overcompensated Claimant, but that the Workers\u2019 Compensation Act (Act) afforded Employer no relief because the overcompensation consisted of reimbursement of Employer\u2019s pro-rata share of fees and expenses stemming from a third-party settlement, a situation not addressed by the Act.\nClaimant sustained a work-related injury in 2001 that consisted of a left hip fracture and left patellar tendon rupture for which he was paid $644 in weekly compensation. Claimant subsequently received a third-party recovery, and Claimant and Employer executed a third-party settlement agreement on August 15, 2005, which provided the following: Claimant\u2019s third-party recovery was $1,025,000, which exceeded his workers\u2019 compensation lien of $153,256, leading to a balance of recovery of $871,744 or, in other words, an $871,744 advance payment of Claimant\u2019s workers\u2019 compensation benefits, which operated as a credit against the amount Employer had to pay Claimant. Total expenses for the third-party action were $345,191.31, of which Claimant\u2019s pro rata share was $293,578.98 and Employer\u2019s pro rata share was $51,612.33. Deducting Employer\u2019s pro rata share of the expenses, Employer recovered $101,643.67 on its workers\u2019 compensation lien against Claimant. Employer would then reimburse Claimant $216.88 per week for a period of 1,353.6 weeks, the total of which represented Claimant\u2019s pro-rata share of fees and expenses. Following the expiration of the 1,353.6-week grace period, Claimant\u2019s weekly workers\u2019 compensation benefits would resume assuming he was still eligible for workers\u2019 compensation.\nOn February 12, 2007, Employer filed a modification petition with the WCJ, who issued an order on January 4, 2008, finding that Claimant had returned to work with a loss of earnings on June 22, 2006. In 2006, Claimant had a series of short jobs entitling him to various partial disability rates. Beginning January 8, 2007, Claimant held a single job and was owed a weekly partial disability rate of $276.80. The WCJ\u2019s order was not appealed. While the modification petition was pending, Employer continued to pay Claimant the $216.88 per week. Starting on February 17, 2008, Employer reduced its payment to Claimant to $93.22 per week, which represented the partial disability rate of $276.80 per week multiplied by the same reimbursement rate as before.\nOn February 21, 2008, Claimant filed a petition for penalties seeking a penalty in the amount of $3,237.77 and unreasonable contest attorney\u2019s fees. Claimant alleged that this figure represented 50% of the amount he was entitled to receive for fees and costs compensation for the period from June 22, 2006 until February 8, 2008. Employer answered by stating that the January 4, 2008 determination by the WCJ modifying Claimant\u2019s status from total to partial disability and reducing the weekly payments was in Employer\u2019s favor, so it could not discern what penalties could be alleged.\nOn March 12, 2008, Employer filed a modification petition pursuant to the WCJ\u2019s January 4, 2008 determination, seeking a modification of benefits effective June 22, 2006, the date Claimant had returned to work with loss of earnings, because Employer had continued to pay Claimant the full $216.88 until February 17, 2008. Employer alleged that recalculation of the grace period and recovery to Claimant, as allowed by the WCJ\u2019s decision, resulted in an overpayment of third-party expenses to Claimant that Employer should be allowed to recoup in future payments. Claimant responded that if Employer was unhappy with the WCJ\u2019s determination, it should have appealed, but because it did not, Employer was collaterally estopped from modifying the terms of the WCJ\u2019s order. Essentially, Claimant appeared to be arguing that the WCJ\u2019s January 4, 2008 order was in his favor, not in Employer\u2019s favor.\nFollowing a hearing, the WCJ issued a second determination on October 21, 2008, in which the WCJ determined that Employer was correct in applying the reimbursement rate to the weekly partial disability rate. Based on the various weekly partial disability rates to which Claimant was entitled between June 22, 2006 and February 17, 2008, the WCJ determined that Employer\u2019s overpayment of reimbursement of fees and expenses totaled $10,208.22 and, consequently, denied Claimant\u2019s penalty petition. However, the WCJ also determined that there was no provision in the Act that would allow Employer to recoup the overpayment from either Claimant or the superse-deas fund. Both sides appealed to the Board. Claimant contended that the amount he was being paid in fees and costs was too low, and Employer contended that the WCJ erred by failing to order reimbursement. After the Board affirmed, both sides then appealed to this Court raising the same issues as they had raised before the Board.\nIn his appeal, Claimant contends that the WCJ erred by determining that he was overpaid by Employer because Employer was required to pay him the entire $276.80 weekly partial disability rate rather than applying the reimbursement rate as had been done before his status changed to partial disability.\nThe generally accepted method of computing the weekly reimbursement of third-party recovery costs from an employer to a claimant dates to Gold Star Service, Inc. v. Workmen\u2019s Compensation Appeal Board, 21 Pa.Cmwlth. 1, 342 A.2d 459 (1975). According to this method, the employee is to tender to the employer the amount of its lien existing at the time of the third-party recovery. Out of this amount, the employee first deducts the employer\u2019s pro-rata share of the fees and expenses, and this is paid to the employee\u2019s attorney. The employee then receives the balance of the recovery, from which balance the employee pays his share of the fees and expenses to his attorney. The employee\u2019s balance of recovery following repayment of the workers\u2019 compensation lien is treated as an advance payment of compensation, and the employer is entitled to suspend compensation for the number of weeks\u2019 worth of benefits that equals the total advance payment (the grace period). The amount of suspended compensation is treated as a credit against the workers\u2019 compensation payments that the employer would otherwise have been paying the employee absent the third-party recovery.\nBecause the employee pays attorney fees and costs \u201cup front\u201d, the employer is obligated to reimburse the employee for those costs proportionately against the suspended compensation for which the employer is receiving a credit. That amount is based on the reimbursement rate and the amount of the employer\u2019s credit. The reimbursement rate is calculated by dividing the employee\u2019s pro-rata share of the expense of recovery by the employee\u2019s balance of recovery (or, in other words, by the amount of the employer\u2019s credit). The reimbursement rate is then multiplied by the weekly compensation the employee would have received absent the third-party recovery. The resulting figure is the amount the employer must pay the employee each week for the duration of the grace period, the total of which equals the employee\u2019s pro-rata share of the fees and expenses. In this way, by the end of the grace period, the employer, who has received the benefit of a credit against its workers\u2019 compensation liability, will have paid the entirety of the cost of the third-party litigation. Furthermore, by dividing the reimbursement into weekly payments, the employer each week pays that proportion of the recovery costs that correspond to the credit the employer received for that particular week against its workers\u2019 compensation obligations.\nThis process was followed exactly in the present case until Claimant returned to work with loss of earnings, eventually resulting in the January 4, 2008 determination of the WCJ that Claimant was only entitled to partial disability. At that point, the parties differed as to what should happen next. According to Employer, the reimbursement rate would then be multiplied by the partial disability rate to which Claimant was hereinafter entitled. According to Claimant, the reimbursement rate no longer applied, and Employer was required to begin paying the full partial disability rate, resulting in an increase of payments to Claimant, rather than the decrease that would normally accompany a reduction of benefits. A third argument could have been that the reimbursement payments to Claimant would remain constant, effectively ignoring Claimant\u2019s change in status.\nThe logic of the Gold Star Service method of computing the reimbursement payments allows an employer to take a credit to the extent that the employee\u2019s loss of earning power has lessened. That is because the system is predicated upon the employer receiving a credit against its workers\u2019 compensation obligations for each week of the grace period. Multiplying the reimbursement rate against the credit equals the cost of recovery of that proportion of the credit. However, the amount of the credit only remains constant as long as the benefits the injured employee would have received absent the third-party recovery remains constant. If the employee returns to work without a loss of earnings, the employer\u2019s workers\u2019 compensation obligations to that employee would cease, and the employer\u2019s credit against its obligations would therefore be zero. In other words, the employer would no longer be receiving a benefit from the third-party settlement, and because it would no longer be receiving a benefit, it would no longer have to pay its share of the costs of obtaining that benefit. Mathematically, this would entail multiplying the reimbursement rate which is a constant based upon the original recovery and costs of that recovery by the employer\u2019s new credit, which is zero. Multiplying the reimbursement rate by zero equals zero, and so weekly reimbursement payments to the employee would be zero.\nThe same process applies in situations such as the present one where the employee returns to work with loss of earnings. In such a case, the amount of the employer\u2019s credit also changes, this time to some amount less than the credit the employer received before the employee returned to work but more than the zero credit the employer would have received if the employee had returned to work with no loss of earnings. This is because absent the third-party settlement, the employer\u2019s workers\u2019 compensation obligations to the employee would be reduced. Consequently, the benefit the employer receives by the third-party recovery \u2014 that is, the employer\u2019s credit against its workers\u2019 compensation obligations \u2014 is correspondingly lessened. Multiplying the reimbursement rate by the employer\u2019s new weekly credit results in a lower weekly compensation payment to the employee.\nIn the present case, the reimbursement rate was approximately 38.67%. Claimant\u2019s weekly workers\u2019 compensation benefits at the time of the third-party recovery were $644. Consequently, Employer received a $644 weekly credit against its workers\u2019 compensation obligations to Claimant for the duration of the grace period. Multiplying these numbers results in a figure of $216.88 per week, which is the amount Employer paid Claimant for each week from the date of the third-party settlement agreement until February 17, 2008. However, Claimant returned to work with loss of earnings on June 22, 2006. Absent the third-party recovery, Claimant\u2019s workers\u2019 compensation benefits would have been correspondingly reduced. Therefore, the benefit Employer received from the third-party recovery and, hence, the credit against Employer\u2019s workers\u2019 compensation obligations to Claimant, was also reduced by the same amount. Therefore, Employer correctly multiplied the 33.67% reimbursement rate by the reduced credit, resulting in a lower weekly reimbursement payment to Claimant. Because Employer continued to pay Claimant the original, larger reimbursement payment until February 17, 2008, Claimant was indeed overcompensated. As such, the WCJ and Board correctly denied Claimant\u2019s petition for penalties.\nHowever, Employer may only be reimbursed for overpayments made from the date it filed its modification petition\u2014 February 12, 2007 \u2014 not from June 22, 2006, the date on which Claimant began working with loss of earnings. Therefore, the amount of overpayment must be recalculated.\nRegarding its appeal, Employer contends that while the WCJ was correct that the Act does not specifically address whether an employer may be reimbursed for an overpayment of fees and expenses from a third-party settlement that it paid a claimant, case law allows such reimbursement on equitable grounds from the claimant when supersedeas fund reimbursement is not available. See, e.g., Lucey v. Workmen\u2019s Compensation Appeal Board (VY-Cal Plastics PMA Group), 557 Pa. 272, 732 A.2d 1201 (1999). However, we have recently held that reimbursements of fees and expenses from third-party settlements are compensation under the Act, and employers who overpay them should be reimbursed by the supersedeas fund. Department of Labor and Industry, Bureau of Workers\u2019 Compensation v. Workers\u2019 Compensation Appeal Board (Excelsior Insurance), 987 A.2d 855 (Pa.Cmwlth.2010) (Pellegrini, J. dissenting). Thus, overpayment of these amounts cannot be recovered from Claimant. Without prejudging the issue, if Employer seeks to recover the over-reimbursements of fees and expenses it paid Claimant, it must file a request for reimbursement from the supersedeas fund.\nFor the foregoing reasons, the order of the Board is affirmed in all respects except for its calculation of the total amount of overpayment made by Employer to Claimant. The matter is remanded to the WCJ to recalculate the amount of overpayment to Claimant beginning from February 12, 2007.\nORDER\nAND NOW, this 19th day of August, 2010, the order of the Workers\u2019 Compensation Appeal Board, dated December 8, 2009, is affirmed in all respects except for its calculation of the total amount of overpayment made by Aston Township to Andrew McPartland. The matter is remanded to the Workers\u2019 Compensation Judge to recalculate the amount of overpayment to Andrew McPartland beginning from February 12, 2007.\n. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. \u00a7\u00a7 1-1041.4, 2501-2708.\n. The pro rata share is based upon the ratio of Claimant\u2019s share of the total expenses to the balance of recovery, in this case, 33.67%. Two hundred sixteen dollars and eighty-eight cents ($216.88) is 33.67% of the $644 that Claimant had received in weekly compensation. The third-party settlement agreement provides that the reimbursement rate is 14.95%, a figure that both parties agree is erroneous.\n. This Court's scope and standard of review of an order of the Board is limited to determining whether the necessary findings of fact are supported by substantial evidence, whether Board procedures were violated, whether constitutional rights were violated, or whether an error of law was committed. City of Philadelphia v. Workers\u2019 Compensation Appeal Board (Brown), 830 A.2d 649 (Pa.Cmwlth. 2003).",
+        "type": "majority",
+        "author": "Judge PELLEGRINI."
+      }
+    ],
+    "attorneys": [
+      "Brian S. Frantum, Media, for designated petitioner, Aston Township.",
+      "Richard R. Di Stefano, Philadelphia, for respondent, Andrew McPartland."
+    ],
+    "corrections": "",
+    "head_matter": "ASTON TOWNSHIP, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (McPARTLAND), Respondent. Andrew McPartland, Petitioner v. Workers\u2019 Compensation Appeal Board (Aston Township), Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs July 16, 2010.\nDecided Aug. 19, 2010.\nBrian S. Frantum, Media, for designated petitioner, Aston Township.\nRichard R. Di Stefano, Philadelphia, for respondent, Andrew McPartland.\nBEFORE: PELLEGRINI, Judge, and McCULLOUGH, Judge, and BUTLER, Judge."
+  },
+  "file_name": "0773-01",
+  "first_page_order": 835,
+  "last_page_order": 841
+}

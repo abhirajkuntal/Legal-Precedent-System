@@ -1,0 +1,1243 @@
+{
+  "id": 7290343,
+  "name": "Larry A. GAUSE and Karlepa Wilkey, Appellants, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Gause v. United States",
+  "decision_date": "2010-11-04",
+  "docket_number": "Nos. 06-CF-20, 06-CF-47",
+  "first_page": "1247",
+  "last_page": "1266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1247"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "968 A.2d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7335200,
+        7335176
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/1032-02",
+        "/a2d/968/1032-01"
+      ]
+    },
+    {
+      "cite": "606 F.Supp. 491",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3758999
+      ],
+      "pin_cites": [
+        {
+          "page": "493-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/606/0491-01"
+      ]
+    },
+    {
+      "cite": "236 F.R.D. 470",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        3689235
+      ],
+      "pin_cites": [
+        {
+          "page": "483-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/236/0470-01"
+      ]
+    },
+    {
+      "cite": "994 F.Supp. 146",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        214236
+      ],
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/994/0146-01"
+      ]
+    },
+    {
+      "cite": "746 F.2d 1098",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        649049
+      ],
+      "pin_cites": [
+        {
+          "page": "1122-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/746/1098-01"
+      ]
+    },
+    {
+      "cite": "824 F.2d 1511",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1730361
+      ],
+      "pin_cites": [
+        {
+          "page": "1514-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/824/1511-01"
+      ]
+    },
+    {
+      "cite": "100 F.3d 1019",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11942557
+      ],
+      "pin_cites": [
+        {
+          "page": "1025"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/100/1019-01"
+      ]
+    },
+    {
+      "cite": "571 A.2d 735",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11350004
+      ],
+      "pin_cites": [
+        {
+          "page": "746-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/571/0735-01"
+      ]
+    },
+    {
+      "cite": "752 N.W.2d 177",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        8228552
+      ],
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/752/0177-01"
+      ]
+    },
+    {
+      "cite": "332 Md. 639",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2021752
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1176-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/332/0639-01"
+      ]
+    },
+    {
+      "cite": "297 A.2d 771",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11253563
+      ],
+      "pin_cites": [
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/297/0771-01"
+      ]
+    },
+    {
+      "cite": "465 F.2d 1376",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        714873
+      ],
+      "pin_cites": [
+        {
+          "page": "1382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/465/1376-01"
+      ]
+    },
+    {
+      "cite": "909 A.2d 173",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8455580
+      ],
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/909/0173-01"
+      ]
+    },
+    {
+      "cite": "871 F.Supp. 20",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7845741
+      ],
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/871/0020-01"
+      ]
+    },
+    {
+      "cite": "675 A.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859183
+      ],
+      "pin_cites": [
+        {
+          "page": "80-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/675/0077-01"
+      ]
+    },
+    {
+      "cite": "993 A.2d 1085",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291005
+      ],
+      "pin_cites": [
+        {
+          "page": "1088-89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/993/1085-01"
+      ]
+    },
+    {
+      "cite": "526 U.S. 227",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11133049
+      ],
+      "weight": 5,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "234"
+        },
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/526/0227-01"
+      ]
+    },
+    {
+      "cite": "290 F.3d 347",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3698380,
+        9433476
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "360"
+        },
+        {
+          "page": "360"
+        },
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/351/0261-01",
+        "/f3d/290/0347-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1867",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(f)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1863",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1862",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1861",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "668 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868834
+      ],
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/668/0792-01"
+      ]
+    },
+    {
+      "cite": "920 P.2d 1254",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1268"
+        },
+        {
+          "page": "1268"
+        },
+        {
+          "parenthetical": "describing the \"reasonable belief\" standard as one that \"appears to be roughly comparable to the reasonable 'ar-ticulable suspicion' standard applied by the Supreme Court\" in \"stop and frisk\" cases, and directing that \"doubtful cases [should] be resolved in the defendant's favor_\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal.Rptr.2d 49",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.4th 1164",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1965979
+      ],
+      "weight": 2,
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/13/1164-01"
+      ]
+    },
+    {
+      "cite": "959 A.2d 671",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8200833
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "675-76"
+        },
+        {
+          "page": "688"
+        },
+        {
+          "page": "684-85, 687"
+        },
+        {
+          "page": "691",
+          "parenthetical": "Blackburne-Rigsby, J., dissenting"
+        },
+        {
+          "page": "691-93",
+          "parenthetical": "Blackburne-Rigsby, J., dissenting"
+        },
+        {
+          "page": "692"
+        },
+        {
+          "page": "691-92"
+        },
+        {
+          "page": "685"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/959/0671-01"
+      ]
+    },
+    {
+      "cite": "420 U.S. 28",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11642535
+      ],
+      "weight": 30,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "30",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/420/0028-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 1861-1878",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "630 A.2d 174",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11317887
+      ],
+      "pin_cites": [
+        {
+          "page": "181-82"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/630/0174-01"
+      ]
+    },
+    {
+      "cite": "603 A.2d 1219",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7940086
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/603/1219-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "710 S.W.2d 764",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9983457
+      ],
+      "pin_cites": [
+        {
+          "page": "777-78"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/710/0764-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 299",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "103 S.Ct. 2088",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "461 U.S. 928",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11315200,
+        11314977,
+        11315275,
+        11315054,
+        11315472,
+        11314901,
+        11314838,
+        11314743,
+        11315128,
+        11315358
+      ],
+      "year": 1983,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/461/0928-07",
+        "/us/461/0928-04",
+        "/us/461/0928-08",
+        "/us/461/0928-05",
+        "/us/461/0928-10",
+        "/us/461/0928-03",
+        "/us/461/0928-02",
+        "/us/461/0928-01",
+        "/us/461/0928-06",
+        "/us/461/0928-09"
+      ]
+    },
+    {
+      "cite": "453 A.2d 418",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "188 Conn. 626",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        674314
+      ],
+      "year": 1982,
+      "opinion_index": 1,
+      "case_paths": [
+        "/conn/188/0626-01"
+      ]
+    },
+    {
+      "cite": "288 So.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9728067
+      ],
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/288/0234-01"
+      ]
+    },
+    {
+      "cite": "137 L.Ed.2d 830",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "opinion_index": 1
+    },
+    {
+      "cite": "117 S.Ct. 1705",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1997,
+      "opinion_index": 1
+    },
+    {
+      "cite": "520 U.S. 1216",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712450,
+        11712548,
+        11712420,
+        11712390,
+        11712486,
+        11712583,
+        11712265,
+        11712518,
+        11712293,
+        11712622,
+        11712369,
+        11712660,
+        11712246,
+        11712316,
+        11712349
+      ],
+      "year": 1997,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/520/1216-09",
+        "/us/520/1216-12",
+        "/us/520/1216-08",
+        "/us/520/1216-07",
+        "/us/520/1216-10",
+        "/us/520/1216-13",
+        "/us/520/1216-02",
+        "/us/520/1216-11",
+        "/us/520/1216-03",
+        "/us/520/1216-14",
+        "/us/520/1216-06",
+        "/us/520/1216-15",
+        "/us/520/1216-01",
+        "/us/520/1216-04",
+        "/us/520/1216-05"
+      ]
+    },
+    {
+      "cite": "361 A.2d 166",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8003096
+      ],
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/361/0166-01"
+      ]
+    },
+    {
+      "cite": "154 L.Ed.2d 442",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Muscogee Creek Nation "
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "123 S.Ct. 581",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Muscogee Creek Nation "
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "537 U.S. 1028",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9296769,
+        9296515,
+        9296580,
+        9296549,
+        9296489,
+        9296656,
+        9296689,
+        9296467,
+        9296627,
+        9296725,
+        9296602,
+        9296444
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Muscogee Creek Nation "
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/537/1028-12",
+        "/us/537/1028-04",
+        "/us/537/1028-06",
+        "/us/537/1028-05",
+        "/us/537/1028-03",
+        "/us/537/1028-09",
+        "/us/537/1028-10",
+        "/us/537/1028-02",
+        "/us/537/1028-08",
+        "/us/537/1028-11",
+        "/us/537/1028-07",
+        "/us/537/1028-01"
+      ]
+    },
+    {
+      "cite": "351 U.S.App.D.C. 261",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3698380
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "274",
+          "parenthetical": "quoting Muscogee Creek Nation "
+        },
+        {
+          "page": "274"
+        },
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/351/0261-01"
+      ]
+    },
+    {
+      "cite": "435 F.2d 762",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2216575
+      ],
+      "pin_cites": [
+        {
+          "page": "765-66"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/435/0762-01"
+      ]
+    },
+    {
+      "cite": "102 L.Ed.2d 786",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Klein v. Republic Steel Corp., 435 F.2d 762, 765-66 (3d Cir.1970)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 S.Ct. 795",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Klein v. Republic Steel Corp., 435 F.2d 762, 765-66 (3d Cir.1970)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "488 U.S. 1010",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1493539,
+        1493572,
+        1494886,
+        1495430,
+        1493608,
+        1493273,
+        1494995,
+        1494133,
+        1495510,
+        1493656,
+        1495289,
+        1493274,
+        1494365,
+        1495325
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Klein v. Republic Steel Corp., 435 F.2d 762, 765-66 (3d Cir.1970)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/488/1010-08",
+        "/us/488/1010-05",
+        "/us/488/1010-10",
+        "/us/488/1010-07",
+        "/us/488/1010-14",
+        "/us/488/1010-06",
+        "/us/488/1010-13",
+        "/us/488/1010-11",
+        "/us/488/1010-09",
+        "/us/488/1010-01",
+        "/us/488/1010-12",
+        "/us/488/1010-02",
+        "/us/488/1010-04",
+        "/us/488/1010-03"
+      ]
+    },
+    {
+      "cite": "851 F.2d 1439",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5660432,
+        11366730
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1444"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/271/0212-01",
+        "/f2d/851/1439-01"
+      ]
+    },
+    {
+      "cite": "271 U.S.App.D.C. 212",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        5660432
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/271/0212-01"
+      ]
+    },
+    {
+      "cite": "422 A.2d 1281",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "1284"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "676 F.2d 984",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        562087
+      ],
+      "pin_cites": [
+        {
+          "page": "988"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/676/0984-01"
+      ]
+    },
+    {
+      "cite": "526 U.S. 227",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11133049
+      ],
+      "weight": 5,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "234"
+        },
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/526/0227-01"
+      ]
+    },
+    {
+      "cite": "290 F.3d 347",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3698380,
+        9433476
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "360",
+          "parenthetical": "quoting Muscogee Creek Nation "
+        },
+        {
+          "page": "360",
+          "parenthetical": "quoting Jones"
+        },
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/351/0261-01",
+        "/f3d/290/0347-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1867",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f) and (d)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "920 P.2d 1254",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "56 Cal.Rptr.2d 49",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "13 Cal.4th 1164",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1965979
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-4th/13/1164-01"
+      ]
+    },
+    {
+      "cite": "959 A.2d 671",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8200833
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "682-83"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "683-84"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/959/0671-01"
+      ]
+    },
+    {
+      "cite": "420 U.S. 28",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11642535
+      ],
+      "weight": 6,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "30",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/420/0028-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1907,
+    "char_count": 66684,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 7.54395835709226e-08,
+      "percentile": 0.4477975356864435
+    },
+    "sha256": "b9bf9caa24a773a343cfd6014fd219b2d9bdb8da8ab6af90a91b8f9a5094ad0b",
+    "simhash": "1:b01ce066338c55c0",
+    "word_count": 10695
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WASHINGTON, Chief Judge, and RUIZ, REID, GLICKMAN, KRAMER, BLACKBURNE-RIGSBY, THOMPSON, and OBERLY, Associate Judges, and SCHWELB, Senior Judge.",
+      "with whom WASHINGTON, Chief Judge, and KRAMER and THOMPSON, Associate Judges, join, dissenting:"
+    ],
+    "parties": [
+      "Larry A. GAUSE and Karlepa Wilkey, Appellants, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "BLACKBURNE-RIGSBY, Associate Judge:\nIn this case, we convened en banc to consider whether the District of Columbia Jury System Act (\u201cDCJSA\u201d), which includes a statutory right to inspect court records used in connection with the jury selection process, requires a predicate showing that the requested materials -will ultimately yield evidence of a \u201csubstantial failure to comply with\u201d the DCJSA. We decline to impose a threshold showing requirement, because to do so would undermine the DCJSA\u2019s stated purpose by creating an unnecessary hurdle for litigants seeking discovery of jury pool information in connection with a challenge to the fairness of the jury selection process. We conclude that the DCJSA neither imposes, nor requires this court to impose, such a threshold showing requirement and we therefore reverse and remand for further proceedings consistent with this opinion.\nIn declining to impose a threshold showing requirement, we begin our analysis by comparing the DCJSA with its predecessor, the federal Jury Selection and Service Act (\u201cFJSSA\u201d), 28 U.S.C. \u00a7\u00a7 1861-1878 (1978). In Test v. United States, 420 U.S. 28, 30, 95 S.Ct. 749, 42 L.Ed.2d 786 (1975) (per curiam), the Supreme Court analyzed the FJSSA\u2019s statutory provisions, as well as its stated purpose, and concluded that the FJSSA confers an \u201cunqualified right\u201d to discovery under the statute. Next, we consider differences between the FJSSA and the DCJSA; although the statutes are nearly identical in their stated purposes, they differ in their structure and organization. There is one difference in particular that we acknowledge and analyze-the absence in the DCJSA of explicit language stating that litigants may inspect jury records. But we conclude that this difference alone, without any clear legislative history or intent, is insufficient to accord less protection to District of Columbia litigants under the DCJSA than was accorded to them under the FJSSA, especially given the virtually identical purposes of both statutes. Finally, we make clear that trial judges retain important discretion over the scope and timing of discovery pursuant to the DCJSA.\n1. Background and Procedural History\nFollowing a jury trial in 2005, appellants Larry A. Gause and Karlepa Wilkey were convicted of armed robbery of a senior citizen and of several related weapons offenses. In their appeal, appellants contended that the trial judge erred by denying Gause\u2019s pretrial request (joined by Wilkey) for discovery, pursuant to the DCJSA, relating to jury selection records. As described more fully in Gause v. United States, 959 A.2d 671, 675-76 (D.C.2008) (Gause I), appellants\u2019 motion, which included substantial, albeit preliminary, expert analysis, alleged that the Superior Court system for selecting juries \u201cproduces jury venires that do not reflect a fair cross-section of the community and systematically excludes African Americans.\u201d The trial judge denied Gause\u2019s motion (the \u201cJury Motion\u201d), including Gause\u2019s request for discovery, based upon his finding that Gause had failed to establish a prima facie case that the Superior Court\u2019s system for the selection of jurors violates the Fifth and Sixth Amendments to the United States Constitution and the DCJSA.\nA division of this court reversed the trial court, with one judge dissenting. See Gause I, supra, 959 A.2d at 688. Rejecting the \u201cprima facie case\u201d standard imposed by the trial court, the Gause I majority instead fashioned a \u201creasonable belief\u2019 standard whereby a litigant\u2019s access to nonpublic jury information would be conditioned upon making \u201ca particularized showing supporting a reasonable belief that underrepresentation in the jury pool or the venire exists as the result of practices of systematic exclusion.\u201d Id. at 684-85, 687 (adopting standard of People v. Jackson, 13 Cal.4th 1164, 56 Cal.Rptr.2d 49, 920 P.2d 1254, 1268 (1996)). Appellants thereafter filed a petition for rehearing en banc. We granted the petition and vacated the prior decision of the court. See 968 A.2d at 1032.\nII. Analysis\nA.\nWhether the DCJSA imposes a threshold showing requirement presents a matter of statutory construction, which involves a \u201cclear question of law\u201d that we review de novo. District of Columbia v. Morrissey, 668 A.2d 792, 796 (D.C.1995).\nFrom 1968 until 1986, the jury selection system in the District of Columbia was governed by the FJSSA. Then, in 1986, Congress enacted the DCJSA \u201cto provide for the establishment of an independent jury system for the District of Columbia Superior Court....\u201d S.Rep. No. 99-473, at 1 (1986). While there are some obvious differences in the statutes, there are also some key similarities. In drafting the DCJSA, for example, Congress adopted the FJSSA\u2019s \u201cDeclaration of policy\u201d nearly verbatim, including the specific guarantee that \u201call litigants entitled to trial by jury shall have the right to grand and petit juries selected at random from a fair cross section\u201d of the community. Compare 28 U.S.C. \u00a7 1861 with D.C.Code \u00a7 11-1901. Additionally, many provisions in the DCJSA closely follow corresponding provisions in the FJSSA. Both statutes, for example, mandate a jury selection process that is free from unlawful discrimination. In a section entitled \u201cDiscrimination prohibited,\u201d the FJSSA states that \u201c[n]o citizen shall be excluded from service as a grand or petit juror ... on account of race, color, religion, sex, national origin, or economic status.\u201d 28 U.S.C. \u00a7 1862 (1980). The DCJSA has a similar section entitled \u201cProhibition of discrimination,\u201d which provides that \u201c[a] citizen of the District of Columbia may not be excluded or disqualified from jury service as a grand or petit juror in the District of Columbia on account of race, color, religion, sex, national origin, ancestry, economic status, marital status, age, or (except as provided in this chapter) physical handicap.\u201d D.C.Code \u00a7 11-1903. Both statutes also require the adoption and implementation of a jury system plan for the random selection of jurors. Compare 28 U.S.C. \u00a7 1863(a) (1992) with D.C.Code \u00a7 ll-1904(a). And, as will be apparent, both statutes include provisions for litigants who wish to challenge the composition of juries and jury venires for violation of the statute\u2019s fair cross section requirement.\nImportantly, and of particular relevance here, both the FJSSA and the DCJSA expressly contemplate that litigants who wish to challenge the jury selection process will have access to nonpublic records even before any written motion is filed. The FJSSA, under the heading of \u201cChallenging compliance with selection procedures,\u201d states that in criminal cases, within specified time limits, \u201cthe defendant may move to dismiss the indictment or stay the proceedings against him on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.\u201d 28 U.S.C. \u00a7 1867(a). It further provides that upon the filing of such a motion:\nthe moving party shall be entitled to present in support of such motion the testimony of the jury commission[er] or clerk, if available, any relevant records and papers not public or otherwise available used by the jury commissioner or clerk, and any other relevant evidence.\n28 U.S.C. \u00a7 1867(d). The corresponding provision in the DCJSA, under the same heading of \u201cChallenging compliance with selection procedures,\u201d provides:\nA party may challenge the composition of a jury by a motion for appropriate relief. A challenge shall be brought and decided before any individual juror is examined, unless the Court orders otherwise. The motion shall be in writing, supported by affidavit, and shall specify the facts constituting the grounds for the challenge. If the Court so determines, the motion may be decided on the basis of the affidavits filed with the challenge. If the Court orders trial of the challenge, witnesses may be examined on oath by the Court and may be so examined by either party.\nD.C.Code \u00a7 ll-1910(a).\nThe FJSSA also includes a provision\u2014 still under the same heading, \u201cChallenging compliance with selection procedures\u201d\u2014 that relates to a litigant\u2019s ability to seek discovery: \u201cThe parties in a case shall be allowed to inspect, reproduce, and copy such records or papers at all reasonable times during the preparation and pen-dency of such a motion.\u201d 28 U.S.C. \u00a7 1867(f). There is no identical sentence in the DCJSA, but the DCJSA does provide, in D.C.Code \u00a7 ll-1914(b), that \u201c[t]he contents of any records or lists used in connection with the selection process shall not be disclosed, except in connection with the preparation or presentation of a motion under \u00a7 11-1910, or until all individuals selected to serve as grand or petit jurors from such lists have been discharged.\u201d (emphasis added).\nAs noted above, the Supreme Court has had occasion to interpret the FJSSA, and the Court concluded that the DCJSA\u2019s federal predecessor confers \u201cessentially an unqualified right to inspect jury lists.\u201d Test, supra, 420 U.S. at 30, 95 S.Ct. 749. The Court reasoned that the \u201cunqualified right to inspection is required not only by the plain text of the statute, but also by the statute\u2019s overall purpose of insuring \u2018grand and petit juries selected at random from a fair cross section of the community.\u2019 \u201d Id. (quoting 28 U.S.C. \u00a7 1861). The Court explained that the FJSSA\u2019s statutory provisions guarantee \u201caccess in order to aid parties in the \u2018preparation\u2019 of motions challenging jury-selection procedures\u201d because \u201cwithout inspection, a party almost invariably would be unable to determine whether he has a potentially meritorious jury challenge.\u201d Id. at 30, 95 S.Ct. 749. Indeed, the Court was careful to further note that litigants\u2019 \u201cunqualified right to inspection\u201d was critical to effectuating the purpose of the FJSSA. Id.\nLike its federal predecessor, the DCJSA contemplates that litigants who wish to challenge the jury selection process will have access to nonpublic information for the \u201cpreparation and presentation\u201d of such challenges. Specifically, while D.C.Code \u00a7 11 \u2014 1914(b) announces a general rule of non-disclosure of records related to the jury selection process, it also contains a key exception to permit disclosure \u201cin connection with the preparation or presentation of a motion under \u00a7 11-1910.\u201d Importantly, this exception is unqualified, save for the relevance requirement implicit in the words \u201cin connection with.\u201d On its face, therefore, the DCJSA reveals no intent to further condition the right of inspection upon a litigant\u2019s possession and proffer of facts independently tending to show improper jury selection \u2014 facts that \u201calmost invariably\u201d would be unavailable to one considering a \u201cpotentially meritorious jury challenge.\u201d Test, supra, 420 U.S. at 30, 95 S.Ct. 749 (emphasis added). Given the unqualified right to inspect afforded by the DCJSA\u2019s federal predecessor, the equally unqualified exception declared by D.C.Code \u00a7 11 \u2014 1914(b) bespeaks an intent of Congress to exclude any other predicate showing of relevance or justification for the inspection that the statute clearly contemplates. Indeed, there is no plain reading of the statute to support the threshold showing requirement that our dissenting colleagues would require, particularly where, as in this case, no legislative history has been cited to us suggesting that Congress meant to narrow in any way the inspection right that formerly existed in the District under the FJSSA.\nB.\nBased upon our analysis of the language of the DCJSA \u2014 and, to some degree, the corresponding federal statute as construed by the Supreme Court \u2014 we concluded in Section II.A. that nothing in the language of the DCJSA requires litigants to demonstrate a threshold showing of need or justification before they may inspect certain nonpublic records that are relevant for the \u201cpreparation or presentation of a motion\u201d alleging \u201csubstantial failure to comply with\u201d the DCJSA. But we must also consider a circumstance that loomed significant for the division majority and our dissenting colleagues, which is the absence in the DCJSA of a particular sentence in the federal statute affirmatively stating that parties in a case \u201cshall be allowed to inspect, reproduce, and copy such records or papers [relevant to a motion] at all reasonable times during the preparation and pendency of such a motion.\u201d 28 U.S.C. \u00a7 1867(f).\nNeither party, nor our own research, has unearthed any legislative history explaining this omission from the local statute. Nevertheless, it has been argued that Congress\u2019 omission of this language from the DCJSA supports an inference that it intended judges to condition the right to discovery under the DCJSA upon a threshold showing of probativeness of a particular kind \u2014 i.e., that the movant has objective grounds from other sources to believe, or at least suspect, that the court-records will yield affirmative evidence of a statutory or constitutional violation relevant to jury selection in the case at bar. In other words, it is argued that we should import into the DCJSA by inference such a threshold showing requirement to effectuate the \u201cmeaning\u201d that, under certain canons of statutory construction, might be drawn from a legislature\u2019s omission of substantive language in a subsequent enactment of a statute. See, e.g., United States v. Wilson, 290 F.3d 347, 360 (D.C.Cir.2002). But we are unpersuaded by our dissenting colleagues\u2019 reasoning, and their reliance on Wilson in particular. Importantly, while the Wilson court observed generally that \u201c[wjhere the words of a later statute differ from those of a previous one on the same or related subject, the Congress must have intended them to have a different meaning,\u201d 290 F.3d at 360, it ultimately found that this canon did not apply in that case, in part because \u201cCongress is unlikely to intend any radical departures from past practice without making a point of saying so.\u201d Id. (quoting Jones v. United States, 526 U.S. 227, 234, 119 S.Ct. 1215, 143 L.Ed.2d 311 (1999)). In this case, we decline to apply this general canon (just as the Wilson court did) because we cannot presume here that Congress intended to strip District residents of certain rights without at least \u201cmaking a point of saying so.\u201d Id.; cf. Owens v. District of Columbia, 993 A.2d 1085, 1088-89 (D.C.2010) (\u201cWe have previously refused to assume, in the absence of specific textual support,\u201d that a statute \u201cinten[dedj to cut back on [a] previously-existing ... statutory right\u201d) (internal quotation marks and citation omitted).\nIn our view, it is too great a leap to infer from the omission of this one sentence in D.C.Code \u00a7 11-1914 (corresponding to 28 U.S.C. \u00a7 1867(f)) that Congress meant by its silence to import into the DCJSA an otherwise unexplained qualification of the discovery right \u2014 a qualification or restriction on the discovery right that did not exist in the earlier statute on the same subject. Our dissenting colleagues conclude that such a leap is \u201cthe most reasonable inference\u201d from the absence of this sentence, but their analysis glosses over or ignores several important points. First, our dissenting colleagues offer no rationale for why Congress would reuse the FJSSA\u2019s \u201cDeclaration of policy\u201d nearly verbatim in the DCJSA \u2014 especially after the Supreme Court interpreted such language to call for an unqualified right to inspection \u2014 if Congress truly intended this court to fashion a new threshold showing requirement based upon the \u201cpresumptively purposeful omission\u201d of one particular sentence in 28 U.S.C. \u00a7 1867(f).\nSecond, contrary to the dissent\u2019s assertion that \u201cno provision comparable ... to [28 U.S.C.] \u00a7 1867 ... was included in the DCJSA,\u201d the language in D.C.Code \u00a7 11-1914(b) is, in fact, almost identical to the first sentence in 28 U.S.C. \u00a7 1867(f). While the dissent concedes that \u201cheadings are not conclusive,\u201d it provides no reason for dismissing the obvious parallels between 28 U.S.C. \u00a7 1867(f) and D.C.Code \u00a7 ll-1914(b). Moreover, by conceding that the latter \u201cauthorizes disclosure of otherwise non-public records,\u201d the dissent undermines its own reasoning that nothing in a section entitled \u201cPreservation of records\u201d might be relevant in determining whether Congress intended to strip District residents of rights that they enjoyed from 1968 until 1986.\nThird, we cannot overlook, as the dissent does, the manner in which the FJSSA has worked in practice. Indeed, the dissent does not adequately explain why a federal statute and its District of Columbia successor statute \u2014 with virtually identical stated purposes \u2014 should not be interpreted consistently. This is particularly so given that this court has previously articulated that \u201c[t]he government cannot rely on courts to rewrite imprecise enactments, and this is especially true where, as here, the [government] is asking us to accord a narrow and grudging construction to remedial legislation.\u201d District of Columbia v. Tarlosky, 675 A.2d 77, 80-81 (D.C.1996) (internal quotation marks omitted) (citing Lanier v. District of Columbia, 871 F.Supp. 20, 24 (D.D.C.1994)).\nFurthermore, if the omission of this one sentence is thought to be so telling, so too must be the legislature\u2019s failure to include anything in the DCJSA defining (or even mentioning) this new threshold showing requirement that our dissenting colleagues would impose solely by implication. That point seems to us all the more persuasive considering the array of formulations that have been employed in reading such a qualification into the right to inspect juror records. The trial court in this case, for example, thought that a prima facie showing of a violation ought to be made before discovery would be available. And while the division majority thought this standard was too demanding, it settled upon a showing of \u201creasonable belief\u2019 analogous to that required in criminal law contexts, citing authorities that require (in yet another variation) a \u201cparticularized showing\u201d of \u201ca reasonable belief\u2019 that systematic exclusion resulted in underrepresentation in the jury pool. But the problem with any of these formulations is that D.C.Code \u00a7 11 \u2014 1914(b) furnishes no basis for preferring one over the other. Indeed, the statute contains no other threshold standard of relevance or justification for the discovery of records than its terms establish: the disclosure sought must be \u201cin connection with the preparation ... of a motion under \u00a7 11-1910.\u201d D.C.Code \u00a7 11-1914(b). Thus, like the Supreme Court in Test, we are unwilling to import into the statute a threshold showing requirement that movants would have to satisfy before obtaining access to materials \u201cin connection with the preparation or presentation of a motion\u201d challenging the jury selection process. In our view, to impose a threshold requirement would undermine the recognized purpose of the DCJSA of ensuring that litigants have access to discovery for purposes of preparing a motion challenging the jury selection process, which thereby ensures that \u201cgrand and petit juries [are] selected at random from a fair cross section of the community.\u201d Test, supra, 420 U.S. at 30, 95 S.Ct. 749.\nThe imposition of a threshold requirement \u2014 even one that our dissenting colleagues describe as \u201cvery modest\u201d \u2014 contravenes the very purpose of the DCJSA by forcing a litigant to put the proverbial cart before the horse. In other words, a threshold requirement places the burden on the litigant to prove \u2014 or prove to a lesser degree \u2014 the merits of his or her constitutional claims in order to garner access to the nonpublic and confidential information necessary to prove the merits of his or her claim. See Gause I, supra, 959 A.2d at 691 (Blackburne-Rigsby, J., dissenting). In light of how important statistics are in proving discrimination claims under the Fifth and Sixth Amendments, the practical implication of even the \u201cvery modest\u201d threshold showing requirement that our dissenting colleagues would impose is inconsistent with the reality that \u201cwithout inspection, a party almost invariably would be unable to determine whether he has a potentially meritorious jury challenge.\u201d Test, supra, 420 U.S. at 30, 95 S.Ct. 749.\nC.\nAt the same time, nothing we have said so far implies that the trial court is without discretion \u2014 indeed, important discretion \u2014 in entertaining a motion for discovery under D.C.Code \u00a7 11 \u2014 1914(b). It scarcely needs saying that the judge is not obliged to grant a motion that on its face, or as signaled clearly by the circumstances, is made solely to delay the trial. The DCJSA certainly does not authorize litigants to file motions in bad faith; indeed, movants should always remember that the Superior Court has the inherent authority to punish those who intentionally abuse the litigation process. See, e.g., In re Jumper, 909 A.2d 173, 176 (D.C.2006). On the other hand, because the DCJSA imposes no threshold showing requirement, it is important to emphasize that the movant need not articulate a specific theory at the outset about how the requested materials might ultimately demonstrate a \u201csubstantial failure to comply with [the DCJSA].\u201d D.C.Code \u00a7 ll-1910(b).\nSignificantly, courts construing the equivalent federal provision have consistently held that trial judges retain important discretion to. limit the breadth of disclosure and pace the timing of disclosure of juror-related records. And that is as it should be. The statute requires disclosure of only those records that are relevant for \u201cthe preparation or presentation of a motion\u201d alleging a \u201csubstantial failure to comply with [the DCJSA].\u201d D.C.Code \u00a7\u00a7 ll-1910(b), -1914(b). Obviously, not all juror-related records in the court\u2019s possession will bear on that issue. To the extent that the non-relevant information cannot reasonably be segregated from the data to which litigants are entitled under the DCJSA, the trial court will have to exercise its discretion in deciding how best to protect it (e.g., protective order, attorneys\u2019 eyes-only restrictions, etc.).\nIn this case, for example, even before appellants inspected any nonpublic records, their Jury Motion set forth their preliminary theory about how the requested materials would ultimately support a \u201csubstantial failure to comply with\u201d the DCJSA. However, as noted above, mov-ants need not articulate such a theory as a prerequisite before exercising their inspection rights under the DCJSA. But should the movant elect to make such a proffer (whether before any inspection, as here, or as part of a status conference in between rounds of inspection), their submission might help the trial court make more informed decisions about what information is or is not relevant. In that regard, it is important to note that nothing in the DCJSA precludes the trial judge from ordering disclosure of records incrementally in determining what information, which is otherwise confidential, might be relevant for \u201cthe preparation or presentation of a motion\u201d alleging a \u201csubstantial failure to comply with\u201d the DCJSA. D.C.Code \u00a7\u00a7 11 \u2014 1910(b), -1914(b).\nIII. Conclusion\nIn sum, we conclude that under the DCJSA, a litigant preparing a possible motion challenging the jury selection process may inspect certain materials that are used \u201cin connection with the [jury] selection process\u201d without a threshold showing that there is reason to believe such discovery will ultimately substantiate a statutory or constitutional violation. The only qualification is that the litigant\u2019s request must be \u201cin connection with the preparation or presentation\u201d of such a motion. D.C.Code \u00a7 ll-1914(b). At the same time, the trial court retains important discretion to manage DCJSA discovery in a reasonable manner. Specifically, Superior Court judges have considerable flexibility to determine the scope and timing of the disclosure in each particular case, and what safeguards, if any, may accompany it. And while some cases may require more circumspection than others, the trial court must always be careful that it is not undermining the purpose of the statute by requiring proof of a \u201csubstantial failure to comply with\u201d the DCJSA even before litigants have an opportunity to inspect the records that might ultimately support such a finding.\nWe respectfully disagree with the dissent\u2019s conclusion that this court must impose a threshold showing requirement to effectuate Congress\u2019 intent (which, again, the dissent gleans primarily from the \u201cpresumptively purposeful omission\u201d of a single sentence). In our view, the dissent reads too much into the absence of a few words; it would erect a new threshold showing requirement without any supportive legislative history, and in the face of the DCJSA\u2019s and FJSSA\u2019s nearly identical stated purposes. We, on the other hand, like the Supreme Court in Test, are unwilling to import into the statute a threshold showing requirement, which in our view would serve only to impose an unnecessary hurdle for litigants in contravention of the stated purpose of the DCJSA.\nHere, we must remand for further proceedings because the trial court erred in requiring appellants to present a prima facie showing before they could inspect any relevant records. We leave it to the trial court to exercise its discretion to consider and decide, based on the reasoning outlined above, the proper scope of discovery and what limitations, if any, are appropriate for the particular circumstances of this case. If either appellant thereafter files a motion pursuant to D.C.Code \u00a7 11-1910 challenging the jury selection procedures (those that were in effect at the time of their trial), the court shall hear and decide the matter. If the court determines that \u201cthere has been a substantial failure to comply\u201d with the DCJSA, D.C.Code \u00a7 ll-1910(b), it shall grant a motion for a new trial. In other words, while appellants have a statutory right to certain discovery under the DCJSA, unless and until a violation is found by the trial court, we see no need to disturb their convictions. Cf. United States v. Beaty, 465 F.2d 1376, 1382 (9th Cir.1972).\nSo ordered.\n. See D.C.Code \u00a7 11-1901 to 1918 (2001).\n. In a footnote, our dissenting colleagues mention the racial composition of appellants\u2019 petit jury. As explained more fully in the dissenting opinion to Gause I, supra, 959 A.2d at 691-93 (Blackburne-Rigsby, J., dissenting), the panel majority wrongly conflated the Black and Latino jurors on Gause\u2019s panel as \"Black jurors\u201d in determining that Gause\u2019s jury was majority Black and that Black representation on the jury was slightly greater than the percentage of the District of Columbia's population. However, the 2000 Census differentiated between those identifying as \"Black alone\u201d and those identifying as \"Latino of any race.\u201d Id. at 692. Therefore, using the Census\u2019 metrics, Gause's jury was actually only 50% Black and thus underrepresented the District of Columbia\u2019s Black population. Id. at 691-92. We therefore question whether the percentage figures presented by the panel majority were accurate; and even if they were, this apparent post-hoc rationalization is not relevant to the legal issue presented here \u2014 whether the DCJSA imposes a threshold showing requirement.\n. Specifically, Gause asked the trial judge to order the Clerk of the Superior Court to provide to his counsel, for the preceding five years, or for whatever shorter period as to which the requested materials were available, (a) \"all documents and computer tapes\u201d relating to the master jury wheel, (b) \"all documents and computer tapes\u201d containing personal information about all persons summoned for jury service, and (c) \"all documents relating to the development of the current jury system and plan.\u201d Gause also requested the court to order the Clerk to make available for interview by his counsel \"all jury office officials and staff and the staff of any agency designated by the Jury Plan to provide names to the juiy office for inclusion in the master jury wheel.\u201d\n.The District of Columbia\u2019s Jury System Plan provides for the random selection and service of grand and petit jurors in the Superior Court. D.C.Code \u00a7 11-1904. The Plan provides that a master juror list is to be compiled from lists of District of Columbia voters, and names from other appropriate sources identified in the Plan. D.C.Code \u00a7 11-1905. The Plan also provides procedures for the random selection and qualification of grand and petit jurors from the master juror list, which contains, inter alia, name, age, and occupation information. D.C.Code \u00a7 11-1906. See, e.g., Maxwell v. United States, 297 A.2d 771, 774 (D.C.1972) (noting that master jury list contained, inter alia, names, ages, and occupations). A qualification form is mailed to these prospective jurors who must meet certain criteria in order to be qualified to serve. D.C.Code \u00a7 11-1906. This form also contains information on a prospective juror\u2019s race. Qualified jurors are then entered into a master jury wheel, which forms the basis for the random selection of venires for grand and petit juries. D.C.Code \u00a7 11-1904.\n. The FJSSA mandates that \u201d[e]ach United States district court shall devise and place into operation a written plan for random selection of grand and petit jurors that shall be designed to achieve the objectives of sections 1861 [\u201cDeclaration of policy\u201d] and 1862 [\u201cDiscrimination prohibited\u201d] of this title.\u201d 28 U.S.C. \u00a7 1863(a). The DCJSA similarly requires that the \u201cBoard of Judges shall adopt, implement, and as necessary modify, a written jury system plan for the random selection and service of grand and petit jurors in the Superior Court consistent with the provisions of this chapter.\u201d D.C.Code \u00a7 11-1904(a).\n. Jury challenges may also be brought pursuant to the Sixth Amendment and/or the Fifth Amendment. And several state legislatures have enacted statutes similar to the DCJSA as well. See, e.g., Lewis v. State, 332 Md. 639, 632 A.2d 1175, 1176-77 (1993); Forum Commc\u2019ns Co. v. Paulson, 752 N.W.2d 177, 183 (N.D.2008); Gannett Co. v. State, 571 A.2d 735, 746-47 (Del.1990).\n. Our dissenting colleagues' characterization of this \"presumptively purposeful omission\u201d might lead one to assume that the FJSSA and the DCJSA are mirror images of each other but for the \"shall be allowed to inspect\u201d sentence in 28 U.S.C. \u00a7 1867(f) and the \"shall be entitled to present\u201d language in 28 U.S.C. \u00a7 1867(d). However, the DCJSA was drafted almost twenty years after the FJSSA and there are significant differences in both the language and organization of the two statutes. Compare, e.g., 28 U.S.C. \u00a7 1867(a)-(c) (outlining, in three separate subsections, time limits for bringing a challenge, depending upon whether the case is criminal or civil) with D.C.Code 11 \u2014 1910(a) (establishing, in one subsection, time limits for bringing a challenge in any type of case).\n. When drafting the DCJSA, Congress adopted (nearly verbatim) the FJSSA\u2019s \"Declaration of policy,\u201d which, as the Supreme Court reasoned in Test, confers an independent basis for the \"unqualified right to inspection\u201d in the FJSSA. Test, supra, 420 U.S. at 30, 95 S.Ct. 749.\n. See Test, supra, 420 U.S. at 30, 95 S.Ct. 749. Without explanation, the dissent completely ignores that 28 U.S.C. \u00a7 1861 and D.C.Code \u00a7 11-1901 are almost identical.\n. Compare D.C.Code \u00a7 ll-1914(b) (\"The contents of any records or lists used in connection with the selection process shall not be disclosed, except in connection with the preparation or presentation of a motion under \u00a7 11-1910, or until all individuals selected to serve as grand or petit jurors from such lists have been discharged.\u201d) with 28 U.S.C. \u00a7 1867(f) (\"The contents of records or papers used ... in connection with the jury selection process shall not be disclosed, except pursuant to the district court plan or as may be necessary in the preparation or presentation of a motion under [this section], until ... all persons selected to serve as jurors ... have completed such service.\u201d).\n. We also note that Superior Court judges may have had considerable difficulty applying the \"reasonable belief\u201d standard adopted by the division majority. The full passage from the California case upon which the division majority relied in fashioning the \"reasonable belief\u201d standard provides:\nRather, upon a particularized showing supporting a reasonable belief that underrepre-sentation in the jury pool or the venire exists as the result of practices of systematic exclusion, the court must make a reasonable effort to accommodate the defendant\u2019s relevant requests for information designed to verify the existence of such underrepre-sentation and document its nature and extent.\nGause I, supra, 959 A.2d at 685 (quoting People v. Jackson, 13 Cal.4th 1164, 56 Cal.Rptr.2d 49, 920 P.2d 1254, 1268 (1996)). In our view, this \"reasonable belief\u201d standard raises a whole host of questions but supplies very few answers. And, to add yet another layer of complexity, the division majority appeared to somehow qualify its endorsement of California\u2019s already confusingly vague standard. See, e.g., id. (describing the \"reasonable belief\u201d standard as one that \"appears to be roughly comparable to the reasonable \u2018ar-ticulable suspicion\u2019 standard applied by the Supreme Court\u201d in \u201cstop and frisk\u201d cases, and directing that \"doubtful cases [should] be resolved in the defendant\u2019s favor_\u201d) (emphasis added).\n. See, e.g., Test, supra, 420 U.S. at 30, 95 S.Ct. 749 (recognizing that without discovery, \"a party almost invariably would be unable to determine whether he has a potentially meritorious jury challenge.\"); United States v. Royal, 100 F.3d 1019, 1025 (1st Cir.1996) (\u2018\u2018[A] litigant need only allege that he is preparing a motion to challenge the jury selection process.\u201d).\n. See, e.g., United States v. Davenport, 824 F.2d 1511, 1514-15 (7th Cir.1987) (holding that defendant had \"unqualified right\u201d to the jury list, but not the jury qualification questionnaires without some demonstration of necessity); United States v. McLernon, 746 F.2d 1098, 1122-23 (6th Cir.1984) (holding that defendants' right to discovery was satisfied by inspection of master lists and the relevant demographic data about the general pool from which the grand jurors were selected, and thus defendants were not entitled to the names, addresses, and demographics of the individual grand jurors who returned indictments against them); United States v. Shapiro, 994 F.Supp. 146, 148 (E.D.N.Y.1998) (finding that transmission of juror information to defendant's attorney, and not defendant himself, satisfied defendant\u2019s unqualified right to inspect jury lists).\n. In fact, several federal courts dealing with analogous requests under the FJSSA have used such an approach. See, e.g., United States v. Diaz, 236 F.R.D. 470, 483-84 (N.D.Cal.2006) (allowing access to information explaining how computerized jury selection program functions, but denying access to original source list of juror information); United States v. Carlock, 606 F.Supp. 491, 493-94 (W.D.La.1985) (allowing access to \"the records and materials used in selection of the master jury wheel and qualified jury wheel,\u201d including the completed juror qualification forms, but deferring movant\u2019s request for information regarding the potential jurors for his case until after the jury was empaneled).\n. Cf. Test, supra, 420 U.S. at 30, 95 S.Ct. 749 (noting that without discovery, \"a party almost invariably would be unable to determine whether he has a potentially meritorious jury challenge.\u201d).\n. The DCJSA specifies that motions challenging the jury-selection process \"shall be brought and decided before any individual juror is examined, unless the Court orders otherwise.\" D.C.Code \u00a7 ll-1910(a) (emphasis added).\n. For the reasons stated in Gause I, supra\u2014 which we subsequently vacated in toto, see 968 A.2d 1032 \u2014 we hereby reaffirm and adopt the panel\u2019s conclusions about Wilkey's other contentions. 959 A.2d at 688 n. 17.\n. We note that our colleagues in the minority have prepared a strongly-worded dissent. From our perspective, our contrasting positions in this case derive from one critical difference in opinion. We determine that depriving District of Columbia litigants of an \"unqualified right\u201d that they have enjoyed for over forty years, without specific congressional direction to that effect, constitutes a \"radical departure from past practice\u201d that, pursuant to Jones, 526 U.S. at 234, 119 S.Ct. 1215, and Wilson, 290 F.3d at 360, precludes this court from following the canon of statutory interpretation that our dissenting colleagues would have us follow. Our colleagues in the minority disagree.",
+        "type": "majority",
+        "author": "BLACKBURNE-RIGSBY, Associate Judge:"
+      },
+      {
+        "text": "SCHWELB, Senior Judge,\nwith whom WASHINGTON, Chief Judge, and KRAMER and THOMPSON, Associate Judges, join, dissenting:\nThe judges who join in this dissenting opinion adhere to or generally agree with the opinion of the division majority in Gause v. United States, 959 A.2d 671 (D.C.2008) (Gause I). We therefore respectfully dissent from the decision of the en banc court.\nI.\nThe issue which divides the court is whether Gause and Wilkey are required to make a very modest threshold showing, i.e., reasonable belief or suspicion that a violation of the DCJSA may have occurred, before being granted discovery of, and access to, confidential records and documents to which the general public has no access, and before being authorized to take the depositions of court officials. All of the members of the court appear to agree that the proper resolution of that issue turns on the similarities and dissimilarities between the FJSSA and the DCJSA. The FJSSA applied to the Superior Court, as well as to the United States District Courts, until the enactment in 1986 of the DCJSA, which now governs local prosecutions.\nThe principal and, in our view, disposi-tive difference between the two statutes is that the FJSSA contains two provisions which explicitly accord a criminal defendant or other litigant who is preparing to file a motion to challenge the composition of the jury pool the right to discover, and to present in support of the motion, otherwise confidential or non-public information relating to jury selection. Specifically, the provision of the FJSSA dealing with discovery states that \u201c[t]he parties in a case shall be allowed to inspect, reproduce and copy such records or papers at all reasonable times during the preparation and pen-dency of such a motion.\u201d 28 U.S.C. \u00a7 1867(f). The FJSSA also provides that where such a motion has been filed (together with a supporting sworn statement),\nthe moving party shall be entitled to present in support of such motion the testimony of the jury commission[er] or clerk, if available, any relevant records and papers not public or otherwise available used by the jury commissioner or clerk, and any other relevant evidence.\n28 U.S.C. \u00a7 1867(d). In other words, \u00a7 1867(f) provides without qualification for the inspection and copying, by a party seeking to challenge selection procedures relating to the jury pool, of relevant but otherwise confidential records and documents, and \u00a7 1867(d) accords that party the right to present, in support of his or her challenge, \u201cany relevant records and papers not public or otherwise available.\u201d Thus, in prosecutions in the United States District Courts, the \u201cshall be allowed to inspect\u201d language in \u00a7 1867(f) and the \u201cshall be entitled to present\u201d language in \u00a7 1867(d) establish the unqualified right of parties proposing to make such a jury selection challenge, but not of other members of the public, to have access to and use of confidential jury records not otherwise subject to public scrutiny.\nIn Test v. United States, 420 U.S. 28, 30, 95 S.Ct. 749, 42 L.Ed.2d 786 (1975) (per curiam), the Supreme Court held unequivocally that such an unqualified right exists under the FJSSA. But notwithstanding similarities between other parts of the FJSSA and the DCJSA, no provision comparable either to \u00a7 1867(f) or to the relevant portion of \u00a7 1867(d) was included in the DCJSA which, as we have noted, supplanted the earlier-enacted FJSSA as the statute governing jury selection in the Superior Court.\nAs the division majority explained in Gause I, 959 A.2d at 682-83, citing ample authority, a change in the language of a predecessor statute creates a strong presumption that the legislature intended a change in result. \u201cIf words used in a prior statute to express a certain meaning are omitted, it will be presumed that a change of meaning was intended.\u201d Id. at 682 (quoting Chertkof v. United States, 676 F.2d 984, 988 (4th Cir.1982)) (quoting 2A C. Dallas Sands, Sutherland Statutory Construction \u00a7 51.02 (1973)); United States v. Brown, 422 A.2d 1281, 1284 (D.C.1980). \u201cWhere the words of a later statute differ from those of a previous one on the same or [a] related subject, the Congress must have intended them to have a different meaning.\u201d Muscogee (Creek) Nation v. Hodel, 271 U.S.App.D.C. 212, 217, 851 F.2d 1439, 1444 (1988), cert. denied, 488 U.S. 1010, 109 S.Ct. 795, 102 L.Ed.2d 786 (1989) (citing Klein v. Republic Steel Corp., 435 F.2d 762, 765-66 (3d Cir.1970)); see also United States v. Wilson, 351 U.S.App.D.C. 261, 274, 290 F.3d 347, 360, cert. denied, 537 U.S. 1028, 123 S.Ct. 581, 154 L.Ed.2d 442 (2002) (quoting Muscogee Creek Nation ).\nIn this case, the provisions that were omitted from the DCJSA contain the very language of the FJSSA \u2014 \u201cshall be allowed to inspect\u201d in 28 U.S.C. \u00a7 1867(f) and \u201cshall be entitled to present\u201d \u00a7 1867(d)\u2014 that unambiguously grants to criminal defendants and other litigants in the federal courts, and formerly granted to litigants in the Superior Court, the right to the relief that Gause and Wilkey seek here, namely, unconditional access in discovery, without any threshold showing, to otherwise confidential records and documents, and the use of such non-public materials in support of a motion challenging the selection of the jury pool. Thus, in Test, 420 U.S. at 30, 95 5.Ct. 749, the Supreme Court stated that an unqualified right to inspection is required, inter alia, \u201cby the plain text of the [federal] statute.\u201d The District\u2019s statute, however, does not include this dispositive \u201cplain text.\u201d Thus, in the FJSSA Congress explicitly authorized discovery and disclosure of otherwise confidential information, with no prior threshold showing being required. In the DCJSA, by contrast, Congress did not.\nOur colleagues in the en banc majority do not really come to grips with the \u201cchange in meaning\u201d canon of construction on which the division relied in Gause I and on which we rely here, nor do they explain why the sensible principles underlying that canon should not apply in this case. One searches the majority opinion in vain for citation of any authority rejecting this familiar aid to construction or limiting its applicability in any way that is relevant here. According to the majority, the division\u2019s application to this record of the proposition that changes in statutory language indicate a change in the meaning of the statute \u201cis too great a leap.\u201d The opinion does not tell us, however, why the division\u2019s supposed \u201cleap\u201d \u2014 actually, the application of a long-standing and uncontroversial canon of statutory construction, consistent with the dictates of common sense \u2014 was less persuasive than the reasoning of the various courts in any of the numerous cases in which that, canon has been routinely applied.\nWe are all entitled to our own opinions, but not to our own facts. The critical fact here is that the language in two separate subsections, which explicitly created the unqualified right under the FJSSA to access to non-public records, and which applied to the District prior to the enactment of the DCJSA, was omitted from the statute which now governs jury selection procedures in the Superior Court. These omissions must have been either intentional or accidental. If the changes were made intentionally, then it cannot be plausibly argued, insofar as the unqualified right of inspection of non-public records is concerned, that the two statutes \u2014 one containing dispositive language and one from which that language was deliberately omitted \u2014 were intended to mean the same thing and to achieve the same result. Congress cannot be supposed to have believed that it could ensure the reaffirmance of a desired outcome by deliberately leaving out the very language that unambiguously required that result. To put it more directly, if you want a rule to remain the same, you do not tinker with the provisions that state that rule, and you most assuredly do not eliminate those provisions.\nThe majority notes that there is no pertinent legislative history and perhaps (we are not sure) implies, without expressly saying so, that the omission of the key language in the FJSSA was inadvertent and that Congress must have made a mistake. But surely this court may not simply assume that provisions which, had they been retained, would have left no doubt as to the proper disposition of the issue before us, were left out of the DCJSA by accident, and that nobody involved in drafting the DCJSA noticed the omissions before the Act became law. Legislators are human, and perfection being a rare commodity, the legislative process is not perfect. Nevertheless, absent some compelling evidence to the contrary, we should take it for granted that the drafters of the DCJSA read the statute before it was enacted, and that the elimination of FJSSA provisions granting criminal defendants and other parties, during the preparation or pendency of a motion pursuant to 28 U.S.C. \u00a7 1867, unqualified access to non-public records, without having to make any threshold showing, was intentional rather than inadvertent. There is therefore only one reasonable conclusion, namely, that the failure to include in the DCJSA the dispositive \u201cshall be allowed to inspect\u201d language of \u00a7 1867(f) and the \u201cshall be entitled to present\u201d language of \u00a7 1867(d), was deliberate, and that Congress did not intend to carry over to the new statute the very rule that would have remained in effect if that language had not been left out.\nII.\nBut, insists the en banc majority, even in the absence of the key FJSSA provisions which Congress omitted from the DCJSA, a party who has filed a motion challenging the composition of the jury pool has an unqualified right of access to non-public records on the basis of what the majority insists is the \u201clanguage\u201d \u2014 presumably, the plain language \u2014 of the DCJSA. The majority cites D.C.Code \u00a7 ll-1914(b), which, it says, \u201cbespeaks an intent of Congress to exclude any other predicate showing of relevance or justification for the inspection that the statute clearly contemplates.\u201d We do not agree.\nAt least in our view, the notion that the result reached by the en banc majority is supported by the language of the statute, let alone a \u201cplain reading\u201d of that language, is altogether untenable. This is so because Congress omitted from the DCJSA the very provisions of the FJSSA that explicitly created, for parties seeking to challenge the composition of the jury pool, the unqualified right to inspection and use of otherwise non-public material to which Gause and Wilkey claim to be unconditionally entitled notwithstanding these omissions. If two consistent provisions unambiguously directing a particular result are left out of or stricken from a statute, the legislature is not \u201cplainly\u201d (or at all) indicating that it wishes to adhere to the prior result. On the contrary, the opposite is true.\nA simple hypothetical illustrates our point. If our Constitution were amended to retain most of the provisions of the Bill of Rights, but to leave out the Second Amendment, it would surely be difficult to argue that the right to bear arms continues to receive constitutional protection under some other Amendment. The same is true here. The majority\u2019s approach suggests that notwithstanding the presumptively purposeful omission of the \u201cshall be allowed to inspect\u201d language of \u00a7 1867(f) and the \u201cshall be entitled to present\u201d language of \u00a7 1867(d) from the later-enacted DCJSA, the spirit of the omitted provisions is so unquenchable that it not only survives their elimination by Congress, but that it also remains in effect \u2014 and remains in effect unambiguously \u2014 in a new statute in which the key provisions of \u00a7 1867(f) and \u00a7 1867(d) could so readily have been included, but from which Congress excluded them instead. A chain is only as strong as its weakest link, and we suggest that this link in the en banc majority\u2019s chain is less than sturdy.\nSection ll-1914(b) of the DCJSA, on which the majority relies, provides that\n[t]he contents of any records or lists used in connection with the selection process shall not be disclosed, except in connection with the preparation or presentation of a motion under \u00a7 11-1910, or until all individuals selected to serve as grand or petit jurors from such list have been discharged.\nAs the division explained in Game I, 959 A.2d at 685 n. 10,\nThis provision authorizes disclosure of otherwise non-public records, but it does not purport to prescribe a standard governing such disclosure, nor does it state or even suggest (hat no [threshold] showing need be made. Indeed, in our view, the very title of the provision is inconsistent with the meaning that our [dissenting] colleague seeks to attribute to it.\nThe disagreement between the en banc majority and the dissenters appears to turn on whether it is the \u201cshall be allowed to inspect\u201d language \u00a7 1867(f) and of the \u201cshall be entitled to present\u201d language of \u00a7 1867(d), both of which phrases were omitted from the DCJSA, or the language of D.C.Code \u00a7 ll-1914(b), which is in the District\u2019s statute, that illuminates the intent of Congress regarding whether a party must make any threshold showing in order to secure discovery of and access to otherwise confidential records and documents. On its face, \u00a7 ll-1914(b) appears to have nothing at all to do with the subject of this disagreement. It provides that non-public records may be disclosed \u201cin connection with the preparation of a motion under \u00a7 11-1910,\u201d but it gives us no clue as to what, if any, threshold showing is required. Compared with \u00a7\u00a7 1867(f) and (d), which deal with the issue explicitly and unambiguously and provide for unconditional access and use, \u00a7 ll-1914(b) has to be stretched well beyond its language if it is to be viewed as negating the requirement of any threshold showing.\nPerhaps it could plausibly be argued that \u00a7 ll-1914(b) is ambiguous as to the requirement (or lack thereof) of a threshold showing, and that (but for the omission from the DCJSA of the language of the FJSSA), one reasonable reading of \u00a7 11-1914(b) would be that it means what the majority says it means. But the majority asserts that under a literal reading of \u00a7 ll-1914(b), no threshold showing at all is required in order for parties to be entitled to inspect and present otherwise confidential records to which other citizens are denied access. That claim is pressed by the majority even though (1) on its face \u00a7 11-1914 does not say anything at all regarding what, if any, showing must be made; (2) other jurisdictions require a threshold showing; and (3) the provisions of the federal statute entitling parties to unqualified access were left out of the otherwise similar DCJSA. To recognize that Congress must have had legitimate reasons, e.g., the protection of juror privacy, for making these records and documents unavailable to the general public is to state the obvious. In the absence of an explicit overruling or abandonment by Congress of such considerations, it is unreasonable to suppose that these protections may be disregarded with no threshold showing whatever.\nIII.\nThe en banc majority further states that if the omission of this one sentence [in 28 U.S.C. \u00a7\u00a7 1867(f) and (d) ] is thought to be so telling, so too must the legislature\u2019s failure to include anything in the DCJSA defining (or even mentioning) this new threshold showing requirement that our dissenting colleagues would impose solely by implication.\nThis passage compares apples with oranges and misapprehends the division\u2019s holding and the position of the dissenting judges. What the majority calls the \u201cnew threshold showing requirement\u201d adopted by the division does not \u201cimpose a result\u201d by implication at all. On the contrary, the division was required to establish a standard because the legislature did not prescribe one and, indeed, excluded from the DCJSA the language in the federal statute that resolved the issue for the United States District Courts. Rather, it is the majority that \u201cimposes a result\u201d by treating as inconsequential the critical fact that the language which required that outcome in the FJSSA has been left out of the DCJSA.\nWhere, as in this case, the legislature has changed or omitted language in a prior statute, the most reasonable inference from this course of events is that the meaning of the new statute is different from the meaning of the previous one. That, as we have demonstrated, is the significance of the exclusion from the DCJSA of the key language in \u00a7 1867(f) and \u00a7 1867(d). Congressional silence as to whether or not a threshold showing must be made, on the other hand, does not give rise to a comparable inference, and it raises an entirely different kind of question. A legislature\u2019s failure to specify a particular standard is not, and cannot reasonably be construed as, a determination as to what standard applies. In other words, if Congress does not say, one way or the other, whether any threshold showing must be made, its silence does not support the conclusion that parties seeking to challenge the composition of the jury pool continue to have automatic and unqualified access to confidential jury selection records, unavailable to anyone else, notwithstanding the omission of provisions from a prior statute that gave them such an unqualified right, but which are no longer in effect. Rather, where, as here, Congress has not explicitly addressed the subject, but has declined to retain the dispositive language contained in the predecessor statute, the court must heed all relevant indications of Congressional intent. The \u201cchange in meaning\u201d canon is one of those indications, and in this case, an especially persuasive one.\nFor the reasons previously stated, the most reasonable construction of a statute from which the \u201cshall be allowed inspect\u201d language of \u00a7 1867(f) and the \u201cshall be entitled to present\u201d language of \u00a7 1867(d) have been eliminated is that the unqualified right previously granted only to criminal defendants and other litigants now no longer exists under the DCJSA. Further, as a common law court addressing a question not previously d\u00e9cided in this jurisdiction, we may appropriately look to the decisions of the courts of other jurisdictions which have been confronted with similar issues. See, e.g., In re Estate of McKeever, 361 A.2d 166, 171 (D.C.1976).\nIn this connection, the decision of the Supreme Court of California in People v. Jackson, 13 Cal.4th 1164, 56 Cal.Rptr.2d 49, 920 P.2d 1254 (1996), cert. denied, 520 U.S. 1216, 117 S.Ct. 1705, 137 L.Ed.2d 830 (1997), merits our careful consideration. Although not mentioned by the court in Jackson, California\u2019s Trial Jury Selection and Management Act reflects a policy substantially equivalent to that of the DCJSA. It provides that \u201call persons selected for jury service shall be selected at random from the population of the area served by the court[,]\u201d and that \u201call qualified persons have an equal opportunity ... to be considered for jury service[.]\u201d Cal.Civ.ProC. Code \u00a7 191. Like the DCJSA, however, the California statute contains no provision comparable to \u00a7 1867(f) and \u00a7 1867(d). In the absence of such provisions, the court held in Jackson that although the defendant need not establish a prima facie violation of. the statute in order to obtain discovery of non-public jury selection materials, a threshold \u201creasonable belief\u2019 showing is required. Id. at 1268. The court reached this conclusion even though there was no prior California statute which contained language such as that in the FJSSA, so that the \u201cchange in meaning\u201d canon on which the division relied in Gause I, and on which we rely in this dissenting opinion, did not come into play. Accordingly, the reasoning of the Supreme Court of California in Jackson applies to this case a fortiori.\nThe en banc majority gratuitously criticizes the \u201creasonable belief\u2019 standard adopted by California\u2019s highest court as \u201cconfusingly vague,\u201d but cites no authority whatever in support of its criticism. The government, on the other hand, has invited our attention to a number of decisions from various jurisdictions in which the courts have taken an approach similar to that of the Supreme Court of California in Jackson (and of the division in Gause I). See, e.g., Rojas v. State, 288 So.2d 234, 237 (Fla.1973); State v. Avcollie, 188 Conn. 626, 453 A.2d 418, 423 (1982); cert. denied, 461 U.S. 928, 103 S.Ct. 2088, 77 L.Ed.2d 299 (1983); Pimentel v. State, 710 S.W.2d 764, 777-78 (Tex.Ct.App.1986). In our view, these decisions constitute persuasive authority for the standard adopted by the division in Game I, and our en banc court should adopt that standard.\nIY.\nFor the foregoing reasons, we respectfully dissent.\n. Judges Thompson and Schwelb.\n. Chief Judge Washington and Judge Kramer.\n. In order to place the discussion that follows \u2019 in context, the reader should be apprised that the evidence of the defendants\u2019 guilt was overwhelming; that the fourteen jurors and alternates included seven blacks and one black Latina; that, in raising their jury selection challenge, defendants cited a report about statistically significant underrepresentation of blacks in Monday jury venires and a report attributing that result to the impact of the jury office\u2019s practice of rescheduling to Mondays individuals who responded to jury summonses by requesting that their one-day-or-one-trial jury service be deferred; and that defendants\u2019 jury was not selected on a Monday, but on a Tuesday. Id. at 675-77.\n. Interestingly, the majority criticizes the dissent both for allegedly exaggerating the similarities between the two statutes, maj. op. at note 7 (dissent \"might lead one to assume that the FJSSA and the DCJSA are mirror images of each other but for the \u2018shall be allowed to inspect\u2019 ... and the 'shall be entitled to present\u2019 \u201d language) and, conversely, for a supposed failure to accord sufficient recognition and significance to the similarities between the two. (\"dissent does not adequately explain why a federal statute and [the DCJSA] \u2014 with virtually identical stated purposes \u2014 should not be interpreted consistently\").\n. To be sure, \"Congress is unlikely to intend any radical departures from past practice without making a point of saying so.\" Jones v. United States, 526 U.S. 227, 234, 119 S.Ct. 1215, 143 L.Ed.2d 311 (1999); Wilson, 351 U.S.App.D.C. at 274, 290 F.3d at 360 (quoting Jones). But in Jones, the proposed reading of the statute would have contravened the familiar rule that \"where a statute is susceptible of two constructions, by one of which grave and doubtful constitutional questions arise and by the other of which such questions are avoided, this Court's duty is to adopt the latter.\" 526 U.S. at 239, 119 S.Ct. 1215. In Wilson, the construction of the new statute urged upon the court would, for no discernible reason, have changed \"the established practice for appointing members of the Commission on Civil Rights.\u201d 351 U.S.App.D.C. at 274, 290 F.3d at 360. These would have been truly unexplained \"radical departures.\u201d By contrast, in the context of the entire statute, the modest alteration in the DCJSA of the FJSSA\u2019s discovery provisions cannot fairly be so characterized.\n. The Court in Test further stated that the result reached was also required by \"the statute\u2019s overall purpose of insuring grand and petit juries selected at random from a fair cross-section of the community.\u201d Id. at 30, 95 S.Ct. 749 (citation and internal quotation marks omitted). The significance of this language, for purposes of this case, is discussed in detail in Gause I, 959 A.2d at 683-84, and we adopt that discussion without repeating it.\n. According to the majority, the \"change in meaning\u201d canon of construction should not be invoked here because there is a substantive difference between the threshold showing imposed by the trial judge and the less demanding one articulated by the division. Specifically, the trial judge (who did not discuss the canon at all) required a showing of a prima facie case, while the division, following rulings by the highest courts of California and Florida, held that a reasonable suspicion standard was appropriate.\nWith due respect, the majority's argument is based on a complete non-sequitur. A difference of opinion between the division and the trial judge, in articulating the specific threshold showing that a moving defendant should be required to make, has nothing whatever to do with the question of statutory construction before us, namely, whether the omission from the DCJSA of the \"shall be allowed to inspect\u201d language in \u00a7 1867(f) and of the \"shall be entitled to present\" language in \u00a7 1867(d) discloses an intent on the part of Congress to depart from the federal statute\u2019s standard.\n. The majority eschews the explicit use of the phrase \"plain language,\u201d but it says that there is no \"plain reading\u201d of the statute other than its own.\n. The title of \u00a7 11-1914 is \u201cPreservation of Records\u201d \u2014 language which does not immediately bring to mind \"threshold showing\u201d issues. By way of contrast, \u00a7 1867(f) and \u00a7 1867(d) are contained in a provision of the FJSSA entitled \"Challenging compliance with selection procedures.\u201d The question whether a threshold showing is required fits more logically into a provision about \"challenging compliance\u201d than it does into a section dealing with \"preservation of records.\u201d While such headings are not conclusive, they do provide some indication regarding what a particular provision is about.\nIn footnote 10 of its opinion and the related text, the court points out that \u00a7 11 \u2014 1914(b) (DCJSA) and \u00a7 1867(f) (FJSSA) both contain general prohibitions against disclosure of confidential jury information and that each provision contemplates an exception in relation to motions challenging the composition of the jury list. These non-substantive similarities, however, simply emphasize the critical and dispositive differences, namely that the FJSSA expressly creates an unqualified right to inspect and present, while the DCJSA does not.\n. In asserting that in the foregoing sentence, \"the dissent undermines its own reasoning that nothing in a section entitled 'preservation of records\u2019 could be relevant [to the issue at hand],\" the majority constructs a straw man and proceeds to knock the unfortunate fellow down. As we have noted in footnote 9, supra, a provision governing the requirement vel non of a threshold requirement fits more logically under a heading relating to challenges to selection procedures than it does under the title \"Preservation of Records.\u201d This does not mean that the \"Preservation of Records\u201d provision cannot recognize that an exception exists, but still leave it to other provisions of the statute, or where necessary to the court, to define the extent of that exception and the showing that must be made.\n. See Part III, infra.\n. According to the court, \u201cthe dissent reads too much into the absence of a few words.\u201d Those \"few words,\u201d however, are the ones (in two separate subsections of \u00a7 1867) that address and resolve the issue before us, and their \"absence\u201d (a word apparently used by the majority, in place of \"omission,\" to imply that the change may not have been deliberate) therefore makes all the difference in the world.\n. The majority does not, and indeed cannot, explain why a \"reasonable suspicion\u201d or \"reasonable belief\u201d standard is sufficiently definite to support a significant temporary deprivation of personal liberty, see Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968), but too vague to enable the trial court to resolve a request for discovery.\n. Part II. C of the majority opinion deals primarily with contingencies that may or may not arise in the future (e.g., what juror-related facts may be relevant, when a protective order may be appropriate, whether attorneys\u2019 eyes only restrictions may be imposed), but which have not been raised by any party in this appeal. Indeed, the evidence in this case, and the facts relating to the selection of the jury that convicted the appellants, are conspicuous in their absence from the opinion of the court, which treats the issue before us as a somewhat abstract one, replete with advisory \"guidance\u201d for the Superior Court and counsel. In any event, we think it premature for a court, and especially for a sharply divided court, to ruminate in advance regarding issues that may or may not be presented in the future. See, e.g., Allen v. United States, 603 A.2d 1219, 1228-29 n. 20 (D.C.1992) (en banc); District of Columbia v. Wical Ltd. P\u2019ship, 630 A.2d 174, 181-82 (D.C.1993); Gause I, 959 A.2d at 687 n. 16. We also think that the majority\u2019s foray into advisory guidance about the trial court\u2019s authority to order disclosure of jury records incrementally \u2014 i.e., only as necessary \u2014 is really a retreat from the \u201cunqualified right to all relevant jury records\u201d standard that the majority insists on importing into the DCJSA.",
+        "type": "dissent",
+        "author": "SCHWELB, Senior Judge,"
+      }
+    ],
+    "attorneys": [
+      "Mikel-Meredith Weidman, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant Larry A. Gause.",
+      "Peter H. Meyers, appointed by the court, for appellant Karlepa Wilkey.",
+      "Mary B. McCord, Assistant United States Attorney, with whom Channing D. Phillips, Acting United States Attorney at the time the brief was filed, and Roy W. McLeese III, Assistant United States Attorney, were on the brief, for appellee.",
+      "Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, Rosalyn Carlbert Groce and Donna M. Murasky, Deputy Solicitors General, were on the brief for the District of Columbia as amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "Larry A. GAUSE and Karlepa Wilkey, Appellants, v. UNITED STATES, Appellee.\nNos. 06-CF-20, 06-CF-47.\nDistrict of Columbia Court of Appeals.\nArgued En Banc Sept. 15, 2009.\nDecided Nov. 4, 2010.\nMikel-Meredith Weidman, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant Larry A. Gause.\nPeter H. Meyers, appointed by the court, for appellant Karlepa Wilkey.\nMary B. McCord, Assistant United States Attorney, with whom Channing D. Phillips, Acting United States Attorney at the time the brief was filed, and Roy W. McLeese III, Assistant United States Attorney, were on the brief, for appellee.\nPeter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, Rosalyn Carlbert Groce and Donna M. Murasky, Deputy Solicitors General, were on the brief for the District of Columbia as amicus curiae.\nBefore WASHINGTON, Chief Judge, and RUIZ, REID, GLICKMAN, KRAMER, BLACKBURNE-RIGSBY, THOMPSON, and OBERLY, Associate Judges, and SCHWELB, Senior Judge."
+  },
+  "file_name": "1247-01",
+  "first_page_order": 1293,
+  "last_page_order": 1312
+}

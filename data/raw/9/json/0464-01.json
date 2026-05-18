@@ -1,0 +1,287 @@
+{
+  "id": 7284602,
+  "name": "Gerry J. MOTT, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Mott v. State",
+  "decision_date": "2010-11-22",
+  "docket_number": "No. 450, 2009",
+  "first_page": "464",
+  "last_page": "467",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 464"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "209 A.2d 895",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "898"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 A.2d 660",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 L.Ed.2d 161",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 236",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "479 U.S. 869",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6417474,
+        6416588,
+        6416780,
+        6416878,
+        6417679,
+        6416492,
+        6417230,
+        6416381,
+        6416691,
+        6416147,
+        6417332,
+        6416250,
+        6417021,
+        6417119
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0869-13",
+        "/us/479/0869-05",
+        "/us/479/0869-07",
+        "/us/479/0869-08",
+        "/us/479/0869-14",
+        "/us/479/0869-04",
+        "/us/479/0869-11",
+        "/us/479/0869-03",
+        "/us/479/0869-06",
+        "/us/479/0869-01",
+        "/us/479/0869-12",
+        "/us/479/0869-02",
+        "/us/479/0869-09",
+        "/us/479/0869-10"
+      ]
+    },
+    {
+      "cite": "504 A.2d 1096",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11936107
+      ],
+      "pin_cites": [
+        {
+          "page": "1100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/504/1096-01"
+      ]
+    },
+    {
+      "cite": "2008 WL 2429114",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "980 A.2d 1007",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7296482
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1010"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/1007-01"
+      ]
+    },
+    {
+      "cite": "462 A.2d 1088",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7968572
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1092"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/462/1088-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 625",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11723176
+      ],
+      "weight": 4,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "635",
+          "parenthetical": "Douglas, J. concurring"
+        },
+        {
+          "parenthetical": "Douglas, J. concurring"
+        },
+        {
+          "parenthetical": "Douglas, J. concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0625-01"
+      ]
+    },
+    {
+      "cite": "110 U.S. 516",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3503887
+      ],
+      "weight": 3,
+      "year": 1884,
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/110/0516-01"
+      ]
+    },
+    {
+      "cite": "711 A.2d 18",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11813592
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "26"
+        },
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/711/0018-01"
+      ]
+    },
+    {
+      "cite": "335 A.2d 277",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8062748
+      ],
+      "pin_cites": [
+        {
+          "page": "281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/335/0277-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 506,
+    "char_count": 9168,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 4.1178591890016785e-08,
+      "percentile": 0.2668041650304709
+    },
+    "sha256": "94a9d796bfc566147cd6760553c8a539b09d15edc36ee08a15366b65c6373705",
+    "simhash": "1:1817e782ebdce119",
+    "word_count": 1496
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HOLLAND, BERGER and RIDGELY, Justices."
+    ],
+    "parties": [
+      "Gerry J. MOTT, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HOLLAND, Justice:\nThe defendant-appellant, Gerry J. Mott (\u201cMott\u201d), appeals from his Superior Court judgment of conviction for feloniously committing New Home Construction Fraud. Mott contends that the indictment returned against him was fatally defective because it failed to allege the amount of loss associated with the charge. Mott argues that his right to prosecution by indictment under Article I, Section 8 of the Delaware Constitution was violated because, in failing to provide the amount of loss associated with Mott\u2019s alleged fraud, the indictment omitted an essential element of the crime of New Home Construction Fraud.\nWe have concluded that Mott has not demonstrated plain error. Therefore, the judgment of the Superior Court must be affirmed.\nRelevant Statutes\nSection 917 (b) of title 11, which prohibits New Home Construction Fraud, provides:\nA person is guilty of new home construction fraud who, with the intent specified in \u00a7 841 of this title, enters into a new home construction contract and:\n(1) Uses or employs any false pretense or false promise as those acts are defined in \u00a7\u00a7 843 and 844 of this title; or\n(2) Receives payments and intentionally fails to use said payment or payments for the purpose or purposes identified in the new home construction contract and/or diverts said payment or payments to a use or uses other than the erection, installation or construction of the dwelling identified therein; or\n(3) Receives payment or payments and fails to provide that person\u2019s own true name or provides a false name, address or phone number of the business offering said new home construction services.\nSection 841 provides:\n(a) A person is guilty of theft when the person takes, exercises control over or obtains the property of another person intending to deprive that person of it or appropriate it. Theft includes the acts described in this section, as well as those described in \u00a7\u00a7 841A-846 of this title.\n(b) A person is guilty of theft if the person, in any capacity, legally receives, takes, exercises control over or obtains property of another which is the subject of theft, and fraudulently converts same to the person\u2019s own use.\nIndictment and Challenge\nFor more than two hundred years Delaware\u2019s Constitutions have afforded its citizens the right of being proceeded against in a felony criminal prosecution only upon an indictment by the grand jury. The Fifth Amendment provisions relating to the grand jury have always been binding upon the federal courts. The United States Supreme Court has never held, however, that the Fifth Amendment concepts of a \u201cgrand jury\u201d are applicable to the states by virtue of the Fourteenth Amendment incorporation doctrine. Therefore, Mott\u2019s challenge to the Superi- or Court\u2019s indictment is based exclusively upon the grand jury protections in the Delaware Constitution.\nAn indictment serves at least two purposes: to put the accused on notice of the charges he or she must defend; and to avoid subsequent prosecution for the same offense. \u201cThese purposes are fulfilled if the indictment, as required by [Superior Court Criminal] Rule 7(c), contains a plain statement of the elements or essential facts of the crime.\u201d\nMott\u2019s indictment alleges:\nGERRY J. MOTT, between the 17th day of August, 2005 and the 17th day of August, 2006, in the County of Sussex, State of Delaware, did legally receive and exercise control over U.S. Currency provided by Joshua and Julia Littleton and fraudulently converted such property to his own use by receiving payment and intentionally failing to use such payments for purposes identified in the new construction contract and/or diverting said payments to uses other than the construction of the dwelling, in violation of Title 11, Section 917 of the Delaware Code.\nMott contends that the indictment was fatally defective because, he alleges, it \u201comits an essential element necessary to charge the offense as a class G felony,\u201d that is, the dollar amount of the crime. Mott argues that the dollar amounts are \u201cresults\u201d that constitute the \u201celements of the offense\u201d as defined in section 232 of title 11. Section 232 states:\n\u201cElements of an offense\u201d are those physical acts, attendant circumstances, results and states of mind which are specifically included in the definition of the offense or, if the definition is incomplete, those states of mind which are supplied by the general provisions of the Criminal Code.\nThe dollar amounts of section 917(c), however, are not \u201cspecifically included within the definition of the offense,\u201d which is defined in section 917(b) with reference to section 841.\nStandard of Review\nThe issue before this Court is whether the lack of a dollar amount in the indictment alleging New Home Construction Fraud failed to place Mott on adequate notice of the charges against him. Mott never raised his claim that the indictment was defective in the Superior Court. Therefore, that issue will only be reviewed on appeal for plain error. \u201cPlain error is limited to material effects which are apparent on the face of the record; which are basic, serious and fundamental in their character, and which clearly deprive an accused of a substantial right, or which clearly show manifest injustice.\u201d\nTracks Statutory Language\nIn Zugehoer v. State, this Court considered a challenge to an indictment for Home Improvement Fraud, where the defendant alleged for the first time on appeal that he was improperly charged with the intent required in section 841(b) rather than 841(a). The Court held that there was no plain error because:\nThe indictment tracked the statutory language of Section 916(b)(4) and alleged the requisite intent under Section 841(a). Therefore, the indictment gave [the defendant] proper notice of the charges against him and properly stated the charges and intent under the statute.\nMott\u2019s indictment included all of the elements of New Home Construction Fraud. Mott\u2019s indictment tracked the statutory language of sections 841(b) and 917(b)(2). Section 841(b) prohibits legally receiving and exercising control over another\u2019s property (here, \u201cU.S. Currency\u201d) and fraudulently converting it. Section 917(b)(2) prohibits receiving payments under a new construction contract and failing to use the payments for the reasons identified in the contract and/or diverting the payments to a use other than construction of the dwelling. We hold that it was not plain error for the indictment to omit the dollar amounts that were not included in the definition of the offense.\nNo Manifest Injustice\nNew Home Construction Fraud is a class G felony where \u201c[t]he loss to the home buyer is at least $1,000 but less than $50,000.\u201d The record reflects that Mott was aware he faced a felony offense. First, he was charged by indictment, which generally is sought only for felonies. Second, the felony charge is included in the criminal history, which was provided to him by the State in discovery. Third, Mott\u2019s jury was properly instructed on the elements of the felony charge. The jury was instructed that it must find a loss of at least $1,000 to convict Mott. The jury found Mott guilty and the Superior Court immediately sentenced him for the class G felony. The record reflects no manifest injustice.\nConclusion\nThe judgment of the Superior Court is affirmed.\n. Del.Code Ann. tit. 11, \u00a7 917(b).\n. Del.Code Ann. tit. 11, \u00a7 841(2006). Section 841 was drafted broadly to encompass multiple forms of common law theft and more. See State v. Shahan, 335 A.2d 277, 281 (Del.Super.Ct.1975) (\u201cThe Model Penal Code from which many of the provisions of the Delaware Criminal Code were drawn, undertook to combine under the heading of 'theft' the variations of larceny and embezzlement.\u201d).\n. Johnson v. State, 711 A.2d 18, 26 (Del.1998).\n. Id. at 23.\n. Id. (citing Hurtado v. California, 110 U.S. 516, 538, 4 S.Ct. 111, 28 L.Ed. 232 (1884), Alexander v. Louisiana, 405 U.S. 625, 635, 92 S.Ct. 1221, 31 L.Ed.2d 536 (1972) (Douglas, J. concurring)).\n. See id.\n. Malloy v. State, 462 A.2d 1088, 1092 (Del.1983).\n. Id.\n. Zugehoer v. State, 980 A.2d 1007, 1010 (Del.2009) (citing Malin v. State, 2008 WL 2429114, at *2 (Del. June 17, 2008)); Supr. Ct. R. 8.\n. Wainwright v. State, 504 A.2d 1096, 1100 (Del.1986), cert. denied, 479 U.S. 869, 107 S.Ct. 236, 93 L.Ed.2d 161 (1986).\n. Zugehoer v. State, 980 A.2d 1007 (Del.2009).\n. Del.Code Ann. tit 11, \u00a7 916(b).\n. Zugehoer v. State, 980 A.2d at 1011 (citing State v. Deedon, 189 A.2d 660 (Del.1963)).\n. Del.Code Ann. tit. 11, \u00a7\u00a7 841(b), 917(b)(2).\n. Del.Code Ann. tit. 11, \u00a7 917(d)(1).\n. See Halko v. State, 209 A.2d 895, 898 (Del.1965).\n. The Superior Court sentenced him to two years imprisonment, immediately suspended for probation on the condition that Mott pay restitution.",
+        "type": "majority",
+        "author": "HOLLAND, Justice:"
+      }
+    ],
+    "attorneys": [
+      "James D. Nutter, Esquire, Mooney & Nutter, Georgetown, Delaware, for appellant.",
+      "Abby Adams, Esquire and Paul R. Wallace, Esquire, Department of Justice, Georgetown, Delaware, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Gerry J. MOTT, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 450, 2009.\nSupreme Court of Delaware.\nSubmitted: Oct. 18, 2010.\nDecided: Nov. 22, 2010.\nJames D. Nutter, Esquire, Mooney & Nutter, Georgetown, Delaware, for appellant.\nAbby Adams, Esquire and Paul R. Wallace, Esquire, Department of Justice, Georgetown, Delaware, for appellee.\nBefore HOLLAND, BERGER and RIDGELY, Justices."
+  },
+  "file_name": "0464-01",
+  "first_page_order": 486,
+  "last_page_order": 489
+}

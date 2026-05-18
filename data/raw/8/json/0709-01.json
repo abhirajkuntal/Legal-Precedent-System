@@ -1,0 +1,271 @@
+{
+  "id": 7287423,
+  "name": "Priscilla BAILLARGEON et al. v. ESTATE OF DOLORES A. DAIGLE",
+  "name_abbreviation": "Baillargeon v. Estate of Daigle",
+  "decision_date": "2010-11-30",
+  "docket_number": "",
+  "first_page": "709",
+  "last_page": "715",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 709"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "701 F.2d 1",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12121629
+      ],
+      "pin_cites": [
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/701/0001-01"
+      ]
+    },
+    {
+      "cite": "78 A. 980",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "982"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Me. 17",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        655445
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/108/0017-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 10",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291952
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/988/0977-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 17",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8164647
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0885-01"
+      ]
+    },
+    {
+      "cite": "543 A.2d 367",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11714125
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/543/0367-01"
+      ]
+    },
+    {
+      "cite": "665 A.2d 1020",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876998
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1022"
+        },
+        {
+          "page": "1022",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "parenthetical": "holding merger by deed prohibits reformation when one of the parties learns of a mistake before closing and still signs the deed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/665/1020-01"
+      ]
+    },
+    {
+      "cite": "629 A.2d 48",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357046
+      ],
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/629/0048-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 176",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8199093
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 25-26"
+        },
+        {
+          "page": "1146"
+        },
+        {
+          "page": "\u00b6 17"
+        },
+        {
+          "page": "1144"
+        },
+        {
+          "parenthetical": "determining that bank records and bank representative's testimony provided evi-dentiary support for court's finding that decedent was sole owner of bank accounts despite other evidence of joint ownership"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/960/1140-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 56",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7286618
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "349"
+        },
+        {
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/998/0342-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 731,
+    "char_count": 15893,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 1.3236087634732255e-07,
+      "percentile": 0.6272805866287957
+    },
+    "sha256": "2d43e7d7219912dbe2cfb3259e9572c381ab68644f6dfeae0e2d2e2c055837ed",
+    "simhash": "1:55fe19f7140f402a",
+    "word_count": 2648
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Priscilla BAILLARGEON et al. v. ESTATE OF DOLORES A. DAIGLE."
+    ],
+    "opinions": [
+      {
+        "text": "LEVY, J.\n[\u00b6 1] Roger G. Daigle, as personal representative of the Estate of his mother, Dolores A. Daigle, appeals from a partial summary judgment and judgment following a bench trial in the Superior Court (York County, Brennan, J.). Daigle contends that the court erred by concluding that (1) his claims pursuant to the Improvident Transfers of Title Act, 38 M.R.S. \u00a7\u00a7 1021-1025 (2009), were time barred; (2) the deed that conveyed property from his mother to Priscilla and Andre Baillar-geon was subject to reformation due to mutual mistake of fact; and (3) funds in joint accounts in the name of his mother and Priscilla Baillargeon passed to Priscilla through right of survivorship. We affirm the judgments.\nI. BACKGROUND\n[\u00b6 2] Roger Daigle is Dolores Daigle\u2019s son and the personal representative and residual beneficiary of Dolores\u2019s estate.\n[\u00b6 3] Priscilla Baillargeon and Dolores Daigle were sisters. Even though Dolores was fifteen years older than Priscilla, they had a close relationship. Dolores cared for Priscilla when she was young and Priscilla cared for Dolores when she became old and infirm. When Dolores began to need full-time assistance with her care, she moved into an assisted living facility in August 2000. She gave Priscilla her health care and financial powers of attorney.\n[\u00b6 4] On July 11, 2000, Dolores sold her house to Priscilla and Priscilla\u2019s husband, Andre, for $250,000. Before closing, Dolores and the Baillargeons executed a purchase and sale agreement that described the property as consisting of 9.69 acres, a residence, and outbuildings. The property described in the deed, however, consisted of approximately three acres of land and included only the residence.\n[\u00b6 5] In the summer of 2000, several joint accounts were created for Dolores and Priscilla. Dolores placed the proceeds from the sale of the house along with other cash assets into these accounts. Dolores and Priscilla agreed that the funds would be used to provide for Dolores\u2019s needs during her lifetime, including her living expenses at the assisted living facility. They also agreed that if the funds were expended during her lifetime, Priscilla would continue to meet Dolores\u2019s living expenses, and if they were not expended, any balance remaining in the accounts at Dolores\u2019s death would go to Priscilla. When Dolores died in January 2003, approximately $232,000 remained in the joint accounts.\n[\u00b6 6] Priscilla was originally named personal representative of Dolores\u2019s estate. Neither the real estate nor the proceeds from the sale of the real estate was listed as an asset of the Estate. In August 2004, Roger filed a petition for formal probate of Dolores\u2019s will and for the removal of Priscilla as personal representative, alleging a conflict of interest and a failure to provide an accounting and inventory of the Estate. After a hearing, the York County Probate Court (Nadeau, J.) removed Priscilla and appointed Roger as personal representative.\n[\u00b6 7] Thereafter, Priscilla filed a claim against the Estate for payment of attorney fees incurred in defending the petition to remove her as personal representative. In April 2007, Roger filed an answer and counterclaim in which he requested an accounting and inventory of the Estate during the time Priscilla was personal representative, and asserted, among other things, a counterclaim that property belonging to Dolores had been transferred to the Baillargeons in violation of the Improvident Transfers of Title Act, 33 M.R.S. \u00a7\u00a7 1021-1025.\n[\u00b6 8] In August 2007, the Baillargeons filed a complaint in the Superior Court for reformation of the deed to include the entire 9.69 acre parcel on the ground that the parties had operated under a mutual mistake of fact when they transferred only three acres. Thereafter, the Probate Court action was removed to the Superior Court and consolidated with the action to-reform the deed. The Baillargeons filed a motion for partial summary judgment in which they sought a determination that (1) the real estate conveyance was valid; (2) the funds contained in the joint accounts passed outside the Estate; and (3) Roger\u2019s counterclaim pursuant to the Improvident Transfers of Title Act was time-barred.\n[\u00b6 9] The court entered a partial summary judgment in favor of the Baillar-geons, determining that (1) the transfer of real estate on July 11, 2000, was valid; (2) the property contained in the joint accounts passed outside the Estate; and (3) Roger\u2019s counterclaim was barred by the applicable six-year statute of limitations, 33 M.R.S. \u00a7 1023(3) and 14 M.R.S. \u00a7 752 (2009).\n[\u00b6 10] The remaining claims proceeded to trial, after which the court determined by clear and convincing evidence that Dolores and the Baillargeons were mutually mistaken with respect to the real estate conveyed at the closing. The court found that Dolores intended to convey, and the Baillargeons intended to purchase, the entire 9.69 acre tract, and reformed the deed accordingly. The court also determined that Priscilla did not breach her fiduciary duty to Dolores by using funds in the joint accounts for her own benefit during Dolores\u2019s lifetime. Finally, the court denied Priscilla\u2019s claim for attorney fees in defending against the petition to remove her as personal representative. Roger timely filed this appeal.\nII. DISCUSSION\nA. Statute of Limitations\n[\u00b6 11] Roger contends that the trial court erred in entering a partial summary judgment in favor of the Baillar-geons on his counterclaim pursuant to the Improvident Transfers of Title Act on the ground that it was time-barred. He asserts that his answer and counterclaim filed in April 2007 relates back to his initial pleading filed in 2004 in the Probate Court, or alternatively, that the limitations period was tolled for the time that Priscilla remained personal representative of the Estate.\n[\u00b6 12] We review the entry of a summary judgment de novo, viewing the evidence in the light most favorable to the party against whom judgment has been entered \u201cto determine whether the parties\u2019 statements of material facts and the record evidence to which the statements refer demonstrate that there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law.\u201d Rainey v. Langen, 2010 ME 56, \u00b6 23, 998 A.2d 342, 349 (quotation marks omitted). \u201cA genuine issue exists when sufficient evidence supports a factual contest to require a factfinder to choose between competing versions of the truth at trial.\u201d Id. (quotation marks omitted).\n[\u00b6 13] The limitations period for asserting a claim under the Improvident Transfers of Title Act is six years. 33 M.R.S. \u00a7 1023(3); 14 M.R.S. \u00a7 752. It is undisputed that the underlying transactions on which the counterclaim is based\u2014 the real estate transfer and the establishment of the joint accounts \u2014 occurred in the summer of 2000. See Estate of Miller, 2008 ME 176, \u00b6\u00b6 25-26, 960 A.2d 1140, 1146 (noting cause of action under the Improvident Transfers of Title Act accrues at the time of the transfer of property). Roger\u2019s petition for formal probate and for removal of Priscilla as personal representative was filed in 2004, within the six-year period. Roger\u2019s answer and counterclaim under the Improvident Transfers of Title Act was filed in 2007, outside the six-year limitations period.\n[\u00b6 14] The relation-back doctrine embodied in M.R. Civ. P. 15(c)(2), applies to pleadings \u2014 including a complaint, answer, or counterclaim \u2014 that a party seeks to amend. Contrary to Roger\u2019s contention, the answer and counterclaim that he filed in 2007 is not an amended pleading that would relate back to his 2004 petition for formal probate and removal of the personal representative. See M.R. Civ. P. 15(c)(2). The answer and counterclaim was not styled as an amendment to Roger\u2019s 2004 petition; it was a separate pleading filed in response to Priscilla\u2019s claim for attorney fees. Even if Roger intended the answer and counterclaim to be treated as an amendment, he did not seek leave of court or obtain written consent of the adverse party to amend the petition for formal probate. See M.R. Civ. P. 15(a). The relation-back doctrine therefore does not apply.\nB. Reformation of the Deed\n[\u00b6 15] Roger next contends that the evidence supporting the finding that the parties operated under a mutual mistake of fact when transferring only three acres in the deed instead of the entire 9.69 acre parcel is unpersuasive and should have been disregarded by the court. He asserts that Priscilla\u2019s testimony that she was mistaken as to the property description in the deed was inherently incredible because Priscilla had worked in the real estate field for many years.\n[\u00b6 16] A party seeking to reform a deed must demonstrate mutual mistake of fact by clear and convincing evidence. Strout v. Gammon, 629 A.2d 48, 46 (Me.1993). \u201cA mutual mistake is one reciprocal and common to both parties, where each alike labors under the misconception in respect to the terms of the written instrument.\u201d Bryan v. Breyer, 665 A.2d 1020, 1022 (Me.1995) (quotation marks omitted). In an appeal from a trial court\u2019s factual finding when the burden of proof is clear and convincing evidence, we look to whether \u201cthe factfinder reasonably could have been persuaded that the required factual finding was or was not proved to be highly probable.\u201d Lietz v. Berry, 543 A.2d 367, 368 n. 1 (Me.1988). \u201c[T]he weight of evidence and credibility of witnesses are matters exclusively within the province of the factfinder.\u201d Estate of Fournier, 2009 ME 17, \u00b6 14, 966 A.2d 885, 889.\n[\u00b6 17] The trial court found that Dolores and the Baillargeons signed a purchase and sale agreement that explicitly described the property as consisting of 9.69 acres, including the residence and outbuildings, and that the attorney who prepared the deed did not have a copy of the purchase and sale agreement and likely worked from an earlier deed that contained only a description of the house lot. The court also found that Dolores intended to sell and the Baillargeons intended to purchase the entire 9.69 acre parcel described in the purchase and sale agreement. These findings have support in the record. Based on the evidence, the trial court could reasonably have been persuaded that it was highly probable that the parties operated under a mutual mistake as to the description in the deed.\n[\u00b6 18] Roger also argues that the doctrine of merger by deed prohibits reformation. \u201cThe doctrine of merger by deed provides that once a ... deed is accepted it becomes the final statement of the agreement between the parties and nullifies all provisions of the purchase-and-sale agreement.\u201d Bryan, 665 A.2d at 1022 (quotation marks omitted). Merger by deed, however, does not prohibit reformation upon proof of a mutual mistake of fact at the time of closing. Cf. id. (holding merger by deed prohibits reformation when one of the parties learns of a mistake before closing and still signs the deed).\nC. Joint Accounts\n[\u00b6 19] Roger contends that the trial court erred in finding that the bank accounts funded by the proceeds from the sale of Dolores\u2019s real estate and other assets in the summer of 2000 were true joint accounts with right of survivorship because the parties did not intend that Priscilla could use the funds for her own benefit during Dolores\u2019s lifetime.\n[\u00b6 20] Pursuant to 18-A M.R.S. \u00a7 6-104(a) (2009), after the death of a party holding a joint account, the funds belong to the surviving party \u201cunless there is clear and convincing evidence of a different intention at the time the account is created.\u201d See Estate of Anderson, 2010 ME 10, \u00b6 8, 988 A.2d 977, 979. If the trial court finds that a party with the burden of proof fails to meet that burden, we review the entire record to ascertain whether the record compels a finding contrary to that made by the trial court. See Lietz, 543 A.2d at 368 n. 1.\n[\u00b6 21] The trial court found that the bank records establish that the accounts are joint accounts and Priscilla had access to the funds in the accounts. The evidence in the record is sufficient to support these findings, and a contrary finding is not compelled by the evidence. See Estate of Miller, 2008 ME 176, \u00b6 17, 960 A.2d at 1144.\n[\u00b6 22] The court further concluded that Priscilla\u2019s agreement to use the funds for Dolores\u2019s benefit during her lifetime did not change the joint character of the accounts. The evidence of this side agreement between Dolores and Priscilla does not compel a finding that the accounts were not joint accounts. Cf. id. (determining that bank records and bank representative\u2019s testimony provided evi-dentiary support for court\u2019s finding that decedent was sole owner of bank accounts despite other evidence of joint ownership). Accordingly, the court did not err in concluding that the existence of the side agreement regarding the use of the funds during Dolores\u2019s lifetime did not change the fundamental character of the accounts as joint accounts with right of survivor-ship.\nThe entry is:\nJudgments affirmed.\n. \"Rule 15 of the Maine Rules of Civil Procedure governs procedure in all proceedings in the Probate Courts, so far as applicable.\u201d M.R. Prob. P. 15. Rule 15(c) provides:\n(c) Relation Back of Amendments. An amendment of a pleading relates back to the date of the original pleading when\n(1) relation back is permitted by the law that provides the statute of limitations applicable to the action, or\n(2) the claim or defense asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading, or\n(3) the amendment changes the party or the naming of the party against whom a claim is asserted if the condition of paragraph (2) of this subdivision is satisfied and, within the period provided by Rule 3 for service of the summons and complaint, the party to be brought in by amendment (A) has received such notice of the institution of the action that the party will not be prejudiced in maintaining a defense on the merits, and (B) knew or should have known that, but for a mistake concerning the identity of the proper party, the action would have been brought against the party.\nM.R. Civ. P. 15(c).\n. In his reply brief, Roger also contends that the statute of limitations was tolled while Priscilla served as personal representative of the Estate due to \"adverse domination.\u201d He asserts that pursuant to this doctrine, a statute of limitations does not run during the period of time that a wrongdoer is in control of the entity that is the subject of the dispute. See Livermore Falls Trust & Banking Co. v. Riley, 108 Me. 17, 23, 78 A. 980, 982 (1911). Priscilla was not forced to step down as personal representative of the Estate until October 2006, more than six years from the time of the transactions. Roger contends the statute did not begin to run until after she stepped down because he did not have access to the information necessary to formulate the claim, and by statute he could not assert the claim. See 33 M.R.S. \u00a7 1023(1) (2009). Because Roger failed to raise this argument in his brief, the issue is not preserved and we do not address it further. See Pignons S.A. de Mecanique v. Polaroid Corp., 701 F.2d 1, 3 (1st Cir.1983) (\"In preparing briefs and arguments, an ... appellant generally may not preserve a claim merely by referring to it in a reply brief or at oral argument.\").",
+        "type": "majority",
+        "author": "LEVY, J."
+      }
+    ],
+    "attorneys": [
+      "William C. Knowles, Esq., Adrianne E. Fouts, Esq., Verrill Dana, LLP, Portland, ME, for Priscilla and J. Andre Baillargeon.",
+      "Lee Bals, Esq., Marcus, Clegg & Mis-tretta, P.A., Portland, ME, Lisa E. Roche, Esq., York, ME, for Roger G. Daigle."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 127\nPriscilla BAILLARGEON et al. v. ESTATE OF DOLORES A. DAIGLE.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Oct. 21, 2010.\nDecided: Nov. 30, 2010.\nWilliam C. Knowles, Esq., Adrianne E. Fouts, Esq., Verrill Dana, LLP, Portland, ME, for Priscilla and J. Andre Baillargeon.\nLee Bals, Esq., Marcus, Clegg & Mis-tretta, P.A., Portland, ME, Lisa E. Roche, Esq., York, ME, for Roger G. Daigle.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0709-01",
+  "first_page_order": 735,
+  "last_page_order": 741
+}

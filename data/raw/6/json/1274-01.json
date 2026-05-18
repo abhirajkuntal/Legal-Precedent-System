@@ -1,0 +1,426 @@
+{
+  "id": 7290431,
+  "name": "Quita B. BLACKWELL, et al., Appellants, v. Krishna N. DASS, Appellee",
+  "name_abbreviation": "Blackwell v. Dass",
+  "decision_date": "2010-11-04",
+  "docket_number": "No. 09-CV-950",
+  "first_page": "1274",
+  "last_page": "1281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1274"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "705 A.2d 642",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11871090
+      ],
+      "pin_cites": [
+        {
+          "page": "649"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/705/0642-01"
+      ]
+    },
+    {
+      "cite": "866 A.2d 74",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9035509
+      ],
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/866/0074-01"
+      ]
+    },
+    {
+      "cite": "596 A.2d 603",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11302309
+      ],
+      "pin_cites": [
+        {
+          "page": "606-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/596/0603-01"
+      ]
+    },
+    {
+      "cite": "867 A.2d 213",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9024495
+      ],
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/867/0213-01"
+      ]
+    },
+    {
+      "cite": "317 A.2d 530",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8046824
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/317/0530-01"
+      ]
+    },
+    {
+      "cite": "411 U.S. 223",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10262
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "231-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0223-01"
+      ]
+    },
+    {
+      "cite": "464 U.S. 548",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6201349
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "553",
+          "parenthetical": "quoting Brown v. United States, 411 U.S. 223, 231-32, 93 S.Ct. 1565, 36 L.Ed.2d 208 (1973)"
+        },
+        {
+          "parenthetical": "quoting Brown v. United States, 411 U.S. 223, 231-32, 93 S.Ct. 1565, 36 L.Ed.2d 208 (1973)"
+        },
+        {
+          "parenthetical": "quoting Brown v. United States, 411 U.S. 223, 231-32, 93 S.Ct. 1565, 36 L.Ed.2d 208 (1973)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0548-01"
+      ]
+    },
+    {
+      "cite": "825 A.2d 954",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9117320
+      ],
+      "pin_cites": [
+        {
+          "page": "961"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/825/0954-01"
+      ]
+    },
+    {
+      "cite": "415 A.2d 800",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7961149
+      ],
+      "pin_cites": [
+        {
+          "page": "802"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/415/0800-01"
+      ]
+    },
+    {
+      "cite": "509 A.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7897194
+      ],
+      "pin_cites": [
+        {
+          "page": "625"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/509/0619-01"
+      ]
+    },
+    {
+      "cite": "975 A.2d 848",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295727
+      ],
+      "pin_cites": [
+        {
+          "page": "857"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/975/0848-01"
+      ]
+    },
+    {
+      "cite": "521 A.2d 1156",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7897635
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "1162"
+        },
+        {
+          "page": "1164"
+        },
+        {
+          "page": "1164"
+        },
+        {
+          "page": "1164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/521/1156-01"
+      ]
+    },
+    {
+      "cite": "593 A.2d 186",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371891
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/593/0186-01"
+      ]
+    },
+    {
+      "cite": "844 A.2d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9271938
+      ],
+      "pin_cites": [
+        {
+          "page": "1125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/844/1113-01"
+      ]
+    },
+    {
+      "cite": "562 A.2d 1202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7358306
+      ],
+      "pin_cites": [
+        {
+          "page": "1204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/562/1202-01"
+      ]
+    },
+    {
+      "cite": "935 A.2d 275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8362735
+      ],
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/935/0275-01"
+      ]
+    },
+    {
+      "cite": "783 A.2d 575",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9469804
+      ],
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/783/0575-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8352068
+      ],
+      "pin_cites": [
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/1003-01"
+      ]
+    },
+    {
+      "cite": "948 A.2d 534",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8245073
+      ],
+      "pin_cites": [
+        {
+          "page": "547"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/948/0534-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 1174",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297208
+      ],
+      "pin_cites": [
+        {
+          "page": "1182"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/1174-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 876,
+    "char_count": 20392,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 4.935167149506019e-08,
+      "percentile": 0.30967905850881655
+    },
+    "sha256": "fd3a864e6420d391dfd0387245651c34c44b215f66fdd7a3eb99b72d20c58469",
+    "simhash": "1:833afa001e96dda9",
+    "word_count": 3300
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KRAMER, Associate Judge, NEWMAN and BELSON, Senior Judges."
+    ],
+    "parties": [
+      "Quita B. BLACKWELL, et al., Appellants, v. Krishna N. DASS, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "KRAMER, Associate Judge:\nOn June 2nd, 2009, a jury determined that Dr. Krishna Dass was not liable for the death of Ms. Roylestine Bowman, Qui-ta Blackwell\u2019s mother. The trial court subsequently denied Ms. Blackwell\u2019s motion for a mistrial. On appeal, appellant contends the trial court erred in its decision, asserting she was entitled to a mistrial because (1) the jury disregarded the court\u2019s instructions, (2) the court imper-missibly revised the verdict sheet after deliberations had begun, and (3) the verdict was a result of coercion to end deliberations quickly. For the reasons below, we affirm.\nI. Factual Background\nAppellants Ms. Blackwell and Ms. Rid-dick, as representatives and beneficiaries of the estate of Ms. Roylestine Bowman, their mother, brought wrongful death and survival claims against appellee Dr. Dass. They alleged that Dr. Dass\u2019s medical negligence caused the death of their mother. After a three week trial, during which both parties and the court noted the attentiveness and engagement of the jury, the jury returned a verdict in favor of Dr. Dass.\nThis appeal stems from events that occurred during deliberations. Prior to deliberations, the parties had agreed to submit a sequential step-wise verdict form to the jury. The verdict form separated the elements of a medical malpractice claim into distinct, individual questions. Question one, addressing breach of the standard of care, asked: \u201cDo you find by a preponderance of the evidence that Krishna Dass, M.D., breached the applicable standard of care in his care and treatment of Roylestine Bowman?\u201d Question two, addressing causation, asked, \u201cDo you find by a preponderance of the evidence that a breach in the standard of care by Krishna Dass, M.D. was a proximate cause of Roy-lestine Bowman\u2019s death?\u201d\nDeliberations began in the late afternoon on a Friday and continued the following Monday. Deliberations resumed Tuesday. At 10:35 a.m., the jurors submitted two notes to the court. The first note read: \u201cJuror # 600 will not be here tomorrow due to a graduation. Juror # 648 will not be here on Thursday due to a graduation.\u201d The second note read: \u201cYour Honor, After much deliberation, we cannot agree on [question] # 1 unanimously. May we move on to question # 2? Please Advise.\u201d\nThe court then conferenced with the parties\u2019 attorneys. Regarding the first note, the court informed the parties that it could not allow jurors to excuse themselves and that it would explain that diplomatically to the jurors. Neither side objected. Nor did any attorney for either side make any request for the court to consider any other approach to the note from jurors 600 and 648. The court called the jury out and informed them, \u2018You can\u2019t simply inform the court you. are not going to be here. You are a deliberating jury and you will be here until the jury stops deliberating. That is the process.... You have to stick with the case until it is over, one way or another.\u201d\nThe parties\u2019 counsel and the court discussed the jury\u2019s second note that it was unable to come to a decision regarding question one and asking permission to move on to question two. After stating, \u201cI have to tell them no,\u201d the trial court ex-, pressed to the parties that it believed giving the Winters anti-deadlock instruction to the jury would be premature, but said it would consider the matter if the parties were so inclined. After further discussion, Dr. Dass\u2019s counsel stated he thought it was an appropriate time to give the Winters instruction and Ms. Blackwell\u2019s counsel stated that they were \u201cf\u00edne\u201d with the instruction and lodged no objection.\nThe court then called in the jury and, specifically addressing its note, answered that the jury could not address question two if it had not yet answered question one of the verdict sheet. The court elaborated, \u201cIf Dr. Dass did not breach the applicable standard of care in his care and treatment of Mrs. Bowman, you can\u2019t go any further. That\u2019s it. It says so right on the sheet.... [I]f you can\u2019t unanimously agree, then you don\u2019t have a verdict of yes. That\u2019s just the way that works.\u201d The court then gave the Winters instruction and the jury resumed deliberations.\nAt 1:59 p.m., the jury sent another note, this one reading:\nCan the verdict sheet be rephrased consistent with the instructions on page 22 ( [Instruction 9-3) that require Plaintiff prove by preponderance of the evidence both (1) Breach of standard of care and (2) that such breach is the proximate cause of injury/death.\nSuggested rephrase[d] question: Do you find by a preponderance of the evidence that (1) Krishna Dass, M.D., breached the applicable standard of care in his treatment of Roylestine Bowman, and (2) a breach of the standard of care by Krishna Dass, M.D., was a proximate cause of Roylestine Bowman\u2019s death? The jury can unanimously agree on an answer to the rephrased question. The jury is unable to unanimously agree to the question (question one) as currently phrase[d] in the verdict sheet, (emphasis in original).\nAfter considerable discussion with the parties\u2019 counsel, the court, over appellants\u2019 objection, decided to revise the verdict sheet in conformity with the jury\u2019s suggestion and submitted a Revised Verdict Sheet with only one question, reading: \u201cDo you find by a preponderance of the evidence that Krishna Dass, M.D., breached the applicable standard of care in his care and treatment of Roylestine Bowman and that a- breach in the standard of care by Krishna Dass, M.D. was a proximate cause of Roylestine Bowman\u2019s death?\u201d The Revised Verdict Sheet thus eliminated the sequential step-wise process of requiring the jury to consider breach and causation in isolation and combined the two elements into one question.\nShortly after receiving the Revised Verdict Sheet, the jury returned a verdict in favor of Dr. Dass. Ms. Blackwell moved for a mistrial, which the trial court denied in a ten-page order. Ms. Blackwell raises the same issues on appeal as she did in her motion for a mistrial, contending the trial court abused its discretion because (1) the jury violated the court\u2019s instructions, (2) the court improperly revised the verdict sheet during deliberations, and (8) the verdict was a result of coercion to end deliberations quickly.\nII. Standard of Review\n\u201cWhether to order a mistrial is subject to the broad discretion of the trial court and our standard of review is deferential.\u201d Johnson v. United States, 980 A.2d 1174, 1182 (D.C.2009); accord Coleman v. United States, 948 A.2d 534, 547 (D.C.2008); Lewis v. United States, 930 A.2d 1003, 1008 (D.C.2007); Gordon v. United States, 783 A.2d 575, 583 (D.C.2001). Thus, \u201c[a] trial judge\u2019s determination whether or not to declare a mistrial is ... reviewable only for abuse of discretion.\u201d Anthony v. United States, 935 A.2d 275, 283 (D.C.2007). \u201cThis court will not overturn the trial court\u2019s decision unless it appears unreasonable, irrational, or unfair, or unless the situation is so extreme that failure to reverse would result in a miscarriage of justice.\u201d Lee v. United States, 562 A.2d 1202, 1204 (D.C.1989) (internal citations omitted).\nIII. Legal Analysis\nA. The Jury Did Not Violate the Court\u2019s Instructions.\nWe presume that juries obey and comply with the court\u2019s instructions. See Brown v. National Academy of Sciences, 844 A.2d 1113, 1125 (D.C.2004); see also Clark v. United States, 593 A.2d 186, 193 (D.C.1991). We will not honor this presumption, however, if \u201cthe contrary appears, or if the circumstances are very unusual.\u201d Id. For the reasons stated below, we do not find this to be one of the exceptional cases.\nMs. Blackwell contends that the jury violated the court\u2019s instructions by discussing question two on the verdict sheet, which addressed causation, before reaching unanimity on question one, which addressed whether Dr. Dass breached the applicable standard of care. The trial court rejected this contention, relying on our dicta in Weeda v. District of Columbia, 521 A.2d 1156 (D.C.1987).\nWeeda involved facts surprisingly similar to this case. In Weeda, a negligence case arising from an automobile accident, the trial court submitted two special interrogatories to the jury, segregating the elements of a negligence action into two different questions. Id. at 1162. The first question required the jury to assess whether the defendant was negligent and the second question required the jury to determine whether the defendant\u2019s negligence proximately caused the plaintiffs injuries. Id. The court instructed the jury to address question one first, and, only if it found in the affirmative, to consider question two. Id. The jury sent a note informing the court it could not reach a unanimous verdict on question one addressing negligence, but that it could reach a unanimous verdict on question two addressing causation, and asked for the court\u2019s guidance. Id. This court \u201cdiscern[ed] no hint of any tendency on the part of th[e] jury to disregard judicial admonitions because of the way it handled the special interrogatories submitted to it.\u201d Id. at 1164. The jurors \u201cwere given no instruction as to what they should do, were they unable ... to reach unanimity on [question one].\u201d Id. Noting that the jury explicitly requested the court\u2019s guidance in its note, this court determined that the jury, \u201cfar from disobeying instructions, was most deferential to the trial judge. It even abstained from announcing its verdict until given further instructions.\u201d Id.\nIn this case, as in Weeda, \u201cwe discern no hint of any tendency on the part of this jury to disregard judicial admonitions of the way it handled the special interrogatories submitted to it.\u201d Id. at 1164. The jury in this case consistently asked for the court\u2019s guidance or permission before deviating from the verdict form. The jury submitted two notes, one stating, \u201cAfter much deliberation, we cannot agree on # 1 unanimously. May we move on to question #2? Please advise,\u201d and one asking, \u201cCan the verdict sheet be rephrased consistent with [standard civil jury instruction 9-3]_\u201d (emphasis added). Moreover, after submitting its note that it could reach unanimity on the combined question, the jury abstained from announcing its verdict until further instruction from the court. Id. Thus, the jury consistently looked to the court for guidance and instruction before acting.\nThe trial court in this case also did not interpret the jury\u2019s actions as disregarding or acting contrary to its instructions. Both on the record and in its order, the trial court commented that the jury was attentive, engaged and deferential. In response to Ms. Blackwell\u2019s contention that the jury\u2019s note asking for a rephrased verdict sheet indicated that the jury had disobeyed the court\u2019s instruction, the court stated, \u201cWell, they discussed it in there, but they\u2019ve not \u2014 they wouldn\u2019t dare try to answer Number 2 without my permission. They asked for my permission; I denied it.\u201d Given the similarities of this case to Weeda, coupled with the trial court\u2019s own impression that the jury was abiding by its instructions, we find that the trial court did not abuse its discretion in denying a mistrial on these grounds.\nB. The Trial Judge Did Not Abuse Her Discretion by Revising the Verdict Sheet.\nMs. Blackwell argues that the trial court impermissibly revised the verdict sheet during deliberations. \u201cA trial court has broad discretion in fashioning appropriate jury instructions....\u201d Tyler v. United States, 975 A.2d 848, 857 (D.C.2009) (quoting Psychiatric Institute of Washington v. Allen, 509 A.2d 619, 625 (D.C.1986)). We find that the trial court did not abuse its discretion in revising the verdict sheet to avoid a mistrial.\nThe revised verdict sheet contained an accurate statement of the law and certainly could have been given to the jury in the first instance. In fact, when the jury inquired about combining the two questions on the verdict sheet, they specifically requested that the verdict sheet be revised to adhere more closely to the standardized civil jury instructions. The jury, which had a copy of the standardized instructions, submitted a note asking, \u201cCan the verdict sheet be rephrased consistent with the instructions on page 22 [Instruction 9-3].\u201d (emphasis added). Though sequential step-wise verdict forms may sometimes be helpful to juries, 'they are not required.\nHere, the jury recognized that appellants had to prove each element by a preponderance of the evidence. Thus, regardless of whether the jury could unanimously agree on breach or causation separately, it could unanimously agree that appellants failed to prove all the elements of a medical malpractice claim. As noted in Weeda, \u201c[hjaving been told in the closing instructions that unless they decided that both negligence and proximate cause were established by a preponderance of the evidence they should return a verdict for the defendant, the jurors correctly recognized that the deadlock on the first issue was academic....\u201d Weeda, 521 A.2d at 1164. Finally, we note that the record amply demonstrates that the trial court carefully and thoughtfully considered the issues created by the jury\u2019s request. The trial court\u2019s deliberation and consideration shows a careful exercise of discretion, not an abuse of such discretion.\nC. The Jury Verdict Was Not Tainted by Juror Coercion.\nFinally, plaintiffs argue that the jury\u2019s verdict was the result of improper coercion, alleging that the jurors were pressured toward rendering a quick verdict in order to enable two jurors to attend graduation ceremonies or, in the alternative, that the trial court should have conducted an inquiry to assess the jury\u2019s ability to continue to deliberate fairly and impartially. We agree with the trial court, however, that the circumstances in this case did not present a \u201csubstantial risk of a coerced verdict.\u201d Morton v. United States, 415 A.2d 800, 802 (D.C.1980).\nHere, there were no allegations of juror bias, obviating the need to reopen voir dire. After learning of the two jurors\u2019 conflicting obligations, Ms. Blackwell consented to the trial court giving the Winters instruction to the jury, despite the court\u2019s own hesitancy that such an instruction might be premature, and never alleged that the jurors were biased or susceptible to pressure to return a quick verdict. Ms. Blackwell\u2019s speculation on appeal that \u201cthe moral suasion of the jurors to help out their own by reaching a verdict before the end of the day ... must have been intense,\u201d is just that \u2014 speculation. As such, it is an insufficient basis on which' to claim that the jury verdict was the result of coercion. See Hall v. Carter, 825 A.2d 954, 961 (D.C.2003) (\u201c[Theoretical reconstruction of the jury\u2019s collective thought process ... is too speculative to find persuasive.\u201d).\nThe trial court, in its Order, greatly praised the jury in this case. The court noted that the \u201cjury was very attentive to the evidence during trial.\u201d The jury was engaged, evidenced from the numerous \u201cinquisitive notes\u201d it submitted to the court. \u201cThe jury appeared to take its responsibility to reach a just determination very seriously.\u201d Given that Ms. Blackwell consented to the trial court giving the Winters instruction, that allegations of juror bias or coercion are speculative, and that this particular jury appeared attentive, engaged and took its responsibility seriously, we find that the trial court did not abuse its discretion in refusing to grant a mistrial on the grounds of a coerced verdict.\nIY. Conclusion\n\u201cThis court has long held that \u2018[a litigant] is entitled to a fair trial, but not a perfect one,\u2019 for there are no perfect trials.\u2019 \u201d McDonough Power Equipment, Inc. v. Greenwood, 464 U.S. 548, 553, 104 S.Ct. 845, 78 L.Ed.2d 663 (1984) (quoting Brown v. United States, 411 U.S. 223, 231-32, 93 S.Ct. 1565, 36 L.Ed.2d 208 (1973)). The trial court\u2019s actions in this case were rational and reasonable, resulting in a trial that was certainly fair. Thus, for the reasons explained above, we find that the trial court did not abuse its discretion in denying Ms. Blackwell\u2019s motion for a mistrial.\nAffirmed.\n.A medical malpractice claim requires a plaintiff to prove, by a preponderance of the evidence, (1) the standard of skill and care that reasonably competent professionals follow when acting under the same or similar circumstances; (2) that the defendant did not follow that standard of skill and care (breach); and (3) that by not following that standard of skill and care, the defendant\u2019s conduct was a proximate cause of injury to the plaintiff (causation). See Standardized Civil Jury Instructions for the District of Columbia, No. 9.03 (2002 ed. rev.).\n. Three notes were previously sent to the court but none are relevant to this appeal.\n. Neither of these jurors raised these conflicting obligations during the initial voir dire.\n. See generally Winters v. United States, 317 A.2d 530 (D.C.1974) (en banc).\n. The court even checked one more time with the parties to confirm that they wanted the court to Winterize the jury: \"Both sides asked me, at this point, to give the Winters instruction?\" Dr. Dass's counsel responded, \"I think so,\u201d and Ms. Blackwell\u2019s counsel responded, \"We are fine, your Honor.\u201d\n. Referring to the Standardized Civil Jury Instructions for the District of Columbia, No. 9-03 (2002 ed. rev.), which had been provided to the jurors.\n. At the outset, we reject Ms. Blackwell\u2019s argument that because this was a complex medical malpractice case with no fewer than four breaches of the applicable standard of care alleged, the jury was obligated to reach unanimity on each theory of breach before determining whether a particular breach proximately caused Ms. Bowman\u2019s death. The trial court correctly noted that, by consenting to a verdict form that simply asked one single question about breach instead of requesting a special verdict form specifically addressing each of the alleged breaches, appellants forfeited this argument. See Burke v. Scaggs, 867 A.2d 213, 221 (D.C.2005) (holding in a medical malpractice case involving several theories of liability that \u201cthe appellant, by not requesting a special verdict form, has forfeited his right to complain on appeal that the jury might not have been unanimous in its views\u201d); Nimetz v. Cappadona, 596 A.2d 603, 606-08 (D.C.1991) (holding that a defendant in a medical malpractice case, who acquiesced to a general verdict form despite several theories of breach, could not then challenge the verdict on the basis that jurors may have relied on a theory not supported by sufficient evidence).\nWe also reject Ms. Blackwell\u2019s argument that the trial court should have granted a mistrial because, \u201d[h]ad [pjlaintiffs\u2019 counsel known the jury would be presented with a combined question, they still would have objected, but their closing argument would have been different.\u201d The trial court offered the parties an opportunity to present ten more minutes of argument to the juiy, and plaintiffs declined.\n. We wish to make clear that this case is somewhat distinct from Weeda because, unlike in Weeda where they jury was unanimous as to causation, the jury in the case at bar notified the court that it had not reached unanimity on any individual element of Ms. Blackwell\u2019s negligence claim. We find, however, that this distinction is immaterial for the purposes of our analysis.\n. When the court received the juror\u2019s note requesting the verdict sheet questions be combined, the court engaged in a lengthy discussion with parties\u2019 counsel, took a recess to further consider the issues, offered plaintiffs more than a week to brief a memorandum of law to support their motion for a mistrial, and then issued a carefully considered and detailed opinion.\n.Cf. West v. United States, 866 A.2d 74, 82 (D.C.2005) (\"When the impartiality of a juror is in doubt, \u2018it is the responsibility of the trial judge to hold a hearing to determine whether the allegation of bias has merit.\u2019 \u201d (emphasis added) (quoting Medrano-Quiroz v. United States, 705 A.2d 642, 649 (D.C.1997))).",
+        "type": "majority",
+        "author": "KRAMER, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Stephen D. Annand, Washington, DC, for appellant.",
+      "Alfred F. Belcuore, Washington, DC, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Quita B. BLACKWELL, et al., Appellants, v. Krishna N. DASS, Appellee.\nNo. 09-CV-950.\nDistrict of Columbia Court of Appeals.\nArgued Sept. 15, 2010.\nDecided Nov. 4, 2010.\nStephen D. Annand, Washington, DC, for appellant.\nAlfred F. Belcuore, Washington, DC, for appellee.\nBefore KRAMER, Associate Judge, NEWMAN and BELSON, Senior Judges."
+  },
+  "file_name": "1274-01",
+  "first_page_order": 1320,
+  "last_page_order": 1327
+}

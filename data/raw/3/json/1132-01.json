@@ -1,0 +1,795 @@
+{
+  "id": 7290391,
+  "name": "McNAIR BUILDERS, INC., Appellant, v. Robert M. TAYLOR, Appellee",
+  "name_abbreviation": "McNair Builders, Inc. v. Taylor",
+  "decision_date": "2010-09-09",
+  "docket_number": "No. 08-CV-265",
+  "first_page": "1132",
+  "last_page": "1142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 1132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "591 F.3d 1126",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3507228
+      ],
+      "pin_cites": [
+        {
+          "page": "1135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/591/1126-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 227255",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "593 F.3d 338",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3517369
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/593/0338-01"
+      ]
+    },
+    {
+      "cite": "604 F.3d 816",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3809432
+      ],
+      "pin_cites": [
+        {
+          "page": "820, 822"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/429/0816-01"
+      ]
+    },
+    {
+      "cite": "72 F.3d 1354",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415690
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/72/1354-01"
+      ]
+    },
+    {
+      "cite": "616 A.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7933111
+      ],
+      "pin_cites": [
+        {
+          "page": "861"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/616/0856-01"
+      ]
+    },
+    {
+      "cite": "408 A.2d 364",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7964636
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/408/0364-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064389
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/285/0310-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 822",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7869222
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/668/0822-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "500 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6226806
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "489-90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0478-01"
+      ]
+    },
+    {
+      "cite": "447 F.3d 944",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5383997
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "949"
+        },
+        {
+          "page": "950"
+        },
+        {
+          "page": "949-50",
+          "parenthetical": "\"Like witnesses, prosecutors and other lawyers were absolutely immune from damages liability at common law for making false or defamatory statements in judicial proceedings (at least so long as the statements were related to the proceeding"
+        },
+        {
+          "page": "950"
+        },
+        {
+          "page": "950"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "946"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/447/0944-01"
+      ]
+    },
+    {
+      "cite": "402 F.2d 209",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3579584,
+        2132141
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/402/0209-01"
+      ]
+    },
+    {
+      "cite": "131 U.S.App.D.C. 68",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3579584
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "578 F.3d 351",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4048284
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "372"
+        },
+        {
+          "page": "373"
+        },
+        {
+          "page": "371"
+        },
+        {
+          "page": "371-72"
+        },
+        {
+          "page": "371"
+        },
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/578/0351-01"
+      ]
+    },
+    {
+      "cite": "566 F.3d 164",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3646441
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "180"
+        },
+        {
+          "page": "169"
+        },
+        {
+          "page": "180"
+        },
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/566/0164-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1917
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "662"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0651-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 139",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925055
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0139-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 731",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194478
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "742-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0731-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 863",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1146441
+      ],
+      "weight": 7,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "873"
+        },
+        {
+          "page": "878-79"
+        },
+        {
+          "page": "868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0863-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 794",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12033559
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0794-01"
+      ]
+    },
+    {
+      "cite": "541 A.2d 621",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7877713
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "623"
+        },
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/541/0607-01"
+      ]
+    },
+    {
+      "cite": "658 A.2d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863168
+      ],
+      "pin_cites": [
+        {
+          "page": "207-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/658/0205-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 511",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512327
+      ],
+      "weight": 9,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "525-29"
+        },
+        {
+          "page": "525"
+        },
+        {
+          "page": "530"
+        },
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0511-01"
+      ]
+    },
+    {
+      "cite": "515 U.S. 304",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1563897
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/515/0304-01"
+      ]
+    },
+    {
+      "cite": "93 L.Ed. 1528",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "weight": 2,
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "337 U.S. 541",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        572420
+      ],
+      "weight": 2,
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/337/0541-01"
+      ]
+    },
+    {
+      "cite": "532 A.2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9053734
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "643"
+        },
+        {
+          "page": "643"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/532/0641-01"
+      ]
+    },
+    {
+      "cite": "680 A.2d 419",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7860474
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "425"
+        },
+        {
+          "page": "425-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/680/0419-01"
+      ]
+    },
+    {
+      "cite": "774 A.2d 882",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11090842
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "339"
+        },
+        {
+          "page": "340",
+          "parenthetical": "\"[I]n denying the motion to dismiss ... the trial court conclusively determined (by rejecting) their claim of immunity.\""
+        },
+        {
+          "page": "340",
+          "parenthetical": "\"[T]he issue of immunity from having to defend against ... [a] defamation claim is separate from the merits of that claim.\""
+        },
+        {
+          "page": "341",
+          "parenthetical": "\"[T]he trial court's denial of appellants' absolute immunity claim is effectively un-reviewable on appeal from a final judgment, because by then the purported 'entitlement not to stand trial or face the other burdens of litigation' would be lost irretrievably.\""
+        },
+        {
+          "page": "340"
+        },
+        {
+          "page": "340"
+        },
+        {
+          "page": "340"
+        },
+        {
+          "page": "340"
+        },
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/774/0882-01"
+      ]
+    },
+    {
+      "cite": "221 A.2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8103278
+      ],
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/221/0718-01"
+      ]
+    },
+    {
+      "cite": "628 A.2d 1154",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "1157"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "968 A.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7333616
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "506-07"
+        },
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/0505-01"
+      ]
+    },
+    {
+      "cite": "130 S.Ct. 599",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3638928
+      ],
+      "weight": 10,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "605"
+        },
+        {
+          "page": "607"
+        },
+        {
+          "page": "607",
+          "parenthetical": "referring to availability of equivalent certification procedure under federal Rule 54(b)"
+        },
+        {
+          "page": "606"
+        },
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/558/0100-01"
+      ]
+    },
+    {
+      "cite": "168 L.Ed.2d 836",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "546 U.S. 345",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5899137
+      ],
+      "weight": 23,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "349-50"
+        },
+        {
+          "page": "353"
+        },
+        {
+          "page": "353-54"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "353"
+        },
+        {
+          "page": "350"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "354"
+        },
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1384,
+    "char_count": 34248,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 1.1403607696600227e-07,
+      "percentile": 0.578315762810882
+    },
+    "sha256": "f1ee8c3bca47a1354a759776c318cc4d22bdd5912ee91b311db9bb8a8676695e",
+    "simhash": "1:3e4806a6246014fe",
+    "word_count": 5458
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUIZ, GLICKMAN, and FISHER, Associate Judges."
+    ],
+    "parties": [
+      "McNAIR BUILDERS, INC., Appellant, v. Robert M. TAYLOR, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "RUIZ, Associate Judge:\nThis appeal arises from appellant\u2019s filing of a notice to enforce a mechanic\u2019s lien on appellee\u2019s property, which, in turn, led to appellee\u2019s underlying lawsuit challenging appellant\u2019s enforcement of the lien as unlawful and a slander of title. This appeal presents two issues: first, whether this court has jurisdiction pursuant to the collateral order doctrine to review the Superi- or Court\u2019s denial of appellant\u2019s motion for summary judgment on the ground that appellant\u2019s conduct in enforcing the mechanic\u2019s lien is immunized by the judicial proceeding privilege; and, if so, whether the judicial proceedings privilege applies to the filing of a mechanic\u2019s lien by a party. We decide that in light of the Supreme Court\u2019s decisions in Will v. Hallock, 546 U.S. 345, 126 S.Ct. 952, 168 L.Ed.2d 836 (2006), and Mohawk Industries, Inc. v. Carpenter, \u2014 U.S. -, 130 S.Ct. 599, 175 L.Ed.2d 458 (2009), which refined application of the collateral order doctrine, we do not have jurisdiction to hear this interlocutory appeal. Therefore, we have no need to answer the question on the merits concerning application of the judicial proceeding privilege to mechanic\u2019s liens. Review of that issue will have to await a final judgment in Superior Court. We therefore remand with instructions that the trial court continue with the proceedings.\nI. Facts and Procedural Background\nThe facts underlying the parties\u2019 dispute have been previously set out in significant detail in this court\u2019s opinion in McNair Builders, Inc. v. 1629 16th St., L.L.C., 968 A.2d 505 (D.C.2009):\nPursuant to a 2003 contract, appellant (hereafter \u201cMcNair\u201d) performed construction work on a building or buildings located at 1629 16th Street, N.W., then wholly owned by appellee, 1629 16th Street, L.L.C. (hereafter \u201c1629 L.L.C.\u201d). After a dispute arose between the parties over McNair\u2019s performance and 1629 L.L.C.\u2019s obligation to pay, McNair filed a notice of intent with the Office of the Recorder of Deeds on January 16, 2006, \u201cto hold a Mechanic\u2019s Lien against the interest of the current owner ... [of the] property located at 1629 16th Street, N.W. ..., Square ... 0193[,] ... Lot(s) 0152, 2075, [and] 2077.\u201d The notice named the owner of the property as \u201c1629 16th Street, L.L.C.\u201d\nIn the meantime, however, by a Declaration dated April 7, 2005, 1629 L.L.C. had submitted the land and improvements \u201clocated on Lot 152 in Square 193 ... to the provisions of\u2019 the District\u2019s Condominium Act of 1976 (as amended in 1992), establishing \u201ca plan of condominium ownership of the [property.\u201d Specifically, the plan created five residential units plus two parking units and common elements. Once the plan was approved, the subdivided lots acquired the numbers 2072 through 2078 in the District\u2019s land records. Thus, for example, unit number 4 and parking unit number 1 in the condominium declaration became \u201cLots 2075 and 2077, respectively,\u201d in Square 193. On October 4, 2005, 1629 L.L.C. sold Lots 2075 and 2077 to Robert M. Taylor, its Managing Member. The remaining Lots, with one exception, had apparently also been conveyed to individual owners by the time McNair filed its mechanic\u2019s hen notice in January 2006. The exception was Lot 2076, which 1629 L.L.C. had originally reserved as \u201cconvertible space\u201d but then converted to a residential unit by amending the condominium declaration, though retaining ownership of it.\nFollowing the dispute mentioned above, McNair filed its mechanic\u2019s lien and, in April 2006, a complaint to enforce the lien, as well as for breach of contract and damages in quantum me-ruit. Simultaneously, McNair filed a notice of pendency of action (lis pen-dens ). See D.C.Code \u00a7 42-1207 (2001). On 1629 L.L.C.\u2019s subsequent motion for partial summary judgment, the trial court ruled that the mechanic\u2019s lien was invalid for failure to name the correct owner of the subject property. Focusing primarily on Robert M. Taylor\u2019s ownership of Lots 2075 and 2077, the judge concluded that \u201cthere is no material factual dispute as to the contents of the lien and who the record owner was at the time the lien was filed\u201d: it was Taylor, not 1629 L.L.C. The court later \u201cset[ ] aside the lis pendens \u201d because of invalidity of the lien to which it related. See D.C.Code \u00a7 42-1207(d).\nId. at 506-07.\nAfter McNair filed its notice of intent with the Recorder of Deeds in January 2006, and then, a complaint to enforce the mechanic\u2019s lien in Superior Court on April 11, 2006, Robert M. Taylor filed a complaint of his own, on April 22, 2006. Count I of Taylor\u2019s complaint sought removal of the cloud on title created by the mechanic\u2019s lien. Taylor also alleged that the mechanic\u2019s lien slandered his title to the property (Count II), and that in its filing of the mechanic\u2019s. lien McNair had engaged in fraud and intentional misrepresentation (Count III). McNair filed a motion for summary judgment, arguing that its lien filing was immunized from liability by the judicial proceedings privilege. The trial court denied McNair\u2019s motion for summary judgment because \u201cthere is no authority as a matter of law to confer the distinction of protected attorney communications \u2014 and related judicial proceedings privilege \u2014 to the filing of Notice of Mechanic\u2019s Lien.\u201d McNair then filed this appeal.\nII. Jurisdiction\nBefore we may decide whether the judicial proceedings privilege applies to the filing of a mechanic\u2019s lien and whether it extends to filings made by the party in interest (i.e., not an attorney), we must first determine whether this court has jurisdiction, pursuant to the collateral order doctrine, to hear the appeal of the denial of appellant\u2019s motion for summary judgment. We conclude that we do not have jurisdiction over the interlocutory ruling denying the privilege in this case.\nThis court has jurisdiction to hear appeals from final orders and judgments of the Superior Court. See D.C.Code \u00a7 ll-721(a)(l) (2001). A final order has been defined as one that resolves the case on its merits \u201cso that the court has nothing remaining to do but to execute the judgment or decree already rendered.\u201d In re Estate of Chuong, 628 A.2d 1154, 1157 (D.C.1993) (en banc) (quoting McBryde v. Metro. Life Ins. Co., 221 A.2d 718, 720 (D.C.1966)). The denial of a motion for summary judgment is typically not appealable because it contemplates further proceedings in the trial court and necessarily leaves issues to be resolved. See Finkelstein, Thompson & Loughran v. Hemispheric Biopharma, Inc., 774 A.2d 882, 339 (D.C.2001). \u201cUnder the collateral order doctrine, however, a ruling such as the denial of a motion to dismiss may be appealable if it has \u2018a final and irreparable effect on important rights of the parties.\u2019 \u201d Id. (quoting Bible Way Church of Our Lord Jesus Christ of the Apostolic Faith v. Beards, 680 A.2d 419, 425 (D.C.1996)); see Stein v. United States, 532 A.2d 641, 643 (D.C.1987) (adopting Supreme Court\u2019s collateral order doctrine, which \u201crecognized a \u2018small class\u2019 of appealable, albeit non-final, orders,\u201d as set out in Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541, 546, 69 S.Ct. 1221, 93 L.Ed. 1528 (1949)).\nFor this court to have jurisdiction to review a non-final order pursuant to the collateral order doctrine, \u201cthe ruling must satisfy three requirements: (1) it must conclusively determine a disputed question of law, (2) it must resolve an important issue that is separate from the merits of the case, and (3) it must be effectively unreviewable on appeal from a final judgment.\u201d Id. at 339-40 (citing Bible Way, 680 A.2d at 425-26). We have said that \u201c[t]he denial of a motion that asserts an immunity from being sued is the kind of ruling that is commonly found to meet the requirements of the collateral order doctrine and thus [to] be immediately appeal-able .... \u201d Id. at 340 (citing Johnson v. Jones, 515 U.S. 304, 313, 115 S.Ct. 2151, 132 L.Ed.2d 238 (1995), and Mitchell v. Forsyth, 472 U.S. 511, 525-29, 105 S.Ct. 2806, 86 L.Ed.2d 411 (1985)). Since our opinion in Finkelstein, Thompson & Loughran, the Supreme Court, in Will v. Hallock, has emphasized that the collateral order doctrine is \u201cmodest\u201d in scope and described the conditions required for its application as \u201cstringent.\u201d 546 U.S. 345, 349-50, 126 S.Ct. 952, 163 L.Ed.2d 836 (2006). Specifically with respect to the third requirement, the Court cautioned that \u201cnot mere avoidance of a trial, but avoidance of a trial that would impair a substantial public interest\u201d is required before an appellate court invokes jurisdiction on the ground that an order is otherwise \u201c \u2018effectively\u2019 unreviewable if review is to be left -until later.\u201d Id. at 353, 126 S.Ct. 952. In Will, the Court held that the trial court\u2019s refusal to apply the \u201cjudgment bar\u201d of the Federal Tort Claims Act to dismiss a Bivens action did not meet this standard and was thus not appealable under the collateral order doctrine. 546 U.S. at 353-54, 126 S.Ct. 952.\nWe examine the three requirements for appealability under the collateral order doctrine in light of the Court\u2019s further guidance in Will, and consider whether denial of the judicial proceedings privilege serves a sufficiently important public interest to merit expedited appellate evaluation and, possibly, vindication. We conclude that it does not and that we therefore lack jurisdiction to hear this interlocutory appeal.\nThe first requirement of the collateral order doctrine, whether the trial court\u2019s ruling conclusively decides a disputed legal issue, is easily met in this case. The applicability of the judicial proceedings privilege to the filing of a mechanic\u2019s lien is an issue of law that the parties dispute, and the trial court conclusively determined that the privilege does not apply to the filing of a mechanic\u2019s lien by a party, thus subjecting McNair to further litigation. See Finkelstein, Thompson & Loughran, 774 A.2d at 340 (\u201c[I]n denying the motion to dismiss ... the trial court conclusively determined (by rejecting) their claim of immunity.\u201d) (quotations omitted). As to the second requirement, whether the ruling appealed is separate from the merits of the action, because the effect of the judicial proceedings privilege, if applicable, would be to render the allegedly defamatory filing absolutely privileged, it acts as a complete bar to the claims of fraud and slander of title. See McBride v. Pizza Hut, Inc., 658 A.2d 205, 207-08 (D.C.1995) (letter to opposing counsel in response to threatened lawsuit is absolutely privileged); Arneja v. Gildar, 541 A.2d 621, 623 (D.C.1988) (same). Thus, whether the privilege can be asserted for the filing of a mechanic\u2019s lien is a legal question distinct from the issues raised by the underlying complaint. See Finkelstein, Thompson & Loughran, 774 A.2d at 340 (\u201c[T]he issue of immunity from having to defend against ... [a] defamation claim is separate from the merits of that claim.\u201d). Thus, the first two requirements of a collateral order are satisfied.\nThe third factor to be analyzed in the collateral order doctrine is whether the ruling would be \u201ceffectively unreviewable\u201d if appellate review is deferred until there is a final judgment in the trial court. Denial of immunity in its various forms has been considered the embodiment of a ruling that is unreviewable from a final judgment, \u201cfor the essence of absolute immunity is its possessor\u2019s entitlement not to have to answer for his conduct in a civil damages action.\u201d Mitchell, 472 U.S. at 525, 105 S.Ct. 2806; see also Finkelstein, Thompson & Loughran, 774 A.2d at 341 (\u201c[T]he trial court\u2019s denial of appellants\u2019 absolute immunity claim is effectively un-reviewable on appeal from a final judgment, because by then the purported \u2018entitlement not to stand trial or face the other burdens of litigation\u2019 would be lost irretrievably.\u201d). The Supreme Court has warned, however, that \u201c[o]ne must be careful not to play word games with the concept of a \u2018right not to be tried,\u2019 \u201d Midland Asphalt Corp. v. United States, 489 U.S. 794, 801, 109 S.Ct. 1494, 103 L.Ed.2d 879 (1989), for \u201cvirtually every right that could be enforced appropriately by pretrial dismissal might loosely be described as conferring a \u2018right not to stand trial.\u2019 \u201d Digital Equip. Corp. v. Desktop Direct, Inc., 511 U.S. 863, 873, 114 S.Ct. 1992, 128 L.Ed.2d 842 (1994). Our precedents establish that the judicial proceedings privilege we recognize in the District of Columbia entails the right to be free from suit. We said in Finkelstein, Thompson & Loughran, \u201cthe judicial proceedings privilege is more than a defense to liability,\u201d \u201c[it] is intended to afford an attorney absolute immunity from actions in defamation for communications related to judicial proceedings.\u201d 774 A.2d at 340 (quoting Arneja, 541 A.2d at 623). We concluded there that denial of an asserted privilege based on pre-trial communications with prospective clients would be reviewed on an interlocutory basis under the collateral order doctrine.\nThe Supreme Court\u2019s subsequent decision in Will, however, sharpened the threshold analysis for applying the collateral order doctrine by requiring that \u201csome particular value of a high order\u201d must be \u201cmarshaled in support of the interest in avoiding trial.\u201d 546 U.S. at 352, 126 S.Ct. 952. \u201cThat is, it is not mere avoidance of a trial, but avoidance of a trial that would imperil a substantial public interest, that counts when asking whether an order is \u2018effectively\u2019 unreviewable if review is to be left until later.\u201d Id. at 353, 126 S.Ct. 952. Although Will affirmed that \u201corders rejecting absolute immunity\u201d are \u201cimmediately appealable,\u201d id. at 350, 126 S.Ct. 952, it did so with reference to Nixon v. Fitzgerald, 457 U.S. 731, 102 S.Ct. 2690, 73 L.Ed.2d 349 (1982), which involved a presidential claim of immunity from suit. The Court described the instances in which it had recognized that interlocutory appeals were proper, noting the \u201csubstantial public interest\u201d in each case: \u201chonoring the separation of powers [in Nixon], preserving the efficiency of government and the initiative of its officials [in Mitchell, 472 U.S. at 530, 105 S.Ct. 2806], respecting a State\u2019s dignitary interests [in an Eleventh Amendment challenge in Puerto Rico Aqueduct & Sewer Auth. v. Metcalf & Eddy, Inc., 506 U.S. 139, 144, 113 S.Ct. 684, 121 L.Ed.2d 605 (1993)], and mitigating the government\u2019s advantage over the individual [with regard to the double jeopardy bar in Abney v. United States, 431 U.S. 651, 662, 97 S.Ct. 2034, 52 L.Ed.2d 651 (1977)].\u201d Will, 546 U.S. at 352, 126 S.Ct. 952.\nFollowing Will, the Fifth Circuit in Henry v. Lake Charles Am. Press, L.L.C., 566 F.3d 164 (5th Cir.2009), identified another public interest worthy of protection on interlocutory appeal, that of enforcing a statute that \u201caim[s] to curb the chilling effect of meritless tort suits on the exercise of First Amendment rights.... \u201d Id. at 180. In Henry, the court considered Louisiana\u2019s anti-SLAPP (\u201cstrategic lawsuits against public participation\u201d) statute, which was designed to bring an early end to meritless claims \u201cbrought primarily to chill the valid exercise of the constitutional rights of freedom of speech and petition for redress of grievances,\u201d noting that in enacting the statute, the Louisiana legislature had \u201cdeclare[d] that it is in the public interest to encourage continued participation in matters of public significance ....\u201d Id. at 169. The Sixth Circuit also has recognized another important public interest worthy of interlocutory review, in the context of a criminal trial. In Moldowan v. City of Warren, 578 F.3d 351 (6th Cir.2009), the court held that denials of claims of qualified immunity for official actions and absolute testimonial immunity by public officials are appealable on an interlocutory basis because \u201c[e]xpos-ing police officers and forensic investigators to suit based on testimony they deliver as part of their official duties and on behalf of the state undoubtedly implicates their ability to exercise their discretion and potentially inhibits them from performing their duties.\u201d Id. at 372. The court held that the public also had an interest that meets Will\u2019s \u201cstringent\u201d test in preventing \u201cwitness intimidation and self-censorship,\u201d \u201cexpos[ing] victims of crimes who testify in criminal proceedings to suit [that may] creat[e] a substantial disincentive for victims to come forward to identify their attackers,\u201d and threats to \u201cthe effective administration of the criminal justice system.\u201d Id. at 373. Therefore, denial of claims of privilege asserted by both the law enforcement officers and the victim were immediately reviewable on appeal under the collateral order doctrine.\nWe conclude that when compared with the examples noted by the Court in Will and the interests at issue in Henry and Moldowan, the judicial proceedings privilege asserted in this case does not protect a substantial public interest of the \u201chigh order\u201d required by Will. The absolute immunity accorded to valid claims of judicial proceedings privilege \u201creflects a judgment that the need for completely free speech for litigants is dominant, and that this freedom is not to be endangered by subjecting parties to the burden of defending their motives in subsequent slander litigation, or to the risk that juries may misapprehend those motives.\u201d Finkelstein, Thompson & Loughran, 774 A.2d at 340 (quoting Brown v. Collins, 131 U.S.App.D.C. 68, 72, 402 F.2d 209, 213 (1968)).\nBut not all claims of absolute immunity supported by public policy are of the \u201chigh order\u201d established in Will, 546 U.S. at 352, 126 S.Ct. 952. The Sixth Circuit Court of Appeals in Kelly v. Great Seneca Fin. Corp., 447 F.3d 944 (6th Cir.2006), held that advocacy immunity, which confers a type of immunity similar to our judicial proceedings privilege, does not involve the type of public interest warranting interlocutory review required by Will. Id. at 949. In deciding not to address the merits of the case for lack of jurisdiction, the court held that denial of a claim of advocacy immunity is not immediately appealable because the interest it furthers, \u201cpreserving the integrity of the judicial process, and the free and unfettered administration of justice,\u201d is not of a \u201chigh order\u201d comparable to the interests identified in Will. Id. at 950. The Kelly court noted that the origins of advocacy immunity trace back to English common law, which provided private attorneys with absolute immunity from liability for damages. 447 F.3d at 949-50 (\u201cLike witnesses, prosecutors and other lawyers were absolutely immune from damages liability at common law for making false or defamatory statements in judicial proceedings (at least so long as the statements were related to the proceeding) ...(quoting Burns v. Reed, 500 U.S. 478, 489-90, 111 S.Ct. 1934, 114 L.Ed.2d 547 (1991))). Similarly, the immunity conferred to attorneys under the judicial proceedings privilege is absolute rather than qualified in order to protect the important interest in unburdened access to the courts. See Finkelstein, Thompson & Loughran, 774 A.2d at 340. As noted by the Restatement (Second) of Torts \u00a7 586 (1977), the judicial proceedings privilege must afford absolute immunity to lawyers because \u201c[this privilege] is based upon a public policy of securing to attorneys as officers of the court the utmost freedom in their efforts to secure justice for their clients.\u201d Id. cmt. a. Moreover, we have noted that the judicial proceedings privilege, beyond a defense to liability, \u201cis intended to afford an attorney absolute immunity from actions in defamation for communications related to judicial proceedings,\u201d that is, an \u201centitlement not to stand trial or face the other burdens of litigation.\u201d Finkelstein, Thompson & Loughran, 114, A.2d at 340 (second quote from Mitchell, 472 U.S. at 526, 105 S.Ct. 2806). In Kelly, the court assumed that immunity from suit and not only from liability is also a purpose of advocacy immunity. 447 F.3d at 950. In this regard, the advocacy and judicial proceedings privileges are qualitatively different from the \u201cjudgment bar\u201d of the Federal Tort Claims Act that the Court considered in Will. As the Court explained, \u201cthe closer analogy to the [FTCA] judgment bar ... is not immunity but the defense of claim preclusion or res judicata.\u201d Will, 546 U.S. at 354, 126 S.Ct. 952. Valid claims of res judicata can be effectively vindicated on appeal from final judgment, whereas the right to be immune from suit will be lost if the defendant must endure trial before the claim of immunity can be vindicated.\nNo matter how absolute or preemptive of suit the privilege may be, however, the interest in immunizing conduct in litigation in order to provide private litigants (and their attorneys) full and unburdened access to the courts does not compare with the public interests identified by the Court in Will in safeguarding constitutional separation of powers, preserving the ability of officials to carry out their public duties, ensuring the sovereign rights of states under the Eleventh Amendment, and protecting due process rights of criminal defendants. Nor does the interest protected by the judicial proceedings privilege approximate the public\u2019s interest in the full exercise of First Amendment rights to free speech and to petition for redress of grievances concerning \u201cmatters of public significance,\u201d Henry, 566 F.3d at 180, or the public\u2019s need to safeguard against witness intimidation and other tactics that can cripple the criminal justice system. Mol-dowan, 578 F.3d at 371. As the Kelly court expressed, where a claim of judicial proceedings privilege has been denied, \u201c[t]he resolution of a trial court\u2019s error following a final order will not cause lawyers to act less zealously, the administration of justice to come to a grinding halt, or judicial integrity to erode.\u201d 447 F.3d at 950. In Moldowan the Sixth Circuit distinguished its Kelly decision because the \u201cbalance of interests ... differs dramatically,\u201d 578 F.3d at 371: Moldowan involved public officials who had testified at trial, and who might be constrained in the exercise of discretion or diverted from their public duties if they had to defend themselves in court, id. at 371-72, whereas in Kelly the defendants asserting absolute immunity in connection with a debt collection case were \u201cprivate individuals [who] will appear as witnesses, at most, only a few times in their lives.\u201d Id. at 371. (quoting Kelly, 447 F.3d at 949).\nMore recently, in Mohawk Indus., Inc. v. Carpenter, \u2014 U.S.-, 130 S.Ct. 599, 175 L.Ed.2d 458 (2009), the Supreme Court refused to qualify denial of claims of attorney-client privilege as collateral orders subject to interlocutory appeal. In addressing the third Cohen prong, the Court emphasized, \u201cwhether a right is \u2018adequately vindicable\u2019 or \u2018effectively reviewable,\u2019 simply cannot be answered without a judgment about the value of the interests that would be lost through rigorous application of a final judgment requirement.\u201d Id. at 605 (quoting Digital Equip. Corp., 511 U.S. at 878-79, 114 S.Ct. 1992 (1994)). The Court explained that \u201c[t]he crucial question ... is not whether an interest is important in the abstract; it is whether deferring review until final judgment so imperils the interest as to justify the cost of allowing immediate appeal of the entire class of relevant orders.\u201d Id. at 606. In reaching the conclusion that the attorney-client privilege \u2014 \u201cone of the oldest recognized privileges for confidential communications,\u201d id. \u2014 did not meet that standard, the Court considered that post-judgment appeals would \u201cgenerally suffice\u201d to vindicate a valid claim of privilege wrongfully denied because in such cases an adverse judgment would be vacated and a new trial ordered without admission of the privileged material. Id. at 606-07. Similarly, at least part of the interest sought to be protected by the judicial proceedings privilege-immunity from liability \u2014 can be vindicated by a post-final order reversal of a judgment. As in the case of attorney-client privilege, where the privilege also preserves the confidentiality of attorney-client communications and not only shields them from use in litigation, there is an interest in freedom from suit (and not only liability) that the judicial proceedings privilege seeks to protect. That added protection afforded by the privilege, however, is not a goal in itself but a means of removing a potential disincentive to seeking judicial recourse. Finkelstein, Thompson & Loughran, 774 A.2d at 340. As did the Court in Mohawk and the Sixth Circuit in Kelly, we think that deferring appellate review of claims of the judicial proceedings privilege as a class will not \u201cmeaningfully reduce the ex ante incentives\u201d for litigants (or counsel) to seek judicial recourse for their claims. Mohawk, 130 S.Ct. at 607. As the privilege is absolute, not qualified, and well established in our jurisdiction, we would anticipate few cases where the conduct of litigants and counsel will be influenced by the \u201csmall risk that the law will be misapplied.\u201d Id. And in the few cases where there might be a new controlling question of law, there is an alternative means of immediate appellate review, as the trial court may certify the issue if the requirements of D.C.Code \u00a7 ll-721(d) (2001) are satisfied. See Mohawk, 130 S.Ct. at 607 (referring to availability of equivalent certification procedure under federal Rule 54(b)).\nIn sum, we conclude that although the trial court\u2019s denial of McNair\u2019s claim of privilege satisfies the first two prongs of the collateral order rule set out in Cohen because it (1) conclusively determined a disputed question of law and (2) resolved an issue that is separate from the merits of the case, it failed to satisfy the final Cohen question, (3) whether it is effectively unreviewable on appeal for purposes of the collateral order rule. Denial of the judicial proceedings privilege does not implicate a substantial public interest of a \u201chigh order\u201d on a par with those noted by the Supreme Court in Will, nor does it satisfy the functional assessment in Mohawk, because \u201cdeferring review until final judgment [will not] so imperil[ ] the interest as to justify the cost of allowing immediate appeal....\u201d 130 S.Ct. at 606. Therefore, bearing in mind that these conditions are \u201cstringent,\u201d Will, 546 U.S. at 346, 126 S.Ct. 952, the court\u2019s denial of summary judgment based on the asserted judicial proceedings privilege for the filing of a mechanic\u2019s lien is not appealable on an interlocutory basis under the collateral order doctrine.\nWe recognize that our decision today overrules part of our opinion in Finkelstein, Thompson & Loughran, where we held that denial of a claim of judicial proceedings privilege by an attorney was an immediately appealable collateral order. 774 A.2d at 340. But Will and Mohawk have significantly refined the an--alytieal framework we applied in Finkel-stein to the exception for collateral orders from the jurisdictional requirement of a final order before appeal may be taken. See D.C.Code \u00a7 ll-721(a)(1) (2001). Having adopted the Supreme Court\u2019s collateral order exception to the equivalent jurisdictional requirement of federal appellate courts, see Stein, 532 A.2d at 643; see also 28 U.S.C. \u00a7 1291 (2006), we follow the Court\u2019s evolving standards with respect to its proper application. As we have observed: Lee v. United States, 668 A.2d 822, 828 (D.C.1995). Here, \u201cthe legal basis for [Finkelstein ] has, in our view, been \u2018substantially undermined\u2019 by [Will and Mohawk ].\u201d Id.\nThis court will not lightly deem one of its decisions to have been implicitly overruled and thus stripped of its prece-dential authority. \u201cWe do not believe, however, that M.A.P. v. Ryan [285 A.2d 310 (D.C.1971) ], obliges us to follow, inflexibly, a ruling whose philosophical basis has been substantially undermined by subsequent Supreme Court decisions,\u201d Frendak [v. United States, 408 A.2d 364, 379 n. 27 (D.C.1979) ]; see also Abney v. Untied States, 616 A.2d 856, 861 (D.C.1992), or by our own supervening rulings en banc.\nBecause we conclude that we lack jurisdiction to entertain, on an interlocutory basis, the claim that the trial judge erroneously denied the asserted judicial proceedings privilege, the case is remanded for further proceedings.\nSo ordered.\n. The judicial proceedings privilege would apply to preclude Counts II (slander of title) and III (fraud and misrepresentation). Count I (declaratory action to remove cloud on title) was rendered moot by our holding in McNair Builders, Inc. I that the mechanic's lien was invalid because it did not meet statutory requirements. See 968 A.2d at 507.\n. Johnson involved a claim of qualified immunity by a public official, the denial of which was held to be appealable under the collateral order doctrine.\n. Mitchell recognized that denial of the U.S. Attorney General\u2019s claim of qualified immunity was appealable under the collateral order doctrine.\n. Nixon involved a claim that the president was absolutely immune from civil suit for actions taken in an official capacity while in office. The Court held that denial of the claim was appealable on an interlocutory basis. 457 U.S. at 742-43, 102 S.Ct. 2690; see Jones v. Clinton, 72 F.3d 1354, 1357 n. 4 (8th Cir.1996) (noting that then-President Clinton's appeal came \"under the immunity exception to the general rule that only final judgments are appealable\u201d).\n. In order to succeed in dismissing a complaint under the Louisiana statute, \"the defendant must first make a prima facie showing that ... 'a cause of action against him arises from an act by him in furtherance of the exercise of his right of petition or free speech under the United States or Louisiana Constitution in connection with a public issue.' \u201d Henry, 566 F.3d at 170.\n. As a result, the privilege \u201cprotects the attorney from liability in an action for defamation irrespective of his purpose in publishing the defamatory nature, his belief in its truth, or even his knowledge of its falsity.\u201d Restatement (Second) of Torts \u00a7 586 cmt. a (1977).\n. The court acknowledged that the victim of the brutal sexual assault whose immunity claim was held to be immediately appealable in Moldowan was not a public official, but reasoned that interlocutory review served to safeguard against disincentives like witness intimidation or self-censorship of victims of sexual assault and \u201cendless retread of the brutalization\u201d perpetrated against the victim. Moldowan, 578 F.3d at 373.\n. The defendants in Kelly had sued to collect a debt that the plaintiff allegedly owed. 447 F.3d at 946. The plaintiff, in turn, brought suit for violations of federal and state consumer protection statutes alleging that the defendants filed the complaint \"knowing that they did not have any means of proving that such debt was owed\u201d and that the attached account statement to prove the debt was \"bogus.\u201d Id. The defendants asserted that they were absolutely immune for their conduct in the course of litigation, including the substance of their complaint. See id. We would expect that the incentives on an interested party who files a mechanic's lien to protect a monetary claim would be on a par with the interests of the private litigants in Kelly who sued to collect a debt.\n.As the court made clear, the inquiry is not directed at the individual case, but to \"the entire category to which a claim belongs.\u201d Mohawk, 130 S.Ct. at 605 (quoting Digital Equip., 511 U.S. at 868, 114 S.Ct. 1992).\n. In this case, after Judge Wright denied appellant's motion for summary judgment on the claim of privilege, another judge (Judge Odessa Vincent) stayed the proceedings pending appeal. The record does not indicate, and the parties do not argue, that the denial of summary judgment was certified for appeal pursuant to D.C.Code \u00a7 11-721(d).\n. See also New Jersey, Dep\u2019t of Treasury, Div. of Inv. v. Fuld, 604 F.3d 816, 820, 822 (3rd Cir.2010) (district court\u2019s order denying motion to remand a New Jersey suit against brokerage firm that had been removed to federal court found not appealable under collateral order doctrine because \"the [state\u2019s] interest in having the Securities Act claim heard in a New Jersey state court ... [and] in protecting certain aspects of the administration of its judicial system\u201d does not imperil substantial public interest as do \"separation of powers issue[s], ... claims of qualified immunity or state sovereignty immunity, ... [or] a criminal case in which appellate review after final judgment will impinge upon a constitutional issue or render an issue moot\u201d).\n.See United States v. Myers, 593 F.3d 338, 347 (4th Cir.2010) (relying on Mohawk, the court denied appeal of civil-contempt order because delaying review until the entry of final judgment for challenge invoking attorney-client privilege did not imperil any substantial public interest); Bailey v. Connolly, 2010 WL 227255, at *6 (10th Cir. Jan. 22, 2010) (holding that delaying review of orders involving potentially self-incriminating statements under Fifth Amendment did not imperil substantial public interest given that \u201d[t]he correctness of a trial court's rejection even of a constitutional claim made by the accused in the process of prosecution must await his conviction before its reconsideration by an appellate tribunal\u201d); Perry v. Schwarzenegger, 591 F.3d 1126, 1135 (9th Cir.2009) (in light of \"uncertainty about the availability of collateral order review after Mohawk,\u201d court assumed, without deciding, that discovery orders denying claims of First Amendment privilege \"are not reviewable under the collateral order doctrine\u201d while distinguishing claims of freedom of political association from attorney-client privilege \u2014 \"a constitutional basis, a heightened public interest, rarity of invocation and a long recognized chilling effect\u201d).",
+        "type": "majority",
+        "author": "RUIZ, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "John P. Coyle, with whom Abigail C. Briggerman, Washington, DC, was on the brief, for appellant.",
+      "Johnny R. Galloway for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "McNAIR BUILDERS, INC., Appellant, v. Robert M. TAYLOR, Appellee.\nNo. 08-CV-265.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 14, 2008.\nDecided Sept. 9, 2010.\nJohn P. Coyle, with whom Abigail C. Briggerman, Washington, DC, was on the brief, for appellant.\nJohnny R. Galloway for appellee.\nBefore RUIZ, GLICKMAN, and FISHER, Associate Judges."
+  },
+  "file_name": "1132-01",
+  "first_page_order": 1166,
+  "last_page_order": 1176
+}

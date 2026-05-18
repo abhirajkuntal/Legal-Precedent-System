@@ -1,0 +1,875 @@
+{
+  "id": 7288173,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Richard J. REED, Appellee",
+  "name_abbreviation": "Commonwealth v. Reed",
+  "decision_date": "2010-12-21",
+  "docket_number": "",
+  "first_page": "1138",
+  "last_page": "1149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 1138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "960 A.2d 149",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8191615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/960/0149-01"
+      ]
+    },
+    {
+      "cite": "434 U.S. 497",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6185127
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "508-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/434/0497-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "366 F.3d 705",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9258224
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/366/0705-01"
+      ]
+    },
+    {
+      "cite": "353 F.3d 552",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9295677
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/353/0552-01"
+      ]
+    },
+    {
+      "cite": "918 A.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3015420,
+        8325559
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01",
+        "/a2d/918/0095-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3015420
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01"
+      ]
+    },
+    {
+      "cite": "766 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11139536,
+        1276796
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/766/0843-01",
+        "/pa/564/0228-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276796
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0228-01"
+      ]
+    },
+    {
+      "cite": "962 A.2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3440978,
+        8187116
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "667",
+          "parenthetical": "\"where ambiguity exists in the language of a penal statute, such language should be interpreted in the light most favorable to the accused.... [A] court may not achieve an acceptable construction of a penal statute by reading into the statute terms that broaden its scope\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0587-01",
+        "/a2d/962/0664-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 587",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3440978
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0587-01"
+      ]
+    },
+    {
+      "cite": "907 A.2d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2572144,
+        8931948
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "467"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0015-01",
+        "/a2d/907/0460-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 15",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2572144
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0015-01"
+      ]
+    },
+    {
+      "cite": "224 F.2d 431",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        56353
+      ],
+      "pin_cites": [
+        {
+          "page": "434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/224/0431-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 129",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12096
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "135",
+          "parenthetical": "\"It cannot legally be known that an offense has been committed until there has been a conviction\""
+        },
+        {
+          "parenthetical": "\"It cannot legally be known that an offense has been committed until there has been a conviction\""
+        },
+        {
+          "parenthetical": "\"It cannot legally be known that an offense has been committed until there has been a conviction\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0129-01"
+      ]
+    },
+    {
+      "cite": "695 A.2d 770",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11971819,
+        960452
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/695/0770-01",
+        "/pa/548/0131-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 131",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960452
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0131-01"
+      ]
+    },
+    {
+      "cite": "449 U.S. 117",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715584
+      ],
+      "weight": 7,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "129-30"
+        },
+        {
+          "page": "129-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0117-01"
+      ]
+    },
+    {
+      "cite": "909 A.2d 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "589 Pa. 727",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "901 A.2d 528",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8416285
+      ],
+      "pin_cites": [
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/901/0528-01"
+      ]
+    },
+    {
+      "cite": "927 A.2d 623",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "592 Pa. 788",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "913 A.2d 906",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8440469
+      ],
+      "pin_cites": [
+        {
+          "page": "910"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/913/0906-01"
+      ]
+    },
+    {
+      "cite": "883 A.2d 479",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        988483,
+        8908078
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Magliocco II"
+        },
+        {
+          "page": "492-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0244-01",
+        "/a2d/883/0479-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988483
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Magliocco II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0244-01"
+      ]
+    },
+    {
+      "cite": "806 A.2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11367263
+      ],
+      "pin_cites": [
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/806/1280-01"
+      ]
+    },
+    {
+      "cite": "970 A.2d 476",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "parenthetical": "unpublished memorandum at 9"
+        },
+        {
+          "parenthetical": "unpublished memorandum at 9"
+        },
+        {
+          "parenthetical": "unpublished memorandum at 8"
+        },
+        {
+          "parenthetical": "unpublished memorandum at 9 n. 3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "913 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851211,
+        8436668
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0480-01",
+        "/a2d/913/0207-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 480",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851211
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0480-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 955",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293264,
+        4196778
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "959",
+          "parenthetical": "citing Commonwealth v. Bullock, 590 Pa. 480, 913 A.2d 207, 212 (2006)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0955-01",
+        "/pa/604/0242-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196778
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Bullock, 590 Pa. 480, 913 A.2d 207, 212 (2006)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0242-01"
+      ]
+    },
+    {
+      "cite": "909 A.2d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8461677,
+        2572454
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/909/1241-01",
+        "/pa/589/0465-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 465",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2572454
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0465-01"
+      ]
+    },
+    {
+      "cite": "876 A.2d 366",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687704,
+        8966922
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0106-01",
+        "/a2d/876/0366-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 106",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687704
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0106-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 1283",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196852,
+        4196628,
+        7294406,
+        7294431
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0307-01",
+        "/pa/604/0307-02",
+        "/a2d/985/1283-01",
+        "/a2d/985/1283-02"
+      ]
+    },
+    {
+      "cite": "604 Pa. 307",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196852,
+        4196628
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0307-01",
+        "/pa/604/0307-02"
+      ]
+    },
+    {
+      "cite": "993 A.2d 874",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4198882,
+        7290308,
+        3697476,
+        7290380,
+        7290325,
+        3697817
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/606/0001-01",
+        "/a2d/993/0874-01",
+        "/pa/605/0669-01",
+        "/a2d/993/0874-03",
+        "/a2d/993/0874-02",
+        "/pa/605/0668-01"
+      ]
+    },
+    {
+      "cite": "5 A.3d 814",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4197920,
+        7289453,
+        7289486,
+        4198192,
+        7289426,
+        4198520
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "allowing appeal on the question: \"Does an acquittal of the felony upon which a second-degree murder charge is predicated necessitate reversal of the jury's second-degree murder conviction?\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/607/0305-01",
+        "/a3d/5/0814-02",
+        "/a3d/5/0814-03",
+        "/pa/607/0306-02",
+        "/a3d/5/0814-01",
+        "/pa/607/0306-01"
+      ]
+    },
+    {
+      "cite": "855 A.2d 800",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1370939,
+        12254885
+      ],
+      "year": 2004,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/579/0246-01",
+        "/a2d/855/0800-01"
+      ]
+    },
+    {
+      "cite": "579 Pa. 246",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1370939
+      ],
+      "year": 2004,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/579/0246-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 5,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "490",
+          "parenthetical": "holding, with limited exception, that judicial findings which result in punishment beyond statutory maximums must be submitted to a jury and proven beyond a reasonable doubt"
+        },
+        {
+          "page": "2362-63",
+          "parenthetical": "holding, with limited exception, that judicial findings which result in punishment beyond statutory maximums must be submitted to a jury and proven beyond a reasonable doubt"
+        },
+        {
+          "parenthetical": "holding, with limited exception, that judicial findings which result in punishment beyond statutory maximums must be submitted to a jury and proven beyond a reasonable doubt"
+        },
+        {
+          "page": "490"
+        },
+        {
+          "page": "2362-63",
+          "parenthetical": "\"Other than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury-\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    },
+    {
+      "cite": "883 A.2d 479",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        988483,
+        8908078
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "494",
+          "parenthetical": "Saylor, J., concurring and dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/584/0244-01",
+        "/a2d/883/0479-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988483
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "269",
+          "parenthetical": "Saylor, J., concurring and dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/584/0244-01"
+      ]
+    },
+    {
+      "cite": "883 A.2d 479",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        988483,
+        8908078
+      ],
+      "year": 2005,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/584/0244-01",
+        "/a2d/883/0479-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988483
+      ],
+      "year": 2005,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/584/0244-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1387,
+    "char_count": 34738,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1882895489273699
+    },
+    "sha256": "6b59c65a073f7338368e3d9a0105a51f391ff911396eb78a8986f5e4b079fb3f",
+    "simhash": "1:cfcba31eb3408d40",
+    "word_count": 5535
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE; CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY and ORIE MELVIN, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Richard J. REED, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice ORIE MELVIN.\nIn this appeal by allowance, we consider the proper grading of a conviction for attempted unlawful contact with a minor, pursuant to 18 Pa.C.S. \u00a7 6318, when the defendant was acquitted of all other charged offenses.\nOn Wednesday, January 12, 2005, Detective Mary Anders was working undercover for Montgomery County Detective Bureau\u2019s Internet Crime Against Children Task Force (\u201cTask Force\u201d). While posing as twelve-year-old \u201cTaylorgirll992\u201d in a public chat room, Detective Anders queried, \u201c[Ajnyone from Montgomery County?\u201d Defendant-Appellee, Richard J. Reed, who was using the screen name \u201cRJR5099,\u201d responded by sending Detective Anders a private instant message (\u201cIM\u201d). The ensuing conversation proceeded as follows:\nQ. [RJR5099] Hey.\nA. [Taylorgirll992] Hi.\nQ. How you doing?\nA. Good. You[?]\nQ. Fine. Thanks.\nA. Cool.\nQ. Did I send you pics?\nA. No. ASL.\nQ. 22, male, Delco.\nA. 12, female, King of Prussia.\nQ. Did you get my pics[?]\nYeah. You are hot.\nThank you. You like older guys?\nYeah.\nAre you a V?\nVirgin?\nYes. No?\nYeah.\nDo you still want to chat?\nYeah, it cool. What\u2019s your name? I am Taylor, LOL.\nI am kind of looking for someone to give some up. Rich. P\nHi, Rich.\nSo what kinds of things have you done with guys? p\nJust kiss and touch little. \u00a1>\nYou trying to give some up? p>\nDon\u2019t know. I never did much you know. \u00ed>\nWhat are you doing tomorrow? <\u00a9\nNothing. I got school, but whatever. \u00a3>\n\u25a0Why don\u2019t you skip and hang out with me? <p\nMaybe. I skipped before. t>\nHun?\nI skipfped] before. i>\nCool. Skip tomorrow. <p\nWhat we going to do? \u00a1>\nEach other, LOL. We will find something. <p\nWhat do you mean. Like what? !>\nYou can suck my d\u2014. I can suck on your t\u2014 and maybe f\u2014. fi\nWow, never did that stuff before.\nQ. Wanna? I can teach you.\nA. I guess. Will it hurt?\nQ. Nah. I am gentle. Can I call you?\nA. Hold on. BRB. Okay. My GF\u2019s on the phone, BRB. Okay.\nN.T. Trial, 4/6/06, at 20-22.\nThe IM conversation resumed the next day, January 13, 2005. Appellee asked Taylorgirll992 if he could telephone her; when she responded she would call him, Appellee provided his cellular telephone number. Id. at 32. At that point, Detective Anders utilized Renee Lorenzo, a Task Force employee who had a \u201cyoung sounding voice\u201d to telephone Appellee. Id. at 34. Appellee told Ms. Lorenzo, whom he believed to be Taylorgirll992, that he drove a black truck, and he arranged to meet her on Friday, January 14, 2005, in the parking lot of a Dunkin\u2019 Donuts in East Norriton Township in Montgomery County, Pennsylvania. After speaking with Ms. Lorenzo, Appellee continued his IM conversation by sending the following instant message: \u201cI hope I am not disappointed. Did you say be there at 9:30?\u201d Id. at 33.\nOn January 14, 2005, Detective Anders placed Bobbi Jo Carty, a Montgomery County Detective Bureau investigator who was dressed to appear as an adolescent girl, as a decoy in the vestibule at the designated Dunkin\u2019 Donuts. Approximately one-half hour after the appointed time, Appellee arrived at the donut shop, rolled down his window, and as Ms. Carty opened the door to step outside, police surrounded the truck and arrested Appellee. Id. at 37.\nFollowing his arraignment, Appellee was transported to the Montgomery County Detective Bureau where he was given Miranda warnings. Appellee gave a voluntary statement to Detective Anders stating that he believed Taylorgirll992 to be twelve years old and indicating he drove to the Dunkin\u2019 Donuts store on January 14, 2005, \u201cto meet Taylor and have physical contact that could have led to sex.\u201d Id. at 49.\nIn addition to attempted unlawful contact with a minor, police charged Appellee with criminal attempt of the following crimes: rape of a child and involuntary deviate sexual intercourse (\u201cIDSI\u201d), which are first-degree felony offenses, statutory sexual assault, a second-degree felony, indecent assault, a second-degree misdemeanor, and corruption of a minor, a first-degree misdemeanor. On April 7, 2006, following a three-day jury trial, Appellee was acquitted of all charges except criminal attempt to commit unlawful contact with a minor.\nThereafter, Appellee underwent a court-ordered evaluation by the Sexual Offender\u2019s Assessment Board, which determined that Appellee did not meet the criteria of a sexually violent predator. Appellee then filed a presentence motion for judgment of acquittal on July 31, 2006. The trial court held a hearing on the motion on November 6, 2006, and denied it on May 18, 2007.\nAt sentencing, the trial court graded Appellee\u2019s conviction for attempted unlawful contact with a minor as a first-degree felony and determined that the grading scheme was not contingent upon an actual conviction of the underlying offense. Applying that grading, the court sentenced Appellee, on June 13, 2007, to six to twenty-three months in prison followed by two years of probation.\nOn June 21, 2007, Appellee concurrently filed both a notice of appeal to the Superi- or Court and a motion for bail pending appeal in the trial court. Following a conference on June 22, 2007, the trial court granted Appellee\u2019s motion for bail; presumably, that bond remains in effect. In his appeal to the Superior Court, Appellee argued, inter alia, that the sentencing court erred in grading criminal attempt to commit unlawful contact with a minor as a first-degree felony because he had been acquitted of all underlying first-degree-felony offenses. The Superior Court agreed, vacated the judgment of sentence, and remanded for resentencing. The Commonwealth filed a petition for allowance of appeal to this Court, which we granted on November 18, 2009, limited to the following issue:\nWhat is the proper grading of a conviction under 18 Pa.C.S. \u00a7 6318, where the trial court at sentencing concluded that the most serious underlying offenses for which the defendant contacted the minor were offenses for which the defendant was acquitted?\nThe proper grading of Appellee\u2019s convicted offense is an issue of statutory interpretation by which we determine the lawfulness of the sentence imposed. As it is purely a question of law, our scope of review is plenary, and our standard is de novo. Commonwealth v. Colavita, 993 A.2d 874 (Pa.2010) (review of purely legal questions is plenary and de novo); Commonwealth v. Patton, 604 Pa. 307, 985 A.2d 1283 (2009)(same). When interpreting a statute, we are guided by the Statutory Construction Act, 1 Pa.C.S. \u00a7 1501 et seq., and our task is to effectuate the intent of the General Assembly. See 1 Pa. C.S. \u00a7 1921(a). When the words of a statute are clear and free from all ambiguity, the letter of the law is not to be disregarded under the pretext of pursuing its spirit. 1 Pa.C.S. \u00a7 1921(b); Commonwealth v. Dellisanti, 583 Pa. 106, 876 A.2d 366 (2005). Further, we construe statutory language according to its common and approved usage, unless particular words and phrases have acquired a peculiar and appropriate meaning. 1 Pa.C.S. \u00a7 1903(a); Commonwealth v. McClintic, 589 Pa. 465, 909 A.2d 1241, 1245 (2006). Moreover, the \u201cGeneral Assembly does not intend a result that is absurd, impossible of execution or unreasonable.\u201d 1 Pa.C.S. \u00a7 1922(1). Finally, penal statutes are to be strictly construed, 1 Pa.C.S. \u00a7 1928(b)(1); thus, any ambiguity must be interpreted in favor of the defendant. Commonwealth v. Jarowecki, 604 Pa. 242, 985 A.2d 955, 959 (2009) (citing Commonwealth v. Bullock, 590 Pa. 480, 913 A.2d 207, 212 (2006)).\nAt the time of the offense, section 6318 provided in pertinent part:\n\u00a7 6318. Unlawful contact with minor\n(a) Offense defined.\u2014A person commits an offense if he is intentionally in contact with a minor[] for the purpose of engaging in an activity prohibited under any of the following, and either the person initiating the contact or the person being contacted is within this Commonwealth:\n(1) Any of the offenses enumerated in Chapter 31 (relating to sexual offenses).\n(2) Open lewdness as defined in section 5901 (relating to open lewdness).\n(3) Prostitution as defined in section 5902 (relating to prostitution and related offenses).\n(4) Obscene and other sexual materials and performances as defined in section 5903 (relating to obscene and other sexual materials and performances).\n(5) Sexual abuse of children as defined in section 6312 (relating to sexual abuse of children).\n(6) Sexual exploitation of children as defined in section 6320 (relating to sexual exploitation of children).\n(b) Grading.\u2014A violation of subsection (a) is:\n(1) an offense of the same grade and degree as the most serious underlying offense in subsection (a) for which the defendant contacted the minor; or\n(2) a misdemeanor of the first degreeC]; whichever is greater.\n(c) Definitions.\u2014As used in this section, the following words and phrases shall have the meanings given to them in this subsection:\n\u201c Contacts.\u201d Direct or indirect contact or communication by any means, method or device, including contact or communication in person or through an agent or agency, through any print medium, the mails, a common carrier or communication common carrier, any electronic communication system and any telecommunications, wire, computer or radio communications device or system.\n\u201cMinor.\u201d An individual under 18 years of age.\n18 Pa.C.S. \u00a7 6318. Thus, at sentencing, the provisions of subsection (b) became the parties\u2019 focus as Appellee argued that the default grading set forth in subsection (b)(2) applied, and the Commonwealth asserted that the offense was properly graded as a first-degree felony pursuant to subsection (b)(1).\nWe first examine the analyses of the courts below. The trial court viewed the acquittal of attempted rape and attempted IDSI as insignificant, reasoning that subsection (b)(1) applies regardless of whether a defendant ultimately is convicted of the substantive offense for which he contacted the minor. It opined that since \u201cthe most serious ... offenses for which the Defendant contacted the minor\u201d were attempted rape of a child and attempted IDSI, which are both first-degree felonies, and \u201cpunishment for attempt shall be of the same grade and degree as the most serious offense [that] is attempted,\u201d the offense at issue was properly graded as a first-degree felony. Trial court opinion, 6/10/08, at 13-14.\nThe Superior Court concluded that the trial court erred in grading Appellee\u2019s offense as a first-degree felony and ruled that grading under 18 Pa.C.S. \u00a7 6318(b)(1) depended \u201cupon whether [Appellee] was actually convicted of the underlying offenses.\u201d Commonwealth v. Reed, 970 A.2d 476 (Pa.Super.2009) (unpublished memorandum at 8). In support, it cited its decision in Commonwealth v. Magliocco, 806 A.2d 1280, 1287 (Pa.Super.2002) (\u201cMagliocco I\u201d), aff'd, 584 Pa. 244, 883 A.2d 479 (2005) (\u201cMagliocco II).\nMagliocco 1 and Magliocco II involved a sufficiency-of-the-evidence claim wherein the defendant was convicted of ethnic intimidation but acquitted of terroristic threats. In Magliocco I, the Superior Court determined that the grading of ethnic intimidation was contingent upon the grading of terroristic threats, the predicate offense. We granted allowance of appeal to address, inter alia, whether a conviction for ethnic intimidation may be sustained where the defendant was charged with but acquitted of the predicate crime, terroristic threats, 18 Pa.C.S. \u00a7 2706, which was an element of the offense.\nWe affirmed the Superior Court, stating:\nIn order to find Magliocco guilty of ethnic intimidation in this case, the factfin-der had to conclude beyond a reasonable doubt that, among other things, [Magli-occo] actually \u201ccommitted\u201d the offense of terroristic threats. But, the Commonwealth did not merely allege that, for purposes of an ethnic intimidation prosecution, Magliocco committed ter-roristic threats with a malicious racial animus. Instead, the predicate offense [terroristic threats] was actually charged and actually prosecuted, and that prosecution resulted in an acquittal\u2014a finding that, for whatever reason, the Commonwealth failed to prove beyond a reasonable doubt that the defendant \u201ccommitted\u201d terroristic threats. Given the special weight afforded acquittals, since the factfinder in this case specifically found that Magliocco did not commit the offense of terroristic threats, the conviction for ethnic intimidation, which requires as an element the commission beyond a reasonable doubt of the underlying offense, simply cannot stand. Accordingly, we affirm the Superior Court\u2019s vacatur of Magliocco\u2019s conviction for ethnic intimidation.\nMagliocco II, 883 A.2d at 492-93.\nRelying on Magliocco I, the Superior Court in the case at bar concluded that if a defendant has been acquitted of the underlying offense, \u201cthe substantive offense logically cannot be graded commensurately.\u201d Commonwealth v. Reed, supra (unpublished memorandum at 9)(footnote omitted). Since Appellee Reed was acquitted of \u201call of the underlying first-degree felony offenses,\u201d id. at 9-10, the Superior Court determined that Appellee\u2019s conviction for attempted unlawful contact with a minor could be graded only as a first-degree misdemeanor.\nInstantly, the Commonwealth asserts that the trial court properly graded the offense as a first-degree felony. It relies on the language of 18 Pa.C.S. \u00a7 6318(b), arguing that grading is not contingent upon whether a defendant is actually convicted of the substantive offense. The Commonwealth further contends that the statute does not require application of the default provision where a defendant is charged with, but later acquitted of, the underlying sexual offenses. It maintains that the acquittal had no bearing on the fact that the most serious offenses for which Appellee contacted Taylorgirll992 were felonies of the first degree.\nThe Commonwealth also avers that the Superior Court\u2019s reliance on Magliocco I was improper, noting that the issue therein involved a challenge to the sufficiency of the evidence. As such, the Commonwealth posits that any language in Magliocco I regarding grading is mere dicta. It further suggests that Magliocco II is inappo-site because \u201cethnic intimidation was a contingent crime, proof of which was dependent upon the commission of a predicate crime (in that case, terroristic threats) as an element of the offense,\u201d Commonwealth brief at 17, which is not the case herein. The Commonwealth maintains that 18 Pa.C.S. \u00a7 6318 is distinguishable in that it does not require a finding of guilt of the underlying offenses.\nAppellee counters that his offense should have been properly graded as a first-degree misdemeanor because he was acquitted of the most serious offenses for which he allegedly attempted to contact Taylorgirll992. Appellee asserts that in acquitting him of attempted rape of a child and attempted IDSI, the first-degree felony offenses, the jury pointedly rejected the theory that he attempted to contact the minor with the intent to commit those crimes. Appellee suggests that to find otherwise permits the trial court to substitute its judgment for that of the jury. Additionally, Appellee submits that the converse also holds true, ie., where a jury makes a specific finding that a defendant was intentionally in contact with a minor for the purpose of a certain prohibited Chapter 31 offense, the grading of that offense controls the grading for the attempted unlawful contact with a minor conviction at sentencing. \u201c[I]n the absence of any specific finding by the jury that Appellee had been intentionally in contact with the minor for the purpose of engaging in a specific,[sic] prohibited Chapter 31 offense,\u201d however, the default grading of 18 Pa.C.S. \u00a7 6318(b)(1) must apply. Appellee\u2019s brief at 12.\nWhile we digress from the reasoning of the Superior Court in our evaluation of the present case, we believe the result it reached must stand. There are kernels of accuracy in both the trial court\u2019s and Superior Court\u2019s analyses, but each court focused upon isolated aspects of interpretation and thereby misapprehended the essential controversy. The trial court reasoned that, despite Appellee\u2019s acquittal of the first-degree felony crimes, grading of 18 Pa.C.S. \u00a7 6318 was \u201cnot contingent upon whether a defendant is ultimately convicted of the substantive offense for which he contacted the minor.\u201d Trial Court Opinion, 6/10/08, at 13. The accuracy therein is that 18 Pa.C.S. \u00a7 6318 does not require that a defendant be convicted of the substantive offense for which he contacted the minor, let alone be charged with it. Focusing simply on this one aspect, the trial court concluded that since the first-degree felony crimes were the most serious offenses for which Ap-pellee contacted Taylorgirll992, Appellee\u2019s conviction for attempted unlawful contact with a minor must be graded commensurately.\nAlternately, the Superior Court opined that \u201c[w]hen the grading of the substantive offense is contingent upon the classification of the underlying offenses, logic dictates that the defendant must have also been convicted of those underlying offenses.\u201d Commonwealth v. Reed, supra (unpublished memorandum at 9). Thus, it concluded that Appellee\u2019s acquittal of the first-degree felony offenses compelled his conviction for attempted unlawful contact with a minor to be graded as a first-degree misdemeanor under 18 Pa.C.S. \u00a7 6318(b)(2). While logic certainly is rooted in the evaluative process, we are disinclined to rely solely on logic in deciding this issue. Moreover, the Superior Court\u2019s conclusion that \u201cthe grading under \u00a7 6318(b)(1) must depend upon whether Reed was actually convicted of the underlying offenses,\u201d Commonwealth v. Reed, supra (unpublished memorandum at 8), which led to that court\u2019s reliance on Magli-occo, is inaccurate.\nThe issue in Magliocco was one of sufficiency of the evidence, thereby limiting its applicability to the case at bar. Further, the Magliocco Courts considered a statute requiring proof of a predicate crime. The ethnic intimidation statute at issue therein created, by its express terms, a contingent crime, proof of which was dependent upon the establishment of a predicate offense. That is not the case herein. Clearly, Ma-gliocco has limited relevance to the present matter.\nThe Superior Court\u2019s conclusion that grading under 6318(b)(1) must depend upon whether Reed was actually convicted of the underlying offenses is misleading. As we previously emphasized, the Chapter 31 offenses are not predicate offenses for 18 Pa.C.S. \u00a7 6318. In other words, a defendant need not be successful in completing the purpose of his communication with a minor in order to be found guilty of \u00a7 6318(a). For example, the actual rape of a child is not an element of the crime under \u00a7 6318(a); rather a defendant is guilty if he contacts a minor for the purpose of engaging in that prohibited behavior. See e.g., Commonwealth v. Morgan, 913 A.2d 906, 910 (Pa.Super.2006)(emphasis in original) (\u201c[0]nce Appellant contacts or communicates with the minor for the purpose of engaging in the prohibited activity, the crime of unlawful contact with a minor has been completed.\u201d), appeal denied, 592 Pa. 788, 927 A.2d 623 (2007); Commonwealth v. Evans, 901 A.2d 528, 537 (Pa.Super.2006) (defendant need not successfully complete purpose of contact or communication with minor; once contact or communication for purpose of engaging in prohibited activity occurs, \u201ccrime of unlawful contact with a minor has been completed.\u201d), appeal denied, 589 Pa. 727, 909 A.2d 303 (2006). Thus, contrary to the Superior Court\u2019s representation, a defendant need not be convicted of the substantive offense for which he contacted the minor. Indeed, he need not be separately charged with a Chapter 31 offense. However, when the Commonwealth does charge the defendant with a Chapter 31 offense, an acquittal is relevant for sentencing purposes under subsection 6318(b).\nPursuant to the express statutory language, a violation of 18 Pa.C.S. \u00a7 6318(a) is the same grade as the most serious underlying offense for which the defendant attempted contact with the minor, or a first-degree misdemeanor, whichever is greater. In this case, the Commonwealth chose to charge Appellee separately, inter alia, with the Chapter 31 offenses of attempted rape of a child, IDSI, statutory sexual assault, and indecent assault. Following a three-day trial, the jury found Appellee not guilty of those offenses. It is here that Magliocco II can provide limited guidance. Although that case involved predicate offenses and the instant case does not, both cases share one common feature: to secure a conviction of the offense under review, i.e., terroristic threats in Magliocco and the Chapter 31 offenses herein, the Commonwealth was not required to charge the defendant with the other crimes. The operative reality, however, is that in the case sub judice, the Commonwealth did charge those offenses, and the jury acquitted Appellee of those crimes. As we noted in Magliocco II, acquittals \u201chave been accorded a special weight in the law.\u201d Id. at 492 (citing United States v. DiFrancesco, 449 U.S. 117, 129-30, 101 S.Ct. 426, 66 L.Ed.2d 328 (1980), and Commonwealth v. D.M., 548 Pa. 131, 695 A.2d 770 (1997)). We went on to emphasize:\nA defendant enters a trial cloaked in the presumption of innocence and when the fact-finder reaches a verdict of acquittal, there is no justification to search for reasons to undermine the verdict. Such a defendant has achieved the strongest vindication possible under our criminal tradition, laws, and procedures. [Commonwealth v. D.M., supra] at 772-73. Accord [United States v.] DiFrancesco, 449 U.S. [117,] 130, 101 S.Ct. [426,] 433, 66 L.Ed.2d 328 [(1980)] (\u201c \u2018We necessarily afford absolute finality to a jury\u2019s verdict of acquittal\u2014no matter how erroneous its decision.\u2019 \u201d) (citation omitted).\nMagliocco II, supra at 492 (emphasis added); accord United States v. DiFrancesco, supra, 449 U.S. at 129-30, 101 S.Ct. 426 (\u201cThe law attaches particular significance to an acquittal.\u201d); see also Deal v. United States, 508 U.S. 129, 135, 113 S.Ct. 1993, 124 L.Ed.2d 44 (1993) (\u201cIt cannot legally be known that an offense has been committed until there has been a conviction\u201d) (quoting Gonzalez v. United States, 224 F.2d 431, 434 (1st Cir.1955)). An acquittal is the \u201clegal certification ... that an accused person is not guilty of the charged offense,\u201d and one acquitted is \u201cjudicially discharged from an accusation\u201d and is \u201cabsolved.\u201d Black\u2019s Law Dictionary 25 (8th ed.2004).\nThus, while it was not incumbent upon the Commonwealth to secure a conviction of an enumerated offense in 18 Pa.C.S. \u00a7 6318(a), it chose to do so, and Appellee\u2019s acquittal cannot be ignored when applying the appropriate grading under subsection 6318(b). In this scenario, where Appellee was acquitted of all other charged offenses, the sentencing court had to guess which offense Appellee sought to commit when he contacted Taylorgirll992. We cannot countenance that result. \u201c[0]ur rules of statutory construction [forbid] absurd results.\u201d Commonwealth v. Sloan, 589 Pa. 15, 907 A.2d 460, 467 (2006).\nAs we reiterated above, penal provisions of a statute must be strictly construed. 1 Pa.C.S. \u00a7 1928(b)(1). Commonwealth v. Hoke, 599 Pa. 587, 962 A.2d 664, 667 (2009) (\u201cwhere ambiguity exists in the language of a penal statute, such language should be interpreted in the light most favorable to the accused.... [A] court may not achieve an acceptable construction of a penal statute by reading into the statute terms that broaden its scope\u201d) (quoting Commonwealth v. Booth, 564 Pa. 228, 766 A.2d 843, 846 (2001); Commonwealth v. Dickson, 591 Pa. 364, 918 A.2d 95, 100 (2007)) (\u201cwe must construe all penal provisions strictly in favor of defendants\u2019 liberty interests\u201d). Applying these precepts to 18 Pa.C.S. \u00a7 6318(b), and in light of the special weight afforded acquittals, we find that the default grading must apply because the fact-finder specifically determined that Ap-pellee did not commit the separately charged Chapter 31 offenses.\nFor the foregoing reasons, the Superior Court\u2019s order vacating the judgment of sentence and remanding for resentencing is affirmed, albeit on different grounds. Jurisdiction is relinquished.\nChief Justice CASTILLE, Justices BAER and TODD join the opinion.\nJustice SAYLOR files a concurring opinion.\nJustice EAKIN files a dissenting opinion in which Justice McCAFFERY joins.\n. \"A screen name is an appellation used to identify oneself in a chat room or when sending instant messages to another computer user. Although it can be the user's real name, it is more often a pseudonym.\u201d United States v. Mitchell, 353 F.3d 552, 554 n. 3 (7th Cir.2003).\n. \"The term 'instant messenger,' like Internet 'chat rooms,' refers to a type of Internet service that enables users to engage in real-time dialogue 'by typing messages to one another that appear almost immediately on the others' computer screens.' \" United States v. Meek, 366 F.3d 705, 709 n. 1 (9th Cir.2004).\n. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct 1602, 16 L.Ed.2d 694 (1966).\n. The jury was deadlocked on the charge of attempted corruption of a minor, 18 Pa.C.S. \u00a7 6301. While the notion that a deadlocked jury implies that the defendant has been acquitted has been \"uniformly rejected,\u201d Arizona v. Washington, 434 U.S. 497, 508-09, 98 S.Ct. 824, 54 L.Ed.2d 717 (1978), attempted corruption of a minor is not a delineated offense under 18 Pa.C.S. \u00a7 6318(a), reproduced infra.\n. Subsequent to the commission of the acts giving rise to Appellee's conviction, the phrase, \"or a law enforcement officer acting in the performance of his duties who has assumed the identity of a minor\u201d was inserted in 18 Pa.C.S. \u00a7 6318(a). See Act of November 29, 2006, P.L. 1567, \u00a7 3, effective January 1, 2007. \"Thus, [Appellee] was charged with attempted unlawful contact with [a] minor, as opposed to unlawful contact with [a] minor.\u201d Commonwealth brief at 14 n.8 (emphasis in original): see also Commonwealth v. Rose, 960 A.2d 149, 152 n. 6 (Pa.Super.2008).\n. The 2006 amendment to Act 2006-178, \u00a7 3, also substituted \"felony of the third degree\u201d for \"misdemeanor of the first degree\u201d in 18 Pa.C.S. \u00a7 6318(b). For purposes herein, the applicable default grading is misdemeanor of the first degree.\n. Interestingly, the sentence imposed of six to twenty-three months fell within the permissible range of sentences if the court had applied the default grading set forth in 18 Pa.C.S. \u00a7 6318(b)(2).\n.The trial court and Superior Court initially addressed a challenge to the sufficiency of the evidence, an issue that is not before us.\n.At the time Magliocco was charged with ethnic intimidation, the Crimes Code provided, in pertinent part:\n\u00a72710. Ethnic intimidation\n(a) Offense defined.\u2014A person commits the offense of ethnic intimidation if, with malicious intention toward the actual or perceived race ... of another individual or group of individuals, he commits an offense under any other provision of this article or under Chapter 33 ... or under section 3503 (relating to criminal trespass) ... or under section 5504 (relating to harassment by communication or address) with respect to such individual ... or with respect to one or more members of such group....\n18 Pa.C.S. \u00a7 2710(a); see also Magliocco II, supra at 489. Subsequent amendments to the statute did not affect the issue in the case. Id. n. 7.\n. The Crimes Code listed ethnic intimidation under Article B, which governed chapters 23-32. Terroristic threats, a chapter 27 offense, was a qualifying Article B offense. Magliocco II, supra at 489 n. 8.\n. The Superior Court focused exclusively on that court\u2019s analysis in Magliocco I, representing that this Court \"declined to address or offer an opinion on the problem of grading and classifying an offense where there has been an acquittal.\u201d Commonwealth v. Reed, supra (unpublished memorandum at 9 n. 3).\n. The incongruity of the Commonwealth's position that attempted rape and attempted IDSI remained the most serious offenses for which Appellee contacted Taylorgirll992 regardless of the jury\u2019s determination that Ap-pellee did not commit those crimes seems readily obvious. Applying the Commonwealth's position, if Appellee had been convicted of indecent assault, a second-degree misdemeanor, but acquitted of the first-degree felony offenses, a conviction of attempted unlawful contact with a minor would be graded as a first-degree felony no matter what the jury concluded regarding the other Chapter 31 charged offenses. Cast in this light, the fallaciousness of the position is crystal clear.",
+        "type": "majority",
+        "author": "Justice ORIE MELVIN."
+      },
+      {
+        "text": "Justice SAYLOR,\nconcurring.\nI agree with the majority that the default grading provision should apply, but I have some differences with its reasoning.\nIn the absence of a jury finding regarding which prohibited activity the defendant intended to engage in for purposes of an unlawful contact with a minor conviction, application of anything other than the default grading provision raises constitutional concerns under Apprendi v. New Jersey, 530 U.S. 466, 490, 120 S.Ct. 2348, 2362-63, 147 L.Ed.2d 435 (2000) (holding, with limited exception, that judicial findings which result in punishment beyond statutory m\u00e1ximums must be submitted to a jury and proven beyond a reasonable doubt). Further, this Court has determined that Apprendi challenges implicate sentencing illegality, and therefore, are non-waivable. See Commonwealth v. Aponte, 579 Pa. 246, 250 n. 1, 855 A.2d 800, 802 n. 1 (2004).\nI realize Apprendi is not implicated directly by the present facts, since Appel-lee\u2019s actual sentence fell below the five-year statutory maximum for a first-degree misdemeanor, 18 Pa.C.S. \u00a7 1104. See Apprendi, 530 U.S. at 490, 120 S.Ct. at 2362-63 (\u201cOther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury-\u201d (emphasis added)). Nevertheless, to assure constitutional compliance in all cases, and consistent with the policy of lenity, I support the majority\u2019s decision that the best outcome in cases of inconsistent verdicts is to resort to default grading provisions where available.\nMy other concern goes to the amorphous scope of the special weight afforded to acquittals, as referenced by the majority. See Majority Opinion at 1148. As I have previously discussed, such allocation\u2014while clearly salutary\u2014is in substantial tension with the courts\u2019 allowance of inconsistent verdicts in the first instance. See Commonwealth v. Magliocco, 584 Pa. 244, 269, 883 A.2d 479, 494 (2005) (Saylor, J., concurring and dissenting). Magliocco, and the special-weight policy, have altered this general rule for some cases, but substantial uncertainty remains concerning the boundaries of the special-weight jurisprudence. See, e.g., Commonwealth v. Miller, \u2014 Pa. \u2014, 5 A.3d 814 (2010) (allowing appeal on the question: \u201cDoes an acquittal of the felony upon which a second-degree murder charge is predicated necessitate reversal of the jury\u2019s second-degree murder conviction?\u201d).\n. There is a fifteen-year difference between the maximum term of incarceration generally available as between a first-degree felony and a first-degree misdemeanor. Compare 18 Pa. C.S. \u00a7 1103, with id. \u00a7 1104. Consequently, the distinction can be quite significant for Apprendi purposes.\n. Parenthetically, in instances in which the Commonwealth does not charge underlying crimes, it may be incumbent upon it to secure special jury findings to support enhanced sentencing in compliance with Apprendi.",
+        "type": "concurrence",
+        "author": "Justice SAYLOR,"
+      },
+      {
+        "text": "Justice EAKIN,\ndissenting.\nI respectfully dissent. This conviction is not infirm and should stand.\nA conviction of attempted unlawful contact with a minor requires the offense to be \u201cthe same grade and degree as the most serious underlying offense ... for which [appellee] contacted the minor....\u201d 18 Pa.C.S. \u00a7 6318(b)(1). Nothing requires the underlying offense to be charged, and there need be no proof that it was committed or even attempted. Appellee clearly contacted the party he thought to be a minor with the intent to commit the offense of rape. He gave instructions to skip school, and drove to a pre-determined location \u201cto meet [her] and have physical contact that could have led to sex.\u201d Majority Slip Op., at 4. Appellant was interrupted in his purpose, resulting in counts of attempt to rape rather than accomplishment of rape, but he nonetheless attempted the contact for the purpose of rape.\nThe jury was given two crimes relevant here, which I will abbreviatedly call attempted contact and attempted rape. Acquittal of the latter certainly does not preclude conviction of the former, for they are distinct offenses. The latter required proof of a substantial step toward accomplishing the actual rape. The former, however, required only proof that he took a substantial step toward contacting the minor for the purpose of rape, not a step toward the rape itself. As there was no actual minor, and as actual attempt at sex was interrupted by appellee\u2019s arrest, it is not difficult to understand the finding he did not take a substantial step toward actual commission of rape.' Such a result does not matter to the attempted contact count, as the contact with relevant intent was already attempted and complete by this time.\nAcquittal of attempted rape does not mean the jury found appellee\u2019s purpose in contacting her was not rape\u2014indeed, that is exactly what it did find his purpose to have been. The jury never found he attempted contact without the intent to have sex with her\u2014it only means the prosecution did not prove he took a further step toward accomplishing the rape. He unquestionably took a substantial step toward contacting her for purposes of rape, even though he did not take a substantial step toward actually raping her\u2014for purposes of determining the grade of crime, this is all that is required.\nCommonwealth v. Magliocco, 584 Pa. 244, 883 A.2d 479 (2005), dealt with a statute where commission of the underlying offense was required. Such accomplishment is not needed here though\u2014only proof of attempted contact with requisite intent, not proof of a further step toward accomplishment after contact. Accordingly, I must respectfully dissent.\nJustice McCAFFERY joins this opinion.",
+        "type": "dissent",
+        "author": "Justice EAKIN,"
+      }
+    ],
+    "attorneys": [
+      "Adrienne D. Jappe, Esq., Risa Vetri Ferman, Esq., Kevin R. Steele, Esq., Montgomery County District Attorney\u2019s Office, for the Com. of PA., appellant.",
+      "Francis John Genovese, Esq., Mullaney & Mullaney, for Richard J. Reed, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant v. Richard J. REED, Appellee.\nSupreme Court of Pennsylvania.\nArgued March 10, 2010.\nDecided Dec. 21, 2010.\nAdrienne D. Jappe, Esq., Risa Vetri Ferman, Esq., Kevin R. Steele, Esq., Montgomery County District Attorney\u2019s Office, for the Com. of PA., appellant.\nFrancis John Genovese, Esq., Mullaney & Mullaney, for Richard J. Reed, appellee.\nBEFORE; CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY and ORIE MELVIN, JJ."
+  },
+  "file_name": "1138-02",
+  "first_page_order": 1160,
+  "last_page_order": 1171
+}

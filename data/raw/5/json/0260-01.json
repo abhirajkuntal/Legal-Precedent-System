@@ -1,0 +1,59 @@
+{
+  "id": 7285004,
+  "name": "Curtis BRANDON, Appellant v. Jeffrey A. BEARD, Ph.D., Secretary, Dorina Varner, Chief Grievance Officer, John Kerestes, Superintendent, Michael Dunkle, Lieutenant, Meyers, Sergeant, Pennsylvania Department of Corrections, et al., Appellees",
+  "name_abbreviation": "Brandon v. Beard",
+  "decision_date": "2010-10-19",
+  "docket_number": "",
+  "first_page": "260",
+  "last_page": "260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 395,
+    "ocr_confidence": 0.683,
+    "sha256": "b5cd7ba46c0895c615dd8fcbc93f6b3c1795efad3717174a9b930ceba73e6770",
+    "simhash": "1:06ab5ee7035aa1a4",
+    "word_count": 55
+  },
+  "last_updated": "2023-07-14T15:48:37.042050+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Curtis BRANDON, Appellant v. Jeffrey A. BEARD, Ph.D., Secretary, Dorina Varner, Chief Grievance Officer, John Kerestes, Superintendent, Michael Dunkle, Lieutenant, Meyers, Sergeant, Pennsylvania Department of Corrections, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of October, 2009, the Order of the Commonwealth Court is AFFIRMED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Curtis BRANDON, Appellant v. Jeffrey A. BEARD, Ph.D., Secretary, Dorina Varner, Chief Grievance Officer, John Kerestes, Superintendent, Michael Dunkle, Lieutenant, Meyers, Sergeant, Pennsylvania Department of Corrections, et al., Appellees.\nSupreme Court of Pennsylvania.\nOct. 19, 2010."
+  },
+  "file_name": "0260-01",
+  "first_page_order": 290,
+  "last_page_order": 290
+}

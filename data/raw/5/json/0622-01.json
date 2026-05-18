@@ -1,0 +1,232 @@
+{
+  "id": 7288332,
+  "name": "Eric RUSSELL, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Russell v. State",
+  "decision_date": "2010-09-27",
+  "docket_number": "No. 688, 2009",
+  "first_page": "622",
+  "last_page": "628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 622"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "2006 WL 2661142",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "*2",
+          "parenthetical": "denying review of Moody's \"attempt[ ] to reframe his argument\" because he never presented his appellate argument to the trial court"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 2229022",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "*1",
+          "parenthetical": "denying review of a particular argument in support of Shockley's motion for modification of his sentence because he never submitted it to the trial court for decision"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "968 A.2d 17",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7331452
+      ],
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/0017-01"
+      ]
+    },
+    {
+      "cite": "504 A.2d 1096",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11936107
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "1100"
+        },
+        {
+          "page": "1100",
+          "parenthetical": "\"Failure to make an objection at trial constitutes a waiver of the defendant's right to raise that issue on appeal, unless the error is plain.\""
+        },
+        {
+          "page": "1100"
+        },
+        {
+          "page": "1100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/504/1096-01"
+      ]
+    },
+    {
+      "cite": "695 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11978627
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/695/1152-01"
+      ]
+    },
+    {
+      "cite": "337 A.2d 30",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8049272
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/337/0030-01"
+      ]
+    },
+    {
+      "cite": "337 A.2d 18",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8049212
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/337/0018-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 2873881",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "956 A.2d 1191",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8211009
+      ],
+      "weight": 5,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1194"
+        },
+        {
+          "page": "1194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/1191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 701,
+    "char_count": 16530,
+    "ocr_confidence": 0.717,
+    "pagerank": {
+      "raw": 7.3367150275902e-08,
+      "percentile": 0.44030095963123717
+    },
+    "sha256": "4fbc7dff3b68168edd27f6377e1172ae3e86c906ed74d95143f1bc8065fc3966",
+    "simhash": "1:4ac76d3ab5448db6",
+    "word_count": 2745
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the court en banc."
+    ],
+    "parties": [
+      "Eric RUSSELL, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "STEELE, Chief Justice:\nThe State charged Eric Russell with several serious sexual offenses against his girlfriend\u2019s four year old daughter. At trial, the judge allowed into evidence a pretrial out of court statement the girl made to her mother and a videotaped interview with the girl. The jury convicted Russell. On appeal, Russell disputes the admissibility of the statements. Because Russell never fairly presented his appellate argument at trial, we cannot consider it and must AFFIRM.\nI. FACTS AND PROCEDURAL HISTORY\nIn January 2008, Eric Russell lived in a house with his girlfriend Josephine Sullivan, her four-year-old daughter Dawn, their infant daughter Erica, another mother and her two sons, and the owner of the home, Joe Brown. Russell shared a bedroom with Sullivan and her daughters. According to Sullivan, on January 15, 2008 Dawn told Sullivan that the night before, while Sullivan was at work, Russell had put a \u201cnasty movie\u201d on television, played with his privates in front of her, and asked her to put her mouth on his penis and \u201csuck it.\u201d\nUpon hearing this, Sullivan confronted Russell. Russell fled the house and Sullivan called the police. One week later, Ralph Richardson of the Child Advocacy Center (CAC) videotaped his interview with four-year-old Dawn, during which Dawn discussed Russell\u2019s conduct. During this interview, Dawn said that Russell had put on a \u201cnasty movie,\u201d exposed himself to her, touched her cheek with his penis, put his penis in her mouth, and pulled down her pants and touched her butt.\nThe police finally found and arrested Russell on January 17, 2009. They charged him with First Degree Rape, Endangering the Welfare of a Child, Offensive Touching, First Degree Indecent Exposure, and two counts of First Degree Unlawful Sexual Contact.\nAt trial in September 2009, Dawn, then six years old, testified as a prosecution witness. During direct examination, she acknowledged being in court because of what Russell did to her. When the prosecutor then questioned her about what Russell did to her, Dawn first explained that Russell had been watching a \u201cbad movie\u201d with Joe Brown in the living room and that the movie showed people \u201chumping.\u201d She also said that Russell was making \u201ca humping sound\u201d and that he told her \u201cyou will learn this when you grow up.\u201d\nThen Dawn explained that both she and Russell went to the bedroom. She testified that in the bedroom, while they were both on the bed, Russell touched her leg with his penis. When the prosecutor asked Dawn whether she had told anyone about this, Dawn replied that she had told her mother. She also said that nobody had made her tell her mother, and she confirmed that she had told her mother the truth. The prosecutor then asked Dawn, \u201c[C]an you tell us what you talked to your mom about?\u201d Dawn replied, \u201cThe same thing.\u201d\nAt that point, the prosecutor requested a sidebar conference with the judge and Russell\u2019s attorney in order to confirm that Dawn\u2019s testimony constituted a sufficient foundation under 11 Del. C. \u00a7 3507 to allow Sullivan to testify about what Dawn had told her on January 15, 2008. Russell\u2019s attorney objected, arguing that Dawn\u2019s testimony provided an insufficient foundation. Counsel acknowledged that Dawn had \u201ctouched\u201d on her statement and the underlying events, but argued that Dawn\u2019s testimony had not established that she made the statement voluntarily. The prosecutor countered that she had asked Dawn if anyone had made Dawn speak to her mom and that Dawn had said no. The judge then ruled that the testimony was sufficient under \u00a7 3507 to permit Sullivan to testify about Dawn\u2019s January 15 statement to her.\nThe prosecutor continued her direct examination. Later in her testimony, Dawn recalled talking to Buster, and specifically said that she had answered Buster\u2019s questions and had told him the truth. Dawn also said that nobody had forced her to talk to Buster. When asked what she spoke with Buster about, however, Dawn testified that she could not remember. She confirmed that Buster had shown her pictures of boys and girls without clothes on, but reiterated that she did not remember what they had talked about.\nThe prosecutor requested another sidebar conference with the judge and defense attorney. This time, she offered the CAC videotape under the \u201ctender years exception\u201d of 11 Del. C. \u00a7 3513(b)(1). Russell\u2019s attorney did not object at that time. The judge took the matter under advisement and promised to decide the next day.\nThe following day, the judge met with the prosecutor and Russell\u2019s attorney in his chambers. During this meeting, the judge asked Russell\u2019s attorney to persuade him why he should not admit the CAC videotape into evidence under \u00a7 3513(b)(1). First, Russell\u2019s attorney argued that Dawn\u2019s testimony did not touch upon any alleged intercourse, which was the material event underlying the rape charge. Second, Russell\u2019s attorney argued that \u00a7 3513(b)(1) requires that the child-witness be unavailable. He argued that if the child-witness is available, then the court should analyze admissibility under \u00a7 3507 only, without regard to \u00a7 3513(b)(1) at all. Consequently, Dawn\u2019s testimony would have had to touch on both the underlying event and the statement itself to be admissible, and in this case, counsel argued, it did not touch on the statement. Finally, Russell\u2019s attorney argued that the prosecutor failed to give him the requisite notice of her intention to offer the CAC videotape into evidence under \u00a7 3513(b)(1).\nAfter hearing from both sides, the judge decided that the prosecution could introduce the CAC videotape into evidence under \u00a7 3513(b)(1) and show it to the jury.\nThe jury convicted Russell of all charges on September 29, 2009. On November 20, 2009, the judge sentenced Russell to life plus 32 years and 60 days in prison. Russell now appeals the trial judge\u2019s decision to admit Dawn\u2019s out of court statement to her mother and Dawn\u2019s videotaped CAC interview into evidence.\nII. STANDARD OF REVIEW\nWe review the admission of a pretrial out of court statement for abuse of discretion.\nANALYSIS\nA. 11 Del. C. \u00a7 3507 and 11 Del. C. \u00a7 3513(b)(1) both require a party to establish an adequate foundation before a pretrial out of court statement of a trial witness can be admitted into evidence.\nTo successfully move an out of court statement into evidence under 11 Del. C. \u00a7 3507, the moving party must first produce the witness in court and directly examine the witness. During her direct testimony, the witness must \u201ctouch on\u201d both the events perceived in her out of court statement and her out of court statement itself. If her testimony sufficiently \u201ctouches on\u201d both of these requirements, and if the moving party establishes that the out of court statement was voluntary, then the witness\u2019s out of court statement becomes admissible, whether or not the substance of her trial testimony and her out of court statement are entirely consistent.\nTo successfully move an out of court statement into evidence under 11 Del. C. \u00a7 3513(b)(1), the moving party must likewise establish a sufficient foundational basis for the out of court statement. The specific contours of the required \u00a7 3513(b)(1) foundation, however, are somewhat unclear. At the least, \u00a7 3513(b)(1) requires that a witness be available for cross-examination and that her direct testimony \u201ctouch on\u201d the event that is the subject of her out of court statement. In Dailey v. State, this Court acknowledged without deciding that \u00a7 3513(b)(1) may have additional foundational requirements. In Dailey, because the statement at issue was admissible under \u00a7 3507, this Court declined to examine the specific \u00a7 3513(b)(1) foundational requirements.\nIn this case, we must also decline to examine the possible \u00a7 3513(b)(1) foundational requirements, in addition to a witness being available for cross-examination and giving direct testimony \u201ctouching on\u201d the event in that witness\u2019s out of court statement. Because Russell did not fairly present his appellate argument to the trial judge for consideration, we may not consider that argument for the first time on appeal.\nB. Generally, a party may not raise an aryument on appeal that it did not fairly present to the trial court for consideration.\nUnder Supreme Court Rule 8 and general appellate practice, this Court may not consider questions on appeal unless they were first fairly presented to the trial court for consideration. This prohibition applies to both specific objections as well as the arguments that support those objections.\nA very narrow exception to Rule 8, embedded in its own text, permits this Court to consider a question for the first time on appeal \u201cwhen the interests of justice so require.\u201d This exception is extremely limited and invokes the plain error standard of review.\nAs a general matter, if the error about which an appellant complains is \u201cso clearly prejudicial to substantial rights as to jeopardize the fairness and integrity of the trial process,\u201d then we may consider that appellant\u2019s argument even though he did not fairly present the argument to the trial court for decision. The only errors that satisfy this threshold are those which amount to \u201cmaterial defects which are apparent on the face of the record; which are basic, serious and fundamental in their character, and which clearly deprive an accused of a substantial right, or which clearly show manifest injustice.\u201d Otherwise, under Rule 8, we cannot consider an appellant\u2019s argument unless he fairly raised it at trial.\nC. Russell did not fairly present his appellate aryument opposing the admissibility of the out of court statements to the trial judge and we cannot consider it for the first time on appeal.\nAt trial, Russell\u2019s attorney objected to the prosecutor\u2019s request that she be allowed to introduce Dawn\u2019s statement to her mother into evidence under \u00a7 3507 on foundational grounds. In support of this objection, he argued only that Dawn had not testified that her statement to her mother was voluntary.\nLater, when the trial judge asked Russell\u2019s attorney to explain his arguments opposing the \u00a7 3513(b)(1) admission of the CAC videotape, Russell\u2019s attorney made three primary arguments. First, he argued that Dawn\u2019s testimony did not touch upon any alleged intercourse, which was the material event underlying the rape charge. Second, he argued that \u00a7 3513(b)(1) requires the child-witness to be unavailable. He argued that if the child-witness is available, then the court should look only to \u00a7 3507 and pay no heed to \u00a7 3513(b)(1) at all. Consequently, Dawn\u2019s testimony would have had to touch on both the underlying event and the CAC interview itself to be admissible. In this case, counsel argued, Dawn\u2019s testimony did not touch on the interview. Finally, counsel argued that the prosecutor failed to give him the requisite notice of her intention to offer the CAC videotape into evidence under \u00a7 3513(b)(1).\nIn his opening brief on appeal and at oral argument, Russell argues that Dawn\u2019s trial testimony identified a series of events that occurred on several different days, without differentiating among those that were the subject of the out of court statements at issue and those that were not. He claims that as a result, the trial judge should not have admitted the statements into evidence. This argument differs from the argument made at trial opposing the admissibility of Dawn\u2019s statement to her mother under \u00a7 3507. It is also different from all three arguments advanced at trial opposing the admissibility of Dawn\u2019s CAC interview under \u00a7 3513(b)(1). Whether this argument might be or have been persuasive or whether it articulates a proper basis for denying the admissibility of the out of court statements are not questions that we may consider, under Rule 8, because Russell never fairly presented the argument at trial.\nIII. CONCLUSION\nAfter examining the record, including the transcript of Dawn\u2019s trial testimony, we cannot conclude that the trial judge\u2019s decision to admit the out of court statements was a \u201cmaterial defect! ] ... apparent on the face of the record,\u201d rising to the level of plain error. Therefore, we cannot consider Russell\u2019s argument on appeal because he never fairly presented it to the trial judge and has not met the very narrow plain error exception to Rule 8.\nFor these reasons, we affirm the judgment of the Superior Court.\n. A pseudonym assigned by this Court pursuant to Rule 7(d).\n. In her trial testimony, Dawn referred to Ralph Richardson as \"Mr. Buster,\" his nickname. For the sake of clarity, we will refer to Mr. Richardson as Buster.\n. Dailey v. State, 956 A.2d 1191, 1194 (Del. 2008).\n. 11 Del. C. \u00a7 3507. Use of prior statements as affirmative evidence.\n(a) In a criminal prosecution, the voluntary out of court prior statement of a witness who is present and subject to cross-examination may be used as affirmative evidence with substantive independent testimonial value.\n(b) The rule in subsection (a) of this section shall apply regardless of whether the witness\u2019 in-court testimony is consistent with the prior statement or not. The rule shall likewise apply with or without a showing of surprise by the introducing party.\n(c) This section shall not be construed to affect the rules concerning the admission of statements of defendants or of those who are codefendants in the same trial. This section shall also not apply to the statements of those whom to cross-examine would be to subject to possible self-incrimination.\n. Woodlin v. State, 2010 WL 2873881, at *3 (Del. July 22, 2010); Keys v. State, 337 A.2d 18, 23 (Del. 1975).\n. Woodlin, 2010 WL 2873881, at *3.\n. Id. at *4 (citing Hatcher v. State, 337 A.2d 30, 32 (Del. 1975)).\n. Demby v. State, 695 A.2d 1152, 1161 (Del. 1997).\n. 11 Del. C. \u00a7 3513(b)(1). Hearsay exception for child victim\u2019s or witness\u2019s out of court statement of abuse.\n(b) An out of court statement may be admitted as provided in subsection (a) of this section if;\n(1) The child is present and the child's testimony touches upon the event and is subject to cross-examination rendering such prior statement admissible under \u00a7 3507 of this title; or\n. See Dailey v. State, 956 A.2d 1191, 1194 (Del.2008) (\"We note that this last requirement arguably differs \u00a1rom \u00a7 3507 and Keys\u2019 foundational requirement.... We are unsure what to make of the phrase: \u2018rendering such prior statement admissible under \u00a7 3507 of this title....\u2019\u201d).\n. Id.\n. See id. (explaining that because the statement in that case was admissible under \u00a7 3507, the court could \"avoid the difficulty of parsing \u00a7 3513 to determine whether the General Assembly intended to lessen the State's foundational burden for admitting out of court statements by complaining witnesses younger than eleven years old.\u201d).\n. Id.\n. Del. Sup.Ct. R. 8; Wainwright v. State, 504 A.2d 1096, 1100 (Del.1986).\n. See, e.g., Riedel v. ICI Americas Inc., 968 A.2d 17, 25 (Del.2009) (denying review because Riedel presented a different theory to support her objection to the trial court than she presented on appeal); Shockley v. State, 2007 WL 2229022, at *1 (Del. Aug. 2, 2007) (denying review of a particular argument in support of Shockley's motion for modification of his sentence because he never submitted it to the trial court for decision); Moody v. State, 2006 WL 2661142, at *2 (Del. Aug. 24, 2006) (denying review of Moody's \"attempt[ ] to reframe his argument\u201d because he never presented his appellate argument to the trial court); Wainwright, 504 A.2d at 1100 (\"Failure to make an objection at trial constitutes a waiver of the defendant\u2019s right to raise that issue on appeal, unless the error is plain.\u201d).\n. Del. Sup.Ct. R. 8.\n. Wainwright, 504 A.2d at 1100.\n. Id.\n. Id.\n. App. to Op. Br. at A25:4-7.\n. App. to Op. Br. at A40:7-18.\n. Id. at A40:19-A42:14.\n. Id. at A42:15-A43:7.\n. See, e.g., Op. Br. at 10 (\"In her statement, Dawn relayed, in a disjointed fashion, a series of events that occurred on two or more different days.\u201d).\n.Wainwright, 504 A.2d at 1100.",
+        "type": "majority",
+        "author": "STEELE, Chief Justice:"
+      }
+    ],
+    "attorneys": [
+      "Santino Ceccotti (argued) and Nicole M. Walker, Office of the Public Defender, Wilmington, Delaware for appellant.",
+      "Timothy J. Donovan, Jr., Department of Justice, Wilmington, Delaware for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Eric RUSSELL, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 688, 2009.\nSupreme Court of Delaware.\nSubmitted: Sept. 8, 2010.\nDecided: Sept. 27, 2010.\nCorrected: Sept. 29, 2010.\nSantino Ceccotti (argued) and Nicole M. Walker, Office of the Public Defender, Wilmington, Delaware for appellant.\nTimothy J. Donovan, Jr., Department of Justice, Wilmington, Delaware for appel-lee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices, constituting the court en banc."
+  },
+  "file_name": "0622-01",
+  "first_page_order": 644,
+  "last_page_order": 650
+}

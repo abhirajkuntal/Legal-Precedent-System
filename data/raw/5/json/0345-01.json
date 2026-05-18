@@ -1,0 +1,443 @@
+{
+  "id": 7285854,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Eric Raul MUNIZ, Appellant",
+  "name_abbreviation": "Commonwealth v. Muniz",
+  "decision_date": "2010-09-03",
+  "docket_number": "",
+  "first_page": "345",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "740 A.2d 267",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11548938
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/740/0267-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 573",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777746
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0573-01"
+      ]
+    },
+    {
+      "cite": "423 Pa.Super. 228",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        924723
+      ],
+      "weight": 6,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/423/0228-01"
+      ]
+    },
+    {
+      "cite": "101 S.Ct. 1642",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6183922
+      ],
+      "weight": 13,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0204-01"
+      ]
+    },
+    {
+      "cite": "657 A.2d 1298",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        717810,
+        11945318
+      ],
+      "weight": 11,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1299"
+        },
+        {
+          "page": "1300"
+        },
+        {
+          "page": "1300-1301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/441/0539-01",
+        "/a2d/657/1298-01"
+      ]
+    },
+    {
+      "cite": "441 Pa.Super. 539",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        717810
+      ],
+      "weight": 2,
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/441/0539-01"
+      ]
+    },
+    {
+      "cite": "498 Pa. 326",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1776311
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "586-587"
+        },
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/498/0326-01"
+      ]
+    },
+    {
+      "cite": "979 A.2d 357",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293319
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/0357-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 538",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11900427
+      ],
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/0538-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 403",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        588003,
+        9086662
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0435-01",
+        "/a2d/832/0403-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 435",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588003
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0435-01"
+      ]
+    },
+    {
+      "cite": "779 A.2d 1195",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9495846
+      ],
+      "pin_cites": [
+        {
+          "page": "1199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/779/1195-01"
+      ]
+    },
+    {
+      "cite": "734 A.2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11543655
+      ],
+      "pin_cites": [
+        {
+          "page": "406-407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/734/0404-01"
+      ]
+    },
+    {
+      "cite": "531 Pa. 384",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1834398
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "citations and quotation marks omitted"
+        },
+        {
+          "page": "549",
+          "parenthetical": "citations and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0384-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 1143",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872509
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1144",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/668/1143-01"
+      ]
+    },
+    {
+      "cite": "447 Pa.Super. 192",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        730252
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/447/0192-01"
+      ]
+    },
+    {
+      "cite": "650 A.2d 420",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11325009,
+        474246
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/650/0420-01",
+        "/pa/539/0061-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474246
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0061-01"
+      ]
+    },
+    {
+      "cite": "678 A.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11740659,
+        767076
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "795",
+          "parenthetical": "citing Commonwealth v. Williams, 539 Pa. 61, 650 A.2d 420 (1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/678/0794-01",
+        "/pa-super/451/0119-01"
+      ]
+    },
+    {
+      "cite": "451 Pa.Super. 119",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        767076
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Williams, 539 Pa. 61, 650 A.2d 420 (1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/451/0119-01"
+      ]
+    },
+    {
+      "cite": "753 A.2d 245",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11206148
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "253",
+          "parenthetical": "parallel citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/753/0245-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 968,
+    "char_count": 22610,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 1.219401211636728e-07,
+      "percentile": 0.5978445075369259
+    },
+    "sha256": "8870de55742591491b6c272fa0ed121695624b6b7a06d2b670de7b8385d26298",
+    "simhash": "1:d04d373d26252550",
+    "word_count": 3585
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MUSMANNO, LAZARUS and OLSON, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Eric Raul MUNIZ, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nOLSON, J.:\nAppellant, Eric Raul Muniz, appeals from the judgment of sentence entered on April 28, 2009, sentencing him to incarceration for convictions of possession with intent to deliver cocaine, possession with intent to deliver marijuana, and possession of drug paraphernalia. For the following reasons, we affirm.\nThe trial court summarized the relevant facts and procedural history of this matter as follows:\nThe evidence presented at trial established that [Appellant] was the only person in the first floor apartment at 446 Fremont Street on the morning of July 12, 2007, when agents from the U.S. Marshall Service, Lancaster City Police and Lancaster County Sheriff\u2019s Deputies visited the property looking for an individual named Timothy Baldwin, as part of the Fugitive Task Force. (N.T. at 31, 32, 34, 46, 63, 90-91). The lead officer, Deputy Alan Stiffler, knocked on the door and then heard someone running up the stairs of the apartment. (N.T. at 82-83, 44, 46). Baldwin was considered violent, and the officers identified themselves and entered the property. (N.T. at 33, 39). [Appellant] explained that Baldwin did not live at the address at that time, and then consented to a search of the property [for Baldwin]. (N.T. at 34, 49, 65). Baldwin was not found. (N.T. at 35, 89). The search yielded a baggie of marijuana, found sticking out from between the mattress and a box spring, as well as \u201cnumerous bags of drugs with cocaine, marijuana, and ... a blue bag underneath the mattress with letters on it, and a black handgun.\u201d (N.T. at 50, 53, 54, 59, 70). Officers examined the mattress based upon prior experience where fugitives have hollowed out mattresses of box springs to hide themselves; a bulge in the mattress indicated to the officers that someone might be hiding there. (N.T. at 51-52, 65-66, 67).\nThe drugs, blue bag and handgun were ultimately brought to the attention of Trooper Jason Laudermilch of the Pennsylvania State Police (PSP) (see generally N.T. at 87-88, 95, 97 and 146), who applied for a warrant to search the rest of the property at 446 Fremont Street. (N.T. at 98, 100). The search warrant identified [Appellant] as the owner/occupant/possessor of the property and authorized officers to search for controlled substances, money, paraphernalia, and indicia of occupancy, among other things. (N.T. at 102, Cmwlth. Ex. 11). Including the items seized on July 12, 2007 and those obtained pursuant to the search warrant, Trooper Lauder-milch took possession of 43 bags containing crack cocaine, three larger bags of crack cocaine, four bags of marijuana, a blue cloth bag containing more plastic bags of marijuana, a loaded handgun, a wallet containing [Appellant\u2019s] driver\u2019s license, $608 in cash, 70 bullets for the handgun, a grey plastic digital scale, more empty plastic bags, paperwork in [Appellant\u2019s] name and addressed to him at 446 Fremont Street, and photographs of [Appellant] outside of 446 Fremont Street. (N.T. at 104-107, 118-229, 120, 151, Cmwlth. Ex. 12-28). When tested, the cocaine amounted to 51.4 grams and the marijuana amounted to 185 grams. (N.T. at 130, 131). [Appellant] was arrested shortly thereafter.\n[At trial,] Detective Michael Neff, with the Lancaster County Drug Enforcement Task Force, qualified as an expert in drug trafficking and drug paraphernalia, [and] testified that, based on the quantity of the controlled substances, the packaging, and the presence of paraphernalia, he believed that the items seized from [Appellant\u2019s] apartment were \u201cpossessed with intent to deliver or sell.\u201d (N.T. at 183).\nTrial Court Opinion, 12/10/09, at 3-4.\nOn January 12, 2009, Appellant\u2019s counsel presented a motion to suppress which was denied. Appellant then proceeded to trial, but on January 13, 2009, a mistrial was declared. Appellant underwent a new trial and was convicted on January 16, 2009. He was sentenced on April 28, 2009. This appeal followed.\nAppellant presents three issues on appeal:\n1. Whether the Commonwealth failed to present sufficient evidence at trial to prove Appellant\u2019s guilt beyond a reasonable doubt?\n2. Whether the jury\u2019s guilty verdicts in this case were against the weight of the evidence, and thus shocked one\u2019s sense of justice, thereby necessitating the award of a new trial?\n3. Whether the trial court erred in denying Appellant\u2019s Motion to Suppress narcotics and drug paraphernalia seized during the attempted execution of an arrest warrant at a third party\u2019s residence?\nAppellant\u2019s Brief at 5.\nIn Commonwealth v. Hennigan, 753 A.2d 245 (Pa.Super.2000), our Court set forth the applicable standard for assessing a challenge to the sufficiency of the evidence:\n\u201cThe standard we apply in reviewing the sufficiency of evidence is whether, viewing all the evidence admitted at trial in the light most favorable to the verdict winner, there is sufficient evidence to enable the factfinder to find every element of the crime beyond a reasonable doubt.\u201d Commonwealth v. Heberling, 451 Pa.Super. 119, 678 A.2d 794, 795 (1996) (citing Commonwealth v. Williams, 539 Pa. 61, 650 A.2d 420 (1994)). In applying [the above] test, we may not weigh the evidence and substitute our judgment for that of the fact-finder. In addition, we note that the facts and circumstances established by the Commonwealth need not preclude every possibility of innocence. Any doubts regarding a defendant\u2019s guilt may be resolved by the fact-finder unless the evidence is so week and inconclusive that as a matter of law no probability of fact may be drawn from the combined circumstances. Commonwealth v. Cassidy, 447 Pa.Super. 192, 668 A.2d 1143, 1144 (1995) (citations omitted). The Commonwealth may sustain its burden of proving every element of the crime beyond a reasonable doubt by means of wholly circumstantial evidence. Moreover, in applying the above test, the entire record must be evaluated and all evidence actually received must be considered. Finally, the trier of fact while passing upon the credibility of witnesses and the weight of the evidence produced, is free to believe all, part or none of the evidence. Commonwealth v. Valette, 531 Pa. 384, 613 A.2d 548, 549 (1992) (citations and quotation marks omitted). Commonwealth v. Vetrini, 734 A.2d 404, 406-407 (Pa.Super.1999).\nHennigan, 753 A.2d at 253 (parallel citations omitted).\nIn this matter Appellant challenges the sufficiency of the evidence for his convictions of possession with intent to deliver cocaine, possession with intent to deliver marijuana, and unlawful possession of drug paraphernalia. Appellant\u2019s Brief at 11. In particular, Appellant alleges that the evidence was insufficient to establish possession of the drugs and paraphernalia, which, as is implied by their titles, is a required element for each of the crimes. According to Appellant, though the drugs, gun, and paraphernalia resulting in his convictions were found in the apartment where he was staying, they were not found on his person or within his control such that he possessed the materials. Id. According to Appellant, he was merely present at the scene of the crime which is insufficient evidence of possession. Id.\nUnder Pennsylvania law, [constructive possession is an inference arising from a set of facts that possession of the contraband was more likely than not. We have defined constructive possession as \u201cconscious dominion.\u201d We subsequently defined \u201cconscious dominion\u201d as the power to control the contraband and the intent to exercise that control. To aid application, we have held that constructive possession may be established by the totality of the circumstances.\nCommonwealth v. Thompson, 779 A.2d 1195, 1199 (Pa.Super.2001) (internal citations and quotations omitted).\nIn this matter the evidence established that Appellant was the sole occupant of the apartment where the drugs, gun, and paraphernalia were found. In addition, Appellant\u2019s wallet containing over $600 in cash and other identifying documents were found in the bedroom in which the materials were discovered. Consequently, we agree with the trial court that, though the drugs, gun, and paraphernalia were not found on Appellant\u2019s person, the evidence in this matter, especially when considered in light of our standard of review, is more than sufficient to establish Appellant\u2019s constructive possession of the materials. Indeed, the court in this matter no doubt considered the possibility that Baldwin could have placed the drugs in Appellant\u2019s room without Appellant\u2019s knowledge. However, based upon the court\u2019s determination, it is equally clear that the court rejected that notion. Given our standard of review, we are bound by that determination. Commonwealth v. Champney, 574 Pa. 435, 832 A.2d 403, 408 (2003). Appellant\u2019s first issue on appeal lacks merit.\nNext, Appellant argues that his convictions were against the weight of the evidence. Appellant\u2019s Brief at 15-18. Pursuant to Pennsylvania Rule of Criminal Procedure 607, challenges to the weight of the evidence must be raised with the trial judge in a motion for a new trial orally or written before sentencing, or in a post sentence motion. See Pa.R.Crim.P. 607. In this matter the record reflects that Appellant failed to properly raise the claim with the trial court pursuant to Rule 607. Consequently, the claim is waived.\nAppellant\u2019s third issue challenges the trial court\u2019s denial of his motion to suppress. Appellant\u2019s Brief at 18-33. When reviewing the denial of a motion to suppress, we must first ascertain whether the record supports the court\u2019s factual findings. Commonwealth v. Dangle, 700 A.2d 538, 539 (Pa.Super.1997). In considering those factual findings, we must consider only the evidence of the prosecution and so much of the evidence for the defense as remains uncontradicted when read in the context of the record as a whole. Commonwealth v. Foglia, 979 A.2d 357, 360 (Pa.Super.2009). We are bound by the suppression court\u2019s findings if they are supported by the record, and may only reverse the suppression court if the legal conclusions drawn from the findings are in error. Id.\nIn this matter Appellant challenges the trial court\u2019s denial of the motion to suppress on several bases. First, Appellant claims that because the police\u2019s initial entry into apartment No. 2 of 446 Fremont Street was predicated solely upon an arrest warrant for Timothy Baldwin, and not upon an arrest warrant for him or a search warrant for the premises, the search was illegal. Appellant\u2019s Brief at 19-24. In support of this theory Appellant relies upon what he calls the Martin/Steagald test, alleging that under that test, the authorities did not have a valid basis to enter Appellant\u2019s apartment. Id. at 19. The trial court and the Commonwealth, on the other hand, acknowledge the Martin/Steagald test, but explain that under the circumstances of this matter, the holdings of Commonwealth v. Stanley, 498 Pa. 326, 446 A.2d 583 (1982) and Commonwealth v. Conception, 441 Pa.Super. 539, 657 A.2d 1298 (1995) are more applicable. We hold that the harmonized application of all four cases is appropriate and that, based upon application of those precedents, the authorities\u2019 entry into Appellant\u2019s apartment was not illegal.\nSpecifically, in Steagald the United States Supreme Court addressed the narrow issue of \u201cwhether an arrest warrant\u2014 as opposed to a search warrant \u2014 is adequate to protect the Fourth Amendment interests of persons not named in the warrant, when their homes are searched without their consent and in the absence of exigent circumstances.\u201d Steagald, 451 U.S. at 212, 101 S.Ct. 1642. In that matter, the authorities arrived at a location armed with an arrest warrant to arrest a fugitive. Id. at 206-207, 101 S.Ct. 1642. Prior to entry into the residence, they were confronted by the defendant/owner of the residence. Id. The authorities explained that they were looking for a fugitive that they believed to be in the residence. Id. The defendant/owner stated that she did not know the fugitive and denied the authorities entry into the residence. Id. Nevertheless, the authorities entered and searched the residence, with the mistaken understanding that the arrest warrant provided them authority to search the residence. Id. at 207, 101 S.Ct. 1642. As a result of that search, the authorities found cocaine, but not the fugitive. Id. The defendant/owner was arrested. Id.\nOn appeal, the United States Supreme Court explained the difference in the interests protected by arrest warrants and search warrants, and held that the arrest warrant naming a person who was not the owner of the residence was inadequate to justify the search of the defendant/owner\u2019s residence. Id. at 214, 101 S.Ct. 1642. Absent consent or exigent circumstances, the Supreme Court explained that a search warrant was required in such a case. Id.\nOver ten years later, in Commonwealth v. Martin, 423 Pa.Super. 228, 620 A.2d 1194 (1993), this Court issued a per cu-riam opinion, reversing a denial of a suppression motion and vacating a judgment of sentence, finding the situation in that matter indistinguishable from Steagald. Martin, 620 A.2d at 1196. Of importance to both the Steagald and Martin decisions was the fact that the rights of the third party owner/possessor (and not the subject of the arrest warrant) were being considered. In both cases, the evidence against the third party owner/possessor was suppressed.\nIn the Stanley matter, the Pennsylvania Supreme Court considered a similar situation, but that holding focused on the rights of the subject of the arrest warrant \u2014 not the rights of the third party owner/possessor. Stanley, 446 A.2d at 586-587. In Stanley, police received a tip that a fugitive was hiding in a woman\u2019s apartment. Id. at 585-586. The police proceeded to the apartment, entered the residence and apprehended the fugitive. Id. The fugitive challenged the entry into the woman\u2019s apartment, but the Court held that based upon the information provided in the tip, the police had \u201creason to believe\u201d that the fugitive was within the residence. Id. at 587. Stanley relied on the United States Supreme Court\u2019s holding in Payton v. New York, 445 U.S. 573, 100 S.Ct. 1371, 63 L.Ed.2d 639 (1980), that police armed with an arrest warrant and \u201creason to believe\u201d that the subject of that warrant was within the suspect\u2019s own home could enter the home and arrest the suspect without a search warrant. Stanley, 446 A.2d at 586. The Stanley Court held that an arrestee has even less of a privacy interest in the home of another, so he could be arrested there. Id.\n' Resolution of the combination of situations occurred in Commonwealth v. Conception, 441 Pa.Super. 539, 657 A.2d 1298 (1995), where we considered the Fourth Amendment rights of a third party when her residence was entered under the mistaken belief that it was also the residence of someone subject to an arrest warrant\u2014 a factual scenario nearly identical to this matter. In Conception the police showed up at the defendant\u2019s apartment with an arrest warrant for Robert Vargas and Martin Rivera, and a reasonable belief that they lived at the subject apartment. Id. at 1299. Instead of Vargas or Rivera, the defendant opened the door, stated that she did not know either man and refused the police entry into the premises. Id. Nevertheless, the police forcibly entered the apartment and searched the premises for Vargas and Rivera. Id. As a result of that search, the police found marijuana in plain view. Id. The defendant was consequently placed under arrest. Id.\nOn appeal, the defendant in Conception relied on Steagald for the position that, notwithstanding the arrest warrant for Vargas and Rivera, the police were required to have a valid search warrant to search her premises. Id. at 1300. However, in the Conception decision we distinguished Steagald, explaining that in Steag-ald the police understood the premises to belong to a third party. In Conception, however, the police believed the apartment to be the residence of one of the subjects of the arrest warrant (i.e. Vargas). Therefore, although the individual asserting the Fourth Amendment rights in Conception was the third-party (as in Steagald), the person being searched for was believed to reside at the premises. Under this analysis, we held that Stanley was more applicable. Thus, because the authorities had a reason to believe that a subject of the arrest warrant lived within the premises, they did not need a search warrant to enter the premises to search for the suspects. Id. at 1300-1301.\nAlmost an identical factual scenario occurred in this matter. The trial court found that based upon the information provided to them, the authorities had a reasonable belief that the current address for Timothy Baldwin was 446 Fremont Street. Appellant challenges that finding, claiming that the authorities\u2019 belief was unreasonable because Baldwin\u2019s approved parole address was in Philadelphia and because Appellant\u2019s mother testified that she and her son, not Baldwin, lived in the apartment. Appellant\u2019s Brief at 23. However, the testimony of Appellant\u2019s mother is irrelevant to what authorities believed on the morning of the incident. Moreover, testimony from a female at Baldwin\u2019s previous residence, a LexisNexis search/listing, and a statement from a co-resident in Appellant\u2019s building all corroborated the reasonable belief that Baldwin lived in (and could be found in) the apartment. Therefore, though Baldwin was apprehended in York, Pennsylvania, several weeks later, his absence on the morning in question does not lessen the trial court\u2019s finding of the reasonable (though mistaken) belief.\nTherefore, based upon that reasonable belief and the arrest warrant with the 446 Fremont Street address, the authorities had the legal basis to enter the residence in search of Baldwin. Consequently, despite the fact that Baldwin was not inside, the entry of the residence did not violate Appellant\u2019s Fourth Amendment rights. Appellant\u2019s first basis to challenge the denial of his motion to suppress is without merit.\nNext, Appellant claims that, even if the initial entry into his residence was lawful, his consent to search the apartment was unlawful and anything obtained as a result of the consent should have been suppressed. Appellant\u2019s Brief at 26. According to Appellant, when confronted by yelling law enforcement officers with guns drawn, he felt compelled and constrained to consent. Id. Therefore his consent was coerced and invalid. Id.\nAppellant is correct that an involuntary consent is unlawful and results in the suppression of illegally obtained evidence. However, no consent was necessary in this matter. Rather, as set forth above, under Conception, so long as the authorities had reason to believe that the subject of an arrest warrant (Baldwin) lived in and could be found in the apartment, they had a valid basis to search the apartment for the subject of that warrant. Therefore, regardless of whether Appellant\u2019s consent was voluntary or not, Appellant\u2019s basis to suppress the evidence is without merit \u2014 no consent was necessary.\nAppellant next challenges the extent of the authorities\u2019 search for Baldwin within the apartment, claiming that the materials found within the mattress were not found within plain view because they were not viewed from a lawful vantage point. Appellant\u2019s Brief at 27-29. According to Appellant, \u201cit is not believable\u201d that the authorities thought that Appellant could be hiding within the mattress. Id. at 28. Therefore, Appellant asserts that the mattress was illegally lifted to reveal the illegal materials. Id.\nAppellant\u2019s claim fails for two reasons. First, it is waived as it was not argued to the trial court. Pa.R.A.P. 302(a) (issues not raised in the trial court are waived on appeal). Second, even if it were not waived, we note that to argue that testimony was \u201cnot believable\u201d is an improper basis for appeal. Indeed, the trial court explained that while originally skeptical, it found the officers\u2019 testimony that they believed that Baldwin could have been hiding in the mattress credible. N.T., 1/12/09, at 127-128. Consequently, we accept the trial court\u2019s finding of credibility and therefore hold that the materials were lawfully discovered. Commonwealth v. McDonald, 740 A.2d 267, 269 (Pa.Super.1999) (when reviewing the denial of a motion to suppress, the appellate court will not substitute its credibility determination for that of the suppression court judge).\nFinally, Appellant asserts several arguments challenging the time and manner of entry into his residence. Appellant\u2019s Brief at 29-32. According to Appellant, the officers\u2019 conduct in this matter violated both Pa.R.Crim.P. 206(7) (requiring additional reasonable cause for execution of \u201cnighttime\u201d search warrants) and Pa.R.Crim.P. 207 (codifying the \u201cknock and announce\u201d rule). However, like his previous issue, neither of these issues was raised and preserved before the trial court. Therefore, pursuant to Pa.R.A.P. 302(a), the issues are waived.\nJudgment of sentence affirmed.\n. At the sentencing hearing, Appellant pled no contest to the charge of person not to possess firearms and was also sentenced for that offense.\n. Trooper Laudermilch was incorrectly identified in the transcript as \"Trooper Latimer.\u201d\n. On June 1, 2009 the trial court ordered Appellant to submit a concise statement of errors complained of on appeal pursuant to Pa.R.A.P. 1925. Appellant submitted his timely statement on June 22, 2009, and the trial court issued a Rule 1925 opinion on December 10, 2009.\n. See 35 P.S. \u00a7 780-113.\n. Referring to Steagald v. United States, 451 U.S. 204, 101 S.Ct. 1642, 68 L.Ed.2d 38 (1981) and Commonwealth v. Martin, 423 Pa.Super. 228, 620 A.2d 1194 (1993).\n. The police also located Rivera, hiding in a shower stall. He too was arrested. Id.\n. Given that we find that the \u201cMartin/Steagaid test\u201d does not apply to this matter, we also reject Appellant\u2019s argument that the authorities needed probable cause (beyond the arrest warrant) to enter his residence in search of Baldwin. Appellant\u2019s Brief at 22-24. Indeed, as set forth above, pursuant to Stanley/Conception, all that was necessary was a valid arrest warrant and a \"reasonable belief\u201d that Baldwin lived in and could be found in the residence.",
+        "type": "majority",
+        "author": "OLSON, J.:"
+      }
+    ],
+    "attorneys": [
+      "Joseph M. Sembrot, Harrisburg, for appellant.",
+      "Carolyn J. Flannery, Asst. Dist. Atty., Lancaster, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Eric Raul MUNIZ, Appellant.\nSuperior Court of Pennsylvania.\nArgued June 9, 2010.\nFiled Sept. 3, 2010.\nJoseph M. Sembrot, Harrisburg, for appellant.\nCarolyn J. Flannery, Asst. Dist. Atty., Lancaster, for Com., appellee.\nBEFORE: MUSMANNO, LAZARUS and OLSON, JJ."
+  },
+  "file_name": "0345-01",
+  "first_page_order": 375,
+  "last_page_order": 383
+}

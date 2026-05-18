@@ -1,0 +1,769 @@
+{
+  "id": 7290998,
+  "name": "James TIPPETT, Trustee for the Revocable Trust of James Tippett, Appellant, v. Gregory DALY, Appellee",
+  "name_abbreviation": "Tippett v. Daly",
+  "decision_date": "2010-12-30",
+  "docket_number": "No. 06-CV-1327",
+  "first_page": "1123",
+  "last_page": "1141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 1123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "364 U.S. 587",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173277
+      ],
+      "weight": 4,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "596",
+          "parenthetical": "commenting on the rule of lenity applied in criminal cases"
+        },
+        {
+          "parenthetical": "commenting on the rule of lenity applied in criminal cases"
+        },
+        {
+          "parenthetical": "commenting on the rule of lenity applied in criminal cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/364/0587-01"
+      ]
+    },
+    {
+      "cite": "172 N.E.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Unavailability of the party to be notified may affect the rule [that notice to exercise an option is effective only upon receipt]."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 Mass. 108",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3854656
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Unavailability of the party to be notified may affect the rule [that notice to exercise an option is effective only upon receipt]."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/342/0108-01"
+      ]
+    },
+    {
+      "cite": "869 A.2d 329",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9020197
+      ],
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/869/0329-01"
+      ]
+    },
+    {
+      "cite": "19 F.Supp.2d 217",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11673949
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "223, 224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/19/0217-01"
+      ]
+    },
+    {
+      "cite": "857 A.2d 1061",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9185149
+      ],
+      "pin_cites": [
+        {
+          "page": "1065"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/857/1061-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131066
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "525-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0522-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 1161",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9000632
+      ],
+      "pin_cites": [
+        {
+          "page": "1166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/1161-01"
+      ]
+    },
+    {
+      "cite": "924 A.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8304041
+      ],
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/0289-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 552",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1775136
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0552-01"
+      ]
+    },
+    {
+      "cite": "173 F.3d 870",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11624915,
+        3668420
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "878-79",
+          "parenthetical": "\"Post-enactment legislative history ... becomes of absolutely no significance when the subsequent Congress ... takes on the role of a court and in its reports asserts the meaning of a prior statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/173/0870-01",
+        "/us-app-dc/335/0331-01"
+      ]
+    },
+    {
+      "cite": "335 U.S.App.D.C. 331",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3668420
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "339-40",
+          "parenthetical": "\"Post-enactment legislative history ... becomes of absolutely no significance when the subsequent Congress ... takes on the role of a court and in its reports asserts the meaning of a prior statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/335/0331-01"
+      ]
+    },
+    {
+      "cite": "549 U.S. 497",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3553859
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Price"
+        },
+        {
+          "parenthetical": "quoting Price"
+        },
+        {
+          "parenthetical": "quoting Price"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/549/0497-01"
+      ]
+    },
+    {
+      "cite": "361 U.S. 304",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168295
+      ],
+      "weight": 3,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/361/0304-01"
+      ]
+    },
+    {
+      "cite": "596 A.2d 569",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11302084
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "579"
+        },
+        {
+          "page": "578",
+          "parenthetical": "Schwelb, J., concurring"
+        },
+        {
+          "page": "577",
+          "parenthetical": "Schwelb, J., concurring"
+        },
+        {
+          "page": "571",
+          "parenthetical": "Schwelb, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/596/0569-01"
+      ]
+    },
+    {
+      "cite": "711 A.2d 85",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11814318
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/711/0085-01"
+      ]
+    },
+    {
+      "cite": "693 A.2d 1084",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12004924
+      ],
+      "pin_cites": [
+        {
+          "page": "1103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/693/1084-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 244",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147362
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "265",
+          "parenthetical": "\"If the statute would operate retroactively, our traditional presumption teaches that it does not govern absent clear congressional intent favoring such a result.\""
+        },
+        {
+          "parenthetical": "\"If the statute would operate retroactively, our traditional presumption teaches that it does not govern absent clear congressional intent favoring such a result.\""
+        },
+        {
+          "parenthetical": "\"If the statute would operate retroactively, our traditional presumption teaches that it does not govern absent clear congressional intent favoring such a result.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0244-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 691",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294433
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "716"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/0691-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8976498
+      ],
+      "pin_cites": [
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/872/0633-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508268
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0120-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 481",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5991514
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0481-01"
+      ]
+    },
+    {
+      "cite": "917 A.2d 1083",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8327221
+      ],
+      "pin_cites": [
+        {
+          "page": "1087"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/917/1083-01"
+      ]
+    },
+    {
+      "cite": "397 A.2d 951",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7994110
+      ],
+      "pin_cites": [
+        {
+          "page": "956"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/397/0951-01"
+      ]
+    },
+    {
+      "cite": "470 A.2d 751",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7991970
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/470/0751-01"
+      ]
+    },
+    {
+      "cite": "516 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        326878
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "144"
+        },
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0137-01"
+      ]
+    },
+    {
+      "cite": "829 A.2d 201",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9100212
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "203"
+        },
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/829/0201-01"
+      ]
+    },
+    {
+      "cite": "887 A.2d 1004",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9004256
+      ],
+      "pin_cites": [
+        {
+          "page": "1007"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/887/1004-01"
+      ]
+    },
+    {
+      "cite": "973 A.2d 691",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7298017,
+        7298054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/973/0691-01",
+        "/a2d/973/0691-02"
+      ]
+    },
+    {
+      "cite": "964 A.2d 606",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8212059
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "615"
+        },
+        {
+          "page": "613-14"
+        },
+        {
+          "page": "608-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/0606-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed. 905",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1955,
+      "opinion_index": 1
+    },
+    {
+      "cite": "349 U.S. 81",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333568
+      ],
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/349/0081-01"
+      ]
+    },
+    {
+      "cite": "8 A.3d 1206",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7289916
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/8/1206-01"
+      ]
+    },
+    {
+      "cite": "127 A. 637",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "147 Md. 232",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2143827
+      ],
+      "year": 1925,
+      "opinion_index": 1,
+      "case_paths": [
+        "/md/147/0232-01"
+      ]
+    },
+    {
+      "cite": "350 Md. 284",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1537441
+      ],
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/md/350/0284-01"
+      ]
+    },
+    {
+      "cite": "364 U.S. 587",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173277
+      ],
+      "weight": 7,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "596"
+        },
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/364/0587-01"
+      ]
+    },
+    {
+      "cite": "964 A.2d 606",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8212059
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/964/0606-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1877,
+    "char_count": 62946,
+    "ocr_confidence": 0.716,
+    "pagerank": {
+      "raw": 3.1392857116628793e-07,
+      "percentile": 0.8619375106425123
+    },
+    "sha256": "dfda0355204d512224ecbc75644b4f3c7d04e703477cb3aea92def3ee4d4dd5f",
+    "simhash": "1:f6b07147b60bbd54",
+    "word_count": 10461
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WASHINGTON, Chief Judge, and RUIZ, REID, GLICKMAN, KRAMER, FISHER, BLACKBURNE-RIGSBY, THOMPSON, and OBERLY, Associate Judges."
+    ],
+    "parties": [
+      "James TIPPETT, Trustee for the Revocable Trust of James Tippett, Appellant, v. Gregory DALY, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Associate Judge:\nJames Tippett appeals from judgments entered following a consolidated trial of his suit for possession of a dwelling and his tenant\u2019s suit for breach of contract. The trial court held (1) that the tenant had timely invoked his rights under the Tenant Opportunity to Purchase Act (\u201cTOPA\u201d), D.C.Code \u00a7\u00a7 42-3404.02 to 42-3404.13 (2001), by providing a written statement of interest within thirty days of receiving the owner\u2019s offer of sale, see D.C.Code \u00a7 42-3404.09(1) (2001); and (2) that the owner had waived a ninety-day notice to vacate for personal use and occupancy by accepting rent for a new term that began after the notice expired. When this appeal was heard by a division of the court, we reversed the first judgment and affirmed the second. Tippett v. Daly, 964 A.2d 606 (D.C.2009). Thereafter, the full court granted appellee\u2019s petition for rehearing en banc to reconsider the first issue and vacated the original opinion. Tippett v. Daly, 973 A.2d 691 (D.C.2009) (granting rehearing en banc). Upon reconsideration, we reach the same result, but issue this modified opinion. Our holding will have limited impact because, as we explain in more detail below, the relevant portion of the statute has been amended.\nI. The Factual and Procedural Background\nThe revocable trust of James Tippett owns a single-family dwelling which Gregory Daly (\u201cthe tenant\u201d) has rented for more than thirty years. On April 28, 2001, pursuant to TOPA, see D.C.Code \u00a7 42-3404.03 (2001), the owner mailed an offer of sale which the tenant received on April 30. The tenant testified that he mailed a statement of interest to the owner on May 18 and filed a copy with the Department of Consumer and Regulatory Affairs (\u201cDCRA\u201d) the same day. The owner testified, however, that he did not receive the statement of interest until June 2. On July 27, 2001, the tenant and his partner placed $20,000 in escrow as a \u201cpurchase contract deposit\u201d and on July 30 the tenant hand-delivered a purchase contract to the owner. The owner did not sign the contract and the deposit remained in escrow at the time of trial.\nOn April 29, 2002, the tenant filed a complaint seeking damages, specific performance of the alleged contract for sale of the property, and an injunction ordering the owner to comply with TOPA. Following a bench trial, the trial court directed the owner to \u201cnegotiate with [the tenant] in good faith for the sale of\u2019 the property. The court first found that the tenant had timely provided his statement of interest by mailing it on May 18. The court calculated the thirty-day period for response from the date the owner mailed the offer of sale, April 28, added three days for mailing and an additional day because April 29 was a Sunday, see Super. Ct. Civ. R. 6 (2001), and determined that the statement had to be provided by June 3, 2001. Moreover, the court held that the tenant\u2019s \u201cacceptance of the offer of sale was complete upon mailing the statement of interest on May 18, 2001[,]\u201d and that the statement of interest was therefore timely regardless of when the owner actually received it. (Bench Order and Op. at 4 (citing Restatement (Second) of Contracts \u00a7 63(a) (1981).))\nII. Was the Statement of Interest Timely Provided?\nUnder TOPA, an owner of a rental housing accommodation who wishes to sell the property must first \u201cgive the tenant an opportunity to purchase the accommodation at a price and terms which represent a bona fide offer of sale.\u201d D.C.Code \u00a7 42-3404.02(a) (2001). To fulfill this requirement, the owner must \u201cprovide each tenant and the Mayor a written copy of the offer of sale....\u201d D.C.Code \u00a7 42-3404.03 (2001). The time allowed for the tenant(s) to respond depends upon the number of units in the housing accommodation. For a single-family dwelling, \u201c[u]pon receipt of a written offer of sale from the owner ..., the tenant shall have 30 days to provide the owner and the Mayor with a written statement of interest.\u201d D.C.Code \u00a7 42-3404.09(1) (2001). If the tenant \u201chas provided a written statement of interest in accordance with paragraph (1) of [\u00a7 42-3404.09],\u201d the owner must allow additional time for negotiation of a contract of sale, and, if a contract is agreed to, for settlement. D.C.Code \u00a7 42-3404.09(2), (3) (2001).\nA. May 30 Was the Deadline.\nThe owner argues that the trial court erred both in calculating the time within which the tenant was required to provide his statement of interest and in holding that the tenant had \u201cprovided\u201d that statement when he mailed it on May 18. The tenant wisely concedes error on the first point. The statute states that, \u201c[u]pon receipt\u201d of the written offer of sale, the tenant shall have thirty days to provide a written statement of interest. D.C.Code \u00a7 42-3404.09(1) (2001). The tenant testified, and it was undisputed at trial, that he received the offer on April 30. Thus, the tenant had thirty days from April 30 (until May 30) to provide a statement of interest. TOPA has its own provision for calculating time periods, see D.C.Code \u00a7 42-3405.02 (2001), and the trial court erred in relying on a rule of civil procedure to extend the time prescribed by statute. See D.C.Code \u00a7 42-3405.11 (2001) (\u201cIf this chapter conflicts with another provision of law of general applicability, the provisions of this chapter control.\u201d) (emphasis added); Super. Ct. Civ. R. 1 (2001) (the rules of civil procedure only govern procedure in suits of a civil nature).\nB. What Does the Statute Require?\nThe remaining question then is whether the tenant \u201cprovide[d] the owner ... with\u201d the statement of interest when he placed it in the mail on May 18 or whether, as the owner contends, the tenant did not \u201cprovide [him] with\u201d the statement until he received it on June 2. The meaning of the term \u201cprovide ... with\u201d is a question of statutory interpretation, and we review the trial court\u2019s decision de novo. Wemhoff v. District of Columbia, 887 A.2d 1004, 1007 (D.C.2005); 1618 Twenty-First Street Tenants\u2019 Ass\u2019n, Inc. v. Phillips Collection, 829 A.2d 201, 203 (D.C.2003).\n1. The Language of the Statute\n\u201cWe start, as we must, with the language of the statute.\u201d Bailey v. United States, 516 U.S. 137, 144, 116 S.Ct. 501, 133 L.Ed.2d 472 (1995). \u201cThe primary and general rule of statutory construction is that the intent of the lawmaker is to be found in the language that he has used.\u201d Peoples Drug Stores, Inc. v. District of Columbia, 470 A.2d 751, 753 (D.C.1983) (en banc) (internal quotation marks and citation omitted). \u201cMoreover, in examin ing the statutory language, it is axiomatic that \u2018the words of the statute should be construed according to their ordinary sense and with the meaning commonly attributed to them.\u2019 \u201d Id. (quoting Davis v. United States, 397 A.2d 951, 956 (D.C.1979) (additional citation omitted)).\nNeither TOPA nor the related regulations define the term \u201cprovide ... with.\u201d See D.C.Code \u00a7 42-3401.03 (2001) (definitions section); 14 DCMR \u00a7 4799.1 (1991) (same). Thus, it is appropriate for us to look to dictionary definitions to determine the ordinary meaning of these words. 1618 Twenty-First Street Tenants\u2019 Ass\u2019n, 829 A.2d at 203. \u201cProvide\u201d means \u201cto supply for use\u201d and is synonymous with \u201cfurnish.\u201d Webster\u2019s Third New International Dictionary 1827 (2002); see also The American Heritage Dictionary of the English Language 1458 (3d ed. 1992) (\u201c[t]o furnish,\u201d \u201csupply,\u201d or \u201cmake available\u201d). In order to \u201cuse\u201d the statement \u2014 to be able to read it and act upon it \u2014 the owner must have access to it. Therefore, \u201cto supply [the statement of interest] for use\u201d or to \u201cmake [it] available,\u201d the tenant must place it in the owner\u2019s possession. Depositing the statement in the mail may give rise to an inference that the owner will receive it eventually, see, e.g., Kidd Int\u2019l Home Care, Inc. v. Prince, 917 A.2d 1083, 1087 (D.C.2007) (There is \u201ca rebuttable presumption that a letter properly addressed, stamped, and mailed, and not returned to the sender, has been delivered to the addressee.\u201d), but the owner does not have possession of, or access to, the statement while it is in the mail stream. Thus, the \u201cordinary sense\u201d of the term \u201cprovide ... with\u201d is that the tenant must ensure that the statement reaches the landlord within thirty days.\n2. The Statutory Context\nWe recognize, however, that \u201c[a] word in a statute may or may not extend to the outer limits of its definitional possibilities.\u201d Dolan v. United States Postal Service, 546 U.S. 481, 486, 126 S.Ct. 1252, 163 L.Ed.2d 1079 (2006). \u201cThe meaning\u2014 or ambiguity \u2014 of certain words or phrases may only become evident when placed in context.\u201d FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 132, 120 S.Ct. 1291, 146 L.Ed.2d 121 (2000). Therefore, \u201cwe do not read statutory words in isolation; the language of surrounding and related paragraphs may be instrumental to understanding them.\u201d District of Columbia v. Beretta, U.S.A., Corp., 872 A.2d 633, 652 (D.C.2005) (en banc). \u201cWe consider not only the bare meaning of the word but also its placement and purpose in the statutory scheme.\u201d Bailey, 516 U.S. at 145, 116 S.Ct. 501. \u201cStatutory interpretation is a holistic endeavor....\u201d Washington Gas Light Co. v. Public Service Comm\u2019n, 982 A.2d 691, 716 (D.C.2009) (internal quotation marks and citations omitted).\nTOPA contains separate provisions dealing with single-family accommodations (\u00a7 42-3404.09), accommodations with two through four units (\u00a7 42-3404.10), and accommodations with five or more units (\u00a7 42-3404.11). Variants of the word \u201cprovide\u201d appear throughout the statutory scheme. Some portions of TOPA require the tenant to provide notice to the owner; others require the owner to provide information to the tenant.\nThe process begins when the owner provides each tenant and the Mayor a written copy of an offer of sale (\u00a7 42-3404.03). This written offer must include:\n(4) A statement that the owner shall make available to the tenant a floor plan of the building and an itemized list of monthly operating expenses, utility consumption rates, and capital expenditures for each of the 2 preceding calendar years within 7 days after receiving a request. The statement shall also indicate that the owner shall, at the same time, make available the most recent rent roll, list of tenants, and list of vacant apartments. If the owner does not have a floor plan, the owner may meet the requirement to provide a floor plan by stating in writing to the tenant that the owner does not have a floor plan.\nD.C.Code \u00a7 42-3404.03(4) (2001). The owner\u2019s obligation is to make this information available to the tenant \u201cwithin 7 days after receiving a request.\u201d \u00a7 42-3404.03(3). The last sentence of subsection (4) refers to one aspect of this obligation as \u201cthe requirement to provide a floor plan\u201d (emphasis added). Later sections of TOPA dealing with the sale of accommodations of different sizes all use common language to refer back to this requirement: \u201cFor every day of delay in providing information by the owner as required by this subchapter, the negotiation period is extended by 1 day.\u201d \u00a7 42-3404.09(2); \u00a7 42-3404.10(2); \u00a7 42-3404.11(2) (emphasis added). In context, therefore, providing information to tenants is synonymous with making it available to them. If the owner had mailed the information and it still were in the mail stream after the seven-day deadline had expired, each day that passed before the mail arrived would be counted as a day of delay.\nThus, \u00a7 42-3404.09(1) gives the tenant \u201c30 days to provide the owner and the Mayor with a written statement of interest.\u201d Section 42-3404.09(2) refers to the owner\u2019s obligation to provide information to the tenant. Similar parallel use of these terms is found in D.C.Code \u00a7 42-3404.10 (2001) (accommodations of two through four units). The word \u201cprovide\u201d and its variations should have the same meaning, whether the tenant or the owner has the obligation to \u201cprovide.\u201d Both the language and the structure of the statute confirm that \u201cprovide\u201d means \u201cmake available.\u201d\n3. The Legislative History\nWe have not found any legislative history from 1980 that is particularly useful in deciding the question before us. This is not surprising because, as originally enacted, TOPA did not require tenants in accommodations of up to four units to submit a statement of interest within any specified period of time. Rental Housing Conversion and Sale Act of 1980, D.C. Law 3-86, \u00a7\u00a7 409-410, 27 D.C.Reg. 2975, 2993-94 (1980). In 1983, however, the Council amended the statute to limit the time within which the tenants of a housing accommodation of two to four units could respond to an offer of sale. Rental Housing Conversion and Sale Act of 1980 Amendments and Extension Act of 1983, D.C. Law 5-38, \u00a7 2(k), 30 D.C.Reg. 4866, 4872 (1983). The thirty-day time period at issue here was added in 1988 after opponents of legislation to renew the Rental Housing Conversion and Sale Act (including TOPA) requested a similar limitation for single family dwellings.' Rental Housing Conversion and Sale Act of 1980 Extension Amendment Act of 1988, D.C. Law 7-154 \u00a7 2(g), 35 D.C.Reg. 5715, 5716 (1988).\nIn its original form, TOPA set only one deadline for an expression of interest, and it applied to tenants in an accommodation with five or more units. \u201cIn order to make a contract of sale with an owner,\u201d D.C.Code \u00a7 45-1640, now codified as D.C.Code \u00a7 42-3404.11 (2001), required the tenants to \u201c[f]orm a tenant organization with the legal capacity to hold real property\u201d and \u201cdeliver a statement of registration to the Mayor and the owner by hand or by first class mail within 45 days of receipt of a valid offer.\u201d Whether the tenants used the mail or made hand delivery, the statement of registration had to be delivered to the owner \u201cwithin 45 days.\u201d This served as notice that the tenant organization wished to purchase the property.\nIn 1983 the Council was asked to extend the life of the Rental Housing Conversion and Sale Act and to make certain amendments. The Committee Report explained that \u00a7 45-1639 (now codified at \u00a7 42-3404.10) \u201cis amended to require tenants to indicate in a time certain an interest in purchasing a two- to four-unit building, thereby giving the owner timely notice of the tenants\u2019 intent to purchase\u201d (emphasis added). D.C. Council, Report on Bill 5-162 at 3 (June 7,1983).\nDuring the legislative process, Mayor Barry wrote to Councilmember John Ray, urging, among other things, an amendment to \u00a7 45-1639 \u201crequiring that tenants in properties with two to four units indicate interest in purchasing as a prerequisite to using all of the existing negotiation period.\u201d Carol Thompson, Director of the Department of Consumer and Regulatory Affairs, explained the need for this amendment during her testimony on behalf of the executive branch:\nUnder the current law, an owner of a building with two to four units must wait a total of 135 days[] before the owner knows whether the tenants will attempt to buy the property. On the other hand, the tenants in a building with five units or more must indicate an interest in purchasing within 45 days in order to continue with the purchase process. We recommend that a parallel provision be included for buildings with two to four units. This amendment would make the law more equitable for the \u201csmaller\u201d landlords who are often the owners of these small rental properties.\nId., Report on Bill 5-162 at Attachment B, page 6. As indicated, this amendment was designed to give \u201ctimely notice\u201d to the owner and to reduce the time he must wait before learning whether the tenants will attempt to buy the property.\nSection 1639 was amended in two respects. Three sentences, here italicized, were added to the end of subsection (1) so that it read:\n(1) Joint and several response. \u2014 The tenants may respond to an owner\u2019s offer first jointly, then severally. Upon receipt of a written offer of sale from the owner, a group of tenants acting jointly shall have 15 days to provide the owner and the Mayor with a mitten statement of interest. Following that time period, an individual tenant shall have 7 days to provide a written statement of interest to the owner and the Mayor. Each statement of interest must be [a] clear expression of interest on the part of the tenant or tenant group to exercise the right to purchase as specified in this subchapter [.]\nSubsection (2) was amended by adding the italicized words at the beginning:\n(2) Negotiation penod. \u2014 (A) Upon receipt of a letter of intent from a tenant or a tenant group, the owner shall afford the tenants a reasonable period to negotiate a contract of sale, and shall not require less than 90 days. For every day of delay in providing information by the owner as required by this subchap-ter, the negotiation period is extended by 1 day;\n(B) If, at the end of the 90-day period or any extensions thereof, the tenants jointly have not contracted with the owner, the owner shall provide an additional 30-day period, during which any 1 of the current tenants may contract with the owner for the purchase of the accommodation[.]\nD.C. Law 5-38, \u00a7 2(k), 30 D.C.Reg. 4866 (1983). To be sure, our task would have been simpler if the Council had used the word \u201cdeliver\u201d instead of \u201cprovide,\u201d but there is every reason to believe that the Council intended this \u201cparallel provision\u201d to have a similar meaning to the statute on which it was modeled \u2014 the section dealing with buildings of five units or more, which required that the statement of registration be delivered within 45 days. See testimony of Director Thompson, quoted above. This 1983 amendment was intended to give the owner \u201ctimely notice\u201d \u201cin a time certain\u201d and required that the statement of interest be provided (made available or delivered) to the owner within fifteen days.\nWe now come to the deadline at the heart of this case. The Preamble to D.C. Law 7-154 (effective September 29, 1988) explains that the purpose of the 1988 amendments was to extend the life of the legislation and \u201cto require a tenant to provide the owner of a single-family accommodation with a written statement of interest within 30 days of receiving a written offer of sale from the owner.\u201d D.C. Law 7-154 \u00a7 2(g), 35 D.C.Reg. 5715-16 (1988). The Committee Report confirms that \u201c[t]he new bill will require a tenant of a single family accommodation, like tenants of 2-4 unit accommodations, to submit a written statement of interest to purchase the property within 15 days [later changed to 30 days in the case of single-family dwellings] of an offer of sale.\u201d D.C. Council, Report on Bill 7-462 at 3 (June 27, 1988).\nThis change had been suggested to benefit landlords \u2014 to \u201cease the hardships faced by property owners, without weakening any of the existing tenant protections.\u201d Id. at 4 (summarizing testimony on behalf of Apartment and Office Building Association which characterized the restrictions of TOPA as \u201ca gross infringement on property rights,\u201d but suggested, if legislation was extended, changing several procedural provisions, including adding a time limit for providing a statement of interest); id. (reporting that Association of Realtors opposed renewal of legislation but, in the alternative, asked Council \u201cto require tenants in a single-family accommodation who want to exercise them right to purchase to give written notice within 15 days of receipt of the owners\u2019 notice to sell\u201d). The history of this provision demonstrates that it was added to benefit landlords by establishing a time certain for the tenant to respond. This legislative history supports the conclusion derived from the structure of the statute and the \u201cordinary sense\u201d of the words used in it: \u201cshall have 30 days to provide\u201d means that the tenant\u2019s written statement of interest must be \u201cmade available\u201d to the owner within 30 days.\n4. Recent Amendments\nSoon after a division of this court issued its decision on February 5, 2009, the Council of the District of Columbia amended the statute through a series of emergency, temporary, and permanent acts. The permanent legislation became effective on July 23, 2010, after the required period of congressional review. 57 D.C.Reg. 7532 (2010) (notice of effective date). This legislation amended \u00a7 42-3404.09(1) and \u00a7 42-3404.10(1) by inserting the following words and punctuation: \u201cby hand or by sending by certified mail,\u201d after the phrase \u201cprovide the owner and the Mayor.\u201d See \u00a7 2(a) and \u00a7 2(b) of Tenant Opportunity to Purchase Preservation Clarification Amendment Act of 2010, D.C. Act 18-404, 57 D.C.Reg. 4510 (2010). Thus, after amendment, \u00a7 42-3404.09(1) provides in pertinent part that \u201cthe tenant shall have 30 days to provide the owner and the Mayor, by hand or by sending by certified mail, with a written statement of interest.\u201d\nThe Council asserted that this court\u2019s decision made it \u201cnecessary to clarify the Council\u2019s intent that tenants have the full 30 days provided by law to express an interest in purchasing their unit following an offer of sale from the landlord.\u201d See \u00a7 2(e), (g) of the Tenant Opportunity to Purchase Preservation Clarification Emergency Declaration Resolution of 2009 (emphasis added). 56 D.C.Reg. 2120 (2009). Thus, the announced purpose of the amendment was \u201cto clarify\u201d that a tenant can preserve his opportunity to purchase by \u201chand delivery or sending by certified mail [the] letter of interest\u201d and that \u201cactual receipt ... by the housing provider or the Mayor within the relevant time frame is not required.\u201d D.C. Act 18-327, Preamble, 57 D.C.Reg. 2544 (2010).\nThe Council may have clarified TOPA for the future, but it did not purport to enact legislation that would govern this case. Given the absence of clearly expressed intent to the contrary, we presume that the amendment does not apply retroactively. See Landgraf v. USI Film Products, 511 U.S. 244, 265, 114 S.Ct. 1483, 128 L.Ed.2d 229 (1994) (\u201cIf the statute would operate retroactively, our traditional presumption teaches that it does not govern absent clear congressional intent favoring such a result.\u201d). In fact, at oral argument, the tenant\u2019s counsel assured us that the amendment operates prospectively only.\nNor did the Council\u2019s action in 2009 provide meaningful assistance in discerning the intent of the predecessor Councils which enacted TOPA and later added the thirty-day deadline. In the first place, the Council did not assert that it was clarifying what the earlier legislators meant. Secondly, \u201cthere is serious debate and doubt as to when, if ever, a later legislature has a role in construing what an earlier legislature intended.\u201d United States Parole Comm\u2019n v. Noble, 693 A.2d 1084, 1103 (D.C.1997), majority opinion adopted on rehearing en banc, 711 A.2d 85, 86 (D.C.1998) (en banc). \u201c[E]ven if later Councils approve [a certain interpretation of a statute], that is not necessarily valid evidence of the intent of the Council that enacted it.\u201d Id.\n\u201c[T]he Supreme Court often has said \u2018the views of a subsequent Congress form a hazardous basis for inferring the intent of an earlier one.\u2019 \u201d Winters v. Ridley, 596 A.2d 569, 579 (D.C.1991) (Ferren, J., concurring) (quoting United States v. Price, 361 U.S. 304, 313, 80 S.Ct. 326, 4 L.Ed.2d 334 (1960)). See Massachusetts v. EPA, 549 U.S. 497, 530 n. 27, 127 S.Ct. 1438, 167 L.Ed.2d 248 (2007) (quoting Price). The hazard certainly is greatest in circumstances like these, where more than two decades have passed, and the Council that acted in 2009 did not contain any members who passed the legislation in 1980, 1983, and 1988. Cf. Winters, 596 A.2d at 578 (Schwelb, J., concurring) (\u201cRelatively little time elapsed between the enactment of the GTCA [in 1986] and the Council\u2019s actions in 1989. Most of the legislators were members of the Council at both relevant times.\u201d); United States ex rel. Long v. SCS Business & Technical Institute, Inc., 335 U.S.App.D.C. 331, 339-40, 173 F.3d 870, 878-79 (1999) (\u201cPost-enactment legislative history ... becomes of absolutely no significance when the subsequent Congress ... takes on the role of a court and in its reports asserts the meaning of a prior statute.\u201d).\nThis decision implies no disrespect for the Council, nor does it step beyond our proper role as judges. Ultimately, the interpretation of statutes is \u201cthe responsibility of courts, not of subsequently elected legislative bodies.\u201d Winters, 596 A.2d at 577 (Schwelb, J., concurring) (citing Pierce v. Underwood, 487 U.S. 552, 566, 108 S.Ct. 2541, 101 L.Ed.2d 490 (1988)). In sum, nothing about the recent amendments changes our understanding of what the statute meant in 2001.\n5. Other Considerations\nPractical considerations confirm our reading of the statute. Permitting the tenant to invoke his right to purchase by placing a statement of interest in the mail on the thirtieth day would create uncertainty and impose a significant additional burden on the owner, who would have to decide, without guidance from the statute, how long to wait before concluding that the tenant had not responded. In this case, for example, it apparently took two full weeks for the mail to arrive. Requiring the owner to choose between further, potentially costly, delay in the sale or redevelopment of his property and possibly violating TOPA would serve none of the Act\u2019s salutary purposes, see D.C.Code \u00a7 42-3401.02 (2001 & 2010 Supp.) (stating purposes of the legislation), and we have seen no evidence that the legislature intended this result. To the contrary, this language was adopted for the benefit of owners and to shorten the time in which they must remain uncertain whether the tenant will claim the right to purchase the property.\nOn the other hand, enforcing the thirty-day deadline by requiring that the statement of interest be made available to the owner within that time will provide certainty and predictability that benefit landlords and tenants alike. Moreover, it is a common feature of TOPA that the end of one period triggers the beginning of another, and it often will be important for tenants to know with certainty that a new period has begun. In addition, as explained above, this understanding of the verb \u201cprovide\u201d will establish the tenants\u2019 right to receive certain information within seven days after the owner has received a request for it. See D.C.Code \u00a7 42-3404.03(4); D.C.Code \u00a7 42-3404.09(2).\nHaving considered the language of the statute, its structure, and its legislative history, we hold that the tenant must \u201cprovide the [owner] ... with\u201d a statement of interest by ensuring that it is made available to him within thirty days.\nIII. The Tenant\u2019s Arguments\nThe tenant\u2019s arguments to the contrary are not persuasive. He urges us to interpose the \u201cmailbox rule\u201d that acceptance of an offer generally is effective \u201cas soon as put out of the offeree\u2019s possession, without regard to whether it ever reaches the of-feror. ...\u201d Restatement (Second) of Contracts, \u00a7 63(a) (1981). We have seen no indication that the legislature intended to incorporate this common law rule by implication. Indeed, the language, history, and structure of TOPA seem to exclude this possibility. The plain language of \u00a7 42-3404.11(1) (applying to accommodations with five or more units) precludes use of the mailbox rule by providing that \u201cthe tenants shall ... deliver an application for registration [as a tenant organization] to the Mayor and the owner by hand or by first class mail within 45 days of receipt of a valid offer.\u201d Although use of the mail plainly is authorized, the application must be delivered within 45 days. It would be odd, indeed, if the legislature meant to take a radically different approach and incorporate the mailbox rule into a corresponding section of TOPA without at least mentioning that change. Cf. Orius Telecommunications, Inc., 857 A.2d at 1068 (\u201c[W]e cannot endorse the mailbox rule because its application ignores the existence of relevant statutory language and would nullify the essential holding of the director\u2019s interpretation that the relevant date under the statute is that of receipt by the claimant.\u201d).\nNor are we persuaded by the fact that some provisions of TOPA expressly allow (or require) notice to be sent by mail. See, e.g., D.C.Code \u00a7 42-3404.03 (2001) (offer of sale); D.C.Code \u00a7 42-3404.11(1) (2001) (copy of application for registration as a tenant organization). Nothing we say in this opinion precludes the tenant from sending his statement of interest by mail. He simply has to make sure that the owner receives it within the thirty-day period. In other words, the tenant who elects to use the mail accepts the risk of delay in receipt.\nFinally, while we recognize that the Council intended that ambiguities in the statute be resolved \u201ctoward the end of strengthening the legal rights of tenants or tenant organizations,\u201d see D.C.Code \u00a7 42-3405.11 (2001); Wilson Courts Tenants Ass\u2019n, Inc. v. 523-525 Mellon Street, LLC, 924 A.2d 289, 294 (D.C.2007); Allman v. Snyder, 888 A.2d 1161, 1166 (D.C.2005), that rule of statutory construction, by its own terms, applies only when there is ambiguity. Here, after consulting the language, structure, and legislative history of \u00a7 42-3404.09, we conclude that the statute is not ambiguous and we apply its plain meaning.\nEven if we were to apply this legislative rule of statutory construction, it does not provide a straightforward answer to the question before us. \u201c[S]trengthening the legal rights of tenants\u201d as a whole is not the same thing as devising an ad hoc rule that would permit an individual tenant to win. Moreover, the provision of TOPA at issue in this case was meant to balance the rights of tenants and owners. \u201c[N]o legislation pursues its purposes at all costs. Deciding what competing values will or will not be sacrificed to the achievement of a particular objective is the very essence of legislative choice \u2014 and it frustrates rather than effectuates legislative intent simplistically to assume that whatever furthers the statute\u2019s primary objective must be the law.\u201d Rodriguez v. United States, 480 U.S. 522, 525-26, 107 S.Ct. 1391, 94 L.Ed.2d 533 (1987). Indeed, as we have demonstrated above, the interpretation of \u201cprovide ... with\u201d that we adopt today could in fact benefit tenants as well as owners, even though it does not help the individual tenant in this case.\nIV. Conclusion\nThe tenant acknowledged that he received the owner\u2019s offer of sale on April 30, 2001, and he presented no evidence to dispute the testimony that the owner did not receive the tenant\u2019s statement of interest until June 2, 2001, more than thirty days later. See note 3, supra. Accordingly, the tenant did not \u201cprovide\u201d the owner \u201cwith\u201d his statement of interest within thirty days of receiving the offer of sale. Because the tenant did not timely invoke his right to purchase under TOPA, the trial court erred in ordering the owner to negotiate a contract for sale to the tenant.\nThe judgment of the Superior Court directing the owner to negotiate with the tenant for sale of the dwelling is reversed and the case is remanded for entry of an order dismissing the tenant\u2019s complaint.\nSo ordered.\n. Although the dwelling is owned by the revocable trust of James Tippett, we shall refer to Mr. Tippett as the owner or landlord.\n. Our order granting appellee\u2019s petition for rehearing en banc could have been more clear. Although we vacated our prior opinion and judgment in its entirety, appellee had not petitioned for rehearing on the second issue (having won that issue, he had no reason to do so), and appellant did not file a cross-petition for rehearing. The division unanimously held that the owner had waived his 90-day notice to vacate for personal use and occupancy, see 964 A.2d at 615, and the court did not grant rehearing on that issue. By a companion order issued this date, we reinstate Section III of the division's opinion, see 964 A.2d at 613-14, which resolves the issue related to the notice to vacate. We omit from this opinion certain facts (summarized at 964 A.2d at 608-09), pertaining only to that issue, which is not before the en banc court.\n. Prior to trial, the parties stipulated that the tenant \u201csubmitted a statement of interest to [the owner] dated May 18, 2001,\u201d but that \"the date of receipt by [the owner] is disputed.\u201d However, the tenant failed to produce any evidence at trial to dispute the owner's testimony that he received the statement on June 2. There thus is nothing to support a contrary finding, and we take it as established that the statement was received on June 2. Although our dissenting colleague suggests that we should remand for further proceedings on this issue, the trial has taken place (in May 2005), the tenant failed to present any contrary evidence, and the court denied his motion to reopen the record. We disagree with our colleague's argument that we are terminating this litigation prematurely.\n. Unless otherwise indicated, we quote the statutory language in force in 2001.\n. D.C.Code \u00a7 42-3405.02 (2001) (entitled \u201cTime periods\u201d) provides: \"If a time period running under this chapter ends on a Saturday, Sunday, or legal holiday, it is extended until the next day which is not a Saturday, Sunday, or legal holiday.\u201d May 30, 2001, was a Wednesday, so this statute does not operate to extend the thirty-day period under the circumstances presented here.\n. Cf. Orius Telecommunications, Inc. v. District of Columbia Dep't of Employment Servs., 857 A.2d 1061, 1065 (D.C.2004) (upholding as reasonable Director\u2019s conclusion \"that the term \u2018paid\u2019 ... means receipt of the payment by the claimant within the ten-day statutory time limit\u201d; check was mailed within ten days but received after time limit had expired); United States ex rel. B & R, Inc. v. Donald Lane Construction, 19 F.Supp.2d 217, 223, 224 (D.Del.1998) (interpreting the term \"give\u201d in the Miller Act to mean \"to put into the possession of another for his use\u201d; notice must be received, not merely mailed, within ninety days).\n. There are additional examples from context which support the conclusion that the term \"provide ... with\" means to make the statement of interest available to the owner. See D.C.Code \u00a7 42-3404.05(a-2) (2001) (\"The owner may not require the tenant to pay the purchase price in installments unless the owner provides deferred purchase money financing on terms reasonably acceptable to the tenant.\u201d); D.C.Code \u00a7 42-3404.32 (2001) (\"To exercise [the District\u2019s] right [to purchase] under this subchapter, the Mayor shall provide a written statement of interest to the owner and tenant within 30 days of the May- or\u2019s receipt of the copy of offer of sale required by \u00a7 42-3404.03.\u201d) (emphasis added); cf. D.C.Code \u00a7 42-3404.08 (2001) (\"a tenant or tenant organization shall also have the right of first refusal during the 15 days after the tenant or tenant organization has received from the owner a valid sales contract to purchase by a third party\u201d) (emphasis added).\n. Title IV of this Act is known as the Tenant Opportunity to Purchase Act of 1980. See Columbia Plaza Tenants\u2019 Ass\u2019n v. Columbia Plaza Ltd. P\u2019ship, 869 A.2d 329, 332 (D.C.2005).\n. We are not certain how Ms. Thompson derived the total of 135 days.\n. Resolutions may be used, among other things, \"to express simple determinations, decisions, or directions of the Council of a special or temporary character.\u201d D.C.Code \u00a7 1-204.12(a) (2001).\n. In Winters v. Ridley, 596 A.2d 569 (D.C. 1991), by contrast, the Resolution passed by the Council declared, among other things, that \"[t]he Council of the District of Columbia never intended the [Good Time Credits] Act to apply to persons convicted for first degree murder.... The Council of tire District of Columbia believed that the 'notwithstanding any other provision of law\u2019 language of Section 801 of the Criminal Code ... would exclude first degree murder from coverage of the Act as it applies to minimum sentences.\u201d 596 A.2d at 571 (Schwelb, J., concurring).\n. For example, when an accommodation lias two through four units, \"[t]he tenants may respond to an owner\u2019s offer first jointly, then severally,\u201d and \"a group of tenants acting jointly shall have 15 days to provide the owner and the Mayor with a written statement of interest.\u201d D.C.Code \u00a7 42-3404.10(1) (2001). \"Following that time period, if the tenants acting jointly have failed to submit a written statement of interest, an individual tenant shall have 7 days to provide a statement of interest to the owner and the Mayor.\u201d Id.\n. We recognize that the 2009 Council weighed the benefits of a clear deadline somewhat differently, deciding that a tenant would, in the future, have 30 days to provide the statement of interest, either \"by hand or by sending by certified mail[.]\u201d Significantly, however, the Council did not adopt in wholesale fashion the mailbox rule urged by appellant. If delivery is not made by hand, the tenant is required to use a form of mailing that will generate time-stamped documentation.\n. We do not consider here a situation where the owner fails to pick up his mail, is absent for several days, or otherwise frustrates timely receipt of notice. See, e.g., Cities Service Oil Co. v. National Shawmut Bank of Boston, 342 Mass. 108, 172 N.E.2d 104, 105 n. 1 (1961) (\"Unavailability of the party to be notified may affect the rule [that notice to exercise an option is effective only upon receipt].)\u201d; United States ex rel. B & R, Inc., 19 F.Supp.2d at 225 n. 15 (referring to exception when \"the receiver intentionally avoids the receipt of notice\u201d).\n.The tenant's counsel has cited a section of the rental housing regulations which provides that \"[s]ervice by mail shall be complete upon mailing.\u201d 14 DCMR \u00a7 3911.5 (1991). \"Service\u201d is a term of art, however, and this provision applies to documents required to be \u201cserved\u201d under the rental housing regulations. See, e.g., 14 DCMR \u00a7 4014.1 (motion for continuance of a scheduled hearing or for an extension of time to file a pleading), \u00a7 4204.10(c) (certificate of election to increase rent ceiling), \u00a7 4300.1 (notice to vacate). The terms \"serve\u201d or \u201cservice\u201d are not found in those regulations applying to the sale of residential rental housing. See 14 DCMR \u00a7\u00a7 4711.1-4711.13 (1991).\n. D.C.Code \u00a7 42-3405.11 provides: \"The purposes of this chapter favor resolution of ambiguity by the hearing officer or a court toward the end of strengthening the legal rights of tenants or tenant organizations to the maximum extent permissible under law. If this chapter conflicts with another provision of law of general applicability, the provisions of this chapter control.\"\n. This statutory rule, \"as is true of any guide to statutory construction, only serves as an aid for resolving an ambiguity; it is not to be used to beget one.\u201d Callanan v. United States, 364 U.S. 587, 596, 81 S.Ct. 321, 5 L.Ed.2d 312 (1961) (commenting on the rule of lenity applied in criminal cases). It \"comes into operation at the end of the process of construing what [the Council] has expressed, not at the beginning as an overriding consideration of being lenient to [tenants].\u201d Id.\n.Because we rule in the owner\u2019s favor on this ground, we need not address his alternative argument that the trial court erred in finding that the tenant filed a copy of the statement of interest with DCRA (the Mayor's representative), as the statute requires. See D.C.Code \u00a7 42-3404.09(1) (2001).",
+        "type": "majority",
+        "author": "FISHER, Associate Judge:"
+      },
+      {
+        "text": "RUIZ, Associate Judge,\ndissenting:\nI cannot agree with the court\u2019s conclusion that in order to protect a tenant\u2019s right to purchase under the District of Columbia Tenant Opportunity to Purchase Act (\u201cTOPA\u201d), a tenant\u2019s expression of interest in purchasing the property must be received by the owner within the thirty-day period prescribed in the statute, rather than sent by the tenant during that time. The inevitable result of the majority\u2019s conclusion is that a tenant who elects to mail the expression of interest by first-class mail \u2014 as is permitted \u2014 will necessarily have less than the full thirty days allowed by the statute, which says that \u201cthe tenant shall have thirty days to provide the owner and the Mayor ... with a statement of interest.\u201d D.C.Code \u00a7 42-3404.09(1) (2001) (emphasis added). If the tenant must assure that the owner receives the mailed notice within the thirty-day period, however, the tenant will not have had the full period to consider and respond to the offer, but must make allowance for the time it takes for the mail to be delivered. How much time must be allowed is not within the control of the tenant. In this case, for example, the difference between \u201csend\u201d and \u201creceipt\u201d means that the tenant lost \u2014 by two days \u2014 the right created by TOPA to purchase the home in which he had lived as a tenant for over thirty years. That result is contrary to TOPA\u2019s purpose and the intent of the Council that TOPA be interpreted to favor tenants\u2019 rights.\nAt a minimum, the case should be remanded for further proceedings. Here, in, addition to mailing his expression of interest in buying the home eighteen days after he received the owner\u2019s offer of sale \u2014 well within the thirty-day period \u2014 the tenant shortly thereafter sent a signed purchase contract that incorporated the terms in the owner\u2019s offer of sale ($400,000 price, 5% down, 60 days to settlement) and made a $20,000 deposit in escrow, all demonstrating his bona fide intention to complete the purchase. The record does not show corresponding bona fide compliance with TOPA by the owner. To the contrary, the owner\u2019s offer of sale was made grudgingly because the owner did not want to sell the property to the tenant, and the owner claimed (without corroboration) that it took two weeks for the tenant\u2019s mailed notice to reach him in nearby suburban Maryland. On this record, even accepting the court\u2019s interpretation of the statute, there is a material issue of fact in dispute \u2014 the date the owner received the tenant\u2019s mailed expression of interest in purchasing the property \u2014 that requires a remand to the trial court for further proceedings and findings of fact.\n1. TOPA must be interpreted to favor the tenant\u2019s right to purchase.\nThe court concedes, as it must, that because TOPA uses the word \u201cprovide\u201d in connection with the tenant\u2019s expression of interest to purchase the property, the statute is not clear on its face as to whether the tenant must ensure receipt or simply send the expression of interest within the thirty-day period that the statute prescribes. See ante at 1130 (\u201cTo be sure, our task would have been simpler if the Council had used the word \u2018deliver\u2019 instead of \u2018provide\u2019 ... \u201d). The court, therefore, is forced to choose among dictionary sub-meanings of the word \u201cprovide\u201d (e.g., \u201cfurnish\u201d rather than \u201csubmit\u201d) and draw analogies to other parts of the statute (and even different statutory schemes) to conclude that when the statute says the \u201ctenant shall ... provide\u201d an expression of interest to purchase within thirty days, it meant to require that the \u201cowner must receive\u201d the notice within the thirty-day period. As I pointed out in my dissent from the division opinion, however, the TOPA statute uses the word \u201creceipt\u201d advisedly in several provisions. Tippett v. Daly, 964 A.2d 606, 615 (D.C.2009) (Ruiz, J., dissenting). Indeed, the word \u201creceipt\u201d is used twice in the very section at issue in this case, D.C.Code \u00a7 42-3404.09(1) (\u201cUpon receipt of a written offer of sale from the owner ..., or upon the Mayor\u2019s receipt of a copy of the written offer of sale, whichever is later, the tenant shall have thirty days to provide .... \u201d). We must assume that if it had intended to require receipt by the owner before the end date of the thirty-day period, the Council would similarly have used the word \u201creceipt\u201d as it did, in the same statutory section, in identifying \u201creceipt\u201d by the tenant of the owner\u2019s offer of sale as the starting date for the thirty-day period to respond. It did not; instead, it chose to use \u201cprovide.\u201d The Council\u2019s use of \u201cprovide\u201d either is purposeful in imposing a less stringent obligation on tenants than on owners, or, at a minimum, is ambiguous.\nWhat the Council has done without equivocation is tell us how the court should interpret any ambiguity in the statute. In the TOPA statute itself is a rule of interpretation that requires that the tenant be given the benefit of the doubt where the court has to determine whether \u201cprovide\u201d is to be read as imposing an obligation on tenants to ensure receipt by a date certain, on pain of losing the right to purchase created by the statute. D.C.Code \u00a7 42-3405.11 states:\nStatutory construction.\nThe purposes of this chapter favor resolution of ambiguity by the hearing officer or a court toward the end of strengthening the legal rights of tenants or tenant organizations to the maximum extent permissible under law....\nD.C.Code \u00a7 42-3405.11. Under the express terms of the statute, therefore, the court is duty-bound to resolve any ambiguity in the term \u201cprovide\u201d in favor of the tenant \u201cto the maximum extent permissible under law.\u201d See Janes v. State, 350 Md. 284, 711 A.2d 1319, 1328 n. 9 (1998) (\u201cAs we held more than 70 years ago ... the Legislature may \u2018declare in the body of the act the construction to be placed thereon, and the courts are bound by such construction, and all other parts of the act must yield.\u2019 \u201d (citing Montgomery County Motor Co. v. State, 147 Md. 232, 127 A. 637, 638 (1925))).\nThe mandate to resolve any ambiguity in favor of the tenant requires us to interpret \u201cprovide\u201d to mean \u201csend,\u201d and not, as the court does, to require that the tenant \u201cdeliver\u201d or ensure receipt by the owner. It should be obvious that it is beneficial to tenants to have more time, not less, to consider and respond to an offer of sale. The court\u2019s attempt to persuade that its interpretation \u201ccould benefit tenants as well as owners,\u201d ante at 1134, is belied by the arguments made to the court: both the tenant in this appeal and the Chief Tenant Advocate of the District of Columbia Office of the Tenant Advocate (who urged the court to rehear the case en banc in order to reverse the division\u2019s interpretation that the full court now affirms) disagree that the court\u2019s interpretation redounds to the benefit of tenants. Moreover, the court is simply wrong when it says that interpreting the word \u201cprovide\u201d to require receipt by the owner (rather than mailing by the tenant) will benefit tenants because other sections of the statute, \u00a7\u00a7 42-3404.03(4) and -3404.09(2), also use the word \u201cprovide\u201d when imposing an obligation on owners to make certain information concerning the offer and the housing accommodation available to tenants. See ante at 1132-33. What the court ignores in making that assertion is that, as already discussed, TOPA expressly states that the tenant\u2019s thirty-day period to respond begins \u201cupon receipt\u201d by the tenant of the offer of sale. D.C.Code \u00a7 42-3404.09(1). TOPA also provides that once the tenant expresses interest in purchasing and the \u201creasonable period to negotiate\u201d is commenced, a day is added to the negotiation period for every day that the owner delays in \u201cproviding\u201d requested information. See \u00a7 42-3404.09(2). The TOPA statute, in other words, in its design leans in favor of preserving the tenant\u2019s right to purchase, by ensuring that the time periods allowed to the tenant for responding to an offer of sale and subsequent negotiation are not infringed by the owner\u2019s delay. Instead, the court is interpreting the statute in the manner which it thinks will result in the most efficient procedure. See ante at 1132-33. Even if the court\u2019s scheme is a better one, however, it is not our job as judges to \u201cfix\u201d what we think is faulty legislation, but to interpret the statute that was enacted and implement it so as to effectuate legislative intent.\nThe statutory language dispensing with use of the word \u201creceipt\u201d in favor of \u201cprovide\u201d when speaking of the tenant\u2019s expression of interest to purchase, when coupled with the statutory mandate to interpret any ambiguity in TOPA\u2019s use of the word \u201cprovide\u201d in favor of \u201cstrengthening the legal rights of tenants,\u201d D.C.Code \u00a7 42-3405.11, should be more than sufficient to establish that the Council intended the word \u201cprovide\u201d to mean \u201csent.\u201d But the Council has taken a further step to remove all doubt that the court\u2019s contrary conclusion is mistaken. Promptly after the division opinion interpreting the statutory language \u201ctenant shall have thirty days to provide\u201d to mean \u201cowner must receive within thirty days\u201d was issued on February 5, 2009, see 964 A.2d 606, the Council took action to tell the court that it had misinterpreted TOPA. By March 3, 2009, an emergency bill (D.C. Bill 18-170) and a temporary bill (D.C. Bill 18-171) were introduced with a Resolution \u201c[t]o declare the existence of an emergency with respect to the need to clarify ... that actual receipt of the letter by the housing provider or the Mayor within the relevant time frame is not required.\u201d See Tenant Opportunity to Purchase Preservation Clarification Emergency Declaration Resolution of 2009, 56 D.C.Reg. 2120 (Mar. 3, 2009). Criticizing the division opinion by referring to \u201cDistrict law [that] requires that the court interpret any ambiguities in the act\u201d in favor of tenants, the Resolution \u201cclarif[ies] the Council\u2019s intent that tenants have the full thirty days provided by law to express an interest in purchasing their unit following an offer of sale from the landlord.\u201d Id. The Resolution, which took effect \u201cimmediately,\u201d was adopted unanimously. Id. at 2121. After two other emergency and temporary bills, the legislative \u201cclarification\u201d was enacted on May 19, 2010, and became effective as permanent legislation on July 23, 2010. See Tenant Opportunity to Purchase Preservation and Clarification Amendment Act of 2010, 57 D.C.Reg. 4510 (May 19, 2010). Now comes the court, several months after the Council\u2019s clarifying amendment has been adopted as permanent legislation, to declare that the Council actually intended the opposite of what it has so emphatically and consistently expressed.\nIn light of the clarifying amendment, the majority recognizes that its opinion is unlikely to have any impact beyond precluding the right to purchase of the appellant in this case. That would have been reason enough to reconsider the wisdom of according en banc imprimatur to the division\u2019s split opinion. Beyond the particular statutory provision (and litigant) in this case, however, there is other mischief the full court\u2019s opinion could visit on future cases that require interpretation of TOPA or other statutes that contain a similar rule of statutory construction. See, e.g., D.C.Code \u00a7 42 \u2014 1903.02(f) (stating that the section authorizing condominium declarant control \u201cshall be strictly construed to protect the rights of the unit owners\u201d). What is at the core of my dissent is the proper role of the court vis a, vis the legislature\u2014 whether it be the Council of the District of Columbia or the Congress of the United States \u2014 when it comes to interpreting a statute. Our role as judges is to effectuate legislative will. Without a doubt there are cases when courts must fill in blanks or choose between alternative interpretations when confronted with ambiguous or inadequate statutory language, whether the ambiguities and inadequacies are inadvertent or the result of legislators\u2019 inability or unwillingness to see eye-to-eye. Courts faced with such a task must do the best they can with the interpretive tools available to them, with the knowledge that their interpretation can be overridden if the legislature considers that the court got it wrong. But this is not one of those difficult cases. Where the legislature has spoken clearly in a matter within its competence, there is no need for judges to use proxies for legislative will. In this case, the legislature enacted a provision in TOPA telling the court that when a choice is to be made, it must tilt in favor of tenants. Moreover, when a division of the court failed to do so, the legislature told the court in no uncertain terms that it got it wrong in the division opinion, passed a Resolution, and consecutive emergency, temporary and, most recently, permanent legislation to correct it. Yet the full court persists in its contrary view of what the statute means. Due regard for the legislature\u2019s express intent compels me to dissent.\n2. Even under the court\u2019s interpretation, there remains a disputed issue of material fact that requires a remand for further proceedings.\nIn addition to my disagreement with the court\u2019s interpretation of the statute against the interest of tenants, I take issue with the court\u2019s conclusion that the case should be remanded for entry of an order dismissing the tenant\u2019s complaint. See ante at 1134. That resolution is premature as there remains a disputed issue of fact that is material under the court\u2019s interpretation: when did the owner receive the tenant\u2019s notice expressing an intent to purchase the property? The tenant testified that he received the owner\u2019s offer of sale on April 30, 2001, and TOPA clearly says that is when the thirty-day period began. D.C.Code \u00a7 42-3404.09(1). That date is not disputed. As the court notes, at trial the parties stipulated that although the date that the tenant mailed the notice of intent to purchase (May 18, 2001) is agreed, the date on which the owner received the tenant\u2019s notice is disputed. See ante at 1137 n. 3. The owner\u2019s receipt, pursuant to the court\u2019s interpretation, must have occurred within the thirty-day period, or by May 30, 2001. However, there has been no fact-finding on the disputed date of the owner\u2019s receipt of the tenant\u2019s expression of intent to purchase. That is because it was irrelevant to the manner in which the trial judge (incorrectly) interpreted the statute; as the trial judge said, the owner\u2019s testimony \u201cthat he received the [tenant\u2019s] statement on June 2, 2001 has no hearing [on the tenant\u2019s] manifestation of acceptance\u201d (emphasis added). Yet, under the court\u2019s interpretation, this date is critical to whether the tenant provided timely notice under TOPA. In a similar case where the trial judge misinterpreted a statutory time period and did not make fact-findings required by a correct interpretation, we have said that the case should be remanded to the trial court \u201cwith instructions for such further proceedings and factual development as might be appropriate to permit the court to apply the correct interpretation\u201d of the statute. See Barnhardt v. District of Columbia, 8 A.3d 1206 (D.C.2010).\nThe court dispenses with the usual remand, however, by saying that the tenant has not presented evidence disputing the owner\u2019s testimony as to when the owner actually received the tenant\u2019s notice. This is another instance in which the court, contrary to the statutory mandate to \u201cfavor resolution of ambiguity\u201d in favor of strengthening the tenant\u2019s rights, D.C.Code \u00a7 42-3405.11, imposes a burden on the tenant to counter an uncorroborated assertion by the owner that is suspect on its face.\nEven though the tenant has not presented direct evidence of when the owner received the notice of intent to purchase, there are inferences a fact-finder could make based on the evidence of record that could well lead to a rejection of the owner\u2019s claim that he did not receive the tenant\u2019s notice until two days after the thirty-day period had expired. First, it is undisputed that the owner\u2019s offer of sale to the tenant was mailed on April 28, 2001; the tenant testified that he received it two days later, on April 30. Second, it is also undisputed that the tenant responded by mailing his notice of intent to purchase on May 18, 2001, by certified mail, well within the thirty-day period. Third, the owner says that he did not receive the tenant\u2019s letter until two weeks later, on June 2. That is a disputed fact. Two weeks is a long time for a letter to be delivered from an address within the District of Columbia to an address in adjoining suburban Maryland, particularly when a letter going between the same two addresses at approximately the same time is delivered within two days, not two weeks. There is other evidence in the record that could make a fact-finder question the owner\u2019s claimed date of receipt. Even though the owner sent an offer of sale to the tenant, the owner has made it perfectly clear to the trial court that he did not wish to sell the house to the tenant, but wanted to move in while he renovated the house where he lived in Bethesda, Maryland. The owner also had taken the position that, as a matter of law, the property was not subject to TOPA\u2019s tenant right of purchase because, even though the owner of the property is a trust, its sole beneficiary wished to occupy the property himself and TOPA does not give the tenant a right to purchase when the tenant is evicted for the owner\u2019s personal use of the property. The unresolved factual dispute as to the two-week delayed delivery date when the owner claimed receipt of the tenant\u2019s notice, when considered in the context of a tenant who has exhibited a genuine and promptly-expressed desire to purchase his home of thirty-plus years and an owner who does not hide the fact that he does not wish to sell to the tenant, makes it particularly inappropriate for the appellate court to conclusively decide the rights of the parties without a remand for further proceedings and fact-findings in the trial court.\nFinally, there is a procedural motion to submit additional evidence that the trial judge could well want to reconsider on remand for further proceedings. TOPA requires that copies of the owner\u2019s offer of sale and tenant\u2019s expression of interest in purchasing be sent to the Mayor. See D.C.Code 42-3404.09(1). At trial, the owner claimed that he sent a copy of the offer of sale to the Mayor, as required by TOPA, but there was no written verification of a filed and date-stamped copy. The tenant also claimed that he had taken a copy of his letter of interest to purchase to the Department of Consumer and Regulatory Affairs, (DCRA) the same day that he sent it to the owner. However, a representative from the DCRA that administers TOPA testified that nothing had been filed \u2014 by the owner or the tenant \u2014 with respect to the property. The owner has argued on appeal to the division and to the en banc court that the trial court erred in crediting the tenant\u2019s testimony that he had filed with DCRA. The owner argues that whether the tenant filed with DCRA is a \u201cfactual dispute,\u201d emphasizing the lack of corroborating evidence. After trial but before the trial judge decided the case, the tenant sought to reopen the record to introduce evidence that corroborated his testimony, proffering a copy of the notice of intent to purchase he filed with DCRA, bearing a date-stamp of May 18, 2001, the same day that the tenant\u2019s notice was sent by certified mail to the owner. That means that a copy of the tenant\u2019s notice to the owner was actually received within the thirty-day period (as defined by the court) by one of the two recipients required by the statute. The trial court denied the tenant\u2019s request to reopen the record. Although the judge did not explain her reasoning, most likely it was because she deemed it irrelevant in light of her determination that the tenant\u2019s notice had been timely provided to the owner. But the documentary corroboration of the tenant\u2019s testimony of timely filing with DCRA, when contrasted with the apparent lack of corroboration concerning the owner\u2019s alleged filing of the required offer with the Mayor, could have a bearing on the fact-finder\u2019s acceptance or rejection of the owner\u2019s testimony that it took two weeks (until two days after the deadline) for the owner to receive the tenant\u2019s notice. Because the factual record remains unresolved as to a material fact in dispute, on remand, the trial court might wish to reconsider the tenant\u2019s motion to reopen, as it could shed light on that factual question that now becomes relevant under a correct understanding of the law.\nFor these reasons, because the court incorrectly interprets the statute contrary to legislative intent and because the court is prematurely terminating the litigation by failing to remand for further proceedings and necessary fact-finding, I dissent.\n. And, as the majority opinion recognizes, the notice provision applicable to housing accommodations with five or more units, D.C.Code \u00a7 42-3404.11, also uses the words \"deliver\u201d and \"receipt\u201d \u2014 not the ambiguous \"provide.\u201d\n. The Office of the Tenant Advocate warned the court of the risk of the court's interpretation. (\"[B]y extinguishing tenant's rights for reasons beyond their control, the court invites creative mischief on the part of the District\u2019s more unscrupulous housing providers to ensure that very outcome.\u201d).\n. The court\u2019s analogy to the rule of lenity used in criminal cases, relying on Callanan v. United States, 364 U.S. 587, 596, 81 S.Ct. 321, 5 L.Ed.2d 312 (1961), is not apt in this context. The rule of lenity is a judicial construct, \"in favorem libertatis, to resolve the ambiguity,\u201d id. at 596, 81 S.Ct. 321, in those cases \u201d[w]hen Congress leaves to the Judiciary the task of imputing to Congress an undeclared will....\u201d Id. at 596 n. 9, 81 S.Ct. 321 (quoting Bell v. United States, 349 U.S. 81, 83, 75 S.Ct. 620, 99 L.Ed. 905 (1955)). But here, the legislature has not left its will \"undeclared\u201d; to the contrary, it has expressly declared in the statute itself that any ambiguity is to be resolved in favor of strengthening tenants\u2019 rights. The more apt reference is to D.C.Code \u00a7 23-112, which provides a legislatively-mandated rule of interpretation (in favor of consecutive sentences) when a sentencing court does not \"expressly provided otherwise.\u201d\n. In the amended statute the Council requires that the tenant's expression of interest is to be provided either \"by hand or by sending certified mail\u201d within the thirty-day period. By specifying \"sending certified mail\u201d (rather than confirming delivery by \"return receipt\u201d) the legislation emphasizes that the mailbox rule applies because it is the sending by the tenant, not receipt by the owner, that TOPA requires if the notice is not made by hand. The choice is left to the tenant.\n. The only further step the Council could have taken would have been to make the clarifying amendment retroactive in application, thus effectively cutting off the court's interpretive judgment altogether.",
+        "type": "dissent",
+        "author": "RUIZ, Associate Judge,"
+      }
+    ],
+    "attorneys": [
+      "Morris R. Battino, Washington, DC, for appellant.",
+      "Carol S. Blumenthal, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "James TIPPETT, Trustee for the Revocable Trust of James Tippett, Appellant, v. Gregory DALY, Appellee.\nNo. 06-CV-1327.\nDistrict of Columbia Court of Appeals.\nArgued En Banc Nov. 10, 2009.\nDecided Dec. 30, 2010.\nMorris R. Battino, Washington, DC, for appellant.\nCarol S. Blumenthal, for appellee.\nBefore WASHINGTON, Chief Judge, and RUIZ, REID, GLICKMAN, KRAMER, FISHER, BLACKBURNE-RIGSBY, THOMPSON, and OBERLY, Associate Judges."
+  },
+  "file_name": "1123-01",
+  "first_page_order": 1123,
+  "last_page_order": 1141
+}

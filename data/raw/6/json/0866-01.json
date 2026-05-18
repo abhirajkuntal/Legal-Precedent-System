@@ -1,0 +1,107 @@
+{
+  "id": 7288745,
+  "name": "In re Gregory VAN JUDICE, Respondent",
+  "name_abbreviation": "In re Van Judice",
+  "decision_date": "2010-10-28",
+  "docket_number": "No. 10-BG-694",
+  "first_page": "866",
+  "last_page": "866",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 866"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "Registration No. 474017,",
+      "category": "laws:admin_filing",
+      "reporter": "Registration",
+      "opinion_index": -1
+    },
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate, including those involving disbarment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 134,
+    "char_count": 1366,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18829727138532015
+    },
+    "sha256": "c5bb758a09e38eb7bd9b6106771617110ab9382da4aaaa36c6c5653ccf1ba077",
+    "simhash": "1:0d9620ba7b6a456f",
+    "word_count": 221
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, Associate Judge; BELSON and TERRY, Senior Judges."
+    ],
+    "parties": [
+      "In re Gregory VAN JUDICE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the certified order and opinion of the Supreme Court of Louisiana disbarring respondent from the practice of law, this court\u2019s June 25, 2010, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent has failed to file either a response to this court\u2019s order to show cause or the affidavit required by D.C. Bar R. XI, \u00a7 14(g), it is\nORDERED that Gregory Van Judice, Esquire, is hereby disbarred from the practice of law in the District of Columbia. In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C. 2006) (rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate, including those involving disbarment). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s suspension will not begin to run until such time as he files an affidavit that fully complies with the requirements of D.C. Bar. R. XI, \u00a7 14(g).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Gregory VAN JUDICE, Respondent.\nNo. 10-BG-694.\nDistrict of Columbia Court of Appeals.\nFiled Oct. 28, 2010.\nBar Registration No. 474017, BDN: 105-08.\nBefore REID, Associate Judge; BELSON and TERRY, Senior Judges."
+  },
+  "file_name": "0866-01",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

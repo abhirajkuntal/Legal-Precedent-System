@@ -1,0 +1,247 @@
+{
+  "id": 7287363,
+  "name": "Alex HAMMER v. SECRETARY OF STATE",
+  "name_abbreviation": "Hammer v. Secretary of State",
+  "decision_date": "2010-10-28",
+  "docket_number": "",
+  "first_page": "700",
+  "last_page": "709",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 700"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "442 F.3d 27",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1063920
+      ],
+      "pin_cites": [
+        {
+          "page": "29-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/442/0027-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 124",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8180514
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "1058"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/954/1054-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 111",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8466887
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "287-88"
+        },
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "289-90",
+          "parenthetical": "noting that the Secretary is without the power to \"fashion a limitation that does not exist in the statutes\""
+        },
+        {
+          "parenthetical": "\"The registrar, or clerk at the request or upon the absence of the registrar, of each municipality concerned shall certify which names on a petition appear in the central voter registration system as registered voters in that municipality....\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/905/0285-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 206",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11153976
+      ],
+      "pin_cites": [
+        {
+          "page": "\u00b6 8, 695"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/762/0551-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 27",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9277097
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 5"
+        },
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/843/0003-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 85",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9377125
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "750-51"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/853/0749-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 124",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8180514
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "1058"
+        },
+        {
+          "page": "\u00b6\u00b6 10-13"
+        },
+        {
+          "page": "1058-59"
+        },
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "1059",
+          "parenthetical": "deferring to the Secretary's interpretation of \"presence\" in the context of requiring circulator to directly observe a voter signature on a petition before the circulator can properly fulfill the obligation of his oath"
+        },
+        {
+          "page": "\u00b6 27"
+        },
+        {
+          "page": "1062",
+          "parenthetical": "\"Although the Secretary's policy decision, attempting to save petitions in certain circumstances, may not be unreasonable, it is the Legislature that weighs the competing considerations and sets the policy.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/954/1054-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1110,
+    "char_count": 29652,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3666202160820959
+    },
+    "sha256": "07f96103fafe224fc739e10382b2e6efc05abd51872c6022f26397de46c91c33",
+    "simhash": "1:09fccea372053e76",
+    "word_count": 4733
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ.",
+      "Majority: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ.",
+      "Concurrence/Dissent: ALEXANDER, J.",
+      "M. Michaela Murphy Justice, Superior Court"
+    ],
+    "parties": [
+      "Alex HAMMER v. SECRETARY OF STATE."
+    ],
+    "opinions": [
+      {
+        "text": "GORMAN, J.\n[\u00b6 1] Alex Hammer appeals from a decision of the Superior Court (Penobscot County, Murphy, J.) affirming a decision of the Secretary of State denying Hammer gubernatorial ballot access based on his failure to obtain a sufficient number of certified signatures pursuant to 21-A M.R.S. \u00a7 354 (2009). Hammer challenges the Secretary of State\u2019s interpretation of section 354 to preclude the submission of nomination petitions by electronic means. We affirm the judgment.\n[\u00b62] Alex Hammer sought to be included on Maine\u2019s November 2010 ballot as a non-party candidate for governor. He also sought to present the necessary petitions containing voter signatures through electronic means. The Secretary of State invalidated several hundred signatures on Hammer\u2019s nomination petitions based on the Secretary\u2019s interpretation of section 354 to require the presentation of original signatures, and therefore to preclude the submission of petitions for municipal certification by electronic means. We review directly the decision of the Secretary of State for \u201cfindings not supported by the evidence, errors of law, or abuse of discretion.\u201d Knutson v. Dep\u2019t of Sec\u2019y of State, 2008 ME 124, \u00b6 8, 954 A.2d 1054, 1058.\n[\u00b6 3] The Superior Court had the benefit of the administrative filings and briefing from Hammer and the Secretary. It issued a judgment containing a thorough review of Hammer\u2019s contentions, along with a comprehensive and well-reasoned decision detailing the statutory interpretation leading to its conclusion that section 354 does require potential candidates to present the original nomination petitions, and thus bars them from presenting their petitions electronically.\n[\u00b6 4] Notwithstanding our direct review of the Secretary of State\u2019s decision, we agree with the Superior Court\u2019s determination that \u201cthe Secretary correctly interpreted the language of 21-A M.R.S. \u00a7 354 according to its plain language.... \u201d Given the fact that the Superior Court issued a judgment addressing the factual and procedural background and a comprehensive analysis of the statutory interpretation required in this matter, we do not repeat that presentation herein. Rather, in this expedited proceeding, we append the judgment of the Superior Court. See Sephton v. FBI, 442 F.3d 27, 29-30 (1st Cir.2006) (\u201cWhen a lower court produces a comprehensive, well-reasoned decision, an appellate court should refrain from writing at length to no other end than to hear its own words resonate.\u201d (quotation marks omitted)).\nThe entry is:\nJudgment affirmed.\n. Although, pursuant to 21-A M.R.S. \u00a7 356 (2009), there may be a colorable issue of the timeliness of Hammer\u2019s appeals both to the Superior Court and to us, because the Secretary of State does not challenge the appeal on that basis, we reach the merits of Hammer\u2019s contentions in these unique circumstances.\n. Notwithstanding procedural assistance and explicit directions from the Clerk of the Law Court and the Attorney General\u2019s Office, Hammer failed to file a brief in this Court in support of his appeal.",
+        "type": "majority",
+        "author": "GORMAN, J."
+      },
+      {
+        "text": "ALEXANDER, J.,\nconcurring in part and dissenting in part.\n[\u00b6 5] The trial court\u2019s opinion, adopted by the Court herein, thoroughly addresses the substantive issue in this case: whether our election laws allow receipt of electronic copies of nominating petitions in place of the actual signatures on paper copies. I concur in the Court\u2019s observations on that issue. I write separately because we should not reach that issue. The law requires that appeals to us from nominating petition decisions must be instituted within three days of the Superior Court\u2019s decision. 21-A M.R.S. \u00a7 356(2)(E) (2009). Mr. Hammer\u2019s appeal was filed well outside that time limit. The late appeal should be dismissed without reaching the merits. See M.R.App. P. 4(c); Landmark Realty v. Leasure, 2004 ME 85, \u00b6 7 n. 1, 853 A.2d 749, 750-51; Thomas v. BFC Marine/Bath Fuel Co., 2004 ME 27, \u00b6 5, 843 A.2d 3, 5 (explaining that the Court never acquires jurisdiction of an appeal filed out of time).\nAPPENDIX\nSTATE OF MAINE\nPENOBSCOT, ss.\nALEX HAMMER, Petitioner,\nv.\nOFFICE OF THE MAINE SECRETARY OF STATE, Respondent.\nBANGOR SUPERIOR COURT\nCIVIL ACTION\nDOCKET NO. AB-2010-15\nSept. 28, 2010.\nDECISION & ORDER ON 80C APPEAL\nThe matter before the Court is an appeal by the Petitioner, Alex Hammer, pursuant to 5 M.R.S. \u00a7\u00a7 11001-11008 and Rule 80C of the Maine Rules of Civil Procedure, from a decision by the Respondent, Mathew Dunlap, Secretary of State, and the Bureau of Corporations, Elections and Commissions (\u201cBureau\u201d), declaring seventy of Hammer\u2019s non-party nomination petitions for the November 2, 2010 General Election for the Office of Governor invalid on account of purported failures to meet the certification requirements of 21-A M.R.S. \u00a7 354. As a consequence of the Division\u2019s decision, invalidating seventy of the non-party nomination petitions, the petitioner failed to acquire the minimum number of signatures required \u2014 \u201cat least 4,000 and not more than 6,000\u201d \u2014 to ensure his placement on the November 2010 ballot as a independent candidate for the Office of Governor. 21-A M.R.S. \u00a7 354(5)(A). Having reviewed the administrative record and the parties\u2019 filings, the Court denies Petitioner Hammer\u2019s administrative appeal.\nBACKGROUND\nOn the record certified by the Secretary of State, the parties do not dispute the basic underlying facts giving rise to this administrative action. Pursuant to correspondence from Mr. Hammer, the Secretary of State, via the Bureau, delivered to him 100 of non-party petition forms. (Administrative Record at 24) [hereinafter R. at_]. In an undated written reply, Hammer wrote back to Julie L. Flynn, Deputy Secretary of State, requesting both a copy of the 2010 Candidates Guide to Ballot Access and specific information regarding the contact information for the municipal town clerks and registrars located throughout the State. (R. at 23.) On January 8, 2010, Hammer delivered an email directly to Secretary of Stale Mathew Dunlap requesting that the Bureau send to him \u201cadditional ballot signature forms.\u201d (R. at 22.) Thereafter, Secretary Dunlap and Hammer engaged in an email exchange between January 8, 2010, and January 12, 2010. (R. at 22.) The substance of those emails demonstrates that Petitioner Hammer wanted additional copies of the non-party petitions while Secretary Dunlap consistently reiterated that Hammer could make photocopies of the petitions already provided, and that prospective candidates were responsible for duplicating the non-party petition form at their own expense. (R. at 22-23.)\nAfter various communications with the Petitioner, (R. at 18), Deputy Secretary Flynn sent Hammer a letter explaining the petition process, and enclosed fifty additional non-party petitions along with the 2010 Candidate\u2019s Guide to Ballot Access. (R. at 19.) On February 18, 2010, Hammer indicated a preference for delivering some of his non-party petitions to municipal town clerks and registrars by submitting photocopies of them, (R. at 17), based on his realization that some of the petitions contained signatures from more than one municipality. Hammer thus anticipated that he might be unable to circulate the \u201coriginal\u201d copy of some of the non-party petitions to each and every local municipality for certification;\nI was going to forward you copies of the multiple towns per ballot signature page (already covers hundred of signatures) and let you know that I plan to send the towns photocopies to certify (for your advisement) because it is logistically impossible to send same form to 15-20 or more towns (not enough time) and there is space on the back only for own [sic] town to certify number for each form as well.\n(R. at 17.) Secretary Dunlap replied, \u201cyou can only photocopy the blank originals; for verification, the clerks need the original for the circulator\u2019s oath, etc.\u201d (Id.) Subsequently, Hammer and Secretary Dunlap engaged in another email exchange, with the Secretary once again advising Hammer that the certification process required delivery of each \u201coriginal\u201d petition to the local municipal officer charged with certifying signers, as registered voters, in each particular municipality noted on the form petition. (R. at 16.) On April 1, 2010, Hammer sent an email message to Secretary Dunlap requesting delivery of additional non-party petitions after recognizing that certification of some of his petitions might pose a significant logistical problem because they contained signers from \u201c15-20 or more towns.\u201d (R. at 15.) Secretary Dunlap responded on April 2, 2010, informing Hammer that he would not authorize the delivery of additional petitions and reiterated that Hammer was free to make copies of a blank petition in the event he needed more forms. (R. at 14.)\nOn May 10, 2010, Hammer initiated contact with Secretary Dunlap informing him that he intended to have \u201cs canned\u201d copies of some of the petitions made available to the municipal town clerks and registrars through an internet file sharing program. (R. at 13.) During this exchange, Secretary Dunlap repeated that the various town registrars, consistent with 21-A M.R.S. \u00a7 354, could only certify signers if presented with the \u201coriginal\u201d copies of the non-party petitions. (Id.) Despite the Secretary Dunlap\u2019s warning that the town registrars were not permitted, by statute, to accept \u201ccopies\u201d of the non-party petitions, and were therefore anemic to properly certify the signers, Hammer delivered a May 15, 2010, email to various town registrars requesting them to download electronically scanned copies of certain non-party petitions from an internet file sharing \u2022 network in order to certify those voter signatures that appeared to be on the respective town voting rolls. (R. at 5, 12.) Included in the email, Hammer provided a \u201ckey\u201d to each petition so that the various registrars and town clerks could locate those petitions that contained signatures of voters purportedly residing and registered to vote in each respective municipality. (Id.) In the email correspondence that followed, the Belfast City Clerk, Roberta Fogg, after consulting with Deputy Secretary Flynn, advised the town clerks and municipal officers copied on the email to refrain from certifying signatures using Hammer\u2019s proposed method of \u201cdelivery\u201d until the Secretary of State\u2019s office had an opportunity to engage the Office of the Attorney General for guidance. (R. at 11.) On May 18, 2010, Deputy Secretary Flynn delivered a letter to Hammer indicating that the Secretary of State would not permit the various municipal authorities to accept for certification any petitions provided by Hammer in \u201cs canned\u201d or other facsimile format. (R. at 10.) Deputy Secretary Flynn also circulated a Memorandum to all municipal town clerks and registrars urging them not to accept Hammer\u2019s proposed method for certifying signatures and advised that they could only accept/certify those \u201coriginal copies of petitions containing signatures.\u201d (R. at 9.) On Monday, May 24, 2010, Hammer delivered an email message to the town clerks arguing that election laws permitted copies of the non-party petitions to be provided for certification. (R. at 7.)\nOn May 25, 2010, Hammer delivered the Secretary of State\u2019s office 175 properly certified petitions, 10 petitions with \u201ccopies\u201d of certifications by municipal registrars, and 70 petitions without proper certifications by any of the municipal registrars. (See R. at 3-5.) On May 27, 2010, Director of Elections, Melissa Packard, delivered a letter to Hammer indicating that 3,209 signatures contained in 185 of the non-party petitions were properly certified and submitted, but that the Secretary could not accept as \u201cvalid\u201d the signatures contained on 70 petitions because they did not contain the proper certification from local municipal officials. (R. at 1.) The Secretary therefore determined that Hammer had failed to obtain the 4000 certified petition signatures necessary to ensure a place on the November 2010 ballot for Governor. See 21-A M.R.S. \u00a7 354(5)(A).\nAfter receiving Deputy Flynn\u2019s letter, Hammer appealed the Secretary\u2019s decision by filing a M.R. Civ. P. 80C complaint with the Penobscot County Superior Court on June 28, 2010. The State filed the administrative record on August 2, 2010. On September 10, 2010, some two days after Hammer had submitted his brief, the Court was finally alerted to existence of this administrative appeal. Realizing the sensitivity of this litigation and its proximity to the upcoming November 2010 election, the Court held a conference call with the parties on September 15, 2010, in which the parties were advised that the litigation would be expedited. The Court ordered the State to file its brief by no later than September 22, 2010. The State filed its brief on that day, and the Petitioner filed his response on that date as well.\nSTANDARD OF REVIEW\nThe Court\u2019s review of Petitioner\u2019s administrative appeal is confined by a deferential standard. Agency rulings may only be reversed or modified on M.R. Civ. P. 80C appeal upon a finding that the administrative ruling is: (1) in violation of constitutional or statutory provisions; (2) in excess of the statutory authority of the agency; (3) made upon unlawful procedure; (4) affected by bias or by error of law; (5) unsupported by substantial evidence on the whole record; or (6) arbitrary or capricious or characterized by abuse of discretion. 5 M.R.S. \u00a7 11007(4)(C)(l)-(6); see also Seider v. Board of Examiners of Examiners of Psychologists, 2000 ME 206, \u00b6 8, 695 [762] A.2d 552 [551], 555 (\u201cThe standard of review [on M.R. Civ. P. 80C appeal] is limited to whether the [governmental agency] abused its discretion, committed an error of law, or made findings not supported by substantial evidence in the record.\u201d) (internal quotation mark omitted) (citation omitted). Long-established rules of statutory construction obligate this Court to construe Maine statutes through the lens of giving \u201ceffect to intent of the Legislature.\u201d Knutson v. Sec\u2019y of State, 2008 ME 124, \u00b6 9, 954 A.2d 1054, 1058 (quoting Arsenault v. Sec\u2019y of State, 2006 ME 111, \u00b6 11, 905 A.2d 285, 287-88). The Court first endeavors \u201cto effectuate the plain language of the statute.\u201d Id. Where, however, the language of the statute is ambiguous, the Court \u201cwill defer to the Secretary\u2019s interpretation if that interpretation is reasonable.\u201d Id.\nDISCUSSION\nThe issue before the Court in this M.R. Civ. P. 80C action concerns whether the Secretary of State erred as a matter of law by instructing Hammer that he could submit only \u201coriginal\u201d copies of the non-party petition forms to town clerks and registrars, both preventing municipal authorities from certifying signatures contained in those petitions delivered by electronic means and culminating in the Bureau\u2019s rejection of 70 petitions. (See R. at 1, 5.) The statutory procedures outlined in 21-A M.R.S. \u00a7\u00a7 351-57 provide the non-party candidate attempting to run for public office with a detailed framework for obtaining a position on the election ballot. See id. The requirements for that process are outlined in \u00a7 354(7).\nThe Secretary argues that the statute effectuating the petition certification process is unambiguous, and explicitly requires the candidate to deliver \u201coriginal\u201d copies of the non-party petitions to the various municipal officials responsible for certifying voter signatures. The Court agrees with the State\u2019s position.\nThe Legislature has decided that a \u201c[a] nomination petition shall be on the form provided by the Secretary of State.\u201d 21-A M.R.S. \u00a7 354. Once the Secretary distributes the petition form(s), the recipient candidate and/or his agents are left to circulate the petitions by gathering name and residence of registered voters, id. \u00a7 354(4), and the personal signature of each voter signing the petition \u201cin such a manner as to satisfy the registrar of his municipality that he is a registered voter,\u201d id. \u00a7 354(3). After collecting the minimum number (but not exceeding the maximum number) of signatures needed for the particular office, all petitions are required to be \u201cverified and certified\u201d according to procedure contained in \u00a7 354(7)(A)-(C), the language critical to resolving the instant dispute.\nSection 354(7)(A) requires the circulator to swear an oath \u201cverifying that each of the signatures was made in his presence,\u201d Knutson v. Secretary of State, 2008 ME 124, \u00b6\u00b6 10-13, 954 A.2d 1054, 1058-59, and Section 354(7)(B)-(C) prescribes the certification method assumed by the individual town clerks and registrars:\nB. Petitions must be delivered to the registrar, or clerk at the request or upon the absence of the registrar, for certification by 5 p.m. on May 25th in the election year in which the petitions are to be used, except that petitions for a slate of candidates for the office of presidential elector must be delivered for certification by 5 p.m. on August 8th in the election year in which the petitions are to be used.\nC. The registrar, or clerk at the request or upon the absence of the registrar, of each municipality concerned shall certify which names on a petition appear in the central voter registration system as registered voters in that municipality and may not certify any names that do not satisfy subsection 3.\n21-A M.R.S. \u00a7 354(7)(B)-(C) (emphasis added). Given the explicit procedural design of the non-party nomination process\u2014 from \u00a7 354(3)\u2019s requirement that the voter \u201cmust personally sign the petition\u201d on the \u201cform provided by the Secretary of State\u201d to \u00a7 354(7)(B)\u2019s requirement that the \u201c[p]etitions must be delivered to the registrar or clerk\u201d and \u00a7 354(7)(C)\u2019s restriction that a town clerk or registrar \u201cmay not certify any names that do not satisfy subsection 3\u201d \u2014 the statute plainly indicates that the candidate seeking a non-party nomination deliver the \u201coriginal\u201d petition, complete with the \u201coriginal\u201d signatures of the voters signing the petition, to each town clerk or registrar responsible for certifying signatures in their municipality. Particularly relevant is Section 354(7)(C)\u2019s requirement that a town clerk \u201cmay not certify names that do not satisfy subsection 3.\u201d This section presupposes that the voter\u2019s original signature appear on the petition delivered; otherwise, the town clerk may have no discernable method of distinguishing the circulator\u2019s writing from that of the signing voter.\nEven if the plain language of \u00a7 354(7)(B) were found to be ambiguous, the Court finds the Secretary\u2019s interpretation of the statute to be reasonable, and therefore, entitled to deference. See, e.g., Knutson, 2008 ME 124, \u00b6 13, 954 A.2d at 1059 (deferring to the Secretary\u2019s interpretation of \u201cpresence\u201d in the context of requiring circulator to directly observe a voter signature on a petition before the circulator can properly fulfill the obligation of his oath). Three considerations support this conclusion.\nFirst, as the Secretary argues, \u201call methods of delivery are not equivalent.\u201d (Sec\u2019y Br. at 10.) Petitioner Hammer suggests that the term \u201cdelivered\u201d contained in \u00a7 354(7)(B) includes all possible methods of delivery, whether in hand, by mail, by facsimile, or by \u201cscanned\u201d electronic transmission. (Id.; see Petr.\u2019s Br. at 2; R. at 7.). Petitioner Hammer realized relatively early in the petition process \u2014 at least by February 18, 2010 \u2014 that he might not be able to deliver the \u201coriginal\u201d copy of some of the petitions, especially those containing voter signatures from \u201c15-20 or more towns,\u201d (R. at 18, 17; see also R. at 5.) to each municipality charged with certifying signatures by May 25, 2010. To that end, on May 15, 2010, Hammer delivered an email correspondence to various town clerks outlining an alternative system of \u201cdelivery\u201d by which the municipal clerks could \u201cdownload and extract PDF\u201d versions of the petitions from Hammer\u2019s website; view them using Adobe Reader; verify those voters\u2019 signatures appearing on each petition purported to be registered in each respective municipality; complete the scanned version of the registrar\u2019s certification for each petition reviewed; and email the scanned version of the certification back to the Petitioner. (R. at 12.) However, in the Court\u2019s view, Section 354(7)(B) contemplates a transfer of physical documents, and not electronic delivery of over 70 non-party petitions nine days before the petitions were, by statute, required to be in the hands of town clerks and registrars. See Blacks Law Dictionary 494 (9th ed.2009).\nSecond, when the petition certification process is compared to other statutory provisions allowing \u201ccopies\u201d of official forms to be used, accepted, delivered, or distributed in the election process, the Legislature has made those exceptions clear in the election statute. See, e.g., 21-A M.R.S. \u00a7 737-A(7) (requiring the Seere-tary to make photocopies of the disputed ballots in the event of an election recount); id. \u00a7 852(5) (mandating the warden at each polling place, at the close of Election day, \u201cto run an additional copy of the tally tape to provide to the clerk with the tally sheets and the return of the votes cast\u201d); id. \u00a7 711(l)-(2) (requiring the municipal clerk to prepare election returns by making \u201can attested copy\u201d of the returns \u201cand immediately send them to the Secretary of State\u201d); id. \u00a7 753-A(3) (permitting a voter applying for an absentee ballot to make a written request \u201cby mail, in person, or by facsimile\u201d). Even where the statute permits electronic delivery of election-related documents, those situations are limited and precisely defined. See 21-A M.R.S. \u00a7 753-(A)(6) (allowing municipal clerks the option of accepting absentee ballots by e-mail provided the clerk follows certain procedures specified in the provision); id. \u00a7 783(5), enacted by P.L.2009, c. 563, \u00a7 9 (eff. March 29, 2010) (authorizing \u201celectronic receipt of an image of voted absentee ballots transmitted by email or fax from uniformed service voters or overseas voters\u201d). The existence of these statutory provisions demonstrates that if the Legislature intended or contemplated that non-party petitions could be delivered to municipal town clerks and registrars in electronic, facsimile or other \u201ccopy\u201d format, it would have clearly provided for these alternatives in \u00a7 354(7)(B). The Court cannot therefore say that the Legislature intended to permit delivery of non-party petitions in the manner proposed by the Petitioner in this case.\nFinally, if there was any doubt as to whether the \u00a7 354(7)(B) requires delivery of the \u201coriginal petition,\u201d the intent of the Legislature is readily ascertained by the provision in the Maine Constitution from which \u00a7 354(7) is ultimately derived:\n\u201cwritten petition\u201d means one or more petitions written or printed, or partly written and partly printed, with the original signatures of the petitioners attached, verified as to the authenticity of the signatures by the oath of the circulator that all of the signatures to the petition were made in the presence of the circulator and that to the best of the circulator\u2019s knowledge and belief each signature is the signature of the person whose name it purports to be, and accompanied by the certificate of the official authorized by law to maintain the voting list or to certify signatures on petitions for voters on the voting list of the city, town or plantation in which the petitioners reside that their names appear on the voting list of the city, town or plantation of the official as qualified to vote for Governor.\nArsenault [Knutson] v. Sec\u2019y of State, 2006 [2008] ME 111 [124], \u00b6 11 n. 5, 905 [954] A.2d 1054, 1058 n. 5 (quoting ME. CONST, art. IV, pt. 3, \u00a7 20). The Law Court previously held that Maine\u2019s election laws are written in \u201cpainstaking detail\u201d and the Secretary of State, despite its obligation to provide oversight of election processes, cannot usurp the proper function of the Legislature to set election \u201cpolicy\u201d by enacting election laws consistent with the Maine Constitution. See Knutson, 2008 ME 124, \u00b6 27, 954 A.2d at 1062 (\u201cAlthough the Secretary\u2019s policy decision, attempting to save petitions in certain circumstances, may not be unreasonable, it is the Legislature that weighs the competing considerations and sets the policy.\u201d) (emphasis in original); Arsenault, 2006 ME 111, \u00b6 23, 905 A.2d at 289-90 (noting that the Secretary is without the power to \u201cfashion a limitation that does not exist in the statutes\u201d). On the facts of this case, the Secretary of State has not engaged in the type of policy-making that would appear to controvert ME. CONST, art. IV, pt. 3, \u00a7 2 or the statute modeled after it, 21-A M.R.S. \u00a7 354(7)(B).\nGiven the forgoing analysis, the Court need not reach the Secretary\u2019s additional argument that granting Hammer\u2019s requested relief at this point would \u201cdisrupt the election process and potentially disenfranchise Maine voters.\u201d (Sec\u2019y Br. at 16.) The Court here finds that the Secretary correctly interpreted the language of 21-A M.R.S. \u00a7 354 according to its plain language; and alternatively, determines that the Secretary\u2019s interpretation of the petition certification provision to be reasonable.\nBecause the Petitioner could submit enough certifications to tally only 3209 registered voters, he fell short of accomplishing the 4000 properly certified signatures necessary to ensure his place on the November 2010 ballot for the Office of Governor.\nThe entry is:\n1. Petitioner\u2019s M.R. Civ. P. 80C appeal is DENIED.\n2. At the direction of the Court, this Order shall be incorporated into the docket by reference. M.R. Civ. P. 79(a).\nDate: September 28, 2010\n/s/ M. Michaela Murphy\nM. Michaela Murphy Justice, Superior Court\n. Throughout the nomination process, the Secretary also advised Hammer that he could avoid the logistical problems associated with municipal certification simply by organizing each non-party petition to include signers from one municipality. (See R. at 10, 16, and 18-19.)\n. The Penobscot County Superior Court Clerk issued a standard Scheduling Order that would have had the briefing in this case continue well into October.\n. There is no dispute that the Secretary delivered 150 non-party petitions to Hammer, enough to collect 6750 certified signatures, 750 more than Hammer would need, or the Secretary would ultimately accept, in declaring Hammer's nomination for the Office of Governor. See 21-A M.R.S. \u00a7 354(5)(C). As noted in the Court\u2019s recitation of the facts, Secretary Dunlap and Deputy Secretary Flynn repeatedly told Hammer that he could recreate the form petition provided by making photocopies of them in the event he ran out of forms. (R. at 16, 19, 22, and 23.)\n. Petitioner Hammer also suggests that the 70 petitions containing the signatures from voters registered in disparate geographic locations, (R. at 5), could be delivered and certified by one municipal town clerk or registrar given each municipality\u2019s \u201ccapacity to certify names from throughout the state.\u201d (R. at 13.) This proposed certification method clearly contradicts plain language of 21-A MRS \u00a7 354(7)(C) and does not constitute a ground upon which Hammer might be entitled to relief in the M.R. Civ. P. 80C action now before the Court. See id. (\"The registrar, or clerk at the request or upon the absence of the registrar, of each municipality concerned shall certify which names on a petition appear in the central voter registration system as registered voters in that municipality....\u201d) (emphasis added).\n. Subsections 354(3)-(4) permit the circulator to \"print the voters name\u201d and/or \"write or print the voter\u2019s residence address and the municipality of registration.\u201d Id.\n. Not only would electronic delivery contravene the plain language of \u00a7 354(7)(B), requiring that \"original\u201d petition be delivered to the town clerk, it would also inevitably cause town clerks and registrars to laboriously plow through each \"scanned\u201d petition, or \u201ckey\u201d provided for each petition, to locate those voters purportedly residing and registered to vote in that particular municipality. This seems to be precisely the type of result \u00a7 354 is designed, at least in part, to prevent.\n. The Court finds the Secretary's interpretation reasonable for the additional reason that allowing potential candidates to deliver \"copies\u201d of the petitions could increase the potential for forged signature and otherwise \"mask material alterations to a petition.\u201d (Sec'y Br. at 15; R. at 13.) Further, electronic transmittal of the documents under the circumstances proposed by Hammer \u2014 on an unse-cure, private website \u2014 poses a substantial risk of compromising the security municipal computer systems. (Sec\u2019y Br. at 16). The explicit statutory framework of Maine\u2019s election statute lends credence to the Secretary's view that \"if the statute could be read to allow registrars to certify petitions based on a review of an electronic image of the petition, the Secretary ... would establish a secure, public website for that purpose.\u201d (Id.) In concluding this, Court does not mean to impugn Mr. Hammer's credibility or otherwise suggest that he was motivated to deliver fraudulently obtained signatures.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "ALEXANDER, J.,"
+      }
+    ],
+    "attorneys": [
+      "Alex Hammer did not file a brief.",
+      "Janet T. Mills, Attorney General, Phyllis Gardiner, Asst. Atty. Gen., Augusta, ME, for the Secretary of State."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 109\nAlex HAMMER v. SECRETARY OF STATE.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Oct. 27, 2010.\nDecided: Oct. 28, 2010.\nAlex Hammer did not file a brief.\nJanet T. Mills, Attorney General, Phyllis Gardiner, Asst. Atty. Gen., Augusta, ME, for the Secretary of State.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ.\nMajority: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ.\nConcurrence/Dissent: ALEXANDER, J."
+  },
+  "file_name": "0700-01",
+  "first_page_order": 726,
+  "last_page_order": 735
+}

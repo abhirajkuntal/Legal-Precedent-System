@@ -1,0 +1,62 @@
+{
+  "id": 7285415,
+  "name": "In the Matter of Lisa M. BUTTI",
+  "name_abbreviation": "In re Butti",
+  "decision_date": "2010-11-30",
+  "docket_number": "No. 2010-407-M.P.",
+  "first_page": "467",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 83,
+    "char_count": 1016,
+    "ocr_confidence": 0.724,
+    "sha256": "d8b1352e2e56b152fa4de03a3ddd6658902576bbef51fd4c45b28685dd49cfb7",
+    "simhash": "1:49ec9c1dc1f2e869",
+    "word_count": 161
+  },
+  "last_updated": "2023-07-14T20:45:43.314120+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Lisa M. BUTTI."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nOn November 8, 2010, pursuant to Article III, Rule 13 of the Supreme Court Rules of Disciplinary Procedure, the respondent filed an affidavit with this Court\u2019s disciplinary board setting forth that she is aware she is the subject of an investigation of professional misconduct. The respondent\u2019s affidavit sets forth that she freely and voluntarily consents to dis-barraent and that she is fully aware of the implications of submitting her consent. On November 15, 2010, Disciplinary Counsel filed the respondent\u2019s affidavit with the Court.\nUpon review of the respondent\u2019s affidavit, we deem that an order disbarring the respondent is appropriate.\nAccordingly, pursuant to Article III, Rule 13, it is hereby ordered, adjudged and decreed, that the respondent, Lisa M. Butti, be and she is hereby disbarred on consent from engaging in the practice of law.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "David D. Curtin, Esq., Disciplinary Counsel.",
+      "Lisa M. Butti."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of Lisa M. BUTTI.\nNo. 2010-407-M.P.\nSupreme Court of Rhode Island.\nNov. 30, 2010.\nDavid D. Curtin, Esq., Disciplinary Counsel.\nLisa M. Butti."
+  },
+  "file_name": "0467-01",
+  "first_page_order": 473,
+  "last_page_order": 474
+}

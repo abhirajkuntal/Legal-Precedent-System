@@ -1,0 +1,605 @@
+{
+  "id": 7288425,
+  "name": "Alice C. ANDROKITES v. Nancy Blake WHITE et al.",
+  "name_abbreviation": "Androkites v. White",
+  "decision_date": "2010-12-21",
+  "docket_number": "",
+  "first_page": "677",
+  "last_page": "684",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 677"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "390 A.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11725906
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/390/0505-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 24",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8984148
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/893/0599-01"
+      ]
+    },
+    {
+      "cite": "1997 ME 161",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        12023264
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "1282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/1280-01"
+      ]
+    },
+    {
+      "cite": "509 U.S. 86",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355584
+      ],
+      "weight": 5,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "96-97",
+          "parenthetical": "stating that the substantive law may not \"shift and spring according to the particular equities of [individual parties'] claims of actual reliance on an old rule and of harm from a retroactive application of the new rule\""
+        },
+        {
+          "parenthetical": "stating that the substantive law may not \"shift and spring according to the particular equities of [individual parties'] claims of actual reliance on an old rule and of harm from a retroactive application of the new rule\""
+        },
+        {
+          "parenthetical": "stating that the substantive law may not \"shift and spring according to the particular equities of [individual parties'] claims of actual reliance on an old rule and of harm from a retroactive application of the new rule\""
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/509/0086-01"
+      ]
+    },
+    {
+      "cite": "684 A.2d 1306",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366074
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/684/1306-01"
+      ]
+    },
+    {
+      "cite": "355 U.S. 253",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164427
+      ],
+      "weight": 3,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The ordinary rule, based on considerations of fairness, does not place the burden upon a litigant of establishing facts peculiarly within the knowledge of his adversary.\""
+        },
+        {
+          "parenthetical": "\"The ordinary rule, based on considerations of fairness, does not place the burden upon a litigant of establishing facts peculiarly within the knowledge of his adversary.\""
+        },
+        {
+          "parenthetical": "\"The ordinary rule, based on considerations of fairness, does not place the burden upon a litigant of establishing facts peculiarly within the knowledge of his adversary.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/355/0253-01"
+      ]
+    },
+    {
+      "cite": "1999 ME 137",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11573808
+      ],
+      "weight": 2,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "1066"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/737/1061-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 59",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7298524
+      ],
+      "weight": 2,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "756"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/973/0752-01"
+      ]
+    },
+    {
+      "cite": "156 A. 823",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Me. 409",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        596071
+      ],
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/130/0409-01"
+      ]
+    },
+    {
+      "cite": "267 A.2d 376",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8067138
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "378"
+        },
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/267/0376-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 137",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11419297
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "370"
+        },
+        {
+          "page": "\u00b6 26"
+        },
+        {
+          "page": "372",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/804/0364-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 69",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11102531
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6 21"
+        },
+        {
+          "page": "602"
+        },
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "601"
+        },
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/770/0592-01"
+      ]
+    },
+    {
+      "cite": "98 A. 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "744"
+        },
+        {
+          "page": "744-45"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Me. 227",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        704298
+      ],
+      "weight": 2,
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "230"
+        },
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/115/0227-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 170",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9462797
+      ],
+      "weight": 2,
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "1255-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/785/1251-01"
+      ]
+    },
+    {
+      "cite": "2005 ME 126",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9000383
+      ],
+      "weight": 4,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "\u00b6 5"
+        },
+        {
+          "page": "518"
+        },
+        {
+          "page": "\u00b6 5"
+        },
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/887/0517-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 36",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9474053
+      ],
+      "weight": 17,
+      "pin_cites": [
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "122"
+        },
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "122"
+        },
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "122"
+        },
+        {
+          "page": "122"
+        },
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "122-23"
+        },
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "124"
+        },
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "122"
+        },
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "123"
+        },
+        {
+          "page": "\u00b6 31"
+        },
+        {
+          "page": "124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/791/0116-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 176",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11182965
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b633"
+        },
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0232-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 139",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9189947
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "649"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/861/0645-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 135",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8448122
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/910/0392-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 130",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8207890
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 1, 3"
+        },
+        {
+          "page": "252, 253"
+        },
+        {
+          "page": "254"
+        },
+        {
+          "page": "255"
+        },
+        {
+          "page": "255"
+        },
+        {
+          "page": "\u00b6\u00b6 13-14"
+        },
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/955/0251-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 930,
+    "char_count": 21171,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 1.1062749778653025e-07,
+      "percentile": 0.5696258739409131
+    },
+    "sha256": "55030d039c28decde8cc5a7d1aeea8c5ae85383183af7ba8fdab718038db8b14",
+    "simhash": "1:a9bc9f3c187f9999",
+    "word_count": 3600
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Alice C. ANDROKITES v. Nancy Blake WHITE et al."
+    ],
+    "opinions": [
+      {
+        "text": "ALEXANDER, J.\n[\u00b6 1] Nancy Blake White (White) and Malcolm White (collectively, the Whites) appeal from a judgment entered in the Superior Court (Washington County, Cuddy, J.) following a nonjury trial, (1) finding in favor of an abutting landowner, Alice C. Androkites, in her trespass claim against the Whites, and (2) granting Androkites\u2019s request for a declaratory judgment and injunctive relief prohibiting the Whites from using a footpath that crosses Androk-ites\u2019s property. The Whites argue that the court erred in applying recent law on adverse possession, see Hamlin v. Niedner, 2008 ME 130, 955 A.2d 251, to conclude that they did not meet their burden of proving that they have a prescriptive easement over Androkites\u2019s property. We affirm the judgment.\nI. CASE HISTORY\n[\u00b6 2] Nancy Blake White owns waterfront property located on Harrington Bay (the White Property) on which she has a cottage. White\u2019s husband, Malcolm White, does not jointly own the White Property, but is a named defendant in this case. Alice C. Androkites owns waterfront property on which she has a cottage (the An-drokites Property) that is immediately south of the White Property. This case involves the Whites\u2019 right to use an established footpath, known as the Shore Path, that crosses the Androkites Property. The Shore Path runs north-south along the water, crossing part of the White Property, all of the Androkites Property, and proceeding through the property to the south of Androkites\u2019s lot to the property beyond.\n[\u00b6 3] The White and Androkites Properties were originally a single lot owned by White\u2019s grandmother. White\u2019s mother and maternal uncle jointly acquired that single lot in or around 1945. In 1962, White\u2019s mother and uncle divided their single lot into seven smaller lots. Through an exchange of conveyances, White\u2019s mother acquired three of the seven lots, including what is now the White Property, and White\u2019s uncle acquired four of the lots, including what is now the Androkites Property. In 1977, White\u2019s mother conveyed her lots to White. In 1994, White\u2019s cousin acquired the current Androkites Property. White\u2019s cousin sold that lot to Androkites in September 2000. The 2000 transfer to Androkites was the first transfer of that piece of property outside the family since it was acquired by White\u2019s grandmother well before 1945.\n[\u00b64] White spent almost every summer, or parts thereof, of her life at the family lots on Harrington Bay. Her grandparents, parents, and uncle\u2019s family also vacationed there each summer. Since the 1962 division of the jointly-owned lot, White and other family members used the Shore Path to cross what is now the An-drokites Property to visit each other and other adjoining lots, go to the beach, and get to a boat mooring area. White never asked for or received permission from any family members to cross their property using the Shore Path and is not aware of anyone else asking permission. White testified that it was apparent to the family members who owned the current Androk-ites Property that she and others used the Shore Path across their lot because they often would exchange greetings, and no one interrupted her use of the path.\n[\u00b6 5] In 2000, White\u2019s cousin prepared to sell what is now the Androkites Property to Androkites. As a prerequisite to selling her lot to Androkites, White\u2019s cousin acquired a release deed from the Whites providing that the Whites would abandon any right they had to use a parking area next to the cottage on the Androkites Property. The release deed expressly excepted from the release \u201cany mutual right that any of the parties may have to walk the so-called [Sjhore [Pjath.\u201d The Whites did not, however, acquire or claim any easement \u201cfor parking or passage other than those created or reserved in recorded deeds\u201d under the release deed. The parties generally stipulated, and the evidence in the record shows, that no recorded deed grants an easement to owners of the White Property over the Shore Path on the current Androkites Property or otherwise reserve such use or right.\n[\u00b6 6] The Whites frequently walked on the Shore Path during several summers after Androkites purchased the property. The Whites do not need access to the Shore Path to travel to points south of the White Property; they have a deeded right to use the private road from White\u2019s property through the Androkites Property to points south.\n[\u00b6 7] In 2006, Androkites filed a complaint for declaratory judgment and in-junctive relief against the Whites seeking to enjoin them from using the Shore Path and otherwise trespassing on the Androk-ites Property. The Whites filed an amended answer and counterclaim asserting an affirmative defense of prescriptive easement and seeking a declaration of the rights and responsibilities of the parties to the Shore Path.\n[\u00b6 8] Androkites filed a motion for summary judgment, which was denied, and filed a motion to reconsider based on our then recent decision in Hamlin v. Niedner, which was also denied. At trial, the Whites presented evidence in opposition to Androkites\u2019s claim and argued that the use made by White and her family of the Shore Path since 1962 established a prescriptive easement over the Androkites Property. The court entered a judgment for Androkites on her declaratory judgment claim and on her claim for trespass, awarding Androkites one dollar without interest or costs on the trespass claim. The court found in Androkites\u2019s favor as to the Whites\u2019 counterclaim for declaratory judgment.\n[\u00b6 9] The Whites filed a motion for reconsideration and for findings of fact. The court denied the motion for reconsideration, but granted the motion for additional findings of fact and made additional factual findings. The Whites then brought this timely appeal.\n[\u00b6 10] On appeal, the Whites argue that the trial court adopted an inappropriate standard for determining when a prescriptive easement has been established over property owned within the family of the person claiming the easement. Specifically, the Whites argue that the court erroneously extended the holding concerning adverse possession in Hamlin v. Niedner, 2008 ME 130, 955 A.2d 251, to impose upon them the burden of proving adversity as between White and previous owners of the Androkites Property, because the owners involved were family members.\n[\u00b6 11] The Whites argue that hostility or adversity, which they suggest implicates \u201cthe necessity of airing family laundry,\u201d has never been an element of a prescriptive easement claim and that there is no precedent for placing the burden of proof on them in this matter.\nII. LEGAL ANALYSIS\nA. Standards of Review and Elements of a Prescriptive Easement\n[\u00b6 12] We review questions of law and legal conclusions, including the construction of deeds, de novo. Mill Pond Condo. Ass\u2019n v. Manalio, 2006 ME 135, \u00b6 6, 910 A.2d 392, 395; Murch v. Nash, 2004 ME 139, \u00b6 10, 861 A.2d 645, 649. We review the trial court\u2019s factual findings as to the elements of a prescriptive easement for clear error and will affirm those findings if supported by competent record evidence, even if evidence could support alternative factual findings. Eaton v. Town of Wells, 2000 ME 176, \u00b633, 760 A.2d 232, 244. We will vacate the trial court\u2019s conclusion that the party with the burden of proof failed to prove a prescriptive easement only if the evidence compelled a contrary conclusion. Jordan v. Shea, 2002 ME 36, \u00b6 22, 791 A.2d 116, 122.\n[\u00b6 13] The statutory requirement for establishing a prescriptive easement is found at 14 M.R.S. \u00a7 812 (2009), which provides in relevant part that \u201c[n]o person, class of persons or the public shall acquire a right-of-way or other easement through, in, upon or over the land of another by the adverse use and enjoyment thereof, unless it is continued uninterruptedly for 20 years.\u201d Sandmaier v. Tahoe Dev. Group, Inc., 2005 ME 126, \u00b6 5, 887 A.2d 517, 518. This statutory provision, long part of Maine property law, see R.S. ch. 174, \u00a7 12 (1954), has been interpreted and applied through an extensive body of case law.\n[\u00b6 14] The party claiming a prescriptive easement has the burden at trial of proving by a preponderance of the evidence each of the following elements: (1) continuous use for at least twenty years; (2) under a claim of right adverse to the owner; (3) with the owner\u2019s knowledge and acquiescence, or with a use so open, notorious, visible, and uninterrupted that knowledge and acquiescence will be presumed. Sandmaier, 2005 ME 126, \u00b6 5, 887 A.2d at 518; accord Jordan, 2002 ME 36, \u00b6 22, 791 A.2d at 122; Town of Kittery v. MacKenzie, 2001 ME 170, \u00b6 15, 785 A.2d 1251, 1255-56; Dartnell v. Bidwell, 115 Me. 227, 230, 98 A. 743, 744 (1916).\n[\u00b6 15] The first element, continuous use for at least twenty years, is not in dispute. For purposes of our analysis, we also assume that the third element of the prescriptive easement analysis was established. What remains in dispute is the second element: whether White\u2019s and other family members\u2019 use of the Shore Path over what is now the Androkites Property was \u201cunder a claim of right adverse to the owner.\u201d\nB. Claim of Right Adverse to Owner\n[\u00b6 16] The party claiming a prescriptive easement must prove that she has used the property under a claim of right that is adverse to the owner. Jordan, 2002 ME 36, \u00b6 22, 791 A.2d at 122. Using the property \u201cunder a claim of right\u201d means that the claimant \u201cmust be in possession as the owner, intending to claim the land as [her] own, and may not be in recognition of or subordination to the record title owner.\u201d Id. \u00b6 23, 791 A.2d at 122. The claimant\u2019s use of the property is \u201cadverse to the owner\u201d only when the claimant \u201chas received no permission from the owner of the soil, and uses the way as the owner would use it, disregarding [the owner\u2019s] claims entirely, using it as though [she] owned the property [her]self.\u201d Stickney v. City of Saco, 2001 ME 69, \u00b6 21, 770 A.2d 592, 602; see also Jordan, 2002 ME 36, \u00b6 23, 791 A.2d at 122-23.\n[\u00b6 17] Although we have held that, when the first and third elements of a private prescriptive easement are established, as we assume they are in this case, a presumption arises that the use of the property was under a claim of right adverse to the owner, see Lyons v. Baptist Sch. of Christian Training, 2002 ME 137, \u00b6 18, 804 A.2d 364, 370, the presumption will not arise if there is an explanation of the use that contradicts the rationale of the presumption. Jacobs v. Boomer, 267 A.2d 376, 378 (Me.1970) (presumption applies unless \u201ccontradicted or explained\u201d); Burnham v. Burnham, 130 Me. 409, 411, 156 A. 823, 824 (1931).\n[\u00b6 18] When, as here, the dominant and servient estates were owned within the same family during the period in which the prescriptive right of access is alleged to have accrued, application of such a presumption that shifts the burden of proof is inappropriate. Absent evidence to the contrary, the law will infer that comings and goings of family members, across property owned within the family, are by accommodation or permission and do not have the requisite adversity to support imposition of a prescriptive easement by one family member upon another. See, e.g., 4 Richard R. Powell, Powell on Real Property \u00a7 34.10[2][c] (2005) (the presumption of adversity is inapplicable when the landowner and user have a relationship, such as a close blood relationship, such \u201cthat the landowner is reasonably entitled to regard the use as permissive unless specifically informed of the contrary fact\u201d).\n[\u00b6 19] Under the facts of this case and our decision in Hamlin v. Niedner, no presumption applied to shift the burden of proof to Androkites, because White\u2019s historical use of the Shore Path in a manner that, had the use been by a stranger, might appear to have been under a claim of right adverse to the owner, was explained by the family relationship. Placement of the burden of proof on the family member asserting adversity is consistent with our view that in a civil case, the party to a proceeding who has better access to information and is seeking the benefit or protection of a law has the burden of proof on that point. See In re Trever I., 2009 ME 59, \u00b6 13, 973 A.2d 752, 756; Dowley v. Morency, 1999 ME 137, \u00b6 11, 737 A.2d 1061, 1066; see also United States v. New York, New Haven & Hartford R.R. Co., 355 U.S. 253, 256 n. 5, 78 S.Ct. 212, 2 L.Ed.2d 247 (1957) (\u201cThe ordinary rule, based on considerations of fairness, does not place the burden upon a litigant of establishing facts peculiarly within the knowledge of his adversary.\u201d). Family members would know what past adversity may have affected use of family property. A stranger from outside the family would not.\n[\u00b6 20] Hamlin involved, in relevant part, the parties\u2019 claim of title by adverse possession to land owned by a family member. 2008 ME 130, \u00b6\u00b6 1, 3, 955 A.2d at 252, 253. To acquire title by adverse possession, the claimant must prove that the possession and use of the property was actual, open, visible, notorious, hostile, under a claim of right, continuous, exclusive, and for a duration exceeding twenty years. Id. \u00b6 10, 955 A.2d at 254. Observing that \u201c[t]he law generally disfavors findings of adverse possession,\u201d and that \u201c[t]here is every presumption that the occupancy is in subordination to the true title,\u201d we held that \u201cwhen property is or had been held within one family, the burden of establishing hostility is greater.\u201d Id. \u00b6\u00b6 11, 13, 955 A.2d at 255. We further held that \u201c[w]hen parties have a familial relationship, there must be clear proof of hostility and actual notice to the true owner to satisfy the hostility requirement and transfer title by adverse possession.\u201d Id. \u00b6 13, 955 A.2d at 255.\n[\u00b6 21] Contrary to the Whites\u2019 contention that the element of \u201chostility,\u201d which was at the heart of our analysis in Hamlin, is not an element of a prescriptive easement claim, the element of hostility is present in prescriptive easement law, characterized as \u201cadversity\u2019 in the \u201ca claim of right adverse to the owner\u201d element. See Jordan, 2002 ME 36, \u00b6 31, 791 A.2d at 124; see also Glidden v. Belden, 684 A.2d 1306, 1318 n. 20 (Me.1996); 25 Am.Jur.2d Easements and Licenses \u00a7 56 (2004) (\u201cGenerally, the hostile and adverse character of the use necessary to establish an easement by prescription is the same as that which is necessary to establish title by adverse possession.\u201d). We reiterate that, whether discussing prescriptive easements or adverse possession, the element of \u201chostility\u201d or \u201cadversity\u201d does not require a \u201cheated controversy or a manifestation of ill will\u201d toward the owner. Lyons, 2002 ME 137, \u00b6 26, 804 A.2d at 372 (quotation marks omitted).\n[\u00b6 22] Accordingly, our holding in Hamlin is applicable to this case involving a claim of a prescriptive easement. When a prescriptive easement is claimed as between family members, the prescriptive easement claimant may not rely upon a presumption of use under a claim of right adverse to the owner when the other elements of a prescriptive claim are proved; and the prescriptive user instead bears the burden of proving, by a preponderance of the evidence, that she used the land under a claim of right in a manner adverse to the owner, which requires proof of adversity and actual notice to the true owner. See, e.g., 4 Richard R. Powell, Powell on Real Property \u00a7 34.10[2][c] (2005).\n[\u00b6 23] Because the record supports the court\u2019s findings that the Whites (1) did not prove by a preponderance of the evidence that they used the Shore Path maintaining a claim of right adverse to the owner of what is now the Androkites Property, see Jordan, 2002 ME 36, \u00b6 22, 791 A.2d at 122, and (2) failed to show actual adversity and notice to the family members who owned the property during the relevant period, see Hamlin, 2008 ME 130, \u00b6\u00b6 13-14, 955 A.2d at 255, we affirm the court\u2019s finding that the Whites did not prove a prescriptive easement.\nThe entry is:\nJudgment affirmed.\n. The Whites also argue that the trial court should have applied the case law concerning prescriptive easements as it existed in 2000. We do not agree. See Harper v. Virginia Dep\u2019t of Taxation, 509 U.S. 86, 96-97, 113 S.Ct. 2510, 125 L.Ed.2d 74 (1993) (stating that the substantive law may not \"shift and spring according to the particular equities of [individual parties'] claims of actual reliance on an old rule and of harm from a retroactive application of the new rule\u201d); id. at 107, 113 S.Ct. 2510 (Scalia, J., concurring) (noting the distinction between the judicial and the legislative power in this regard).\n. The Whites suggest that if we affirm, we should also remand to permit them to attempt to prove adversity. We decline to do so, as all parties were fully on notice in the trial court that adversity was an issue, and the sworn testimony and agreed facts presented to the trial court are not consistent with a claim of adversity of use among family members when the property was entirely within family ownership.\n. The release deed also expressly excepted from the release any rights reserved or created by prior deed, including the right of the owners of the White Property to use the common well on the Androkites Property, the private road, and a portion of the sandy beach adjacent to the Androkites Property. These rights are not at issue in this case.\n. Androkites also named White\u2019s brother and his wife as defendants in the complaint. White\u2019s brother owns the White Property with White, but White's brother and his wife released by deed any claim they had to use the Shore Path and were dismissed from this case.\n. The trial court found, as supported by record evidence, that White and her family members continuously used due Shore Path for more than twenty years. See Stickney v. City of Saco, 2001 ME 69, \u00b6 18, 770 A.2d 592, 601 (\u201cContinuous possession and use requires only the kind and degree of occupancy (i.e., use and enjoyment) that an average owner would make of the property.\u201d); see also S.D. Warren Co. v. Vernon, 1997 ME 161, \u00b6 6, 697 A.2d 1280, 1282.\n. The trial court\u2019s findings on the issue of knowledge and acquiescence are somewhat unclear. Nonetheless, the parties do not suggest that the Whites failed to meet their burden as to the third element of knowledge and acquiescence. The record supports a finding that White's use was with the knowledge of her family members who owned the current Androkites Property from 1962 to 2000, and that those family members either acquiesced to such use or that her use of the path was so open, notorious, visible, and uninterrupted that acquiescence is presumed. The record also supports the finding that White never asked for or received permission from her family members to cross their property using the Shore Path and that she knew of no one else who did. See Jacobs v. Boomer, 267 A.2d 376, 378 (Me.1970) (\"Acquiescence ... means passive assent such as consent by silence and does not encompass acquiescence in the active sense such as ... by means of the positive grant of a license or permission.\u201d).\n.We have previously held that the prescriptive user\u2019s state of mind was relevant to whether use was adverse under a claim of right. See Jordan v. Shea, 2002 ME 36, \u00b6 23, 791 A.2d 116, 123; Glidden v. Belden, 684 A.2d 1306, 1317 (Me.1996). However, following a 1993 statutory change in the law pertaining to adverse possession in the context of a mistaken boundary line, 14 M.R.S.A. \u00a7 810-A (Supp.1998) (subsequently amended by P.L.2009, ch. 255, \u00a7 1 (effective Sept. 12, 2009) (codified at 14 M.R.S. \u00a7 810-A (2009))), we held that \"the intent requirement [i.e., that the claimant have the specific intent to claim the land of another] for adverse possession claims is eliminated.\u201d Dombkowski v. Ferland, 2006 ME 24, \u00b6\u00b6 23 n. 6, 24, 893 A.2d 599, 605.\n\"The adversity issue is treated the same in adverse possession cases and prescriptive easement cases.\u201d Jordan, 2002 ME 36, \u00b6 31, 791 A.2d at 124. Accordingly, the prescriptive user's state of mind is no longer relevant in prescriptive easement claims.\n. We have observed on more than one occasion that the primary difference between the elements of adverse possession and those of prescriptive easement relates to the necessity of showing acquiescence to establish a prescriptive easement. See Stickney, 2001 ME 69, \u00b6 23, 770 A.2d at 602; Pace v. Carter, 390 A.2d 505, 507 n. 2 (Me.1978); Dartnell v. Bidwell, 115 Me. 227, 230, 98 A. 743, 744-45 (1916).\n. Because \"hostility\u201d does not refer to the existence of a \"heated controversy or a manifestation of ill will,\u201d the Whites\u2019 concern that affirmation of the court\u2019s judgment will lead to the \"inappropriate\u201d \"airing of family laundry\u201d in future cases with similar facts is unfounded.",
+        "type": "majority",
+        "author": "ALEXANDER, J."
+      }
+    ],
+    "attorneys": [
+      "David J. Fletcher, Esq. (orally), Teresa E. Stepan, Esq., Fletcher & Mahar, P.A., Calais, ME, for Nancy Blake White and Malcolm White.",
+      "John P. Foster, Esq. (orally), Kathleen A. Mishkin, Esq., Eastport, ME, for Alice Androkites."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 133\nAlice C. ANDROKITES v. Nancy Blake WHITE et al.\nSupreme Judicial Court of Maine.\nArgued: Nov. 10, 2010.\nDecided: Dec. 21, 2010.\nDavid J. Fletcher, Esq. (orally), Teresa E. Stepan, Esq., Fletcher & Mahar, P.A., Calais, ME, for Nancy Blake White and Malcolm White.\nJohn P. Foster, Esq. (orally), Kathleen A. Mishkin, Esq., Eastport, ME, for Alice Androkites.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0677-01",
+  "first_page_order": 677,
+  "last_page_order": 684
+}

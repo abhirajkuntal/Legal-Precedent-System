@@ -1,0 +1,210 @@
+{
+  "id": 7286994,
+  "name": "Shirley A. COPELAND, Petitioner, v. DISTRICT OF COLUMBIA DEPARTMENT OF EMPLOYMENT SERVICES, Respondent",
+  "name_abbreviation": "Copeland v. District of Columbia Department of Employment Services",
+  "decision_date": "2010-09-02",
+  "docket_number": "No. 09-AA-240",
+  "first_page": "331",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "691 F.2d 514",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1477995,
+        3636029
+      ],
+      "weight": 8,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "522-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/691/0514-01",
+        "/us-app-dc/223/0325-01"
+      ]
+    },
+    {
+      "cite": "223 U.S.App.D.C. 325",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3636029
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "332-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/223/0325-01"
+      ]
+    },
+    {
+      "cite": "468 A.2d 1338",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8027851
+      ],
+      "pin_cites": [
+        {
+          "page": "1342"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/468/1338-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 274",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213071
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0274-01"
+      ]
+    },
+    {
+      "cite": "441 U.S. 677",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780023
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "696-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0677-01"
+      ]
+    },
+    {
+      "cite": "971 A.2d 909",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297858,
+        7297806
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "915"
+        },
+        {
+          "parenthetical": "\"Many employees[ ] who are injured on the job[ ] and are forced to seek legal representation find it extremely difficult to obtain legal services.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/971/0909-02",
+        "/a2d/971/0909-01"
+      ]
+    },
+    {
+      "cite": "952 A.2d 168",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8180401
+      ],
+      "pin_cites": [
+        {
+          "page": "173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/952/0168-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1988",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 779,
+    "char_count": 16494,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1882806681007271
+    },
+    "sha256": "536c09f84f93cbba423a971642018291f36dc30aecfea16e69b84c88f9647552",
+    "simhash": "1:e61267d6894da6af",
+    "word_count": 2604
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUIZ, REID, and GLICKMAN, Associate Judges."
+    ],
+    "parties": [
+      "Shirley A. COPELAND, Petitioner, v. DISTRICT OF COLUMBIA DEPARTMENT OF EMPLOYMENT SERVICES, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "GLICKMAN, Associate Judge:\nThis is an appeal of a Compensation Review Board (\u201cCRB\u201d) order denying an award of attorney\u2019s fees in a public sector disability compensation case. D.C.Code \u00a7 l-623.27(b)(2) (Supp. 2010), a part of the Comprehensive Merit Personnel Act, provides that a District Government employee who utilizes the services of an attorney-at-law in the successful prosecution of her claim is entitled to a reasonable attorney\u2019s fee award. The CRB interpreted this provision to bar a fee award where the claimant was represented by law students participating in a clinical program under a lawyer\u2019s supervision. We conclude that the CRB erred in its application of the statute.\nI.\nIn 1994, petitioner Shirley Copeland, an employee of the District of Columbia Department of Human Services, suffered a work-related injury to her back. She applied for, and received, disability compensation benefits. In June 2007, however, the Office of Risk Management in the Department of Employment Services terminated her benefits on the ground that her medical condition was not causally related to her workplace injury. Seeking to have her benefits reinstated, Ms. Copeland filed a request for an administrative hearing. To represent her in the administrative proceedings, Ms. Copeland retained the Public Justice Advocacy Clinic (the \u201cClinic\u201d) of the George Washington University Law School. The Clinic is directed by Professor Jeffrey Gutman, who is a member of the District of Columbia Bar. Under Professor Gutman\u2019s tutelage and supervision, two third-year law students, Daniel Green-spahn and Kiva Feldman, prepared Ms. Copeland\u2019s case. With Professor Gutman in attendance, the students represented her at her hearing.\nMs. Copeland prevailed at the hearing, and on November 23, 2007, the administrative law judge entered a compensation order reinstating her benefits. The order identifies Professor Gutman as Ms. Copeland\u2019s counsel in the proceeding. Following their victory, Professor Gutman and the two law students applied pursuant to D.C.Code \u00a7 l-623.27(b)(2) for an award of reasonable attorney\u2019s fees for their work on Ms. Copeland\u2019s behalf. They sought fees for only half of the students\u2019 170 hours (an exercise of \u201cbilling judgment,\u201d they explained, because some of the students\u2019 time was \u201cpedagogical in nature, rather than directly focused on direct client service\u201d), and no fees for Professor Gutman\u2019s time. The fee application stated that the fee award would be used for client services provided by the Clinic.\nOn September 8, 2008, Chief Administrative Law Judge Linda Jory entered an order denying the fee application on the ground that \u201c[t]he plain language of the statute [D.C.Code \u00a7 l-623.27(b)(2) ] provides for payments to \u2018attorney-at-law\u2019 and does not specify any other class of person eligible to receive such payments.\u201d The CRB agreed with this rationale, stating that law students \u201cdo not qualify as attorneys-at-law.\u201d The CRB rejected the argument that, for purposes of compensation in an attorney\u2019s fee award, the law students\u2019 work for Ms. Copeland was comparable to paralegal work:\n[It] is important to note that [paralegal] work is performed in support of, pursuant to, and under the direction of, an attorney-at-law. Work performed by a paralegal constitutes the work-product of the attorney of record ... in a case. Such a circumstance is distinguishable from the instant case as [] the two students directly represented Petitioner in court and engaged in the limited practice of law. Paralegals have no authority to do so.\nII.\nD.C.Code \u00a7 l-623.27(b)(2) provides that \u201c[i]f a person utilizes the services of an attorney-at-law in the successful prosecution of his or her claim ..., there shall be awarded ... a reasonable attorney\u2019s fee, not to exceed 20% of the actual benefit secured, which fee award shall be paid directly ... to the attorney for the claimant....\u201d Ms. Copeland argues that the CRB erred as a legal matter by construing this statute to preclude recovery as part of a \u201creasonable attorney\u2019s fee\u201d award for any time devoted to the representation by law students and other para-professionals working with the claimant\u2019s attorney. The Department of Employment Services responds that the CRB did not interpret the statute as barring fee awards for paraprofessional work in all circumstances; rather, it distinguished between work performed by non-attorneys \u201cin support of, pursuant to, and at the direction of\u2019 an attorney who represents a claimant, and work performed by non-attorneys who represent claimants themselves, even if they do so under the supervision of an attorney. The Department argues that the CRB reasonably construed D.C.Code \u00a7 l-623.27(b)(2) to preclude an award of attorney\u2019s fees only under the second set of circumstances, and that it reasonably applied that construction to the facts of this case.\nThe material facts of this case are not in dispute, and the CRB\u2019s interpretation and application of \u00a7 1 \u2014 023.27(b)(2) are subject to de novo review in this court. We will defer to the CRB\u2019s construction if it is a reasonable one \u2014 i.e., \u201cnot plainly wrong or inconsistent with the legislature\u2019s intent\u201d \u2014 but we will not uphold a decision that \u201creflects a misconception of the relevant law or a faulty application of the law.\u201d\nThere is no question that a claimant must \u201cutilize[ ] the services of an attorney-at-law in the successful prosecution of his or her claim\u201d in order to be entitled to the award of \u201ca reasonable attorney\u2019s fee\u201d under \u00a7 1 \u2014 623.27(b)(2). But when that threshold requirement is met, it would be untenable to argue that \u201ca reasonable attorney\u2019s fee\u201d cannot be based on the work of law students and other non-lawyers who assisted in the representation under the attorney\u2019s direction. The Council of the District of Columbia patterned \u00a7 1-623.27(b)(2) on the virtually identical attorney\u2019s fee provision of the District of Columbia Workers\u2019 Compensation Act, D.C.Code \u00a7 32-1530(a) (2001), which the Department of Employment Services long has construed to cover the services of para-professionals assisting the claimant\u2019s attorney. The presumption, absent good reason to think otherwise, is that when a legislature imports language from a statute of settled meaning to a new statute \u201cwith an identical stated purpose,\u201d it means for the imported language in the new law to be interpreted in the same way as it is in the old one.\nIn addition to finding no support in the statute\u2019s text or legislative history, an interpretation of \u00a7 1 \u2014 623.2T(b)(2) precluding the recognition of para-professional services in attorney\u2019s fee awards would render the statute an anomaly among fee-shifting statutes. As the Supreme Court has observed in a case construing one such statute (42 U.S.C. \u00a7 1988), the collaborative nature of legal representation implies that \u201ca \u2018reasonable attorney\u2019s fee\u2019 cannot have been meant to compensate only work performed personally by members of the bar. Rather, the term must refer to a reasonable fee for the work product of an attorney ... [taking] into account the work not only of attorneys, but also of ... others whose labor contributes to the work product for which the attorney bills her client.\u201d And \u201creasonable attorney\u2019s fee\u201d awards historically have encompassed the work of law students; this court perceived nothing unusual or inappropriate, for example, in approving such an award under the Truth in Lending Act almost three decades ago. An especially noteworthy case for present purposes, because it involved a fee application (under the Freedom of Information Act) for supervised student work in a law school clinic, is Jordan v. United States Department of Justice. Rejecting the government\u2019s several objections, the D.C. Circuit Court of Appeals stated:\nThe argument that law student services cannot possibly form the basis for an attorneys\u2019 fee award merely because law students are not lawyers has only superficial vitality. It loses force drastically when one notes the commonplace use of law students by law firms \u2014 usually full-time during summer months, and part-time during the academic year \u2014 to perform tasks that otherwise would fall to full-fledged attorneys. And the argument founders completely in the tide of state statutes and court rules authorizing law students, under appropriate circumstances, to undertake functions of licensed attorneys, including actual representation of clients before a court.... [W]e cannot condone a concept of attorneys\u2019 fees so narrow as to exclude the work of law students simply because they are not yet members of the bar.[]\nThe Department of Employment Services does not take issue with these principles; it acknowledges that an application for an award of reasonable attorney\u2019s fees under \u00a7 l-623.27(b)(2) properly may seek compensation for the work of non-attorneys, including law students, who assisted an attorney in the successful prosecution of a claim. The Department disputes only that the law students rendered that type of assistance here. They did not do so, the Department argues, because as the CRB stated, \u201cthe two students directly represented [Ms. Copeland] in court and engaged in the limited practice of law\u201d themselves.\nThis analysis is faulty. The fact that, as in Jordan, the law students permissibly \u201cperform[ed] tasks that otherwise would [have] fall[en] to full-fledged attorneys\u201d is not enough to exclude their work from the purview of the attorney\u2019s fee statute. The critical point is that Ms. Copeland was not represented before the Department by the law students alone; she was represented by the law students together with Professor Gutman, a licensed attorney-at-law under whose direction the students did their work. This was in accordance with the Rules of this Court. Rule 48 permits eligible law students to engage in \u201cthe limited practice of law\u201d and appear before the District\u2019s courts and administrative tribunals on behalf of indigent clients, provided they do so as part of a law school clinical program and work under the direction of a \u201csupervising lawyer.\u201d The \u201csupervising lawyer\u201d must be an \u201cactive\u201d member of the District of Columbia Bar; must \u201c[assume full responsibility for guiding the student\u2019s work ... and for supervising the quality\u201d of that work; must do everything \u201cnecessary in [his or her] professional judgment to insure that the student\u2019s participation is effective on behalf of the indigent person represented\u201d; and must sign all pleadings and other documents to be filed in the matter. Under the Rules of Professional Conduct, a lawyer having such \u201cdirect supervisory authority\u201d over a non-lawyer in the practice of law is obliged to make \u201creasonable efforts to ensure\u201d that the non-lawyer\u2019s conduct is \u201ccompatible with\u201d the lawyer\u2019s own professional obligations and may be held \u201cresponsible for conduct of such a person that would be a violation of the Rules ... if engaged in by a lawyer.\u201d Given these requirements, the \u201csupervising lawyer\u201d clearly has an attorney-client relationship with the law students\u2019 client and is personally responsible for her representation.\nIn this case, the \u201csupervising lawyer\u201d was Professor Gutman. The detailed time records submitted in support of the fee application confirm his assiduous supervision of the law students who handled Ms. Copeland\u2019s case. As the administrative law judge recognized in the order reinstating Ms. Copeland\u2019s disability benefits, Professor Gutman was her legal counsel.\nThus, contrary to the Department\u2019s characterization, this was not a case of lay representation before the Department. Ms. Copeland \u201cutilized the services of an attorney-at-law in the successful prosecution\u201d of her claim, and the law students who assisted her pursuant to Rule 48 did so under that attorney\u2019s direction and control. The CRB therefore erred as a matter of law in concluding that the students\u2019 work was not compensable in a reasonable attorney\u2019s fee award under D.C.Code \u00a7 1-628.27(b)(2).\nAccordingly, we reverse the decision of the CRB and remand this case for an administrative law judge to consider the fee application on its merits and award a reasonable attorney\u2019s fee.\n. Howard Univ. Hosp. v. District of Columbia Dep\u2019t of Employment Servs., 952 A.2d 168, 173 (D.C.2008) (internal quotation marks omitted).\n. Georgetown Univ. v. District of Columbia Dep't of Employment Servs., 971 A.2d 909, 915 (D.C.2009) (internal quotation marks omitted).\n. In pertinent part, D.C.Code \u00a7 32-1530(a) provides that \"[i]f ... the person seeking benefits ... utilizes the services of an attorney-at-law in the successful prosecution of his claim, there shall be awarded ... a reasonable attorney\u2019s fee ..., which shall be paid directly ... to the attorney for the claimant....\u201d The legislative history of \u00a7 1-623.27(b)(2) refers to this provision of the private sector workers' compensation law. See Council of the District of Columbia, Committee on Government Operations, Report on Bill 16-238, the District Government Injured Employee Protection Act of 2006 (2006), page 2. The purpose of each statutory provision is the same, to enable injured employees to obtain \u201clegal services\u201d to assist them with their claims. Id. (\u201cMany employees[ ] who are injured on the job[ ] and are forced to seek legal representation find it extremely difficult to obtain legal services.\u201d).\n.Since 1986, the Department's regulations have required applications for attorney\u2019s fees under the Workers' Compensation Act to specify \u201cthe professional status (e.g., attorney, paralegal, law clerk, or other person assisting an attorney) of each person performing the work\u201d for which compensation is sought. 7 DCMR \u00a7 224.3(a) (2010). The Director of the Department of Employment Services issued a Policy Directive in 2005 confirming that \"a reasonable paralegal fee ... shall be afforded where appropriate\u201d as part of the award under \u00a7 32-1530(a), \u201cin recognition of the increasingly important role of paralegals to the practice of law in the D.C. area, including the practice of workers' compensation law before DOES.\u201d Policy Directive Clarifying the Award of Attorney Fees in the District of Columbia Workers\u2019 Compensation Cases (May 12, 2005). The Policy Directive is available on the Department's web site, at http://www.does.de. gov/does/frames.asp?doc=/does/lib/does/ services/Award_of_AttorneyJF ees_0 W C_ 011905.pdf. (last visited Aug. 3, 2010). In accordance with that directive, the CRB has upheld fee awards for para-professional work. See, e.g., Steadman v. United Parcel Serv., CRB No. 05-262, 2005 DC Wrk. Comp. LEXIS 381 (Dec. 14, 2005).\n. Cannon v. Univ. of Chicago, 441 U.S. 677, 696-98, 99 S.Ct. 1946, 60 L.Ed.2d 560 (1979).\n. Missouri v. Jenkins, 491 U.S. 274, 285, 109 S.Ct. 2463, 105 L.Ed.2d 229 (1989).\n. See Frazier v. Franklin Inv. Co., Inc., 468 A.2d 1338, 1342 (D.C.1983).\n. 223 U.S.App.D.C. 325, 691 F.2d 514 (1982).\n. Id., 223 U.S.App.D.C. at 332-33, 691 F.2d at 522-23.\n. D.C.App. R. 48(a)(1).\n. Id., R. 48(e)(4).\n. Id., R. 48(e)(2).\n. Id., R. 48(e)(3).\n. Id., R. 48(d)(l)(i).\n. D.C. Rules of Prof'l Conduct R. 5.3(b), (c).\n. According to the time records, Professor Gutman devoted considerable time providing his students with guidance and reviewing and correcting their work product. In preparing for Ms. Copeland's hearing, the students had weekly meetings with Gutman to discuss the case. Among other things, Gutman helped them with discovery and pleadings; advised them with respect to legal issues; and prepared them to conduct the hearing.\n.We note that the fee application asks for payment to be made to the George Washington University Legal Clinics (\"GWULC\u201d), not to Professor Gutman. The Department has not argued that payment directly to GWULC at Professor Gutman's request would be impermissible in light of the requirement in D.C.Code \u00a7 1 \u2014 623.27(b)(2) that the attorney\u2019s fee award be paid directly to the attorney, nor do we suppose it would be. See Jordan, 223 U.S.App.D.C. at 328 n. 14, 691 F.2d at 517 n. 14.",
+        "type": "majority",
+        "author": "GLICKMAN, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Jeffrey S. Gutman for petitioner.",
+      "Peter J. Niekles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, Donna M. Murasky, Deputy Solicitor General, and David A. Hyden, Assistant Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Shirley A. COPELAND, Petitioner, v. DISTRICT OF COLUMBIA DEPARTMENT OF EMPLOYMENT SERVICES, Respondent.\nNo. 09-AA-240.\nDistrict of Columbia Court of Appeals.\nSubmitted March 25, 2010.\nDecided Sept. 2, 2010.\nJeffrey S. Gutman for petitioner.\nPeter J. Niekles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, Donna M. Murasky, Deputy Solicitor General, and David A. Hyden, Assistant Attorney General, for appellee.\nBefore RUIZ, REID, and GLICKMAN, Associate Judges."
+  },
+  "file_name": "0331-01",
+  "first_page_order": 365,
+  "last_page_order": 371
+}

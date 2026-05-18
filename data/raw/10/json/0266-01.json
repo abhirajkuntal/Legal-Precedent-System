@@ -1,0 +1,59 @@
+{
+  "id": 7283613,
+  "name": "COM. ex rel. Alfonso DORSEY, Appellant v. Jeffrey BEARD, Secretary for the Pa. Department of Corrections, Appellee",
+  "name_abbreviation": "COM. ex rel. Dorsey v. Beard",
+  "decision_date": "2010-12-20",
+  "docket_number": "",
+  "first_page": "266",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 266"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 271,
+    "ocr_confidence": 0.742,
+    "sha256": "bd1435facacbfaddc1acb6387c5cc1f4767967e0117fdd863a824e3a23b9e320",
+    "simhash": "1:7db8ea72414e2c30",
+    "word_count": 43
+  },
+  "last_updated": "2023-07-14T20:45:43.314120+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM. ex rel. Alfonso DORSEY, Appellant v. Jeffrey BEARD, Secretary for the Pa. Department of Corrections, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of December, 2010, the order of the Commonwealth Court is AFFIRMED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM. ex rel. Alfonso DORSEY, Appellant v. Jeffrey BEARD, Secretary for the Pa. Department of Corrections, Appellee.\nSupreme Court of Pennsylvania.\nDec. 20, 2010."
+  },
+  "file_name": "0266-01",
+  "first_page_order": 272,
+  "last_page_order": 272
+}

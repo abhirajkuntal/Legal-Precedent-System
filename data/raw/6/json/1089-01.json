@@ -1,0 +1,272 @@
+{
+  "id": 7289846,
+  "name": "In re CHARLES L. et al.",
+  "name_abbreviation": "In re Charles L.",
+  "decision_date": "2010-10-29",
+  "docket_number": "No. 2009-206-Appeal",
+  "first_page": "1089",
+  "last_page": "1095",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1089"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "798 A.2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9430544
+      ],
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/798/0413-01"
+      ]
+    },
+    {
+      "cite": "840 A.2d 1087",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9295761
+      ],
+      "pin_cites": [
+        {
+          "page": "1089"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/1087-01"
+      ]
+    },
+    {
+      "cite": "840 A.2d 1146",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9296135
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/1146-01"
+      ]
+    },
+    {
+      "cite": "864 A.2d 629",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9041557
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/864/0629-01"
+      ]
+    },
+    {
+      "cite": "889 A.2d 192",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8992106
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/0192-01"
+      ]
+    },
+    {
+      "cite": "898 A.2d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8416267
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/898/0102-01"
+      ]
+    },
+    {
+      "cite": "946 A.2d 198",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8378439
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/946/0198-01"
+      ]
+    },
+    {
+      "cite": "968 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7334594
+      ],
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/968/0875-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8984881
+      ],
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/892/0080-01"
+      ]
+    },
+    {
+      "cite": "558 A.2d 200",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11310621
+      ],
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/558/0200-01"
+      ]
+    },
+    {
+      "cite": "922 A.2d 168",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8306893
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "172"
+        },
+        {
+          "page": "173"
+        },
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/922/0168-01"
+      ]
+    },
+    {
+      "cite": "950 A.2d 1168",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8232736
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1174"
+        },
+        {
+          "page": "1174"
+        },
+        {
+          "page": "1174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/950/1168-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 926,
+    "char_count": 18599,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 9.842857246342852e-08,
+      "percentile": 0.533889427530331
+    },
+    "sha256": "e00703f7aff922604574766a1097416ae60b3f22ae9679e14975208c368f1808",
+    "simhash": "1:d425c8886ac2cd0e",
+    "word_count": 3022
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+    ],
+    "parties": [
+      "In re CHARLES L. et al."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice FLAHERTY, for the Court.\nThe respondent mother, April L., appeals from a Family Court decree terminating her parental rights to two of her children, Charles L. and Victoria L. This case came before the Supreme Court on October 5, 2010, pursuant to an order directing the parties to appear and show cause why the issues raised in this appeal should not summarily be decided. After hearing the arguments of counsel and reviewing the memoranda of the parties, we are satisfied that cause has not been shown. Accordingly, we shall decide the appeal at this time. For the reasons set forth in this opinion, we affirm the decree of the Family Court.\nFacts and Travel\nOn April 26, 2006, the Department of Children, Youth and Families (DCYF or the department) filed petitions to terminate April\u2019s parental rights (TPR) to two of her children, Charles, born February 8, 1997, and Victoria, born September 6, 2000. The petitions alleged the following grounds: (1) that April was unfit under G.L.1956 \u00a7 15-7-7(a)(2)(vii) because she had exhibited behavior or conduct that was seriously detrimental to the children for a duration rendering it improbable that she could care for them for an extended period; and (2) that under \u00a7 15 \u2014 7\u20147(a)(3), the children had been placed in the legal custody of the department for at least twelve months, had been offered and received services to correct the situation that had led to each child being placed, and there was no substantial probability that the children could return safely to April\u2019s care within a reasonable period, considering each child\u2019s age and need for permanency.\nThe trial justice conducted a lengthy trial that took place intermittently over the course of a year. In the course of the proceedings, the court heard testimony from April and from Jennifer Sutliff, Martha Dolan, Andrea Antani, Fernando Gon-salves, and Sarah Parrillo, all social case workers with DCYF. On March 24, 2009, the trial justice issued a decision granting the petition to terminate April\u2019s parental rights under \u00a7 15 \u2014 7\u20147(a)(2)(vii) and \u00a7 15-7-7(a)(3). A decree was entered on April 8, 2009, from which April has timely appealed. Before this Court, April contends that her parental rights were improperly terminated because of her mental disability and that the facts do not support a finding of unfitness.\nA\nCase Plans\nApril is the mother of five children, of whom Charles and Victoria are the youngest. DCYF maintained periodic involvement in the lives of these children since their births because April\u2019s mental illness often made it difficult for her to care for them. Indeed, the department consistently has been involved with Charles and Victoria since August 2004. At that time, April took her children to the emergency room on repeated occasions to report minor ailments, such as a sore throat, and insisted the children were seriously ill. April\u2019s unusual conduct prompted a concerned call from South County Hospital to DCYF. The department soon referred April to Family Resources, an organization that provides parent education, parent aide services, and mental health counseling, as well as community action services. For a period, April experienced stability, and she was receiving necessary assistance and taking her medications regularly. Unfortunately, after a relapse in her personal situation, April began to struggle as she attempted to care for her children. For example, DCYF caseworker Dolan testified that when she spoke with April on January 12, 2005, April indicated that, \u201cshe was very frustrated concerning Vicky and felt things were too much, so she was not able to focus on her other daughter at that time and would like to make arrangements for Vicky on that date.\u201d In response, DCYF obtained a court order to have Victoria placed outside the home; Charles was removed shortly thereafter. It appears from the record that a pattern developed over time in which April would enjoy brief periods of relative stability followed by sudden episodes of relapse.\nFrom 2004 until 2006, DCYF implemented eight case plans (four for each child). The initial plans sought to maintain the children in their mother\u2019s home; each subsequent plan had a stated goal of reunification. To achieve those goals, the case plans identified several areas that April had to address to maintain or reunify with her children. These included efforts to improve parenting skills, maintain stable mental health, refrain from violence, and cooperate with visitation plans. To achieve the goals identified in the plan, DCYF put April in contact with agencies providing a wide range of social services.\nUnfortunately, April failed to achieve success on the issues identified in her case plan. For example, DCYF caseworker Sutliff described an incident in her testimony in which a meeting was taking place between Sutliff, April, the children\u2019s foster parents, and at least one of April\u2019s children. The purpose of the meeting was to review the case plans and ensure that necessary services were being provided to the family. Sutliff observed, \u201cMom had come into the door. She noticed that the foster parents were there, and when she had seen them she got very upset. She was yelling at me. She was screaming obscenities to me. I told her she just needed to calm down. The foster mother could be there. Mom stormed off * * * at that point.\u201d April did not return to the meeting. This incident is not isolated, and the record reveals several similar episodes during the period leading up to the filing of the termination petitions.\nB\nMental Health Treatment\nApril has been diagnosed as suffering from myriad mental health problems, including personality disorders, suicidal ideation, and grandiose delusions, but her primary issue is bipolar disorder, for which she is prescribed medication. It is significant that the case plans identified mother\u2019s mental stability as a prerequisite for reunification. Sutliff testified that respondent\u2019s mental health stability was important because April struggled most when under stress, and the presence of her two youngest children in the home increased those stress levels. In an effort to achieve the goal of reunification, DCYF provided a variety of services; however, April repeatedly failed to pursue treatment on a consistent basis. From 2002 through 2006, April was a client of the South Shore Mental Health Center, where she received counseling and prescriptions to mitigate the effects of her illness. Unfortunately, April\u2019s participation in her own care was sporadic at best. Her many social workers testified that she often stopped taking her prescribed psychiatric medications because of their physical side effects, she missed appointments, and was sometimes abusive toward her psychiatrists. On one occasion, she \u201ctrashed\u201d the office of her doctor. As a result of such violent outbursts, she no longer was welcome at the offices of several service providers.\nThe effect of April\u2019s inability to comply with her treatment is startling. Her behavior, which frequently bordered on violence, included threats against her caseworkers, resulting in no fewer than seven caseworker reassignments by DCYF. At one point, she asked the South Kingstown police to arrest her for the attempted murder of one of her caseworkers, and then she threatened to blow up the home and family of the next worker who was assigned to her case. As one witness noted in her testimony, this constant upheaval only served to increase the chaos in the lives of April\u2019s children.\nStandard of Review\n\u201cNatural parents have a fundamental liberty interest in the \u2018care, custody, and management\u2019 of their children.\u201d In re Victoria L., 950 A.2d 1168, 1174 (R.I.2008) (quoting In re Destiny D., 922 A.2d 168, 172 (R.I.2007)). As a result, a court must make a finding of unfitness before it may terminate the rights of a parent. Id. (citing In re Destiny D., 922 A.2d at 172). After a trial justice makes a determination of parental unfitness, \u201cthe best interests of the child outweigh all other considerations.\u201d In re Destiny D., 922 A.2d at 173 (quoting In re Kristen B., 558 A.2d 200, 203 (R.I.1989)).\nWe \u201creview[ ] termination of parental rights rulings by examining the record to establish whether the [Family Court] justice\u2019s findings are supported by legal and competent evidence.\u201d In re Victoria L., 950 A.2d at 1174 (quoting In re Ariel N., 892 A.2d 80, 83 (R.I.2006)). \u201cThe findings of the Family Court justice are accorded \u2018great weight\u2019 on appeal and will not be disturbed unless it can be shown that they \u2018are clearly wrong or the trial justice overlooked or misconceived material evidence.\u2019\u201d In re Jose Luis R.H., 968 A.2d 875, 881 (R.I.2009) (quoting In re Victoria L., 950 A.2d at 1174). Furthermore, the \u201cnatural parent\u2019s right to due process requires that the state support its allegations by at least clear and convincing evidence.\u201d Id. (quoting In re Victoria L., 950 A.2d at 1174 and citing In re Destiny D., 922 A.2d at 172).\nAnalysis\nThe sole issue presented on appeal is whether the trial justice clearly was wrong and erred when she terminated April\u2019s parental rights when she made a finding of unfitness. The trial justice premised her determination on April\u2019s inability to follow through on treatment and thereby maintain mental health stability. However, respondent argues that her rights were terminated merely because she is mentally ill and not due to any unfitness. We do not agree, and in our opinion, the trial justice was not clearly wrong in finding April to be unfit under \u00a7 15-7-7(a)(2)(vii).\nThe Family Court justice found:\n\u201c[A] lengthy and very careful review of Respondent\u2019s progress notes show a tremendous range of behaviors from compliance with medications or services, to emergency admissions in crisis situations necessitating mental health treatment, non-compliance while stopping medications on her own; reporting suicidal thoughts, or taking meds as ordered, thus presenting with a pleasant cooperative, alert affect and mood.\n\u201cFrom 2004 through 2006, [April\u2019s] behaviors, moods, and cooperation with services fluctuated dramatically.\u201d\nThe trial justice\u2019s determination of unfitness is well-founded in the instability April\u2019s erratic behavior caused her children. From fall 2004 until the filing of the TPR petition, she had periods of success, during which she complied with her treatment plan, as well as periods of noncompliance marked by violent outbursts, sudden mood changes, and unpredictable actions and demands. The trial justice pointed to an instance in February 2006 when a caseworker transported April to a doctor\u2019s visit for one of her children. April previously had assured the worker that she was taking new medication and stable. However, after arriving at the doctor\u2019s office, April refused to sign necessary medical releases. Although she eventually relented, the trial justice determined that April \u201cwas playing a \u2018cat and mouse\u2019 game\u201d with her social worker, a pursuit that harmed her children.\nThe respondent relies on this Court\u2019s decision in In re Natalya C., 946 A.2d 198 (R.I.2008), to support her contention that her mental disability is an insufficient ground to terminate parental rights. In that case, we held that a Family Court justice improperly terminated the mother\u2019s rights not because mother was mentally ill, but rather because DCYF failed to prove that it made reasonable efforts to achieve reunification before it filed the termination petition. Id. at 204. Specifically, we held that DCYF failed to include \u201cany mental-health treatment in [the mother\u2019s] case plans, given that her mental illness was one of the primary barriers to her reunification with [her daughter].\u201d Id. The facts in In re Natalya C. are markedly different from the facts in this case because here DCYF provided extensive access to mental-health treatment. The record shows that April sought treatment, often at the referral of DCYF, from South Shore Mental Health Center, Family Resources, Comprehensive Intensive Service\u2019s Mobile Treatment Team, Ocean State Outreach, Community Counseling Center, and Delta Consultants. Indeed, such treatment was at the very core of the department\u2019s case plans. See id. Despite being provided appropriate services, April often failed to appear for appointments and she would frequently stop taking her prescribed medication.\nFinally, respondent asserts \u201cthat a parent is unfit when she or he places her or his own needs or desires above those of the children, to the detriment of the children, or who otherwise permits conditions detrimental to the children to exist.\u201d To support this contention, she cites several cases in which the children were subjected to appalling conditions by one or more of their parents. See In re Shawn M., 898 A.2d 102 (R.I.2006); In re Manuel P., 889 A.2d 192 (R.I.2006); In re Raymond C., 864 A.2d 629 (R.I.2005); In re Robert S., 840 A.2d 1146 (R.I.2004). We observe, however, that the statute does not require that there be graphic instances of abuse or neglect before a finding of unfitness can be made. Rather, the trial justice must determine whether there is clear and convincing evidence that the parent \u201cexhibited behavior or conduct that is seriously detrimental to the [children] for such a duration as to render it improbable [that she could] care for [them] for an extended period of time.\u201d\nThe trial justice carefully considered and gave great weight to April\u2019s erratic compliance with her mental health treatment, her frequent refusal to take her medications, her unwillingness to engage with DCYF employees by signing case plans or necessary releases, her violent outbursts both in and out of her children\u2019s presence, and her repeated threats toward DCYF employees. Because of these occurrences, the trial justice determined that April\u2019s actions were, indeed, detrimental to her children. She noted that April\u2019s \u201chistory, coupled with her tendency to engage in actions and reactions, made visits unsafe for the children.\u201d Consequently, the court found that \u201cCharles and Victoria did not receive consistent long term nurturing care from their mother * * *.\u201d Additionally, the trial justice determined that respondent involved her children in her disputes with DCYF, causing the chaos that ensued. She cites to a visit in March 2007 when noting that her \u201cirrational actions * * * only caused her children to become confused, fearful, and anxious!\u201d\nThis, like so many others similar to it, is a sad case. We understand that April wants to be able to provide a loving and stable home for Charles and Victoria. Moreover, she has reached out appropriately when she has felt incapable of caring for her children herself. In those instances, she has contacted state agencies, community organizations, and Mends to assume those responsibilities. The unfortunate fact remains, however, that she does not have the ability to provide stable and consistent care for her children, and the record makes it clear that she will be unable to do so within a reasonable period. \u201c[A] parent\u2019s genuine love for [her] child, or an existence of a bond between parent and child, is not sufficient to overcome the child\u2019s fundamental right to a safe and nurturing environment.\u201d In re Douglas F. 840 A.2d 1087, 1089 (R.I.2003) (quoting In re Brianna D., 798 A.2d 413, 415 (R.I.2002)). We therefore conclude that the trial justice did not err when she terminated April\u2019s parental rights.\nConclusion\nWe affirm the Family Court decree terminating the respondent\u2019s parental rights, and the papers in this case are to be returned to that court.\n. Charles\u2019s father, Charles Tate, is deceased. Victoria's father, Clifton Taylor, signed a direct consent adoption petition to his sister, who is Victoria's foster mother. Neither father was involved in the trial that is the subject of this appeal. Apiil has three older children, but they were not before the Family Court and are not at issue in this appeal.\n. General Laws 1956 \u00a7 15-7-7(a) provides in relevant part:\n\"(a) The court shall, upon a petition duly filed by a governmental child placement agency or licensed child placement agency after notice to the parent and a hearing on the petition, terminate any and all legal rights of the parent to the child, including the right to notice of any subsequent adoption proceedings involving the child, if the court finds as a fact by clear and convincing evidence that: it * * * *\n\"(2) The parent is unfit by reason of conduct or conditions seriously detrimental to the child; such as, but not limited to, the following: \u2022 i * * * *\n\"(vii) The parent has exhibited behavior or conduct that is seriously detrimental to the child, for a duration as to render it improbable for the parent to care for the child for an extended period of time; << # sj: s}: :}:\n\"(3) The child has been placed in the legal custody or care of the department for children, youth, and families for at least twelve (12) months, and the parents were offered or received services to correct the situation which led to the child being placed; provided, that there is not a substantial probability that the child will be able to return safely to the parents' care within a reasonable period of time considering the child's age and the need for a permanent home * *\n. The trial dates were August 9, 2007, September 5, 6, and 18, 2007, October 3 and 18, 2007, April 23, 2008, May 7 and 19, 2008, and August 6 and 9, 2008.\n. In total, the family had seven caseworkers from DCYF over a period of years.\n. The record indicates these visits occurred as frequently as three times a day. As a result of one such visit, one of her older daughters declined to eat for an extended period, convinced her sore throat would cause her to choke to death.\n. April already had received services from South Shore Mental Health Center with respect to an older daughter, who was not the subject of this termination petition.\n. The respondent does not appeal the trial justice\u2019s finding that DCYF made reasonable efforts to render her fit, nor does she question the determination that termination is in the best interests of Charles and Victoria. As a result, we do not address those issues here.\n. G.L.1956 \u00a7 15-7-7(a)(2)(vii).",
+        "type": "majority",
+        "author": "Justice FLAHERTY, for the Court."
+      }
+    ],
+    "attorneys": [
+      "Martha J. Kelly, Esq., Department of Children, Youth & Families, for DCYF.",
+      "Shelia R. Katz, Esq., Court Appointed Special Advocate, for CASA.",
+      "Janice M. Weisfeld, Office of the Public Defender, for Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In re CHARLES L. et al.\nNo. 2009-206-Appeal.\nSupreme Court of Rhode Island.\nOct. 29, 2010.\nMartha J. Kelly, Esq., Department of Children, Youth & Families, for DCYF.\nShelia R. Katz, Esq., Court Appointed Special Advocate, for CASA.\nJanice M. Weisfeld, Office of the Public Defender, for Respondent.\nPresent: SUTTELL, C.J., GOLDBERG, FLAHERTY, ROBINSON, and INDEGLIA, JJ."
+  },
+  "file_name": "1089-01",
+  "first_page_order": 1135,
+  "last_page_order": 1141
+}

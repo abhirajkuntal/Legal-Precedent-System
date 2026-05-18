@@ -1,0 +1,258 @@
+{
+  "id": 7291290,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Felix David RIVERA, Appellant",
+  "name_abbreviation": "Commonwealth v. Rivera",
+  "decision_date": "2010-12-17",
+  "docket_number": "",
+  "first_page": "1276",
+  "last_page": "1285",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 1276"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 142",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808588
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "\"It is well settled that the legislature cannot be deemed to intend that its language be superfluous and without import\""
+        },
+        {
+          "page": "332",
+          "parenthetical": "\"It is well settled that the legislature cannot be deemed to intend that its language be superfluous and without import\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0142-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 1274",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4194522,
+        8176476
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1276",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0131-01",
+        "/a2d/963/1274-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 131",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194522
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0131-01"
+      ]
+    },
+    {
+      "cite": "708 A.2d 806",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11820932,
+        11820753,
+        11820695,
+        281209,
+        281214
+      ],
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/708/0806-03",
+        "/a2d/708/0806-02",
+        "/a2d/708/0806-01",
+        "/pa/550/0669-01",
+        "/pa/550/0668-01"
+      ]
+    },
+    {
+      "cite": "784 A.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9461410
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "128-29",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "131",
+          "parenthetical": "citations and quotations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/784/0126-01"
+      ]
+    },
+    {
+      "cite": "780 A.2d 721",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9483322
+      ],
+      "pin_cites": [
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/780/0721-01"
+      ]
+    },
+    {
+      "cite": "925 A.2d 876",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8306538
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "880"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/925/0876-01"
+      ]
+    },
+    {
+      "cite": "783 A.2d 328",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9467936
+      ],
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/783/0328-01"
+      ]
+    },
+    {
+      "cite": "5 A.3d 1260",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290770
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1267"
+        },
+        {
+          "page": "1267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/5/1260-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 813,
+    "char_count": 24320,
+    "ocr_confidence": 0.716,
+    "pagerank": {
+      "raw": 2.2110606585199256e-07,
+      "percentile": 0.7765259673440421
+    },
+    "sha256": "502989068f9c190868a9312ddddb4f696aa4386f16a01a25680f1a308f555b61",
+    "simhash": "1:851496984b67c538",
+    "word_count": 3932
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MUSMANNO, BENDER, and LAZARUS, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Felix David RIVERA, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nLAZARUS, J.:\nFelix David Rivera appeals from the order dismissing his amended petition under the Post Conviction Relief Act, 42 Pa.C.S.A. \u00a7 9541, et seq. After careful consideration, we reverse.\nOn December 8, 1995, Rivera was convicted of indecent assault of a person less than thirteen years of age and was sentenced to five years\u2019 probation. On May 15, 2000, a capias was issued for a probation violation and Rivera was committed to Lancaster County Prison. On July 9, 2000, Megan\u2019s Law II went into effect. On August 31, 2000, a probation violation hearing was held. At some point in 2006, Rivera was released from incarceration and failed to register his address with the Pennsylvania State Police. Commonwealth v. Rivera, 1015 MDA 2008, at 2 (filed April 20, 2009). He was thereafter charged with failure to comply with registration of sexual offenders pursuant to 18 Pa.C.S.A. \u00a7 4915(a). The remaining factual and procedural background has been provided by the PCRA court in its opinion dated February 17, 2010:\nOn May 5, 2008 [Rivera] appeared before the [tjrial [e]ourt for a stipulated bench trial. [Rivera] was found guilty of Failure to Comply with Registration of Sexual Offender Requirements. Immediately following trial, [Rivera] was sentenced to five to ten years\u2019 incarceration.\nOn June 8, 2008, [Rivera] filed a timely direct appeal to the Superior Court of Pennsylvania. The Superior Court affirmed the judgment of sentence.... On May 28, 2009, [Rivera] filed a Post-Conviction Collateral Relief Act Motion. Counsel was appointed to represent him, and PCRA counsel filed an Amended Petition for Post-Conviction Collateral Relief on July 14, 2009.\nThe [c]ourt held an evidentiary hearing on December 11, [2]009, at which time the [c]ourt ordered both parties to file briefs. Both parties submitted briefs, and [Rivera\u2019s request for relief was denied].\nPCRA Court Opinion, 2/17/10, at 1-2 (citation omitted).\nOn appeal, Rivera raises the following issue:\nWHETHER APPELLATE COUNSEL WAS INEFFECTIVE WHEN SHE WAIVED THE MERITORIOUS ISSUE THAT THE EVIDENCE WAS INSUFFICIENT TO PROVE BEYOND A REASONABLE DOUBT THAT THE DEFENDANT VIOLATED 18 PA.C.SA. \u00a7 4915 WHEN HE WAS NOT SUBJECT TO REGISTRATION UNDER 42 PAC-SA. \u00a7 9795.1 SINCE HE WAS NOT SERVING AN ORIGINAL SENTENCE OF INCARCERATION AT THE TIME MEGAN\u2019S LAW [II] WENT INTO EFFECT?\nBrief for Appellant, at 4.\nThis Court\u2019s standard of review regarding an order dismissing a petition under the PCRA is whether the determination of the PCRA court is supported by evidence of record and is free of legal error. Commonwealth v. Burkett, 5 A.3d 1260, 1267 (Pa.Super.2010) (citations omitted). In evaluating a PCRA court\u2019s decision, our scope of review is limited to the findings of the PCRA court and the evidence of record, viewed in the light most favorable to the prevailing party at the trial level. Id. at 1267. We may affirm a PCRA court\u2019s decision on any grounds if it is supported by the record. Id.\nOur standard of review when faced with a claim of ineffective assistance of counsel is well settled. First, we note that counsel is presumed to be effective and the burden of demonstrating ineffectiveness rests on appellant. Commonwealth v. Thomas, 783 A.2d 328, 332 (Pa.Super.2001) (citation omitted). In order to prevail on a claim of ineffective assistance of counsel, a petitioner must show, by a preponderance of the evidence, ineffective assistance of counsel which, in the circumstances of the particular case, so undermined the truth-determining process that no reliable adjudication of guilt or innocence could have taken place. Commonwealth v. Turetsky, 925 A.2d 876, 880 (Pa.Super.2007). A petitioner must show (1) that the underlying claim has merit; (2) counsel had no reasonable strategic basis for his or her action or inaction; and (3) but for the errors or omissions of counsel, there is a reasonable probability that the outcome of the proceedings would have been different. Id. (citation omitted). The failure to prove any one of the three prongs results in the failure of petitioner\u2019s claim.\nPresently, Rivera was convicted under 18 Pa.C.S.A. \u00a7 4915(a)(1) for failing to register as required under 42 Pa.C.S.A. \u00a7 9795.1, which provides as follows:\n\u00a7 9795.1. Registration\n(a) TEN-YEAR REGISTRATION.\u2014 The following individuals shall be required to register with the Pennsylvania State Police for a period of ten years:\n(1) Individuals convicted of any of the following offenses:\n18 Pa.C.S. \u00a7 3126 (relating to indecent assault) where the offense is graded as a misdemeanor of the first degree or higher.\n42 Pa.C.S.A. \u00a7 9795.1. Additionally, 42 Pa.C.S.A. \u00a7 9795.2 provides, in relevant part, as follows:\n\u00a7 9795.2. Registration procedures and applicability\n(a) REGISTRATION.\u2014\n(1)Offenders ... shall be required to register with the Pennsylvania State Police upon release from incarceration, upon parole from a State or county correctional institution or upon the commencement of a sentence of intermediate punishment or probation ....\n42 Pa.C.S.A. \u00a7 9795.2 (emphasis added).\nOn appeal of the dismissal of his PCRA petition, Rivera claims that direct appellate counsel was ineffective for failing to raise a sufficiency claim. Specifically, Rivera claims that the registration provisions of Megan\u2019s Law II only apply to those convicted on or after the effective date of Megan\u2019s Law II or who were incarcerated on a Megan\u2019s Law offense on or after the law\u2019s effective date. Rivera was convicted of his Megan\u2019s Law offense on December 8, 1995 and sentenced to five years\u2019 probation. Megan\u2019s Law II became effective on July 10, 2000. Rivera was subsequently convicted of probation or parole violations in August 2000, April 2001, November 2001 and January 2003, and was finally released from custody in 2006. As Rivera was only on probation for his sex offense on the effective date of Megan\u2019s Law II, he asserts that he was not subject to registration under Megan\u2019s Law II and, as a result, could not be guilty of failing to register pursuant to 18 Pa.C.S.A. \u00a7 4915. Specifically, Rivera relies upon Section 5 of the enabling legislation for Megan\u2019s Law II, which provides as follows:\nSection 5. This act shall apply as follows:\n(1) To proceedings initiated on or after the effective date of this act.\n(2) The reenactment and amendment of 12 Pa.C.S. Ch. 97 Subch. H shall apply to individuals incarcerated or convicted on or after the effective date of this act.\n(3)This act shall not affect the requirements for individuals registered pursuant to 42 Pa.C.S. Ch. 97 Subch. H prior to the effective date of this act.\nAct No. 2000-18, Section 5, enacted May 10, 2000 (emphasis added).\nRivera also asserts that, even though he was incarcerated subsequent to the effective date of Megan\u2019s Law II, that specific period of incarceration was not imposed for his sex crime, but rather for parole and/or probation violations on unrelated charges. Rivera argues that the term \u201cincarcerated\u201d as used in Megan\u2019s Law II refers to the original period of incarceration for a sex offense, not a subsequent period of incarceration resulting from a probation/parole violation and/or another crime. He claims appellate counsel\u2019s failure to raise this claim on direct appeal amounted to ineffective assistance.\nThe Commonwealth asserts that Rivera became subject to the provisions of Megan\u2019s Law II upon its enactment because he was still serving his sex offense sentence at the time and it is irrelevant that his sentence was probationary and not custodial.\nA review of the record in this matter reveals that direct appellate counsel raised the identical argument on direct appeal that PCRA counsel raises instantly. Specifically, the Pa.R.A.P. 1925(b) Statement of Errors Complained of on Appeal filed by direct appellate counsel raises the following issue for review:\n1. The evidence was insufficient to prove beyond a reasonable doubt that Mr. Rivera violated 18 Pa.C.S. 4915. Mr. Rivera was not subject to registration under 42 Pa.C.S. 9795.1. 42 Pa.C.S. 9795.1, which is set forth in 42 Pa.C.S. Chapter 97, Subchapter H, was enacted as part of Act 2000-18, on May 10, 2005 [sic], and became effective sixty days later, on July 9, 2005 [sic]. According to the provisions of Act 2000-18, \u201c[t]he reenactment and amendment of 42 Pa.C.S. Ch. 97 Subch. H shall apply to individuals incarcerated or convicted on or after the effective date of this act.\u201d Act 2000-18, Section 5(2). The Commonwealth did not establish that Mr. Rivera was incarcerated or convicted on or after the effective date of Act 2000-18; therefore, it did not establish that Mr. Rivera was subject to registration under 42 Pa.C.S. 9795.1. Furthermore, even if the Commonwealth did establish that Mr. Rivera was incarcerated on or after the effective date of Act 2000-18 pursuant to a capias and bench warrant which had been issued, alleging that Mr. Rivera had committed a probation violation related to his 1995 conviction for indecent assault, Section 5(2) of Act 2000-18 refers only to persons who were still serving their original sentences of incarceration on the effective date of the act or who were convicted on or after the effective date of the act. Act 2000-18 does not apply to persons who were incarcerated for a probation or parole violation on or after the effective date of the act. Therefore, the Commonwealth did not establish that Mr. Rivera was subject to registration under 42 Pa.C.S. 9795.1, an element of the offense with which he was charged.\nStatement of Errors Complained of on Appeal, filed 6/26/08, at 1-2.\nFurthermore, the Statement of Question Presented contained in the Brief filed on Rivera\u2019s behalf by direct appellate counsel reads as follows:\nI. Was the evidence insufficient to prove beyond a reasonable doubt that Mr. Rivera violated 18 Pa.C.S. 4915, where Mr. Rivera was not subject to registration under 42 Pa.C.S. 9795.1?\nCommonwealth v. Rivera, 1015 MDA 2008, Brief for Appellant, at 4. The Argument section of direct appellate counsel\u2019s brief addresses that issue in detail. Id. at 10-19.\nClearly, Rivera\u2019s instant claim of ineffectiveness must fail. Direct appellate counsel did, in fact, raise the identical issue that Rivera now claims should have been raised, i.e. that the evidence was insufficient to prove a violation of 18 Pa.C.S.A. 4915 because he was not subject to registration under 42 Pa.C.S.A. 9795.1. Thus, counsel cannot be deemed ineffective when the record reflects that she pursued the exact claim that PCRA counsel claims she should have. Nevertheless, we conclude that Rivera is entitled to relief.\nOn direct appeal, a panel of this Court concluded that Rivera had waived his argument because it had not been specifically raised in and passed upon by the trial court. However, we believe that Rivera\u2019s issue on direct appeal is non-waivable, as it raises the legality of his sentence.\nWhile couched in terms of a sufficiency claim, Rivera\u2019s argument actually raises a fundamental question regarding the legality of his conviction and sentence: whether or not he was subject to prosecution under Megan\u2019s Law II in the first instance. Of course, a legality claim is not subject to waiver. See Commonwealth v. Edrington, 780 A.2d 721, 723 (Pa.Super.2001) (citation omitted) (illegal sentence can never be waived and may be reviewed sua sponte by court). Thus, we will proceed to address that claim on its merits.\nAs stated above, Rivera grounds his argument on Section 5 of the enabling legislation for Megan\u2019s Law II, which provides as follows:\nSection 5. This act shall apply as follows:\n(1) To proceedings initiated on or after the effective date of this act.\n(2) The reenactment and amendment of 42 Pa.C.S. Ch. 97 Subch. H shall apply to individuals incarcerated or convicted on or after the effective date of this act.\n(3) This act shall not affect the requirements for individuals registered pursuant to 42 Pa.C.S. Ch. 97 Subch. H prior to the effective date of this act.\nAct No. 2000-18, Section 5, enacted May 10, 2000 (emphasis added). Rivera asserts that because he was not incarcerated for his sex offense \u201con or after the effective date\u201d of the act, the Megan\u2019s Law II registration requirements do not apply to him.\nThe trial court concluded, based on Commonwealth v. Richardson, 784 A.2d 126 (Pa.Super.2001), that Rivera was, in fact, subject to the requirements of Megan\u2019s Law II and, thus, also subject to its penal provisions. The trial court relied on Richardson for the proposition that the registration requirements of Megan\u2019s Law are applicable not only to those individuals who were incarcerated on the effective date of the statute, but also to those individuals who were subject to probationary supervision.\nIn Richardson, the appellant had been sentenced to an aggregate of 4 to 10 years\u2019 imprisonment on convictions of Involuntary Deviate Sexual Intercourse (\u201cIDSI\u201d) and Rape in 1982; he was paroled in March 1986. Thereafter, in June 1987, he was convicted of involuntary manslaughter; as a result, Richardson was recommitted as a convicted parole violator and was given a new maximum date of sentence on his IDSI/rape conviction of July 15, 1993. More than two years later, on October 24, 1995, Megan\u2019s Law I was enacted, requiring certain offenders (including those sentenced for IDSI and rape) to register for a period of ten years pursuant to 42 Pa. C.S.A. \u00a7 9793, which provided as follows: \u00a7 9793. Registration of certain offenders for ten years\n(a) Registration. \u2014 A person convicted of any of the offenses set forth in subsection (b) shall be required to register a current address with the Pennsylvania State Police upon release from incarceration, upon parole from a State or county correctional institution, upon the commencement of a sentence of intermediate punishment or probation or where the offender is under the supervision of the Pennsylvania Board of Probation and Parole at he time of enactment of this section ...\n42 Pa.C.S.A. \u00a7 9793(a).\nAt the time Section 9793 became effective, Richardson was imprisoned, although not for any reason related to his sex offense convictions, as his sentence had fully \u201cmaxed out\u201d by that time. Nevertheless, upon his release, the Commonwealth advised Richardson of his duty to register pursuant to Megan\u2019s Law and Richardson signed an acknowledgement of that requirement. He subsequently failed to report his address and was charged with failure to make the required notification of address change to law enforcement. Richardson filed a pretrial motion contesting the applicability of Section 9793 to him, which the trial court granted on the basis that Richardson\u2019s sex offense sentences had been fully served approximately three years prior to the statute\u2019s effective date. The Commonwealth appealed, arguing that Section 9793 was applicable \u201cas long as the defendant was incarcerated at the time Megan\u2019s Law went into effect, irrespective of the underlying offense, and he had a prior record in which a Megan\u2019s Law offense was committed.\u201d Richardson, 784 A.2d at 128-29 (emphasis added).\nIn affirming the trial court\u2019s decision, this Court stated that \u201c[t]here is little doubt that the Legislature clearly wants persons convicted of certain sexually violent offenses to register their addresses with the police upon completion of their confinement or probation. However, the underlying statute does not clearly state whether persons who were convicted in the past and who fully served their sentence for those convictions before the statute\u2019s enactment must register. Accordingly, we do not find that the trial court erred in dismissing the Commonwealth\u2019s case.\u201d Id. (emphasis added).\nWe find the trial court\u2019s reliance upon Richardson is misplaced. Preliminarily, we note that the passage relied upon by the trial court, that \u201cthe Legislature clearly wants persons convicted of certain sexually violent offenses to register their addresses upon completion of confinement or probation,\u201d is mere dicta, as Richardson was not a probationer at any period relevant to the Court\u2019s determination. As such, the quoted language is not binding on us here.\nMoreover, Richardson was decided under Megan\u2019s Law I, not Megan\u2019s Law II\u2014 the relevant statute in this case. Examining that law\u2019s enabling legislation, which sets forth the applicability of the act, we note:\nSection 3. The provisions of this act shall be applicable as follows:\n(1) All offenders convicted of an offense set forth in 42 Pa.C.S. Section 9793(b) before the effective date of this section, who remain under the jurisdiction of the Pennsylvania Board of Probation and Parole or the Department of Corrections, shall be subject to the provisions of this act, with the exception of 42 Pa.C.S. Sections 9794, 9795(A), 9796(A), 9797, 9798 AND 9799.4, which relate to sexually violent predators.\n(2) All offenders convicted of an offense set forth in 42 Pa.C.S. Section 9793(b) committed on or after the effective date of this section shall be subject to all provisions of this act.\nAct No. 1995-24, Section 3, enacted October 24, 1995 (emphasis added). Notably, in the language quoted above, the legislature clearly expressed its intent that Megan\u2019s Law I provisions apply to all offenders who had previously been convicted of an offense set forth in Section 9793 and were either imprisoned or subject to probation or parole on the effective date of the act. Thus, it was reasonable for the Richardson court to conclude that probationers were required to register. Conversely, however, in Section 5 of the enabling legislation to Megan\u2019s Law II, the legislature provided that the law would be applicable only to those offenders \u201cincarcerated or convicted\u201d on or after the effective date of the law. The absence of any reference to \u201cprobationers\u201d by the legislature renders Richardson inapposite.\nFurther, based on the language of the Megan\u2019s Law I enabling legislation, there can be no question that the legislature knew how to make the law applicable to probationers if it saw fit to do so. It did not do so with Megan\u2019s Law II. Thus, we must conclude that, in making Megan\u2019s Law II applicable only \u201cto individuals incarcerated or convicted on or after the effective date,\u201d the legislature did not intend for its provisions to apply to those serving a probationary term. See Commonwealth v. Cotto, 708 A.2d 806, 811 (Pa.Super.1998) (noting that change in language of statute generally indicates change in legislature\u2019s intent) (citation omitted); St. Elizabeth\u2019s Child Care Ctr. v. Department of Public Welfare, 600 Pa. 131, 963 A.2d 1274, 1276 (2009) (citation omitted) (when words of statute are clear and free from all ambiguity, they are presumed to be best indication of legislative intent).\nAdditional evidence of the legislature\u2019s intent in this regard can be found in Section 9795.2 of Megan\u2019s Law II, which sets forth the applicability of the law\u2019s registration provisions and provides, in relevant part, as follows:\n(a) REGISTRATION.\u2014\n(1) Offenders ... shall be required to register with the Pennsylvania State Police upon release from incarceration, upon parole from a State or county correctional institution or upon the commencement of a sentence of intermediate punishment or probation....\n42 Pa.C.S.A. \u00a7 9795.2(a)(1) (emphasis added). As the wording of the statute indicates, the legislature clearly intended that offenders be required to register at the commencement of their probation and not at some point in the middle of their term. See Barasch v. Pennsylvania Public Utility Comm., 516 Pa. 142, 532 A.2d 325, 332 (1987) (\u201cIt is well settled that the legislature cannot be deemed to intend that its language be superfluous and without import\u201d). Rivera\u2019s sentence \u201ccommenced\u201d approximately 4)6 years prior to the law\u2019s effective date. Indeed, at the time Megan\u2019s Law II went into effect, Rivera\u2019s probationary sentence was nearly complete. Thus, Rivera could not possibly have registered at the \u201ccommencement\u201d of his probationary term, as Megan\u2019s Law II was not in effect at that time.\nFinally, we must determine whether the term \u201cincarceration\u201d as used in the statute was intended by the legislature to refer only to the original period of incarceration imposed on a sex offense, or whether it could also refer to a period of incarceration imposed pursuant to a probation violation on that sex offense. As this Court stated in Richardson:\nIt is a cardinal rule of statutory construction that if the words of a statute are clear and free from ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit. When the words of a statute are clear and unambiguous, their plain meaning and common usage are to be applied. If the statutory language is unclear, only then may the legislative intent be considered. Furthermore, [i]t is axiomatic that, under the rule of lenity, penal statutes must be strictly construed, with ambiguities being resolved in favor of the accused.\nRichardson, 784 A.2d at 131 (citations and quotations omitted).\nAfter careful review of the statutory language at issue, we conclude that the meaning of the word \u201cincarceration\u201d is ambiguous and that we must, therefore, seek to ascertain the legislature\u2019s intent through statutory construction.\nSection 9791 of Megan\u2019s Law II sets forth the legislature\u2019s findings and declaration of policy. Specifically, subsection (b) reads as follows:\nIt is hereby declared to be the intention of the General Assembly to protect the safety and general welfare of the people of this Commonwealth by providing for registration and community notification regarding sexually violent predators who are about to be released from custody and will live in or near their neighborhood.\n42 Pa.C.S.A. \u00a7 9791(b) (emphasis added). This language appears to suggest that the registration provisions are intended to apply to an offender only upon release from a term of imprisonment served as a direct result of a Megan\u2019s Law offense. Indeed, to interpret the statute otherwise could lead to an absurd result, whereby a person convicted of a sex offense in 1985 could be re-committed for a burglary twenty years later and, upon release from that sentence, be required to register as a sexual offender pursuant to a law that did not take effect until after his original sex offense sentence had been fully served. See Richardson, supra. Applying the rule of lenity to our reading of the language, we can arrive at no other conclusion than that the term \u201cimprisonment\u201d was intended by the legislature to apply only to the original term of confinement served pursuant to a conviction for a Megan\u2019s Law sex offense. Thus, the term does not apply to Rivera, as his imprisonment resulted from a probation violation on an unrelated offense.\nFor the reasons stated herein, we are compelled to conclude that the provisions of Megan\u2019s Law II, specifically 42 Pa. C.S.A. 9795.1 and 18 Pa.C.S.A. 4915, are inapplicable to Rivera and, accordingly, his judgment of sentence must be reversed.\nOrder reversed; judgment of sentence vacated; appellant discharged. Jurisdiction relinquished.\n. 18 Pa.C.S.A. \u00a7 3126(a)(7), a first-degree misdemeanor pursuant to 18 Pa.C.S.A. \u00a7 3126(b)(3).\n. From the information available to us, it is unclear why Rivera remained incarcerated for the 3 \u00a14 month time period between his arrest pursuant to the capias and his violation hearing on August 31, 2000.\n. Section 4915 provides as follows:\n(a) Offense defined. \u2014 An individual who is subject to registration under 42 Pa.C.S.A. \u00a7 9795(a) (relating to registration) or an individual who is subject to registration under 42 Pa.C.S.A. \u00a7 9795.1(b)(1), (2) or (3) commits an offense if he knowingly fails to: (1) register with the Pennsylvania State Police as required under 42 Pa.C.S.A. \u00a7 9795.2 (relating to registration procedures and applicability);\n18 Pa.C.S.A. \u00a7 4915.\n. Section 9793 was repealed effective July 9, 2000 and subsequently amended effective February 18, 2001 as 42 Pa.C.S.A. \u00a7 9795.1.",
+        "type": "majority",
+        "author": "LAZARUS, J.:"
+      }
+    ],
+    "attorneys": [
+      "Vincent J. Quinn, Lancaster, for appellant.",
+      "Todd P. Kriner, Assistant District Attorney, Lancaster, for Commonwealth, appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Felix David RIVERA, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted Aug. 9, 2010.\nFiled Dec. 17, 2010.\nVincent J. Quinn, Lancaster, for appellant.\nTodd P. Kriner, Assistant District Attorney, Lancaster, for Commonwealth, appel-lee.\nBEFORE: MUSMANNO, BENDER, and LAZARUS, JJ."
+  },
+  "file_name": "1276-01",
+  "first_page_order": 1276,
+  "last_page_order": 1285
+}

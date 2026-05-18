@@ -1,0 +1,63 @@
+{
+  "id": 7287161,
+  "name": "Carlos VELAZQUEZ, Petitioner v. CCP PHILADELPHIA, Respondent",
+  "name_abbreviation": "Velazquez v. CCP Philadelphia",
+  "decision_date": "2010-07-22",
+  "docket_number": "No. 42 EM 2010",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 292,
+    "ocr_confidence": 0.678,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661844245663496
+    },
+    "sha256": "f0afb2f5ff79aee23c6e8dbec29d775d647fbb393926c3b90ad5eb55ad19684e",
+    "simhash": "1:5da3233662d30c32",
+    "word_count": 48
+  },
+  "last_updated": "2023-07-14T21:40:41.647294+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos VELAZQUEZ, Petitioner v. CCP PHILADELPHIA, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of July, 2010, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Carlos VELAZQUEZ, Petitioner v. CCP PHILADELPHIA, Respondent.\nNo. 42 EM 2010.\nSupreme Court of Pennsylvania.\nJuly 22, 2010."
+  },
+  "file_name": "0468-01",
+  "first_page_order": 498,
+  "last_page_order": 498
+}

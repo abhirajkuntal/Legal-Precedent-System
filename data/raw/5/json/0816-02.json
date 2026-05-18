@@ -1,0 +1,59 @@
+{
+  "id": 7289552,
+  "name": "Christopher CALABRO, Petitioner v. The Honorable Rayford A. MEANS, Respondent",
+  "name_abbreviation": "Calabro v. Means",
+  "decision_date": "2010-10-04",
+  "docket_number": "No. 95 EM 2010",
+  "first_page": "816",
+  "last_page": "816",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 816"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 553,
+    "ocr_confidence": 0.645,
+    "sha256": "78c20727c864e72cb765fc304b28cfb66ff976595c921965b8c2809d36aca7fe",
+    "simhash": "1:7035c7b662d02a39",
+    "word_count": 90
+  },
+  "last_updated": "2023-07-14T15:48:37.042050+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher CALABRO, Petitioner v. The Honorable Rayford A. MEANS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 4th day of October, 2010, the Application for Leave to File Original Process and the Petition for Writ of Mandamus and/or Extraordinary Relief are GRANTED. The Court of Common Pleas of Philadelphia County is directed to dispose of Petitioner\u2019s \u201cMotion for Credit for Time Served\u201d within 90 days of this order. The Prothonotary shall strike the name of the jurist from the caption.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Christopher CALABRO, Petitioner v. The Honorable Rayford A. MEANS, Respondent.\nNo. 95 EM 2010.\nSupreme Court of Pennsylvania.\nOct. 4, 2010."
+  },
+  "file_name": "0816-02",
+  "first_page_order": 838,
+  "last_page_order": 838
+}

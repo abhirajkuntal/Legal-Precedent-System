@@ -1,0 +1,78 @@
+{
+  "id": 7286889,
+  "name": "TECH ONE ASSOCIATES, Petitioner v. BOARD OF PROPERTY ASSESSMENT, Appeals and Review of Allegheny County, West Mifflin Borough and West Mifflin Area School District, Respondents",
+  "name_abbreviation": "Tech One Associates v. Board of Property Assessment",
+  "decision_date": "2010-10-13",
+  "docket_number": "",
+  "first_page": "499",
+  "last_page": "499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "530 Pa. 122",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833027
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0122-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 103,
+    "char_count": 1000,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828008891638084
+    },
+    "sha256": "1db0cfd1cdeea08f2e7752001abe3c8918122dc5c38630e469e7c52782b5b6e8",
+    "simhash": "1:7437266ef2f8f053",
+    "word_count": 156
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TECH ONE ASSOCIATES, Petitioner v. BOARD OF PROPERTY ASSESSMENT, Appeals and Review of Allegheny County, West Mifflin Borough and West Mifflin Area School District, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of October, 2010, the Petition for Allowance of Appeal is GRANTED. The issues, rephrased for clarity, are:\n1. Whether, for real estate taxation purposes, the \u201ceconomic reality test\u201d announced in In re Appeal of Marple Springfield, 530 Pa. 122, 607 A.2d 708 (1992), applies to establish the fair market value of an improved property encumbered with a long-term lease which grants the lessee ownership of buildings and other improvements on the land.\n2. Whether the Uniformity Clause of the Pennsylvania Constitution requires an improved property encumbered with a long-term lease, which grants the lessee ownership of buddings and other improvements on the land, to be taxed in the same manner as a similar, but unencumbered, property.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "TECH ONE ASSOCIATES, Petitioner v. BOARD OF PROPERTY ASSESSMENT, Appeals and Review of Allegheny County, West Mifflin Borough and West Mifflin Area School District, Respondents.\nSupreme Court of Pennsylvania.\nOct. 13, 2010."
+  },
+  "file_name": "0499-01",
+  "first_page_order": 545,
+  "last_page_order": 545
+}

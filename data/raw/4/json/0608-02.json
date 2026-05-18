@@ -1,0 +1,59 @@
+{
+  "id": 7287784,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Michelle Necole GRIFFITH, Respondent",
+  "name_abbreviation": "Commonwealth v. Griffith",
+  "decision_date": "2010-09-14",
+  "docket_number": "",
+  "first_page": "608",
+  "last_page": "608",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 608"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 468,
+    "ocr_confidence": 0.661,
+    "sha256": "80ea6e40fdbd3fa623f172254127496794877c2d938d61db259fc20fb1d2e729",
+    "simhash": "1:98ab831cf3e33eae",
+    "word_count": 73
+  },
+  "last_updated": "2023-07-14T18:37:41.617876+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Michelle Necole GRIFFITH, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of September, 2010, the Petition for Allowance of Appeal is GRANTED. The issue, rephrased for clarity, is\nWhether expert testimony is required to prove that the amount of a controlled substance found in a defendant\u2019s blood or urine caused the driving impairment charged under 75 Pa.C.S. \u00a7 3802(d).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Michelle Necole GRIFFITH, Respondent.\nSupreme Court of Pennsylvania.\nSept. 14, 2010."
+  },
+  "file_name": "0608-02",
+  "first_page_order": 670,
+  "last_page_order": 670
+}

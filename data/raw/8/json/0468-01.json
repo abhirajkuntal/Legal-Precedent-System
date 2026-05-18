@@ -1,0 +1,62 @@
+{
+  "id": 7285811,
+  "name": "In the Matter of Charles H. BALKAM, Jr.",
+  "name_abbreviation": "In re Balkam",
+  "decision_date": "2010-12-01",
+  "docket_number": "No. 2010-419-M.P.",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 143,
+    "char_count": 2056,
+    "ocr_confidence": 0.709,
+    "sha256": "8f38aeb453df5965ed84a46e181f4895137f9de7997942e6af4fdc770fe1d248",
+    "simhash": "1:731a1d1353dd856f",
+    "word_count": 339
+  },
+  "last_updated": "2023-07-14T20:07:44.165067+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Charles H. BALKAM, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter is before the Court pursuant to a petition filed by this Court\u2019s disciplinary counsel requesting that the respondent, Charles H. Balkam, Jr., be disbarred from the practice of law. The respondent is a member of the bar of this state, presently ineligible to practice law as he was removed from the master roll of attorneys on November 5, 2008 due to his failure to file his required annual registration with the clerk of this Court. He was also admitted to the practice of law in the Commonwealth of Massachusetts.\nOn September 2, 2010, the Supreme Judicial Court of the Commonwealth of Massachusetts entered a corrected judgment of disbarment disbarring the respondent from the practice of law in Massachusetts after the respondent admitted that sufficient evidence existed to prove that he had misappropriated a substantial amount of funds that had been entrusted to his care. On September 21, 2010, disciplinary counsel filed a petition requesting that this Court impose the reciprocal discipline of disbarment as provided by Article III, Rule 14 of the Supreme Court Rules of Disciplinary Procedure. On October 13, 2010, we entered an order directing the respondent to notify the court within thirty days of any claim that he may have that the imposition of reciprocal discipline would be unwarranted, and further advising him that failure to do so would result in an order disbarring him from the practice of law in this state. The respondent has not submitted any reply to that order.\nAfter review of the petition submitted by disciplinary counsel, and considering that the respondent has not replied to our order of October 13, 2010, the Court is of the opinion that the petition should be granted. Accordingly, it is hereby ordered, adjudged and decreed that the respondent, Charles H. Balkam, Jr., is hereby disbarred from the practice of law in this state.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "David D. Curtin, Esq., Disciplinary Counsel.",
+      "Charles H. Balkam, Jr."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of Charles H. BALKAM, Jr.\nNo. 2010-419-M.P.\nSupreme Court of Rhode Island.\nDec. 1, 2010.\nDavid D. Curtin, Esq., Disciplinary Counsel.\nCharles H. Balkam, Jr."
+  },
+  "file_name": "0468-01",
+  "first_page_order": 494,
+  "last_page_order": 494
+}

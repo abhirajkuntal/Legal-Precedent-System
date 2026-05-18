@@ -1,0 +1,113 @@
+{
+  "id": 7290449,
+  "name": "In re Robert L. EHRLICH, Respondent",
+  "name_abbreviation": "In re Ehrlich",
+  "decision_date": "2010-11-04",
+  "docket_number": "No. 10-BG-690",
+  "first_page": "1281",
+  "last_page": "1282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "Registration No. 943985,",
+      "category": "laws:admin_filing",
+      "reporter": "Registration",
+      "opinion_index": -1
+    },
+    {
+      "cite": "579 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7356987
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/579/0190-01"
+      ]
+    },
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 1477,
+    "ocr_confidence": 0.719,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18831445385425946
+    },
+    "sha256": "34da64a3250cbe6dc69f129872509f703d56c67f5e554b57ba36e8e86a770bec",
+    "simhash": "1:0d16302e7fea4567",
+    "word_count": 234
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, Associate Judge, TERRY and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re Robert L. EHRLICH, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the certified order of the Supreme Court of California disbarring respondent from the practice of law, this court\u2019s June 25, 2010, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent has failed to file either a response to this court\u2019s order to show cause or the affidavit required by D.C. Bar R. XI, \u00a7 14(g), it is\nORDERED that Robert L. Ehrlich, Esquire, is hereby disbarred from the practice of law in the District of Columbia. See In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C.2006) (rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate, including those involving disbarment); and In re Addams, 579 A.2d 190 (D.C.1990) (en banc) (intentional misappropriation nearly automatically warrants disbarment). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s suspension will not begin to run until such time as he files an affidavit that fully complies with the requirements of D.C.Bar. R. XI, \u00a7 14(g).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Robert L. EHRLICH, Respondent.\nNo. 10-BG-690.\nDistrict of Columbia Court of Appeals.\nFiled Nov. 4, 2010.\nBar Registration No. 943985, BDN: 204-10.\nBefore REID, Associate Judge, TERRY and KING, Senior Judges."
+  },
+  "file_name": "1281-01",
+  "first_page_order": 1327,
+  "last_page_order": 1328
+}

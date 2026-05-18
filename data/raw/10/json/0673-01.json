@@ -1,0 +1,118 @@
+{
+  "id": 7288368,
+  "name": "Mary E. PERRY v. Randall R. WHITEHEAD",
+  "name_abbreviation": "Perry v. Whitehead",
+  "decision_date": "2010-12-21",
+  "docket_number": "",
+  "first_page": "673",
+  "last_page": "677",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 134"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "405 A.2d 721",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8050884
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "723"
+        },
+        {
+          "page": "723"
+        },
+        {
+          "page": "723-24"
+        },
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/405/0721-01"
+      ]
+    },
+    {
+      "cite": "407 A.2d 282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7962553
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/407/0282-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 552,
+    "char_count": 9753,
+    "ocr_confidence": 0.721,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18829244484910124
+    },
+    "sha256": "cfc6647375a39c192a09170a0e2a58095dccc22495f36eef3b5041a7d03ca77c",
+    "simhash": "1:ba469680be1a4968",
+    "word_count": 1552
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Mary E. PERRY v. Randall R. WHITEHEAD."
+    ],
+    "opinions": [
+      {
+        "text": "MEAD, J.\n[\u00b6 1] Randall R. Whitehead appeals from that part of a parental rights and responsibilities' judgment of the District Court (Waterville, Dobson, J.) ordering that he pay his entire child support obligation to Mary E. Perry in money. Whitehead argues that the court should have classified certain payments he made on the residence where Perry and his children live as in-kind credits against his child support obligation, thus reducing the amount of money payable directly to Perry. We affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] Perry and Whitehead, who were never married, began living together in Connecticut in 1994. They have three children together. In 2001 or early 2002, Perry and the children moved to a house the couple purchased in Belgrade, Maine; Whitehead continued to work in Connecticut before moving to Maine in 2006. The Belgrade home, purchased for $225,000, was financed by proceeds from Whitehead\u2019s sale of property he owned in Connecticut, coupled with the proceeds of a $100,000 mortgage loan taken out by Perry. That arrangement was memorialized in a written agreement executed by the parties in July 2001. The agreement provided that Whitehead \u201cagree[d] to be solely responsible for and pay in a timely manner all monthly note/mortgage obligations ... as well as all real estate taxes, insurance and repairs relating to this residence.\u201d In return, Perry agreed that she would transfer her interest in the property to Whitehead once the mortgage loan was repaid.\n[\u00b6 3] On April 24, 2008, Perry filed a complaint in the District Court for determination of parental rights and responsibilities (PRR) and child support. In a separate action on that same date, the court {Dow, J.) issued, by agreement, a protection from abuse order on behalf of Perry and the children against Whitehead. In part, the protection order excluded Whitehead from the Belgrade residence and ordered him to pay $748.12 per month toward the mortgage, evidently in keeping with the parties\u2019 2001 agreement. Within sixty days after the PRR complaint was filed, the court {Mathews, M.) entered an interim child support order that required Whitehead to pay $128 per week. In June 2009, after a settlement conference, the court {French, J.) entered a stipulated order that resolved all issues concerning child contact and responsibility, but expressly reserved for trial all financial issues, including child support. After another settlement conference, the court {Dow, J.) entered an agreed-to order that increased Whitehead\u2019s child support obligation to $298.91 per week. The second child support order specified, \u201cCourt to determine what, if any, portion of obligation to be paid in kind by obligor\u2019s payment of housing-related expenses, except that parties agree that cash payment will not be less than $200/wk.\u201d\n[\u00b6 4] The court held a hearing concerning financial issues on November 17 and 30, 2009. Near the end of the first day, the court appropriately clarified that it would not resolve ownership of the Belgrade property as part of the parental rights and responsibilities case. It further noted that (1) its June 2009 order governed the parties\u2019 rights and responsibilities concerning the children; (2) possession of the Belgrade property was governed by the April 2008 protection from abuse order pending future litigation; and (3) the amount of Whitehead\u2019s child support obligation had already been established at $298.91 per week in the second child support order. Thus, the only issues to be resolved by the trial were a determination of attorney and guardian fees, and the issue raised by Whitehead in this appeal: whether he should receive credit against his ongoing child support obligation and substantial arrearage ($14,-672.94 at the time of the trial) for his payment of mortgage interest, property taxes, and insurance on the Belgrade property.\n[\u00b6 5] On March 31, 2010, the court entered its judgment. Relevant to this appeal, the court found that the items for which Whitehead sought credit were directly related to protecting his ownership interest in the Belgrade property and independent of his child support obligation. Accordingly, the court concluded that Whitehead\u2019s effort to receive credit for his property-related payments was an issue properly resolved in a separate action to determine ownership of the property, and it ordered that Whitehead\u2019s child support payments be made entirely in money. This appeal followed.\nII. DISCUSSION\n[\u00b6 6] As a rule, child support is \u201cmoney paid directly to a parent.\u201d 19-A M.R.S. \u00a7 1501(2) (2009) (emphasis added). After computing the basic parental support obligation according to the child support guidelines, \u201c[t]he court or hearing officer shall order the party not providing primary residential care to pay, in money, that party\u2019s share of the total basic support obligation to the party providing primary residential care.\u201d 19-A M.R.S. \u00a7 2006(4) (2009) (emphasis added). Use of the word \u201cmoney\u201d in the child support statutes means that a child support obligation generally cannot be satisfied by \u201cin-kind\u201d payments. See Levy, Maine Family Law \u00a7 6.5 at 6-39 (6th ed.2009).\n[\u00b6 7] The policy underlying the strong presumption in favor of child support payments being made in money, rather than in-kind substitutions, is the need for the recipient of the payments to be able to rely on that source of income when making decisions concerning the children, and to preserve the independence of those decisions. See Wood v. Wood, 407 A.2d 282, 287 (Me.1979) (\u201cThe custodial parent, in planning for the care and education of the minor child, must be able to rely upon the financial assurance provided by an outstanding court order.... \u201d); Gardner v. Perry, 405 A.2d 721, 723 (Me.1979) (\u201cCourts are understandably reluctant to undo the effect of decrees for child support by permitting the [parent] obligated to provide support to encroach upon the other [parent\u2019s] prerogative to determine how the money will best be spent to serve the children\u2019s needs.\u201d).\n[\u00b6 8] Notwithstanding the general rule that child support payments must be made in money, we have recognized that \u201ccompulsion of circumstances\u201d may sometimes \u201cneeessitate[ ] some form of direct expenditure that will serve the essential purposes\u201d of the child support order. Gardner, 405 A.2d at 723; see Wood, 407 A.2d at 287 n. 4. The reason for the \u201ccompulsion of circumstances\u201d exception is that \u201callowing credits in proper circumstances represents an important adjunct\u201d to a court\u2019s equitable power to alter its decrees, either prospectively or retroactively. Gardner, 405 A.2d at 723-24. However, we have described the authority to credit in-kind payments as an \u201cextraordinary power,\u201d and a trial court\u2019s refusal to exercise it, \u201cgrounded in [its] unwillingness to take into account the circumstances surrounding each and every expenditure claimed as a substitute for court-ordered payments of support,\u201d is reviewed only for an abuse of discretion. Id. at 723. Because invocation of the \u201ccompulsion of circumstances\u201d exception is seldom appropriate, before a court may credit an in-kind expenditure against a child support obligation it must make findings on the record that the expenditure is or was (1) necessary, (2) directly related to an essential purpose of the child support order, and (3) compelled by the circumstances.\n[\u00b6 9] Here, the court carefully distinguished Whitehead\u2019s obligation to protect his ownership interest in the Belgrade property by paying the mortgage interest, property taxes, and insurance \u2014 an interest that would exist even if he had no children \u2014 from his child support obligation, which would exist even if the children lived elsewhere. It concluded that the two obligations were best served by requiring Whitehead to pay his child support in money, thus complying with the statutes and serving the policies discussed above, while leaving him free to attempt to receive credit for his property-related payments in an action focused on ownership of the real estate. As support for the court\u2019s conclusion, the parties\u2019 2001 agreement to purchase the property together, effective long before Whitehead\u2019s child support obligation arose, requires him to make all of the payments for which he now seeks credit, reinforcing the independence of the two issues. Because the court\u2019s analysis does not reflect an abuse of discretion, we affirm its judgment.\nThe entry is:\nJudgment affirmed.\n. Although the protection from abuse order referred to \"the attached child support order,\" no child support was ordered by the court in that proceeding.\n. An earlier order by another judge had mistakenly listed that issue as something to be decided as part of the parental rights and responsibilities case. The court correctly determined that it could not address ownership of the real estate as part of the parental rights and responsibilities case. Although a court has statutory authority to do so in an action for judicial separation, 19-A M.R.S. \u00a7 851(10) (2009), or for divorce, 19-A M.R.S. \u00a7 953 (2009), the parental rights and responsibilities statutes, 19-A M.R.S. \u00a7\u00a7 1651-1659 (2009), give a court no authority to divide the parties\u2019 real or personal property. If they had wanted to avoid piecemeal litigation, the parties could have filed a partition action and asked that it be consolidated with the PRR action.",
+        "type": "majority",
+        "author": "MEAD, J."
+      }
+    ],
+    "attorneys": [
+      "J. Kimball Hobbs, Esq., Cooper & Bull, PA, Westbrook, ME, for Randall R. Whitehead.",
+      "Dori F. Chadbourne, Esq., Chadbourne Law Offices, P.A., Portland, ME, for Mary E. Perry."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 134\nMary E. PERRY v. Randall R. WHITEHEAD.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Dec. 1, 2010.\nDecided: Dec. 21, 2010.\nJ. Kimball Hobbs, Esq., Cooper & Bull, PA, Westbrook, ME, for Randall R. Whitehead.\nDori F. Chadbourne, Esq., Chadbourne Law Offices, P.A., Portland, ME, for Mary E. Perry.\nPanel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0673-01",
+  "first_page_order": 673,
+  "last_page_order": 677
+}

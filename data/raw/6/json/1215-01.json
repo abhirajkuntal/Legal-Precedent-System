@@ -1,0 +1,766 @@
+{
+  "id": 7290224,
+  "name": "Pamela B. STUART, Appellant, v. Barbara J. WALKER, Appellee, and District of Columbia, Intervenor",
+  "name_abbreviation": "Stuart v. Walker",
+  "decision_date": "2010-10-28",
+  "docket_number": "No. 09-CV-900",
+  "first_page": "1215",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "401 A.2d 990",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8054376
+      ],
+      "pin_cites": [
+        {
+          "page": "992"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/401/0990-01"
+      ]
+    },
+    {
+      "cite": "436 A.2d 364",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11288373
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "365"
+        },
+        {
+          "page": "365-66",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/436/0364-01"
+      ]
+    },
+    {
+      "cite": "75 L.Ed.2d 487",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 1261",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 U.S. 1016",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225569,
+        6225828,
+        6226639,
+        6226959,
+        6226351,
+        6227230,
+        6226079
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/1016-01",
+        "/us/460/1016-02",
+        "/us/460/1016-05",
+        "/us/460/1016-06",
+        "/us/460/1016-04",
+        "/us/460/1016-07",
+        "/us/460/1016-03"
+      ]
+    },
+    {
+      "cite": "442 A.2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944408
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "117"
+        },
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/442/0110-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 1118",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293721,
+        7293700
+      ],
+      "pin_cites": [
+        {
+          "page": "1121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/1118-02",
+        "/a2d/987/1118-01"
+      ]
+    },
+    {
+      "cite": "87 Stat. 774",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Home Rule Act\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "669 A.2d 717",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11329020
+      ],
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/669/0717-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 890",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11631920
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "892"
+        },
+        {
+          "page": "892",
+          "parenthetical": "concluding that while the dismissal was a final order, it should be treated as a stay pending the outcome of arbitration so as to avoid authorizing piecemeal appeals"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/0890-01"
+      ]
+    },
+    {
+      "cite": "429 A.2d 1376",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8018134
+      ],
+      "pin_cites": [
+        {
+          "page": "1379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/429/1376-01"
+      ]
+    },
+    {
+      "cite": "531 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9505413
+      ],
+      "weight": 11,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "86",
+          "parenthetical": "concluding that an appeal from an order compelling arbitration under the Federal Arbitration Act, when the underlying action is dismissed, is a final order"
+        },
+        {
+          "parenthetical": "concluding that an appeal from an order compelling arbitration under the Federal Arbitration Act, when the underlying action is dismissed, is a final order"
+        },
+        {
+          "parenthetical": "concluding that an appeal from an order compelling arbitration under the Federal Arbitration Act, when the underlying action is dismissed, is a final order"
+        },
+        {
+          "page": "87"
+        },
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/531/0079-01"
+      ]
+    },
+    {
+      "cite": "971 A.2d 179",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294923
+      ],
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/971/0179-01"
+      ]
+    },
+    {
+      "cite": "84 Stat. 480",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "489 A.2d 478",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 16",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1292",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "417 U.S. 156",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519371
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "171",
+          "parenthetical": "internal citations omitted"
+        },
+        {
+          "parenthetical": "internal citations omitted"
+        },
+        {
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/417/0156-01"
+      ]
+    },
+    {
+      "cite": "592 A.2d 1069",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7379159
+      ],
+      "pin_cites": [
+        {
+          "page": "1071"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/592/1069-01"
+      ]
+    },
+    {
+      "cite": "642 A.2d 1299",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7880260
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/642/1299-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 148",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "828 A.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9106855
+      ],
+      "pin_cites": [
+        {
+          "page": "750"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/828/0739-01"
+      ]
+    },
+    {
+      "cite": "100 L.Ed. 1297",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1956,
+      "opinion_index": 1
+    },
+    {
+      "cite": "351 U.S. 427",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1105215
+      ],
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "435-38"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/351/0427-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "819 A.2d 968",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9353976
+      ],
+      "pin_cites": [
+        {
+          "page": "993-94"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/819/0968-01"
+      ]
+    },
+    {
+      "cite": "650 A.2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11315991
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "205"
+        },
+        {
+          "page": "203-06"
+        },
+        {
+          "page": "205-06"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/650/0202-01"
+      ]
+    },
+    {
+      "cite": "774 A.2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11087692
+      ],
+      "pin_cites": [
+        {
+          "page": "308"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/774/0296-01"
+      ]
+    },
+    {
+      "cite": "771 A.2d 360",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11099809
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "364-66"
+        },
+        {
+          "page": "365"
+        },
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/771/0360-01"
+      ]
+    },
+    {
+      "cite": "762 A.2d 20",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11149662
+      ],
+      "pin_cites": [
+        {
+          "page": "27"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/762/0020-01"
+      ]
+    },
+    {
+      "cite": "861 A.2d 30",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9183341
+      ],
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/861/0030-01"
+      ]
+    },
+    {
+      "cite": "908 A.2d 1168",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8461269
+      ],
+      "pin_cites": [
+        {
+          "page": "1169"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/908/1168-01"
+      ]
+    },
+    {
+      "cite": "917 A.2d 620",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8323815
+      ],
+      "pin_cites": [
+        {
+          "page": "625"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/917/0620-01"
+      ]
+    },
+    {
+      "cite": "93 L.Ed. 1528",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1949,
+      "opinion_index": 1
+    },
+    {
+      "cite": "337 U.S. 541",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        572420
+      ],
+      "weight": 2,
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/337/0541-01"
+      ]
+    },
+    {
+      "cite": "175 L.Ed.2d 458",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        3638928
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/558/0100-01"
+      ]
+    },
+    {
+      "cite": "180 S.Ct. 599",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "608",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "439 A.2d 478",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7942308
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "480",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "480",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/439/0478-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 1118",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293721,
+        7293700
+      ],
+      "pin_cites": [
+        {
+          "page": "1121"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/987/1118-02",
+        "/a2d/987/1118-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 717",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11329020
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "721-22"
+        },
+        {
+          "page": "722"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/669/0717-01"
+      ]
+    },
+    {
+      "cite": "531 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9505413
+      ],
+      "weight": 5,
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/531/0079-01"
+      ]
+    },
+    {
+      "cite": "971 A.2d 179",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294923
+      ],
+      "pin_cites": [
+        {
+          "page": "185-86"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/971/0179-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1255,
+    "char_count": 31928,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 8.88168116383496e-08,
+      "percentile": 0.49935498169970527
+    },
+    "sha256": "2b5433a1d57d72a79ce678b79fe609370acc733fc2c0eabf17136bd22fa041b4",
+    "simhash": "1:174224741b296cea",
+    "word_count": 5160
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WASHINGTON, Chief Judge, GLICKMAN, Associate Judge, and STEADMAN, Senior Judge."
+    ],
+    "parties": [
+      "Pamela B. STUART, Appellant, v. Barbara J. WALKER, Appellee, and District of Columbia, Intervenor."
+    ],
+    "opinions": [
+      {
+        "text": "WASHINGTON, Chief Judge:\nAppellant Pamela Stuart brought this suit in Superior Court to recover attorney\u2019s fees from her former client, appellee Barbara Walker. Walker moved to compel arbitration of the case pursuant to District of Columbia Bar Rule XIII (\u201cRule XIII\u201d), which mandates binding arbitration of all attorney-client fee disputes in the District of Columbia. The Superior Court granted the motion and stayed the case pending an arbitral judgment. Stuart then filed this appeal, in which the District of Columbia intervened as a party, from the order granting compelled arbitration and now argues that Rule XIII is unconstitutional and beyond the District of Columbia Court of Appeals\u2019 authority to promulgate. We do not reach the merits of Stuart\u2019s argument, however, because we do not have jurisdiction to hear this appeal as it was taken from a non-final order and, in all ways relevant to this appeal, our jurisdiction is limited to review of final orders of the Superior Court. See D.C.Code \u00a7 11-721 (a)(1) (2001); and American Fed\u2019n of Gov\u2019t Employees, AFL-CIO v. Koczak, 489 A.2d 478, 480 (D.C.1981) (\u201cAn order to compel arbitration does not dispose of the entire case on the merits. Rather, ... such an order is ... unappealable.\u201d). Accordingly, we dismiss Stuart\u2019s appeal for lack of jurisdiction.\nI.\nSection 11-721(a)(1) of the District of Columbia Court Reform and Procedure Act of 1970, Pub.L. 91-358, 84 Stat. 480 (1970), recodified D.C.Code \u00a7 ll-721(a), provides that the District of Columbia Court of Appeals has jurisdiction over \u201call final orders and judgments of the Superior Court of the District of Columbia....\u201d In other words, our jurisdiction over matters emanating from the Superior Court generally is limited to the review of final orders of the Superior Court. See, e.g., Evans v. Dreyfuss Bros., Inc., 971 A.2d 179, 185 (D.C.2009) (holding that we lacked jurisdiction to hear an appeal from an order effectively compelling arbitration because \u201cany lack of finality is a bar to appellate review\u201d).\nAccording to the Supreme Court, the \u201cwell-developed and long-standing\u201d definition of a \u201cfinal\u201d order is \u201ca decision that \u2018ends the litigation on the merits and leaves nothing more for the court to do but execute the judgment.\u2019 \u201d Green Tree Fin. Corp. v. Randolph, 531 U.S. 79, 86, 121 S.Ct. 513, 148 L.Ed.2d 373 (2000) (concluding that an appeal from an order compelling arbitration under the Federal Arbitration Act, when the underlying action is dismissed, is a final order). This court\u2019s case law is in agreement; we have held that, as a \u201cgeneral rule[,] ... an order is final for purposes of appeal ... [when] it disposes of the entire case on the merits.\u201d Crown Oil & Wax Co. of Delaware v. Safeco Ins. Co. of America, 429 A.2d 1376, 1379 (D.C.1981); see also Judith v. Graphic Comm\u2019ns Int\u2019l Union, 727 A.2d 890, 892 (D.C.1999) (orders granting motions to compel arbitration are not final and ap-pealable); Umana v. Swidler & Berlin, Chartered, 669 A.2d 717, 720 (D.C.1995) (same); Koczak, supra, 439 A.2d at 480 (same). Accordingly, we have consistently held that \u201c[a]n order to compel arbitration\u201d is not a final appealable order because it \u201cdoes not dispose of the entire case on the merits. Rather, the parties\u2019 rights and obligations are finally determined only after arbitration is had, or, if an arbitrator\u2019s award is challenged, after a court enters judgment upholding, modifying, or vacating an arbitrator\u2019s award.\u201d Koczak, supra, 439 A.2d at 480.\nHowever, despite the fact that this court has consistently held that orders compelling arbitration are not final orders, Stuart and the District, relying on Green Tree Financial Corp. v. Randolph, supra, argue that such a conclusion is erroneous as a matter of law. They also contend that this court has jurisdiction to hear her appeal under D.C.Code \u00a7 16-4427(a) (2009), a recently enacted and retroactively applicable amendment to the District of Columbia Uniform Arbitration Act, \u00a7 16-4401 et seq. (2009) (\u201cDCUAA\u201d), that purports to make orders granting compelled arbitration ap-pealable. Yet, unless we conclude that an order compelling arbitration is a final order, and we cannot, the D.C. Council\u2019s enactment amending the DCUAA to make such orders reviewable on appeal exceeds the D.C. Council\u2019s authority because it violates \u00a7 602(a)(4) of the District of Columbia Self-Government and Governmental Reorganization Act, Pub.L. 93-198, 87 Stat. 774 (1973) (\u201cHome Rule Act\u201d), by unlawfully expanding our jurisdiction to hear appeals over non-final orders of the Superior Court.\nA.\nFirst, Stuart and the District\u2019s reliance on Green Tree Financial Corp., supra, for the proposition that orders granting compelled arbitration are final orders, is misplaced. In that case, the issue before the Supreme Court was whether the trial court\u2019s dismissal of a case with prejudice while also granting a motion to compel arbitration, as opposed to staying the case pending the outcome of the arbitration, was final for purposes of appellate review. Green Tree Fin. Corp., supra, 531 U.S. at 87, 121 S.Ct. 513. The Supreme Court concluded that because the order compelling arbitration also dismissed the underlying case, the order was a final appealable order in that case. However, the opinion also makes clear that \u201c[h]ad the District Court entered a stay instead of a dismissal in th[at] case, that order would not be appealable.\u201d Id. at 87 n. 2, 121 S.Ct. 513 (emphasis added).\nOur own case law is in accord with the Supreme Court\u2019s opinion in Green Tree Financial Corp. For example, in Koczak, supra, we held that because \u201c[a]n order to compel arbitration does not dispose of the entire case on the merits ... such an order is ... unappealable.\u201d 439 A.2d at 480. In fact, we have made it clear that it is only \u201cwhere a trial court dismisse[s] a case with prejudice in addition to compelling arbitration ... [that] such an order is unambiguously final [because] ... the trial court has effectively prevented a plaintiff from litigating the issue in the future.\u201d Keeton v. Wells Fargo Corp., 987 A.2d 1118, 1121 (D.C.2010) (footnotes omitted). Where a dismissal is ambiguous, however \u2014 e.g., is not with prejudice \u2014 we have treated that dismissal as a stay in order to prevent the entering of a final appealable judgment until after arbitration is completed. See Judith, supra, 727 A.2d at 892 (concluding that while the dismissal was a final order, it should be treated as a stay pending the outcome of arbitration so as to avoid authorizing piecemeal appeals). Cf. Green Tree Fin. Corp., supra, 531 U.S. at 87, 121 S.Ct. 513.\nIn this case, the Superior Court did not dismiss Stuart\u2019s lawsuit, but stayed the suit after granting Walker\u2019s motion to compel arbitration. Therefore, consistent with the Supreme Court\u2019s rationale in Green Tree Financial Corp., supra, and our opinions in the cases cited above, when, as here, the action is stayed pending the outcome of arbitration, there is no final order because no final judgment has been entered by the trial court and the party opposing arbitration retains the ability to challenge the arbitral award.\nB.\nNext, Stuart and the District contend that enacting legislation to allow appeals from orders granting motions to compel arbitration is within the D.C. Council\u2019s authority and, therefore, the DCUAA amendment does not run afoul of \u00a7 602 of the Home Rule Act by altering our jurisdiction. In support of this contention, Stuart and the District rely on our decisions in District of Columbia v. Greater Wash. Cent\u2019l Labor Council, 442 A.2d 110 (D.C.1982), cert. denied, 460 U.S. 1016, 103 S.Ct. 1261, 75 L.Ed.2d 487 (1983), and District of Columbia v. Sullivan, 436 A.2d 364 (D.C.1981), for the proposition that the D.C. Council does have the authority to change what kinds of cases are directly appealable to this court and can do so without affecting our jurisdiction. However, both of these cases are readily distinguishable from the instant case.\nIn Greater Washington Central Labor Council, supra, we heard a challenge to D.C. Council legislation that provided for the enforcement of contested administrative private worker\u2019s compensation awards in Superior Court, with appeals to this court, on the grounds that the legislation violated the Home Rule Act by purporting to expand the jurisdiction of the District\u2019s courts. 442 A.2d at 117. The compensation awards, under the new legislation, were final judgments subject to approval by the Mayor of the District of Columbia. See id. We held that the legislation did not run afoul of the Home Rule Act because the Superior Court already had jurisdiction to enforce such compensation awards under its own broad jurisdiction over \u201cany civil action or other matter (at law or in equity) brought in the District of Columbia.\u201d Id. (quoting Andrade v. Jackson, 401 A.2d 990, 992 (D.C.1979)); and see Home Rule Act \u00a7 431. Our own jurisdiction was likewise not affected because the Home Rule Act itself provided for the Court of Appeals\u2019 \u201creview [of] orders and decisions of the Mayor, the Council, or any agency of the District,\u201d \u201cto the extent provided by law....\u201d Home Rule Act \u00a7 431(a), recodified, D.C.Code \u00a7 11-722 (2001). The \u201cextent provided by law\u201d is the extent provided for under the District of Columbia Administrative Procedure Act (\u201cDCAPA\u201d), D.C.Code \u00a7 2-501 et seq. (1981), which provides for our \u201c[r]eview ... of final decisions relating to compensation orders rendered by the Mayor.\u201d Greater Wash. Cent\u2019l Labor Council, supra, 442 A.2d at 118. \u201cAccordingly, [we held that] this court will review compensation claims by virtue of its preexisting jurisdiction to review administrative proceedings.\u201d Id. In short, as the Home Rule Act itself provided for our review of the type of judgments at issue in that case, the legislation granting us that review under the DCAPA did not expand our jurisdiction, but rather fell within its established parameters.\nSimilarly, in Sullivan, supra, we upheld the legislative decriminalization of certain traffic offenses, which made them subject to administrative adjudication followed by our direct review rather than criminal prosecution in the Superior Court, because the new judicial review process did not violate the Home Rule Act. 436 A.2d at 365. We reasoned that the criminalization or decriminalization of certain offenses clearly fell within the purview of the \u201cbroad delegation of police power from Congress\u201d to the D.C. Council, which predated the Home Rule Act and \u201cprovided that the District government may \u2018make and enforce all such reasonable and usual police regulations ... as [it] deem[s] necessary for the protection of lives, limbs, health, comfort and quiet of all per-sons_Id. at 366 (quoting D.C.Code \u00a7 1-226 (1967)) (internal punctuation omitted and alterations in original). The legislation did not affect our jurisdiction because it did \u201cnot purport to change the criminal jurisdiction or the specific responsibilities of the Superior Court or the Court of Appeals.... [T]he Superior Court\u2019s trial level jurisdiction of criminal cases remain[ed] intact, as d[id] the appellate jurisdiction of this court. What ... changed [wa]s that certain violations no longer constitute^] criminal offenses.\u201d Id. at 365-66 (emphasis in original). Our direct review of the administrative judgments in the cases concerning the decriminalized traffic offenses was then provided for by the DCAPA. Id. at 367. Sullivan, as with Greater Washington Central Labor Council, supra, was thus decided on the grounds that the D.C. Council\u2019s legislation merely brought certain types of cases under our review pursuant to preexisting jurisdictional authority under the DCAPA. In neither case did the new legislation expand or contract the jurisdiction qua jurisdiction of the courts, which retained the review it had over final agency decisions.\nThus, the instant case is readily distinguishable from Greater Washington Central Labor Council, supra, and Sullivan, supra, because this court had alternative jurisdiction over the administrative decisions in those cases. Here, however, no alternative jurisdictional authority exists that permits this court to hear this appeal, and the attempt by the D.C. Council to modify the definitional parameters of finality, a definition that is intrinsic to the scope of our jurisdiction under D.C.Code \u00a7 11-721, is therefore beyond its authority-\nFor the foregoing reasons, we dismiss Stuart\u2019s appeal as having been taken from a non-final order.\nSo ordered.\n. D.C.Code \u00a7 11-721(a)(2) also provides for our review of certain non-final interlocutory orders, as enumerated, that are not at issue in this case. Additionally, under D.C.Code \u00a7 11-722, which is likewise not implicated in this case, \u201c[tjhe District of Columbia Court of Appeals [also] has jurisdiction ... to review orders and decisions of the ... [Mayor] ..., the District of Columbia Council, [and] any agency of the District ..., in accordance with the District of Columbia Administrative Procedure Act\u201d (\"DCAPA\u201d), D.C.Code \u00a7 2-501 et seq. (1981).\n. D.C.Code \u00a7 16-4427(a) provides, in pertinent part, that \"[a]n appeal may be taken from: (1) [a]n order denying or granting a motion to compel arbitration ....\" (emphasis added).\n. Home Rule Act \u00a7 602(a)(4) provides:\nThe Council shall have no authority to pass any act contrary to the provisions of this Act except as specifically provided in this Act, or to\u2014\n(4) enact any act, resolution, or rule with respect to any provision of title 11 of the District of Columbia code (relating to organization and jurisdiction of the District of Columbia courts)....\nWhen read in conjunction with the definition of our jurisdiction in D.C.Code \u00a7 11 \u2014 721(a)(1) as being over \u201cfinal orders,\u201d a plain reading of \u00a7 602(a)(4) of the Home Rule Act is that the D.C. Council cannot enact any legislation affecting the finality of orders for purposes of appealability to this court, or attempt to modify this court\u2019s jurisdiction in any other way.\n. Section 302 of the Home Rule Act delegates to the D.C. Council legislative authority over \"all rightful subjects of legislation within the District consistent with the Constitution of the United States and the provisions of this Act subject to all the restrictions and limitations imposed upon the States by the tenth section of the first article of the Constitution of the United States.\"",
+        "type": "majority",
+        "author": "WASHINGTON, Chief Judge:"
+      },
+      {
+        "text": "STEADMAN, Senior Judge,\ndissenting:\nFor reasons set forth below, I believe the majority applies too woodenly the concept of finality. I would uphold \u00a7 16-4427(a)(1) of the District of Columbia Revised Uniform Arbitration Act (\u201cDCRUAA\u201d), codified at D.C.Code \u00a7 16-4401 et seq. (2009 Supp.), as I do not believe it violates the District of Columbia Home Rule Act by expanding this court\u2019s jurisdiction.\nIn 1955, the National Conference of Commissioners on Uniform State Laws and the American Bar Association approved a model Uniform Arbitration Act (\u201cUAA\u201d). See generally Unif. ARBITRATION Act, 7 U.L.A. 99 (1956). Section 19 of that act dealt with appeals. Id. at 739. In a prefatory note, the drafters stated, \u201c[t]he section on Appeals is intended to remove doubts as to what orders are appealable and to limit appeals prior to judgment to those instances where the element of finality is present.\u201d Id. at 100 (emphasis added). In 1977, the D.C. Council adopted the UAA in substantially its model form, D.C.Code \u00a7 16-4301 et seq. (repealed 2008), including its \u00a7 19 as D.C.Code \u00a7 16-4317 (repealed 2008). While the model act and \u00a7 16-4317 (repealed 2008) stated that an order denying an application to compel arbitration was appealable, it was silent as to the appealability of an order compelling arbitration.\nWe first had occasion to consider the appealability under the act of an order compelling arbitration in American Fed\u2019n of Gov\u2019t Emp. v. Koczak, 439 A.2d 478 (D.C.1981). In the opinion, as I read it, we were quite consciously attempting to carry out the intent of the Council. We noted, \u201cthere is no indication ... that the Council did not intend the Act\u2019s list of appealable final orders to be exhaustively,]\u201d and \u201cwe conclude that the Council\u2019s omission of an order to compel arbitration from the Act\u2019s list of orders deemed to be final means that such an order' is interlocutory and, hence, unappealable.\u201d Id. at 480 (footnote omitted). Given this holding, it is not surprising that our subsequent cases have, as the majority states, \u201cconsistently held\u201d that orders granting arbitration are not appealable.\nWe now have before us a different situation. In 2000, the Commissioners approved a Revised Uniform Arbitration Act (\u201cRUAA\u201d), which was an extensive overhaul of the 1956 Act. See generally Unif. ARBITRATION Aot, 7 U.L.A. 1 (2000). As in most jurisdictions, the District of Columbia repealed the old act in enacting the new act in 2008. See D.C.Code \u00a7 16-4401 et seq. (2009 Supp.). In doing so, however, the Council did make certain changes from the RUAA. Included among these changes w\u00e9re a number enacted in response to the burgeoning use of arbitration clauses in consumer contracts. D.C. Council, Comm. On Public Safety & The Judiciary, Report on Bill 17-50 at 1 (June 4, 2007). The Committee Report observed that the increased use of these clauses \u201cin consumer agreements, especially contracts of adhesion, has given rise to consumer protection complaints.\u201d Id. at 2. The Report noted:\nmany businesses have found that mandatory arbitration is advantageous in consumer contracts where the business controls the choice of arbitrators, and can afford the arbitration process more easily than can the consumer. As the arbitration process has been utilized increasingly, it has become clear that the limited procedural provisions of the UAA are no longer adequate.\nThe RUAA\u2019s section dealing with ap-pealable orders was virtually unchanged from the UAA. As it had done previously, the Council modeled the appeals section in the new act on that of the RUAA. However, while the Report does not specifically mention the appeals provision, its concern over consumer protection presumably motivated the change from the RUAA that expanded the list of appealable orders and whose validity is now before us. As noted in footnote 2 of the majority opinion, the Council amended the comparable RUAA section by adding the phrase \u201cor granting\u201d so that the District of Columbia enactment provided that an appeal could be taken from \u201can order denying or granting a motion to compel arbitration.\u201d D.C.Code \u00a7 16\u20144427(a) (1)(2009 Supp.) (emphasis added).\nThe issue before us is whether this provision lies beyond the power of the Council in light of D.C.Code \u00a7 11-721(a)(1) (2001). In particular, the issue, as I see it, is whether the Council has any role in the determination of what are \u201cfinal orders or judgments.\u201d I think in this r\u00e9gard it is essential to observe that despite the \u201cgeneral rule\u201d that orders and judgments are not \u201cfinal\u201d until all issues as to all parti\u00e9s have been disposed of, our jurisprudence is riddled with exceptions to this rule.\nA prominent example is the judge-made so-called Cohen rule which deems as \u201cfinal\u201d within the grant of statutory appellate jurisdiction \u201ca small set of prejudgment orders that are \u2018collateral to\u2019 the merits of an action and \u2018too important\u2019 to be denied immediate review.\u201d Mohawk Indus., Inc. v. Carpenter, \u2014 U.S. -, 180 S.Ct. 599, 608, 175 L.Ed.2d 458 (2009) (internal citations omitted); see also Cohen v. Beneficial Indus. Loan Corp., 337 U.S. 541, 546, 69 S.Ct. 1221, 93 L.Ed. 1528 (1949). Within this doctrine, we have on a number of occasions allowed appeals from determinations that were not \u201cfinal\u201d in the classic sense. See, e.g., District of Columbia v. Pizzulli, 917 A.2d 620, 625 (D.C.2007) (order denying immunity from prosecution); McAteer v. Lauterbach, 908 A.2d 1168, 1169 (D.C.2006) (order granting a motion to cancel and release notices of lis pendens ); Galloway v. Clay, 861 A.2d 30, 31 (D.C.2004) (order denying an attorney\u2019s motion to withdraw); In re Ti.B., 762 A.2d 20, 27 (D.C.2000) (order prohibiting father from conferring with his criminal defense counsel on Fifth Amendment privilege and barring counsel from the courtroom while father asserted that privilege in neglect proceeding).\nTo be sure, no argument is made here that the stringent requirements of Cohen are met. But the point at issue, that courts have determined that \u201cfinal\u201d does not always mean final in every respect, is not limited to Cohen situations. For example, in In re D.M., 771 A.2d 360, 364-66 (D.C.2001), we permitted an appeal from an order denying a child\u2019s biological mother all visitation rights. We noted that \u201c[t]he broader controversy cannot be deemed to have been fully resolved until the issues of termination of parental rights (TPR) or adoption have been finally decided.\u201d Id. at 365. However, we observed that there was an element of finality inherent in the case because the order denying visitation finally decided that \u201cvery significant ... issue\u201d and we held that this was \u201csufficient for purposes of appellate jurisdiction.\u201d Id.; see also In re Ko.W., 774 A.2d 296, 308 (D.C.2001) (\u201cAn order denying a parent the right to visit his child is appealable, notwithstanding that proceedings to terminate parental rights have not been instituted.\u201d) (citing In re D.M., 771 A.2d at 370). Another example is Murphy v. McCloud, 650 A.2d 202, 205 (D.C.1994). In McCloud, we held that this court had jurisdiction to entertain an appeal from a trial court order determining an heir to a decedent\u2019s estate. Id. at 203-06. Although the administration of the estate was incomplete and although the order did not even conclusively establish the heir\u2019s rights, we observed that \u201ccontested litigation as to the status of an heir is conceptually separate from the day-to-day administration of an estate[ ] ... for purposes of appeal, and ... it would be impracticable to view the administrative process as some kind of \u2018umbrella\u2019 lawsuit which deprives an order such as the one here at issue of the requisite finality.\u201d Id. at 205-06. Similarly, in In re Delaney, 819 A.2d 968, 993-94 (D.C.2003), we held that a probate order which conclusively disposed of the issue of the decedent\u2019s personal representative\u2019s compensation under the will met the standard of finality set out in Murphy, supra, because it finally adjudicated a substantial right.\nTrial court rules can bestow finality at certain points in extended proceedings such as probate. See Super. Ct. Prob. R. 8(c) (2009), which sets forth six types of probate orders that shall be \u201cdeemed final.\u201d Moreover, individual trial judges have the power to impose finality for purposes of appeal. Under Super. Ct. Civ. R. 54(b) (2009), \u201cthe [trial] [c]ourt may direct the entry of a final judgment as to 1 or more but fewer than all of the claims or parties ... upon an express determination that there is no just reason for delay and upon an express direction for the entry of judgment ]\u201d and that judgment is then appealable. The Supreme Court has held that Rule 54(b) comports with the finality requirement of 28 U.S.C. \u00a7 1291 and hence does not expand the jurisdiction of the courts of appeal. See Sears, Roebuck & Co. v. Mackey, 351 U.S. 427, 435-38, 76 S.Ct. 895, 100 L.Ed. 1297 (1956). Likewise, D.C.Code \u00a7 11-721(d) (2001) gives Superior Court judges discretion in a civil case to \u201ccertify in writing that an otherwise non-appealable ruling or order \u2018involves a controlling question of law as to which there is substantial ground for a difference of opinion and that an immediate appeal from the ruling or order may materially advance the ultimate termination of the litigation or case.\u2019 \u201d Rolinski v. Lewis, 828 A.2d 739, 750 (D.C.2003) (citing D.C.Code \u00a7 11-721(d)). Indeed, by our recent holding that an order compelling arbitration is appealable when the trial court also dismisses the case with prejudice, as opposed to staying the case pending arbitration, we have effectively given the trial court judge the power to make its action appealable, or not appeal-able, as the judge sees fit. Keeton v. Wells Fargo Corp., 987 A.2d 1118, 1121 (D.C.2010) (jurisdiction to hear claim that arbitration clause in consumer contract was unconscionable).\nAs I have mentioned, our decisions finding no finality in orders granting arbitration are at bottom based on the Council\u2019s failure to include such decisions as appeal-able in the UAA. In contrast, we have had no problem giving effect to its determination that orders denying arbitration were appealable, citing consistently to D.C.Code \u00a7 16-4317(a)(2)(repealed 2008). See 2200 M Street, L.L.C. v. Mackell, 940 A.2d 148, 147 n. 2 (D.C.2007); Benefits Commc\u2019n Corp. v. Klieforth, 642 A.2d 1299, 1301 n. 10 (D.C.1994); Hercules & Co. v. Beltway Carpet Serv., Inc., 592 A.2d 1069, 1071 (D.C.1991); see also Evans v. Dreyfuss Bros., 971 A.2d 179, 185-86 (D.C.2009). While it is true that in those cases, no issue was raised relating to the possible jurisdictional limitation of D.C.Code \u00a7 11-721, I believe the deference to the Council determination was as justified then as it is today to the Council\u2019s subsequent determination that orders granting arbitration should be similarly appealable.\nI do not suggest that the Council can, willy-nilly, make appealable as \u201cfinal\u201d those orders and judgments that plainly do not fall in that category. Here, however, we are dealing with the enactment of an overarching statutory scheme (or, more precisely, its re-enactment with significant changes) providing for distinct stages in its procedures. Just as courts are called upon to make determinations as to when particular orders and judgments should be deemed \u201cfinal\u201d for purposes of appeal, so should the Council have the same ability to make reasonable determinations to that effect without contravening the fundamental purpose of the jurisdictional limitation in D.C.Code \u00a7 11-721. I do not think it can fairly be contravened that both orders granting arbitration and orders denying arbitration are critical turning points in the overall statutory scheme of the RUAA. Both of them are indeed final in determining whether or not the extensive arbitration procedures established by the act can be utilized at all.\n[A]ppellate review [is not limited] to \u201cthose final judgments which terminate an action\u201d ... but rather that the requirement of finality is to be given a \u201cpractical rather than a technical construction.\u201d The inquiry requires some evaluation of the competing considerations underlying all questions of finality \u2014 \u201cthe inconvenience and costs of piecemeal review on the one hand and the danger of denying justice by delay on the other.\u201d\nEisen v. Carlisle & Jacquelin, 417 U.S. 156, 171, 94 S.Ct. 2140, 40 L.Ed.2d 732 (1974) (internal citations omitted). In my judgment, the Council has made a reasonable determination that an order granting arbitration contains the requisite \u201celement of finality\u201d to avoid any contravention of D.C.Code \u00a7 11-721.\n. With one omission, the appealable orders were those provided in the model act. The Council omitted, perhaps as unnecessary, the model act\u2019s \"[a] judgment or decree entered pursuant to the provisions of this act.\u201d Unif. Arbitration Act \u00a7 19(a)(6), 7 U.L.A. 739 (1956). In addition, the introductory language of D.C.Code \u00a7 16-4317 (repealed 2008) read, \"[fjor purposes of writing an appeal, the following orders shall be deemed final,\u201d in contrast to the model act\u2019s \u201d[a]n appeal may be taken from.\u201d Unif. Arbitration Act \u00a7 19, 7 U.L.A. 739 (1956).\n. While we also commented that the omission of orders compelling arbitration was \u201cconsistent with the \u2018general rule that ... an order is final for purposes of appeal ... [when] it disposes of the entire case on the merits,\u2019 \u201d Koczak, 439 A.2d at 480 (internal citations omitted), I do not think that the court intended to preclude the possibility of a contrary result. Indeed, one of the orders expressly made appealable by the act is an order denying arbitration, certainly not itself a final order under the \"general rule.\u201d See id.\n.We have at least once referred to the possibility that the limitation on D.C. Council power relating to D.C.Code \u00a7 11-721(a)(1)(2001) could play a relevant part. See Umana v. Swidler & Berlin, Chartered, 669 A.2d 717, 721-22 (D.C. 1995). Even there, we relied on our view that the Council \"did not intend to affect the general policy against piecemeal review embodied in D.C.Code \u00a7 11-721.\" Id. at 722.\n. The appeals section in the DCRUAA differs from that in the District of Columbia Uniform Arbitration Act (\"DCUAA\u201d) in that the current version uses the same language as the RUAA in providing that \"an appeal may be taken from,\u201d rather than the language in the prior act that \"the following orders shall be deemed final.\u201d See generally D.C.Code \u00a7 16-4317 (repealed 2008); D.C.Code \u00a7 16-4427 (Supp. 2009). I think this linguistic change carries no significance. The act itself stresses the need for uniformity. D.C.Code \u00a7 16-4428 (2009 Supp.).\n. This statutory provision was modeled on the analogous U.S.Code provision, 28 U.S.C. \u00a7 1292(b).\n. To be sure this grant of authority is statutory from Congress, as are a number of other situations where plainly interlocutory appeals are allowed, see D.C.Code \u00a7 11-721(a)(2) and D.C.Code \u00a7 23-104 (2009 Supp.). Included in such allowable appeals are orders relating to injunctions. In Koczak, supra, we took note of that provision but concluded that the Council intended that arbitration orders should not be regarded as injunctions. 439 A.2d at 480 n. 7. \"In the absence of the Uniform Arbitration Act, certain orders affecting arbitration could be viewed as orders respecting injunctions, and thus appealable in-terlocutorily.\u201d Id. Here again, the opinion relied on Council intent.\n. This holding is entirely consistent with the Supreme Court\u2019s holding under the Federal Arbitration Act in Green Tree Fin. Corp. v. Randolph, 531 U.S. 79, 121 S.Ct. 513, 148 L.Ed.2d 373 (2000). A footnote in that decision observes that had the district court entered a stay rather than a dismissal, the order would not be appealable. However, as authority, the court cites to a provision of the federal act that specifically bars appeals of orders staying proceedings pending arbitration, like other orders compelling arbitration. Id. at 87 n. 2, 121 S.Ct. 513, citing 9 U.S.C. \u00a7 16(b)(1). The situation before us involves precisely the opposite type of statutory provision.\n. It seems odd to hold that the Council somehow lacks authority to determine as part of its overall scheme that an order compelling arbitration is appealable, when absent that power, the Council could more crudely effectuate its apparent purpose by simply providing that consumer arbitration agreements, as a whole, are not enforceable. The Council did include a provision, absent from the model RUAA, that declares arbitration agreements in insurance policies with individual consumers to be \"void and unenforceable.\u201d D.C.Code \u00a7 16-4403(c)(1).",
+        "type": "dissent",
+        "author": "STEADMAN, Senior Judge,"
+      }
+    ],
+    "attorneys": [
+      "Pamela B. Stuart, pro se.",
+      "Barbara J. Walker, pro se.",
+      "James C. McKay, Jr., Senior Assistant Attorney General for the District of Columbia, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General for the District of Columbia, and Donna M. Mura-sky, Deputy Solicitor General for the District of Columbia, were on the brief, for the intervenor.",
+      "Rachel Z. Stutz, with whom Anne Har-kavy and Susan S. Friedman, Washington, DC, filed a brief as amicus curiae on behalf of The Attorney/Client Arbitration Board of the District of Columbia Bar."
+    ],
+    "corrections": "",
+    "head_matter": "Pamela B. STUART, Appellant, v. Barbara J. WALKER, Appellee, and District of Columbia, Intervenor.\nNo. 09-CV-900.\nDistrict of Columbia Court of Appeals.\nArgued Jan. 13, 2010.\nDecided Oct. 28, 2010.\nPamela B. Stuart, pro se.\nBarbara J. Walker, pro se.\nJames C. McKay, Jr., Senior Assistant Attorney General for the District of Columbia, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General for the District of Columbia, and Donna M. Mura-sky, Deputy Solicitor General for the District of Columbia, were on the brief, for the intervenor.\nRachel Z. Stutz, with whom Anne Har-kavy and Susan S. Friedman, Washington, DC, filed a brief as amicus curiae on behalf of The Attorney/Client Arbitration Board of the District of Columbia Bar.\nBefore WASHINGTON, Chief Judge, GLICKMAN, Associate Judge, and STEADMAN, Senior Judge."
+  },
+  "file_name": "1215-01",
+  "first_page_order": 1261,
+  "last_page_order": 1270
+}

@@ -1,0 +1,817 @@
+{
+  "id": 7285524,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Leslie Denier MOLLETT, Appellant",
+  "name_abbreviation": "Commonwealth v. Mollett",
+  "decision_date": "2010-08-17",
+  "docket_number": "",
+  "first_page": "291",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 1158",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291490,
+        3697422
+      ],
+      "pin_cites": [
+        {
+          "page": "1162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/990/1158-01",
+        "/pa/605/0431-01"
+      ]
+    },
+    {
+      "cite": "653 A.2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863267,
+        713756
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/653/0035-01",
+        "/pa-super/439/0070-01"
+      ]
+    },
+    {
+      "cite": "439 Pa.Super. 70",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        713756
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/439/0070-01"
+      ]
+    },
+    {
+      "cite": "711 A.2d 444",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        507810,
+        11820948
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0465-01",
+        "/a2d/711/0444-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 465",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507810
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0465-01"
+      ]
+    },
+    {
+      "cite": "759 A.2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1366970,
+        11235770,
+        11235819,
+        1366976
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0268-01",
+        "/a2d/759/1280-01",
+        "/a2d/759/1280-02",
+        "/pa/563/0269-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366976
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0269-01"
+      ]
+    },
+    {
+      "cite": "976 A.2d 1184",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297896
+      ],
+      "pin_cites": [
+        {
+          "page": "1187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/1184-01"
+      ]
+    },
+    {
+      "cite": "954 A.2d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8181172
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/954/1194-01"
+      ]
+    },
+    {
+      "cite": "972 A.2d 1218",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7298986
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/972/1218-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 221",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12043856,
+        458423
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0221-01",
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458423
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11899290,
+        17692
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/0400-01",
+        "/pa/549/0012-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 12",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        17692
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0012-01"
+      ]
+    },
+    {
+      "cite": "327 A.2d 27",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "458 Pa. 406",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479728
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/458/0406-01"
+      ]
+    },
+    {
+      "cite": "474 Pa. 295",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1732160,
+        1732138
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/474/0295-02",
+        "/pa/474/0295-01"
+      ]
+    },
+    {
+      "cite": "991 A.2d 336",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289225
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/0336-01"
+      ]
+    },
+    {
+      "cite": "988 A.2d 618",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291244,
+        3699165
+      ],
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/988/0618-01",
+        "/pa/605/0137-02"
+      ]
+    },
+    {
+      "cite": "832 A.2d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9089211
+      ],
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/1132-01"
+      ]
+    },
+    {
+      "cite": "989 A.2d 883",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291832,
+        3698847
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0883-01",
+        "/pa/605/0325-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 1188",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        838584,
+        838547,
+        11574916,
+        11574788
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0412-01",
+        "/pa/558/0411-01",
+        "/a2d/737/1188-02",
+        "/a2d/737/1188-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 412",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838584
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0412-01"
+      ]
+    },
+    {
+      "cite": "970 A.2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7333580
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/970/0440-01"
+      ]
+    },
+    {
+      "cite": "484 U.S. 554",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        601912
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "559-560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0554-01"
+      ]
+    },
+    {
+      "cite": "430 Pa.Super. 109",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        936457
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/430/0109-01"
+      ]
+    },
+    {
+      "cite": "902 A.2d 554",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8414139
+      ],
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/902/0554-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 11,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292533
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0743-01"
+      ]
+    },
+    {
+      "cite": "858 A.2d 1198",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9163877
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1208",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/858/1198-01"
+      ]
+    },
+    {
+      "cite": "991 A.2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291195
+      ],
+      "pin_cites": [
+        {
+          "page": "901"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/0898-01"
+      ]
+    },
+    {
+      "cite": "928 A.2d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3249550,
+        8357422
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0204-01",
+        "/a2d/928/1025-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3249550
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0204-01"
+      ]
+    },
+    {
+      "cite": "859 A.2d 1254",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9166882,
+        1100712,
+        9166734,
+        9166803,
+        1100757,
+        1100669
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/859/1254-03",
+        "/pa/580/0068-02",
+        "/a2d/859/1254-01",
+        "/a2d/859/1254-02",
+        "/pa/580/0068-01",
+        "/pa/580/0067-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 68",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100712,
+        1100757
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0068-02",
+        "/pa/580/0068-01"
+      ]
+    },
+    {
+      "cite": "4 A.3d 1063",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290412
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/4/1063-01"
+      ]
+    },
+    {
+      "cite": "2010 PA Super 66",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "\u00b6 13",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "690 A.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11922741,
+        468687
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/690/0203-01",
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 294",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468687
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "961 A.2d 119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8189813,
+        3441590
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "138"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/961/0119-01",
+        "/pa/599/0270-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 270",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3441590
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0270-01"
+      ]
+    },
+    {
+      "cite": "241 A.2d 119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 Pa. 275",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1912356
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/428/0275-01"
+      ]
+    },
+    {
+      "cite": "709 A.2d 922",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11840359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/709/0922-01"
+      ]
+    },
+    {
+      "cite": "242 A.2d 271",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "430 Pa. 311",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915684
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/430/0311-01"
+      ]
+    },
+    {
+      "cite": "830 A.2d 519",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        588030,
+        9097863
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0202-01",
+        "/a2d/830/0519-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588030
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0202-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2051,
+    "char_count": 65545,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 2.9774867240301825e-07,
+      "percentile": 0.8507658168487815
+    },
+    "sha256": "f246ba006cef9bc702f3fbc37422eb67e271beb6c52f4361d36198b3c6a50867",
+    "simhash": "1:cfe284b8570cdd83",
+    "word_count": 10618
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BOWES, GANTMAN, and PANELLA, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Leslie Denier MOLLETT, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nBOWES, J.:\nLeslie Denier Mollett appeals from the judgment of sentence of life imprisonment and a consecutive term of incarceration of thirteen to twenty-six years imposed after a jury convicted him of first degree murder, carrying a firearm without a license, disarming a law enforcement officer, fleeing or attempting to elude a police officer, resisting arrest, and persons not to possess a firearm. After careful review, we affirm.\nThe pertinent facts are as follows. In the early morning hours of December 12, 2005, State Trooper Corporal Joseph Po-korny was on routine patrol in a marked police cruiser. Corporal Pokorny radioed dispatch at 2:08 a.m. that he was in pursuit of a vehicle near the Extended Stay Hotel and needed a license plate check to determine whether the vehicle was stolen. The trooper relayed the number, conducted a traffic stop and notified the dispatcher that he was exiting his cruiser. The dispatcher could not report information relating to the vehicle because he failed to get a response from the trooper. Corporal Pokor-ny\u2019s dashboard video camera did not record the traffic stop; however, police did not reveal this fact to the public.\nWithin approximately seven minutes of the 2:08 a.m. dispatch, Sergeant Mark Lint, a Carnegie police officer, observed flashing police lights near the Extended Stay Hotel. Sergeant Lint stopped his vehicle and approached Corporal Pokor-ny\u2019s cruiser. The officer noticed that the driver\u2019s side door was open, the radio was blaring, and no one was inside the car. When Sergeant Lint discovered Corporal Pokorny\u2019s body, he was laying on his back with his knees folded underneath his body. The trooper had no pulse and a large amount of blood appeared around his body. Corporal Pokorny had been shot once in the chest and once in the head. Corporal Pokorny\u2019s sidearm, a .40 caliber Smith & Wesson Beretta, was missing.\nSergeant Lint radioed that an officer was down and began to secure the scene. An imitation mink coat, a police-issued ASP baton, a pepper mace canister, a black knit hat, a loaded .40 caliber dock handgun, a bullet fragment, two spent cartridge casings, and Corporal Pokorny\u2019s name tag and handcuffs were located at the scene. Tamara Miller, the mother of two of Appellant\u2019s children, was the registered owner of the Gloek handgun. The casings were .40 caliber Winchester S & W\u2019s and had been discharged from the same weapon. The cartridge casings were consistent with police-issued ammunition. Police found an asthma inhaler within one of the pockets of the coat and noted that the coat reeked of pepper spray. DNA testing on the dock handgun, hat, coat, and inhaler matched Appellant\u2019s DNA profile to DNA located on those items. At the scene, investigators also located tire tracks within approximately twenty-two feet of Corporal Pokorny\u2019s car, which indicated that a vehicle had jumped the curb and entered a flower bed next to the Extended Stay Hotel parking lot.\nPolice canvassed the surrounding area, including the hotel wherein Trooper Frank Murphy encountered Tyrone Bullock after Mr. Bullock answered the door to Room 315. Mr. Bullock appeared nervous and was shaking. The trooper observed blood on the carpet and, after ending his conversation with Mr. Bullock, called for backup. Law enforcement officials then stormed Room 315 and located marijuana in plain view. Subsequently, a search warrant was obtained and a large quantity of heroin, drug paraphernalia, digital scales, marijuana, and promethazine syrup were recovered. Mr. Bullock was an acquaintance of Appellant and the room had earlier been utilized by Appellant, his friends, and Mr. Bullock.\nPolice also interviewed two hotel guests who described hearing a commotion outside their rooms around 2:00 a.m. One of the guests stated he heard a voice say, \u201cstop, stay, turn and please.\u201d N.T., 10/12/07, at 146. The witness said afterward that he heard what sounded like an aluminum baseball bat striking a baseball and two car doors closing and tires spinning. The other hotel guest remarked that he heard an individual yell, \u201cstop, stop, get back here, get on the ground,\u201d followed by two gunshots and the spinning of tires. Id. at 161-162.\nSergeant Lint also interviewed an eyewitness to the incident named Ronald Bishop. Mr. Bishop was operating a snowplow on the night in question. Prior to trial, Mr. Bishop died. The trial court did not permit Appellant to introduce Mr. Bishop\u2019s original statement to police, in which he said that he saw four people at the murder scene, two of whom fled on foot and two who escaped in the vehicle.\nUtilizing the license plate number that Corporal Pokorny had radioed to dispatch, police learned that the vehicle was registered to Courtney Law. Ms. Law informed officers that she sold the car to Charise Cheatom, who was Appellant\u2019s girlfriend. At approximately 7:30 a.m., December 12, 2005, upon learning of Ms. Cheatom\u2019s address, police responded to her residence in the South Side area of Pittsburgh. After hearing movement inside the home, police sealed off the area and a SWAT negotiator attempted to reach Ms. Cheatom via her cellular phone. In addition, police traveled to Ms. Chea-tom\u2019s workplace and at 11:20 a.m. were able to speak with her after she called her work. Ms. Cheatom indicated that she was not at home and was at a doctor\u2019s appointment in downtown Pittsburgh. She informed police that Appellant was at his grandmother\u2019s home.\nHowever, both Appellant and Ms. Chea-tom were at her home and the SWAT negotiator was able to converse with her at 12:50 p.m. At 1:15 p.m., Appellant and Ms. Cheatom exited the home and police took them into custody. When interviewed by police, Appellant gave four different versions of events. First, he maintained that he had not been driving Ms. Cheatom\u2019s car and had been at an establishment called Art\u2019s Bar when Corporal Pokorny was shot. After police gave Appellant his Miranda rights, Appellant requested to speak to his father and asked to speak with his attorney. A phone call was then placed to his attorney, who could not be reached, and Appellant was permitted to talk with his father. While talking with his father, his father informed Appellant that his mother was in the building and police brought her into the interview room. After a discussion with his mother, Appellant indicated that he would speak with the police. Police again issued Appellant his Miranda warnings.\nSubsequently, Appellant gave police a second version of events and acknowledged that his original story was false. Appellant\u2019s second account related that he drove Ms. Cheatom\u2019s vehicle to Art\u2019s Bar and then to an establishment known as Dowe\u2019s. According to Appellant, he met two people at Dowe\u2019s whom he identified as \u201cJ Rock\u201d and \u201cC Note.\u201d Appellant indicated that he was with these two individuals following another vehicle when the trooper pulled him over for speeding. He maintained that C Note attacked the trooper and that both he and J Rock fled, J Rock fleeing on foot and Appellant taking the car. Appellant reported that, as he entered the vehicle and began to drive away, two gunshots were fired. In Appellant\u2019s third statement, he asserted that during the struggle between C Note and Corporal Pokorny he attempted to intervene during which the trooper pulled Appellant\u2019s coat off and scratched Appellant\u2019s eye. Appellant again claimed that C Note shot the officer.\nAt this juncture, Appellant\u2019s mother left, indicating that she did not believe her son. Appellant then offered a final version of events, which the police recorded. The Commonwealth played this recorded statement for the jury. In this final account of events, Appellant related that he had been following another vehicle when he was pulled over for speeding. He indicated that he did not immediately stop but crashed into an embankment. Next, he and the two other men exited the car and the trooper told them to freeze. While being patted down, Appellant alleged that C Note struggled with Corporal Pokorny and the trooper deployed his pepper spray. Appellant maintained that during the struggle, he attempted to aid the trooper, but the trooper pulled Appellant\u2019s coat over his head. According to Appellant, at this point, J Rock, not C Note, entered the struggle and was able to secure Corporal Pokorny\u2019s sidearm and shot him twice.\nMs. Cheatom, after police gave her Miranda warnings, originally indicated that Appellant arrived at her home on December 12, 2005, at approximately 8:00 a.m. Appellant promptly went to the bathroom to wash his face and she observed a scratch near Appellant\u2019s eye. He informed her that the scratch came from a scuffle with a state trooper. Ms. Cheatom related that Appellant stated he was maced and kicked a gun underneath the snow. Appellant then exited the house, but instructed Ms. Cheatom to watch the news. Ms. Cheatom then learned that a state trooper had been shot and killed.\nWhen Appellant appeared at her home two hours later, she asked him whether he had shot the state trooper. Appellant denied that he committed the crime. Ms. Cheatom gave a subsequent statement wherein she indicated that Appellant had remarked that he thought he killed a state trooper. She also provided more details, maintaining that Appellant informed her that he had been in her vehicle with Jab-bar James and Phillip Peterson when he was pulled over by the state trooper. Additionally, she indicated that Appellant had changed his clothes and placed them into a garbage bag before leaving. Ms. Cheatom further stated that she heard Appellant discuss the incident over the telephone and admit that he grabbed the trooper\u2019s gun.\nOn December 18, 2005, Phillip Peterson presented himself to police. Mr. Peterson arrived with his attorney. Following receipt of his Miranda rights, he provided a statement to the police. Initially, Mr. Peterson told the police that the police officer\u2019s video equipment captured the incident on tape and that they should just watch the dashboard video to witness what occurred. He then decided to give a taped statement indicating the following.\nHe, Jabbar James, and Appellant left Dowe\u2019s at 2:00 a.m.; Mr. Peterson indicated that he was not intoxicated. They were traveling on the interstate when he heard a police siren. Appellant, who was driving, did not stop the vehicle and exited toward the Extended Stay Hotel. When Appellant attempted to turn into the hotel parking area, the car skidded into an embankment. Appellant then placed a firearm underneath the driver\u2019s seat and exited the vehicle. Both Mr. James and Mr. Peterson followed. Corporal Pokorny ordered them to place their hands on the car, but Appellant refused, asking why they had been stopped. The trooper began to place handcuffs on Appellant, who resisted and was sprayed with mace. Both Mr. James and Mr. Peterson fled at that time. While fleeing, Mr. Peterson stated he heard three or four gunshots. Mr. Peterson claimed he later received a telephone call from Appellant, in which Appellant stated, \u201cHe\u2019s hit, three to the head.\u201d See Statement of Phillip Peterson, 12/13/05, at 38-39; N.T., 10/10/07, at 58 and 167.\nAt trial, Mr. Peterson altered his version of events as follows. Mr. Peterson maintained that he was intoxicated and he, Jabbar James and Charles Peterson left Dowe\u2019s together in the vehicle driven by Appellant. After the stop, Corporal Po-korny instructed each of the occupants of the car to place their hands in the air or on the vehicle. Appellant questioned the trooper why he stopped them. The two men then began to struggle, and Corporal Pokorny deployed his pepper spray, which blew back into the trooper\u2019s face. At trial, Mr. Peterson claimed that law enforcement supplied him with the quote, \u201cHe\u2019s hit, three to the head.\u201d Since Mr. Peterson\u2019s testimony had changed, the Commonwealth requested that it be permitted to question him as a hostile witness and moved to admit into evidence his prior statement. The trial court granted both of the Commonwealth\u2019s requests.\nJabbar James also gave a taped statement to police on December 13, 2005, which was substantially similar to Phillip Peterson\u2019s original statement. He testified that he, Appellant, and Mr. Peterson were traveling together when he observed flashing lights behind the car. Appellant tried to turn into the Extended Stay Hotel and slid into a ditch. The three men then exited the car, and Corporal Pokorny ordered them to place their hands on the car. The trooper began to frisk Appellant who asked the trooper what he was doing. Corporal Pokorny deployed his pepper spray on Appellant at which point Mr. James ran from the area.\nPrior to the interviews of Mr. James and Mr. Peterson on December 13, 2005, Byron Rice, along with his attorney, appeared at the police homicide office. Mr. Rice gave a taped statement regarding the events of the previous day. He stated that he, along with Andrew Palmer, Charles Peterson, Jabbar James, Phillip Peterson, Sherman Hudson, Jack Woods, and Appellant met at Dowe\u2019s between 11:30 p.m. and midnight. Mr. Rice had driven Mr. Palmer, Charles Peterson, Mr. Woods, and Mr. Hudson. Around closing time, Mr. Rice and the individuals whom he had driven to the bar left together with two women. One of the women had previously been involved with Appellant. Allegedly, the men had made plans to have sex with the women for money and did not want Appellant to know. According to Mr. Rice, Charles Peterson noticed that Appellant was following them, and Mr. Rice sped up in an attempt to lose Appellant. At trial, Mr. Rice acknowledged that he was testifying in exchange for a reduced sentence on a federal firearms charge. He also indicated that Phillip Peterson told him that Appellant had stated, \u201cthree to the head.\u201d N.T., 10/15/07, at 109.\nAndrew Palmer provided police with a taped statement that largely corroborated Mr. Rice\u2019s story. However, at trial Mr. Palmer invoked his Fifth Amendment right and additionally stated that he could not recall certain events. The Commonwealth moved to introduce Mr. Palmer\u2019s prior statement. Counsel objected on the basis that Mr. Palmer was unavailable for cross-examination. The trial court ruled that counsel could cross-examine Mr. Palmer, even though he was unable to recall the events from the dates in question and admitted Mr. Palmer\u2019s recorded remarks to police.\nAdditionally, the Commonwealth presented testimony from Appellant\u2019s state parole agent. Appellant objected, but the trial court permitted the testimony because the Commonwealth asserted that Appellant\u2019s motive in killing Corporal Po-korny was related to his state parole status. Further, the prosecution presented expert testimony from Dr. Leon Rozin, Chief Forensic Pathologist at the Allegheny County Coroner\u2019s Office, and Dr. Vincent DiMaio, former medical examiner of San Antonio, Texas.\nDr. Rozin testified that Corporal Pokor-ny was shot twice, first in the chest near his left shoulder and then through his left ear. The first shot paralyzed Corporal Pokorny within a short period of time and would have been fatal. The second shot occurred at close range and perforated the left ear helix of the trooper, damaged the base of his skull, and fractured the left occipital bone and cervical vertebrae prior to exiting the back of Corporal Pokorny\u2019s neck. Dr. Rozin opined that at the time of the second shot, Corporal Pokorny was below the barrel of the firearm. He reasoned that he could determine which shot occurred first based on the amount of hemorrhaging present at each wound.\nIn order to illustrate how the trooper was shot, the Commonwealth introduced several graphic autopsy photographs, which the prosecution projected onto a large screen for the jury to view. One photograph displayed the inside of Corporal Pokorny\u2019s skull after the medical examiner had removed the trooper\u2019s brain. A second photograph depicted the left side of the trooper\u2019s face and his left shoulder prior to the blood being removed from his body and face.\nDr. DiMaio concurred with Dr. Rozin\u2019s findings regarding which gunshot wound occurred first. In addition, he concluded that the assailant fired the second shot three to nine inches from Corporal Pokor-ny\u2019s ear, stating that the weapon was probably fired closer to three inches from the trooper\u2019s head than nine inches. He reasoned that the trooper was kneeling down with his hands up in the air in a \u201csurrender type\u201d position based upon the trooper\u2019s final resting position. Dr. DiMaio opined that the second shot would have instantly rendered Corporal Pokorny unconscious and paralyzed causing him to become limp and fall over in the position he had been in when he was shot the second time. Counsel objected to the use of the word surrender and requested a mistrial. The trial court denied that request. Additionally, testimony revealed that a standard issue Beretta handgun, like Corporal Pokorny\u2019s weapon, has a trigger pull of six to ten pounds of pressure and requires the trigger to be depressed one time for each shot. Hence, the trigger must have been pulled twice, utilizing six to ten pounds of pressure each time to fire the weapon.\nFollowing trial, the jury returned a verdict of guilty on the aforementioned charges. The jury, however, deadlocked on whether to impose the death penalty. Accordingly, the trial court sentenced Appellant to life imprisonment and a consecutive term of imprisonment of thirteen to twenty-six years. Appellant timely filed a notice of appeal and the trial court ordered Appellant to file a Pa.R.A.P. 1925(b) statement. Appellant complied and the trial court authored a Rule 1925(a) opinion. Appellant now raises the following issues on appeal.\nI. Did the trial court err in admitting gruesome, color, autopsy photographs of Trooper Pokorny since these photographs were highly inflammatory, cumulative, and the danger of unfair prejudice outweighed the probative value of these photographs?\nII. Did the trial court err in permitting the Commonwealth\u2019s forensic pathology expert witness, Vincent DiMaio, the former medical examiner from San Antonio, Texas \u2014 to testify that the decedent was in a \u201csurrender\u201d position at the time of the second gunshot, based on photographs of his position after he struck the ground, rather than on any specialized knowledge, testing or other scientific basis?\nIII. Did the lower court err in failing to sever the firearms charge and in allowing the Commonwealth to admit prejudicial evidence regarding Mr. Mollett\u2019s parole status and conditions?\nIV. Did the lower court err when it introduced the statement of Andrew Palmer in contravention of Leslie Mollett\u2019s federal and state constitutional right to confront the witnesses against him?\nV. Did the trial court err in denying defense motions for mistrial when the Commonwealth attempted to solicit testimony suggesting that Charise Cheatom, Mr. Mollett\u2019s ex-girlfriend, had been threatened by or was in fear of him, necessitating her protection from him?\nVI. Did the trial court err in permitting the Commonwealth to call Philip Peterson as a hostile witness where his testimony was not unexpected?\nVII. Did the trial court err in granting the Commonwealth\u2019s motion in limine to exclude the statements of eyewitness Ronald Bishop, where the statements should have been admitted pursuant to the excited utterance exception to the hearsay rule, and/or the due process clause of the 14th Amendment?\nVIII. Did the trial court err in overruling the defense objection to the prosecutor\u2019s inflammatory comments in closing argument seeking conviction owing to the emotional harm inflicted upon Corporal Pokorny\u2019s family, and due to the Corporal\u2019s physical suffering?\nIX. Was the evidence insufficient to sustain a verdict of first degree murder when the Commonwealth failed to prove beyond a reasonable doubt that Leslie Mollett fired the gun which resulted in the trooper\u2019s death, and that his conduct was willful, deliberate and premeditated?\nAppellant\u2019s brief at 5-6.\nAppellant\u2019s initial claim is that the trial court erred in introducing highly inflammatory and prejudicial autopsy photographs of Corporal Pokorny. The law regarding the admission of post-mortem photographs of a murder victim is well-settled:\nPhotographs of a murder victim are not per se inadmissible.... The admission of such photographs is a matter within the discretion of the trial judge. The test for determining the admissibility of such evidence requires that the court employ a two-step analysis. First[,] a court must determine whether the photograph is inflammatory. If not, it may be admitted if it has relevance and can assist the jury\u2019s understanding of the facts. If the photograph is inflammatory, the trial court must decide whether or not the photographs are of such essential evidentiary value that their need clearly outweighs the likelihood of inflaming the minds and passions of the jurors.\nIn addition, this Court has observed that:\nA criminal homicide trial is, by its very nature, unpleasant, and the photographic images of the injuries inflicted are merely consonant with the brutality of the subject of inquiry. To permit the disturbing nature of the images of the victim to rule the question of admissibility would result in exclusion of all photographs of the homicide victim, and would defeat one of the essential functions of a criminal trial, inquiry into the intent of the actor. There is no need to so overextend an attempt to sanitize the evidence of the condition of the body as to deprive the Commonwealth of opportunities of proof in support of the onerous burden of proof beyond a reasonable doubt.\nCommonwealth v. Tharp, 574 Pa. 202, 830 A.2d 519, 531 (2003).\nThe Commonwealth posits that the autopsy photographs were necessary to demonstrate the intent element of the first degree homicide charge. In relation to the photograph that depicted the inside of Corporal Pokorny\u2019s skull, the Commonwealth asserted at trial that the picture was necessary to establish the trajectory of the bullet that was fired, as well as the proximity of the gun to the trooper\u2019s head when the gun was shot. In addition, the Commonwealth maintained that the photograph was needed to show the neurological damage that the bullet caused. The prosecutor argued that Dr. Rozin and Dr. DiMaio would refer to the skull fractures in discussing the damage that a high caliber bullet would cause when fired at close range and expressed that the testimony supported the Commonwealth\u2019s theory that Corporal Pokorny was executed.\nPrior to admitting the photograph into evidence, the trial court instructed the jury that the picture was being introduced for a limited purpose and that they should not permit the photograph to cause emotions to enter into their decision making process. Dr. Rozin utilized the photograph to explain the injuries Corporal Pokorny suffered from the second gunshot wound. He stated that the projectile perforated the soft tissue, caused a severe contusion to the bone, and fractured the left occipital bone. Additionally, Dr. Rozin illustrated that the entry and exit wounds showed that the bullet dropped approximately three-and-one-half inches after it entered his head, meaning that Corporal Pokorny was below the firearm when he was shot.\nBefore Dr. DiMaio used the relevant photograph, the trial court again provided a cautionary instruction. Dr. DiMaio, in utilizing the photograph, opined:\n[T]he bullet went through the petrus bond in this area here, and you can see there is a little injury to the end of that bone. If you look at the skull fracture, the skull fracture is about six inches. So tremendous force was imparted to the base of the skull. You get a skull fracture like this and you\u2019re immediately unconscious. And then the bullet-of course, this is the spinal canal, the fora-men magnum, and there is a port that goes down and right here would be the first cervical vertebrae and then there is a second one and there is a third. There is a stack of seven of them and the bullet hit the back of the second and third and the first and the second are not very massive. So a bullet hitting them always would produce injury.\n[I]f you figure there was enough force here to fracture the skull, the brain was just all shaken up and you would get small hemorrhages in it and you would get injuries such that the person would lose unconsciousness [sic] instantaneously, especially since if you notice the fractures down here near the spinal canal, right over here on the bottom of the brain would be the brain stem which controls essentially most of your vital functions.\nN.T., 10/19/07, at 59-60. According to the Commonwealth, this testimony, in conjunction with the additional findings of Dr. DiMaio, demonstrated that Appellant fired the second shot while Corporal Pokorny was on his knees, which indicated that the perpetrator committed the killing execution style and established Appellant\u2019s specific intent to commit murder. Relative to the photograph of Corporal Pokorny\u2019s bloody left shoulder and face, the Commonwealth points out that pictures depicting blood are not, per se, inflammatory.\nIn leveling his argument, Appellant cites to Commonwealth v. Eckhart, 430 Pa. 311, 242 A.2d 271 (1967), Commonwealth v. Le-Gares, 709 A.2d 922 (Pa.Super.1998), and Commonwealth v. Powell, 428 Pa. 275, 241 A.2d 119 (1968). In Eckhart, supra, our Supreme Court held that the trial court erred in admitting an autopsy photograph of the victim\u2019s skull. The Court reasoned that the photograph was overly prejudicial because it contained a bloody web of tangled hair and a gruesome depiction of the decedent\u2019s scalp. The photograph in Eck-hart, like one of the photographs at issue herein, also depicted the fissures within the victim\u2019s skull.\nSimilarly, in LeGares, supra, this Court concluded that a color photograph of a shotgun head wound, which showed the victim\u2019s fractured skull wired together, with the large entry wound evident and the decedent\u2019s brain removed, was prejudicial. Additionally, in Powell, supra, our Supreme Court determined that post-mor-tem color photographs of the victim who died as a result of injuries sustained to her head were unnecessary to aid the jury in understanding the forensic pathologist\u2019s medical testimony. The Court opined, \u201cthe nature and extent of the injuries involved had no bearing on a finding of first degree felony murder.\u201d Powell, supra at 121. Furthermore, the Court stated that the court\u2019s instruction that the photographs were being introduced for the purpose of aiding the pathologist\u2019s medical testimony and not for inflammatory reasons did not remedy the introduction of the photographs. Id.\nRelying on the above-mentioned cases, Appellant posits that the color photograph of Corporal Pokorny\u2019s open skull that fully showed the fissures inside of his skull with his brain removed, and a bloody scalp and body, were unnecessary to show that a gunshot wound caused the victim\u2019s fractured skull. Specifically, Appellant reasons that he conceded that a gunshot wound caused the damage to the head. According to Appellant, since the Commonwealth\u2019s expert witnesses only used the photograph to discuss the fractures that occurred as a result of the gunshot wound to Corporal Pokorny\u2019s head, and Appellant stipulated that the damage to the victim\u2019s head was caused by a bullet, the picture was unnecessary. Moreover, Appellant contends that other less graphic and gruesome photographs could have been used to demonstrate that a bullet caused Corporal Pokorny\u2019s fractured skull.\nWith respect to the color photograph that showed the bloody left side of Corporal Pokorny\u2019s ear, jaw, and his blood-soaked left uniform shoulder, Appellant argues that Dr. Rozin did not discuss the picture, although he showed it to the jury, and Dr. DiMaio only stated that the photograph indicated the bullet entrance wound in Corporal Pokorny\u2019s shoulder area. Thus, Appellant maintains that the photograph served no evidentiary purpose. Lastly, Appellant avers that seven other color photographs from the crime scene were highly inflammatory. The photographs depicted the trooper\u2019s face and body covered in blood, as well as items found at the scene with significant amounts of blood in the pictures.\nIn the instant case, the photograph of Corporal Pokorny\u2019s skull was undoubtedly inflammatory. The picture depicted the fissures inside of Corporal Pokorny\u2019s skull and contained large amounts of blood on the Corporal\u2019s body and his scalp. The photograph is unquestionably graphic and unpleasant to view. However, for the reasons outlined infra, we hold that the probative value of the photograph outweighed its prejudicial impact. Unlike the cases cited by Appellant, one of Appellant\u2019s defenses at trial and on appeal was that the shooting occurred as the result of a struggle with the officer and that the weapon went off accidentally during that struggle. While Appellant acknowledged that a gunshot wound caused the injury to Corporal Pokorny\u2019s head, he denied having the specific intent to kill the trooper. The photograph herein and the testimony derived from that photograph were essential to the Commonwealth\u2019s theory that the killing was done execution style.\nThe photograph at issue was used by the expert witnesses to explain the effects of such a gunshot wound on the trooper\u2019s body. Both experts utilized the photograph to demonstrate to the jury the massive injuries Corporal Pokorny suffered as a result of the gunshot wound to the head. Dr. DiMaio testified that the wound would have caused instant unconsciousness and paralysis. The picture was the only evidence that demonstrated the internal destruction the bullet caused and was used in conjunction with other photographs to explain which shot the assailant fired first and the position the trooper was in when he was shot.\nThe Commonwealth\u2019s evidence showed that Corporal Pokorny was first shot in the chest from approximately one foot away. He then fell to his knees and was shot in the head from a distance of between three to nine inches, with a likelihood that the distance was closer to three inches. This evidence relied on the findings of both Dr. Rozin and Dr. DiMaio regarding the damage that the gunshot wound caused to Corporal Pokorny\u2019s head. In order to explain that the gunshot wound to the head occurred second and that the trooper was on his knees when he was shot, the photograph at issue was necessary to depict the head injury Corporal Pokorny suffered. Hence, we hold that the trial court did not commit an abuse of discretion in admitting the photograph of Corporal Pokorny\u2019s skull. Commonwealth v. Wright, 599 Pa. 270, 961 A.2d 119, 138 (2008). Relative to the other contested photographs, we do not find that the presence of blood in these pictures rendered them inflammatory and find no error in their admission. See Commonwealth v. Marinelli, 547 Pa. 294, 690 A.2d 203, 217 (1997); Wright, supra.\nThe second contention Appellant raises on appeal is that the trial court erred in permitting Dr. DiMaio to testify that Corporal Pokorny was in a surrender position based on photographs of the posture of the trooper\u2019s body when he was found.\nThe admission of evidence is committed to the sound discretion of the trial court, and a trial court\u2019s ruling regarding the admission of evidence will not be disturbed on appeal unless that ruling reflects manifest unreasonableness, or partiality, prejudice, bias, or ill-will, or such lack of support to be clearly erroneous.\nCommonwealth v. Minich, 2010 PA Super 66, at \u00b6 13, 4 A.3d 1063 (2010) (citations omitted). Where the evidentiary question involves a discretionary ruling, our scope of review is plenary. Commonwealth v. Delbridge, 580 Pa. 68, 859 A.2d 1254 (2004).\nAppellant asserts that Dr. DiMaio\u2019s testimony regarding the trooper\u2019s final resting place and how he came to be in that position intruded on the jury\u2019s function because the testimony was not derived from any special knowledge and was within the common knowledge of the average juror. Specifically, Appellant opines that Dr. DiMaio was allowed to testify about the effects of gravity and how a body lands after a fall.\nThe Commonwealth counters that Appellant has waived the issue since Appellant did not lodge an objection with respect to the position of the trooper at the time of the second shot, but rather objected to the descriptive language, \u201csurrender,\u201d because he believed it impermissibly referenced the ultimate issue of whether Appellant intended to kill the trooper. More precisely, the Commonwealth contends that Appellant waived the issue because counsel did not object to the testimony being introduced on the basis that it was within the common knowledge of the jury to understand how a person\u2019s body reacts after being shot, which is the issue raised on appeal.\nIn the alternative, the Commonwealth avers that the claim is without merit because Dr. DiMaio\u2019s testimony directly related to his expertise and Appellant called his own expert witness to testify regarding the trooper\u2019s position prior to being shot the second time. We agree that the specific issue of whether the information was within the common knowledge of the jury was not raised at trial and Appellant has, therefore, waived that issue. Commonwealth v. Cousar, 593 Pa. 204, 928 A.2d 1025 (2007); Pa.R.A.P. 302(a). Further, we find that Dr. DiMaio\u2019s testimony was not within the common knowledge of the jury and was well within his expertise.\nPa.R.E. 702 delineates when expert testimony is permissible. The rule provides:\nIf scientific, technical or other specialized knowledge beyond that possessed by a layperson will assist the trier of fact to understand the evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, experience, training or education may testify thereto in the form of an opinion or otherwise.\nPa.R.E. 702. Dr. DiMaio testified as to the timing of each of the gunshots, how far away the firearm was from Corporal Po-korny\u2019s body when it was fired, and the position the trooper\u2019s body was in when he was shot. Contrary to Appellant\u2019s position on appeal, Dr. DiMaio did not testify as to the general effects of gravity on a person. Dr. DiMaio\u2019s testimony discussed precisely the effect the gunshot wounds had on Corporal Pokorny\u2019s body, one of the areas of expertise for which the Commonwealth presented him. Dr. DiMaio\u2019s conclusion regarding the trooper\u2019s body position when he was shot for the second time relied on his medical findings about which shot occurred first and what happens to a body when a bullet causes instantaneous unconsciousness and paralysis. These matters are not within the common knowledge of the average juror. Thus, we hold that the trial court did not abuse its discretion in permitting Dr. DiMaio\u2019s testimony and Appellant is not entitled to relief based on his second claim.\nAppellant\u2019s third issue is twofold: 1) whether the trial court committed reversible error when it failed to sever the former convict not to carry firearms charge; and 2) whether it erred by permitting the introduction of extensive testimony regarding Appellant\u2019s state parole status. Appellate review of a trial court\u2019s denial of a motion for severance is as follows:\nA motion for severance is addressed to the sound discretion of the trial court, and ... its decision will not be disturbed absent a manifest abuse of discretion. The critical consideration is whether the appellant was prejudiced by the trial court\u2019s decision not to sever. The appellant bears the burden of establishing such prejudice.\nCommonwealth v. Dozzo, 991 A.2d 898, 901 (Pa.Super.2010). The Pennsylvania Rules of Criminal Procedure govern the severance of offenses. Rule 583 reads, \u201cThe court may order separate trials of offenses or defendants, or provide other appropriate relief, if it appears that any party may be prejudiced by offenses or defendants being tried together.\u201d Pa.R.Crim.P. 583. Further, Rule 582 provides that offenses may be tried jointly under the following circumstances:\nRule 582. Joinder-Trial of Separate Indictments or Informations\n(A) Standards\n(1) Offenses charged in separate indictments or informations may be tried together if:\n(a) the evidence of each of the offenses would be admissible in a separate trial for the other and is capable of separation by the jury so that there is no danger of confusion; or\n(b) the offenses charged are based on the same act or transaction.\nPa.R.Crim.P. 582(A)(1). Similarly, Rule 563 states:\nRule 563. Joinder of Offenses in Information\n(A) Two or more offenses, of any grade, may be charged in the same information if:\n(1) the evidence of each of the offenses would be admissible in a separate trial for the other and is capable of separation by the jury so that there is no danger of confusion; or\n(2) the offenses charged are based on the same act or transaction.\n(B) There shall be a separate count for each offense charged.\nPa.R.Crim.P. Rule 563. Appellant relies upon this Court\u2019s decision in Commonwealth v. Jones, 858 A.2d 1198 (Pa.Super.2004), in arguing that the trial court\u2019s decision to deny the severance motion was in error. In Jones, the defendant was charged with three violations of the uniform firearms act (\u201cVUFA\u201d), including persons not to possess a firearm. See 18 Pa.C.S. \u00a7 6105. The defendant requested that the trial court sever the persons not to possess a firearm count from the other two violations because it would permit the jury to hear evidence regarding a prior conviction. The trial court denied the defendant\u2019s motion.\nIn reversing, we reasoned that although the introduction of the fact of the defendant\u2019s former conviction of a crime was required as an element of proof of the crime of former convict not to own a firearm, it was not necessary for the remaining charges. Therefore, we opined that the prejudice of the prior conviction, necessary to prove the violation of 18 Pa.C.S. \u00a7 6105, spread to all of the crimes charged, and the trial court should have granted a severance. Specifically, this Court found that the evidence of the defendant\u2019s former crime did not satisfy what is now codified at Pa.R.E. 404(b), regarding the admissibility of other crimes, wrongs, or acts.\nIn addition, we held that the traditional test, whether the facts and elements of the two crimes were easily separable in the minds of the jurors and if the crimes are such that the fact of commission of each crime would be admissible as evidence in a separate trial for the other, was inapplicable. In doing so, we stated, \u201cthe fact that appellant committed the former violent crime, is of no evidentiary value to the proof of any of the other crimes with which he is so charged.\u201d Jones, supra at 1208 (emphasis in original).\nJones is distinguishable from the case herein. Unlike Jones, the evidence that Appellant committed a former crime and was on parole for that crime provides evidentiary value to proof of the other crimes he was charged with because it tends to establish his motive to avoid being captured. Appellant, in conjunction with his severance argument, has also asserted that the evidence that he was on parole was irrelevant and its probative value outweighed its prejudicial impact. We reject Appellant\u2019s position that evidence that he was on parole was irrelevant. As we noted supra, the Commonwealth\u2019s theory at trial was that Appellant\u2019s motive for committing murder was to avoid being sent to state prison for violating his parole. The critical inquiry is whether the evidence\u2019s probative value outweighed its prejudicial impact.\nAppellant maintains that the Commonwealth was not using evidence of his prior crime to establish motive, but was reminding the jury that he was a criminal who was likely to commit the crimes for which he was charged. Of course, proving motive, while not an element of a crime, is intended to demonstrate that the person charged with the crime had reason to commit that crime and was more likely than another individual to commit the offense charged. Accordingly, the Commonwealth asserts that, because he was carrying a loaded firearm, was in the company of persons using illegal drugs, and then struggled with Corporal Pokorny, Appellant was aware that his conduct constituted a violation of his parole and he could be returned to prison. We agree with the Commonwealth that evidence of Appellant\u2019s state parole status provided probative evidence of Appellant\u2019s motive and outweighed its prejudicial impact. Since the evidence of Appellant\u2019s parole status was admissible to prove motive, the trial court did not err in failing to sever the persons not to possess a firearm count.\nNext, Appellant contends that the prosecution infringed upon his confrontation rights when the trial court allowed the Commonwealth to introduce a prior statement Andrew Palmer made to police after Mr. Palmer invoked his Fifth Amendment right to remain silent and stated that he could not recall the events of December 11, 2005 and December 12, 2005.\nWhether a defendant has been denied his right to confront a witness is a question of law for which our standard of review is de novo and our scope of review is plenary. Commonwealth v. Atkinson, 987 A.2d 743 (Pa.Super.2009). In Crawford v. Washington, 541 U.S. 36, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004), the Supreme Court held that the right of confrontation, when the government attempts to introduce testimonial hearsay, requires that the witness who made the statement be unavailable for trial and that the defendant had a prior opportunity to cross-examine that witness. Crawford, supra. Statements made during police interrogations are testimonial. Id. at 68, 124 S.Ct. 1354. In addition, a \u201cprior opportunity to cross-examine\u201d may be satisfied if there is an opportunity to cross-examine the witness at trial. See Commonwealth v. Charlton, 902 A.2d 554, 560 (Pa.Super.2006).\nIn the instant case, Mr. Palmer\u2019s statement to police was undoubtedly testimonial. Accordingly, in order for the statement to be admissible without violating the respective Confrontation Clauses of the federal and state constitutions, Mr. Palmer must have been unavailable to testify and the defendant must have had an opportunity to cross-examine him. Appellant argues that Mr. Palmer was \u201cunavailable\u201d because he refused to testify by answering questions by stating, \u201cI don\u2019t recall\u201d or by attempting to invoke his Fifth Amendment right against self-incrimination in response to questioning. Additionally, Appellant maintains that, because the witness answered the majority of questions by stating he did not recall or invoking his Fifth Amendment right, Appellant was not provided a meaningful opportunity to cross-examine the witness.\nA witness who asserts his Fifth Amendment right is unavailable if the trial court finds that the witness\u2019s concern with incriminating himself is valid. Commonwealth v. Ballard, 430 Pa.Super. 109, 633 A.2d 641, 645 (1993). Instantly, the Commonwealth indicated that nothing Mr. Palmer stated would be used against him in a future proceeding and drug charges against Mr. Palmer stemming from the drugs seized from the Extended Stay Hotel room had been nolle prossed. In addition, the prosecutor stated that he did not intend to elicit any responses from Mr. Palmer that could subject him to criminal liability. Accordingly, the trial court did not find that the witness\u2019s invocation of his right against self-incrimination to be legitimate.\nMoreover, witnesses who testify as to a lack of memory are not considered unavailable for cross-examination. United States v. Owens, 484 U.S. 554, 559-560, 108 S.Ct. 838, 98 L.Ed.2d 951 (1988). Therefore, Mr. Palmer was available to testify and did, in fact, answer questions. The Confrontation Clause does not bar a prior testimonial statement when the witness is available to defend or explain the statement. Crawford, supra at 59 n. 9, 124 S.Ct. 1354\nMr. Palmer was available to testify, appeared at trial, and although unable or unwilling to recall certain events, Appellant was provided an opportunity to cross-examine the witness. Hence, the introduction of the prior statement of Mr. Palmer did not implicate the Confrontation Clause of either the United States Constitution or the Pennsylvania Constitution.\nThe fifth claim posited by Appellant is that the trial court erred in not declaring a mistrial after the prosecution tried to garner testimony from Ms. Chea-tom implying that Appellant abused her in the past and attempted to intimidate her prior to his trial. Appellant avers that the testimony was irrelevant, prejudicial, and an improper fishing expedition. The Commonwealth posits that the denial of the motion for mistrial was proper because the prosecutor\u2019s reference to abuse and intimidation did not unduly prejudice Appellant and deprive him of a fair and impartial trial.\nThe record reflects that the Commonwealth asked Ms. Cheatom if she had entered the witness relocation program. Counsel moved for a mistrial, which the trial court denied. The Commonwealth then asked Ms. Cheatom about why she had not given the police all of the relevant information she knew regarding Appellant and his involvement with the shooting of Corporal Pokorny during her first police interview. In questioning the witness, the prosecution indicated that Ms. Cheatom already said she had not told the police all of the pertinent information because she was afraid. The prosecutor then asked her who she feared. Appellant\u2019s counsel objected and was originally overruled. Ms. Cheatom replied, \u201cI wasn\u2019t afraid of nobody. I was afraid of what was going on and the police just asking me questions. And, like I said, this was my first time going through this and I just afraid, period.\u201d N.T., 10/4/07, 152-153. The Commonwealth then queried whether Ms. Cheatom was afraid of Appellant because he was abusive. Counsel moved for a mistrial, which was again denied. However, the court sustained his objection.\nWe hold that this exchange does not warrant a mistrial. As explained by the Commonwealth at side bar after the trial court sustained the objection, the prosecution was attempting to elicit an explanation as to why Ms. Cheatom\u2019s statements to police changed. An attempt to obtain an explanation as to a possible inconsistent statement by a witness is permissible. Moreover, the testimony of record actually benefited Appellant because the witness indicated that she was not afraid of him. Accordingly, the trial court did not commit an abuse of discretion in denying Appellant\u2019s motion for a mistrial.\nAppellant also appears to take issue with the Commonwealth\u2019s line of questioning about whether Ms. Cheatom was confronted by one of Appellant\u2019s friends. The Commonwealth attempted to garner evidence that Appellant intimidated Ms. Cheatom prior to trial. Ms. Cheatom indicated that, at a bar, Appellant\u2019s friend confronted her about the case. The friend was called to the stand and testified that he did see Ms. Cheatom, but the only matter Appellant ever asked him to do was to check on Appellant\u2019s daughter.\nBased on our review of the record, we conclude that Appellant was not prejudiced by the admission of the testimony of either his friend or Ms. Cheatom regarding the bar incident for the following reasons: 1) Ms. Cheatom maintained that Appellant did not attempt to intimidate her; 2) Appellant\u2019s friend provided testimony that Ms. Cheatom stated she did not wish to testify; and 3) the police were attempting to elicit a statement from her that Appellant said he killed the trooper. Thus, Appellant\u2019s issue fails.\nAppellant\u2019s sixth issue concerns the trial court\u2019s grant of permission to the Commonwealth to treat Phillip Peterson as a hostile witness. The Commonwealth moved to question Mr. Peterson as a hostile witness based on his unexpected testimony at trial that a fourth person was in the car at the time of the incident. We review a trial court\u2019s evidentiary ruling permitting a party to treat their witness as hostile for an abuse of discretion. Commonwealth v. Bibbs, 970 A.2d 440 (Pa.Super.2009).\nA party who calls a witness may treat that witness as hostile if his trial testimony: \u201c(1) is unexpected; (2) contradicts the witness\u2019 earlier statements; and (3) is harmful to the party\u2019s case.\u201d Commonwealth v. Douglas, 558 Pa. 412, 737 A.2d 1188, 1198 (1999); Bibbs, supra. Appellant disputes only the unexpectedness prong of the applicable test.\nAppellant reasons that the Commonwealth\u2019s concession during its opening statement, that witnesses who were interviewed by police were going to testify that they did not remember, or were high and drunk, or forced by the police to make certain statements, indicated that Mr. Peterson\u2019s testimony was expected. Mr. Peterson\u2019s trial testimony did maintain, contrary to his recorded interview with police following the shooting, that he was intoxicated at the time of the shooting, and the police fed him the damaging \u201cthree to the head\u201d quote he attributed to Appellant.\nMr. Peterson also stated at trial for the first time that a fourth individual was in the vehicle with him, Jabbar James, and Appellant. During previous interviews with police and at the preliminary hearing Mr. Peterson consistently asserted that only he, Mr. James, and Appellant were in the car. Mr. Peterson himself admitted during questioning that this was the first time he informed the Commonwealth that four people had been in the vehicle. Further, while the prosecutor\u2019s opening remarks did foreshadow irregularities in Mr. Peterson\u2019s testimony that did occur, the prosecutor made no mention of possible testimony regarding the number of individuals in the car being driven by Appellant. Hence, we conclude that Mr. Peterson\u2019s testimony was unexpected and the trial court did not commit an abuse of discretion in permitting the Commonwealth to treat the witness as hostile.\nThe seventh assertion Appellant levels on appeal regards the trial court\u2019s exclusion of statements to police made by Ronald Bishop. Mr. Bishop was deceased at the time of trial; he was thus unavailable to testify. According to Appellant, the Commonwealth filed a motion in limine seeking to preclude Mr. Bishop\u2019s declarations to the police. Review of the docketing statements does not show that a motion in limine was filed of record, nor have we located a motion in limine to bar Mr. Bishop\u2019s statements within the record. Rather, the Commonwealth made an oral motion in limine before the commencement of the trial.\nThe Commonwealth contended that Crawford v. Washington, 541 U.S. 36, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004), barred the statements because they were hearsay. At that juncture, Appellant agreed that Mr. Bishop\u2019s remarks to the police during their initial investigation were hearsay, but disagreed with the Commonwealth\u2019s interpretation of Crawford as prohibiting any reference to Mr. Bishop. During the trial, Appellant maintained that the trial court could properly admit Mr. Bishop\u2019s statements because they fell under the present sense impression hearsay exception.\nOn appeal, Appellant contends that the trial court should have permitted Mr. Bishop\u2019s account to police as an excited utterance and/or pursuant to the due process clause of the Fourteenth Amendment. The Commonwealth asserts that the issue is waived because Appellant failed to argue at trial that Mr. Bishop\u2019s statement was an excited utterance.\nA review of the trial transcript reveals that counsel for Appellant attempted to lay a foundation for an excited utterance with two witnesses, but did not argue to the trial court that Mr. Bishop\u2019s statement was admissible as an excited utterance at those points. See N.T., 10/1/07, at 173; N.T., 10/4/07, at 24; N.T., 10/5/07, at 78-79. Specifically, counsel inquired with one of the troopers who arrived at the crime scene if there were \u201ca lot of excited people around there?\u201d N.T., 10/1/07, at 173. Defense counsel also questioned an Allegheny County detective about eyewitness testimony, asking if eyewitness information was important \u201cbecause people are excited if they just saw a tragic event?\u201d N.T., 10/4/07, at 24.\nIn addition, during a sidebar discussion over the testimony of Appellant\u2019s parole officer, counsel characterized Mr. Bishop\u2019s statement as an excited utterance. N.T., 10/9/07, at 92. Hence, we do not find that Appellant has waived the issue as it pertains to an excited utterance. However, Appellant did not timely raise the due process issue during the proceeding; thus, Appellant has waived that claim. Commonwealth v. Wholaver, 989 A.2d 883, 906 n. 19 (Pa.2010); Pa.R.A.P. 302(a); Commonwealth v. Duffy, 832 A.2d 1132, 1136 (Pa.Super.2003).\nWith respect to the excited utterance argument, we note that the trial court informed the jury that when police originally arrived on the scene, there was information that four people may have been involved. N.T., 10/5/07, at 79-80. The trial court asked, \u201cat one point there could have been as many as four people?\u201d N.T., 10/5/07, at 79. The witness responded, \u201cThere were numbers of four, but from what I recall that we personally were dealing with. I personally was dealing with the number three.\u201d Id. at 80. The trial court also remarked, \u201cThere is information out there preliminarily that there may have been as many as four and you focused in on three. Is that accurate?\u201d Id. The witness answered in the affirmative. Accordingly, the information that Appellant sought to introduce via Mr. Bishop\u2019s statement, that four people were possibly at the scene, was introduced into evidence. Therefore, Appellant did not suffer any prejudice from the trial court\u2019s exclusion of Mr. Bishop\u2019s statement.\nAppellant\u2019s eighth contention on appeal is that the prosecutor committed misconduct by making inflammatory comments in his closing, seeking a conviction based on the emotional suffering of Corporal Pokor-ny\u2019s mother, daughter, and son due to the pain inflicted on the trooper when he was shot.\nA prosecutor\u2019s declaration\u2019s during an opening or closing statement constitutes reversible error only if the prosecutor deliberately attempts to destroy the objectivity of the jury and the unavoidable effect of the remark is to create such a bias and hostility toward the defendant that the jury would be unable to render a true verdict. Commonwealth v. Laird, 988 A.2d 618, 644 (Pa.2010); Commonwealth v. Ragland, 991 A.2d 336 (Pa.Super.2010). Our standard of review is whether the trial court committed an abuse of discretion. Id.\nAppellant objected after the prosecutor stated, \u201cLadies and gentleman, I wish that I could tell Joe Pokorny\u2019s mom that he didn\u2019t suffer. I wish I could tell his daughter and his son that he died quickly.\u201d N.T., 10/23/07, at 162. The trial court overruled the objection and the prosecutor continued stating:\nbut I can\u2019t do that because it\u2019s not true. And we know from Dr. Rozin, in his own terms, that the last few minutes of Joe Pokorny\u2019s life were agonal. He choked on his own blood. You can\u2019t clean that up and you can\u2019t polish it up and you can\u2019t put a bow around it and make it not what it is. It is what it is. He died horribly.\nThe only thing I can tell them is that Joe Pokorny died doing his job. He died alone in the dark, in the snow, protecting people like you and me from people like that.\nSo when you go back there to that jury room and you decide and you think about all of the choices that [Appellant] made to kill Corporal Pokorny and you think about all of the chances that [Appellant] didn\u2019t take to run away from the very beginning, to bolt when the mace was in Joe\u2019s eyes like Peterson and [James] did, when you think about the decision that he made not to run away after the first shot, when Joe Pokorny was on his knees with his hands up in the air, when you think about the decision that he made to do that and put that second bullet in his body, you think about the fact that there are people who care about Joe Pokorny and there are people that care about the job that he was doing.\nN.T., 10/23/07, at 162-164. Counsel did not object to the prosecutor\u2019s reference that people cared about Joe Pokorny and the job he was doing. The argument leveled by Appellant is that the prosecutor\u2019s remarks \u201ccrossed the line of permissible advocacy, and instead called on the jurors to convict based upon emotion.\u201d Appellant\u2019s brief at 108. In support of his position, Appellant references Commonwealth v. Cherry, 474 Pa. 295, 378 A.2d 800 (1977) and Commonwealth v. Harvell, 458 Pa. 406, 327 A.2d 27 (1974).\nIn Cherry, our Supreme Court overturned a defendant\u2019s conviction of first degree murder, attempted aggravated robbery, and conspiracy based on a prosecutor\u2019s remarks during closing statements wherein the prosecutor asked the jurors to place themselves in the shoes of one of the victim\u2019s of the crime and to judge the credibility of that witness based on the possibility that they could one day be a victim of robbery, burglary, or rape. The prosecutor also asked the jury to send a message to the people of Philadelphia that \u201cwild west\u201d shootings would not be tolerated.\nSimilarly, the Court in Harvell reversed a conviction for first degree murder, aggravated robbery, and conspiracy to commit robbery-murder due to the prosecutor\u2019s closing argument. The improper comments in Harvell included a plea to the jury not to be fooled because they could be the victims the next time. In addition, the prosecutor\u2019s improprieties included a lengthy discussion with respect to the general fear crime creates in the community and hypothetical statements the victim would have made had he not been deceased.\nIn the present case, the Commonwealth asserts that the comments were \u201can appropriate inference drawn from the evidence presented.\u201d Commonwealth\u2019s brief at 111. Further, the Commonwealth avers that any possible prejudice was cured by the trial court\u2019s instruction to the jury that counsel\u2019s arguments are not evidence. We find Appellant\u2019s case distinguishable from Cherry and Harvell, supra. The prosecutor did not ask the jurors to imagine themselves as a victim of a crime or instruct the jury to send a message to the community at large. Nor did the prosecutor\u2019s comments reference hypothetical remarks that Corporal Pokorny would have made. Instantly, the prosecutor tied the portions of his argument back to the evidence adduced at trial.\nThe Commonwealth presented evidence in the nature of testimony from Dr. Rozin that Corporal Pokorny suffered agony pri- or to his death. These comments emanated from Dr. Rozin\u2019s explanation that the first shot to Corporal Pokorny\u2019s chest would have caused him difficulty breathing because of blood aspiration. The prosecutor referred to the evidence that Appellant did not run away when he first had the chance after the pepper spray flew back into the trooper\u2019s face, as well as the fact that Appellant fired a second shot when the first shot had already incapacitated Corporal Pokorny.\nIt is well established that commenting on evidence is permissible. See Commonwealth v. Washington, 549 Pa. 12, 700 A.2d 400 (1997). In addition, the trial court instructed the jury that the closing statements of counsel were not evidence. Juries are presumed to follow a court\u2019s instructions. Commonwealth v. LaCava, 542 Pa. 160, 666 A.2d 221, 234 (1995). Hence, the trial court did not err in not declaring a mistrial based on the objection to these comments. Additionally, since counsel did not object to the Commonwealth\u2019s statement, \u201cthink about the fact that there are people who care about Joe Pokorny and there are people that care about the job that he was doing,\u201d that issue is waived. Pa.R.A.P. 302(a).\nThe final claim argued by Appellant is that the evidence was insufficient to prove he fired the gun that caused Corporal Pokorny\u2019s death and that his actions were willful, deliberate, and premeditated. In reviewing a sufficiency of the evidence claim, our standard of review is well settled. We must determine whether the evidence admitted at trial, and all reasonable inferences drawn therefrom, when viewed in a light most favorable to the Commonwealth as verdict winner, support the conviction beyond a reasonable doubt. Commonwealth v. Sibley, 972 A.2d 1218 (Pa.Super.2009). Where there is sufficient evidence to enable the trier of fact to find every element of the crime has been established beyond a reasonable doubt, the sufficiency of the evidence claim must fail. Id.\nThe evidence established at trial need not preclude every possibility of innocence and the fact-finder is free to believe all, part, or none of the evidence presented. Id. It is not within the province of this Court to re-weigh the evidence and substitute our judgment for that of the fact-finder. Commonwealth v. Jones, 954 A.2d 1194 (Pa.Super.2008). The Commonwealth\u2019s burden may be met by wholly circumstantial evidence and \u201cany doubt about the defendant\u2019s guilt is to be resolved by the fact finder unless the evidence is so weak and inconclusive that, as a matter of law, no probability of fact can be drawn from the combined circumstances.\u201d Commonwealth v. Sinnott, 976 A.2d 1184, 1187 (Pa.Super.2009).\nEvidence is sufficient to sustain a conviction for first-degree murder where the Commonwealth establishes that a human being was unlawfully killed; that the accused is responsible for the killing; and that the accused acted with specific intent. 18 Pa.C.S. \u00a7 2502(a); Commonwealth v. Spotz, 563 Pa. 269, 759 A.2d 1280, 1283 (2000). An intentional killing is a \u201cMilling by means of poison, or by lying in wait, or any other kind of willful, deliberate and premeditated killing.\u201d 18 Pa.C.S. \u00a7 2502(d). The Commonwealth can prove this specific intent to kill from circumstantial evidence. Commonwealth v. Brown, 551 Pa. 465, 711 A.2d 444 (1998).\nTharp, supra at 523-524. Further, specific intent may be formed in an instant. Commonwealth v. Donnelly, 439 Pa.Super. 70, 653 A.2d 35 (1995).\nThe evidence adduced at Appellant\u2019s trial demonstrated that Appellant struggled with Corporal Pokorny, fired a shot into his chest which rendered Corporal Pokor-ny incapable of defending himself, and then fired a second round into Corporal Pokorny\u2019s head while the trooper was defenseless and on his knees. Appellant fired the second shot while holding the firearm within three to nine inches of the incapacitated trooper\u2019s head. Accordingly, we find that the Commonwealth presented sufficient evidence to establish beyond a reasonable doubt that Appellant was the shooter and had specific intent to kill Corporal. Pokorny. See Commonwealth v. Reed, 990 A.2d 1158, 1162 (Pa.2010) (finding close-range shot to the head is indicative of the requisite malice and specific intent to kill).\nJudgment of sentence affirmed.\n. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).\n. The reference to page 58 includes a statement made by the prosecutor to Mr. Peterson regarding Mr. Peterson\u2019s prior statement to police. The prosecutor\u2019s statement is not evidence, but the citation to the notes of testimony at page 167, which refers to the audiotape of Mr. Peterson's interview, does not include a transcription of what the jury heard. The parties supplemented the record with a transcription of Mr. Peterson's interview, which includes the statement at issue.\n. Charles Peterson was deceased at the time of trial and could neither confirm nor deny whether he was in the car when Trooper Pokorny effectuated the traffic stop.\n. The rule provides:\n(b) Other crimes, wrongs, or acts.\n(1) Evidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show action in conformity therewith.\n(2) Evidence of other crimes, wrongs, or acts may be admitted for other purposes, such as proof of motive, opportunity, intent, preparation, plan, knowledge, identity or absence of mistake or accident.\n(3) Evidence of other crimes, wrongs, or acts proffered under subsection (b)(2) of this rule may be admitted in a criminal case only upon a showing that the probative value of the evidence outweighs its potential for prejudice.\n(4)In criminal cases, the prosecution shall provide reasonable notice in advance of trial, or during trial if the court excuses pretrial notice on good cause shown, of the general nature of any such evidence it intends to introduce at trial.\nPa.R.E. 404(b).\n. U.S. Const. Amend. VI; Pa. Const, art. I, \u00a7 9. Prior to 2003, the Pennsylvania Constitution provided broader language in the relevant section regarding the confrontation right. However, the Pennsylvania Constitution was amended in 2003 to track the language of the federal constitution. Accordingly, our Confrontation Clause analysis, in the present case, is the same for both the United States Constitution and the Pennsylvania Constitution.\n. The definition of an excited utterance is contained in Pa.R.E. 803(2). The rule provides that an excited utterance is \"A statement relating to a startling event or condition made while the declarant was under the stress of excitement caused by the event or condition.\u201d Pa.R.E. Rule 803(2).",
+        "type": "majority",
+        "author": "BOWES, J.:"
+      }
+    ],
+    "attorneys": [
+      "Suzanne M. Swan, Chief Public Defender and Frank W. Ralph, Public Defender, for appellant.",
+      "Karen Edwards, Asst. Dist. Atty., Pittsburgh, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Leslie Denier MOLLETT, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted June 14, 2010.\nFiled Aug. 17, 2010.\nSuzanne M. Swan, Chief Public Defender and Frank W. Ralph, Public Defender, for appellant.\nKaren Edwards, Asst. Dist. Atty., Pittsburgh, for Com., appellee.\nBEFORE: BOWES, GANTMAN, and PANELLA, JJ."
+  },
+  "file_name": "0291-01",
+  "first_page_order": 321,
+  "last_page_order": 344
+}

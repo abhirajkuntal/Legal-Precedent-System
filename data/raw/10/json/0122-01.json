@@ -1,0 +1,318 @@
+{
+  "id": 7282975,
+  "name": "Rachel Y. LAWLER, Brian A. Buckley, Annelie Z. Shockley, John M. Payden-Travers, Thomas W. Muther, Jr., and Ronald W. Kaz, Appellants v. UNITED STATES, Appellee",
+  "name_abbreviation": "Lawler v. United States",
+  "decision_date": "2010-12-16",
+  "docket_number": "Nos. 07-CM-803, 07-CM-1000, 07-CM-1005, 07-CM-1006, 07-CM-1007, 07-CM-1022",
+  "first_page": "122",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 122"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 9509,
+    "name": "United States Court of Appeals for the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "116 Stat. 1183",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 U.S.C. \u00a7 6134",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "490 U.S. 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        604961
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "554",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0545-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11468930
+      ],
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0310-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 397",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214891
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "404"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0397-01"
+      ]
+    },
+    {
+      "cite": "498 U.S. 192",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221945
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "199",
+          "parenthetical": "ignorance of the law is no defense to a criminal prosecution"
+        },
+        {
+          "parenthetical": "ignorance of the law is no defense to a criminal prosecution"
+        },
+        {
+          "parenthetical": "ignorance of the law is no defense to a criminal prosecution"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0192-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 171",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298296
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "181"
+        },
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0171-01"
+      ]
+    },
+    {
+      "cite": "521 A.2d 1140",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7897202
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1144"
+        },
+        {
+          "page": "1144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/521/1140-01"
+      ]
+    },
+    {
+      "cite": "919 A.2d 1127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8329592
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1129"
+        },
+        {
+          "page": "1130"
+        },
+        {
+          "page": "1129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/919/1127-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 666",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11504173
+      ],
+      "weight": 5,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "682"
+        },
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0666-01"
+      ]
+    },
+    {
+      "cite": "741 A.2d 18",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11648913
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "20"
+        },
+        {
+          "page": "23"
+        },
+        {
+          "page": "22"
+        },
+        {
+          "page": "19"
+        },
+        {
+          "page": "19"
+        },
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/741/0018-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 37",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189226
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/0037-01"
+      ]
+    },
+    {
+      "cite": "40 U.S.C. \u00a7 6135",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 6,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 792,
+    "char_count": 15030,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 2.3307493468352103e-07,
+      "percentile": 0.7910714099547889
+    },
+    "sha256": "808ae966b1722650aff8adedb26c9c9e5ff9e5fa8d3f74cafaac581b3cc903bb",
+    "simhash": "1:145998d16b173acc",
+    "word_count": 2463
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WASHINGTON, Chief Judge, REID, Associate Judge, and TERRY, Senior Judge."
+    ],
+    "parties": [
+      "Rachel Y. LAWLER, Brian A. Buckley, Annelie Z. Shockley, John M. Payden-Travers, Thomas W. Muther, Jr., and Ronald W. Kaz, Appellants v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "TERRY, Senior Judge:\nThe six appellants went to the plaza in front of the Supreme Court building and there unfurled a large banner displaying a message in opposition to the death penalty. After receiving warnings from the police that their conduct was illegal, appellants were arrested. They were then tried for, and convicted of, violating 40 U.S.C. \u00a7 6135, which prohibits parades, assemblages, and displays of flags and banners in the Supreme Court building and on the Supreme Court grounds. Concluding that appellants\u2019 constitutional rights were in no way violated and that they were properly convicted under the plain language of the statute, we affirm all six convictions.\nI\nOn the morning of January 17, 2007, the six appellants were standing with a group of people in front of the Supreme Court, waiting in line to be admitted to the building to hear oral arguments. At 10:46 a.m., Officer Timothy Quigley of the Supreme Court Police saw appellants step out of line on the plaza and unfurl a large banner that read \u201cSTOP EXECUTIONS.\u201d Each appellant stood behind the banner and joined in a chant, saying, \u201cWhat do we want? Abolition. When do we want it? Now.\u201d Between 10:48 and 10:50 a.m., the Chief of the Supreme Court Police issued two verbal warnings to appellants that they were \u201cin violation of Title 40\u201d and that they would be arrested if they did not cease their actions. However, even after a third warning, \u201cthey continued to chant and hold the banners.\u201d Officer Quigley and the Chief of Police then informed appellants that they were under arrest \u201cfor violation of Title 40 of the U.S.Code.\u201d The next day, January 18, the United States filed separate informations charging each appellant with one count of violating 40 U.S.C. \u00a7 6135. In due course, after a one-day non-jury trial, Judge Diaz of the Superior Court found all six appellants guilty as charged and sentenced them to time served. These appeals followed.\nII\nAppellants argue that their convictions under 40 U.S.C. \u00a7 6135 violate the First Amendment because their freedom of expression was infringed and because they were not informed of alternate means of expression open to them. The degree to which a government restriction on the freedom of expression is permitted depends, to some extent, on the type of forum at issue. In a \u201cpublic forum,\u201d any attempt by the government to restrict speech will be subject to a strict level of scrutiny. Perry Education Ass\u2019n v. Perry Local Educators\u2019 Ass\u2019n, 460 U.S. 37, 45, 103 S.Ct. 948, 74 L.Ed.2d 794 (1983); Bonowitz v. United States, 741 A.2d 18, 20 (D.C.1999). In a \u201cnon-public forum,\u201d however, the government is permitted to place reasonable restrictions on speech so long as the restrictions are not content-based. Arkansas Educational Television Comm\u2019n v. Forbes, 523 U.S. 666, 682, 118 S.Ct. 1633, 140 L.Ed.2d 875 (1998); Bonowitz, 741 A.2d at 23. This court has held that the Supreme Court plaza is a non-public forum for First Amendment purposes. Potts v. United States, 919 A.2d 1127, 1129 (D.C.2007) (citing Bonowitz, 741 A.2d at 22). Further, we have concluded that 40 U.S.C. \u00a7 13k \u2014 the predecessor statute to 40 U.S.C. \u00a7 6135 \u2014 placed a reasonable restriction on speech. United States v. Wall, 521 A.2d 1140, 1144 (D.C.1987). Finally, the Supreme Court has held that this restriction on processions and assemblages, while lawfully applied to the plaza, may not be applied to the public sidewalk adjacent to it. United States v. Grace, 461 U.S. 171, 181, 103 S.Ct. 1702, 75 L.Ed.2d 736 (1983).\nThe case law provides no support for appellants\u2019 argument that a person violating section 6135 must be offered an alternative location for conducting his activities (e.g., the nearby sidewalk) before being arrested. To the contrary, controlling precedent \u2014 and common sense \u2014 make clear that such a warning is not required. In Potts we rejected the appellants\u2019 contention that they were not given adequate warning to desist before being arrested under section 6135, holding that \u201cthe issue is immaterial; since the statute was not vague, but gave appellants fair warning that their conduct was prohibited, they were not entitled to other warnings.\u201d Potts, 919 A.2d at 1131 n. 3. In other words, the statute is constitutional on its face because it gives sufficient notice to any person regarding the type of conduct that it prohibits. In such circumstances, no further warning is required. In Bonowitz the protesters were arrested after the police merely issued a verbal warning, handed the protesters \u201ca small card which outlined the contents of [the statute], and [gave] them an opportunity to desist....\u201d 741 A.2d at 19. There was no indication that the protesters were informed they could move to the nearby sidewalk if they so chose, even though they plainly could have avoided arrest by doing so. We nevertheless affirmed all of their convictions.\nIn the case before us, the officers gave the appellants ample opportunity to move to the sidewalk, or any other place where they might have chosen to voice their concerns legally, by issuing multiple warnings to them over a period of several minutes before any arrests were made. The fact that appellants claimed ignorance of the fact that their actions would have been legal on the public sidewalk, just a few feet away, does not diminish the reasonableness of the statute\u2019s application as a restriction on speech in the non-public forum of the plaza. See Wall, 521 A.2d at 1144; see also Cheek v. United States, 498 U.S. 192, 199, 111 S.Ct. 604, 112 L.Ed.2d 617 (1991) (ignorance of the law is no defense to a criminal prosecution).\nAppellants argue nevertheless that their convictions amounted to an impermissible, content-based restriction on their constitutional right of free speech. See Forbes, 523 U.S. at 682, 118 S.Ct. 1633. They assert that they \u201cwere arrested because of the message they were communicating.\u201d They base this contention on the fact that there were other people standing on the plaza that day, waiting to enter the Court building to hear oral arguments, but those people were not arrested. Contrary to appellants\u2019 assertion, however, the record does not support the claim that the Supreme Court Police targeted appellants\u2019 group because of the particular message they espoused. Indeed, Officer Quigley testified without contradiction that he enforced the statute even-handedly. On cross-examination, when asked whether \u201ctour groups\u201d were allowed to \u201ccome through on the plaza and ... sometimes carry signs advertising their agency,\u201d Officer Quigley replied:\nNo.... If anyone carries or unfurls any kind of banner or sign on the plaza, they\u2019re told to remove it.... They\u2019re told they cannot carry a sign at all whatsoever, regardless of what it says, on the plaza. [Emphasis added.]\nThe evidence established that these appellants and their co-defendants were the only persons arrested because they were the only ones violating section 6135.\nAppellants maintain that there was insufficient evidence that their conduct was reasonably prohibited by the statute. Their argument is twofold. First, they contend that it is not clear that their banner was \u201cdesigned or adapted to bring into public notice a party, organization, or movement.\u201d Second, they assert that because the statute was amended in 2002 (see note 3, supra) to prohibit signs and banners \u201cin the Building and grounds\u201d of the Court, rather than \u201cin the Building or grounds\u201d of the Court, which is what the previous statute said, they could have been in violation of the law only if they displayed their banner both in the Building and on the grounds. As to the first argument, the Supreme Court has construed the language of the statute broadly, stating that \u201calmost any sign or leaflet carrying a communication, including [one defendant\u2019s] picket sign and [another defendant\u2019s] leaflets, would be \u2018designed or adapted to bring into public notice a party, organization or movement.\u2019 \u201d Grace, 461 U.S. at 176, 103 S.Ct. 1702 (quoting 40 U.S.C. \u00a7 13k). While the defendants in Grace did not contest this point, the appellants in Potts did present a similar challenge to the supposed breadth of the statute, which we rejected. There we held:\nWhether appellants\u2019 display was expressive conduct to which the statute applied turned on whether an \u201cintent to convey a particularized message was present, and [whether] the likelihood was great that the message would be understood by those who viewed it.\u201d\nPotts, 919 A.2d at 1130 (quoting Texas v. Johnson, 491 U.S. 397, 404, 109 S.Ct. 2533, 105 L.Ed.2d 342 (1989)). Appellants\u2019 actions here, in displaying a large banner to convey the message that the death penalty should be abolished, clearly fell within the reach of the statute, as Potts (among other cases) makes clear.\nAppellants\u2019 second argument based on the language of the statute also fails. They claim that the change from the disjunctive \u201cor\u201d to the conjunctive \u201cand\u201d in the language proscribing the display of banners and flags in the \u201cBuilding and grounds\u201d means that, in order to be guilty under the current version of the statute, a person must display a banner or flag both in the Building and on the grounds of the Supreme Court. However, we have examined the statute both before and after the 2002 amendment and found no significance in the altered language. In Potts the evidence showed that the protesters were on the plaza and never in the building itself. 919 A.2d at 1129. In Bonowitz, although the defendants were able to get as far as the stairs leading from the plaza to the main entrance to the building, they likewise never made it into the building before they were arrested and charged under the predecessor statute. 741 A.2d at 19. In neither case \u2014 one pre-amendment, one post-amendment \u2014 did we find it relevant that the defendants never actually entered the building. We are also mindful of the fact that \u201cand\u201d can at times be used dis-junctively. See Farnsworth, Contracts \u00a7 7.8 (3d ed. 1999); see also Sisters of the Good Shepherd v. District of Columbia, 746 A.2d 310, 313 (D.C.2000) (noting that in interpreting statutes, this court has \u201chad occasion to read \u2018and\u2019 as \u2018or\u2019 ... to avoid an absurd result and \u2018to follow the legislative intent\u2019 \u201d).\nThe clear indication from the legislative history is that no change in the substance or scope of the statute was intended by the 2002 amendment. H.R. Rep. No. 107-479, 2002 U.S.C.C.A.N. 827, at 828 (2002), states: \u201cAlthough changes are made in language [of the statute], no substantive changes in the law are made.\u201d Further, \u201c[u]nder established canons of statutory construction, \u2018it will not be inferred that Congress, in revising and consolidating the laws, intended to change their effect unless such intention is clearly expressed.\u2019 \u201d Finley v. United States, 490 U.S. 545, 554, 109 S.Ct. 2003, 104 L.Ed.2d 593 (1989) (citations omitted). Here, contrary to appellants\u2019 argument, Congress has expressly declared its intent that the meaning and scope of the statute not be changed, and it cannot be disputed that reading the statutory language in the manner that appellants urge would effect a fundamental change in the statute\u2019s reach. Given the clear evidence of congressional intent, as well as the case law illustrating how the statute has been applied both before and after the 2002 amendment, we hold that the amendment did not effect a change in the statute\u2019s meaning and that the appellants\u2019 conduct of displaying a banner on the Supreme Court plaza was plainly prohibited by 40 U.S.C. \u00a7 6135.\nThe judgments of conviction in all six cases are therefore\nAffirmed.\n. Appellants were also charged with violating 40 U.S.C. \u00a7 6134, which bans \"firearms, fireworks, speeches, and objectionable language\u201d in the building and on the grounds of the Supreme Court. Those charges were dismissed before trial.\n. Two additional co-defendants, Scott Langley and Elizabeth Brockman, were similarly charged, tried, and convicted, but they did not appeal from their convictions. A third co-defendant, Franklin Dew, pleaded guilty before trial.\n. 40 U.S.C. \u00a7 6135, in its present form, was enacted in 2002 as part of a general revision of Title 40 of the United States Code. See Pub.L. No. 107-217, \u00a7 1, 116 Stat. 1183 (2002). Section 6135 provides in its entirety:\nIt is unlawful to parade, stand, or move in processions or assemblages in the Supreme Court Building or grounds, or to display in the Building and grounds a (lag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.\nThe predecessor statute, 40 U.S.C. \u00a7 13k (2000), which section 6135 replaced, stated:\nIt shall be unlawful to parade, stand, or move in processions or assemblages in the Supreme Court Building or grounds, or to display therein any flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.\n. We note, moreover, that appellant Muther was one of the protesters convicted in the Bonowitz case, which certainly suggests that he must have known that his conduct on this occasion was in violation of the law. In addition, appellant Kaz testified at trial that he was aware of the law at the time of his actions.\n. Further, an argument identical to that made by appellants here was presented and rejected in Bonowitz because, in that case as in this one, there was simply no evidence that the officers targeted the defendants on account of their views on the death penalty. See Bonowitz, 741 A.2d at 23.\n. Appellants' argument that they \"held up their banner to express their own personal views, and not to bring into notice any movement or organization,\u201d is not supported by the record. In addition to the surrounding circumstances, which objectively showed that these appellants were trying to bring their message into public view, appellant Shockley testified, \"I intended for everyone to see that sign. I wanted, I wanted the Supreme Court justices to read in the newspaper that I am asking them not to kill in my name.\u201d Further, appellant Lawler, in her oral motion for a judgment of acquittal, summarized the evidence by saying, \"The testimony from both defendants [who testified] indicates that they were there to petition for the redress of grievances and that was the purpose of the banner ...[Emphasis added.]",
+        "type": "majority",
+        "author": "TERRY, Senior Judge:"
+      }
+    ],
+    "attorneys": [
+      "Mark L. Goldstone, Washington, DC, appointed by the court, was on the brief for appellants.",
+      "Jeffrey A. Taylor, United States Attorney at the time the brief was filed, and Roy W. McLeese, III, Todd Gee, and Michael T. Ambrosino, Assistant United States Attorneys, were on the brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Rachel Y. LAWLER, Brian A. Buckley, Annelie Z. Shockley, John M. Payden-Travers, Thomas W. Muther, Jr., and Ronald W. Kaz, Appellants v. UNITED STATES, Appellee.\nNos. 07-CM-803, 07-CM-1000, 07-CM-1005, 07-CM-1006, 07-CM-1007, 07-CM-1022.\nDistrict of Columbia Court of Appeals.\nSubmitted Nov. 24, 2009.\nDecided Dec. 16, 2010.\nMark L. Goldstone, Washington, DC, appointed by the court, was on the brief for appellants.\nJeffrey A. Taylor, United States Attorney at the time the brief was filed, and Roy W. McLeese, III, Todd Gee, and Michael T. Ambrosino, Assistant United States Attorneys, were on the brief for appellee.\nBefore WASHINGTON, Chief Judge, REID, Associate Judge, and TERRY, Senior Judge."
+  },
+  "file_name": "0122-01",
+  "first_page_order": 156,
+  "last_page_order": 161
+}

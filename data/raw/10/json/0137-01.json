@@ -1,0 +1,737 @@
+{
+  "id": 7283070,
+  "name": "Casey HAMPLETON, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Hampleton v. United States",
+  "decision_date": "2010-12-23",
+  "docket_number": "No. 07-CF-343",
+  "first_page": "137",
+  "last_page": "146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 9509,
+    "name": "United States Court of Appeals for the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "902 A.2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8411534
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "90",
+          "parenthetical": "holding that \"the successive voluntary acts of possession did not merge\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/902/0088-01"
+      ]
+    },
+    {
+      "cite": "597 A.2d 884",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11944516
+      ],
+      "pin_cites": [
+        {
+          "page": "889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/597/0884-01"
+      ]
+    },
+    {
+      "cite": "311 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8036069
+      ],
+      "pin_cites": [
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/311/0838-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 621",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11320254
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "624-26",
+          "parenthetical": "holding that a seizure occurs when a police officer makes a show of authority to which a suspect yields"
+        },
+        {
+          "parenthetical": "holding that a seizure occurs when a police officer makes a show of authority to which a suspect yields"
+        },
+        {
+          "parenthetical": "holding that a seizure occurs when a police officer makes a show of authority to which a suspect yields"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0621-01"
+      ]
+    },
+    {
+      "cite": "383 A.2d 363",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7983900
+      ],
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/383/0363-01"
+      ]
+    },
+    {
+      "cite": "952 A.2d 156",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8180305
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/952/0156-01"
+      ]
+    },
+    {
+      "cite": "730 A.2d 145",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11607704
+      ],
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/730/0145-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 1100",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8990342
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1106"
+        },
+        {
+          "page": "1106"
+        },
+        {
+          "page": "1107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/892/1100-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 1034",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11190318
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1035"
+        },
+        {
+          "page": "1037",
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/1034-01"
+      ]
+    },
+    {
+      "cite": "871 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8978473
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/871/0498-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 543",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178901
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The logic of such elaborate less-restrictive-alternative arguments could raise insuperable barriers to the exercise of virtually all search-and-seizure powers.\""
+        },
+        {
+          "parenthetical": "\"The logic of such elaborate less-restrictive-alternative arguments could raise insuperable barriers to the exercise of virtually all search-and-seizure powers.\""
+        },
+        {
+          "parenthetical": "\"The logic of such elaborate less-restrictive-alternative arguments could raise insuperable barriers to the exercise of virtually all search-and-seizure powers.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0543-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 675",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300009
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "686"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0675-01"
+      ]
+    },
+    {
+      "cite": "623 A.2d 1170",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371776
+      ],
+      "pin_cites": [
+        {
+          "page": "1173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/623/1170-01"
+      ]
+    },
+    {
+      "cite": "803 A.2d 983",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11451057
+      ],
+      "pin_cites": [
+        {
+          "page": "995"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/803/0983-01"
+      ]
+    },
+    {
+      "cite": "770 A.2d 66",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11098665,
+        11098553
+      ],
+      "pin_cites": [
+        {
+          "page": "72-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/770/0066-02",
+        "/a2d/770/0066-01"
+      ]
+    },
+    {
+      "cite": "976 A.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7296906
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/0907-01"
+      ]
+    },
+    {
+      "cite": "98 F.3d 1379",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7652305,
+        3696877
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1382-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/98/1379-01",
+        "/us-app-dc/321/0216-01"
+      ]
+    },
+    {
+      "cite": "321 U.S.App. D.C. 216",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3696877
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "219-22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/321/0216-01"
+      ]
+    },
+    {
+      "cite": "729 A.2d 334",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11615056
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "340"
+        },
+        {
+          "page": "340"
+        },
+        {
+          "page": "340"
+        },
+        {
+          "page": "340-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/729/0334-01"
+      ]
+    },
+    {
+      "cite": "496 U.S. 325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12122945
+      ],
+      "weight": 3,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0325-01"
+      ]
+    },
+    {
+      "cite": "449 U.S. 411",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716341
+      ],
+      "weight": 6,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "418"
+        },
+        {
+          "page": "418",
+          "parenthetical": "quoting Terry v. Ohio, 392 U.S. at 21 n. 18, 88 S.Ct. 1868"
+        },
+        {
+          "parenthetical": "quoting Terry v. Ohio, 392 U.S. at 21 n. 18, 88 S.Ct. 1868"
+        },
+        {
+          "parenthetical": "quoting Terry v. Ohio, 392 U.S. at 21 n. 18, 88 S.Ct. 1868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0411-01"
+      ]
+    },
+    {
+      "cite": "618 A.2d 96",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7350340
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/618/0096-01"
+      ]
+    },
+    {
+      "cite": "534 U.S. 266",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9108176
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/534/0266-01"
+      ]
+    },
+    {
+      "cite": "614 A.2d 534",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7930322
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "537"
+        },
+        {
+          "page": "539-42"
+        },
+        {
+          "page": "540",
+          "parenthetical": "\"[T]he kind of dragnet seizure of three youths who resembled a generalized description cannot be squared with the longstanding requirement for particularized, individualized suspicion.\""
+        },
+        {
+          "page": "536",
+          "parenthetical": "quoting 1 W. LaFave, Search and Seizure \u00a7 3.4(c), at 741 (2d ed. 1987)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/614/0534-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605100
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "7"
+        },
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0001-01"
+      ]
+    },
+    {
+      "cite": "699 A.2d 1125",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11912466
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1128"
+        },
+        {
+          "page": "1128"
+        },
+        {
+          "page": "1127"
+        },
+        {
+          "page": "1129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/699/1125-01"
+      ]
+    },
+    {
+      "cite": "88 S.Ct. 1868",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 7,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "856 A.2d 616",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9206156
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "619",
+          "parenthetical": "quoting Terry, 392 U.S. at 21, 88 S.Ct. 1868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/856/0616-01"
+      ]
+    },
+    {
+      "cite": "597 A.2d 1318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11947884
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1320",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/597/1318-01"
+      ]
+    },
+    {
+      "cite": "673 A.2d 603",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862708
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "607"
+        },
+        {
+          "page": "613",
+          "parenthetical": "whether there is a \" 'least intrusive' alternative available to the officers ... is not the appropriate Fourth Amendment inquiry\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/673/0603-01"
+      ]
+    },
+    {
+      "cite": "517 U.S. 690",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11746351
+      ],
+      "weight": 5,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "699"
+        },
+        {
+          "page": "700"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0690-01"
+      ]
+    },
+    {
+      "cite": "590 A.2d 1008",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7375565
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1020"
+        },
+        {
+          "page": "1014"
+        },
+        {
+          "page": "1017"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/590/1008-01"
+      ]
+    },
+    {
+      "cite": "972 A.2d 821",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297315
+      ],
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/972/0821-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1345,
+    "char_count": 30928,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 8.39413789227168e-08,
+      "percentile": 0.4823464611257259
+    },
+    "sha256": "1df8359cc34e108e6c5418e0211610da61480bf49c3888d62437829b53f9a25c",
+    "simhash": "1:1f883767b5f9d3fa",
+    "word_count": 5071
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID and FISHER, Associate Judges, and KING, Senior Judge."
+    ],
+    "parties": [
+      "Casey HAMPLETON, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Associate Judge:\nAfter the trial court denied his motions to suppress, a jury convicted appellant Casey Hampleton of three counts of armed robbery, three counts of possession of a firearm during a crime of violence, and one count of unauthorized use of a motor vehicle. On appeal, he argues that show-up identifications and certain physical evidence should have been suppressed as the fruit of an illegal seizure. He further argues that his convictions for possession of a firearm during a crime of violence should merge. We agree with appellant\u2019s merger argument, but otherwise affirm.\nI. Overview of the Case\nOn May 11, 2006, three people were robbed at gunpoint by five men who were traveling in a stolen car. The robbers fled the scene in the car, were chased by police, and crashed into a tree before bailing out and scattering into the surrounding neighborhood. Approximately thirty minutes after the robbery, a police officer saw Casey Hampleton walking up North Capitol Street a quarter of a mile from the scene of the bailout, talking on a cell phone. Because Mr. Hampleton matched a general description of the robbers, the officer performed a Terry stop. Soon thereafter, Mr. Hampleton was arrested and charged in the robbery. The jury in Mr. Hample-ton\u2019s first trial deadlocked as to all counts, but in November 2006 a second jury found him guilty of the charges listed above. This appeal followed.\nII. Factual and Procedural Background\nA. The Evidence at the Suppression Hearing\nViewed in the light most favorable to sustaining the trial court\u2019s ruling, the evidence showed the following. At approximately 10:00 p.m. on May 11, 2006, Silas Eng, Nathan Ford, and Christopher Kas-tronis were walking to a nightclub in northeast Washington, D.C., when at least five men jumped out of a black Jeep Liberty and robbed them at gunpoint. The robbers took cash from Mr. Eng and Mr. Ford, and cash, a cell phone, and a bank card from Mr. Kastronis. They also attempted to force Mr. Kastronis into their Jeep at gunpoint, in order to take him to an ATM to withdraw money. Fearing the arrival of the police, however, the robbers soon abandoned this effort and drove off. Mr. Eng, Mr. Ford, and Mr. Kastronis ran to the nightclub and reported the robbery to two police officers who were parked outside.\nThe officers broadcast a lookout for five or six \u201cblack males\u201d in \u201cdark clothing\u201d riding in a black Jeep Liberty with Virginia tags. Within \u201ctwo, three minutes\u201d of the lookout, Officer Michael Jenkins and his partner spotted the Jeep Liberty and attempted to stop it. The occupants of the Jeep \u201ccontinued at a high rate of speed in [an] attempt to flee,\u201d and the officers chased them for \u201cfive minutes or less.\u201d The Jeep then crashed into a tree near Second and Taylor Streets, N.E., and the officers saw five suspects bail out of the vehicle and flee. One suspect \u201cran into the woods\u201d while four others ran off \u201cin a bunch\u201d toward the grounds of the nearby Archbishop Carroll High School.\nOfficers \u201ccordoned off\u2019 a perimeter around the area, and additional police officers responded \u201cto canvass the area.\u201d At Mr. Hampleton\u2019s suppression hearing, the government played a recording of radio broadcasts related to the police search. The trial court noted for the record that the recording sounded \u201cfairly chaotic\u201d and that there were \u201cdifferent officers on the scene ... chasing ... several individuals in the Archbishop Carroll location who seem to be moving in different directions.\u201d At the end of the recording, \u201cOfficer Antoine\u2019s voice [came] over the radio.\u201d\nAnother one of the officers, Officer Nef-fon, was stationed on Scale Gate Road Bridge overlooking North Capitol Street. Officer Neffon broadcast a lookout that she had observed \u201cblack males ... wearing dark clothing\u201d attempting to climb over the fence of Archbishop Carroll High School from the school grounds onto North Capitol Street. She further noted that, after seeing her cruiser, the individuals abandoned their attempt and retreated back inside the school grounds.\nOfficer Lennox Antoine heard Officer Neffon\u2019s broadcast as he was driving in a marked police cruiser southbound down North Capitol Street in response to the robbery lookout. Within a few seconds of Officer Neffon\u2019s broadcast and approximately 10 to 15 minutes after the bailout, Officer Antoine saw Mr. Hampleton walking in the 3700 block of North Capitol Street. Mr. Hampleton was on the other side of North Capitol Street from the Archbishop Carroll High School, near the exit ramp to Scale Gate Road. He was walking northbound up North Capitol Street toward Fort Drive. At Mr. Ham-pleton\u2019s suppression hearing, Officer Antoine testified that, because \u201c[tjhere\u2019s no sidewalk on North Capitol Street,\u201d Mr. Hampleton was walking along a \u201cgrassy area.\u201d Officer Antoine also testified that he did not see anyone else in or around the area. Mr. Hampleton was wearing dark clothing and appeared to be talking on a cell phone.\nUpon seeing Mr. Hampleton, Officer Antoine \u201cimmediately pulled to the curb ... put [his] spotlight on him ... exit[ed the] vehicle [and] order[ed] him to lay on the ground.\u201d Mr. Hampleton complied, and Officer Antoine handcuffed him and patted him down for weapons. Officer Antoine then placed his hand on Mr. Hampleton\u2019s chest and concluded that \u201chis heart rate was not normal\u201d and that \u201che was breathing heavy,\u201d which led Officer Antoine to believe that Mr. Hampleton had been running. In Mr. Hampleton\u2019s pockets, Officer Antoine found \u201capproximately four cell phones,\u201d including one belonging to Mr. Kastronis, and Mr. Kastronis\u2019s cash card. When Officer Antoine asked where the card came from, Mr. Hampleton stated that he \u201cfound it.\u201d\nOfficer Antoine then radioed the police dispatcher for further information on Mr. Hampleton and discovered that he was \u201cwanted from the Fifth District on two outstanding warrants for robbery.\u201d Two officers who had witnessed the crash of the Jeep came to the scene, and they each identified Mr. Hampleton as one of the suspects who had bailed out and fled from the crash. Mr. Hampleton was placed under arrest. Shortly thereafter, Mr. Eng, Mr. Ford, and Mr. Kastronis were brought to see Mr. Hampleton, and Mr. Eng and Mr. Ford identified him as one of the robbers.\nB. The Trial Court\u2019s Ruling\nBefore ruling on the motion to suppress, the trial court noted for the record Mr. Hampleton\u2019s location at the time of the stop. Relying on a diagram used to illustrate the testimony of the police officers, the court stated: \u201cMr. Hampleton [was] stopped about a quarter of a mile from the incident of the crash\u201d and the closest residential areas were \u201cup where the crash was, about a quarter of a mile away,\u201d and \u201cdown at the corner of Michigan Avenue and North Capitol.\u201d The court reasoned that \u201cconcerns about general lookouts\u201d were not the same in this case as they would be in a case where a suspect was standing \u201con the corner of 16th and Columbia [Road], [and] the lookout could fit any other person.\u201d The trial court also commented on Mr. Hampleton\u2019s location in relation to Officer Neffon, and his possible motivations for walking north on North Capitol Street: \u201cMr. Hampleton was found to the west of the ... Archbishop Carroll complex heading northbound, but he\u2019s getting away from the officer that\u2019s stationed on Scale Gate Road. He has no other way to go.\u201d\nIn evaluating the legality of the stop, the court took into account the rapidly evolving nature of the situation:\nIt\u2019s chaotic .... there\u2019s been a high speed chase, there\u2019s been a crash, there\u2019s people responding to the crash, there are at least five people that bail out. There\u2019s police officers setting up a perimeter around the area.... [I]t\u2019s one thing for us to sit here months after [the] incident with nothing else to do but decipher this episode in every single possible frame, and it\u2019s another thing to be there when all this chaos is breaking loose.... The law requires that I look at it the way that a reasonable police officer would. ...\nThe trial court ruled that Officer Antoine had reasonable articulable suspicion to stop Mr. Hampleton. Nevertheless, the court suppressed the cell phones and credit card that Officer Antoine removed from Mr. Hampleton on the grounds that the pat down exceeded the scope of a valid frisk under Terry. However, the court declined to suppress the show-up identifications and other physical evidence, holding that \u201c[everything else related to the stop, everything else that was the fruit of the stop, is appropriate.\u201d\nIII. The Denial of the Motions to Suppress\nOur review of a trial court\u2019s denial of a motion to suppress is limited. Jones v. United States, 972 A.2d 821, 824 (D.C.2009); see also Brown v. United States, 590 A.2d 1008, 1020 (D.C.1991). We \u201ctake care both to review findings of historical fact only for clear error and to give due weight to inferences drawn from those facts by resident judges and local law enforcement officers.\u201d Ornelas v. United States, 517 U.S. 690, 699, 116 S.Ct. 1657, 134 L.Ed.2d 911 (1996). Moreover, \u201c[w]e view the evidence presented at the suppression hearing in the light most favorable to the party prevailing below, and we draw all reasonable inferences in that party\u2019s favor.\u201d Womack v. United States, 673 A.2d 603, 607 (D.C.1996) (citing Peay v. United States, 597 A.2d 1318, 1320 (D.C. 1991) (en banc)). Nevertheless, we review the trial court\u2019s legal conclusions de novo. Ornelas, 517 U.S. at 700, 116 S.Ct. 1657.\nIt is well established that \u201c[t]he Fourth Amendment permits a police officer to stop an individual for investigatory purposes so long as the officer possesses a reasonable suspicion supported by specific and articulable facts that the individual is involved in criminal activity.\u201d Milline v. United States, 856 A.2d 616, 619 (D.C. 2004) (quoting Terry, 392 U.S. at 21, 88 S.Ct. 1868). While \u201carticulable suspicion is ... substantially less than probable cause [and] ... considerably less than proof of wrongdoing by a preponderance of the evidence!,]\u201d United States v. Turner, 699 A.2d 1125, 1128 (D.C.1997) (quoting Brown, 590 A.2d at 1014), an officer must have more than an \u201cinchoate and unpartic-ularized suspicion or hunch\u201d to justify a stop. United States v. Sokolow, 490 U.S. 1, 7, 109 S.Ct. 1581, 104 L.Ed.2d 1 (1989). Moreover, that reasonable suspicion must be \u201cparticularized as to the individual stopped.\u201d In re A.S., 614 A.2d 534, 537 (D.C.1992).\nIn evaluating the legality of a stop, we do not examine each factor \u201cin isolation from [the] other[s],\u201d United States v. Arvizu, 534 U.S. 266, 275, 122 S.Ct. 744, 151 L.Ed.2d 740 (2002), but instead consider the totality of the circumstances. Turner, 699 A.2d at 1128. Those circumstances \u201care to be viewed through the eyes of a ... cautious police officer on the scene guided by his experience and training.\u201d Cousart v. United States, 618 A.2d 96, 100 (D.C.1992) (en banc) (quotations omitted). In other words, the evidence \u201cmust be seen and weighed not in terms of library analysis by scholars, but as understood by those versed in the field of law enforcement.\u201d United States v. Cortez, 449 U.S. 411, 418, 101 S.Ct. 690, 66 L.Ed.2d 621 (1981). \u201cEven if each specific act by a suspect could be perceived in isolation as an innocent act, the observing police officer may see a combination of facts that make out an articulable suspicion.\u201d Peay, 597 A.2d at 1320 (citing Alabama v. White, 496 U.S. 325, 110 S.Ct. 2412, 110 L.Ed.2d 301 (1990)); see also Sokolow, 490 U.S. at 9-10, 109 S.Ct. 1581 (same).\nMr. Hampleton asserts that Officer Antoine did not have particularized suspicion to justify the stop in this case. His argument rests on the admittedly vague language of the first lookout given after the robbery, which described the suspects as \u201cblack males in dark clothing.\u201d Mr. Hampleton contends that, because this description could apply equally to \u201clarge numbers of people,\u201d the lookout could not have provided a meaningful basis for an investigative stop. See In re T.L.L., 729 A.2d 334, 340 (D.C.1999). To support this argument, he principally relies on two cases from this court, In re T.L.L. and In re A.S., 614 A.2d 534 (D.C.1992). In In re T.L.L., we reversed a conviction because the broadcast description for \u201cblack teenagers wearing dark clothing ... could have fit many if not most young black men.\u201d 729 A.2d at 340. In In re A.S., we held that the stop was unlawful because the description (which contained \u201cno information of height, weight, build, facial hair or features\u201d) matched a number of black males in the immediate area. 614 A.2d at 539-42.\nAlthough Mr. Hampleton correctly asserts that the descriptions broadcast in In re T.L.L. and In re A.S. were similar to the lookout in his case, his reliance on those cases is misplaced for two reasons. First, a substantial factor underlying our reasoning in both cases was that they involved dragnet-style seizures of many individuals who matched the same general description. See In re A.S., 614 A.2d at 540 (\u201c[T]he kind of dragnet seizure of three youths who resembled a generalized description cannot be squared with the longstanding requirement for particularized, individualized suspicion.\u201d). In our case, in contrast, Mr. Hampleton was the only one in the immediate area who fit the lookout description, and the only person whom Officer Antoine stopped.\nSecondly, and more fundamentally, Mr. Hampleton\u2019s focus on the vague nature of the lookout in his case overlooks the force of our well established precedent that the reasonableness of a stop is to be judged based on the totality of the circumstances. As we noted in In re T.L.L., the fact that a description is vague does not foreclose a finding of reasonable suspicion. 729 A.2d at 340. Instead, \u201c[w]hile a description applicable to large numbers of people will not suffice to justify the seizure of an individual ... other circumstances can provide sufficient particularity\u201d to support a stop. Turner, 699 A.2d at 1128-29 (citing Brown v. United States, 590 A.2d at 1017).\nNumerous cases in this jurisdiction illustrate the kinds of \u201cother circumstances\u201d that can contribute to a finding of reasonable suspicion. In United States v. Turner, we examined a trial court\u2019s decision to suppress the fruits of a Terry stop conducted after a lookout was broadcast for a \u201cblack male ... wearing a black jacket and blue jeans\u201d near a particular address. 699 A.2d at 1127. We reversed, concluding that the trial court had focused \u201ctoo narrowly on the lack of detail in the lookout.\u201d Id,, at 1128. We held there was sufficient evidence of criminal activity to support the stop because there was a \u201cclose spatial and temporal proximity between the reported crime and seizure.\u201d Id. at 1129. Similarly in United States v. Smart, 321 U.S.App. D.C. 216, 219-22, 98 F.3d 1379, 1382-85 (1996), the D.C. Circuit upheld a stop based on a lookout for a \u201cblack man, wearing a black jacket, black shirt, and a black pair of pants,\u201d even though there were other people in the area and the police stopped another person at the same time. The court held that the officer had particularized suspicion because the defendant was the only person who matched the description and he was stopped twenty-five to thirty seconds after it was broadcast. Id. In contrast, in In re T.L.L., there was \u201cno evidence at all that T.L.L. personally matched the lookout\u201d and \u201cno showing of immediacy, either temporal or spatial.\u201d 729 A.2d at 340-41.\nTaking into account the totality of the circumstances, we are satisfied that this record \u2014 looked at in the light most favorable to sustaining the trial court\u2019s judgment \u2014 supports a finding of reasonable ar-ticulable suspicion. Although, considered in isolation, the bi-oadcast for \u201cblack males in dark clothing\u201d might well have fallen short of the individualized suspicion that Terry and its progeny require, the surrounding circumstances provided the particularity needed to stop Mr. Hampleton. At the moment he spotted Mr. Hampleton, Officer Antoine was responding to a broadcast for five or six suspects who had perpetrated an armed robbery. He knew that the suspects had crashed their Jeep, bailed out, and fled into and around the grounds of Archbishop Carroll High School \u2014 a short distance from where Mr. Hampleton was found ten to fifteen minutes later. Moreover, seconds before seeing Mr. Hampleton on North Capitol Street, Officer Antoine heard Officer Nef-fon\u2019s broadcast that she had spotted at least one suspect attempting to climb the fence around Archbishop Carroll to get from the school grounds onto that street. In the midst of this chaotic and ongoing criminal investigation, Mr. Hampleton appeared, walking alone on a deserted grassy area along North Capitol Street at 10:30 p.m. Not only did he match the description of the robbery suspects as a \u201cblack male in dark clothing,\u201d but Mr. Hampleton was the only person in the area that Officer Antoine saw at all. Given this connection, the closeness in time and area of the bailout and the stop, and the clear indication that at least one of the robbers had fled across the high school grounds toward North Capitol Street, we agree with the trial court\u2019s ruling. See Tetaz v. District of Columbia, 976 A.2d 907, 914 n. 7 (D.C. 2009) (\u201cIn a case concerning \u2018a fast-moving sequence of events involving a number of law enforcement officers at several different locations,\u2019 this court applies the doctrine of collective knowledge in deciding whether police action was justified.\u201d (quoting McFerguson v. United States, 770 A.2d 66, 72-74 (D.C.2001))); Umanzor v. United States, 803 A.2d 983, 995 (D.C.2002) (upholding a stop conducted by an officer who \u201cfaced circumstances during a \u2018swiftly developing situation\u2019 which warranted the minor intrusion of an investigative detention in order to dispel his suspicions\u201d (quotations and citations omitted)).\nIn light of our responsibility to refrain from \u201c \u2018indulging] in unrealistic second-guessing\u2019 of the police officer\u2019s judgment,\u201d we affirm the trial court\u2019s decision to deny the motions to suppress. See (Chauncy) Turner v. United States, 623 A.2d 1170, 1173 (D.C.1993) (quoting United States v. Sharpe, 470 U.S. 675, 686, 105 S.Ct. 1568, 84 L.Ed.2d 605 (1985)); see also Terry, 392 U.S. at 15, 88 S.Ct. 1868 (discussing the imprudence of a \u201crigid, unthinking application of the exclusionary rule\u201d). Although Officer Antoine theoretically might have satisfied his duties by attempting to engage Mr. Hampleton in a consensual encounter before initiating a Fourth Amendment seizure, he was not required to do so. See Womack, 673 A.2d at 613 (whether there is a \u201c \u2018least intrusive\u2019 alternative available to the officers ... is not the appropriate Fourth Amendment inquiry\u201d); see also United States v. Martinez-Fuerte, 428 U.S. 543, 556-57 n. 12, 96 S.Ct. 3074, 49 L.Ed.2d 1116 (1976) (\u201cThe logic of such elaborate less-restrictive-alternative arguments could raise insuperable barriers to the exercise of virtually all search-and-seizure powers.\u201d). Moreover, given that Officer Antoine was looking for fleeing armed robbers, he did not act unreasonably by proceeding cautiously under these circumstances.\nIV. The PFCV Convictions Merge\nMr. Hampleton next argues that his three convictions for possession of a firearm during the commission of a crime of violence (PFCV), each based on the armed robbery of a different victim, merge. (The sentences on these counts were imposed to run concurrently.) We review issues of merger de novo. Roy v. United States, 871 A.2d 498, 510 (D.C. 2005).\n\u201c[A]s a general rule, where two predicate armed offenses do not merge, a defendant may be convicted of separate counts of PFCV relating to each offense. ...\u201d Stevenson v. United States, 760 A.2d 1034, 1035 (D.C.2000). We have, nevertheless, held \u201cthat multiple PFCV convictions will merge, even if the predicate felony offenses do not merge, if they arise out of a defendant\u2019s uninterrupted possession of a single weapon during a single act of violence.\u201d Matthews v. United States, 892 A.2d 1100, 1106 (D.C.2006); see also Nixon v. United States, 730 A.2d 145, 153 (D.C.1999) (same). \u201cTo determine whether two PFCV convictions are based on a single act of violence or distinct acts, we [have] adopted the so-called \u2018fresh impulse\u2019 or \u2018fork-in-the road\u2019 test....\u201d Matthews, 892 A.2d at 1106. \u201cEach time the defendant commits an independent violent crime, a separate decision is made whether or not to possess the firearm during that crime.\u201d Stevenson, 760 A.2d at 1037 (internal quotation marks and citation omitted).\nThe evidence at trial showed that Mr. Hampleton pointed his gun at all three victims initially, then turned the gun on Mr. Kastronis individually in an attempt to force him into the Jeep, and finally pointed it at Mr. Ford when he attempted to intervene to protect Mr. Kastronis. However, each PFCV charge was based on a count of armed robbery, not a separate assault. As in Matthews, the \u201cpredicate felonies ... overlapped substantially and were not independent of each other.\u201d 892 A.2d at 1107. In other words, the armed robberies were not separated by a \u201cfresh impulse\u201d or a \u201cfork in the road.\u201d The three PFCV convictions therefore merge into one.\nV. Conclusion\nFor the reasons explained, we affirm the judgments on appeal, except that we remand for the trial court to vacate appellant\u2019s convictions on two of the PFCV counts.\nSo ordered.\n. D.C.Code \u00a7\u00a7 22-2801, -4502(a) (2001); D.C.Code \u00a7 22-4505(b) (2001); D.C.Code \u00a7 22-3215 (2001). The jury acquitted Mr. Hampleton of one additional count of possession of a firearm during a crime of violence and one count of kidnaping while armed.\n. See Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968).\n. See Peay v. United States, 597 A.2d 1318, 1320 (D.C.1991) (en banc) (\"In reviewing a trial court order denying a motion to suppress, die facts and all reasonable inferences therefrom must be viewed in favor of sustaining the trial court ruling.\").\n.Because Mr. Hampleton did not move for reconsideration of the suppression motion at trial, he may not rely on later trial testimony to challenge the trial court\u2019s ruling. See, e.g., Otts v. United States, 952 A.2d 156, 157 (D.C. 2008); Allen v. United States, 383 A.2d 363, 367 (D.C.1978).\n. The record indicates some confusion about the content of Officer Neffon's broadcast. At Mr. Hampleton\u2019s first trial in September 2006, Officer Antoine testified that he heard \"more officers giving [a] lookout\u201d about the attempt to scale the fence surrounding Archbishop Carroll High School, and that he specifically heard \"a male officer [say] that there is a guy trying to scale over some part of the fence ... [wjearing white tennis shoes.\u201d At the second trial in November 2006, Officer Antoine testified that he heard \"Officer Nef-fon stating that she just observe[d] a male with white tennis shoes trying to climb over the fence. He observe[d] her, and he went back....\u201d Whether these variations indicate that Officer Neffon\u2019s lookout was actually for \"a person \u2014 not several people, as was earlier suggested \u2014 abandoning an effort to scale the fence,\u201d as Mr. Hampleton contends, is not entirely clear. (Emphasis added.) However, determining precisely how many suspects attempted to scale the fence is not essential to our resolution of Mr. Hampleton\u2019s case. As the trial court noted at the suppression hearing, \"I don\u2019t ... need to find that [appellant] was one\u201d of the people that Officer Neffon saw scaling the fence, because Officer Antoine was \"aware that there [were] people in the area that [were] trying to get away from the police, and he act[ed] based on [that] information. ...\u201d\n. The parties vigorously dispute the amount of time that passed between the bailout from the Jeep and Officer Antoine\u2019s stop of Mr. Hampleton. Mr. Hampleton contends that 25 to 35 minutes passed between the bailout and the stop, while the government asserts that Mr. Hampleton was stopped \"at most, 10-15 minutes after the bailout.\u201d Reviewing the evidence, we are inclined to agree with the government. As Mr. Hampleton acknowledges, \"the witnesses agreed for tire most part that the robbery occurred around 10 p.m.\u201d After the robbery, the victims ran to the nightclub to report the robbery, and police officers there broadcast a lookout. At the suppression hearing. Officer Jenkins testified that he and his partner spotted the Jeep within \"two, three minutes\u201d of the lookout, and then chased it for \"five minutes or less,\u201d before the bailout. The bailout led to the cordoning off of the area and Officer Neffon\u2019s lookout. Officer Antoine spotted Mr. Hampleton \"within a few seconds\u201d of Officer Neffon\u2019s lookout, and \"immediately\u201d pulled over and performed the stop. A radio run played at the suppression hearing \"seemed to indicate that Officer Antoine stopped appellant at approximately 10:30 p.m.,\u201d and additional testimony indicated that Mr. Hampleton was placed under arrest at 10:40 p.m. In sum, between the time of the robbery at 10:00 p.m. and the bailout, the victims ran a short distance to report what had happened, police officers issued a lookout for the Jeep, a brief wait transpired before the Jeep was spotted by additional officers, and those officers gave chase for 5 minutes or less. We conclude that this record supports the government\u2019s view that the bailout and stop were separated by 10 to 15 minutes.\n. The government argues that the record \"supports the trial court\u2019s finding that Officer Antoine noticed appellant looked like he had been running before the stop occurred.\u201d We do not agree. First of all, it appears that Mr. Hampleton was seized before the officer ordered him to the ground, approached him, or handcuffed him. Mr. Hampleton apparently stopped as soon as Officer Antoine pulled his marked police cruiser to the curb and put his spotlight on Mr. Hampleton. See California v. Hodari D., 499 U.S. 621, 624-26, 111 S.Ct. 1547, 113 L.Ed.2d 690 (1991) (holding that a seizure occurs when a police officer makes a show of authority to which a suspect yields). With this time line in mind, it is not at all clear that the trial court intended its statements at the suppression hearing to constitute a finding that Officer Antoine noticed that Mr. Hampleton had been running before any seizure occurred. The court simply said Mr. Hampleton \"looked like he had been running, he was talking on his phone. The officer ordered him to the ground, placed handcuffs and patted him down.\u201d Even if those statements were intended to suggest the interpretation that the government advocates, we do not think the record supports such a conclusion. Officer Antoine testified at the suppression hearing that he felt Mr. Hampleton\u2019s heartbeat and concluded that he had been running after ordering Mr. Hampleton to the ground. The only additional testimony that the government points to was the officer's statement that Mr. Hampleton looked \"[as] though he was running.\u201d However, that testimony was made in response to the question: \"And after you stopped Mr. Hampleton ... when you approached Mr. Hampleton ... did you notice anything about him as far as his physical appearance?\u201d (Emphasis added.) Moreover, the officer did not articulate any basis for concluding that Mr. Hampleton looked as though he had been running before he got on the ground. In short, the government has not provided sufficient evidence to support the conclusion that Officer Antoine inferred that Mr. Hampleton had been running even before Mr. Hampleton complied with the officer\u2019s show of authority.\n. Prior to the showup with Mr. Hampleton, these officers also identified Anthony McCutchen as one of the suspects they had seen bailing out of the Jeep after the crash. Mr. McCutchen was apprehended in the 4200 block of Harewood Road, N.E., on the grounds of a convent near Archbishop Carroll High School.\n. Although Mr. Hampleton takes pains to distinguish the facts of these cases from the facts of his own case, we do not rely on them as \"absolute binding precedent.\u201d See Arrington v. United States, 311 A.2d 838, 840 (D.C.1973) (\"Particularly in this area of adjudication, two cases are seldom sufficiently alike for the first to be an absolute binding precedent for the second.\u201d); see also Gomez v. United States, 597 A.2d 884, 889 (D.C.1991) (\u201cEach case turns on its particular facts, and 'case matching\u2019 is of limited utility in Fourth Amendment analysis of street encounters between citizens and police officers.... \u201d). Rather, these cases are helpful illustrations of the factors that may add up to reasonable suspicion in the totality of the circumstances.\n. We take this opportunity to reiterate that \"the greater number of identifying characteristics which are available, the more likely it is that there will be grounds to arrest a person found with all or most of these characteristics.\u201d In re A.S., 614 A.2d 534, 536 (D.C. 1992) (quoting 1 W. LaFave, Search and Seizure \u00a7 3.4(c), at 741 (2d ed. 1987)). Relying on general descriptions clashes with the \"demand for specificity in the information upon which police action is predicated [that] is the central teaching of [the Supreme] Court's Fourth Amendment jurisprudence.\u201d United States v. Cortez, 449 U.S. 411, 418, 101 S.Ct. 690, 66 L.Ed.2d 621 (1981) (quoting Terry v. Ohio, 392 U.S. at 21 n. 18, 88 S.Ct. 1868). In short, everyone is better off when police officers put as much detail as possible into lookouts, and prosecutors put as much detail as possible into the record.\n. Compare Reeves v. United States, 902 A.2d 88 (D.C.2006), where the predicate offenses were assault with intent to rob and assault with a dangerous weapon:\n\"[Although in quick succession, appellant demanded money from Maldonado and, while struggling to seize money from him, struck him in the face with the gun; next turned to Reyes and (instead of leaving the restaurant) demanded money from him at gunpoint and, unsatisfied with the response, struck him in the forehead; and then again (instead of leaving) saw Ramos trying to move away from him and shot him in the stomach.... [A]t each stage of the assaults appellant presumptively was able to desist from violence against another victim, but chose not to do so.\u201d\nId. at 90 (holding that \u201cthe successive voluntary acts of possession did not merge\u201d).",
+        "type": "majority",
+        "author": "FISHER, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Corrine Beckwith, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant.",
+      "Amanda Winchester, Assistant United States Attorney, with whom Ronald C. Machen Jr., United States Attorney, and Roy W. McLeese III, Leutrell M.C. Osborne, and Steven B. Wasserman, Assistant United States Attorneys, were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Casey HAMPLETON, Appellant, v. UNITED STATES, Appellee.\nNo. 07-CF-343.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 19, 2010.\nDecided Dec. 23, 2010.\nCorrine Beckwith, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant.\nAmanda Winchester, Assistant United States Attorney, with whom Ronald C. Machen Jr., United States Attorney, and Roy W. McLeese III, Leutrell M.C. Osborne, and Steven B. Wasserman, Assistant United States Attorneys, were on the brief, for appellee.\nBefore REID and FISHER, Associate Judges, and KING, Senior Judge."
+  },
+  "file_name": "0137-01",
+  "first_page_order": 171,
+  "last_page_order": 180
+}

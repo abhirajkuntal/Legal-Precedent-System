@@ -1,0 +1,533 @@
+{
+  "id": 7288426,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. James Monroe BALDWIN, Appellant",
+  "name_abbreviation": "Commonwealth v. Baldwin",
+  "decision_date": "2010-11-08",
+  "docket_number": "",
+  "first_page": "901",
+  "last_page": "912",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "833 A.2d 143",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "574 Pa. 773",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "820 A.2d 707",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9311871
+      ],
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/820/0707-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9089211
+      ],
+      "pin_cites": [
+        {
+          "page": "1137, n. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/1132-01"
+      ]
+    },
+    {
+      "cite": "893 A.2d 749",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8985468
+      ],
+      "pin_cites": [
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/893/0749-01"
+      ]
+    },
+    {
+      "cite": "880 F.2d 55",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529346
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "59"
+        },
+        {
+          "page": "59-60",
+          "parenthetical": "quotations and citations omitted"
+        },
+        {
+          "page": "60, n. 5"
+        },
+        {
+          "page": "60, n. 6"
+        },
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/880/0055-01"
+      ]
+    },
+    {
+      "cite": "772 F.2d 1172",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        306553
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/772/1172-01"
+      ]
+    },
+    {
+      "cite": "233 F.3d 101",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11172545
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "105"
+        },
+        {
+          "page": "107"
+        },
+        {
+          "page": "105"
+        },
+        {
+          "page": "106"
+        },
+        {
+          "page": "106"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/233/0101-01"
+      ]
+    },
+    {
+      "cite": "742 A.2d 1070",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11502448,
+        11502497,
+        95760,
+        95805
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1072",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "1072"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/742/1070-01",
+        "/a2d/742/1070-02",
+        "/pa/560/0084-01",
+        "/pa/560/0084-02"
+      ]
+    },
+    {
+      "cite": "560 Pa. 84",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95760,
+        95805
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "89",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0084-01",
+        "/pa/560/0084-02"
+      ]
+    },
+    {
+      "cite": "525 Pa. 94",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823767
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "98"
+        },
+        {
+          "page": "558-559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0094-01"
+      ]
+    },
+    {
+      "cite": "317 Pa.Super. 226",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        89447
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "citations and quotations omitted"
+        },
+        {
+          "page": "1171",
+          "parenthetical": "citations and quotations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/317/0226-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 460",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808565
+      ],
+      "weight": 15,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "468-469"
+        },
+        {
+          "page": "78"
+        },
+        {
+          "page": "471"
+        },
+        {
+          "page": "79"
+        },
+        {
+          "page": "472"
+        },
+        {
+          "page": "79"
+        },
+        {
+          "page": "472"
+        },
+        {
+          "page": "79-80"
+        },
+        {
+          "page": "472"
+        },
+        {
+          "page": "79"
+        },
+        {
+          "page": "468"
+        },
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0460-01"
+      ]
+    },
+    {
+      "cite": "410 U.S. 284",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11957222
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "295"
+        },
+        {
+          "page": "1046"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/410/0284-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 123",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "580 Pa. 696",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "849 A.2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9238911
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "250"
+        },
+        {
+          "page": "251, n. 2",
+          "parenthetical": "appellant was not deprived of his fundamental right to testify on his own behalf and counsel was not ineffective for failing to call appellant as witness because he knowingly and voluntarily waived his right to testify"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/849/0243-01"
+      ]
+    },
+    {
+      "cite": "107 S.Ct. 2704",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        28133
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "2708-2709",
+          "parenthetical": "quotations and citations omitted"
+        },
+        {
+          "parenthetical": "quotations and citations omitted"
+        },
+        {
+          "page": "2711"
+        },
+        {
+          "page": "2714"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0044-01"
+      ]
+    },
+    {
+      "cite": "488 U.S. 44",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "51",
+          "parenthetical": "quotations and citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "746 A.2d 1102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11479003,
+        95831
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/1102-01",
+        "/pa/560/0529-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 529",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95831
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "584-535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0529-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 94",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823767
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "559",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/525/0094-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1193,
+    "char_count": 35420,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 6.892945138579655e-08,
+      "percentile": 0.4191039709264903
+    },
+    "sha256": "9a3f164709c3d109fdb11b4a253ae378a653bb7d5c3e90498ef449b08feb249e",
+    "simhash": "1:f72ae12f7502197a",
+    "word_count": 5861
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: PANELLA, SHOGAN and COLVILLE , JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. James Monroe BALDWIN, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSHOGAN, J.:\nAppellant, James Monroe Baldwin, appeals from his judgment of sentence of life without parole and consecutive sentence of one to two years entered following his jury convictions of first degree murder and abuse of a corpse. On appeal, Appellant challenges the trial court\u2019s denial of his request to testify on his own behalf after he had waived his right to testify the previous day and after the evidentiary phase of the case was closed. Because we hold that the trial court did not abuse its discretion in refusing to reopen the case for submission of this additional testimony, we affirm.\nThe trial court stated the factual and procedural history as follows:\nOn January 26, 2006, a road department employee discovered a shallow makeshift grave. The police were called to the scene, and recovered from the grave a backpack containing a piece of paper with [Appellant\u2019s] name on it. Also recovered from the burial site were five plastic bags that contained the dismembered remains of [Appellant\u2019s] housemate, Brendan Martin. Mr. Martin had been eviscerated. The manner of death was determined to be homicide.\n[Appellant] was interviewed by the police and admitted he had attacked Mr. Martin. First, [Appellant] hit the victim with a claw hammer. Then, he used a large knife to stab the victim in the neck and heart. Finally, [Appellant] said that he dismembered his housemate; attempted to clean up the crime scene, and transported the remains to the location [where] the body parts were eventually found.\n[Appellant] was charged with one count each of Criminal Homicide, and Abuse of Corpse. On February 20, 2008, following a jury trial, [Appellant] was convicted of First Degree Murder, and Abuse of a Corpse.\nTrial Court Opinion, 12/19/08, at 1-2 (footnote omitted). This appeal followed.\nAppellant raises the following issue on appeal:\nWhether Appellant was denied his fundamental, constitutional right to testify on his own behalf pursuant to the Fifth, Sixth, and Fourteenth Amendments to the United States Constitution, as well as Article I, Section 9 of the Pennsylvania Constitution?\nAppellant\u2019s Brief at 5.\nAppellant in this case presented an insanity defense at trial. After an on the record colloquy, he waived his right to testify. N.T., 2/21/08, at 323-324. Following presentation of rebuttal testimony by the Commonwealth\u2019s expert regarding Appellant\u2019s sanity at the time of the incident, Appellant changed his mind and attempted to reassert his right to testify. N.T., 2/22/08, at 359-360. Appellant made his request the day after waiving his right and after the closure of the evidentiary phase of the trial, but prior to closing arguments and jury instructions. Id. Appellant did not give a reason for changing his mind. Id. The trial court denied Appellant\u2019s request to testify because the case was closed the previous day and the jury was set to be brought in for instructions. Id. at 360. Appellant maintains that the Commonwealth would not have been prejudiced by Appellant\u2019s reassertion of his right to testify, and therefore the trial court should have allowed the testimony. Appellant\u2019s Brief at 22. Appellant argues that the trial court\u2019s failure to reopen the case to allow Appellant\u2019s testimony on his own behalf was an abuse of discretion and mandates a new trial. Id. at 36. Appellant does not contend that his waiver was involuntary, unintelligent or unknowing. Id. at 21.\nThe right of an accused to testify on his own behalf is a fundamental tenet of American jurisprudence and is explicitly guaranteed by Article I, Section 9 of the Pennsylvania Constitution. Commonwealth v. Nieves, 560 Pa. 529, 584-535, 746 A.2d 1102, 1105 (2000). See also U.S. Const. Amend. VI (guaranteeing the right of an accused to testify on his own behalf). In addressing the right to testify on one\u2019s own behalf, the United States Supreme Court has held:\nThe right to testify on one\u2019s own behalf at a criminal trial has sources in several provisions of the Constitution. It is one of the rights that \u201care essential to due process of law in a fair adversary process.\u201d The necessary ingredients of the Fourteenth Amendment\u2019s guarantee that no one shall be deprived of liberty without due process of law include a right to be heard and to offer testimony:\nA person\u2019s right to reasonable notice of a charge against him, and an opportunity to be heard in his defense \u2014 a right to his day in court \u2014 are basic in our system of jurisprudence; and these rights include, as a minimum, a right to examine the witnesses against him, to offer testimony, and to be represented by counsel.\nRock v. Arkansas, 488 U.S. 44, 51, 107 S.Ct. 2704, 2708-2709, 97 L.Ed.2d 37 (1987) (quotations and citations omitted). Additionally, we note that the decision to testify on one\u2019s own behalf is ultimately a decision to be made by the accused after consultation with counsel. Commonwealth v. O\u2019Bidos, 849 A.2d 243, 250 (Pa.Super.2004) (citations omitted), appeal denied, 580 Pa. 696, 860 A.2d 123 (2004).\nAlthough criminal defendants have a constitutional right to testify on their own behalf, this right is not without limitations. Sometimes this right must \u201cbow to accommodate other legitimate interests in the criminal trial process.\u201d Rock, 483 U.S. at 55, 107 S.Ct. at 2711 (quoting Chambers v. Mississippi, 410 U.S. 284, 295, 93 S.Ct. 1038, 1046, 35 L.Ed.2d 297 (1973)). Furthermore, our Supreme Court has never held:\nthat our constitution confers upon criminal defendants an unfettered right of self-expression in the courtroom during the guilt-determination phase of trial. Rather, the right to be heard is, as always, circumscribed by the rules of evidence.\nCommonwealth v. Jermyn, 516 Pa. 460, 468-469, 533 A.2d 74, 78 (1987). Thus, \u201c[i]n applying its evidentiary rules a [court] must evaluate whether the interests served by a rule justify the limitation imposed on the Defendant\u2019s constitutional right to testify.\u201d Rock, 483 U.S. at 56, 107 S.Ct. at 2714.\nWith regard to reopening a case, \u201c[i]t is within the discretion of the trial judge to permit either side to reopen its case to present additional evidence.\u201d Commonwealth v. Mathis, 317 Pa.Super. 226, 463 A.2d 1167, 1171 (1983) (citations and quotations omitted). \u201cUnder the law of this Commonwealth a trial court has the discretion to reopen a case for either side, prior to the entry of final judgment, in order to prevent a failure or miscarriage of justice.\u201d Commonwealth v. Tharp, 525 Pa. 94, 98, 575 A.2d 557, 558-559 (1990). Our Supreme Court has stated:\nWe will deem a trial court to have abused its discretion only if we determine that the trial court\u2019s ruling exhibited manifest unreasonableness, partiality, prejudice, bias or such lack of support as to render it clearly erroneous. We will not condemn a trial court\u2019s ruling as an abuse of discretion merely because we might have reached a different conclusion had the decision been ours in the first instance.\nCommonwealth v. Bango, 560 Pa. 84, 89, 742 A.2d 1070, 1072 (1999) (citation omitted) (emphasis added).\nThe Commonwealth relies upon Jermyn, supra, in support of its position that Appellant was properly precluded from testifying because Appellant\u2019s testimony would only corroborate his expert\u2019s, Dr. Petras\u2019, conclusion of insanity through Appellant\u2019s demeanor and actions. Commonwealth\u2019s Brief at 26. In Jermyn, our Supreme Court concluded that the trial court did not err in precluding Jermyn from reading poetry in open court in an attempt to establish the defense of insanity. Jermyn, 516 Pa. at 471, 533 A.2d at 79. In support of this conclusion, the Court stated:\nAppellant elected to take the witness stand, not to testify as to either the circumstances surrounding the crime or his mental condition during the commission of the crime, but to read a prepared statement, in verse form, directed at the jury. The obvious purpose of this statement was to dramatize appellant\u2019s purported delusions and display his demeanor, thus inducing a subjective response in the minds of the jurors as to his mental condition. Such a demonstration would have been subject to no evidentiary constraints and would have insulated the underlying testimonial assertion, i.e., that appellant was legally insane at the time of the crime, from meaningful cross-examination.\nJermyn, 516 Pa. at 472, 533 A.2d at 79. The Supreme Court in Jermyn further stated that the reading of poetry in an \u201cattempt to demonstrate Appellant\u2019s alleged mental illness would have taken the proceedings out of the realm of the fact-finding process and into that of inflammation and speculation, if not that of theater, and it was within the discretion of the trial court to limit such a display on evidentiary grounds.\u201d Id., 516 Pa. at 472, 533 A.2d at 79-80.\nWe find Jermyn to be distinguishable in that Jermyn was requesting to take the stand for the limited purpose of reading a prepared statement, in verse form. In fact, our review of Pennsylvania law reveals no case specifically addressing the issue presented by this case. However, there is Pennsylvania case law rejecting the corollary proposition that trial counsel can be ineffective for failing to implement a strategy that permits exercise of the right to testify after a waiver. See O\u2019Bidos, 849 A.2d at 251, n. 2 (appellant was not deprived of his fundamental right to testify on his own behalf and counsel was not ineffective for failing to call appellant as witness because he knowingly and voluntarily waived his right to testify). Furthermore, there are several federal cases on point which we find instructive.\nIn United States v. Peterson, 233 F.3d 101, 105 (1st Cir.2000), after the defense rested, the district court told the jury to expect closing arguments within the hour and went into recess. After recess, the court held a brief charging conference. Id. At the end of the conference, Peterson\u2019s counsel advised the court that Peterson -wished to testify on his own behalf, despite Peterson\u2019s previous decision not to put on any evidence in the case. Id, Counsel also advised the court that for ethical reasons he could not examine Peterson if Peterson were allowed to testify. Id. Peterson gave no excuse for not testifying during his case-in-chief. Id. at 107. The court refused to reopen the evidence in order to allow Peterson to testify. Id. at 105. On appeal, Peterson claimed that the district court\u2019s refusal to do so violated his constitutional right to testify in his own defense. Id.\nCiting Rock, the First Circuit outlined the applicable law as follows:\n[A] defendant does not have an unrestricted right to testify at any point during trial. Generally, if he wishes to testify, he must do so before he rests his case; otherwise, he can move the trial court to reopen the evidence, but the choice whether to reopen is left to the court\u2019s sound discretion. Such a rule serves to ensure that the trial proceeds in a fair and orderly manner, with the defendant\u2019s testimony occurring when the judge, jury, and prosecution reasonably expect it.\nId. at 106.\nThe Peterson court further stated that a trial court should consider the following factors, as enumerated by the Fifth Circuit, when deciding to reopen the evidence to allow a defendant to testify:\nIn exercising its discretion, the court must consider the timeliness of the motion, the character of the testimony, and the effect of the granting of the motion. The party moving to reopen should provide a reasonable explanation for failure to present the evidence in its case-in-chief. The evidence proffered should be relevant, admissible, technically adequate, and helpful to the jury in ascertaining the guilt or innocence of the accused. The belated receipt of such testimony should not imbue the evidence with distorted importance, prejudice the opposing party\u2019s case, or preclude an adversary from having an adequate opportunity to meet the additional evidence offered.\nPeterson, 233 F.3d at 106 (quoting United States v. Walker, 772 F.2d 1172, 1177 (5th Cir.1985) (citations and quotation marks omitted)). In short, the First Circuit looked at \u201cwhether the likely value of the defendant\u2019s testimony outweigh[ed] the potential for disruption or prejudice in the proceedings, and if so whether the defendant [had] a reasonable excuse for failing to present the testimony during his casein-chief.\u201d Id.\nThe First Circuit initially found that the timeliness of defendant\u2019s motion to reopen, a half-hour after the defense rested, posed a relatively small threat. Id. In further considering the matter, however, the court stated:\nNonetheless, while small, the potential for disruption upon reopening the evidence was not insignificant. For example, reopening the evidence may have confused the jurors after they had been told to expect closing arguments when they returned from recess. Moreover, Peterson\u2019s attorney had indicated he would not be able to participate in any examination of Peterson, posing procedural problems for the judge if Peterson were permitted to testify. Given the potential for disruption in this sense, the district court was at liberty to deny the motion to reopen if Peterson\u2019s testimony was likely to be of little value. And the record sufficiently supports that conclusion. Peterson gave the court hardly any indication as to what he wished to testify about, stating only he \u201cjust want[ed] to bring out certain facts about certain issues\u201d that his counsel allegedly failed to develop during cross-examination of the government\u2019s witnesses.\nFinally, as to the reasonableness of Peterson\u2019s excuse for not testifying during his case-in-chief, Peterson offered no excuse, let alone a reasonable one. Peterson had ample time during his casein-chief to offer testimony; he admitted that he and counsel had agreed that he would not exercise this option. Even assuming Peterson\u2019s testimony would have been valuable, Peterson still owed the court some sort of reasonable explanation for his sudden change in tack. Without such a requirement of excuse, the rule generally limiting testimony to the evidence-taking stage of a trial would hardly be a rule at all, and it would be too easy for a defendant to postpone testifying for strategic reasons until after the close of evidence.\nId. at 107 (emphasis added). Thus, the First Circuit found no abuse of discretion by the district court and no infringement of Peterson\u2019s constitutional right to testify. Id.\nWe find United States v. Jones, 880 F.2d 55 (8th Cir.1989) to be instructive as well. In Jones, the defendant also argued that the district court violated his constitutional rights when it refused to reopen the evidence to allow him to testify. Jones, 880 F.2d at 59. In addressing this issue, the Eighth Circuit stated:\nThe right to testify must be exercised at the evidence-taking stage of trial. Once the evidence has been closed, whether to reopen for submission of additional testimony is a matter left to the trial court\u2019s discretion.\nAlthough criminal defendants have a constitutional right to testify on their own behalf, the right must sometimes \u201cbow to accommodate other legitimate interests in the criminal trial process.\u201d Unquestionably, the need for order and fairness in criminal trials is sufficient to justify firm, though not always inflexible, rules limiting the right to testify; and, of course, numerous rules of undoubted constitutionality do circumscribe the right.\nThe rule generally limiting testimony to the evidence-taking stage of trial does not unconstitutionally infringe upon a defendant\u2019s right to testify. While placing only a minor limitation on the right, the rule promotes both fairness and order in trials, interests which, of course, are crucial to the legitimacy of the trial process. In the interests of fairness and order, it simply imposes a commonsense requirement that the right to testify be exercised in a timely fashion.\nId. at 59-60 (quotations and citations omitted).\nThe Jones court then noted that by the time the request was made to testify, the parties had prepared jury instructions and summations and potential rebuttal witnesses had been released and were unavailable. Id. at 60, n. 5. Additionally, the court also noted that Jones acknowledged on the record that he knew he had the right to testify during the evidence phase, but voluntarily chose not to do so. Id. at 60, n. 6. Given these factors, the court concluded that there was no abuse of discretion by the trial court in refusing to reopen the evidence to allow Jones to testify. Id. at 60.\nIn the case before us, Appellant voluntarily waived his right to testify. Although there is no requirement that the trial court conduct an on-the-record colloquy when a defendant waives his right to testify, the trial court did in fact conduct a thorough colloquy of Appellant before Appellant rested his case. The following colloquy took place on the record:\nThe Court: Mr. Baldwin, I have a couple questions I want to ask you about your decision of whether or not to testify in this trial. It\u2019s my understanding that you intend to give up your right to take the stand and testify on your own behalf. I want to ask you a few questions about this decision. Please understand that I am neither encouraging nor discouraging your decision. Do you understand that?\nThe Defendant: (Witness nods head.)\nThe Court: I need yes or no for the court reporter.\nThe Defendant: Yes.\nThe Court: Do you understand that under both the Constitution of the United States of America and the Constitution of the Commonwealth of Pennsylvania, you have an absolute right to testify on your own behalf.\nThe Defendant: Yes.\nThe Court: And do you understand that no one can deny you the opportunity to testify on your own behalf?\nThe Defendant: Yes.\nThe Court: Do you also understand that you have an absolute right not to testify on your own behalf?\nThe Defendant: Yes.\nThe Court: Do you understand that no one can force to you [sic] testify at your own trial?\nThe Defendant: Yes.\nThe Court: Have you discussed this decision of whether or not to testify with your attorney?\nThe Defendant: Yes.\nThe Court: Having done that, do you wish to testify in this trial?\nThe Defendant: I\u2019m not sure.\nThe Court: Okay. Well, I\u2019m going to let you speak to Mr. Elash a little longer.\nMr. Elash: Can I say something on the record, Your Honor, to maybe clarify that? James, is it your\u2014\nThe Court: Sure.\nMr. Elash: James, your desire would be to get up and give a statement; is that correct?\nThe Defendant: Yes.\nMr. Elash: And in your mind, that was what you would consider testifying?\nThe Defendant: Yes.\nMr. Elash: I explained to you that the rules of procedure, trial procedure would not permit you to do that.\nThe Defendant: Yes.\nMr. Elash: So you understand that even though you would want to testify in the form that you want to by just giving a statement, you\u2019re not permitted to. You have to answer questions and then would be cross-examined by Ms. Necessary. Do you understand that now?\nThe Defendant: Yes.\nMr. Elash: So is it my understanding that you do not want to testify under the Rules of Court, that you\u2019d be subject to questions and answers and cross-examination?\nThe Defendant: I\u2019m still not sure.\nMr. Elash: Go on.\nThe Defendant: You\u2019re \u2014 not that you\u2019re doing a bad job or anything, but if I fire you, can I make my own closing argument representing myself?\nMr. Elash: Well\u2014\nThe Court: I\u2019m sorry. I couldn\u2019t hear everything he said.\nMr. Elash: He wants to represent himself now, Your Honor.\nThe Court: Really? And how \u2014 well\u2014\nMr. Elash: I mean, you have a right to represent yourself if you want to. You\u2019d be bound by the same rules that every other lawyer is bound by as far as how to try a case. It probably would not be in your best interest to represent yourself. But you do have a right to do so. Does that help in making your decision? The Defendant: Yes.\nMr. Elash: Well, you\u2019re going to have\u2014\nThe Court: Do you want to speak with your attorney privately for a while? We can arrange that.\nThe Defendant: No. That\u2019s okay.\nMr. Elash: Whatever you want.\nThe Court: I can\u2019t hear you.\nThe Defendant: I don\u2019t need to speak to him privately.\nThe Court: How did you want to proceed at this point?\nThe Defendant: I wanted to\u2014\nThe Court: What do you want to do right now?\nThe Defendant: I\u2019m not really sure. I don\u2019t really know that much about court. The Court: No, of course, because you didn\u2019t go to law school. You probably don\u2019t know as much as your attorney or any attorney, for that matter. You know, you will be bound by all the rules of criminal court and court procedure. You\u2019re going to be treated the same as any attorney, and you\u2019re not going to be allowed to do anything that an attorney would not be allowed to do. Do you understand that?\nThe Defendant: Yes.\nThe Court: The rules will not change because you\u2019re representing yourself. Do you understand that?\nThe Defendant: Yes.\nThe Court: Okay. And also \u2014 why don\u2019t you just give me a second. That doesn\u2019t change anything about your right to testify as far as you still can\u2019t stand up and just give a statement. If you want to testify, you\u2019re going to have to be cross-examined. You\u2019re going to be cross-examined by the District Attorney. Do you understand that?\nThe Defendant: Yes.\nThe Court: Do you have any questions about any of this?\nThe Defendant: No. I guess I\u2019ll stay with my attorney.\nThe Court: Well, I think that is a smart decision, but it\u2019s your decision to make.\nThe Defendant: Yes.\nThe Court: So if that\u2019s what you want to do, that will be f\u00edne, too. Do you wish to testify in this trial? Again, that is, you know, the testimony, like your attorney described to you, where you would be subject to cross-examination. That\u2019s your right, and it\u2019s your decision to make. You can speak with Mr. Elash again, like I said. You can speak in private. Whatever you want to do.\n(Discussion was held off the record.)\nThe Defendant: I decided I\u2019m not going to testify.\nThe Court: All right. Is this decision not to testify of your own free will?\nThe Defendant: Yes.\nThe Court: Has anyone threatened you or forced you into making this decision?\nThe Defendant: No.\nThe Court: I accept your waiver then. Mr. Elash, is there anything else you wanted to add to or clarify regarding the decision not to testify or anything?\nMr. Elash: No, Your Honor. Thank you.\nN.T., 2/21/08, at 818-324.\nAfter the colloquy, the jury returned to the court room and Appellant rested his case. N.T., 2/21/08, at 326-827. The Commonwealth called its rebuttal witness and then rested its case. Id. at 327-356. The trial court and parties began to discuss jury instructions, outside of the presence of the jury, and the jury was dismissed for the day. Id. at 356-359. On the following morning, prior to the jury being brought in for instructions, Appellant notified the court of his change in position and desire to testify. N.T., 2/22/08, at 359-360.\nUpon being presented with Appellant\u2019s request to withdraw his waiver and to testify, the trial court ruled:\nThe Court: All right. Well, we did go through everything. There was plenty of time, and we, in fact, had come to work on the points for charge. The case was closed yesterday afternoon, and I\u2019m not going to allow any further testimony from anyone at this time. We have the jury set to be brought in for the instructions.\nN.T., 2/22/08, at 360.\nAs reflected by the colloquy, Appellant was initially uncertain as to whether he wanted to testify on his own behalf. After questioning by his attorney, it was clear that Appellant wanted the opportunity to make a statement to the court and jury without being subject to cross-examination. When it was explained to Appellant that he would be unable to simply make a statement, he considered dismissing his attorney so that he could make a direct address in closing argument. After being advised that he would be held to the same standard as that of an attorney, the trial court gave Appellant ample opportunity to think about his decision and to discuss the matter further with his attorney. Appellant decided to retain his attorney, and to not testify on his own behalf.\nAdditionally, this colloquy was not the first time during trial Appellant sought to address the court and jury directly. While the court and parties were discussing a matter involving a juror and a potential conflict of interest during the Commonwealth\u2019s case-in-chief, Appellant indicated that he wanted to speak with the court. N.T., 2/21/08, at 224. The court informed Appellant that he would need to address the court through his attorney. Id. After discussion was held off the record, Appellant\u2019s attorney relayed the following to the court:\nMr. Elash: Your Honor, just for the record, he wanted to exert a right of allocution to the jury'. And I told him that that\u2019s not in our legal procedure, that he would have to take the stand and be subject to cross-examination. He would only be allowed to answer questions. You know, so that\u2019s I know later, we\u2019re going to have a colloquy concerning that.\nThe Court: Right.\nMr. Elash: That was the question.\nThe Court: What your attorney said, of course, is correct. But you\u2019ll have some time to think about how you want to proceed. That\u2019s not going to happen for a little while. Certainly you\u2019ll have more time to discuss it with him and as much time as you need, in fact, to decide what you want to do in that regard.\nN.T., 2/21/08, at 224-225.\nAppellant was clearly advised of his rights and what testifying in his own defense would entail. Appellant was given ample opportunity to consider his decision and discuss the matter with his attorney. The record reflects Appellant\u2019s wish to address the jury directly without being subject to questioning and cross-examination. When it was explained that procedural rules did not allow for that, Appellant decided to waive his right to testify. When Appellant later changed his mind, after the evidence was closed, it was in the sole discretion of the trial court to reopen the case to allow the testimony. Upon review, we may disturb the determinations of the trial court only if there is an abuse of that discretion.\nIn determining whether the trial court abused its discretion in disallowing the testimony, we weigh Appellant\u2019s right to testify after the close of evidence against the need for order and fairness in the proceedings. Additionally, we elect to follow the First Circuit\u2019s analysis in Peterson and consider whether the likely value of the Appellant\u2019s testimony outweighed the potential for disruption or prejudice in the proceedings, and whether the Appellant had a reasonable excuse for failing to present the testimony during his case-in-chief. See Peterson, 288 F.3d at 106.\nHere, Appellant made several attempts to directly address the court and jury, without being subject to cross-examination. It is Appellant\u2019s position that his testimony would corroborate Dr. Petras\u2019 testimony, through his demeanor and actions. Appellant\u2019s Brief at 33. It appears that Appellant did not want to testify to the circumstances surrounding the crime or his mental condition during the commission of the crime, but rather to dramatize his demeanor, thus perhaps attempting to induce a subjective response in the minds of the jurors as to his mental condition. This is the situation the Court in Jermyn sought to protect against. See Jermyn, 516 Pa. at 472, 533 A.2d at 79. Appellant\u2019s right to testify consists of the Appellant, like any other witness, testifying under oath by answering questions designed to elicit relevant facts. Appellant is not entitled to an unfettered right of self-expression. Id., 516 Pa. at 468, 533 A.2d at 78. Thus, the likely value of Appellant\u2019s proposed testimony is questionable.\nAdditionally, after knowingly and voluntarily waiving his right to testify, Appellant presented no excuse to explain his change of tack. As noted previously, the court in Peterson determined that a defendant who forgoes his right to testify should provide a reasonable explanation for the subsequent change of tack and attempt to reassert that right after the close of evidence. As stated by the court,\n[wjithout such a requirement of excuse, the rule generally limiting testimony to the evidence-taking stage of a trial would hardly be a rule at all, and it would be too easy for a defendant to postpone testifying for strategic reasons until after the close of evidence.\nPeterson, 233 F.3d at 107. Failure to provide an explanation in support of the change of approach was a factor weighing against opening the case to allow defendant\u2019s testimony in Peterson, and we determine it to be a factor weighing against Appellant here, in deciding whether the trial court should have reopened the case. Without an excuse for his change of tack, we can only presume that Appellant was postponing his testimony until after the close of evidence so as to test the strength of the Commonwealth\u2019s case.\nFurthermore, the potential for disruption or prejudice in the proceedings, upon reopening the evidence to allow Appellant to testify, would not be insignificant. As cited in Peterson, reopening the evidence may have confused the jurors, as the Appellant had expressly rested its case in the presence of the jury. N.T., 2/21/08, at 326-327. Also, through his testimony, Appellant would have had the opportunity to raise issues warranting a response or follow-up from the Commonwealth. The Commonwealth had previously presented its rebuttal witness, rested its case and dismissed its witnesses. Thus, allowing Appellant\u2019s testimony could have resulted in potential prejudice to the Commonwealth or significant delay in the trial proceedings. As in the Jones case, the parties here had begun preparing jury instructions, the jury was about to be given instructions, summations were to begin, and potential rebuttal witnesses had been released.\nConsequently, in weighing the factors in this case, we cannot conclude that the trial court\u2019s refusal to reopen the evidence was manifestly unreasonable, a misapplication of the law, or the result of partiality, prejudice, bias or ill will. We are reminded that an appellate court cannot condemn a trial court\u2019s ruling as an abuse of discretion merely because we might have reached a different conclusion had the decision been ours in the first instance. See Bango, 560 Pa. at 89, 742 A.2d at 1072. Thus, under these circumstances, we cannot conclude that the trial court abused its discretion by denying Appellant\u2019s request to reopen the case to allow him to testify on his own behalf.\nIn conclusion, we hold that the right to testify generally must be exercised at the evidence-taking stage of trial. Once the evidence has been closed, the matter of whether to reopen for submission of additional testimony is left to the discretion of the trial court. In exercising that discretion, a trial court must consider whether the likely value of the Appellant\u2019s testimony outweighs the potential for disruption or prejudice in the proceedings, and whether the defendant has a reasonable excuse for failing to present the testimony during his case-in-chief. Having discerned no abuse of discretion on the part of the trial court in this case, we affirm Appellant\u2019s judgment of sentence.\nJudgment of sentence affirmed.\nCOLVILLE, J., files a Concurring Opinion.\n18 Pa.C.S. \u00a7 2501(a), as amended[J\n18 Pa.C.S. \u00a7 5510, as amended!.]\nPrior to sentencing, trial counsel was granted permission to withdraw. New counsel entered his appearance, and on May 14, 2008, [Appellant] was sentenced to life in prison without the possibility of parole, and a consecutive one[-]year to two-year prison sentence on the Abuse of Corpse offense. Post-sentence motions were filed on July 28, 2008, and denied by this Court on October 24, 2008.\n. We note that the certified record does not indicate exactly what would have been included in Appellant's proposed testimony, but he asserts in his brief that he \u201cwould have corroborated Dr. Petras not only through testimony but also demonstrably through his demeanor and actions.\u201d Appellant\u2019s Brief at 33.\n. Although the certified record in the case sub judice does not reveal exactly what Appellant's testimony would have contained, it does show that Appellant was informed that he would be subject to cross-examination. See N.T., 2/21/08, at 224-255 and 318-324.\n.We recognize that, while not binding, federal law may guide us. See Campbell v. Eitak, Inc., 893 A.2d 749, 751 (Pa.Super.2006) (decisions from other jurisdictions may provide guidance but are clearly not binding on this Court).\n. However, the First Circuit\u2019s opinion does not indicate that there was an on-the-record colloquy.\n. See Commonwealth v. Duffy, 832 A.2d 1132, 1137, n. 3 (Pa.Super.2003) (citing Commonwealth v. Todd, 820 A.2d 707, 712 (Pa.Super.2003), appeal denied, 574 Pa. 773, 833 A.2d 143 (2003)).",
+        "type": "majority",
+        "author": "SHOGAN, J.:"
+      },
+      {
+        "text": "CONCURRING OPINION BY\nCOLVILLE, J.\nAppellant certainly had the constitutional right to testify during the presentation of his defense. He chose to waive that right. After the case was closed but before the jury received their instructions, Appellant asked that he be permitted to testify. The Majority appropriately considers this request as a request to reopen the case. The law which governs such a request is well-settled.\nUnder the law of this Commonwealth a trial court has the discretion to reopen a case for either side, prior to the entry of final judgment, in order to prevent a failure or miscarriage of justice.\nCommonwealth v. Tharp, 525 Pa. 94, 575 A.2d 557, 559 (1990) (citations omitted).\nAt trial, Appellant offered no reason for his belated desire to testify. He, therefore, did not establish a need for his testimony to prevent a failure or miscarriage of justice. Consequently, the trial court did not abuse its discretion when it denied Appellant\u2019s request to reopen the case. For these reasons, I, too, would affirm the judgment of sentence.\nThe Majority announces a new test a trial court must apply when a defendant seeks to reopen his case to offer his testimony. Majority Memorandum at 911 (\u201cIn exercising that discretion, a trial court must consider whether the likely value of the [defendant\u2019s] testimony outweighs the potential for disruption or prejudice in the proceedings, and whether the defendant has a reasonable excuse for failing to present the testimony during his case-in-chief.\u201d). After announcing this new test, the Majority discerns no abuse of discretion on the part of the trial court.\nI reserve any comment on the propriety of the new test announced by the Majority because I believe the current state of the law is sufficient to dispose of Appellant\u2019s issue. I note, however, that neither the record nor the trial court\u2019s opinion support a conclusion that the court considered whether the likely value of Appellant\u2019s testimony outweighed the potential for disruption or prejudice in the proceedings, and whether Appellant had a reasonable excuse for failing to present the testimony during his case-in-chief.",
+        "type": "concurrence",
+        "author": "COLVILLE, J."
+      }
+    ],
+    "attorneys": [
+      "Matthew Debbis, Pittsburgh, for appellant.",
+      "Michael W. Streily, Deputy Dist. Atty., and Sandra Preuhs, Asst. Dist. Atty., Pittsburgh, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. James Monroe BALDWIN, Appellant.\nSuperior Court of Pennsylvania.\nArgued Nov. 17, 2009.\nFiled Nov. 8, 2010.\nMatthew Debbis, Pittsburgh, for appellant.\nMichael W. Streily, Deputy Dist. Atty., and Sandra Preuhs, Asst. Dist. Atty., Pittsburgh, for Commonwealth, appellee.\nBEFORE: PANELLA, SHOGAN and COLVILLE , JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "0901-01",
+  "first_page_order": 927,
+  "last_page_order": 938
+}

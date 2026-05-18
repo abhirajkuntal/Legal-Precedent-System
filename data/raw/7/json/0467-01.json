@@ -1,0 +1,154 @@
+{
+  "id": 7285654,
+  "name": "Robert GUZZETTA and Kathleen S. Guzzetta, Defendants Below, Appellants, v. SERVICE CORPORATION OF WESTOVER HILLS, Plaintiff Below, Appellee",
+  "name_abbreviation": "Guzzetta v. Service Corp. of Westover Hills",
+  "decision_date": "2010-11-09",
+  "docket_number": "No. 34, 2010",
+  "first_page": "467",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "1998 WL 474195",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 7863960",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1975 WL 7481",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "201 F.3d 883",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1757531
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "888"
+        },
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/201/0883-01"
+      ]
+    },
+    {
+      "cite": "726 A.2d 1215",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11595645
+      ],
+      "pin_cites": [
+        {
+          "page": "1226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/726/1215-01"
+      ]
+    },
+    {
+      "cite": "717 F.2d 385",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11955840
+      ],
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/717/0385-01"
+      ]
+    },
+    {
+      "cite": "164 A.2d 589",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 515,
+    "char_count": 9158,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 5.82749496744523e-08,
+      "percentile": 0.36245452920228166
+    },
+    "sha256": "bbc0101aab9b0343111d4f1f9b6b14f3608c1e3a5395a43cae98054b2a81f99b",
+    "simhash": "1:bf7382e66f0b28ed",
+    "word_count": 1463
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, BERGER and JACOBS, Justices."
+    ],
+    "parties": [
+      "Robert GUZZETTA and Kathleen S. Guzzetta, Defendants Below, Appellants, v. SERVICE CORPORATION OF WESTOVER HILLS, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "BERGER, Justice:\nIn this appeal we consider whether the Court of Chancery abused its discretion in setting the amount of an injunction bond. A party that is wrongfully enjoined may recover damages resulting from the injunction, but that recovery is limited to the amount of the bond. Thus, in order to fully protect the enjoined party, the trial court should set the bond at a level likely to meet or exceed a reasonable estimate of potential damages. In this ease, the trial court correctly rejected several items that appellants included in their list of potential damages. But the remaining items totaled more than twice the amount of the bond, and the trial court did not explain which of the remaining items were rejected, or why. Accordingly, we reverse.\nFactual and Procedural Background\nIn 2007 Robert and Kathleen S. Guzzet-ta purchased 907 Berkeley Road, a residential property located in Westover Hills, Wilmington, Delaware (the Property). At that time, the Guzzettas owned and lived in the adjoining property. They purchased the Property in order to create a grassy play area for their children. The Guzzettas intended to demolish the existing structures and re-landscape the Property. In May 2007, the Service Corporation of Westover Hills filed this action seeking a permanent injunction claiming that the demolition would violate a restrictive covenant in the Guzzettas\u2019 deed. The trial court entered a temporary restraining order, and then a preliminary injunction.\nShortly after being enjoined, the Guzzet-tas filed a motion, pursuant to Court of Chancery Rule 65(c), seeking security in the amount of $10,189.56, based on an itemized list of potential damages. After a telephonic hearing, the court required the Service Corporation to post security in the amount of $5,000. A Master tried the case, and issued a Draft Report on August 5, 2008. The Master concluded that the Service Corporation should not be granted a permanent injunction because the applicable deed restriction did not govern the planned demolition.\nIn September 2008, the Guzzettas filed a motion to increase the security from $5,000 to at least $79,146.94. The trial court agreed to increase the Service Corporation\u2019s bond to $10,000. The Master issued a Final Report in April 2009, and in December 2009, the Court of Chancery: 1) vacated the preliminary injunction; 2) denied the Service Corporation\u2019s application for a permanent injunction; 3) ordered the Service Corporation to reimburse the Guz-zettas for fees and costs; and 4) awarded the Guzzettas $10,000 in damages. This appeal followed.\nDiscussion\nThe only issue on appeal is whether the trial court abused its discretion in setting the amount of the injunction bond. Chancery Court Rule 65(c), provides that a party seeking an injunction must give security \u201cfor the payment of such costs and damages as may be incurred or suffered by any party who is found to have been wrongfully enjoined. ...\u201d The security, usually a bond, fixes the maximum amount that an enjoined party may recover. Damages are those proximately caused by the injunction, and must be proven by a preponderance of the evidence. But, damages are not fully ascertainable until the court vacates the injunction. Because actual damages are uncertain, and because a wrongfully enjoined party has no recourse other than the security, the court should \u201cerr on the high side\u201d in setting the bond. In Mead Johnson & Co. v. Abbott Laboratories, the Seventh Circuit Court of Appeals explained:\nWhen setting the amount of security, district courts should err on the high side. If the district judge had set the bond at $50 million, as Abbott requested, this would not have entitled Abbott to that sum; Abbott still would have to prove its loss, converting the \u201csoft\u201d numbers to hard ones. An error in setting the bond too high thus is not serious .... Unfortunately, an error in the other direction produces irreparable injury, because the damages for an erroneous preliminary injunction cannot exceed the amount of the bond.\nThe party seeking an injunction bond must support its application with \u201cfacts of record or ... some realistic as opposed to a yet-unproven legal theory from which damages could flow to the party enjoined.\u201d The Guzzettas, in their motion to increase the bond, attached an itemized list of their potential damages. That list included, among other things, $8,123.63 for additional property and school taxes, $1,564 for insurance, $8,000 for increased demolition costs, $550 for increased landscape costs, and $8,500 for lost use of the Property. Those potential damages total almost $27,000. The other substantial items on the Guzzettas\u2019 list were $2,866.50 for a landscape architect, $1,532 for interest on damages, and $46,646.15 for the Guzzettas\u2019 time off from work.\nThe trial court decided that the Guzzettas \u201cmay be able to prove damages resulting from higher property taxes ... and higher insurance costs, as well as something for lost use of the property....\u201d The court rejected their claimed damages for landscaping and arborist costs because there was no showing that those costs were proximately caused by the injunction. It rejected the interest on damages claim because there was an insufficient showing of out-of-pocket damages. Finally, the trial court found no legal basis on which to claim damages based on the time spent litigating this matter. Without further reference to the amounts in the Guzzettas\u2019 motion, the court increased the bond from $5,000 to $10,000.\nWe agree with the trial court\u2019s reasons for rejecting the categories of potential damages noted above. On appeal, the Guzzettas specifically address only the $46,646.15 in damages for lost time from work. They cite Emerald Partners v. Berlin as authority that such damages can be compensated under Rule 65(c). That case is inapposite. In Emerald Partners, the enjoined party recovered the value of the senior executives\u2019 time spent dealing with the effects of having a merger enjoined. Here, there was nothing that the Guzzet-tas had to do but wait for the injunction to be lifted. In short, the Guzzettas have presented no legal theory under which their lost earnings would be protected by an injunction bond.\nEven after excising the rejected categories of damages from the calculation, however, the trial court\u2019s decision to set the bond at $10,000 remains problematic. We recognize that a decision fixing the amount of a bond is a matter of discretion, but that discretion must be exercised in a manner consistent with the purpose of an injunction bond \u2014 to protect a party that is wrongfully enjoined. It should be remembered that the bond does not entitle the enjoined party to any damages, and the cost of a bond typically is a very small fraction of its face value. If necessary, the trial court could conduct an evidentiary hearing to satisfy itself that there is some credible basis for the estimated damages. Having done so, a proper exercise of discretion would then require that the court explain its rationale for setting a bond at an amount well below the enjoined party\u2019s credible estimate of potential damages, The trial court did not provide such an explanation, and it does not appear from the record that the Guzzettas\u2019 remaining estimated damages are unreasonable.\nConclusion\nBased on the foregoing, the Court of Chancery\u2019s award of $10,000 in damages is reversed, and this matter is remanded for further action in accordance with this decision. Jurisdiction is not retained.\n. The Service Corporation argues that, because the Guzzettas' Notice of Appeal failed to identify the Orders setting the amount of the injunction bond, their claim is barred under Supreme Court Rule 7(c). The Notice of Appeal stated that the Guzzettas were appealing the trial court\u2019s decision to limit their damage award. The Memorandum Opinion, identified in the Notice of Appeal, reviewed the court\u2019s earlier Orders setting the amount of the bond. We are satisfied that the Notice of Appeal gave adequate notice of the issue being appealed. Cf. Bellanca Corp. v. Bellanca, 164 A.2d 589 (Del.1960).\n. Coyne-Delany Co., Inc. v. Capital Development Bd. of Illinois, 717 F.2d 385, 393 (7th Cir.1983).\n. Emerald Partners v. Berlin, 726 A.2d 1215, 1226 (Del.1999).\n. 201 F.3d 883, 888 (7th Cir.2000).\n. Petty v. Penntech Papers, Inc., 1975 WL 7481 at *1 (Del.Ch.).\n. Service Corporation of Westover Hills v. Guzzetta, C.A. No. 2922-VCP, Order at 2-3, 2008 WL 7863960 (October 30, 2008).\n. 1998 WL 474195 (Del.Ch.).\n. Mead Johnson & Co. v. Abbott Laboratories, 201 F.3d at 888.",
+        "type": "majority",
+        "author": "BERGER, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Thomas C. Marconi, Esquire (argued), and Paul E. Bilodeau, Esquire, of Losco & Marconi, P.A., Wilmington, Delaware, for Appellants.",
+      "Richard H. Cross, Jr., Esquire, (argued), Amy E. Evans, Esquire, and Ryan M. Ernst, Esquire, of Cross & Simon, LLC, Wilmington, Delaware, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Robert GUZZETTA and Kathleen S. Guzzetta, Defendants Below, Appellants, v. SERVICE CORPORATION OF WESTOVER HILLS, Plaintiff Below, Appellee.\nNo. 34, 2010.\nSupreme Court of Delaware.\nSubmitted: Sept. 1, 2010.\nDecided: Nov. 9, 2010.\nThomas C. Marconi, Esquire (argued), and Paul E. Bilodeau, Esquire, of Losco & Marconi, P.A., Wilmington, Delaware, for Appellants.\nRichard H. Cross, Jr., Esquire, (argued), Amy E. Evans, Esquire, and Ryan M. Ernst, Esquire, of Cross & Simon, LLC, Wilmington, Delaware, for Appellee.\nBefore STEELE, Chief Justice, BERGER and JACOBS, Justices."
+  },
+  "file_name": "0467-01",
+  "first_page_order": 495,
+  "last_page_order": 499
+}

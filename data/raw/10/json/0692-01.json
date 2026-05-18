@@ -1,0 +1,145 @@
+{
+  "id": 7288527,
+  "name": "Matthew DOUCETTE v. HALLSMITH/SYSCO FOOD SERVICES, INC., et al.",
+  "name_abbreviation": "Doucette v. Hallsmith/Sysco Food Services, Inc.",
+  "decision_date": "2010-12-23",
+  "docket_number": "",
+  "first_page": "692",
+  "last_page": "695",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 692"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "495 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7919893
+      ],
+      "pin_cites": [
+        {
+          "page": "812"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/495/0808-01"
+      ]
+    },
+    {
+      "cite": "420 A.2d 251",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7946822
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "252"
+        },
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/420/0251-01"
+      ]
+    },
+    {
+      "cite": "651 A.2d 358",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12256246
+      ],
+      "pin_cites": [
+        {
+          "page": "362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/651/0358-01"
+      ]
+    },
+    {
+      "cite": "678 A.2d 578",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11738094
+      ],
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/678/0578-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 444,
+    "char_count": 8109,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 5.684874614740142e-08,
+      "percentile": 0.3577113955292374
+    },
+    "sha256": "9c36bfd20eec8aed48f46b4ce704d7a4c07c76eddbc0835f57af4212bd86ed46",
+    "simhash": "1:e75102067513ade9",
+    "word_count": 1336
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Matthew DOUCETTE v. HALLSMITH/SYSCO FOOD SERVICES, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\n[\u00b6 1] Hallsmith/Sysco Food Services, Inc., has filed a notice of appeal and a motion for a stay of enforcement of a decision of a Workers\u2019 Compensation Board hearing officer (Collier; HO) awarding Matthew Doucette total incapacity benefits from April 1, 2004, through April 13, 2009, with appropriate offsets, for a violation of Me. W.C.B. Rule, ch. 1, \u00a7 1, the \u201cfourteen-day rule.\u201d The fourteen-day rule requires that an employer accept a claim, pay without prejudice pending an investigation, or file a notice of controversy \u201c[w]ithin 14 days of notice or knowledge of a claim for incapacity or death benefits.\u201d Id. If the employer fails to comply, it must pay total benefits from the date of incapacity until the employer files the notice and pays accrued benefits. Id.\n[\u00b6 2] The hearing officer found that Sysco attempted to file a notice of controversy on the fourteenth day by electronic mail, but due to technical difficulties, the notice was not transmitted to the Board until the fifteenth day. On these facts, the hearing officer determined that Sysco violated the rule and awarded Doucette five years\u2019 of total incapacity benefits.\n[\u00b6 3] Sysco asks us to stay enforcement of the decree because it contends that the hearing officer\u2019s decision is clearly erroneous; the award, if paid, will constitute a windfall to the employee and unjust penalty to the employer; and the statutory remedy of recoupment following appeal provided in 39-A M.R.S. \u00a7 324(1) (2009), is inadequate to protect its economic interests. Alternatively, Sysco asks that we require that the award be paid into escrow to protect its right to recover in the event of a successful appeal.\n[\u00b6 4] The Workers\u2019 Compensation Act does not provide for a stay of an award pending appeal. Title 39-A M.R.S. \u00a7 324(1), provides that an \u201cemployer or insurance carrier shall make compensation payments ... within 10 days after any order or decision of the board awarding compensation\u201d and that \u201cpayments may not be suspended while the appeal is pending.\u201d It also provides a mechanism for recovery of payments made pending appeal, \u201cif and to the extent that the Law Court has decided that the employee was not entitled to the compensation paid.\u201d Id. It provides that the \u201cboard has full jurisdiction to determine the amount of overpayment, if any.\u201d Id. The Board is to consider the financial situation of the employee and his family when determining whether ordering repayment would cause hardship. Id.\n[\u00b6 5] Sysco nonetheless urges us to stay the decision pending appeal or formulate a remedy that would protect its funds in the event that we ultimately determine that the fourteen-day rule claim lacks merit. This we decline to do. As we have held, \u201cthe rights of a party under the Workers\u2019 Compensation Act are purely statutory.\u201d Guar. Fund Mgmt. Servs. v. Workers\u2019 Comp. Bd., 678 A.2d 578, 583 (Me.1996) (quotation marks omitted); Jordan v. Sears, Roebuck & Co., 651 A.2d 358, 362 (Me.1994). We have addressed employers\u2019 concerns with the purported inadequacy of similar provisions in predecessor statutes, and we have consistently held that we are limited to the statutory remedies for repayment of benefits ultimately determined not to be properly paid. See Am. Mut. Ins. Cos. v. Murray, 420 A.2d 251, 252 (Me.1980) (holding lack of a provision for repayment of benefits after employer\u2019s successful appeal is a question to be addressed by the Legislature); Ryerson v. Pratt & Whitney Aircraft, 495 A.2d 808, 812 (Me.1985) (\u201c[T]he practical and legal difficulties of recovering the medical payments were presumably well known to the [Legislature when it comprehensively directed that \u2018compensation\u2019 without limitation was due and payable within 10 days after a commission order.\u201d).\n[\u00b6 6] Because there is an express provision requiring payment of an award pending appeal, as well as a procedure for recovering payments that we may ultimately determine are not due the employee, we are constrained to deny the motion for a stay or formulate an alternative remedy. \u201cIn the absence of an express legislative command or a clear indication of legislative intention, we leave the parties where the [Legislature left them.\u201d Am. Mut. Ins. Co., 420 A.2d at 252.\n[\u00b6 7] Recognizing the urgency of the issue presented for appeal, we treat the employer\u2019s motion as a petition for appellate review pursuant to M.R.App. P. 23, and we grant the employer\u2019s petition for appellate review, M.R.App. P. 23(c), without the necessity of the parties\u2019 filing the petition for appellate review and a response. The appeal shall address the propriety of the Workers\u2019 Compensation Board order and appropriate remedies in light of the facts and circumstances of this case.\n[\u00b6 8] The parties shall comply with the following expedited briefing schedule: The employer/appellant shall cause the record on appeal to be transmitted to the Law Court on or before January 6, 2011; the appellant shall file the appendix to the briefs and shall file the appellant\u2019s brief on or before January 20, 2011; the employee/appellee shall file the appellee\u2019s brief on or before January 20, 2011; and either party may file a reply brief on or before February 3, 2011. Oral argument shall be heard on the matter on February 9, 2011.\nThe entry is:\nEmployer\u2019s motion for a stay is denied. Appeal granted; briefing schedule set forth herein.\n. The \"fourteen-day rule\u201d violation relates to a claim for a 2004 work injury. The hearing officer also granted Doucette's petition for award related to a 2008 work injury, and denied his petition to remedy discrimination. The petition for a stay relates only to the fourteen-day rule award. Me. W.C.B. Rule, ch. 1, \u00a7 1 provides, in relevant part:\n1. Within 14 days of notice or knowledge of a claim for incapacity or death benefits for a work-related injury, the employer or insurer will:\nA. Accept the claim and file a Memorandum of Payment checking \"Accepted\u201d in Box 18; or\nB. Pay without prejudice and file a Memorandum of Payment checking \"Voluntary Payment Pending Investigation\u201d in Box 18; or\nC.Deny the claim and file a Notice of Controversy.\n2. If the employer fails to comply with the provisions of Rule 1.1, the employee must be paid total benefits, with credit for earnings and other statutory offsets, from the date of incapacity in accordance with 39-A M.R.S.A. Sec. 205(2) and in compliance with 39-A M.R.S.A. Sec. 204. The requirement for payment of benefits under this subsection automatically ceases upon the filing of a Notice of Controversy and the payment of any accrued benefits.\n. Title 39-A M.R.S. \u00a7 324(1) (2009) provides, in relevant part:\nThe employer or insurance carrier shall make compensation payments within 10 days after the receipt of notice of an approved agreement for payment of compensation or within 10 days after any order or decision of the board awarding compensation. If the board enters a decision awarding compensation and an appeal is filed with the Law Court pursuant to section 322, payments may not be suspended while the appeal is pending. The employer or insurer may recover from an employee payments made pending appeal to the Law Court if and to the extent that the Law Court has decided that the employee was not entitled to the compensation paid. The board has full jurisdiction to determine the amount of overpayment, if any, and the amount and schedule of repayment, if any. The board, in determining whether or not repayment should be made and the extent and schedule of repayment, shall consider the financial situation of the employee and the employee\u2019s family and may not order repayment that would work hardship or injustice.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Elizabeth J. Ernst, Esq., Douglas, Den-ham, Buccina & Ernst, Portland, ME, for Hallsmith/Sysco Food Services, Inc.",
+      "David E. Hirtle, Esq., MacAdam Law Offices, P.A., Portland, ME, for Matthew Doucette."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 138\nMatthew DOUCETTE v. HALLSMITH/SYSCO FOOD SERVICES, INC., et al.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Dec. 21, 2010.\nDecided: Dec. 23, 2010.\nElizabeth J. Ernst, Esq., Douglas, Den-ham, Buccina & Ernst, Portland, ME, for Hallsmith/Sysco Food Services, Inc.\nDavid E. Hirtle, Esq., MacAdam Law Offices, P.A., Portland, ME, for Matthew Doucette.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0692-01",
+  "first_page_order": 692,
+  "last_page_order": 695
+}

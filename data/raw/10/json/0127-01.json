@@ -1,0 +1,213 @@
+{
+  "id": 7283021,
+  "name": "In re A.T.; District of Columbia, Appellant",
+  "name_abbreviation": "In re A.T.",
+  "decision_date": "2010-12-16",
+  "docket_number": "No. 10-FS-124",
+  "first_page": "127",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 9509,
+    "name": "United States Court of Appeals for the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "112 Daily Wash. L. Rptr. 37",
+      "category": "reporters:state",
+      "reporter": "Daily Wash. L. Rptr.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "859 A.2d 1058",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9165445
+      ],
+      "pin_cites": [
+        {
+          "page": "1061"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/859/1058-01"
+      ]
+    },
+    {
+      "cite": "851 A.2d 497",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9237795
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "502"
+        },
+        {
+          "page": "502"
+        },
+        {
+          "page": "503"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/851/0497-01"
+      ]
+    },
+    {
+      "cite": "448 A.2d 244",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7952831
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "246",
+          "parenthetical": "citing Kegley, 440 A.2d at 1019"
+        },
+        {
+          "page": "246",
+          "parenthetical": "where the trial court erred by conducting a \"trial de novo,\" the error did \"not preclude our independent review of the record\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/448/0244-01"
+      ]
+    },
+    {
+      "cite": "440 A.2d 1013",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7946870
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1018"
+        },
+        {
+          "page": "1019"
+        },
+        {
+          "page": "1019"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/440/1013-01"
+      ]
+    },
+    {
+      "cite": "500 A.2d 998",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7903744
+      ],
+      "weight": 6,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1000",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "1001"
+        },
+        {
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "1001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/500/0998-01"
+      ]
+    },
+    {
+      "cite": "501 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7895104
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/501/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1034,
+    "char_count": 26885,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 1.0678041250728425e-07,
+      "percentile": 0.5589750599359268
+    },
+    "sha256": "e0049f5a71e379538d66eca906a168cd6013c3657d5225bdead2ab510bb85177",
+    "simhash": "1:98e7939e22681c4d",
+    "word_count": 4254
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KRAMER and OBERLY, Associate Judges, and BELSON, Senior Judge."
+    ],
+    "parties": [
+      "In re A.T.; District of Columbia, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OBERLY, Judge:\nThe District of Columbia appeals from the Superior Court\u2019s January 4, 2010, Findings of Fact, Conclusion of Law, and Order of Admission, which granted A.T.\u2019s \u201cPetition for Admission of a Mentally Retarded Person,\u201d and ordered that A.T. be admitted to a Department on Disability Services (\u201cDDS\u201d) facility for the provision of residential habilitation. On appeal, the District argues, first, that the trial court had no authority to conduct a de novo hearing to determine whether A.T. fit within the statutory definition of \u201cmentally retarded,\u201d after DDS had already determined that she did not and, second, that under the correct, deferential standard for review of agency decisions, DDS\u2019s determination that A.T. was ineligible for services should have been affirmed. In the alternative, the District argues that, if this court does not overturn the Superior Court\u2019s de novo review of DDS\u2019s administrative decision, then we should hold that the Superior Court erred when it held that a current diagnosis of mental retardation is not a prerequisite for obtaining residential habilitation services. We hold that the trial judge exceeded her authority in conducting a de novo review of DDS\u2019s decision, and that DDS did not improperly deny services to A.T. Accordingly, we need not reach DDS\u2019s argument that a current diagnosis of mental retardation is a prerequisite to eligibility for services.\nI. FACTS AND PROCEDURAL BACKGROUND\nA. The Statute\nThe Mentally Retarded Citizens Constitutional Rights and Dignity Act of 1978 (the \u201cAct\u201d) defines \u201cmental retardation\u201d as \u201ca substantial limitation in capacity that manifests before 18 years of age and is characterized by significantly subaverage intellectual functioning, existing concurrently with 2 or more significant limitations in adaptive functioning.\u201d D.C.Code \u00a7 7-1301.03(19) (2008 Repl.). The intent of the Council was to \u201c(1) Assure that [District residents] with mental retardation shall have all the civil and legal rights enjoyed by all other citizens of [the District] and the United States; (2) Secure for each resident ... with mental retardation, regardless of ability to pay, such habilitation as will be suited to the needs of the person ...; (3) Encourage and promote the development of the ability and potential of each person with mental retardation in the District to the fullest possible extent, no matter how severe his or her degree of disability; (4) Promote the economic security, standard of living and meaningful employment of persons with mental retardation; (5) Maximize the assimilation of persons with mental retardation into the ordinary life of the community in which they live; and (6) Provide a mechanism for the identification of persons with mental retardation at the earliest age possible.\u201d D.C.Code \u00a7\u00a7 7-1301.02(a)(l)-(6). \u201cHabilitation\u201d is defined as \u201cthe process by which a person is assisted to acquire and maintain those life skills which enable him or her to cope more effectively with the demands of his or her own person and of his or her own environment ... and to raise the level of his or her physical, intellectual, social, emotional and economic efficiency.\u201d It \u201cincludes, but is not limited to, the provision of community-based services.\u201d D.C.Code \u00a7 7-1301.03(14). DDS is charged with providing habilitation services to all District residents who fit within the Act\u2019s definition of mental retardation.\nThere are only two ways to obtain residential habilitation under the Act: through voluntary admission or involuntary commitment. For voluntary admission, which is at issue in this case, any individual \u201c14 years of age or older who has mental retardation, may have mental retardation, or has been diagnosed with mental retardation may apply to a Director of a facility for voluntary admission to that facility for habilitation and care. The Director may admit the individual; provided, that the Director has determined that the individual is at least 14 years of age.\u201d D.C.Code \u00a7 7-1303.02(a). If there is a substantial question as to the voluntariness of the admission or the individual\u2019s competency to admit himself or herself, the Act instructs the Superior Court to conduct promptly \u201ca hearing ... to resolve the issues of competency and/or voluntariness.\u201d \u00a7 7 \u2014 1303.02(c)(3). Notably, these are the only two issues the Act empowers the court to address in deciding a petition for voluntary admission; it does not contain any provision authorizing the court to make its own finding of mental retardation.\nB. A.T.\u2019s Application For Voluntary Admission\nA.T. and her older sister, L.T., were removed from them parents\u2019 home in 2002, following allegations of child abuse and neglect, and were committed to the District of Columbia Child and Family Services Agency (\u201cCFSA\u201d). During the course of neglect proceedings in Family Court, \u201cCFSA indicated that ... separating them would adversely affect their well-being.\u201d A.T. \u201chas difficulties in adaptive functioning,\u201d and her disabilities \u201cseverely [affect] her capacity to understand social interactions, plan ahead, organize herself, and self-monitor.\u201d She requires supervision when doing chores such as \u201cwashing clothes, doing the dishes, sweeping and cleaning [her] room.... \u201d A.T.\u2019s doctors have stated that, because of her disabilities, A.T. \u201cis very vulnerable for exploitation.\u201d In 2005, when A.T. was sixteen, Dr. David Missar, a clinical psychologist, assessed her IQ to be 73, and diagnosed her as having Pervasive Developmental Disorder (\u201cPDD\u201d), Attention Deficit Hyperactivity Disorder (\u201cADHD\u201d), and Combined Type Mixed Receptive-Expressive Language Disorder. Importantly for this case, Dr. Missar did not at that time diagnose her as mentally retarded.\nIn 2007, in anticipation of L.T.\u2019s twenty-first birthday, Superior Court Judge Linda Kay Davis ordered DDS to appear in the sisters\u2019 neglect cases for purposes of transitioning them into the DDS system, because each sister would age out of CFSA upon turning twenty-one. DDS determined that L.T. qualified for services from the Developmental Disabilities Administration (\u201cDDA\u201d), one of the agencies through which DDS provides habilitation services to eligible District residents. To avoid separating the sisters, Judge Davis ordered that L.T. remain at the CFSA-li-censed group home until A.T. was ready to transition to DDS, in January 2010.\nIn August 2008, CFSA submitted an intake application to DDS on A.T.\u2019s behalf, seeking housing, day programming, and case management, to begin on her twenty-first birthday. AT.\u2019s application did not state that she had been diagnosed with mental retardation, only PDD. CFSA also submitted two psychological evaluations that had been conducted during A.T.\u2019s neglect case. The first was Dr. Missar\u2019s 2005 evaluation, diagnosing her with, inter alia, .PDD and an IQ of 73. The other evaluation was performed by clinical psychologist Dr. Michael Gilliard, in April 2008, when A.T. was nineteen. Dr. Gilli-ard diagnosed her with PDD, ADHD, Mixed Receptive-Expressive Language Disorder, and a mathematics disorder. Dr. Gilliard estimated A.T.\u2019s IQ to be 98, which is considered within the average range of functioning.\nA.T. received a Notice of Determination on September 10, 2008, advising that she was ineligible for DDA services, but informing her that she could request a review of the decision, orally or in writing, by sending a written request to the Intake Chief within fifteen working days. At CFSA\u2019s urging, A.T. was referred to DDS\u2019s consulting psychologist, Dr. Tonya Lockwood, for an additional evaluation. Dr. Lockwood tested A.T. in December 2008, and placed her IQ score at 81, which put A.T. in the \u201clow average range of cognitive functioning.\u201d Dr. Lockwood found that A.T. had \u201cmild deficits in adaptive functioning\u201d but did not \u201cmeet the diagnostic criteria ... for mental retardation.\u201d\nIn January 2009, A.T.\u2019s doctors sent a letter to DDS, requesting that she be made eligible for DDA services because \u201cof her difficulties in adaptive functioning that include deficits in self-care, learning, self-direction, capacity for independent living and economic self-sufficiency....\u201d The letter listed A.T.\u2019s diagnoses, and stated that \u201c[i]n spite [of] having normal intellectual functioning, [A.T.] has difficulty applying basic knowledge to her daily life.... At present it is not expected that [A.T.] will ever be [able] to obtain full independence. She will always need supports for daily living and for any type of employment situation.\u201d (emphasis added).\nA.T. received another Notice of Determination on January 12, 2009, again denying DDA services, but advising her of her right to seek review of the determination by writing to the Intake Officer. A few days later, A.T. received yet another Notice, this time explaining that the denial was based on A.T.\u2019s scores from Dr. Lockwood\u2019s psychological exam, coupled with the fact that A.T. did not meet the diagnostic criteria for mental retardation. As Dr. Lockwood wrote, although A.T. \u201cexhibits deficits in two or more areas of adaptive functioning, her intellectual function [is] in the low average range.\u201d The notice again indicated that A.T. could appeal the decision, orally or in writing, and that a written request for review should be sent to the Intake Chief.\nA.T.\u2019s guardian ad litem in the neglect case then requested a meeting with Laura Nuss, the Deputy Director of DDS. A meeting was held on August 28, 2009, with Nuss, A.T., staff from A.T.\u2019s school, A.T.\u2019s CFSA social worker, and various attorneys. Deputy Director Nuss sent A.T. a letter on September 4, 2009, confirming that A.T. was ineligible for DDA services, but advising that she was instead eligible for services offered through the Rehabilitation Services Administration, which offers vocational training, assistance in finding a job, and help with independent living skills, but does not offer housing. Deputy Director Nuss based her decision on the \u201cdocumentation presented, most notably the results of psychological evaluations performed from December 2004 through April 2008.\u201d The letter served \u201cas the final administrative decision\u201d on A.T.\u2019s \u201celigibility for DDA services\u201d and advised that A.T. had the right to bring a civil action in the Superior Court to review the agency\u2019s decision.\nC. Superior Court Proceedings\nInstead of bringing a civil action to review DDS\u2019s decision, A.T.\u2019s guardian ad litem filed a \u201cPetition for Admission of a Mentally Retarded Person\u201d in the Family Court of the Superior Court. The petition sought an order that A.T., as a person with mild mental retardation, be placed into a DDS-licensed facility to obtain residential habilitation services. The matter was assigned to Judge Davis, who had overseen the sisters\u2019 neglect cases. On October 7, 2009, the District of Columbia (representing DDS and DDA) file'd a motion to dismiss A.T.\u2019s petition on the ground that A.T. was not eligible for DDA residential habilitation services, which the trial court denied. The District also submitted Written Objections to Conduct of Trial, one of which was that the proceedings were \u201cbefore the Court for review of an agency action in a non-contested case,\u201d and that the trial court was therefore limited to an appellate review of DDS\u2019s decision, based on the record before the agency. The District maintained throughout the Superi- or Court proceedings that under the Act, \u201cthe Court does not have a role in determining whether or not somebody\u2019s mentally retarded.\u201d The trial court denied the District\u2019s objections regarding the appropriate scope of review, and conducted a de novo hearing on the issue of A.T.\u2019s eligibility for DDA services, i.e., whether she was mentally retarded.\nAt the hearing, A.T. presented testimony from her social workers, specialists, and therapists, and also from Dr. Missar, who was qualified as an expert in clinical psychology. Dr. Missar testified that he had erred in 2005 by not diagnosing A.T. as mildly mentally retarded, and that he was positive that based on A.T.\u2019s cognitive disabilities and her adaptive function disabilities, she would have met the diagnostic qualifications for mental retardation. He explained that his primary focus at the time of the 2005 examination was the PDD diagnosis, and also that he had been \u201cusing a very puristic view of mental retardation where [he] used a specific cutoff of 70 as ... an indicator of mild mental retardation functioning.\u201d According to Dr. Missar, the treatises on mental retardation now \u201creflect a movement away from strict numerical definitions of cognitive ability.\u201d\nThe District presented testimony from Dr. Lockwood, Laura Nuss, and Dr. Richard Boesch, who was qualified as the District\u2019s expert in clinical psychology and mental retardation. Regarding DDS\u2019s process for diagnosing mental retardation, Deputy Director Nuss and Dr. Lockwood testified that DDS utilizes the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders (the \u201cDSM-IV-TR\u201d), which is the current acceptable diagnostic criteria for mental retardation. Dr. Boesch (who did not independently examine A.T.), testified that the DSM-IV-TR allows for a range of IQ scores, \u201cup to a score of 75 on an IQ test in order to find someone as having intellectual disability or mental retardation.\u201d Both Drs. Lockwood and Boesch testified that it would be possible to diagnose mental retardation \u201cin individuals with IQ scores between 71 and 75 if they have significant deficits in adaptive behavior that meet the criteria for mental retardation.\u201d\nOn December 15, 2009, the trial court issued its Finding Regarding Mental Retardation. The court noted that \u201c[pjrior to, and during, the evidentiary hearing, government counsel argued that this Court was required to consider the dispute between the parties as a \u2018review of an agency action in a non-contested case.\u2019 \u201d The trial court rejected that argument, and instead held that it was the court\u2019s responsibility to \u201cdetermine application of [t]he Act to one who is seeking admission for habilitation services.\u201d Placing great weight on Dr. Missar\u2019s testimony, the trial court held that A.T. \u201cis a person with \u2018mental retardation\u2019 within the definition of D.C.Code \u00a7 7-1301.03(19),\u201d and that \u201c[a]s a result, she is eligible for voluntary admission into an institution or residential facility....\u201d\nOn January 4, 2010, the trial court issued Findings of Fact, Conclusion of Law, and Order of Admission, in which the court found that A.T. \u201cis diagnosed with mild mental retardation cognitively,\u201d that A.T. was competent to request admission, and that her request was voluntary, as required by D.C.Code \u00a7 7-1301.02. The court ordered that A.T. be admitted \u201cfor the provision of care and residential habili-tation appropriate to her needs.\u201d This appeal followed.\nII. DISCUSSION\nAt the outset, we note that this was a difficult, borderline case that was handled commendably by all parties. Prior to the Superior Court hearing, and without any legal obligation to do so, DDS located a host home (a type of adult foster care) that was willing to take both sisters, even if A.T. did not qualify for DDA services. Indeed, at oral argument counsel for the District explained that it delayed moving A.T.\u2019s sister into a host home because it wanted to find a home that would accept both sisters, notwithstanding that the delay resulted in additional costs to the District. Likewise, the trial court\u2019s actions were clearly motivated by a concern for A.T.\u2019s well-being, as were those of A.T.\u2019s counsel and guardian ad litem. Nonetheless, we must apply the law applicable to this type of proceeding, and we are compelled to find that the trial court erred when it undertook to make its own determination of mental retardation.\nImportantly, however, we note that the District freely acknowledged at oral argument that A.T. is entitled to reapply to DDS for voluntary admission. Armed as she is with the new information that came to light during the Superior Court hearing, A.T. might well be able to persuade the agency to reach a different decision. Dr. Missar provided \u201cpowerful and convincing\u201d testimony that she was mentally retarded prior to the age of eighteen. There was testimony from DDS\u2019s own witnesses that an individual with an IQ score of 73 could be diagnosed as mentally retarded pursuant to the DSM-IV-TR, the manual that DDS utilizes when making these types of determinations. And if this additional evidence did not persuade the agency to conclude that A.T. is eligible for services, she would be free to seek judicial review of that determination. For now, however, we must review the record that was before the agency when it made the decision A.T. challenged in the Superior Court.\nA. The Trial Court Failed to Apply the Proper Standard of Review\nThe trial court claimed that the authority to conduct a de novo hearing arose from the \u201cexpressed intention of the [ ] Council in enacting the [Act]\u201d and also from \u201copinions of the District of Columbia Court of Appeals that [t]he Act is to be read expansively.\u201d In particular, the trial court relied on In re Bicksler, 501 A.2d 1 (D.C.1985), in which we construed the Act\u2019s definition of \u201cadmission\u201d in a manner that brought it into conformity with a substantive section of the Act in order to ensure that \u201cvoluntary entrance for habili-tation in an institution or residential facility\u201d would be available for all mentally retarded persons, instead of limited to those who were moderately or severely mentally retarded. The trial court\u2019s reliance on Bicksler was misplaced. In that case, we analyzed and interpreted the provisions of the Act to correct a drafting \u201coversight.\u201d Bicksler, 501 A.2d at 7. We did not hold that a trial court has the authority to make an initial determination of mental retardation in the voluntary admissions process. The Act specifically provides the court with a role only after an individual has been admitted to a facility. See D.C.Code \u00a7\u00a7 7-1303.02(b), (c). The initial admission decision (which necessarily includes determining whether the applicant is mentally retarded) rests squarely with the director of the facility to which the applicant has applied. See \u00a7 7-1303.02(a). An applicant who is unhappy with a director\u2019s decision may petition the Superior Court for review. See Rones v. District of Columbia Dep\u2019t of Hous. & Cmty. Dev., 500 A.2d 998, 1001 n. 5 (D.C. 1985).\nD.C.Code \u00a7 2-510(a) (2006 Repl.) distinguishes between contested and non-contested cases for purposes of judicial review of an agency decision. A matter is contested where it involves \u201ca trial-type hearing which is required either by statute or by constitutional right.\u201d Rones, 500 A.2d at 1000 (quotation marks omitted). Because A.T. did not have a constitutional or statutory right to a trial-type hearing before DDS, hers was a non-contested case, and therefore was properly before the Superior Court. See id. at 1001 & n. 5 (noting that a party aggrieved by an agency decision in a non-contested case may seek redress in the Superior Court). The Superior Court must apply the same level of review that this court uses when reviewing contested cases, which \u201cprohibits the substitution of our judgment for that of the agency,\u201d and dictates that we review \u201cthe administrative record alone and not duplicate agency proceedings or hear additional evidence.\u201d Kegley v. District of Columbia, 440 A.2d 1013, 1018 (D.C.1982). In this instance, the trial court should have examined the administrative record for procedural error, for substantial evidence in the record to support DDS\u2019s action, and to determine \u201cif the action [was] in some manner otherwise arbitrary, capricious, or an abuse of discretion or contrary to law.\u201d Barry v. Wilson, 448 A.2d 244, 246 (D.C. 1982) (citing Kegley, 440 A.2d at 1019). The trial court failed to apply the proper standard of review to DDS\u2019s decision, and we therefore reverse the court\u2019s January 4, 2010, Findings of Fact, Conclusion of Law, and Order of Admission (including, of course, its incorporation by reference of the December 15, 2009, Finding Regarding Mental Retardation).\nBecause we apply the same standard of review as would the trial court if we remanded the case to it, for the sake of efficiency we decline to remand and will instead resolve the matter by applying the correct standard ourselves. See Barry, 448 A.2d at 246 (where the trial court erred by conducting a \u201ctrial de novo,\u201d the error did \u201cnot preclude our independent review of the record\u201d); see also Kegley, 440 A.2d at 1019 (\u201c[T]he trial court, uncertain of its role as a reviewing court ... heard additional evidence in the case and did not conf\u00edne itself to reviewing the evidence in the administrative record.... The fact that the trial court clearly erred, however, does not preclude our independent review of the record.\u201d).\nB. DDA\u2019s Denial of Services to A.T. Was Proper\n1. No Procedural Error\nA.T. argues that DDS had no procedures in place to review and resolve her application, and that the \u201cabsence of a procedure is procedural error.\u201d We disagree that there was an absence of procedure at DDS. A.T. received three Notices of Determination, all of which advised her to send a written request for review to the \u201cIntake Chief,\u201d and provided the name and telephone number of a staff member should A.T. have questions. The third Notice, dated January 15, 2009, explained the agency\u2019s reason for denying services to A.T., which was that she did \u201cnot meet the diagnostic criteria ... for mental retardation.\u201d The Notice summarized the scores from Dr. Lockwood\u2019s examination. Finally, A.T. and her lawyers were given the opportunity to meet with Deputy Director Nuss to \u201cdiscuss [DDS\u2019s] determination that A.T. was ineligible for DDA services.\u201d Nuss then provided A.T. with a \u201cfinal administrative decision\u201d regarding A.T.\u2019s ineligibility, in the form of a letter that summarized their meeting and the agency\u2019s reasons for denying her services. The letter listed the criteria for mental retardation, and stated that \u201c[biased on the documentation presented, most notably the results of psychological evaluations performed from December 2004 through April 2008, I have determined that you are not eligible for DDA services.\u201d The letter also advised A.T. that she had the \u201cright to bring a civil action to review this final administrative decision in the Superior Court....\u201d\nBecause hers was a non-contested case, A.T. was not entitled to a formal, trial-type, contested-case hearing before DDS. See Rones, 500 A.2d at 1001. Procedurally, \u201c[a]ll that is required is the opportunity to be heard in a meaningful manner.\u201d Id. (quotation marks omitted). Our function \u201cin reviewing administrative action is to assure that the agency has given full and reasoned consideration to all material facts and issues. The court can only perform this function when the agency discloses the basis of its order by an articulation -with reasonable clarity of its reasons for the decision.\u201d Felicity\u2019s, Inc. v. District of Columbia Bd. of Appeals & Review, 851 A.2d 497, 502 (D.C.2004) (quotation marks omitted). In this case, we are satisfied that A.T. was given the opportunity to be \u201cheal'd in a meaningful manner,\u201d Rones, 500 A.2d at 1001, and that the January 15, 2009 Notice and Nuss\u2019s September 4, 2009 letter clearly articulated DDS\u2019s reasons for denying services to A.T. See Felicity\u2019s, Inc., 851 A.2d at 502.\nFinally, we note that although A.T. complains about the alleged lack of procedures at DDS, she failed to avail herself of the procedures the agency laid out for her, the first step of which was to contact the Intake Chief upon receipt of the Notices of Determination. Despite her failure to follow DDS\u2019s procedures, it appears that A.T. was able to submit any and all documentation that she wanted DDS to consider throughout her application process. She does not claim that her efforts were rebuffed in any way, or that DDS failed to consider everything she put before it in support of her application. Although DDS\u2019s procedures likely could have been more transparent throughout the review process, we hold that there was no procedural error.\n2. Substantial Evidence\nThere was substantial evidence in the record to support DDS\u2019s decision. \u201cSubstantial evidence is defined as such relevant evidence as a reasonable mind might accept as adequate to support a conclusion. We will affirm the agency\u2019s findings of fact as long as they are supported by substantial evidence notwithstanding that there may be contrary evidence in the record (as there usually is).\u201d Washington Hosp. Ctr. v. District of Columbia Dep\u2019t of Emp\u2019t Servs., 859 A.2d 1058, 1061 (D.C.2004) (quotation marks omitted); see also Felicity\u2019s, Inc., 851 A.2d at 503.\nIn considering A.T.\u2019s application for services, DDS reviewed her intake application, her psychological evaluations from Drs. Missar, Gilliard, and Lockwood, and letters from her doctors. None of the materials submitted with A.T.\u2019s application indicated that she was mentally retarded, or otherwise had \u201csignificantly subaverage intellectual functioning.\u201d D.C.Code \u00a7 7-1301.03(19). A.T. did not check the box labeled \u201cmentally retarded\u201d on her intake application. Drs. Lockwood and Missar specifically disclaimed a diagnosis of mental retardation in their evaluations. Finally, the January 2009 letter from A.T.\u2019s own doctors actually stated that A.T. had \u201cnormal intellectual functioning.\u201d Given the lack of evidence in the administrative record to show that A.T. met all of the Act\u2019s requirements for a finding of mental retardation, DDS\u2019s decision that she was ineligible for services was supported by substantial evidence, and was not otherwise arbitrary, capricious, or an abuse of discretion.\nIII. CONCLUSION\nAccordingly, we vacate the trial court\u2019s January 4, 2010, Findings of Fact, Conclusion of Law, and Order of Admission, which incorporated the December 15, 2009, Finding Regarding Mental Retardation, and affirm DDS\u2019s decision that A.T. was ineligible for services on the administrative record before the agency.\nSo ordered.\n. The trial court also cited In re Andre Brooks, 112 Daily Wash. L. Rptr. 37 (D.C.Super.Ct. Jan. 10, 1984), for the proposition that the Act is to be read expansively rather than narrowly-",
+        "type": "majority",
+        "author": "OBERLY, Judge:"
+      }
+    ],
+    "attorneys": [
+      "Stacy L. Anderson, Assistant Attorney General for the District of Columbia, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appellant District of Columbia.",
+      "John J. Connelly, for appellee A.T.",
+      "Joseph W. Jose, Washington, DC, guardian ad litem for appellee A.T."
+    ],
+    "corrections": "",
+    "head_matter": "In re A.T.; District of Columbia, Appellant.\nNo. 10-FS-124.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 26, 2010.\nDecided Dec. 16, 2010.\nStacy L. Anderson, Assistant Attorney General for the District of Columbia, with whom Peter J. Nickles, Attorney General for the District of Columbia, Todd S. Kim, Solicitor General, and Donna M. Murasky, Deputy Solicitor General, were on the brief, for appellant District of Columbia.\nJohn J. Connelly, for appellee A.T.\nJoseph W. Jose, Washington, DC, guardian ad litem for appellee A.T.\nBefore KRAMER and OBERLY, Associate Judges, and BELSON, Senior Judge."
+  },
+  "file_name": "0127-01",
+  "first_page_order": 161,
+  "last_page_order": 170
+}

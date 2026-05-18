@@ -1,0 +1,63 @@
+{
+  "id": 7288790,
+  "name": "COMMONWEALTH of Pennsylvania ex rel. Stanley REBERT, Petitioner v. Stephen D. RAMBLER, Respondent",
+  "name_abbreviation": "Commonwealth ex rel. Rebert v. Rambler",
+  "decision_date": "2010-08-26",
+  "docket_number": "",
+  "first_page": "667",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 667"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 502,
+    "ocr_confidence": 0.653,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661815739142528
+    },
+    "sha256": "ee29d90c8db8478049e218f1907ab0af52036d647c0c972b355ca525aeb0de81",
+    "simhash": "1:12af033567c9cfa0",
+    "word_count": 81
+  },
+  "last_updated": "2023-07-14T18:33:37.211795+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania ex rel. Stanley REBERT, Petitioner v. Stephen D. RAMBLER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of August 2010, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by petitioner, is:\nThe Superior Court erred as a matter of law when it vacated the trial court\u2019s order on the basis that a federal conviction for felony mailing of extortionate communications did not constitute an infamous crime.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania ex rel. Stanley REBERT, Petitioner v. Stephen D. RAMBLER, Respondent.\nSupreme Court of Pennsylvania.\nAug. 26, 2010."
+  },
+  "file_name": "0667-01",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

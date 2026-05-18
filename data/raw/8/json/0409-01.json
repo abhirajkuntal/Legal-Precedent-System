@@ -1,0 +1,602 @@
+{
+  "id": 7285475,
+  "name": "Dianna LAMBERT, Executrix of the Estate of Edward A. Lambert v. Mary Elizabeth KATZ, Executrix of the Estate of Robert W. Wilsbach, Sr. and Pennsylvania Department of Transportation; Mary Elizabeth Katz, Executrix of the Estate of Robert W. Wilsbach, Sr. v. Pennsylvania Department of Transportation. Appeal of: Dianna Lambert, Executrix of the Estate of Edward A. Lambert and Mary Elizabeth Katz, Executrix of the Estate of Robert W. Wilsbach, Sr.",
+  "name_abbreviation": "Lambert v. Katz",
+  "decision_date": "2010-11-15",
+  "docket_number": "",
+  "first_page": "409",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "751 A.2d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11513963,
+        93635
+      ],
+      "weight": 9,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1132"
+        },
+        {
+          "page": "1131"
+        },
+        {
+          "page": "1133-34"
+        },
+        {
+          "page": "1134"
+        },
+        {
+          "page": "1134",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "1135"
+        },
+        {
+          "page": "1135",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/751/1130-01",
+        "/pa/561/0503-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93635
+      ],
+      "weight": 7,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "508"
+        },
+        {
+          "page": "505"
+        },
+        {
+          "page": "510"
+        },
+        {
+          "page": "511-12"
+        },
+        {
+          "page": "512"
+        },
+        {
+          "page": "512"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0503-01"
+      ]
+    },
+    {
+      "cite": "154 A.2d 179",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "210"
+        },
+        {
+          "page": "182"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 Pa. 205",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1286268
+      ],
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/397/0205-01"
+      ]
+    },
+    {
+      "cite": "768 A.2d 1089",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11120025,
+        1276723
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1095"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/768/1089-01",
+        "/pa/564/0407-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 407",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276723
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0407-01"
+      ]
+    },
+    {
+      "cite": "160 L.Ed.2d 257",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 S.Ct. 369",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "543 U.S. 944",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5961062,
+        3434409,
+        5927757,
+        3427567,
+        5977714,
+        5878707,
+        5880087,
+        3437208,
+        5877433,
+        5867482,
+        3430587,
+        5975518,
+        5953593
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/543/0944-12",
+        "/us/543/0944-06",
+        "/us/543/0944-10",
+        "/us/543/0944-05",
+        "/us/543/0944-13",
+        "/us/543/0944-07",
+        "/us/543/0944-09",
+        "/us/543/0944-04",
+        "/us/543/0944-01",
+        "/us/543/0944-03",
+        "/us/543/0944-11",
+        "/us/543/0944-08",
+        "/us/543/0944-02"
+      ]
+    },
+    {
+      "cite": "848 A.2d 917",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        91561,
+        91567,
+        91635,
+        9248885,
+        9248824,
+        9248860
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0654-01",
+        "/pa/577/0653-01",
+        "/pa/577/0654-02",
+        "/a2d/848/0917-03",
+        "/a2d/848/0917-01",
+        "/a2d/848/0917-02"
+      ]
+    },
+    {
+      "cite": "577 Pa. 653",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91567
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0653-01"
+      ]
+    },
+    {
+      "cite": "830 A.2d 1092",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9099780
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/830/1092-01"
+      ]
+    },
+    {
+      "cite": "989 A.2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289490
+      ],
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0080-01"
+      ]
+    },
+    {
+      "cite": "851 A.2d 148",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "578 Pa. 696",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "888 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8999270
+      ],
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0843-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 587",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11901217
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "590"
+        },
+        {
+          "page": "591"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/0587-01"
+      ]
+    },
+    {
+      "cite": "946 A.2d 1128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "869 A.2d 571",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9022349
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/869/0571-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 445",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822782
+      ],
+      "weight": 4,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "458-454"
+        },
+        {
+          "page": "1020"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0445-01"
+      ]
+    },
+    {
+      "cite": "772 A.2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        124712,
+        11093586,
+        124767,
+        11093519
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "443",
+          "parenthetical": "referring to Snyder, 522 Pa. at 433, 562 A.2d at 311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0211-01",
+        "/a2d/772/0435-02",
+        "/pa/565/0210-01",
+        "/a2d/772/0435-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124712
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "225",
+          "parenthetical": "referring to Snyder, 522 Pa. at 433, 562 A.2d at 311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0211-01"
+      ]
+    },
+    {
+      "cite": "611 A.2d 1184",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1834381
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1186"
+        },
+        {
+          "page": "1186-87"
+        },
+        {
+          "page": "1187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0180-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "655 A.2d 994",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "540 Pa. 606",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "647 A.2d 630",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1466720,
+        7867202
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/167/0087-01",
+        "/a2d/647/0630-01"
+      ]
+    },
+    {
+      "cite": "522 Pa. 424",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818972
+      ],
+      "weight": 16,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "435"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "433"
+        },
+        {
+          "page": "311"
+        },
+        {
+          "page": "434"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "434"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "435"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "312-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0424-01"
+      ]
+    },
+    {
+      "cite": "650 A.2d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1468962,
+        11342252
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/168/0467-01",
+        "/a2d/650/1192-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1244,
+    "char_count": 34327,
+    "ocr_confidence": 0.724,
+    "pagerank": {
+      "raw": 2.088105800197291e-07,
+      "percentile": 0.7599804081241802
+    },
+    "sha256": "b15fc5a41eb10b659f738668ad0730afda6095af2e5289be4d4dd4815b88cfde",
+    "simhash": "1:ede3a71f25481490",
+    "word_count": 5651
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "Dianna LAMBERT, Executrix of the Estate of Edward A. Lambert v. Mary Elizabeth KATZ, Executrix of the Estate of Robert W. Wilsbach, Sr. and Pennsylvania Department of Transportation. Mary Elizabeth Katz, Executrix of the Estate of Robert W. Wilsbach, Sr. v. Pennsylvania Department of Transportation. Appeal of: Dianna Lambert, Executrix of the Estate of Edward A. Lambert and Mary Elizabeth Katz, Executrix of the Estate of Robert W. Wilsbach, Sr."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge BROBSON.\nAppellants, Dianna Lambert and Mary Elizabeth Katz, in their capacities as exec-utrixes of the Estates of Edward A. Lambert and Robert W. Wilsbach, Sr., respectively (hereafter, the Estates), appeal from an order of the Court of Common Pleas of Berks County (trial court) that granted summary judgment in favor of Appellee Department of Transportation (DOT). Decedents Lambert and Wilsbach died in an accident on Route 73 in Ruscombmanor Township in Berks County while riding in a vehicle driven by Wilsbach.\nThe Lambert Estate initiated a Complaint against DOT and the Wilsbach Estate in January 2006, asserting various tort claims against DOT and the Wilsbach Estate. Around the same time, the Wils-bach Estate also filed a Complaint against DOT.\nThe Estates\u2019 Complaints aver the following facts. DOT designed Route 73, the construction of which was completed in 1959. Route 73 has one lane in each direction. The shoulder of the westbound lane of Route 73 has a width that is less than the width of a motor vehicle. Guard cables are located to the right of the shoulder on the westbound lane and the guard cables border a ten-foot embankment.\nOn January 18, 2004, at about 7:49 a.m., decedent Wilsbach was driving a vehicle in the westbound lane of Route 73. Wils-bach\u2019s vehicle struck the guard cables and posts on the right side of the highway, crossed over the guard cables (knocking down three supports for the guard cables), struck a tree, spun around, and slid down the embankment. (Lambert Complaint, \u00b6\u00b6 13-14; Wilsbach Complaint, \u00b6\u00b6 10-12.) The three occupants in the vehicle (Wils-bach, Lambert, and another individual) were killed in the accident.\nThe Complaints seek damages based on negligence, wrongful death, and survival actions. The Complaints aver that DOT was responsible for the design, maintenance, and repair of Route 73, including the guard cables, and that DOT and its employees\u2019 negligence were the proximate cause of Lambert\u2019s and Wilsbach\u2019s deaths. The Complaints contend generally that DOT and its employees acted negligently by failing to replace the allegedly outdated guard cables on Route 73 with guardrails of a different and more appropriate design, failing to inspect properly the guard cables, failing to design and maintain the shoulder in a safe manner that would permit a driver to recover from a skid or loss of control, and by violating the laws and regulations of the Commonwealth. (Lambert Complaint, \u00b6 21; Wilsbach Complaint, \u00b6 17.) The Complaints assert that DOT knew or should have known of these alleged problems relating to the guard cables and shoulder.\nDOT filed answers and new matters to the Complaints. Thereafter the parties engaged in discovery. The Estates engaged the services of a traffic engineer, John Comiskey, who prepared a report regarding the relationship between the accident and the conditions and design of the highway. (Estates\u2019 Response to DOT\u2019S Motion for Summary Judgment, Exhibit A.) The report concluded that, based upon the volume of traffic on Route 73, DOT\u2019S 1990 road design criteria required a highway carrying that volume of traffic to have shoulders at least ten feet in width. The report also observed that, based upon Commonwealth sign requirements, the speed limit on Route 73 at the location of the accident was fifty-five miles per hour. The report concluded that although the State Police accident report determined that Wilsbach had been driving too fast for the icy conditions on the roadway at the time of the accident, Wilsbach had not exceeded the speed limit. Further, the report stated that if the shoulder had been ten feet wide, Wilsbach \u201cshould\u201d have been able to recover from the loss of control he experienced as a result of the icy conditions on the roadway.\nDOT filed a motion for summary judgment, which the trial court granted on November 30, 2009. The trial court concluded that no material issue of fact remained and that the Estates failed to establish that the exception to the Commonwealth\u2019s sovereign immunity under Section 8522(b)(4) of the Judicial Code (Code), 42 Pa.C.S. \u00a7 8522(b)(4), relating to dangerous conditions of Commonwealth real property, applied. In their statement of matters complained of on appeal, the Estates contended that the trial court erred in concluding that DOT\u2019S alleged failure to construct a wider shoulder and to inspect and maintain the guard cables do not fall within the real estate exception to sovereign immunity. The Estates also asserted that the question of whether the condition of the shoulder/guard cables constituted a dangerous condition of Commonwealth real estate is a question of fact for a jury.\nThe trial court disagreed. In its Rule 1925(a) opinion, citing Dean v. Department of Transportation, 561 Pa. 503, 751 A.2d 1130 (2000), the trial court, addressing only the question of whether the guard cables constituted a dangerous condition of the highway, concluded that the Estates had not averred facts or adduced evidence supporting their claim that the guard cables fell -within the real estate exception to sovereign immunity. The trial court, however, did not address the question of whether the facts averred in the Complaints support the Estates\u2019 contention that the shoulder constituted a dangerous condition of the highway.\nOn appeal, the Estates raise the following issues: (1) whether the trial court erred in granting summary judgment when the Estates asserted that DOT had failed to design/construct the shoulder of Route 73 in accordance with its own post-construction design criteria and that the non-compliant width of the shoulder created a dangerous condition of the road falling within the immunity exception contained in Section 8522(b)(4) of the Code; and (2) whether the trial court erred in concluding that DOT\u2019S alleged failure to repair or replace badly corroded guard cables precludes DOT from claiming sovereign immunity as an affirmative defense. In raising these issues, the Estates also contend that the trial court should have permitted a jury to determine whether the shoulder or guard cables constituted dangerous conditions of the highway.\nI. The Estates\u2019 Burden\nCommonwealth agencies are generally immune from civil suit for tort liabilities unless the General Assembly waives sovereign immunity. See 1 Pa.C.S. \u00a7 2310; and 42 Pa.C.S. \u00a7 8521. Section 8522(a) of the Code, which is often referred to as the \u201cSovereign Immunity Act,\u201d 42 Pa.C.S. \u00a7 8522(a), authorizes the imposition of liability against Commonwealth agencies for damages arising out of a negligent act where the damages would be recoverable under the common law or a statute creating a cause of action if the injury were caused by a person to whom the defense of sovereign immunity is not available. To meet the threshold requirement under Section 8522(a) of the Code, a plaintiff must prove the requisite elements of negligence: (1) the defendant\u2019s duty or obligation recognized by law; (2) a breach of that duty; (3) a causal connection between the defendant\u2019s conduct and the resulting injury; and (4) actual damages. Talarico v. Bonham, 168 Pa.Cmwlth. 467, 650 A.2d 1192 (1994).\nThe Pennsylvania Supreme Court has stated that the \u201cduty of care a Commonwealth agency owes to those using its real estate[ ] is such as to require that the condition of the property is safe for the activities for which it is regularly used, intended to be used or reasonably foreseen to be used.\u201d Snyder v. Harmon, 522 Pa. 424, 435, 562 A.2d 307, 312 (1989). Motorists have a corresponding duty to use the highways in the ordinary and usual manner with reasonable care. Glover v. Dep\u2019t of Transp., 167 Pa.Cmwlth. 87, 647 A.2d 630 (1994), appeal denied, 540 Pa. 606, 655 A.2d 994 (1995).\nHowever, by virtue of Section 8522(a) of the Code, \u201ca Commonwealth agency may have breached a duty owed yet not be liable unless the breach is coincidental with an exception\u201d to Section 8522(a) of the Code. Bendas v. Twp. of White Deer, 581 Pa. 180, 188, 611 A.2d 1184, 1186 (1992). To defeat the defense of sovereign immunity, the plaintiff must also establish that his or her allegations fall within one of the nine enumerated exceptions to sovereign immunity set forth in Section 8522(b) of the Code. Dean, 561 Pa. at 508, 751 A.2d at 1132. Because of our General Assembly\u2019s clear intent to insulate government from exposure to tort liability, courts must strictly construe the exceptions to sovereign immunity. Id.\nThe relevant exception for purposes of this case is contained in Section 8522(b)(4) of the Code, and is referred to as the \u201creal estate exception to sovereign immunity.\u201d Pursuant to Section 8522(b)(4) of the Code, a dangerous condition of Commonwealth agency real estate and sidewalks, including, but not limited to, highways under the jurisdiction of a Commonwealth agency, is one of the specifically enumerated circumstances for which our General Assembly has waived sovereign immunity. In order for the real estate exception to apply, \u201ca claim ... must allege that the dangerous condition\u201d derived, originated from or had as its source the Commonwealth realty itself. Jones v. SEPTA, 565 Pa. 211, 225, 772 A.2d 435, 443 (2001) (referring to Snyder, 522 Pa. at 433, 562 A.2d at 311).\nAdditionally, our Supreme Court has held that the question of what constitutes a dangerous condition is a question of fact for a jury. Bendas, 531 Pa. at 185, 611 A.2d at 1186-87. In Bendas, the Supreme Court held that because DOT \u201chad a duty to make its highways reasonably safe for their intended purpose, and since the question of what is or is not a dangerous condition must be answered by the jury,\u201d the case was not appropriate for summary judgment. Bendas, 531 Pa. at 185, 611 A.2d at 1187. The Supreme Court also explained, however, that courts may enter summary judgment in those cases where the facts establish that a dangerous condition does not exist. Bendas.\nII. Whether the Trial Court Erred in Concluding that the Estates\u2019 Have not Established the Existence of an Exception to Sovereign Immunity with Regard to Their Claim Concerning the Guard Cables?\nIn Dean, a passenger was injured when the car in which he was riding fishtailed on a snow-covered roadway, causing the driver to lose control of the vehicle. The vehicle \u201cleft the graveled portion of the highway and traveled over a steep, declining embankment where it overturned.\u201d Dean, 561 Pa. at 505, 751 A.2d at 1131. The plaintiff asserted that DOT was negligent in failing to erect a guardrail shielding the embankment and in failing to design, construct, and maintain a safe highway.\nIn addressing the issue of whether the absence of a guardrail constituted a dangerous condition of the highway and whether a trial court could address that question in a summary judgment motion, our Supreme Court referred to its decision in Snyder, where it reiterated the notion that only alleged artificial conditions or defects of land may result in waiver under Section 8522(b)(4) of the Code. Further, the Supreme Court opined that Commonwealth agencies are only required to ensure that the condition of their \u201cproperty is safe for the activities for which it is regularly used, intended to be used or reasonably foreseen to be used.\u201d Dean, 561 Pa. at 510, 751 A.2d at 1133-34 (referring to Snyder, 522 Pa. at 434, 562 A.2d at 312).\nIn Snyder, the plaintiffs, who had left the Sky View Lounge at approximately 2:30 a.m., were driving home when they stopped their vehicle in order to permit one of the passengers (Johnson) to reheve himself. A strip mine was located adjacent to the highway where the vehicle stopped. A mining company had obtained a variance from the Department of Environmental Protection that permitted the mining company to construct an embankment on the highwall of the mine for the purpose of preventing vehicles from driving into the pit. The drop from the top of the embankment to the bottom of the pit was eighty feet. After the plaintiffs stopped and Johnson exited the vehicle, a driver of another vehicle attempted to hit Johnson, who climbed the embankment to avoid being hit and fell into the mine pit. As a result of the fall, Johnson became a paraplegic. At that time, other passengers exited the car, and, when the other driver attempted to hit those individuals, they also climbed the embankment and fell into the pit. Two of those passengers sustained serious injuries, and the other was killed in the fall.\nThe plaintiffs asserted that DOT had permitted a dangerous condition to exist on the highway by failing to warn the public regarding the condition either by lighting the area or by placing barriers such as guardrails along the right-of-way. The Supreme Court observed that a governmental entity waives sovereign immunity when an artificial condition or defect of the land itself causes injury, rather than merely facilitates an injury. Snyder, 522 Pa. at 434, 562 A.2d at 312. Further, the duty Commonwealth agencies owe to those using Commonwealth real estate is to ensure that the condition of the real estate is safe for those activities for which the property is regularly used, intended to be used, or reasonably foreseen to be used. Id. at 435, 562 A.2d at 312.\nThe Supreme Court rejected the plaintiffs\u2019 claims that proximity between the right-of-way of the highway and the mine pit combined with \u201cthe unlit area and deceptive appearance of the shoulder\u201d created \u201can inherently dangerous condition.\u201d Id., 562 A.2d at 312. The Supreme Court opined that such circumstances reflected a claim of liability\n\u201cnot predicated on a defective condition on Commonwealth land, but rather knowledge of an inherently dangerous condition contiguous with Commonwealth property which the Commonwealth knows or should reasonably know and takes no action to prevent any harm from occurring ... [TJhis theory ... is not supported by any exception to our immunity statute.\u201d\nId., 562 A.2d at 312. Additionally, our Supreme Court stated that \u201cthe absence of lighting [adjacent to a deep mine pit] so as to create a deceptive appearance of the shoulder of the road cannot be said to be either an artificial condition or a defect of the land itself.\u201d Id., 562 A.2d at 312-13.\nThe Supreme Court in Dean analogized the absence of a guardrail to the absence of the lighting of the shoulder in Snyder, concluding that the absence of a guardrail is not a dangerous condition of the real estate that resulted in a reasonably foreseeable injury. Our Supreme Court clarified its view as follows:\n[S]tated differently, the lack of a guardrail does not render the highway unsafe for the purpose for which it was intended, i.e., travel on the roadway. This being the case, it is irrelevant whether the guardrail is found to be part of the state-owned highway. We simply find that the legislature did not intend to impose liability upon the government whenever a plaintiff alleged that his or injuries could have been avoided or minimized, had the government installed a guardrail alongside the roadway.\nDean, 561 Pa. at 511-12, 751 A.2d at 1134.\nThe Supreme Court\u2019s majority also rejected the reasoning contained in two dissents, commenting that although it is foreseeable that a guardrail might prevent more serious injuries from occurring if a vehicle leaves the highway and travels down an embankment, the Commonwealth is not a guarantor of the safety of the highway, but is only exposed to liability for dangerous conditions of the highway. Thus, the majority opined that, even if highway design standards suggest a road would be safer with a guardrail, the roadway itself is not \u201cdangerous\u201d without one. In response to a second dissent, the majority commented that, even if it is true that a guardrail is an \u201cobvious\u201d part of a highway, the Commonwealth is only liable for dangerous conditions of the highway, not all conditions of the highway. The dissent\u2019s approach, the majority reasoned, would result in unlimited liability, a result our General Assembly did not intend. With regard to that dissent\u2019s observation that the Commonwealth would never erect a guardrail if guardrails do not affect the safety of the road for travel, the majority opined that the question of whether a guardrail affects the safety of the road \u201cis totally unrelated to the legal issue of whether the absence of a guardrail renders a highway a dangerous condition\u201d subjecting the Commonwealth to liability. Id. at 512, 751 A.2d at 1134 (emphasis in original).\nThe Estates urge us to disregard the Supreme Court\u2019s reasoning in Dean, asserting that this case is distinguishable because the Estates have averred that the injuries that the decedents sustained in this case were the result of negligent maintenance of existing guard cables. As the Estates note, in Stein this Court rejected the argument that a negligently designed guardrail could constitute a dangerous condition of the highway. In that case, the plaintiff similarly sought to distinguish cases in which a guardrail caused an injury from those in which a litigant claimed a guard rail prevented injuries. We rejected the plaintiffs argument that the Court should address the guardrail as constituting a dangerous condition of Commonwealth real estate rather than a dangerous condition of a highway.\nWe similarly reject the Estates\u2019 attempts to distinguish binding precedent. As we stated in Stein:\nOur courts have held that where a state or local government installs a safety fixture that it has no duty to provide, there can be no liability for negligent installation of that fixture. In Gardner v. Consolidated Rail Corporation, 524 Pa. 445, 573 A.2d 1016 (1990), our Supreme Court rejected the plaintiffs contention that because the City of Philadelphia erected a protective fence near railroad tracks, the City thereby acquired the continuing duty to maintain that fence. The Supreme Court explained that an action by a government to improve safety cannot \u201ccreate a duty where one does not [otherwise] exist.\u201d Id. at 458-454, 573 A.2d at 1020.... Relying on this Gardner principle, this Court held in both Simko [v. County of Allegheny, 869 A.2d 571 (2005)] and Fagan [v. Department of Transportation, 946 A.2d 1128 (2008)] that because there is no duty to erect a guardrail in the first place, there is no duty to design it in a particular way.\nId., 989 A.2d at 87-8.\nBased upon the foregoing, we conclude that the trial court correctly determined that the Estates cannot overcome the hurdle of sovereign immunity with regard to their claim that DOT is subject to liability under the real estate exception to sovereign immunity for negligent maintenance of guardrails.\nIII. Whether the Trial Court Erred in Concluding that the Estates Failed to Establish that DOT Owed the Decedents a Duty of Care Relating to the Shoulder and/or Whether the Shoulder Falls Within an Exception to Sovereign Immunity?\nA. Prima Facie Negligence\nAs noted above, a plaintiff seeking to prevail in a negligence action against the Commonwealth must demonstrate that her claim is one that, if proven, would satisfy the common law requirements for a negligence claim and that one of the exceptions to sovereign immunity applies. We will now address the thorny issue the Estates have raised regarding DOT\u2019s alleged negligence in designing and/or maintaining the shoulder.\nWe begin with a discussion regarding DOT\u2019s duty of care. As this Court confirmed in Smith v. Department of Transportation, 700 A.2d 587, 590 (Pa.Cmwlth.1997), DOT has a duty to design and construct its roadways in a manner that makes them safe for their intended purpose and other reasonably foreseeable purposes. In Smith, the plaintiff offered an expert report, stating that substandard pavement and shoulder width, coupled with the roadway\u2019s horizontal curvature and vertical grade, warranted the erection of a sign warning drivers of the presence of a horizontal curve. The expert opined that these aspects of the roadway, in inclement conditions, made loss of control \u201calmost certain to occur.\u201d Id. at 591. Based upon the expert report, this Court reasoned that the plaintiffs\u2019 allegations were sufficient, if believed by a factfinder, to demonstrate that DOT breached a duty of care to the plaintiff because the roadway would not have been safe for its intended use (travel) even absent a natural accumulation of snow and ice. Id.\nIn this case, the Estates rely upon two key factors to assert that DOT breached a duty to provide a safe roadway for travel: (1) the fact that the shoulder was not ten feet in width, as required in DOT\u2019s 1990 design requirements, for highways with similar traffic volume to Route 73; and (2) the Estates\u2019 expert opined that, if the shoulder had been wider than five feet, Wilsbach, who lost control of the vehicle when he was on the roadway, should have been able to regain control of the vehicle when it entered the shoulder.\nIn order to determine whether DOT breached its duty of care to travelers on the roadway by failing to make the shoulder wider than five feet, we must begin by attempting to define the role of a shoulder on a roadway. Only by doing so will we be able to answer the question of whether, as the Estates argue, the intended or reasonably intended purpose of a shoulder is similar to that of the roadway itself \u2014 travel and/or vehicle control.\nAs we noted in Gramlich v. Lower Southampton Township, 888 A.2d 843, 846 (Pa.Cmwlth.2003), appeal denied, 578 Pa. 696, 851 A.2d 148 (2004):\nThis Court has distinguished a \u201cright-of-way\u201d from the paved portion of the street for the purposes of the \u201chighway\u201d exception to sovereign immunity.... A highway, for purposes of sovereign immunity, encompasses the \u201ccartway,\u201d that is, the paved and traveled portion of the highway, and the berm or shoulder, the paved portion to either side of the actual traveled portion of the highway, not the right-of-way.... [T]he right-of-way off the highway is clearly neither intended to be used nor is regularly used for vehicular travel.\nId. at 846-47. Section 102 of the Vehicle Code, 75 Pa.C.S. \u00a7 102, defines highways as \u201cthe entire width between the boundary lines of every way publicly maintained when any part thereof is open to the use of the public for purposes of vehicular traffic.\u201d Under this definition, the shoulder is clearly part of the highway. Also, Section 102 of the Vehicle Code defines the term \u201croadway\u201d as \u201c[t]hat portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the ... berm or shoulder even though such ... berm or shoulder is used for pedacycles. In the event a highway includes two or more separate roadways the term \u2018roadway\" refers to each roadway separately but not to all such roadways collectively.\u201d (Emphasis added.)\nBy electing to exclude shoulders from the definition of roadway, the General Assembly signaled its determination that shoulders, unlike the remaining part of the highway, are not intended for vehicular travel. Therefore, we believe our legislature has made clear that it did not intend for, or anticipate that, motorists should use shoulders in a manner similar to travel lanes. This distinction highlights the fact that simply because the shoulder may be part of the highway, it does not necessarily follow that the reasonably foreseeable purpose of the roadway portion of a highway for normal vehicular travel and/or possibly for regaining control of an out of control vehicle is also a reasonably foreseeable use of a highway\u2019s shoulder.\nFurther, as DOT points out, one of its regulations provides a more pointed definition of the term \u201cshoulder\u201d as \u201c[t]he portion of the highway contiguous to the roadway used for accommodation of stopped or parked vehicles, for emergency use or for lateral support of base and surface courses.\u201d 67 Pa.Code \u00a7 601.1. The Estates argue that the language of this regulation referring to emergency use lends support to their position that regaining control of an out of control vehicle is one of the reasonably foreseeable purposes of a shoulder. DOT asserts that, in light of the General Assembly\u2019s definition of \u201croadway\u201d to permit vehicular travel, the Estates\u2019 proffered interpretation stretches the regulatory definition past its breaking point. We agree.\nBy limiting vehicular travel to \u201croadways,\u201d the General Assembly indicated that shoulders are not intended to be use for vehicular travel. The travel the Estates contend DOT should have reasonably anticipated \u2014 i.e., correction of out of control vehicles \u2014 constitutes vehicular travel, and, in turn, is not activity that DOT could reasonably expect on the shoulders of its highways. In this light, DOT\u2019s interpretation of its shoulder regulation makes sense. DOT suggests, and we agree, that, contrary to the Estates\u2019 position, the term \u201cemergency use\u201d refers to situations such as where emergency personnel operating a vehicle such as an ambulance or fire truck have a need to traverse the highway and cannot fulfill their emergency duties by traveling on the roadway because of traffic or where an actual emergency exists on or in proximity to the highway. For these reasons, we conclude that the Estates have failed to satisfy their initial burden to state a claim in negligence because they have not demonstrated that DOT had a duty to make the shoulder wider in anticipation of out of control vehicles, and therefore, the Estates failed to establish a breach of duty on the part of DOT.\nB. Exception to Immunity\nBased upon our conclusion above, we need not address whether the Estates have also established that the condition of the shoulder constitutes a dangerous condition such that the real estate exception to sovereign immunity under Section 8522(b) of the Code applies. Nevertheless, we believe that the facts demonstrate that the condition of the shoulder does not constitute a dangerous condition of the highway. We believe it is worth reiterating the notion that only artificial conditions or defects in the highway itself can constitute a dangerous condition that might render the Commonwealth susceptible to damages for negligent actions.\nWe first address the Estates\u2019 contention that DOT\u2019S failure to retrofit the shoulder to comply with design criteria DOT adopted in 1990 (approximately thirty years after the construction of the highway), created a dangerous condition of the highway. Although the present design standards may require DOT to construct new highways with anticipated volume similar to Route 73 with a shoulder not less than ten feet in width, we reject the Estates\u2019 argument that the failure of DOT to reconstruct a highway that pre-dates new design criteria constitutes a per se dangerous condition of the highway. Moreover, the opinion of the Estates\u2019 expert that Wilsbach should have been able to correct the out of control vehicle if the shoulder were wider does not establish that the shoulder itself constituted a dangerous condition. Further, the expert never opined that the purpose of a shoulder is to aid out of control vehicles; he only stated that a wider shoulder might have permitted the driver to regain control. In essence, the Estates equate a shoulder complying with post-construction design standards with a safety device, such as a guardrail. But that suggestion does nothing to establish that the shoulder itself is defective and, therefore, a dangerous condition. We cannot agree with the Estates that the narrower width of the shoulder itself constituted a dangerous condition of the highway.\nRather, borrowing language from Dean, we believe that \u201c[u]nlike the lack of a traffic signal [in Bendas ], the lack of a [shoulder] does not render the highway unsafe for travel. In other words, the allegations in the instant case do not pass the initial threshold necessary under the immunity provisions to raise a question of fact regarding whether a dangerous condition existed.\u201d Dean, 561 Pa. at 512, 751 A.2d at 1135. The Estates have not demonstrated that the shoulder of Route 73 itself is a dangerous condition of the highway.\nFinally, we disagree with the Estates\u2019 argument that the trial court erred in not permitting a jury to decide these issues discussed above. As indicated above, our Supreme Court acknowledged \u201cthat the issue of whether a dangerous condition exists is a question of fact for the jury to resolve. However, the issue here is not whether a dangerous condition in fact existed, but whether [ ]DOT would be liable for it under the real estate exception to sovereign immunity. Having determined as a matter of law that no exception to sovereign immunity applies, any remaining issues are moot.\u201d Dean, 561 Pa. at 512, 751 A.2d at 1135 (emphasis added).\nAccordingly, we affirm the trial court\u2019s order granting summary judgment in favor of DOT.\nORDER\nAND NOW, this 15th day of November, 2010, the order of the Court of Common Pleas of Berks County is AFFIRMED.\n. The Lambert Estate and the Wilsbach Estate settled Lambert's case against Wilsbach in 2005. Ultimately, the trial court consolidated the Estates\u2019 claims against DOT.\n. Pa. R.A.P. 1925(a).\n. This Court\u2019s standard of review of an order of a trial court granting summary judgment in favor of DOT in a tort action is limited to considering whether the trial court erred as a matter of law or abused its discretion. Stein v. Pa. Tpk. Comm\u2019n, 989 A.2d 80, 86 (Pa.Cmwlth.2010). A court may grant a motion for summary judgment only when there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law. Bronson v. Horn, 830 A.2d 1092 (Pa.Cmwlth.2003), aff'd, 577 Pa. 653, 848 A.2d 917 (2004), cert. denied, 543 U.S. 944, 125 S.Ct. 369, 160 L.Ed.2d 257 (2004). The right to judgment must be clear and free from doubt. Id.' In reviewing the granting of a motion for summary judgment, this Court must \"view the record in the light most favorable to the non-moving party, and all doubts as to the existence of a genuine issue of material fact must be resolved against the moving party.\u201d Pappas v. Asbel, 564 Pa. 407, 418, 768 A.2d 1089, 1095 (2001).\n. 42 Pa.C.S. \u00a7 8522(b)(4) provides:\nExceptions to sovereign immunity.\n(b) Acts which may impose liability. \u2014 The following acts by a Commonwealth party may result in the imposition of liability on the Commonwealth and the defense of sovereign immunity shall not be raised to claims for damages caused by:\n(4) Commonwealth real estate, highways and sidewalks. \u2014 A dangerous condition of Commonwealth agency real estate and sidewalks, including Commonwealth-owned real property, leaseholds in the possession of a Commonwealth agency and Commonwealth-owned real property leased by a Commonwealth agency to private persons, and highways under the jurisdiction of a Commonwealth agency, except conditions described in paragraph (5)[, relating to sinkholes and other dangerous conditions].\n. Our Supreme Court has held that the failure of a motorist to use a berm for emergent circumstances, such as where a driver has a choice of hitting an on-coming vehicle or entering an available berm to avoid an accident, may result in tort liability for the driver who elects not to use an available berm. Downey v. Rymorowicz, 397 Pa. 205, 154 A.2d 179 (1959). The Supreme Court, thus, indicated in Downey that one of the possible uses for shoulders is to avoid accidents. This case, however, does not involve a driver who sought to use the shoulder to avoid a collision with another vehicle. Moreover, the Supreme Court in Downey noted that \"the duty of a driver of a motor vehicle to have his car under control at all times means having it under such control that it can be stopped before doing injury to any person in any situation that is reasonably likely to arise under the circumstances.\u201d Id. at 210, 154 A.2d at 182. Thus, even though the Supreme Court signaled its understanding that vehicles may make emergency use of shoulders, the type of emergency that the Supreme Court recognized was limited to the avoidance of collisions with other vehicles.\n. We also believe that the type of vehicular operation that occurred in this case does not constitute \"travel\u201d as that word is used in the Vehicle Code. The term \"travel\u201d has many meanings, but the most applicable ones denote a type of intended motion, such as \u201cto go from place to place\u201d or \"to move in a given direction or path through a given distance.\u201d Webster\u2019s Third New International Dictionary 2432-33 (Philip Babcock Gove et. al. eds., 1993), also available at www.merriam-webster.com/dictionary/travel.\n. We also note that Mr. Comiskey never opined that a wider shoulder covered with snow and ice would have enabled Mr. Wils-bach to regain control of his vehicle.\n. As a practical matter, to find in favor of the Estates would require us to conclude that shoulders of a certain width are necessary in order for a highway to be safe for its intended use. Such a ruling would place an incredible burden on DOT in cases where the nature and extent of repair work on existing highways requires DOT to close or wall off the adjacent shoulder. On such projects, DOT would either have to close the roadway to traffic (because the lack of the shoulder would render the highway unsafe) or keep the \"unsafe\u201d roadway open, risking potential civil liability. We also cannot ignore what such a ruling may mean for existing roadways under DOT\u2019s jurisdiction that have little or no shoulder at all and that, because of real estate or other practical limitations, could not be reconstructed to meet the Estates' proffered safety standard.",
+        "type": "majority",
+        "author": "Judge BROBSON."
+      }
+    ],
+    "attorneys": [
+      "Thomas R. Hurd, Philadelphia, for appellants.",
+      "Claudia M. Tesoro, Sr. Deputy Attorney General, Philadelphia, for appellee, Department of Transportation."
+    ],
+    "corrections": "",
+    "head_matter": "Dianna LAMBERT, Executrix of the Estate of Edward A. Lambert v. Mary Elizabeth KATZ, Executrix of the Estate of Robert W. Wilsbach, Sr. and Pennsylvania Department of Transportation. Mary Elizabeth Katz, Executrix of the Estate of Robert W. Wilsbach, Sr. v. Pennsylvania Department of Transportation. Appeal of: Dianna Lambert, Executrix of the Estate of Edward A. Lambert and Mary Elizabeth Katz, Executrix of the Estate of Robert W. Wilsbach, Sr.\nCommonwealth Court of Pennsylvania.\nArgued Sept. 13, 2010.\nDecided Nov. 15, 2010.\nThomas R. Hurd, Philadelphia, for appellants.\nClaudia M. Tesoro, Sr. Deputy Attorney General, Philadelphia, for appellee, Department of Transportation.\nBEFORE: LEADBETTER, President Judge, and BROBSON, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0409-01",
+  "first_page_order": 435,
+  "last_page_order": 446
+}

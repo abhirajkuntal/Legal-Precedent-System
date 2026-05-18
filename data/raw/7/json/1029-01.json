@@ -1,0 +1,83 @@
+{
+  "id": 7288135,
+  "name": "In re Barry C. STILLER, Respondent",
+  "name_abbreviation": "In re Stiller",
+  "decision_date": "2010-11-12",
+  "docket_number": "No. 95-BG-909",
+  "first_page": "1029",
+  "last_page": "1029",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 1029"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "767 A.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11123219
+      ],
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/767/0203-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 98,
+    "char_count": 1178,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828896974302362
+    },
+    "sha256": "cdf6eb4dee8f1bca7d4cf216398850cf550f55b2f5788cc8b039f9659df82c6c",
+    "simhash": "1:068587dd6599de70",
+    "word_count": 192
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: WAGNER, Chief Judge; TERRY, STEADMAN, SCHWELB, FARRELL, RUIZ, REID, GLICKMAN, WASHINGTON, Associate Judges; and PRYOR, Senior Judge."
+    ],
+    "parties": [
+      "In re Barry C. STILLER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of petitioners\u2019 petition for rehearing or rehearing en banc, and respondent\u2019s response thereto, it is\nORDERED by the merits division * that the petition for rehearing is denied. See In re Slattery, 767 A.2d 203, 206 (D.C.2001). \u201c(holding Stiller in accord with principle that \u2018[t]here is no requirement in either [subsection (b) or (c) of Rule 8.4] that an attorney actually have been convicted of a crime for the rule to apply1).\u201d And it appearing that the majority of the judges of this court have voted to deny the petition for rehearing en banc, it is\nFURTHER ORDERED that the petition for rehearing en banc is denied.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Barry C. STILLER, Respondent.\nNo. 95-BG-909.\nDistrict of Columbia Court of Appeals.\nFiled Nov. 12, 2010.\nBefore: WAGNER, Chief Judge; TERRY, STEADMAN, SCHWELB, FARRELL, RUIZ, REID, GLICKMAN, WASHINGTON, Associate Judges; and PRYOR, Senior Judge.\nSenior Judge Wagner was Chief Judge at the time the petition was filed. * Senior Judges Terry, Steadman, Schwelb, and Farrell, were Associate Judges at the time the petition was filed. * Chief Judge Washington was an Associate Judge at the time the petition was filed."
+  },
+  "file_name": "1029-01",
+  "first_page_order": 1057,
+  "last_page_order": 1057
+}

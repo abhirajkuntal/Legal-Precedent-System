@@ -1,0 +1,707 @@
+{
+  "id": 7289958,
+  "name": "In re M.C., Appellant",
+  "name_abbreviation": "In re M.C.",
+  "decision_date": "2010-11-18",
+  "docket_number": "No. 08-FS-132",
+  "first_page": "1215",
+  "last_page": "1234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "449 U.S. 200",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715812
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that where every Article III judge had an interest in the outcome of the case, the common law rule of necessity prevailed"
+        },
+        {
+          "parenthetical": "holding that where every Article III judge had an interest in the outcome of the case, the common law rule of necessity prevailed"
+        },
+        {
+          "parenthetical": "holding that where every Article III judge had an interest in the outcome of the case, the common law rule of necessity prevailed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0200-01"
+      ]
+    },
+    {
+      "cite": "516 A.2d 524",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7925232
+      ],
+      "pin_cites": [
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/516/0524-01"
+      ]
+    },
+    {
+      "cite": "745 A.2d 953",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11483913
+      ],
+      "pin_cites": [
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/745/0953-01"
+      ]
+    },
+    {
+      "cite": "779 A.2d 297",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9490438
+      ],
+      "pin_cites": [
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/779/0297-01"
+      ]
+    },
+    {
+      "cite": "519 A.2d 701",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7931130
+      ],
+      "pin_cites": [
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/519/0701-01"
+      ]
+    },
+    {
+      "cite": "609 A.2d 1133",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12119978
+      ],
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/609/1133-01"
+      ]
+    },
+    {
+      "cite": "738 A.2d 269",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11564223
+      ],
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/738/0269-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 900",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8336001
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/0900-01"
+      ]
+    },
+    {
+      "cite": "601 A.2d 69",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11935463
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/601/0069-01"
+      ]
+    },
+    {
+      "cite": "792 A.2d 1059",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9516700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/792/1059-01"
+      ]
+    },
+    {
+      "cite": "615 A.2d 213",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7929369
+      ],
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/615/0213-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed. 942",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "349 U.S. 133",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333990
+      ],
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/349/0133-01"
+      ]
+    },
+    {
+      "cite": "828 F.2d 1532",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1747958
+      ],
+      "pin_cites": [
+        {
+          "page": "1545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/828/1532-01"
+      ]
+    },
+    {
+      "cite": "785 A.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9459440
+      ],
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/785/0651-01"
+      ]
+    },
+    {
+      "cite": "501 F.2d 974",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        94808
+      ],
+      "pin_cites": [
+        {
+          "page": "978"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/501/0974-01"
+      ]
+    },
+    {
+      "cite": "524 F.2d 98",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1100502
+      ],
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/524/0098-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 455",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        },
+        {
+          "page": "1262-63"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "569 F.2d 1250",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1423263
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1263"
+        },
+        {
+          "page": "1263"
+        },
+        {
+          "page": "1263"
+        },
+        {
+          "page": "1268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/569/1250-01"
+      ]
+    },
+    {
+      "cite": "516 A.2d 484",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7924882
+      ],
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/516/0484-01"
+      ]
+    },
+    {
+      "cite": "664 F.2d 971",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1167047
+      ],
+      "pin_cites": [
+        {
+          "page": "1003"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/664/0971-01"
+      ]
+    },
+    {
+      "cite": "411 A.2d 984",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11367297
+      ],
+      "pin_cites": [
+        {
+          "page": "995"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/411/0984-01"
+      ]
+    },
+    {
+      "cite": "373 A.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8014116
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/373/0232-01"
+      ]
+    },
+    {
+      "cite": "778 F.2d 325",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1526897
+      ],
+      "pin_cites": [
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/778/0325-01"
+      ]
+    },
+    {
+      "cite": "419 A.2d 993",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7980044
+      ],
+      "pin_cites": [
+        {
+          "page": "995"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/419/0993-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 477",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187603
+      ],
+      "weight": 3,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0477-01"
+      ]
+    },
+    {
+      "cite": "778 A.2d 1077",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9497668
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/778/1077-01"
+      ]
+    },
+    {
+      "cite": "904 A.2d 367",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8470056
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/904/0367-01"
+      ]
+    },
+    {
+      "cite": "882 A.2d 210",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8916078
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "217-18"
+        },
+        {
+          "page": "217-18",
+          "parenthetical": "distinguishing between claims and arguments in support of a claim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/882/0210-01"
+      ]
+    },
+    {
+      "cite": "606 A.2d 139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11301855
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "144"
+        },
+        {
+          "page": "144"
+        },
+        {
+          "page": "144",
+          "parenthetical": "\"The purpose of requiring a specific objection is to enable the prosecution to respond to any contentions raised....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/606/0139-01"
+      ]
+    },
+    {
+      "cite": "927 A.2d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8400723
+      ],
+      "pin_cites": [
+        {
+          "page": "1061"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/927/1040-01"
+      ]
+    },
+    {
+      "cite": "764 F.2d 458",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        378257
+      ],
+      "pin_cites": [
+        {
+          "page": "460"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/764/0458-01"
+      ]
+    },
+    {
+      "cite": "559 A.2d 745",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7895673
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "763"
+        },
+        {
+          "page": "755-56"
+        },
+        {
+          "page": "755-56"
+        },
+        {
+          "page": "750-51",
+          "parenthetical": "noting that \"a review of the record for actual prejudice would be inconsistent with the goal of Canon [3(E) ] to prevent even the appearance of impropriety\""
+        },
+        {
+          "page": "750"
+        },
+        {
+          "page": "750-51",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "752-53"
+        },
+        {
+          "page": "754",
+          "parenthetical": "noting that whether denial of relief will produce injustice to litigants turns on whether the parties \"made a showing of 'special hardship by reason of their reliance on the original judgment' \""
+        },
+        {
+          "page": "754"
+        },
+        {
+          "page": "756"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/559/0745-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 847",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225235
+      ],
+      "weight": 11,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "861"
+        },
+        {
+          "page": "866"
+        },
+        {
+          "page": "864"
+        },
+        {
+          "page": "870"
+        },
+        {
+          "page": "864-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0847-01"
+      ]
+    },
+    {
+      "cite": "581 A.2d 1205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371545
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/581/1205-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1867,
+    "char_count": 63499,
+    "ocr_confidence": 0.758,
+    "pagerank": {
+      "raw": 1.0062407421536586e-07,
+      "percentile": 0.5407824934967251
+    },
+    "sha256": "75817a3f1789b3edadda2f5d63c839a1f4b23fc0e647bd5bc2fc417c2c9a1ff4",
+    "simhash": "1:462894940531875d",
+    "word_count": 10388
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUIZ, Associate Judge, and NEBEKER and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re M.C., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "RUIZ, Associate Judge:\nIn this appeal, we consider the application of well-established ethical rules requiring recusal where there is an appearance of lack of impartiality to current conditions brought about by technological developments where judges can receive instantaneous (and often unsolicited) electronic communications related to a pending judicial proceeding. Appellant, M.C., challenges the denial of his motion for recusal on the grounds that the trial judge was required to recuse herself under the 1995 Code of Judicial Conduct for the District of Columbia Courts because during trial she received two ex parte emails from another Superior Court judge that contained information about an important government witness. We hold that Canon 3(E)(1)(a) of the Code of Judicial Conduct required the trial judge to recuse from further participation in the proceeding, and that the trial court\u2019s denial of appellant\u2019s motion to recuse was not harmless. We, therefore, reverse and remand for retrial before a different judge.\nI.\nOn September 15, 2007, the District of Columbia charged M.C., who was then fifteen years old, with twenty crimes related to a shooting in which M.C. allegedly fired a gun at a group of four people, injuring one of them. A bench trial was held on November 26-29 and December 3^1, 2007. After all but two of the government\u2019s six witnesses had testified, the judge informed counsel that she had received an email from another Superior Court judge with information about one of two complaining witnesses who had testified on behalf of the government. The next day, M.C. filed a written motion for recusal. The trial judge\u2019s denial of the motion to recuse is the sole issue on appeal. We set out the evidence presented against appellant and the discussions relevant to the recusal motion in the sequence in which they came up at trial.\nThe complaining witnesses are three brothers: D.W., I.W., and N.W., who were twenty-eight, seventeen, and sixteen years old, respectively, at the time of the trial. On September 7, 2007, D.W. learned from his mother that his younger brothers, I.W. and N.W., had been in an altercation earlier in the day and were staying at their friend\u2019s house. D.W. agreed to escort his siblings home and, at around 9:00 p.m., D.W. picked up his brothers and they started walking to their mother\u2019s house. In light of the earlier altercation, D.W. carried a baseball bat for protection. It was a clear night and I.W. testified that the street lights allowed \u201c[y]ou [to] see what was around you.\u201d As the brothers were walking, they noticed someone approach from a side street. D.W. testified that the person was about fifty yards away when he pulled out a gun. N.W. and I.W. testified that just before the shooter began to fire, he called out, \u201cyou jumped my man.\u201d The shooter chased the brothers and fired five or six shots, one of which hit D.W. in the elbow.\nD.W. testified that immediately after the shooting, I.W. and N.W. both identified the shooter as \u201cB.\u201d (\u201cM.C.\u201d) \u2014 a nickname for M.C. The brother\u2019s mother called 911 and two police officers came to the mother\u2019s home. Detective Andre Williams and Officer Daniel Egbert, testified that N.W. and I.W. identified the shooter as \u201cBuddha.\u201d According to the police officers, the three brothers provided physical descriptions of the shooter that were consistent with each other.\nThere was no physical evidence linking M.C. to the shooting. The police did not find shell casings at the scene of the shooting, or a weapon in their search of M.C.\u2019s home. While the police did recover a box of ammunition from M.C.\u2019s bedroom, it was never linked to the bullet recovered from D.W.\u2019s arm. Thus, the basis for the District\u2019s twenty counts against M.C. was the identification of M.C. by I.W. and N.W. on the night of the shooting. M.C. was arrested a week later, on September 14, 2007. According to Detective Williams, upon advising M.C. that he was under arrest for assault with a deadly weapon\u2014 \u201cADW gun\u201d \u2014 M.C. responded by saying something to the effect of \u201cyou don\u2019t have the gun.\u201d\nDetective Williams testified that, in contrast to all three brothers\u2019 in-court testimony about a lone shooter, D.W., I.W., and N.W. had independently reported to the police that they had been chased by a group of \u201cfifteen to twenty\u201d boys just prior to the shooting, and that the gunman was at the head of this group. Officer Egbert testified that all three brothers reported being chased by a \u201cgroup of 10 to 15 males\u201d just prior to the shooting. According to Detective Williams, N.W. and I.W. also gave detailed descriptions \u2014 including the clothing, hair, schools, and addresses\u2014 of four of the boys who allegedly chased them. Upon investigation, however, the police were able to locate only one of the four suspects the brothers had identified. The police determined that he was not involved in the shooting or the alleged chase.\nN.W. testified that he had known M.C. for years, saw him frequently, and was familiar with his appearance and voice. N.W. identified M.C. as the shooter on four different occasions: when he was with his brothers at their mother\u2019s house; after the shooting but before the police arrived; when he spoke with the police the night of the shooting; again when he was shown a photo array about a week later, at which point he said that he was \u201cpositive\u201d the shooter was M.C.; and then at trial when he reaffirmed that he was \u201cpositive\u201d M.C. was the shooter. When asked what he thought the shooter meant by the statement \u201cyou jumped my man,\u201d N.W. testified that he thought M.C. \u201cwas talking about the fight between him and my bro. But a friend of mine bro.\u201d\nOn the third day of trial, before I.W. took the stand, the trial judge announced that I.W. had pled guilty before her to two counts in an unrelated juvenile matter that morning and that his case had been certified to a different judge. The government called I.W. as a witness. I.W. testified that he had known M.C. for years and that M.C. had \u201ctried to jump [him] when [he] was younger.\u201d To the apparent surprise of government counsel, however, I.W. did not testify that M.C. was the person who shot at him and his brothers the night of September 7. Instead, he said that he did not know who shot at them, and that although he looked at the shooter, he \u201cdidn\u2019t see his face clearly.\u201d This contradicted the testimony of D.W., Detective Williams, and Officer Egbert who testified that I.W. had told them M.C. was the shooter. I.W. also described the shooter in a way that was significantly different from the description that Detective Williams and Officer Egbert said that he had given during the investigation.\nGovernment counsel impeached I.W.\u2019s testimony by asking him whether he remembered telling D.W. and the police that the shooter was \u201cBuddha.\u201d I.W. responded that he did not recall identifying the shooter himself, explaining \u201cI believe I remember saying that my brother seen who shot at me.\u201d I.W. also denied telling the police that he recognized the shooter\u2019s voice as Buddha\u2019s. Government counsel unsuccessfully attempted to elicit an explanation for I.W.\u2019s unexpected testimony. Asked whether he \u201cwant[ed]\u201d to testify against M.C., I.W. replied: \u201cI told several times that I do not like testifying.\u201d Counsel then tried to impeach I.W.\u2019s recantation by suggesting that he had been intimidated by M.C.:\nGOVERNMENT COUNSEL: Have you had any conversations with M.C. concerning testifying against him?\nI.W.: No.\nGOVERNMENT COUNSEL: Do you recall seeing M.C. since you were informed that you would be a witness against him?\nI.W.: A few times.\nGOVERNMENT COUNSEL: And where did you see him?\nI.W.: Where did I see? In the holding cell in this, in this place. Where I seen him before, this was.\nGOVERNMENT COUNSEL: When you say, \u201cin this place\u201d sir, do you mean in this courthouse?\nI.W.: Yes.\nThe following day, the trial judge informed the parties that the judge to whom she had certified I.W.\u2019s case had subsequently sent her an email that contained certain information regarding I.W. The trial judge explained:\nBecause of the witness, [I.W.], also being on my calendar, I certified [I.W.\u2019s] case over to [another judge, who] emailed me back and inadvertently gave me information which I would not want to have about a witness that I was presiding over. And I do have that information now; it\u2019s information that essentially says that [I.W.] was separated from [M.C.] in the cellblock, and at some point during his stay was engaged in [a] physical altercation with [M.C.].\nAnd I also know a little bit about [I.W.\u2019s] background, that he was born addicted to crack. Those are ... pieces of information that I do believe I can keep separate and not include in any of my determinations in this trial. But I did feel that it was appropriate that you\u2019ve been warned about them.\nI do believe I can keep them separate and I\u2019ve given it serious thought, and I would not make that decision lightly. They were e-mails basically, so it was nothing I could stop. All right. Okay.\nDefense counsel said \u201cOkay\u201d and the prosecutor said \u2018Wes, Your Honor.\u201d Officer Egbert, one of the investigating officers and the government\u2019s last witness, then took the stand.\nThe next day, which was a Friday, M.C. filed a motion for recusal, citing Canon 3(E)(1) of the Code of Judicial Conduct and arguing that the trial judge\u2019s receipt of information concerning I.W. had created an appearance of bias. The following Monday, the trial judge denied the motion in open court. The trial judge stated that she found the motion \u201cvery untimely.\u201d She also clarified that she had received two emails, not one, concerning I.W. \u201cat different stages.\u201d She explained, that \u201cI\u2019m not going to go back and review those and confirm those because I don\u2019t want to look at them again at this time because I don\u2019t need to put any more information in there.\u201d The trial judge assured the parties that she had given the situation \u201ca great deal of thought.\u201d She stated, as she had when she made the first disclosure about the email, \u201cI am completely confident, 100 percent confident that I can keep these matters separate from the facts that are at trial.\u201d After the defense presented the testimony of an investigator concerning lighting conditions, testifying conditions, and distances at the scene of the shooting, counsel made their closing arguments.\nThe following day, the trial judge found M.C. guilty on all twenty counts. In delivering the verdict, the judge explained that she credited the testimony of N.W., \u201ca very believable witness\u201d whose \u201cversion of the facts was corroborated by his brother, [D.W.], as well as by his brother, [I.W.]\u201d The judge made no mention of I.W.\u2019s recantation at trial. The trial judge committed M.C. to the Department of Youth Rehabilitation Services for a period not to exceed his twenty-first birthday.\nOn January 17, 2008, M.C. filed a timely notice of appeal.\nII.\nAppellant contends that the trial judge\u2019s denial of his recusal motion was contrary to the Code of Judicial Conduct for the District of Columbia Courts (1995) (\u201cCode of Judicial Conduct\u201d). Specifically, he argues that the two ex parte emails the trial judge received contained extrajudicial information that bore directly on a critical issue at trial \u2014 the motive underlying I.W.\u2019s recantation at trial \u2014 and, therefore, required recusal regardless of whether the trial judge actually considered the information in her deliberations.\nCanon 8(E)(1) provides that \u201c[a] judge shall disqualify himself or herself in a proceeding in which the judge\u2019s impartiality might reasonably be questioned.\u201d Code of Judicial Conduct, Canon 3(E)(1); 2007 Model Judicial Code, Rule 2.11(A). The standard for determining whether re-cusal is required under Canon 3(E)(1) is an objective one, whether an observer could reasonably doubt the judge\u2019s ability to act impartially. See, e.g., Belton v. United States, 581 A.2d 1205, 1214 (D.C.1990) (noting that in applying Canon [3(E)(1) ], we must ask whether the circumstances \u201ccould lead \u2018an objective observer\u2019 reasonably to question the judge\u2019s impartiality\u201d (quoting Liljeberg v. Health Servs. Acquisition Corp., 486 U.S. 847, 861, 108 S.Ct. 2194, 100 L.Ed.2d 855 (1988))). Recusal is required if \u201can objective, disinterested observer fully informed of the facts underlying the grounds on which recusal was sought would entertain a significant doubt that justice would be done in the case.\u201d Scott v. United States, 559 A.2d 745, 763 (D.C.1989) (en banc) (Schwelb, J., concurring) (quoting Pepsico, Inc. v. McMillen, 764 F.2d 458, 460 (7th Cir.1985)). In addition to the general precept concerning situations where a judge\u2019s \u201cimpartiality might reasonably be questioned,\u201d Canon 3(E)(1) contains several subsections that set out specific examples of when such a question about a judge\u2019s impartiality would be reasonable. Subsection (a) requires disqualification when \u201cthe judge has personal knowledge of disputed evidentiary facts concerning the proceeding.\u201d Code of Judicial Conduct, Canon 3(E)(1)(a); Model Judicial Code, Rule 2.11(A)(1).\nAppellant argues that the Code of Judicial Conduct required the trial judge to recuse on two independent grounds; 1) because the circumstances surrounding the trial judge\u2019s receipt of the two ex parte emails from another judge concerning a -witness in the case and the trial judge\u2019s disclosure to the parties and response to the recusal motion would cause a reasonable observer to question the judge\u2019s impartiality, and therefore violated the general precept of Canon 3(E)(1), and 2) because she acquired \u201cpersonal knowledge of [a] disputed evidentiary fact[],\u201d one of the specific situations identified in the Judicial Code under subsection (a) as requiring disqualification. We agree that as a result of receiving and reading the emails the trial judge had \u201cpersonal knowledge\u201d regarding the circumstances surrounding I.W.\u2019s recantation and that such circumstances were \u201cdisputed eviden-tiary facts concerning the proceeding.\u201d Thus, Canon 3(E)(1)(a) required that the trial judge recuse from the case. We, therefore, do not find it necessary to address whether the general precept governing the objective appearance of partiality under Canon 3(E)(1) also required recusal.\nA. The Standard of Review\nThe District asserts that M.C. forfeited reliance on Canon 3(E)(1)(a) because his motion for recusal invoked Canon 3(E)(1) but did not specifically cite subsection (a). If the subsection (a) claim is not preserved, the District argues, our review must be for plain error. See, e.g., Moore v. United States, 927 A.2d 1040, 1061 (D.C.2007) (holding that where there was no objection at trial to an erroneous instruction, the objection was forfeited). The defendant\u2019s burden in plain error cases is a \u201cformidable one.\u201d Hunter v. United States, 606 A.2d 139, 144 (D.C.1992) (\u201c[In plain error cases], we will reverse a conviction for error ... only in an extreme situation in which the defendant\u2019s substantial rights were so clearly prejudiced that the very fairness and integrity of the trial was jeopardized.\u201d).\nWe think that the District\u2019s contention takes too narrow a view of the recusal motion appellant presented at trial, particularly where the issue before the court involved the judge\u2019s ethical obligations under the Judicial Code. In the motion for recusal,- defense counsel invoked Canon 3(E)(1), which is the \u201cumbrella\u201d provision and includes its subsections. Therefore, appellant\u2019s failure to refer specifically to subsection (a) of Canon 3(E)(1) should not be construed, without more, as intending to renounce reliance on subsection (a). Moreover, as we have had occasion to comment, in the press of trial, counsel might not (and should not be expected to) flesh out their arguments with the precision that the more deliberate appellate process allows \u2014 an observation that seems particularly apt where counsel is responding to new facts presented mid-trial. See Randolph v. United States, 882 A.2d 210, 217-18 (D.C.2005) (\u201cOnce a claim is properly presented to the trial court, a party can make any argument in the appellate court in support of that claim; parties are not limited to the precise arguments made below.\u201d) (citations omitted; ellipsis and brackets omitted). The determinative factor for purposes of preservation for appellate review is not whether counsel made every conceivable argument, but whether the trial judge was \u201cfairly apprised as to the question on which [she was] being asked to rule.\u201d Hunter, 606 A.2d at 144; see, e.g., In re D.L., 904 A.2d 367, 369 n. 2 (D.C.2006) (\u201cAlthough counsel did not cite a particular statute that the judge\u2019s proposed order would violate, the objection was sufficient to preserve the claim that in effectively closing the case, the judge was exceeding his statutory authority.\u201d); Tindle v. United States, 778 A.2d 1077, 1081-82 & n. 8 (D.C.2001) (holding that appellant preserved his Fifth Amendment claim under Edwards v. Arizona, 451 U.S. 477, 101 S.Ct. 1880, 68 L.Ed.2d 378 (1981), even though his \u201csuppression motion [did] not explicitly reference Edwards \u201d).\nOur review of the record satisfies us that even if the motion for recusal did not cite the specific subsection on which appellant relies on appeal, the trial judge was informed of the legal principles and facts that underlie the specific prohibition in subsection (a). Appellant\u2019s motion not only identified the relevant facts \u2014 the receipt of extrajudicial information material to the criminal proceeding pending before the judge \u2014 but also emphasized that the issue was not one of actual bias but the objective appearance of bias, and cited relevant precedent.\nEven were we to consider that the claim, based on subsection (a), was not preserved at all, we have expressed some reservation (but without deciding) \u201cwhether plain error is ever an appropriate standard when a claim of judicial bias arising out of conduct during a trial is raised on appeal.\u201d In re J.A., supra note 12, 601 A.2d at 75 n. 5 (applying harmless error review where a motion to recuse was filed); see Scott, 559 A.2d at 755-56 (applying harmless error review where no motion was filed and defendant did not know of judge\u2019s improper ex parte contacts until after trial). Our reluctance is based on the expectation that judges should be fully aware of their ethical obligations and that, at least in some cases, it might be inappropriate to impose on the defendant the burden to attack a judge\u2019s integrity. See Belton, 581 A.2d at 1212 (citing Scott, 559 A.2d at 755-56) (applying harmless error review in absence of objection during sentencing hearing when judge disclosed prejudicial ex parte contacts, noting \u201cthe discretionary, virtually non-reviewable act of sentencing\u201d). But we need not decide here whether plain error review is never appropriate even if no objection was made when a claim of disqualification for appearance of impropriety is based on judicial conduct of which the parties were made aware during trial, for this is far from a case where appellant is raising the claim of disqualification for the first time on appeal. At most, appellant is presenting a more nuanced argument in support of the claim he made at trial that the judge must recuse as a result of having received extrajudicial information about a material witness in a proceeding in which the judge was the finder of fact. See Randolph, 882 A.2d at 217-18 (distinguishing between claims and arguments in support of a claim). Because we place particular emphasis and rely on judges\u2019 knowledge of their ethical obligations, defense counsel\u2019s motion to recuse should have served, at a minimum, as a prompt for further judicial research and consultation to flesh out the ethical requirements demanded by the circumstances of the ease. Had that been done, the judge would have easily located the specific provision in subsection (a) that required her disqualification. We, therefore, review the case for harmless error, applying the \u201cspecial harmless error\u201d test (which we discuss infra, Section III) as set forth by the Supreme Court in Liljeberg, 486 U.S. at 866, 108 S.Ct. 2194, and adopted by this court in Scott, 559 A.2d at 750-51 (noting that \u201ca review of the record for actual prejudice would be inconsistent with the goal of Canon [3(E) ] to prevent even the appearance of impropriety\u201d).\nB. Whether the Trial Judge was Required to Recuse Herself under Canon 3(E)(1)(a)\nA judge shall disqualify himself or herself in a proceeding in which the judge\u2019s impartiality might reasonably be questioned including, but not limited to instances where:\n(a) the judge has ... personal knowledge of disputed evidentiary facts concerning the proceeding[.]\nCode of Judicial Conduct, Canon 3(E)(1)(a); Model Judicial Code, Rule 2.11(A)(1).\n1. Personal Knowledge\nThe parties are agreed that the term \u201cpersonal knowledge\u201d used in Canon 3(E)(1)(a) means extrajudicial knowledge \u2014 knowledge gained \u201cfrom sources outside the scope of the judge\u2019s judicial functions.\u201d In re Thompson, 419 A.2d 993, 995 (D.C.1980); see also United States v. Widgery, 778 F.2d 325, 328 (7th Cir.1985) (\u201cKnowledge of disputed facts requires disqualification only if the knowledge has an extrajudicial source.\u201d). Here, the trial judge\u2019s knowledge was the result of email communications from another Superior Court judge. The facts of this case are similar to those of In re Bell, 373 A.2d 232 (D.C.1977), where we held that a telephone call from another judge concerning a participant in a proceeding constituted an \u201cextrajudicial source\u201d of information. Id. at 235. As in Bell, the trial judge in this case received information concerning a participant in a case before her from another Superior Court judge. Because the information in the email correspondence was not acquired in the course of the judicial proceeding before the trial judge, it constituted \u201cpersonal knowledge\u201d under Canon 3(E)(1)(a).\nOn this record, we are not persuaded by the District\u2019s suggestion that the email communications might nonetheless have fallen within the scope of the judges\u2019 judicial functions, and were, therefore, not \u201cextrajudicial.\u201d The District surmises that the other judge might have thought it necessary to inform the trial judge about the confrontation between I.W. and M.C. so that the trial judge could adopt appropriate courtroom security measures, should there be any other violence or attempted intimidation. The District notes, correctly, that this court has observed that for purposes of Canon 3(E)(1), judicial functions are not limited to in-court proceedings, but can also include activities outside the courtroom that are legitimately related to judicial duties. See In re Evans, 411 A.2d 984, 995 (D.C.1980) (\u201cEssentially, the importance of the distinction lies not in the physical location of the incidents from which bias is alleged to arise, but in the nature of the incidents as inside or outside the scope of official judicial conduct in regard to the instant or a prior case.\u201d). Here, however, the record we have does not support that the emails were \u201cnecessary in order to enable [the trial judge] to perform [her] continuing duty to conduct an orderly trial and to take appropriate measures designed to protect the participants therein.\u201d United States v. Phillips, 664 F.2d 971, 1003 (5th Cir.1981) (holding that the trial judge was not required to recuse himself, despite his involvement in an investigation of certain defendants\u2019 plans \u201cto disrupt the trial proceedings, intimidate witnesses, and attempt to kill the judge himself\u2019). To the extent that the record is incomplete on the subject, that deficiency cannot be laid at the feet of the defendant who has no independent basis to know or discover the circumstances and content of a private communication between judges. As the Commentary to Canon 3(E)(1) makes clear, in the context of potential disqualification the burden of clarifying the record falls on the judge:\nA judge should disclose on the record information that the judge believes the parties or their lawyers might consider relevant to the question of disqualification, even if the judge believes there is no real basis for disqualification.\nCode of Judicial Conduct, Canon 3(E)(1) cmt.; Model Judicial Code, Rule 2.11 cmt. [5].\nThe trial judge was reluctant to fully lay out for the parties the circumstances surrounding her receipt of the emails and their content, but her statements regarding receipt of the emails are fairly read as indicating that she did not understand the communications to fall within the realm of her judicial functions. The trial judge explained that she had \u201cinadvertently [been given] information which [she] would not want to have about a witness that [she] was presiding over.\u201d The trial judge\u2019s understandable discomfort was evident from her statements: \u201c[t]hey were emails basically, so nothing I could stop,\u201d and following appellant\u2019s motion for recusal, she said: \u201cI\u2019m not going to go back and review [the emails] and confirm those because I don\u2019t want to look at them again at this time because I don\u2019t need to put any more information in there.\u201d Moreover, the trial judge indicated that the judge who sent her the emails also might have become discomfited as the situation developed: \u201cI\u2019m not sure at what point, if any, [the other judge] became aware that we were actually in trial with [I.W.]\u201d These statements are all we have and they do not support that the communications were in furtherance of a judicial function. Therefore, on this record we must conclude that the emails were an extrajudicial communication, and thus constituted \u201cpersonal knowledge\u201d within the meaning of Canon 3(E)(1)(a).\n2. Disputed Evidentiary Facts\nHaving concluded that the emails that were sent to the trial judge provided her with \u201cpersonal knowledge\u201d regarding I.W.\u2019s recantation, we must determine whether the knowledge related to a \u201cdisputed evidentiary fact[ ].\u201d Code of Judicial Conduct, Canon 3(E)(1)(a); Model Judicial Code, Rule 2.11(A)(1). The District asserts that the emails did not concern a \u201cdisputed evidentiary fact\u201d because \u201cthe question in these proceedings was whether M.C. was involved in the charged crimes beyond a reasonable doubt, not whether there had been a later altercation between I.W. and M.C.\u201d The District concludes, therefore, that \u201c[t]he parties ... did not need to dispute ... whether there had been an altercation\u201d between appellant and the recanting I.W. in the Superior Court cell block. We disagree with this characterization of the factual issues before the trial judge.\nIn this trial, where there was no physical evidence linking the defendant to the shootings, the government\u2019s case was dependent upon the testimony of the two eyewitnesses, I.W. and N.W., who identified appellant. Therefore, the credibility of I.W.\u2019s identification of M.C. as the shooter was an evidentiary fact that went directly to M.C.\u2019s guilt. I.W.\u2019s in-court testimony contradicted his identification of M.C. on the night of the shooting. As we have explained previously, when a witness recants, \u201cthe trier of fact must decide whether to accept as true the witness\u2019s original testimony or revised testimony.\u201d Payne v. United States, 516 A.2d 484, 493 (D.C.1986) (per curiam) (\u201c[Conflicts created by a witness\u2019 recantation, like other internal inconsistencies within a witness\u2019 testimony, are factual questions for the jury to resolve.\u201d). Here, the decision of the trial judge, as fact-finder, to accept or reject I.W.\u2019s trial testimony was inextricably linked to her assessment of why I.W. decided to recant his previous identification. The government tried and failed to elicit from I.W. at trial that the reason for his recantation had to do with a confrontation he had with M.C., but I.W. denied it. The information contained in the emails the trial judge received \u2014 that I.W. had been in a \u201cphysical altercation\u201d with M.C. that resulted in his being \u201cseparated from [M.C.] in the cellblock\u201d \u2014 provided the very information that the District had been unable to elicit from I.W. at trial. The email\u2019s information that the physical altercation had taken place in the courthouse cell block also conveyed that it had been close in time and place to I.W.\u2019s testimony, adding crucial context with which to question I.W.\u2019s recantation, and thus tended to strengthen the government\u2019s case.\nThis case is distinguishable from Plechner v. Widener College, Inc., 569 F.2d 1250 (3d Cir.1977), on which the District relies. In Plechner, the court held that a judge\u2019s acquaintance with a witness whom he had met through the American Bar Association \u201cin the normal practice of law\u201d did not amount to \u201cpersonal knowledge of disputed evidentiary facts\u201d within the scope of 28 U.S.C. \u00a7 455(b)(1), the federal corollary to Canon 3(E)(1)(a). Id. at 1262-63. The United States Court of Appeals for the Third Circuit explained:\nThe disqualification provision is directed toward knowledge of disputed evidentia-ry facts, that is, matters underlying the cause of action. We do not understand the statutory language to be directed toward routine judgments of credibility. Such an interpretation would require all the judges in many districts to be disqualified in the most pedestrian of cases if they had some previous contact with a witness.\nPlechner, 569 F.2d at 1263; see also Parrish v. Board of Comm\u2019rs of Alabama State Bar, 524 F.2d 98, 104 (5th Cir.1975) (commenting that under \u00a7 455(b)(1), \u201c[credibility choices are not disputed facts\u201d).\nHere, in contrast to Plechner, the extrajudicial information that the trial judge received about the witness did not relate solely to a \u201croutine judgment[ ] of credibility,\u201d Plechner, 569 F.2d at 1263, nor was this a situation in which the trial judge had \u201c[m]ere prior knowledge of some facts\u201d concerning a witness\u2019s behavior and demeanor from a previous hearing. United States v. Seiffert, 501 F.2d 974, 978 (5th Cir.1974) (holding that \u201cintangible impressions\u201d of a party\u2019s \u201cdemeanor and candor\u201d that the judge \u201cmight have obtained\u201d at a previous meeting did not \u201cconstitute a connection or relationship to a party sufficient to make it improper to sit at the trial on the merits\u201d). Although we agree with the court\u2019s observation in Plechner that judges should not be required to disqualify themselves \u201cin the most pedestrian of cases\u201d merely as a result of \u201csome previous contact with a witness,\u201d 569 F.2d at 1263, the record before us indicates not that the judge had overall impression of a witness from some previous ordinary contact, but that during the course of trial the judge received important information relating to a specific incident between the witness and the defendant that might explain why the witness recanted his prior identification of the defendant. The witness\u2019s recantation of his prior identification went to a central issue in the government\u2019s case against M.C. \u2014 the identity of the shooter \u2014 making I.W.\u2019s trial recantation a \u201cdisputed eviden-tiary fact.\u201d Code of Judicial conduct, Canon 3(E)(1)(a); Model Judicial Code, Rule 2.11(A)(1).\nThe District raises the concern that requiring the trial judge to recuse herself here will require disqualification \u201cevery time a judge has some personal knowledge that bears in some fashion upon a proceeding.\u201d We think that is a Chicken Little overstatement. As our prior cases make clear, a judge\u2019s decision to recuse herself\u2014 or her refusal to do so \u2014 is highly fact-specific, and we have reached our conclusion in this case only after careful examination of the record, in particular the factual issues that were presented to the trial judge for decision and the nature and content of the information that she received. It is of particular importance to this case that the trial judge was the fact finder, and that it was her role to evaluate I.W.\u2019s recantation at trial concerning the central issue in the case: who fired the shots? The District\u2019s case was predicated on the testimony of two eyewitness: I.W., who at trial recanted his prior identification of appellant; and N.W., who repeatedly and positively identified appellant as the shooter, but gave inconsistent (and ultimately disproven) accounts of the circumstances surrounding the shooting, which raised questions about his credibility. I.W.\u2019s trial recantation, if credited by the trial judge, might therefore have created a reasonable doubt as to the accuracy of N.W.\u2019s identification of M.C. as the shooter. The trial judge dispelled doubts raised by N.W.\u2019s inconsistent statement and appears to have easily discounted I.W.\u2019s trial recantation (she did not mention it), relying on N.W.\u2019s identification, which she considered \u201ccorroborated\u201d by I.W. \u2014 an obvious reference to the prior identification that I.W. recanted at trial. The emails to the trial judge, which contained facts that were highly relevant to the judge\u2019s assessment of the veracity of I.W.\u2019s trial recantation, thus bore directly on the merits of the prosecution\u2019s case and cannot be dismissed as \u201ctangential\u201d or merely related \u201cin some fashion\u201d to the proceedings as the government asserts; or simply as \u201csome previous contact with a witness,\u201d Plechner, 569 F.2d at 1268. It is unlikely that similar circumstances will often be replicated, but where a judge does come to have \u2014 no matter how \u2014 extrajudicial \u201cpersonal knowledge\u201d of a \u201cdisputed evidentiary fact[],\u201d as we conclude was the case here, the trial judge is required to recuse herself under subsection (a) of Canon 3(E)(1); Model Judicial Code, Rule 2.11(A)(1). See York v. United States, 785 A.2d 651, 656 (D.C.2001) (\u201cThe Code of Judicial Conduct requires recusal when \u2018the judge has ... personal knowledge of disputed evidentiary facts concerning the proceeding.\u2019 \u201d (quoting Code of Judicial Conduct, Canon 3(E)(1)(a))); see also United States v. Alabama, 828 F.2d 1532, 1545 (11th Cir.1987) (per curiam) (\u201c[A] judge cannot be, or cannot appear to be, impartial if he has personal knowledge of evidentiary facts that are in dispute.\u201d (quoting E. Wayne Thode, Reporter\u2019s Notes to Code of Judicial Conduct 62 (1973))).\nWe want to make clear that appellant did not suggest at trial and does not contend before this court that there was any bias or improper motive on the part of either the trial judge or the judge who sent the email communications. Nor do we doubt that the trial judge in good faith believed herself capable of compartmentalizing the information she learned through extrajudicial means. But this introspective analysis is largely irrelevant under Canon 3(E)(1), which examines whether a judge\u2019s impartiality reasonably might be questioned from the perspective of an objective observer. Moreover, subsection (a) of Canon 3(E)(1) mandates that once a judge has \u201cpersonal knowledge\u201d of a \u201cdisputed evidentiary fact[],\u201d she \u201cshall\u201d re-cuse herself. Code of Judicial Conduct, Canon 3(E)(1)(a) (\u201cThe Judge shall disqualify himself or herself in a proceeding ... where the judge has ... personal knowledge of disputed evidentiary facts concerning the proceeding.\u201d (emphasis added)); Model Judicial Code Rule 2.11(A)(1). Thus, recusal is required where the judge\u2019s impartiality would \u201creasonably be questioned,\u201d including in the specific instance identified in subsection (a).\n3. Judge\u2019s Obligation to Disclose; Re-mittal of Disqualification\nA. Disclosure on the Record\nWe address two issues related to disqualification. Neither party asked the trial judge to place the emails on the record, with the result that both parties\u2019 arguments and our analysis are therefore based on the information that the trial judge disclosed orally on two different occasions during trial. As noted, these disclosures were limited by the trial judge\u2019s reluctance to re-read emails she considered to be problematic in a situation not of her own making. We understand the trial judge\u2019s reluctance as an attempt to avoid the taint of actual bias resulting from extrajudicial information about a trial witness. But, as already discussed, the ethical issue of disqualification that appellant presented was not premised on personal bias but on whether an objective \u201cfully informed\u201d observer would have reasonable cause to question the judge\u2019s ability to perform her judicial function with impartiality. Scott, 559 A.2d at 750. For this reason, the Judicial Code places on the judge an independent responsibility to \u201cdisclose on the record information that the judge believes the parties or their lawyers might consider relevant to the question of disqualification, even if the judge believes there is no real basis for disqualification.\u201d Code of Judicial Conduct, Canon 3(E)(1) cmt. (emphasis added); Model Code, Rule 2.11 cmt. [5]. Thus, even if the trial judge\u2019s own analysis of Canon 3(E)(1) led her to conclude that she was not required to recuse herself, she should have provided copies of the relevant parts of the email communications to the parties and made them a part of the record on appeal.\nB. Remittal of Disqualification\nWhere, as here, a judge is not influenced by \u201cpersonal bias or prejudice concerning a party\u201d and she believes she is capable of proceeding impartially, the parties are given the opportunity under Canon 3(F) to waive a disqualification that would otherwise require recusal under Canon 3(E). The judge plays no part in the waiver decision, which is decided solely by the parties. Again, however, the Code places a disclosure obligation on the judge so that the parties may knowingly exercise the waiver option: \u201cA judge disqualified by the terms of Section 3E may disclose on the record the basis of the judge\u2019s disqualification and may ask the parties and their lawyers to consider, out of the presence of the judge, whether to waive disqualification.\u201d Code of Judicial Conduct, Canon 3(F); Model Judicial Code, Rule 2.11(C). Therefore, even if the judge in this case had properly analyzed the situation as requiring recusal, she could have initiated the remittal procedure, but only after making a full disclosure on the record of the emails so that both parties could make an informed decision about whether to waive the judge\u2019s disqualification.\nIII. Special Harmless Error Test\nA judge\u2019s failure to recuse as required by the Judicial Code does not lead to automatic reversal; prejudice must be shown. Bearing in mind that \u201cto perform its high function in the best way \u2018justice must satisfy the appearance of justice,\u2019 \u201d the Supreme Court in Liljeberg devised a special harmless error test to determine whether relief should be granted where a judge does not recuse as required. Liljeberg, 486 U.S. at 864, 108 S.Ct. 2194 (quoting In re Murchison, 349 U.S. 133, 136, 75 S.Ct. 623, 99 L.Ed. 942 (1955)). We have adopted Liljeberg\u2019s special harmless error test. See Scott, 559 A.2d at 750-51 (en banc). Under the Liljeberg test, we consider three factors: \u201c[1] the risk of injustice to the parties in the particular case, [2] the risk that the denial of relief will produce injustice in other cases, and [3] the risk of undermining the public\u2019s confidence in the judicial process.\u201d Id. at 752-53. We address each of these factors and conclude that the trial judge\u2019s denial of the motion to recuse was not harmless.\nApplying the first prong of the Liljeberg test, we conclude that the risk to M.C. is considerable and the corresponding risk to the government is minimal. M.C. has been found to have committed twenty serious crimes that would be felony convictions if this had been a criminal prosecution. The trial judge, who was sitting as the sole trier-of-fact, acquired personal knowledge of a disputed evidentiary fact\u2014 the circumstances surrounding I.W.\u2019s recantation \u2014 without evaluation of its admissibility (it was hearsay) or the rigors of cross-examination. The trial judge acquired this information contemporaneously with I.W.\u2019s trial recantation, shortly before deciding M.C.\u2019s guilt. Under the circumstances, M.C. reasonably could question whether the trial judge\u2019s verdict was influenced, at least in part, by the extrajudicial information that she had received. Cf. Foster v. United States, 615 A.2d 213, 220 (D.C.1992) (noting that sentencing, as compared to the merits phase of a trial, \u201cis usually a highly discretionary function of the trial judge\u201d and \u201c[a] trial judge generally may consider information from a wide variety of sources in evaluating the appropriate sentence\u201d). Meanwhile, there is no indication that retrying M.C. would involve any \u201cspecial hardship\u201d to the government. See Scott, 559 A.2d at 754 (noting that whether denial of relief will produce injustice to litigants turns on whether the parties \u201cmade a showing of \u2018special hardship by reason of their reliance on the original judgment\u2019 \u201d) (quoting Liljeberg, 486 U.S. at 870, 108 S.Ct. 2194).\nProviding relief to M.C. in the present case would not produce injustice in future cases \u2014 Liljeberg\u2019s second prong. To the contrary, we consider that reversal will be beneficial for two reasons. First, in light of the ease and frequency with which judges use email, our decision will prompt judges to use the utmost caution in exchanging communications that might contain information about litigants or witnesses in order to avoid unintended ethical consequences that can result from innocent communications. See Code of Judicial Conduct, Canon 4(A)(1) (\u201cA judge shall conduct all of the judge\u2019s extra-judicial activities so that they do not: (1) cast reasonable doubt on the judge\u2019s capacity to act impartially as a judge.\u201d); Model Judicial Code, Rule 3.1(C) (\u201c[W]hen engaging in extrajudicial activities, a judge shall not ... participate in activities that would appear to a reasonable person to undermine the judges\u2019 independence, integrity or impartiality.\u201d). Second, in light of the trial judge\u2019s reliance on her own subjective ability to compartmentalize and disregard the extrajudicial information as a basis for denying appellant\u2019s motion to recuse, we think it is important to emphasize that recusal under Canon 3(E)(1) is mandatory (unless the parties, after receiving full disclosure, agree otherwise), and that a judge\u2019s confidence in her ability to set aside extrajudicial information about a disputed evidentiary fact is irrelevant to the proper objective analysis whether there is an appearance of bias. Thus, reversal \u201cwould have prophylactic value since it might prevent a substantive injustice in a future case by encouraging greater sensitivity to the concerns underlying [3(E) ]....\u201d Scott, 559 A.2d at 754.\nWe are also persuaded that the third and final prong of the Liljeberg test favors reversal. Because the standard for recu-sal is whether an objective observer would have questioned the trial judge\u2019s impartiality, it is nearly axiomatic that a violation of Canon 3(E)(1)(a) risks eroding the public\u2019s confidence in the judicial process. See Code of Judicial Conduct, Canon 1(A) cmt. (\u201c[Vjiolation of this Code diminishes public confidence in the judiciary.\u201d); Model Judicial Code, Rule 1.2, cmt. [1, 2]. Despite having received extrajudicial knowledge about a fact central to the matter for adjudication, and notwithstanding the juvenile defendant\u2019s motion to recuse, the trial judge refused to remove herself from the case. We have no reason to doubt that the judge reached this decision in good faith, but it was an erroneous choice. As the Court explained in Liljeberg, \u201c[t]he problem, however, is that people who have not served on the bench are often all too willing to indulge suspicions and doubts concerning the integrity of judges. The very purpose [of the disqualification requirement] is to promote confidence in the judiciary by avoiding even the appearance of impropriety whenever possible.\u201d 486 U.S. at 864-65, 108 S.Ct. 2194 (emphasis added). Thus, \u201cthis case ... requires a new trial in order to assure the continued public confidence in the integrity of the judiciary.\u201d Scott, 559 A.2d at 756.\nIn sum, the trial judge was required to recuse by Canon 3(E)(1)(a) of the Code of Judicial Conduct, and her failure to do so was not harmless. The judgment of the Superior Court is hereby reversed and the case is remanded for retrial before a different judge.\nSo ordered.\n. M.C. was charged with three counts of attempted murder while armed, in violation of D.C.Code \u00a7\u00a7 22-1803, -2101, -4504 (2001); three counts of assault with intent to kill while armed, in violation of D.C.Code \u00a7\u00a7 22-403, -4502; one count of aggravated assault while armed and two counts of attempted aggravated assault while armed, in violation of D.C.Code \u00a7\u00a7 22-404.01, -4502; three counts of assault with a dangerous weapon, in violation of D.C.Code \u00a7 22-402; one count of possessing a firearm during a crime of violence, in violation of D.C.Code \u00a7 22-4504(b); one count of carrying a pistol without a license, in violation of D.C.Code \u00a7\u00a7 22-4502.01, -4504; one count of possession of an unregistered firearm, in violation of D.C.Code \u00a7\u00a7 7-2502.01(a), 22-4502.01; one count of unlawful possession of ammunition, in violation of D.C.Code \u00a7 7-2506.01; and one count of discharging a firearm, in violation of 24 DCMR \u00a7 2300.1.\n.They were joined by D.W.\u2019s friend, who did not testify at M.C.\u2019s trial.\n. D.W. testified that he did not hear what the shooter said: \"I couldn\u2019t hear anything because I was in the middle talking, so I did not hear, I didn\u2019t hear anything prior to the gun shots.\u201d\n. D.W. testified that he did not give a description of the shooter to the police but instead directed them to interview his brothers. This contradicted Detective Williams\u2019s testimony that D.W., like his brothers, described the shooter.\n. At oral argument, the court was informed that the certification of I.W.\u2019s case to another judge was not related to the fact that he was a witness in M.C.\u2019s trial, but done pursuant to established practice in Family Court.\n. Detective Williams testified that on the night of the shooting, I.W. identified M.C. as the shooter. He also testified that during a subsequent meeting at the prosecutor\u2019s office he heard I.W. describe M.C. as \u201cabout 15 years of. age, medium complexion, with dreads down to his collar.\u201d Officer Egbert testified that I.W. \"said [M.C.] was a black male, 17 years old, short dreadlocks.\u201d At trial, however, I.W. testified that he did not know who shot at him, and he described the shooter as \"dark-skinned, short hair.\u201d\n.We include the trial judge\u2019s reasoning in full:\nThere has been a motion [of rejcusal, which I found very untimely when I indicated the communications that I'd had ... last week. I had purposely paused. I waited and waited and waited for counsel to say something. Counsel looked at each other, said nothing, and we proceeded with trial. I felt that [it] was a bit disingenuous of counsel to later decide to do it after they'd heard all the Government's evidence.\nNevertheless, my stance, my position remains the same. I do want to clarify the record on one point. I think there were actually two emails, not one, ... at different stages. I\u2019m not sure at what point, if any, [the other judge] became aware that we were actually in trial with [I.W.]. But I\u2019m not going to go back and review those and confirm those because I don't want to look at them again at this time because I don\u2019t need to put any more information in there.\nBut I had said ... when I brought up these instances, and I say it again[,] I\u2019ve given it a great deal of thought. I am completely confident, 100 percent confident that I can keep these matters separate from the facts that are at trial. Judges do this all the time, and there\u2019s absolutely no reason why I can't do it now. To suggest there's some impropriety I think it\u2019s [] an unfair statement. There certainly was no intentional impropriety on [the other judge\u2019s] part ... And I don\u2019t think anyone's suggesting there\u2019s any on my part. Now, if I hadn\u2019t revealed this, there certainly would have been impropriety. But that\u2019s not the position we find ourselves in ... so the motion for [re]cusal is denied.\nAnd I appreciate the Government\u2019s response and agree with the Government\u2019s response.\n. The trial judge stated in full:\nIn reaching my decision, I credited the testimony of N.W. I found him to be a very believable witness. And he had no doubt positive, absolute, a hundred percent that [M.C.] was the person who fired at them. I find that his version of the facts was corroborated by his brother, [D.W.], as well as by his brother, [I.W.]. And so I\u2019m convinced beyond a reasonable doubt that the facts that they described did occur, and I\u2019m convinced that your client is the person who did them. And I don\u2019t see any reason to doubt that.\n. The Code of Judicial Conduct, adopted in 1995, is applicable to judges of the District of Columbia. It is based on the Model Code of Judicial Conduct issued by the American Bar Association in 1990. The ABA Model Code was revised in 2007. For convenience and ease of future reference, whenever in this opinion we refer to a provision of the current Code of Judicial Conduct, we also note the relevant provision in the 2007 Model Judicial Code, to which we refer as the \"Model Judicial Code.\u201d\n. Canon 3(E) provides:\nE. Disqualification.\n(1) A judge shall disqualify himself or herself in a proceeding in which the judge's impartiality might reasonably be questioned, including but not limited to instances where:\n(a) the judge has a personal bias or prejudice concerning a party or a party\u2019s lawyer, or personal knowledge* of disputed evidentiary facts concerning the proceeding;\n(b) the judge served as a lawyer in the matter in controversy, or a lawyer with whom the judge previously practiced law served during such association as a lawyer concerning the matter, or the judge has been a material witness concerning it;\n(c) the judge knows* that he or she, individually or as a fiduciary, or the judge\u2019s spouse, parent or child wherever residing, or any other member of the judge\u2019s family residing in the judge\u2019s household,* has an economic interest* in the subject matter in controversy or in a party to the proceeding or has any other more than de minimis* interest that could be substantially affected by the proceeding;\n(d)the judge or the judge\u2019s spouse, or a person within the third degree of relationship* to either of them, or the spouse of such a person;\n(1) is a party to the proceeding, or an officer, director or trustee of a party;\n(ii) is acting as a lawyer in the proceeding;\n(iii) is known* by the judge to have a more than de minimis* interest that could be substantially affected by the proceeding;\n(iv) is to the judge's knowledge* likely to be a material witness in the proceeding.\n(2) A judge shall keep informed about the judge's personal and fiduciary* economic interests,* and make a reasonable effort to keep informed about the personal economic interests of the judge\u2019s spouse and minor children residing in the judge's household.\nCode of Judicial Conduct, Canon 3(E) (1995) (The asterisks identify terms defined in the Code of Judicial Conduct); see 2007 Model Judicial Code, Rule 2.11(A) & (B).\n. Such an inference would be more reasonable if the obverse had been true: reference to only a specific subsection could be interpreted as forgoing reliance on the more general provision.\n. The motion explained why the trial judge's access to the ex parte communications created an appearance of bias, as follows:\nThe communication received by the Court gives the appearance of a judicial bias toward [M.C.]. Even though[ ] this Court may harbor no actual bias toward [M.C.], the information relayed to the [C]ourt by another Superior Court Judge, ex parte and in violation of judicial obligations of confidentiality and impartiality, regards an incident directly affecting the credibility of a central government witness, any alleged relationship or encounters between the witness and our client, and alleged prior bad acts by our client, and thus present the appearance of bias toward [M.C.].\nThe motion directed the judge\u2019s attention to several relevant cases: Liljeberg; Gibson v. United States, 792 A.2d 1059 (D.C.2002); In re J.A., 601 A.2d 69 (D.C.1991); Scott; and Mejia v. United States, 916 A.2d 900 (D.C.2007). That the motion was sufficiently precise to identify the issue raised on appeal is confirmed by the government\u2019s opposition to the motion. At two points in its memorandum in opposition to M.C.\u2019s motion for recu-sal, the District recognized that the trial judge had acquired \u2019\u2019personal knowledge\u201d of the contents of the emails, using a term used in subsection (a). Moreover, the District\u2019s opposition acknowledged that such personal knowledge was relevant to the proceeding and could prejudice appellant \"if Judge Bro-derick based her factual findings or legal conclusions on the information she learned from the e-mail, which was not verified and contained multiple levels of hearsay.\u201d See Hunter, 606 A.2d at 144 (\"The purpose of requiring a specific objection is to enable the prosecution to respond to any contentions raised....\u201d). The District\u2019s failure to appreciate that the relevant test is an objective one (rather than a subjective one) is not attributable to the lack of specific reference to subsection (a) in the defense motion for recusal, as the objective nature of the inquiry is equally applicable to the general precept of Canon 3(E)(1) and was expressly argued in the defense motion. We, therefore, have no cause to be concerned that either the judge or the government were misled by the fact that the defense motion not make specific reference to subsection (a).\n. Judges routinely (and prudently) consult with each other concerning issues of judicial ethics. We note that the District of Columbia Courts have established an Advisory Committee on Judicial Conduct, composed of three judges of the District of Columbia Court of Appeals and two judges of the Superior Court of the District of Columbia, who are appointed by the Joint Committee on Judicial Administration. The Committee and its members are available to all District of Columbia judges for consultation and advice on a confidential basis, either for informal advice or a formal, written opinion. See Order establishing Advisory Committee on Judicial Conduct, dated October 1, 1990.\n. The term \"knowledge\u201d is defined in the Code of Judicial Conduct. \" \u2018Knowingly,\u2019 \u2018knowledge,\u2019 'known' and \u2018knows\u2019 denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.\u201d Code of Judicial Conduct, Terminology; Model Judicial Code, Terminology. There is no dispute that the trial judge read and had actual knowledge of the content of the emails she received from another judge concerning I.W.\n. In its opposition to appellant\u2019s motion for recusal, the District added that I.W. was then \"held in protective custody by the Department of Youth Rehabilitation Services,\u201d further suggesting that I.W. had been threatened by M.C.\n. 28 U.S.C. \u00a7 455 (1974) provided in pertinent part:\n(a) Any justice, judge, magistrate, ... of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.\n(b) He shall also disqualify himself in the following circumstances:\n(1) Where he has personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding....\n28 U.S.C. \u00a7 455 (emphasis added).\n. As mentioned above, N.W.\u2019s trial testimony that he had been chased by only one person, M.C., was contradicted by the officers\u2019 testimony that N.W. had told the police that he had been chased by a large group of boys just before the shooting. At trial, N.W. testified that the chase had taken place earlier in the day not right before the shooting. D.W. testified that he was never chased; I.W. was not asked about the chase he had reported earlier. Moreover, Detective Williams testified that N.W. and I.W. provided detailed descriptions of four of the boys who allegedly chased them. The police were able to locate only one of the four suspects and he was found to have had no involvement in the alleged chase.\n. Ex parte communications are prohibited under the Code of Judicial Conduct, with some limited exceptions. See Code of Judicial Conduct, Canon 3(B)(7) (\"A judge shall not initiate, permit, or consider ex parte communications or consider other communications made to the judge outside the presence of the parties concerning a pending or impending proceeding except that....\u201d); Model Judicial Code, Rule 2.9. The Code of Judicial Conduct expressly provides an exception for consultations \"with other judges,\u201d Canon 3(B)(7)(c), but as the Commentary makes clear, \"[a] judge must not independently investigate facts in a case and must consider only the evidence presented.\" See also Harris v. United States, 738 A.2d 269, 277 (D.C.1999) (defining ex parte communications as \"those that involve fewer than all of the parties who are legally entitled to be present,\u201d and explaining that such communications are prohibited to \"ensure that \u2018every person who is legally interested in a proceeding [is given the] full right to be heard according to law\u2019 \") (alteration in original) (quoting Jeffrey M. Shaman et al., Judicial Conduct and Ethics 149 (2d ed.1995) (quoting ABA Model Code of Judicial Conduct, Canon 3(A)(4) (1972))). The Model Judicial Code addresses the issue more directly: \"A judge may consult ... with other judges, provided the judge makes reasonable efforts to avoid receiving factual information that is not part of the record, and does not abrogate the responsibility personally to decide the matter.\u201d Rule 2.9(A)(3). The issue for purposes of recusal under Canon 3(E)(1)(a), however, is not whether the email communications between the judges were improper per se but the consequences that flow from them.\n. The fact that the source of the information is extrajudicial is an essential component of the appearance of impartiality analysis. It is a crucial distinction from situations where evidence is presented and then excluded in the course of trial after adversarial discussion and an on-the-record ruling. In most such situations, the fact finder (be it judge or jury) is expected not to take the evidence into account or to use it only for limited purposes. Moore v. United States, 609 A.2d 1133, 1136 (D.C.1992) (noting \"the well-recognized 'presumption that a trial judge, in deciding a case without a jury, will disregard any inadmissible evidence and any improper argument -(quoting Singletary v. United States, 519 A.2d 701, 702 (D.C.1987))); Coleman v. United States, 779 A.2d 297, 303 (D.C.2001) (\"It is, of course, the \u2018almost invariable assumption of the law that jurors follow their instructions.'\" (quoting Plater v. United States, 745 A.2d 953, 959 (D.C.2000))). There are, however, circumstances in which \"the destruction of the appearance of impartiality\" can \"strain the presumption that the trial judge considered only relevant and admissible evidence beyond the breaking point.\u201d Banks v. United States, 516 A.2d 524, 528 (D.C.1986) (discussing several cases in which judges should have recused themselves after learning incriminating evidence about criminal defendants).\n. The Commentary to Canon 3(E)(1) states:\nUnder this rule, a judge is disqualified whenever the judge's impartiality might reasonably be questioned, regardless whether any of the specific rules in Section 3E(1) apply. For example, if a judge were in the process of negotiating for employment with a law firm, the judge would be disqualified from any matters in which that law firm appeared, unless the disqualification was waived by the parties after disclosure by the judge.\nCode of Judicial Conduct, Canon 3(E)(1) cmt.; Model Judicial Code, Rule 2.11 cmt. [1],\nThere is a very limited exception, not applicable here, to the rule of mandatory disqualification. \"By decisional law, the rule of necessity may override the rule of disqualification.\u201d Canon 3(E)(1), cmt.; Model Judicial Code, Rule 2.11, cmt. [3]. See United States v. Will, 449 U.S. 200, 101 S.Ct. 471, 66 L.Ed.2d 392 (1980) (holding that where every Article III judge had an interest in the outcome of the case, the common law rule of necessity prevailed).\n. Canon 3(F) states in full:\nF. Remittal of Disqualification: A judge disqualified by the terms of Section 3E may disclose on the record the basis of the judge\u2019s disqualification and may ask the parties and their lawyers to consider, out of the presence of the judge, whether to waive disqualification. If following disclosure on any basis for disqualification other than personal bias or prejudice concerning a party, the parties and lawyers, without participation by the judge, all agree that the judge should not be disqualified, and the judge is then willing to participate, the judge may participate in the proceeding. The agreement shall be incorporated in the record of the proceeding.\nCommentary:\nA remittal procedure provides the parties an opportunity to proceed without delay if they wish to waive the disqualification. To assure that consideration of the question of remittal is made independently of the judge, a judge must not solicit, seek or hear comment on possible remittal or waiver of the disqualification unless the lawyers jointly propose remittal after consultation as provided in the rule. A party may act through counsel if counsel represents on the record that the party has been consulted and consents. As a practical matter, a judge may wish to have all parties and their lawyers sign the remittal agreement.\nCode of Judicial Conduct, Canon 3(F); Model Judicial Code, Rule 2.11(C).\n. In denying the recusal motion, the trial judge said it was \"untimely.\u201d We think that a written motion filed within a day of the trial judge\u2019s disclosure during the course of trial shows no unwarranted delay or calculation on the part of defense counsel. The District was able to file an opposition before the judge decided the motion. Moreover, we note that a judge has an independent ethical obligation to recuse when required by the Code of Judicial Conduct, whether or not prompted by a party\u2019s motion. See Code of Judicial Conduct, Canon 3(E)(1); Model Judicial Code, Rule 2.11, cmt. [2] (\"A judge's obligation not to hear or decide matters in which disqualification is required applies regardless of whether a motion to disqualify is filed.\u201d).\n. We are, of course, aware that this opinion will itself provide to the new trial judge some of the information concerning the witness that requires Judge Broderick\u2019s recusal. Because it is contained in an appellate opinion, however, the new judge's source will not be extrajudicial, but is generated in the proper course of judicial proceedings. Now that the parties know the information concerning the confrontation between I.W. and N.W., counsel will be able to investigate the matter further and present relevant admissible evidence at a retrial.",
+        "type": "majority",
+        "author": "RUIZ, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Christine A. Monta, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant.",
+      "Todd S. Kim, Solicitor General, with whom Peter J. Nickles, Attorney General for the District of Columbia, and Rosalyn Calbert Groce, Deputy Solicitor General, were on the brief, for the District of Columbia as appellee."
+    ],
+    "corrections": "",
+    "head_matter": "In re M.C., Appellant.\nNo. 08-FS-132.\nDistrict of Columbia Court of Appeals.\nArgued June 30, 2010.\nDecided Nov. 18, 2010.\nChristine A. Monta, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant.\nTodd S. Kim, Solicitor General, with whom Peter J. Nickles, Attorney General for the District of Columbia, and Rosalyn Calbert Groce, Deputy Solicitor General, were on the brief, for the District of Columbia as appellee.\nBefore RUIZ, Associate Judge, and NEBEKER and KING, Senior Judges."
+  },
+  "file_name": "1215-01",
+  "first_page_order": 1241,
+  "last_page_order": 1260
+}

@@ -1,0 +1,63 @@
+{
+  "id": 7290680,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Jason MYERS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Myers",
+  "decision_date": "2010-11-01",
+  "docket_number": "",
+  "first_page": "1289",
+  "last_page": "1289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 764,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661801485882044
+    },
+    "sha256": "39bc265d0158e958c0c90b59aef975a5e548c9ac53ee2cb668fdc4f8f0d3c8c6",
+    "simhash": "1:74b1031d80d30c90",
+    "word_count": 124
+  },
+  "last_updated": "2023-07-14T16:58:44.861686+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Jason MYERS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 1st day of November, 2010, it appearing that Petitioner\u2019s appointed counsel has never been granted leave to withdraw as counsel for Petitioner, the petition for allowance of appeal is granted, the order of the Superior Court is vacated, and the matter is remanded for a determination as to counsel\u2019s status. If the PCRA court determines that Petitioner is entitled to counsel, counsel shall file a nunc pro tunc appeal from the order of the PCRA court within thirty days of the PCRA court\u2019s order. If Petitioner is not entitled to counsel, the Superior Court shall enter a disposition upon Petitioner\u2019s pro se appeal.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Jason MYERS, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 1, 2010."
+  },
+  "file_name": "1289-01",
+  "first_page_order": 1335,
+  "last_page_order": 1335
+}

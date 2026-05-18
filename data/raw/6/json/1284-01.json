@@ -1,0 +1,151 @@
+{
+  "id": 7290523,
+  "name": "In re H. Beatty CHADWICK, Respondent",
+  "name_abbreviation": "In re Chadwick",
+  "decision_date": "2010-11-04",
+  "docket_number": "No. 10-BG-650",
+  "first_page": "1284",
+  "last_page": "1284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "Registration No. 126466,",
+      "category": "laws:admin_filing",
+      "reporter": "Registration",
+      "opinion_index": -1
+    },
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    },
+    {
+      "cite": "964 A.2d 1278",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8220789,
+        8220838
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/1278-01",
+        "/a2d/964/1278-02"
+      ]
+    },
+    {
+      "cite": "874 A.2d 1142",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8959653,
+        687749,
+        687759,
+        687736,
+        8959612,
+        8959580
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/874/1142-03",
+        "/pa/583/0032-01",
+        "/pa/583/0031-01",
+        "/pa/583/0033-01",
+        "/a2d/874/1142-02",
+        "/a2d/874/1142-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687749
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0032-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 155,
+    "char_count": 1586,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1883159983458495
+    },
+    "sha256": "46a6524c19b67a99e4cb00a46b6860063c783f8a3f1844321e61275acb56b992",
+    "simhash": "1:09b635007fea4527",
+    "word_count": 258
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, Associate Judge, TERRY and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re H. Beatty CHADWICK, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the certified order of the Supreme Court of P\u00e9nnsylvania, Office of Disciplinary Counsel v. Chadwick, 583 Pa. 32, 874 A.2d 1142 (2005), this court\u2019s June 22, 2010, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent has failed to file either a response to this court\u2019s order to show cause or the affidavit required by D.C. Bar R. XI, \u00a7 14(g), it is\nORDERED that H. Beatty Chadwick, Esquire, is hereby suspended from the practice of law in the District of Columbia for a period of five years with a fitness requirement. See In re Neeb, 964 A.2d 1278 (D.C.2009) (imposition of a fitness requirement is identical reciprocal discipline for suspensions over one year imposed by the state of Pennsylvania); and In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C.2006) (rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s suspension will not begin to run until such time as he files an affidavit that fully complies with the requirements of D.C.Bar. R. XI, \u00a7 14(g).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re H. Beatty CHADWICK, Respondent.\nNo. 10-BG-650.\nDistrict of Columbia Court of Appeals.\nFiled Nov. 4, 2010.\nBar- Registration No. 126466, BDN: 289-09.\nBefore REID, Associate Judge, TERRY and KING, Senior Judges."
+  },
+  "file_name": "1284-01",
+  "first_page_order": 1330,
+  "last_page_order": 1330
+}

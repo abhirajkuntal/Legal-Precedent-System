@@ -1,0 +1,159 @@
+{
+  "id": 7284989,
+  "name": "NATIONWIDE MUTUAL FIRE INSURANCE COMPANY, Petitioner v. INSURANCE DEPARTMENT, Respondent",
+  "name_abbreviation": "Nationwide Mutual Fire Insurance v. Insurance Department",
+  "decision_date": "2010-09-10",
+  "docket_number": "",
+  "first_page": "231",
+  "last_page": "235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "476 A.2d 1377",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "525 A.2d 1258",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1360358
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/106/0232-01"
+      ]
+    },
+    {
+      "cite": "719 A.2d 825",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11682475
+      ],
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0825-01"
+      ]
+    },
+    {
+      "cite": "588 A.2d 915",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "527 Pa. 595",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "578 A.2d 999",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1405049
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/134/0226-01"
+      ]
+    },
+    {
+      "cite": "672 A.2d 313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "543 Pa. 721",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "662 A.2d 1164",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868648
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/662/1164-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 562,
+    "char_count": 13011,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.548627546539126e-08,
+      "percentile": 0.28526740362082886
+    },
+    "sha256": "345c99828165487fab1688bbc2050505ed9c15587bbfe410beb0e578b4833d95",
+    "simhash": "1:c4cff22ef3c3ab78",
+    "word_count": 2025
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+    ],
+    "parties": [
+      "NATIONWIDE MUTUAL FIRE INSURANCE COMPANY, Petitioner v. INSURANCE DEPARTMENT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge KELLEY.\nNationwide Mutual Fire Insurance Company petitions for review of a decision and order of the Insurance Commissioner of the Commonwealth of Pennsylvania determining that Nationwide\u2019s cancellation of the homeowner\u2019s insurance policy owned by Darlene Miller violated the Unfair Insurance Practices Act. We affirm.\nMiller owned a homeowner\u2019s insurance policy for the time period December 23, 2007, to December 23, 2008, for property located at 4600 Pennypack, Philadelphia, Pennsylvania 19136 (Philadelphia address). Nationwide cancelled Miller\u2019s homeowner\u2019s insurance policy effective 12:01 a.m. on June 25, 2008, for non-payment of premium. Miller, through her daughter Maureen Miller (Maureen), requested on or about February 17, 2009, that the Insurance Department, Bureau of Consumer Services, review the policy termination. After investigating the termination, the Insurance Department issued an investigative report on March 26, 2009, dismissing the review request as untimely under the guidelines of the Act governing termination of homeowners\u2019 insurance policies. Miller appealed the Insurance Department\u2019s decision.\nA hearing was held on July 28, 2009, in Philadelphia, Pennsylvania, which was attended by Miller\u2019s daughter, Maureen, as well as by counsel and a representative of Nationwide. Evidence was received on both the timeliness of the review request as well as the merits of the policy termination. Based on the evidence received, the Insurance Commissioner made the following pertinent findings of fact.\nOn May 22, 2008, Nationwide mailed a notice to Miller at her Philadelphia address that her homeowner\u2019s insurance policy would be cancelled effective 12:01 a.m. on June 25, 2008, due to the non-payment of premium. Nationwide sent the cancellation notice because when Miller renewed the homeowner\u2019s policy in December 2007, she paid $1,029 instead of the $1,129 renewal premium. In the case of a partial payment, Nationwide\u2019s system generates a bill for the balance due after approximately 115 days and such a bill for a total of $108 was generated on April 15, 2008, and sent to Miller\u2019s Philadelphia address. When that bill was unpaid by its due date of May 15, 2008, the cancellation notice was generated on May 22, 2008, with a cancellation date of June 25, 2008, if the $108 due was not received by June 25th. However, for some unknown reason both the April 15, 2008, bill and the May 22, 2008, cancellation notice were returned by the post office as undeliverable to Nationwide\u2019s Columbus office. Nationwide has a practice of sending returned mail to the Nationwide agent of record, but Nationwide\u2019s representative at the hearing did not know specifically whether that was done in this case or how the agency servicing Miller\u2019s homeowner\u2019s policy handled returned mail forwarded to it.\nAt the time the cancellation notice was sent, Miller was residing at her Philadelphia address, but also going back and forth to spend time with family in Easton, Pennsylvania. Because of Miller\u2019s deteriorating health, Maureen made arrangements to handle some of her mother\u2019s bills, including having some of the bills sent to Maureen\u2019s home in Georgia. However, Miller kept the Philadelphia address as her mailing address and took care of some of the bills, including the insurance, herself. Maureen took no steps to have the post office send all of Miller\u2019s mail to Georgia, and Miller\u2019s address with Nationwide remained the Philadelphia address.\nIn early December 2008 Maureen discovered that her mother\u2019s home at the Philadelphia address had been burglarized and suffered damage as a result. Maureen telephoned the Nationwide agent\u2019s office to report the burglary and damage. The agent explained the sequence of events earlier that year which resulted in the cancellation of Miller\u2019s homeowner\u2019s policy but the agent encouraged Maureen to submit a claim for the damage. Maureen submitted the claim which was assigned to Nationwide\u2019s adjuster, Eric Fransen. Because Maureen lived in Georgia, she also retained a public adjuster who after looking at the home, indicated that the loss would be covered except for the cancellation of the homeowner\u2019s policy.\nMaureen contacted the agent\u2019s office again to see if there was some way to resolve the issue given her mother\u2019s health and the failure to receive notice of the cancellation. The agent did not return Maureen\u2019s repeated phone calls in January 2009 and after three such attempts, Maureen sent a certified letter to the agent on January 30, 2009, detailing the chronology of events as she understood them and asking that coverage for the claim be established.\nWhen Maureen had not received an answer by February 12, 2009, she again telephoned the agent, who indicated that she would need to contact Alicia Dominick, a Nationwide underwriter. The agent also contacted Dominick via email and forwarded Maureen\u2019s letter to her. In an email reply to the agent, Dominick stated that she reviewed Maureen\u2019s letter and the policy. Dominick acknowledged that the insured had not received the April 15, 2008, bill and the May 22, 2008, cancellation notice. However, Dominick stated that Nationwide had issued the appropriate correspondence to Miller and she told the agent to inform Miller that the policy was cancelled on June 25, 2008, that the policy would not be reinstated, and that the December 11, 2008, claim did not have coverage.\nThe agent forwarded Dominick\u2019s February 12, 2009, email reply to Maureen, together with copies of the invoice and the May 22, 2008, cancellation notice which had been returned to Nationwide. That was the first time Maureen or Miller saw the cancellation notice. Shortly after receiving the cancellation notice, Maureen requested review of the cancellation by the Insurance Commissioner.\nBased on the foregoing findings, the Insurance Commissioner determined that the request for review of the cancellation of the homeowner\u2019s policy was timely as the request was filed within four or five days of receiving the cancellation notice. The Insurance Commissioner further determined that Nationwide did not meet its burden of showing compliance with the Act and the purported cancellation of Miller\u2019s homeowner\u2019s policy was ineffective. This appeal followed.\nIn support of this appeal, Nationwide argues that the issue in this matter is what an insurer must do to cancel a policy pursuant to Section 5(a)(9) of the Act when the insured\u2019s mail is returned as undeliverable on three occasions (billing, cancellation notice and refund check). Nationwide contends that under the facts developed at the hearing, it would be impossible for Miller to \u201creceive\u201d the notice since she was not living at the policy address. Nationwide contends further that Maureen Miller was vague about where her mother was living, but it is clear that it was not the policy address of 4600 Pennypack, Philadelphia, Pennsylvania. Nationwide points out that there was no forwarding address given to Nationwide. Nationwide argues that \u201cundeliverable\u201d means there was no one at the property to receive the mail and the power of attorney appointing Maureen as Miller\u2019s agent lists Miller\u2019s address as Easton, Pennsylvania.\nNationwide contends that the burden was on Miller to let Nationwide know where to send notices and the burden of making specific change of address is upon the insured. Nationwide argues that an insurance company is not charged with knowledge about a change in address without the policyholder\u2019s specific direction to make such a change. Finally, Nationwide contends that it is truly unfair to Nationwide to void the cancellation since it was Miller\u2019s conduct that prevented her from receiving the cancellation notice.\nThe Act prohibits persons engaged in the business of insurance from engaging in unfair or deceptive acts or practices. Yorktowne Mutual Insurance Company v. Insurance Department, 662 A.2d 1164 (Pa.Cmwlth.1995), petition for allowance of appeal denied, 543 Pa. 721, 672 A.2d 313 (1995). The insurer has the burden of proving compliance with the statutory requirements for cancellation of a homeowners\u2019 policy of insurance. State Farm Mutual Automobile Insurance Company v. Department of Insurance, 134 Pa.Cmwlth. 226, 578 A.2d 999 (1990), petition for allowance of appeal denied, 527 Pa. 595, 588 A.2d 915 (1991). Section 5(a)(9) of the Act provides, in pertinent part, as follows:\nNo cancellation or refusal to renew by any person shall be effective unless a written notice of the cancellation or refusal to renew is received by the insured either at the address shown on the policy or at a forwarding address.\n40 P.S. \u00a7 1171.5(a)(9). Accordingly, \u201c[i]f written notice is not received by the insured, the cancellation is ineffective.\u201d Donegal Mutual Insurance Company v. Department of Insurance, 719 A.2d 825, 827 (Pa.Cmwlth.1998).\nHerein, it is undisputed that Miller did not receive written notice of the cancellation of her homeowner\u2019s policy as it was returned as \u201cundeliverable\u201d to Nationwide. Nationwide basically contends that it was not its fault that Miller did not receive the written notice but instead it was Miller\u2019s failure to notify Nationwide of a change of address. However, the Commissioner found, based on the credible testimony of Maureen Miller, that at the time the cancellation notice was sent, Miller was residing at her Philadelphia address, but also going back and forth to spend time with family in Easton, Pennsylvania. The Commissioner found further that Miller kept the Philadelphia address as her mailing address and took care of some of the bills, including the insurance, herself. The Commissioner found further that Maureen took no steps to have the post office send all of Miller\u2019s mail to Maureen\u2019s address in Georgia, and Miller\u2019s address with Nationwide remained the Philadelphia address. These facts show that Miller did not officially change her address; therefore, there was no need for her to notify Nationwide of a change of address.\nMoreover, the Commissioner found that Nationwide has a practice of sending returned mail to the Nationwide agent of record, but Nation-wide\u2019s representative at the hearing did not know specifically whether that was done in this case or how the agency servicing Miller\u2019s homeowner\u2019s policy handled returned mail forwarded to it. Thus, even after having three of its mailings to Miller returned as \u201cundeliverable\u201d, Nationwide did not prove that it complied with its own practice of sending returned mail to the local Nationwide agent of record for investigation. The Commissioner found that there was no evidence that Nationwide made any attempt to resend the notice or otherwise notify Miller that her homeowner\u2019s policy was being cancelled prior to submission of the claim in December 2008. As such, Nationwide\u2019s contention that it is truly unfair to Nationwide to void the cancellation since it was Miller\u2019s conduct that prevented her from receiving the cancellation notice is without merit.\nThe language of Section 5(a)(9) is clear and unambiguous. The cancellation of a homeowner\u2019s policy is ineffective if written notice is not received by the insured. Donegal. Accordingly, the Commissioner properly determined, based on credible evidence, that Nationwide failed to comply with Section 5(a)(9) of the Act and the cancellation of Miller\u2019s homeowner\u2019s policy was ineffective.\nThe Commissioner\u2019s order is affirmed.\nORDER\nAND NOW, this 10th day of September, 2010, the order of the Insurance Commissioner in the above-captioned matter is affirmed.\n. Act of July 22, 1974, P.L. 589, as amended, 40 P.S. \u00a7\u00a7 1171.1-1171.15.\n. The additional eight dollars apparently was an installment or late fee.\n. Pursuant to Section 704 of the Administrative Agency Law, 2 Pa.C.S. \u00a7 704, we must affirm the Insurance Commissioner\u2019s decision unless necessary findings are unsupported by substantial evidence, an error of law was committed, or a constitutional right of the petitioner was violated. Novak v. Insurance Department, 106 Pa.Cmwlth. 232, 525 A.2d 1258 (1987). To the extent the Commissioner's findings represent credibility determinations, they are not reviewable on appeal as a matter of administrative law. Yuhas v. Workmen's Compensation Appeal Board (City of Pittsburgh), 82 Pa.Cmwlth. 390, 476 A.2d 1377 (1984).\n. Nationwide is not challenging the Insurance Commissioner's timeliness finding in this appeal. Therefore, this Court is only reviewing the merits of the Insurance Commissioner's decision that Nationwide\u2019s cancellation of Miller\u2019s homeowner's insurance policy violated the Act.",
+        "type": "majority",
+        "author": "Senior Judge KELLEY."
+      }
+    ],
+    "attorneys": [
+      "William P. Barrett, Philadelphia, for petitioner.",
+      "Trevor I. Poremba, Dept. Counsel and Amy G. Daubert, Chief Counsel, Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "NATIONWIDE MUTUAL FIRE INSURANCE COMPANY, Petitioner v. INSURANCE DEPARTMENT, Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs Aug. 13, 2010.\nDecided Sept. 10, 2010.\nWilliam P. Barrett, Philadelphia, for petitioner.\nTrevor I. Poremba, Dept. Counsel and Amy G. Daubert, Chief Counsel, Harrisburg, for respondent.\nBEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+  },
+  "file_name": "0231-01",
+  "first_page_order": 293,
+  "last_page_order": 297
+}

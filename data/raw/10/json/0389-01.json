@@ -1,0 +1,107 @@
+{
+  "id": 7284531,
+  "name": "ALL STAFFING, INC., Petitioner v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "All Staffing, Inc. v. Commonwealth",
+  "decision_date": "2010-12-02",
+  "docket_number": "",
+  "first_page": "389",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 389"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "987 A.2d 849",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293094
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0849-01"
+      ]
+    },
+    {
+      "cite": "605 A.2d 1301",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1428641
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/146/0374-01"
+      ]
+    },
+    {
+      "cite": "61 Pa. Code \u00a7 60.4",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 542,
+    "char_count": 10765,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.4134837590917463
+    },
+    "sha256": "6dc6c17e0e508e3149770ce9e5d39258c7a4be561532335bc4dac24985d3e8cb",
+    "simhash": "1:ff5dacb90744365b",
+    "word_count": 1650
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and BROBSON, Judge, and McCullough, Judge."
+    ],
+    "parties": [
+      "ALL STAFFING, INC., Petitioner v. COMMONWEALTH of Pennsylvania, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge McCULLOUGH.\nThe Commonwealth of Pennsylvania has filed exceptions to this court\u2019s panel opinion and order, which reversed the April 28, 2006, order of the Board of Finance and Revenue (Board). In our initial opinion we held that All Staffing, Inc. (Taxpayer) did not provide its clients with taxable \u201chelp supply services\u201d as that term is defined by section 201 (cc) of the Tax Reform Code of 1971 (Tax Code). After review, we deny the exceptions.\nThe underlying facts are not in dispute and may be summarized briefly as follows. Taxpayer is a Professional Employer Organization (PEO) and provides certain human-resources-related services to its clients through the mechanism of placing the clients\u2019 employees on its payroll; this arrangement enables Taxpayer to deliver its services at a competitive cost due to the savings realized from using a single computer payroll data system and specialized human relations knowledge for a large number of clients. Taxpayer provides its services pursuant to agreements with its clients under which Taxpayer is considered the \u201cAdministrative Employer\u201d and the client is considered the \u201cWorksite Employer.\u201d In its capacity as Administrative Employer, Taxpayer performs all aspects of personnel administration, such as payroll, tax preparation, benefit plan administration, unemployment compensation account administration, and the administration of workers\u2019 compensation claims, thereby acting as each Worksite Employer\u2019s off-site human resources department. The Work-site Employer reimburses Taxpayer for all costs of the worksite employees placed on Taxpayer\u2019s payroll. The human resources services that Taxpayer provides for its clients are performed by Taxpayer\u2019s own personnel under Taxpayer\u2019s supervision, and Taxpayer charges its clients an administrative fee for performing these various PEO services. The Department\u2019s tax assessment relates solely to this service fee.\nAlthough the clients\u2019 employees are transferred to Taxpayer\u2019s payroll, they do not perform any PEO services. Instead, just as before the transfer, the Worksite Employer retains control and direction over these individuals\u2019 day-to-day activities, and the Worksite Employer makes all decisions concerning personnel issues, including hiring, wages, discipline, and discharge. Taxpayer has no inventory of potential employees to add to the Worksite Employer\u2019s workforce; the Worksite Employer always selects additions to its workforce from sources other than Taxpayer.\nThe Pennsylvania Department of Revenue (Department) determined that Taxpayer\u2019s PEO services, as described above, constituted taxable \u201chelp supply services\u201d and assessed sales tax on Taxpayer\u2019s fees for these services in the amount of $149,525.80. The Department also assessed a use tax of $5,765.01, penalties of $46,584.13 and interest of $15,435.16, for a total of $217,313.10. Taxpayer filed a reassessment appeal which was denied by the Department\u2019s Board of Appeals. On further appeal, the Board affirmed that decision, agreeing that, because Taxpayer places all of the employees of a client on Taxpayer\u2019s payroll, its business activities are \u201chelp supply services\u201d and, thus, the fees Taxpayer charges for its services are subject to sales tax pursuant to section 201(ce) of the Tax Code.\nTaxpayer then petitioned this Court for review of the Board\u2019s order. We reversed, observing that the human relations services Taxpayer provides do not include providing individuals to supplement a client\u2019s workforce and concluding that Taxpayer\u2019s PEO services do not constitute \u201chelp supply services.\u201d These exceptions followed.\nThe Department reiterates its argument that the fee that Taxpayer receives from a client for providing the services detailed above is the \u201cpurchase price\u201d of a \u201chelp supply services\u201d transaction subject to sales tax.\nSection 201 (cc) of the Tax Code defines \u201chelp supply services\u201d as follows:\nProviding temporary or continuing help where the help supplied is on the payroll of the supplying person or entity, but is under the supervision of the individual or business to which help is furnished. Such services include, but are not limited to, service of a type provided by labor and manpower pools, employee leasing services, office help supply services, temporary help services, usher services, modeling services or fashion show model supply services.\n72 P.S. \u00a7 7201(cc) (emphasis added). And in relevant part, the Department\u2019s regulation defines a \u201chelp supply service\u201d as:\nThe providing of an individual by a vendor to a purchaser whereby the individual is an employe of the vendor and the work performed by the individual is under the supervision of the purchaser.\n(i) The term includes the type of service provided by labor and manpower pools, employe leasing services, office help supply services, temporary help services, usher services, modeling services or fashion show model supply services.\n61 Pa.Code \u00a7 60.4(a)\u00a9 (emphasis added). The Department set forth examples of taxable help supply services at 61 Pa. Code \u00a7 60.4(d), which include the following circumstances: 1) a law firm needs a secretary for a day and obtains the secretary from a vendor; 2) a construction company requires the services of an engineer and obtains the engineer from a vendor; and 3) an accounting firm needs more personnel than they have available to complete a contract and contracts with another accounting firm to provide the additional personnel. Id.\nConsistent with these examples, the Department acknowledges that the determination of whether an entity provides \u201chelp supply services\u201d rests first upon a finding that the entity is providing help. According to the Department, such a finding is conclusively established by the fact that the employees at issue are on the entity\u2019s payroll. The Department reasserts that the \u201cunambiguous standard\u201d for determining whether services constitute \u201chelp supply services\u201d is whether the help supplied is on the payroll of one entity and under the supervision of the entity to which the help was supplied. However, the Department\u2019s proposed analysis omits the necessary first step, which is to determine whether the employees on the payroll of one entity and supervised by another actually were \u201cprovided,\u201d as contemplated by section 201 (cc) of the Tax Code. Rather than decide this preliminary question, the Department relies on the criteria the help supplied must meet, that is, be on the payroll of one entity and under the supervision of another, to establish the requisite fact that the help was, in fact, \u201csupplied. \u201d Although the Department insists that the Taxpayer\u2019s services are substantially similar to those provided by employee leasing services, we note that the examples of help supply services provided by the statute and the regulation engage in common business practices, i.e., the employee leasing service, temporary help service or modeling service typically recruits and hires employees and then assigns the employees to clients to support or supplement the client\u2019s workforce. Here, Taxpayer becomes the co-employer of pre-existing permanent workforces and then provides human resources services and benefits to both the worksite employers and the employees. The PEO services provided by Taxpayer do not include supplying new or additional labor to worksite employers.\nImportantly, the term \u201cprofessional employer organization\u201d was not recognized when the General Assembly added section 201(cc) of the Tax Code in 1991. It appears that, currently, the appellation \u201cPEO\u201d is broadly applied. For example, according to the North American Industrial Classification System maintained by the U.S. Census Bureau, the PEO industry includes establishments primarily engaged in providing human resources services that operate in a co-employment relationship with clients, as well as organizations that provide labor or staff leasing services. All Staffing, Inc., 987 A.2d at 854. Thus, the mere fact that an entity labels itself a PEO does not establish that its services are exempt from the tax assessed under section 201(k)(15) of the Tax Code. We emphasize that the determination of whether PEO services are taxable as \u201chelp supply services\u201d does not depend on the label under which an entity operates, but on whether the services that the entity performs fall within the definition of \u201chelp supply sendees\u201d provided by section 201(cc) of the Tax Code.\nQuoting O\u2019Boyles Ice Cream Island, Inc. v. Commonwealth, 146 Pa.Cmwlth. 374, 605 A.2d 1301 (1992), the Department correctly notes that each word of a statutory provision must be given effect and not be treated as surplusage. Here, however, the Department\u2019s interpretation of section 201(cc) ignores both the plain statutory language (\u201cproviding help\u201d and \u201chelp supplied\u201d) and the Department\u2019s own definition of \u201chelp supply sendees\u201d (the \u201cproviding of an individual\u201d). 61 Pa.Code \u00a7 60.4(a)(i). There is no dispute that Taxpayer\u2019s services did not include providing individuals or supplementing the workforce of its clients in any way. '\nBased upon the foregoing, the Department\u2019s exceptions are denied.\nORDER\nAND NOW, this 2nd day of December, 2010, the Commonwealth\u2019s exceptions to this Court\u2019s opinion and order in All Staffing, Inc. v. Commonwealth, 987 A.2d 849 (Pa.Cmwlth.2010), are hereby DENIED. Judgment shall be entered in favor of All Staffing, Inc.\n. See All Staffing, Inc. v. Commonwealth, 987 A.2d 849 (Pa.Cmwlth.2010).\n. Act of March 4, 1971, P.L. 6, as amended, added by the Act of August 4, 1991, P.L. 97, 72 P.S. \u00a7 7201(cc).\n. In accordance with Pa. R.A.P. 1571(f), the parties filed a Joint Partial Stipulation of Facts and Law, with accompanying exhibits, as well as a Supplemental Partial Joint Stipulation of Facts and Law with additional exhibits.\n. Joint Partial Stipulation (Stip.), \u00b6\u00b6 13, 17.\n. Pennsylvania imposes a sales tax of six percent on the purchase price of each separate \"sale at retail\u201d of tangible personal property and certain enumerated services. Section 202 of the Tax Code, 72 P.S. \u00a7 7202. In 1991, the term \"sale at retail\u201d was expanded to include, as one of these enumerated services, \"[t]he rendition for a consideration of ... help supply services.\u201d Section 201(k)(15) of the Tax Code, 72 P.S. \u00a7 7201(k)(15).\n. Department's brief at 15.",
+        "type": "majority",
+        "author": "Judge McCULLOUGH."
+      }
+    ],
+    "attorneys": [
+      "Paul J. Winterhalter, Philadelphia, for petitioner.",
+      "Clinton G. Smith, Jr., Sr. Deputy Attorney General, Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "ALL STAFFING, INC., Petitioner v. COMMONWEALTH of Pennsylvania, Respondent.\nCommonwealth Court of Pennsylvania.\nArgued June 23, 2010.\nDecided Dec. 2, 2010.\nPaul J. Winterhalter, Philadelphia, for petitioner.\nClinton G. Smith, Jr., Sr. Deputy Attorney General, Harrisburg, for respondent.\nBEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and BROBSON, Judge, and McCullough, Judge."
+  },
+  "file_name": "0389-01",
+  "first_page_order": 395,
+  "last_page_order": 399
+}

@@ -1,0 +1,257 @@
+{
+  "id": 7288141,
+  "name": "Victor M. SACKETT and Diana L. Sackett, Appellees v. NATIONWIDE MUTUAL INSURANCE, COMPANY, Appellant",
+  "name_abbreviation": "Sackett v. Nationwide Mutual Insurance",
+  "decision_date": "2010-07-21",
+  "docket_number": "",
+  "first_page": "637",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "796 A.2d 343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9437894
+      ],
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/796/0343-01"
+      ]
+    },
+    {
+      "cite": "725 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11640222
+      ],
+      "pin_cites": [
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/725/0792-01"
+      ]
+    },
+    {
+      "cite": "959 A.2d 438",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8200134
+      ],
+      "pin_cites": [
+        {
+          "page": "444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/959/0438-01"
+      ]
+    },
+    {
+      "cite": "217 W.Va. 474",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8903540
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "487",
+          "parenthetical": "\"Neither does the Erie policy have language ... which limits coverage for newly acquired vehicles to those instances where 'no other insurance policy provides coverage for that vehicle.' \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/217/0474-01"
+      ]
+    },
+    {
+      "cite": "996 F.2d 246",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10510981
+      ],
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/996/0246-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 329",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8303465,
+        4089237
+      ],
+      "weight": 4,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "Sackett II"
+        },
+        {
+          "page": "332"
+        },
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/0329-01",
+        "/pa/596/0011-01"
+      ]
+    },
+    {
+      "cite": "596 Pa. 11",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4089237
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "Sackett II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0011-01"
+      ]
+    },
+    {
+      "cite": "919 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3014050,
+        3017123,
+        8325205,
+        8325246
+      ],
+      "weight": 5,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "Sackett I"
+        },
+        {
+          "page": "201-02"
+        },
+        {
+          "page": "202"
+        },
+        {
+          "page": "202",
+          "parenthetical": "\"[The Motor Vehicle Financial Responsibility Law] makes it clear that an insurer must provide a stacking waiver each time a new vehicle is added to the policy[.]\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0416-01",
+        "/pa/591/0416-02",
+        "/a2d/919/0194-01",
+        "/a2d/919/0194-02"
+      ]
+    },
+    {
+      "cite": "591 Pa. 416",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3014050,
+        3017123
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "Sackett I"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0416-01",
+        "/pa/591/0416-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 577,
+    "char_count": 12810,
+    "ocr_confidence": 0.718,
+    "pagerank": {
+      "raw": 2.339005113013057e-07,
+      "percentile": 0.7919598787419653
+    },
+    "sha256": "95579b77e077a2cb0846ca5507fa4d749ac36834707a85035ceb1653894fd378",
+    "simhash": "1:85ed779b1cadb591",
+    "word_count": 2036
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: ALLEN, COLVILLE, and CLELAND,* JJ."
+    ],
+    "parties": [
+      "Victor M. SACKETT and Diana L. Sackett, Appellees v. NATIONWIDE MUTUAL INSURANCE, COMPANY, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nALLEN, J.:\n\u00b6 1 In this automobile insurance contract dispute, Nationwide Mutual Insurance Company (\u201cAppellant\u201d) appeals from the trial court\u2019s grant of declaratory relief in favor of Victor M. Sackett and Diana L. Sackett (the \u201cSacketts\u201d). We affirm.\n\u00b6 2 This case comes to us following instructive disposition from our Supreme Court and subsequent remand to the trial court. On remand, the trial court conducted a non-jury trial, and on December 15, 2008, declared that the Sacketts could stack underinsured motorist (\u201cUIM\u201d) benefits under Appellant\u2019s policy for a total of $300,000 \u2014 $100,000 for each of the Sack-etts\u2019 three vehicles. Appellant filed post-trial motions on December 22, 2008, which the trial court denied on May 14, 2009. The Sacketts then entered judgment in their favor on May 19, 2009. This timely appeal ensued.\n\u00b6 3 The facts of record indicate that on August 5, 1998, Appellant issued an automobile insurance policy to the Sacketts, insuring two vehicles, a Chevrolet Lumina and a Chevrolet Malibu. On that same date, Victor M. Sackett executed a valid waiver declining to stack UIM coverage on these two vehicles. On July 19, 2000, the Sacketts purchased a third vehicle, a Ford Windstar. The Sacketts notified Appellant\u2019s agent that they purchased a new vehicle and requested coverage identical to the Chevrolet Lumina and Malibu. On July 26, 2000, Appellant issued a corrected declarations/endorsement page adding the Ford Windstar to the Sacketts\u2019 existing policy. Appellant, however, did not offer or obtain a new stacking waiver signed by the Sacketts stating that they declined to stack UIM benefits for the Ford Windstar. On August 5, 2000, Victor M. Sackett was injured in an automobile accident while he was a passenger in another person\u2019s vehicle. The Sacketts filed the instant declaratory judgment action, asserting that Appellant owed them stacked UIM coverage.\n\u00b64 The issue in this appeal is whether Appellant had a duty to provide stacked UIM motorist coverage to the Sacketts when they added the Ford Windstar to their existing policy through an endorsement. More precisely, the issue is whether Appellant had to obtain a new waiver from the Sacketts, stating that they declined to stack UIM benefits as a result of the Sacketts\u2019 purchase of the Ford Windstar, in order to effectively deny the Sacketts the right to stack UIM benefits. We hold that once the Sacketts added the Ford Windstar to their policy through an endorsement, Appellant had to secure a new waiver in order to prohibit the Sacketts from stacking UIM benefits. Because Appellant failed to obtain such a waiver, the Sacketts were entitled to stack UIM benefits as a matter of law.\n\u00b6 5 On appeal, Appellant frames its issue as follows:\nWas an insured, who had waived stacking of underinsured motorist benefits for his two vehicles at the inception of the policy, required to sign a new stacking waiver when a third vehicle was added to the policy, not pursuant to a newly acquired vehicle clause but by endorsement following notice of the acquisition of the new vehicle, with coverage thus being provided for the new vehicle on a continuous basis at the same coverage levels for the vehicles already insured under the policy?\nBrief for Appellant at 4.\n\u00b6 6 Our disposition is guided by two cases decided by our Supreme Court involving the same parties. In Sackett v. Nationwide Mut. Ins. Co., 591 Pa. 416, 919 A.2d 194 (2007) (Sackett I), our Supreme Court held that when an insured previously waived stacked coverage by executing a valid waiver form, upon the addition of a new vehicle to a multi-vehicle policy, the insurer must secure another signed waiver form declining stacked coverage on that new vehicle. Id. at 201-02. If the insurer does not obtain a newly-signed waiver from the insured, then coverage will be deemed to have stacked on the added vehicle as a matter of statutory law. Id. \u201c[The Motor Vehicle Financial Responsibility Law] makes it clear that an insurer must provide a stacking waiver each time a new vehicle is added to the policy because the amount of coverage that may be stacked increases.\u201d Id. at 202.\n\u00b67 Subsequently, our Supreme Court granted reargument in Sackett v. Nationwide Mut. Ins. Co., 596 Pa. 11, 940 A.2d 329 (2007) (Sackett II), and modified its holding in Sackett I. In that case, the Supreme Court considered the effect of Sackett I on \u201cafter-acquired vehicle clauses,\u201d which are contractual provisions that explicitly permit an insurer to extend existing policy coverage (finite or continuing) to new or substitute vehicles. Id. at 332. The Court held that despite Sackett I, if an insurer extends coverage to an insured\u2019s new vehicle on a pre-existing policy pursuant to an after-acquired vehicle clause, then the insurer does not have to obtain a new stacking waiver from the insured. Id. at 334. \u201cHowever, where coverage under an after-acquired-vehicle clause is expressly made finite by the terms of the policy, Sackett I controls and requires the execution of a new UWUIM stacking waiver upon the expiration of the automatic coverage[.]\u201d Id. Apart from the minor modification enunciated in Sackett II, the Supreme Court left the holding of Sackett I undisturbed.\n\u00b6 8 Therefore, under Sackett I, an insurer must obtain a new signed stacking waiver from the insured when the insured adds a new vehicle to an existing policy, unless the insured already signed a stacking waiver and the insurer, pursuant to Sack-ett II, added the new vehicle under an after-acquired vehicle clause.\n\u00b69 In this case, at the time of the accident, the Sacketts\u2019 Ford Windstar was not covered on the original policy pursuant to an after-acquired vehicle clause. The record reveals that the relevant after-acquired vehicle clause in the existing policy was strictly a default measure, applying only in the event that the Sacketts \u201cdid not have other collectible insurance.\u201d R.R. at 492. However, prior to the accident, the Sacketts added coverage for the Ford Windstar on their existing policy through an endorsement. R.R. at 480-81, 486-87. The Sacketts, therefore, obtained \u201ccollectable insurance\u201d on the Ford Windstar that was independent of the automatic coverage offered in the after-acquired vehicle clause. R.R. at 480-81, 486-87. Consequently, when the Sacketts purchased coverage for the Ford Windstar pursuant to an endorsement, the after-acquired vehicle clause in the policy was rendered inapplicable in accordance with its plain language. See Barnard v. Fireman\u2019s Fund Ins. Co., 996 F.2d 246, 249 (10th Cir.1993) (collecting and discussing cases) (stating that once specific insurance is purchased on a newly-acquired vehicle, the vehicle is no longer considered to be covered under an after-acquired contract clause). In short, after the Sacketts added the Ford Windstar to the policy by way of an endorsement, the Ford Windstar was covered under the general terms of the policy and not its after-acquired vehicle clause.\n\u00b6 10 Because the Sacketts\u2019 added the Ford Windstar to the policy prior to the accident, Appellant was obligated under Sackett I to obtain a new waiver from the Sacketts declining stacked coverage. Sackett I, 919 A.2d at 202 (\u201c[The Motor Vehicle Financial Responsibility Law] makes it clear that an insurer must provide a stacking waiver each time a new vehicle is added to the policy[.]\u201d). With the addition of the Ford Windstar to the existing policy, Appellant did not offer or obtain a stacking waiver from the Sack-etts. Therefore, under Sackett I, the Sacketts were entitled to stack UIM coverage as a matter of law.\n\u00b6 11 Appellant, nonetheless, suggests in the alternative that its after-acquired vehicle clause was continuous in nature, and thus, a new stacking waiver was unnecessary. Brief for Appellant at 18-19. Appellant compares its after-acquired vehicle clause to the open-ended, after-acquired vehicle clause referenced in Sackett II and analyzed in Satterfield, v. Erie Insurance Property and Casualty, 217 W.Va. 474, 618 S.E.2d 483 (2005).\n\u00b6 12 In Satterfield, the after-acquired clause was indefinite and extended continuous coverage on a new vehicle without any contractual language limiting that coverage. See Satterfield, 618 S.E.2d at 487 (\u201cNeither does the Erie policy have language ... which limits coverage for newly acquired vehicles to those instances where \u2018no other insurance policy provides coverage for that vehicle.\u2019 \u201d). Contrary to Appellant\u2019s position and the after-acquired vehicle clause in Satterfield, the after-acquired vehicle clause in this case expressly terminated coverage for new vehicles when the insured obtained \u201cother collectable insurance.\u201d R.R. at 492. As previously explained, the Sacketts added coverage for the Ford Windstar through an endorsement, and this \u201cother collectable insurance\u201d nullified any coverage that the Sack-etts may have had under Appellant\u2019s after-acquired vehicle clause. Moreover, unlike the after-acquired vehicle clause in Satter-field, the after-acquired vehicle clause in this case was inherently finite, providing \u201ccoverage ... only during the first 30 days\u201d an insured acquires a new vehicle. R.R. at 492. Accordingly, Appellant\u2019s analogical reference to the after-acquired vehicle clause in Satterfield is unavailing.\n\u00b6 13 Appellant also asserts that a stacking waiver was not required because it did not engage in a new underwriting process or require the Sacketts to submit a supplemental application for insurance. Brief for Appellant at 15. Appellant cites no authority to support this contention, and neither Sackett I nor Sackett II can be read to support such a proposition. As such, Appellant\u2019s argument is waived due to Appellant\u2019s failure to cite authority in support of his claim. Giant Food Stores, LLC v. THF Silver Spring Dev., L.P., 959 A.2d 438, 444 (Pa.Super.2008) (finding issue waived where appellant failed to cite legal authority pertinent to its argument).\n\u00b6 14 Finally, Appellant maintains that under basic principles of contract law and equity, the Sacketts\u2019 initial waiver declining stacked coverage and request for identical coverage for the Ford Windstar should bar them from stacking UIM coverage. Brief for Appellant at 15-16. Appellant\u2019s contention, however, is directly refuted by the law as articulated in Sackett I and Sackett II, and Sackett I is the binding authority in this case. \u201cAs an intermediate appellate court, this Court is obligated to follow the precedent set down by our Supreme Court. It is not the prerogative of an intermediate appellate court to enunciate new precepts of law or to expand existing legal doctrines. Such is a province reserved to the Supreme Court.\u201d Moses v. T.N.T. Red Star Express, 725 A.2d 792, 801 (Pa.Super.1999) (citations omitted). We, accordingly, decline to fashion an exception to the holdings in Sackett I and Sackett II based upon Appellant\u2019s claim that such an exception would be equitable and/or consistent with contract law. Because Sackett I is the controlling authority in this matter, and Appellant\u2019s contention runs contrary to that holding, we conclude that Appellant is not entitled to relief.\n\u00b6 15 For the above-stated reasons, we affirm the judgment entered in favor of the Sacketts.\n\u00b6 16 Judgment affirmed.\n. \"The basic concept of stacking is the ability to add the coverages available from different vehicles and/or different polices to provide a greater amount of coverage available under any one vehicle or policy.\u201d McGovern v. Erie Ins. Group, 796 A.2d 343, 344 (Pa.Super.2002).\n. In pertinent part, the after-acquired vehicle clause states:\nCoverage Extensions\nUSE OF OTHER MOTOR VEHICLES\nThis coverage also applies to certain other motor vehicles as follows: * * *\n2. a four-wheel motor vehicle acquired by you. This coverage applies only during the first 30 days you own the vehicle unless it replaces your auto. If the newly acquired vehicle does not replace your auto, all household vehicles owned by you must be insured by us or an affiliate for this extension of coverage to apply.\nWe provide this coverage only if you do not have other collectable insurance. You must pay any added premium resulting from this coverage extension.\nR.R. at 492.\n. Significantly, Appellant concedes this point in its brief: \u201cCoverage in the instant case was added by an endorsement and not pursuant to any newly acquired vehicle clause.\u201d Brief for Appellant at 15.",
+        "type": "majority",
+        "author": "ALLEN, J.:"
+      }
+    ],
+    "attorneys": [
+      "James C Haggerty, Philadelphia, for appellant.",
+      "Ronald J. Bergman, Greensburg, for ap-pellees."
+    ],
+    "corrections": "",
+    "head_matter": "Victor M. SACKETT and Diana L. Sackett, Appellees v. NATIONWIDE MUTUAL INSURANCE, COMPANY, Appellant.\nSuperior Court of Pennsylvania.\nArgued April 27, 2010.\nFiled July 21, 2010.\nReargument Denied Sept. 22, 2010.\nJames C Haggerty, Philadelphia, for appellant.\nRonald J. Bergman, Greensburg, for ap-pellees.\nBEFORE: ALLEN, COLVILLE, and CLELAND,* JJ.\nRetired Senior Judge assigned to Superior Court."
+  },
+  "file_name": "0637-01",
+  "first_page_order": 699,
+  "last_page_order": 704
+}

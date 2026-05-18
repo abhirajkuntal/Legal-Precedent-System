@@ -1,0 +1,328 @@
+{
+  "id": 7290520,
+  "name": "George William CALOMIRIS, Appellant, v. Charles William CALOMIRIS, et al., Appellees",
+  "name_abbreviation": "Calomiris v. Calomiris",
+  "decision_date": "2010-09-09",
+  "docket_number": "No. 09-CV-325",
+  "first_page": "1186",
+  "last_page": "1195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 1186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "988 A.2d 509",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "550 U.S. 544",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3556136
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/550/0544-01"
+      ]
+    },
+    {
+      "cite": "953 A.2d 308",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8180403
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "316",
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/953/0308-01"
+      ]
+    },
+    {
+      "cite": "216 F.3d 1268",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11220152
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/216/1268-01"
+      ]
+    },
+    {
+      "cite": "446 F.Supp.2d 551",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3709437
+      ],
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/446/0551-01"
+      ]
+    },
+    {
+      "cite": "834 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9082559
+      ],
+      "pin_cites": [
+        {
+          "page": "879"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/834/0875-01"
+      ]
+    },
+    {
+      "cite": "86 S.E. 857",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1915,
+      "pin_cites": [
+        {
+          "page": "858"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Va. 191",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4781829
+      ],
+      "year": 1915,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/118/0191-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 131",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8302118
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "138"
+        },
+        {
+          "page": "138"
+        },
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/0131-01"
+      ]
+    },
+    {
+      "cite": "970 A.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7331990
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "195"
+        },
+        {
+          "page": "189"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/970/0185-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 866",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11475888
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "870"
+        },
+        {
+          "page": "870"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0866-01"
+      ]
+    },
+    {
+      "cite": "886 A.2d 52",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8893058
+      ],
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/886/0052-01"
+      ]
+    },
+    {
+      "cite": "947 A.2d 1136",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8400483
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1139"
+        },
+        {
+          "page": "1140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/947/1136-01"
+      ]
+    },
+    {
+      "cite": "955 A.2d 712",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8211663
+      ],
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/955/0712-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 957,
+    "char_count": 27953,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 1.7091394825834527e-07,
+      "percentile": 0.7021409356298379
+    },
+    "sha256": "33018d86d1af35aa157d54460161cc74bada21c43975218de18265eb977a9372",
+    "simhash": "1:1bb8d166996a9766",
+    "word_count": 4552
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, FISHER, and OBERLY, Associate Judges."
+    ],
+    "parties": [
+      "George William CALOMIRIS, Appellant, v. Charles William CALOMIRIS, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "REID, Associate Judge:\nAppellant, George William Calomiris (\u201cGeorge\u201d), brought a suit against appel-lees, Charles William Calomiris (\u201cCharles\u201d), Katherine Calomiris Tompros (\u201cKatherine\u201d), Jenifer Calomiris (\u201cJenifer\u201d), and K.J.G.C. Associates, LLC (\u201cKJGC\u201d) (collectively referred to as \u201cap-pellees\u201d), alleging breach of contract and breach of fiduciary duty. On appeal, George contends that the trial court erred by dismissing his claims on the grounds that they were barred by the doctrine of res judicata and Super. Ct. Civ. R. 54(d)(2). We are constrained to agree that George\u2019s claims for breach of contract and breach of fiduciary duty are not barred by res judicata or Rule 54(d)(2). Accordingly, we reverse the trial court\u2019s judgment and remand the case for further proceedings on George\u2019s breach of contract and breach of fiduciary duty claims.\nFACTUAL SUMMARY\nThe First Lawsuit\nThe record reveals that, in 1975, George, and his siblings, Katherine, Charles, and Jenifer (the \u201cSiblings\u201d), formed a Virginia general real estate partnership known as K.J.G.C. Associates. The Partnership Agreement provided each sibling with a twenty-five percent interest in the Partnership and a right of first refusal in the event the other three siblings decided to sell any of the partnership property. In 1995, George and his siblings decided to convert the partnership into a limited liability company (\u201cLLC\u201d) under the laws of the District of Columbia in order to take advantage of certain tax benefits and to limit the liability of each partner. The partners executed an Operating Agreement for the newly formed LLC on July 31, 1996, which was designed generally to incorporate the provisions of the prior Partnership Agreement. However, whereas the right of first refusal in Paragraph 17(A) of the Partnership Agreement applied to the purchase of any property owned by the company, Paragraph 19 of the Operating Agreement restricted its application to the purchase of the \u201centire real property\u201d of the company. In early 2006, the Siblings entered into a contract for the sale of a commercial building owned by KJGC without first affording George the right of first refusal. Around February 27, 2006, George noticed that the right of first refusal provision in Paragraph 19 of the Operating Agreement only applied to the purchase of the entire real property of the company. He believed that the law firm responsible for drafting the Operating Agreement had made a mistake in Paragraph 19; consequently, he filed a lawsuit in the Superior Court of the District of Columbia seeking to reform that provision so that it mirrored the same provision of the prior Partnership Agreement. On January 11, 2008, following a bench trial, the Honorable Gerald I. Fisher concluded that a mistake had occurred in drafting the right of first refusal provision of the Operating Agreement, and he entered a judgment reforming the Agreement so that it mirrored Paragraph 17(A) of the Partnership Agreement. KJGC unsuccessfully appealed Judge Fisher\u2019s ruling.\nThe Second Lawsuit\nOn August 25, 2008, George requested reimbursement from KJGC for the attorneys\u2019 fees and costs he incurred as a result of the litigation required to reform the Operating Agreement (\u201cReformation Action\u201d). His request was made pursuant to paragraph seven of the Operating Agreement, which requires KJGC to indemnify its members for attorneys\u2019 fees and costs arising out of the management of company affairs. On August 27, 2008, KJGC denied George\u2019s request for reimbursement.\nAfter the denial of his reimbursement request, George filed a two-count complaint in the trial court on October 8, 2008. In count one, he alleged breach of contract on the ground that KJGC and his siblings failed to indemnify him, as required by the company\u2019s Operating Agreement, for the costs he incurred in litigating the Reformation Action. In count two, George alleged that his siblings and KJGC breached their fiduciary duty by denying his request for reimbursement of attorneys\u2019 fees while granting their own request for reimbursement. In response to George\u2019s complaint, the Siblings and KJGC filed a motion to dismiss pursuant to Super. Ct. Civ. R. 12(b)(6). On February 27, 2009, the Honorable Anita M. Josey-Herring held a hearing and granted the motion to dismiss both counts of the complaint on the grounds that the claims were barred by res judicata and Rule 54(d)(2). The court concluded that George could have brought his claim for attorneys\u2019 fees as part of the Reformation Action. On March 9, 2009, George filed a notice of appeal.\nANALYSIS\nGeorge argues that the trial court erred by ruling that his claims for breach of contract and breach of fiduciary duty were barred by the doctrine of res judicata and Rule 54(d)(2). He contends that they are not barred by res judicata because the cause of action for each claim did not accrue until the Reformation Action was completed and KJGC denied his request for reimbursement. He also maintains that it would have been premature to pursue his claim for attorneys\u2019 fees in the Reformation Action because, based on the terms of the indemnification provision of the Operating Agreement, KJGC had no obligation to indemnify him until there was a \u201cfinally-adjudicated legal proceeding.\u201d\nGeorge maintains that Rule 54(d)(2) does not apply to this case because he is not seeking attorneys\u2019 fees as a prevailing party; rather, he is seeking attorneys\u2019 fees under the indemnification provision of the Operating Agreement. He asserts that the Advisory Committee Notes to the Federal Rules of Civil Procedure and the words used in Super. Ct. Civ. R. 54(d)(2) (which is based on the federal rule), affirm the view that Rule 54(d)(2) does not apply when the claim for attorneys\u2019 fees is founded upon the terms of a contract rather than upon prevailing party status.\nThe Siblings and KJGC respond that George\u2019s claims are either barred by his failure to file motions in accordance with Rule 54(d)(2) or by principles of res judi-cata. They assert that, unless the substantive law governing the Reformation Action provided that recovery of attorneys\u2019 fees was an element to be proved at trial, George was required to file a motion to recover such fees within fourteen days of the entry of judgment in accordance with Rule 54(d)(2). If, however, the substantive law governing the action provided that recovery of attorneys\u2019 fees be proved at trial, then George\u2019s claims are barred by res judicata because he was required to assert them in the Reformation Action. Under this theory, the Siblings contend that a claim for attorneys\u2019 fees arising out of a contractual provision must be brought in the lawsuit that gave rise to the claim for attorneys\u2019 fees and cannot be deferred to a second lawsuit.\nStandard of Review\nThis court reviews dismissal of a claim pursuant to a 12(b)(6) motion de novo, \u201cpresuming the complaint\u2019s factual allegations to be true and construing them in the light most favorable to [the plaintiff].\u201d Bleck v. Power, 955 A.2d 712, 715 (D.C.2008). Similarly, this court reviews de novo the application of the doctrine of res judicata. Elwell v. Elwell, 947 A.2d 1136, 1139 (D.C.2008).\nThe Res Judicata Issue\nThe doctrine of res judicata \u2014 or claim preclusion \u2014 \u201c \u2018precludes relitigation of the same claim between the same parties.\u2019 \u201d Elwell, 947 A.2d at 1139-40 (citing Borger Mgmt., Inc. v. Sindram, 886 A.2d 52, 59 (D.C.2005)). \u201cThe doctrine operates to bar in the second action not only claims which were actually raised in the first, but also those arising out of the same transaction which could have been raised.\u201d Patton v. Klein, 746 A.2d 866, 870 (D.C.1999). In determining whether res judicata applies, \u201c[w]e consider (1) whether the claim was adjudicated finally in the first action; (2) whether the present claim is the same as the claim which was raised or which might have been raised in the prior proceeding; and (3) whether the party against whom the plea is asserted was a party or in privity with a party in the prior case.\u201d Elwell, supra, 947 A.2d at 1140 (quoting Patton, supra, 746 A.2d at 870) (internal quotation marks and other citation omitted).\nGeorge brought the first lawsuit, the Reformation Action, to reform the Operating Agreement and to enjoin KJGC from proceeding with the sale of property owned by the company. In the present suit, George claims that the Siblings and KJGC breached the company\u2019s Operating Agreement and their fiduciary duty by refusing to indemnify him for the attorneys\u2019 fees and costs he incurred in litigating the Reformation Action. George asserts that his claim for attorneys\u2019 fees is not barred by res judicata because, based on the language of the indemnification provision, his claim did not ripen until the Reformation Action was finally adjudicated. The pertinent portion of the Operating Agreement\u2019s indemnification provision reads:\nThe indemnification authorized by this Section 7C shall include, but not be limited to, payment of (i) reasonable attorneys\u2019 fees or other expenses incurred in connection with settlement or in any finally-adjudicated legal proceeding^]\nOperating Agreement Section 7(C). George contends that this provision only authorizes indemnification \u201cin connection with a settlement\u201d or in a \u201cfinally adjudicated legal proceeding.\u201d\nGeorge relies on LaPoint v. AmerisourceBergen Corp., 970 A.2d 185 (Del.2009). In that case, the Supreme Court of Delaware found that an action for attorneys\u2019 fees based upon the breach of an indemnification provision in a contract was not barred by res judicata even though it was not brought in the prior suit. LaPoint, 970 A.2d at 195. In the first lawsuit, the plaintiffs filed an action in the Chancery Court for breach of a Merger Agreement and prevailed on their claim. Id. at 189. Following the Final Order and Judgment in that suit, the plaintiffs requested reimbursement for attorneys\u2019 fees pursuant to a provision in the Merger Agreement that provided for indemnification upon the breach of \u201cany covenant, representation, warranty, or agreement made by [Defendants] in th[e] [Merger] Agreement.\u201d The defendants rejected plaintiffs\u2019 request for indemnification and the plaintiffs subsequently filed suit in the Superior Court to recover attorneys\u2019 fees under the Merger Agreement\u2019s indemnification provision. The Superior Court in Delaware dismissed the plaintiffs\u2019 request for indemnification on the grounds that it was barred by res judicata and the statute of limitations. On appeal, the Supreme Court of Delaware reversed the trial court\u2019s judgment and held that a condition precedent to the plaintiffs\u2019 right to indemnification was the Chancery Court\u2019s determination that the defendant had breached the Merger Agreement. Id. at 194. Accordingly, defendant\u2019s refusal to indemnify the plaintiffs after the condition precedent to their indemnification right had been satisfied \u201cgave rise to a second independent cause of action under the Merger Agreement\u201d which was not barred by res judicata. Id. at 194.\nAppellees counter with AMEC Civil LLC v. Mitsubishi Int\u2019l Corp., 940 A.2d 131 (D.C.2007). In that case, AMEC Civil LLC (\u201cAMEC\u201d) sued Mitsubishi International Corp. (\u201cMIC\u201d) for breach of contract on the ground that MIC failed to supply steel for highway bridges as required by the parties\u2019 contract. Id. at 138. The parties\u2019 contract included an indemnification provision which required the seller, MIC, to indemnify the buyer, AMEC, for any damages arising out of MIC\u2019s refusal or failure to perform any of the agreements specified by the contract. Id. After AMEC prevailed on its breach of contract claim, it sued in the Superior Court of the District of Columbia to enforce the indemnification provision of the contract. Id. The Superior Court ruled in favor of MIC on its motion for summary judgment, holding that AMEC\u2019s claim for attorneys\u2019 fees was barred by res judicata. Id. AMEC appealed the ruling to this court. Applying Virginia law, this court agreed with the trial court and held that AMEC was required to present its claim for attorneys\u2019 fees in the underlying action for breach of contract. Id. at 138. In making its determination, this court relied upon Virginia precedent which states, \u201ca claim for legal fees based on a contract is part of the \u2018cause of action\u2019 for breach of the underlying contract provisions, and ordinarily must be pursued there or will be extinguished \u2018in the judgment.\u2019\u201d Id. at 134 (quoting Sands v. Roller, 118 Va. 191, 86 S.E. 857, 858 (1915)).\nWe do not interpret the holding of AMEC to stand for the general proposition that all claims for attorneys\u2019 fees must be pursued in the underlying action; rather, we read AMEC to hold that, under Virginia law, a claim for attorneys\u2019 fees based upon the breach of a contract to supply a product must be pursued in the suit for breach of that contract. Unlike AMEC, the underlying action in this case, the Reformation Action, was not an action for breach of contract, and it did not contain a claim for damages. Here, the Reformation Action was brought to reform the company\u2019s operating agreement and to enjoin the sale of real property owned by the company. Judgment was entered in the Reformation Action on January 11, 2008. George\u2019s claim for breach of contract and breach of fiduciary duty arose when KJGC denied his request for reimbursement of attorneys\u2019 fees on August 27, 2008.\nThe fact that gave rise to George\u2019s breach of contract and fiduciary duty claims, KJGC\u2019s denial of his request for reimbursement, had not even occurred at the time the Reformation Action was litigated, and hence, George had no colorable claim to attorneys\u2019 fees under the Operating Agreement. Because KJGC had no obligation to indemnify George until the Reformation Action was finally adjudicated, George\u2019s claim for attorneys\u2019 fees would not have been ripe if he had asserted it prior to the entry of judgment in the Reformation Action. KJGC\u2019s later denial of George\u2019s request for reimbursement gave rise to \u201ca second independent cause of action\u201d under the Operating Agreement for breach of contract. LaPoint, 970 A.2d at 194. Because \u201c[a] prior judgment \u2018cannot be given the effect of extinguishing claims which did not even then exist,\u2019 \u201d Id. (internal citation omitted), we hold that George\u2019s claims for breach of contract and fiduciary duty are not barred by res judi-cata.\nThe Rule 54(d)(2) Issue\nGeorge claims that the trial court erred by dismissing his claims pursuant to Super. Ct. Civ. R. 54(d)(2), which states:\n(A) Claims for attorneys\u2019 fees and related nontaxable expenses shall be made by motion unless the substantive law governing the action provides for the recovery of such fees as an element of damages to be proved at trial.\n(B) Unless otherwise provided by statute or order of the Court, the motion must be filed and served no later than 14 days after the entry of judgment; must specify the judgment and the statute, rule, or other grounds entitling the moving party to the award; and must state the amount or provide a fair estimate of the amount sought. If directed by the Court, the motion shall also disclose the terms of any agreement with respect to fees paid for the services for which claim is made.\nD.C.Super. Ct. Civ. R. 54(d)(2). According to the rule, George was required to file a motion for attorneys\u2019 fees \u201cno later than 14 days after the entry of judgment\u201d in the Reformation Action unless, as provided by subparagraph (A), \u201cthe substantive law governing the action provides for the recovery of such fees as an element of damages to be proved at trial.\u201d Id. Because George did not file a motion within fourteen days after the entry of the judgment in the Reformation Action, his claim for attorneys\u2019 fees would be barred under the rule, unless he satisfies the exception in subparagraph (A). \u201cWhen interpreting a Superior Court rule, we frequently find guidance in the advisory committee\u2019s notes to the corresponding federal rule.\u201d See, e.g., Ford v. ChartOne, Inc., 834 A.2d 875, 879 (D.C.2003) (interpreting D.C.Super. Ct. Civ. R. 23(f)). The Advisory Committee Notes on the 1993 amendments to Fed. R.Civ.P. 54(d)(2) provide the following:\nParagraph (2). This new paragraph establishes a procedure for presenting claims for attorneys\u2019 fees, whether or not denominated as \u201ccosts.\u201d It applies also to requests for reimbursement of expenses, not taxable costs, when recoverable under governing law incident to the award of fees, (citation omitted) As noted in subparagraph (A), it does not, however, apply to fees recoverable as an element of damages, as when sought under the terms of a contract; such damages typically are to be claimed in a pleading and may involve issues to be resolved by a jury.\nFed.R.Civ.P. 54(d)(2) Advisory Comm. Notes 1993 Amend.\nThe Advisory Committee Note reaffirms the meaning of subparagraph (A) \u2014 that a motion for attorneys\u2019 fees is not required when the fees \u201care recoverable as an element of damages\u201d to be proved at trial. The Committee cites \u201cfees sought under the terms of a contract\u201d as an example of attorneys\u2019 fees that fall \u2022within this exception. It is important to note, however, that \u201cfees sought under the terms of a contract\u201d are not always \u201cfees recoverable as an element of damages,\u201d and thus do not always fall within the exception. For instance, where a contract provides that fees are to be awarded to the prevailing party, the fees will be collateral to the merits of the case and will not be an element of damages to be proved at trial. See, e.g., Kraft Foods N. Am., Inc. v. Banner Eng\u2019g & Sales, Inc., 446 F.Supp.2d 551, 578 (E.D.Va.2006) (stating \u201cWhile attorney\u2019s fees will not always be an element of damages where a contract provides for such recovery, the primary exception to the general rule that such fees must be proved at trial is where the contract provides for recovery of attorney\u2019s fees by the prevailing party.\u201d (citing Capital Asset Research Corp. v. Finnegan, 216 F.3d 1268, 1270 (11th Cir.2000))). In sum, the fact that attorneys\u2019 fees are sought under the terms of a contract is not dispositive of whether a party need file a 54(d)(2) motion. Whether a party is required to file a 54(d)(2) motion to recover attorneys\u2019 fees depends upon whether the fees sought are \u201can element of damages to be proved at trial.\u201d\nHere, George did not claim that he was entitled to reimbursement for attorneys\u2019 fees in the Reformation Action because he was the prevailing party. Instead, he sought reimbursement for attorneys\u2019 fees pursuant to the indemnification provision of KJGC\u2019s Operating Agreement, which specifies:\nC. Indemnification. The Members shall be indemnified and held harmless by the Company from and against any and all claims, demands, liabilities, costs, damages and causes of action, of any nature whatsoever, arising out of or incidental to the Member\u2019s involvement in the management of the Company affairs, except where the claim at issue is based upon (i) the fraud, gross negligence or willful misconduct of the Member; or (ii) the material and adverse breach of the Member of any material provision of this Agreement. The indemnification authorized by this Section 7C shall include, but not be limited to, payment of (i) reasonable attorneys\u2019 fees or other expenses incurred in connection with settlement or in any finally-adjudicated legal proceeding; and (ii) the removal of any liens affecting any property of the indemnity. The indemnification rights contained in this Section 7C shall be cumulative of, and in addition to, any and all rights, remedies and recourse to which the Members shall be entitled, whether pursuant to the provisions of this Agreement, at law or in equity.\nOperating Agreement Paragraph 7(C). Nothing in the indemnification provision conditions recovery of attorneys\u2019 fees upon a member\u2019s status as a prevailing party in the litigation. Here, recovery of fees is conditioned upon the member\u2019s claim being one which \u201caris[es] out of or [is] incidental to the [m]ember\u2019s involvement in the management of the Company affairs.\u201d Furthermore, the claim cannot be based upon \u201c(i) the fraud, gross negligence or willful misconduct of the [m]ember; or (ii) the material and adverse breach of the [mjember of any material provision of [the] Agreement.\u201d Id. Because George will have to satisfy these conditions in order to prevail on his claim for attorneys\u2019 fees, we hold that Rule 54(d)(2) does not apply to this case, and hence, the trial court erred in dismissing George\u2019s attorneys\u2019 fee claim under that rule.\nThe Indemnification Issue\nGeorge maintains that he is entitled to prevail on his breach of contract claim because KJGC and the Siblings failed to reimburse his Reformation Action attorneys\u2019 fees under the indemnification clause of KJGC\u2019s Operating Agreement. In addition, he insists that if he is denied these attorneys\u2019 fees, then he is entitled to prevail on his breach of fiduciary duty claim against his siblings, and thus, they must reimburse funds paid to them by KJGC in their unsuccessful effort to thwart reformation of the Operating Agreement.\nThe Siblings and KJGC contend that the language of the indemnification provision (Paragraph 7(C)) restricts the recovery of attorneys\u2019 fees to those claims that \u201caris[e] out of or are incidental to the Member\u2019s involvement in the management of the Company\u2019s affairs.\u201d They take the position that George\u2019s request for attorneys\u2019 fees does not satisfy this condition because the lawsuit to reform the Operating Agreement was brought solely out of self-interest and was unrelated to the management of the company\u2019s affairs. Furthermore, they argue, George\u2019s request for indemnification should fail because D.C.Code \u00a7 29-1003 does not allow an LLC to indemnify a member who sues his or her own company. The thrust of appellees\u2019 argument is that George brought the Reformation Action solely out of a desire for personal benefit, rather than a desire to benefit KJGC.\nAt this stage of the litigation, we are faced with the task of determining, de novo, whether George\u2019s complaint for attorneys\u2019 fees is legally sufficient to survive a motion to dismiss under Super. Ct. Civ. R. 12(b)(6), not whether he can prevail in the trial court on factual and legal issues pertaining to his claims. See, e.g., Murray v. Wells Fargo Home Mortg., 953 A.2d 308, 316 (D.C.2008). We ask whether George has met the burden of pleading facts which, taken as true, could prove that the Reformation Action arose out of or was incidental to his involvement in the management of KJGC\u2019s affairs. See id. at 316 (internal quotation marks and citation omitted). \u201cFactual allegations must be enough to raise a right to relief above the speculative level.\u201d Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007).\nOur review of George\u2019s complaint in this matter satisfies us that it is legally sufficient to survive the Siblings\u2019 and KJGC\u2019s motion to dismiss. George\u2019s complaint sets forth a short history of the Partnership Agreement, the decision to convert the partnership into a limited liability company, and the circumstances behind and the outcome of the Reformation Action. George alleges that he owns a twenty-five percent membership interest in KJGC, that the company\u2019s Operating Agreement has an indemnification provision which allows, inter alia, the recovery of \u201creasonable attorneys\u2019 fees or other expenses incurred in connection with ... any finally-adjudicated legal proceeding.\u201d In addition, he avers that after the final adjudication of the Reformation Action, he sought reimbursement of his attorneys\u2019 fees incurred during the Reformation Action, but the Siblings and KJGC denied his request, even though the Siblings were reimbursed attorneys\u2019 fees that they incurred during the Reformation Action. Next, George sets forth his two causes of action and paragraphs which demonstrate how he satisfies the elements of those causes. We conclude that George has met his burden of pleading facts which, taken as true, could prove that the Reformation Action arose out of or was incidental to his involvement in the management of KJGC\u2019s affairs, thus making him eligible for reimbursement of his attorneys\u2019 fees under Paragraph 7(C) of the Operating Agreement.\nAccordingly, for the foregoing reasons, we reverse the trial court\u2019s judgment and remand this case for further proceedings.\nSo ordered.\n. On January 22, 2010, this court issued a Memorandum Opinion and Judgment affirming the trial court's decision to reform the right of first refusal provision of the Operating Agreement. See Calomiris v. Calomiris, No. 08-CV-138, 988 A.2d 509 (D.C. Jan. 22, 2010).\n. Paragraph 7(A) of the Operating Agreement states:\nMembers. The business, operations and affairs of the Company shall be managed by its Members, who shall, acting for and on behalf of the Company, have the full and entire right, power and authority to do any and all acts and things necessary, proper, convenient or advisable to effectuate the purposes of the Company. Any and all actions or decisions of the Members with respect to the management and/or control of the Company shall require the consent or approval of Members owning not less than seventy-five percent, (75%) of the total Membership interests.\n. The Siblings argue in their brief that \"George\u2019s own pleadings establish that his objective was to reform the Operating Agreement so that he could acquire a right of first refusal with respect to KJGC's property that he could exercise for his own personal benefit.\u201d\n. At this point of the proceedings, we see no need to resolve appellees' arguments that D.C.Code \u00a7\u00a7 29-1003 and 29-1020 preclude George\u2019s action. KJGC argues that (1) it \"lacked the legal authority to provide indemnification[ ] rights to George for his bringing the Reformation Action, as doing so would have exceeded the power given to a limited liability company by D.C.Code \u00a7 29-1003\u201d; and (2) \"providing indemnification to George for bringing a declaratory judgment action to advance his own personal interests would exceed the power given to a limited liability company by ... D.C.Code \u00a7 29-1003.\u201d The Siblings contend that \"D.C.Code [\u00a7 ]29-1020 ... specifically prohibit[s]\u201d George\u2019s reimbursement claim. Both statutory provisions use discretionary language. D.C.Code \u00a7 29-1003 states, in pertinent part: \u201d[S]ubject to such standards and restrictions, if any, as are set forth in the articles of organization or operating agreement, every limited liability company may indemnify and hold harmless any member, agent, manager, or employee from and against any and all claims and demands, except in the case of action or failure to act by the member, agent, manager, or employee which constitutes willful misconduct or recklessness\u201d (emphasis added). D.C.Code \u00a7 29-1020(a) provides in relevant part: \"The liability of a manager or member in any proceeding ... brought by or on behalf of members of the limited liability company may be limited or eliminated in the articles of organization or an operating agreement, except if the manager or member engaged in willful misconduct\u201d (emphasis added). We take no position on the applicability of these statutory provisions to George\u2019s reimbursement action.",
+        "type": "majority",
+        "author": "REID, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Ziad P. Haddad, with whom David C. Tobin, Washington, DC, was on the brief, for appellant.",
+      "Anthony J. Pagano, with whom Brian Schwalb, Seth J. Rosenthal, Steven P. Hollman, Dana Carver Boehm, and Michael D. Kass, Washington, DC, were on the brief, for appellees, Katherine Calo-miris Tompros, and Jenifer and Charles W. Calomiris.",
+      "J. Bradford McCullough, with whom Stanley J. Reed, Bethesda, MD, was on the brief, for appellee, K.J.G.C. Associates, LLC."
+    ],
+    "corrections": "",
+    "head_matter": "George William CALOMIRIS, Appellant, v. Charles William CALOMIRIS, et al., Appellees.\nNo. 09-CV-325.\nDistrict of Columbia Court of Appeals.\nArgued April 20, 2010.\nDecided Sept. 9, 2010.\nZiad P. Haddad, with whom David C. Tobin, Washington, DC, was on the brief, for appellant.\nAnthony J. Pagano, with whom Brian Schwalb, Seth J. Rosenthal, Steven P. Hollman, Dana Carver Boehm, and Michael D. Kass, Washington, DC, were on the brief, for appellees, Katherine Calo-miris Tompros, and Jenifer and Charles W. Calomiris.\nJ. Bradford McCullough, with whom Stanley J. Reed, Bethesda, MD, was on the brief, for appellee, K.J.G.C. Associates, LLC.\nBefore REID, FISHER, and OBERLY, Associate Judges."
+  },
+  "file_name": "1186-01",
+  "first_page_order": 1220,
+  "last_page_order": 1229
+}

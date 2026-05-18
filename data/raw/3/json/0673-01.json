@@ -1,0 +1,888 @@
+{
+  "id": 7289101,
+  "name": "Nancy COCHRAN, Appellant v. WYETH, INC., Appellee",
+  "name_abbreviation": "Cochran v. Wyeth, Inc.",
+  "decision_date": "2010-07-27",
+  "docket_number": "",
+  "first_page": "673",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "625 N.E.2d 990",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1003",
+          "parenthetical": "\"[Although a transaction may have been induced by a misrepresentation, the requirement of proximate cause limits recovery to those damages that ... follow from the character of the misrepresentation itself.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Ill.Dec. 835",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[Although a transaction may have been induced by a misrepresentation, the requirement of proximate cause limits recovery to those damages that ... follow from the character of the misrepresentation itself.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "253 Ill.App.3d 750",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        5424705
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[Although a transaction may have been induced by a misrepresentation, the requirement of proximate cause limits recovery to those damages that ... follow from the character of the misrepresentation itself.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/253/0750-01"
+      ]
+    },
+    {
+      "cite": "41 Or.App. 511",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        2103548
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "affirmative misrepresentation"
+        },
+        {
+          "page": "1181",
+          "parenthetical": "affirmative misrepresentation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/41/0511-01"
+      ]
+    },
+    {
+      "cite": "517 F.3d 544",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5870486
+      ],
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/517/0544-01"
+      ]
+    },
+    {
+      "cite": "396 F.3d 161",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9033680
+      ],
+      "pin_cites": [
+        {
+          "page": "173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/396/0161-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461530,
+        7859514
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0664-01",
+        "/a2d/674/0232-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 664",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461530
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0664-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 863",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11188514
+      ],
+      "pin_cites": [
+        {
+          "page": "868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0863-01"
+      ]
+    },
+    {
+      "cite": "281 S.C. 541",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        2163233
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/281/0541-01"
+      ]
+    },
+    {
+      "cite": "689 F.Supp. 1420",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3993666
+      ],
+      "pin_cites": [
+        {
+          "page": "1422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/689/1420-01"
+      ]
+    },
+    {
+      "cite": "690 N.E.2d 1012",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1021"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Ill.Dec. 937",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "293 Ill.App.3d 1099",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        847538
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/293/1099-01"
+      ]
+    },
+    {
+      "cite": "172 N.J. 537",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        199501
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "79-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/172/0537-01"
+      ]
+    },
+    {
+      "cite": "107 Nev. 267",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        8557025
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/107/0267-01"
+      ]
+    },
+    {
+      "cite": "477 N.E.2d 1145",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1148"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Ohio St.3d 136",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 3d",
+      "case_ids": [
+        1818874
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-3d/17/0136-01"
+      ]
+    },
+    {
+      "cite": "434 So.2d 1039",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7640834
+      ],
+      "pin_cites": [
+        {
+          "page": "1048"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/434/1039-01"
+      ]
+    },
+    {
+      "cite": "337 N.W.2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "pin_cites": [
+        {
+          "page": "95-96"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 N.E.2d 240",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "387 Mass. 152",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        908889
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/387/0152-01"
+      ]
+    },
+    {
+      "cite": "118 Ariz. 305",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1604538
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/118/0305-01"
+      ]
+    },
+    {
+      "cite": "606 P.2d 554",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10447770
+      ],
+      "pin_cites": [
+        {
+          "page": "559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/606/0554-01"
+      ]
+    },
+    {
+      "cite": "212 Kan. 524",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        41162
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/212/0524-01"
+      ]
+    },
+    {
+      "cite": "322 A.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8049329
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "92"
+        },
+        {
+          "page": "92",
+          "parenthetical": "\"Proof of proximate cause in such cases requires, initially, a showing that the unrevealed risk which should have been made known has materialized.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/322/0082-01"
+      ]
+    },
+    {
+      "cite": "464 F.2d 772",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        709527
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/464/0772-01"
+      ]
+    },
+    {
+      "cite": "805 A.2d 1232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11438407
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1237",
+          "parenthetical": "citations and internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/805/1232-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 542",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312828
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "citations and internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0542-01"
+      ]
+    },
+    {
+      "cite": "361 Pa.Super. 589",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        667131
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/361/0589-01"
+      ]
+    },
+    {
+      "cite": "1997 U.S. Dist. LEXIS 10382",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 F.Supp.2d 759",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11507950
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "766"
+        },
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/99/0759-01"
+      ]
+    },
+    {
+      "cite": "213 F.Supp.2d 802",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11420239
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/213/0802-01"
+      ]
+    },
+    {
+      "cite": "331 F.Supp.2d 196",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9197210
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/331/0196-01"
+      ]
+    },
+    {
+      "cite": "764 F.2d 1329",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        378153
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/764/1329-01"
+      ]
+    },
+    {
+      "cite": "764 F.2d 373",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        378190
+      ],
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/764/0373-01"
+      ]
+    },
+    {
+      "cite": "335 A.2d 796",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 Pa.Super. 420",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        6772297
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/232/0420-01"
+      ]
+    },
+    {
+      "cite": "686 A.2d 18",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        772859,
+        7346270
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing the differences between causation in fact and proximate causation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/454/0548-01",
+        "/a2d/686/0018-01"
+      ]
+    },
+    {
+      "cite": "454 Pa.Super. 548",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        772859
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing the differences between causation in fact and proximate causation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/454/0548-01"
+      ]
+    },
+    {
+      "cite": "765 F.2d 456",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        383755,
+        383821
+      ],
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/765/0456-02",
+        "/f2d/765/0456-01"
+      ]
+    },
+    {
+      "cite": "578 F.Supp. 338",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3635436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/578/0338-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 504",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1481129
+      ],
+      "weight": 3,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0504-01"
+      ]
+    },
+    {
+      "cite": "893 F.2d 541",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11646159
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/893/0541-01"
+      ]
+    },
+    {
+      "cite": "1987 WL 14666",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "671 A.2d 1151",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868244,
+        732373
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1155",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/671/1151-01",
+        "/pa-super/448/0425-01"
+      ]
+    },
+    {
+      "cite": "448 Pa.Super. 425",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        732373
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/448/0425-01"
+      ]
+    },
+    {
+      "cite": "263 A.2d 889",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "893-94"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "437 Pa. 448",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1927791
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/437/0448-01"
+      ]
+    },
+    {
+      "cite": "397 Pa.Super. 50",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        884264
+      ],
+      "weight": 4,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "927"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/397/0050-01"
+      ]
+    },
+    {
+      "cite": "989 A.2d 356",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7290825
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "368"
+        },
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0356-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 511",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8164721
+      ],
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/963/0511-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1117,
+    "char_count": 24216,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 1.0971036611583791e-07,
+      "percentile": 0.5671376979893422
+    },
+    "sha256": "41bff5e981e420b3b1ceda5564a394014eb106f793be77a806a821ee78b3b207",
+    "simhash": "1:c68dc6e5558b2548",
+    "word_count": 3937
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: STEVENS, GANTMAN and ALLEN, JJ."
+    ],
+    "parties": [
+      "Nancy COCHRAN, Appellant v. WYETH, INC., Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nALLEN, J.:\n\u00b6 1 In this failure to warn case, we are asked to decide whether a plaintiff can prove proximate causation where a drug manufacturer\u2019s warning disclosed a risk of injury, the plaintiff sustained that very injury, but the manufacturer failed to disclose another risk of injury which the plaintiff did not sustain. We hold that in these circumstances, a plaintiff cannot prove proximate causation because the non-disclosed risk did not materialize in physical injury.\n\u00b6 2 Nancy Cochran (\u201cAppellant\u201d) appeals from the trial court\u2019s order granting summary judgment in favor of Wyeth, Inc. (\u201cWyeth\u201d). We affirm.\n\u00b6 3 The facts relevant to our disposition are not in dispute and are as follows. From November 1996 to August 1997, Appellant ingested the prescription weight-loss drug dexfenfluramine, which was manufactured by Wyeth and sold under the brand name Redux. Dr. Stephen Anthay, M.D., was the physician who prescribed Redux to Appellant. Wyeth informed Dr. Anthay that Redux may cause primary pulmonary hypertension (\u201cPPH\u201d). Dr. Anthay warned Appellant of the risk of PPH prior to prescribing her Redux. At the time of his decision, however, Dr. An-thay was unaware of the risk that Redux may cause valvular heart disease (\u201cVHD\u201d). In April 2004, Appellant was diagnosed with PPH.\n\u00b6 4 On August 3, 2004, Appellant filed a complaint against Wyeth, asserting that the warnings accompanying Redux were inadequate. Following discovery, on July 28, 2008, Wyeth filed a motion for summary judgment. In this motion, Wyeth claimed that its warnings were sufficient because they informed Dr. Anthay that PPH was a risk of ingesting Redux and Appellant was diagnosed with PPH.\n\u00b6 5 In opposition, Appellant argued that Redux\u2019s warnings were faulty because they failed to warn of the danger of VHD. Appellant contended that as early as 1994, Wyeth had reason to suspect that Redux could cause VHD. According to Appellant, Wyeth misrepresented the amount of reports of VHD incidents to the FDA, and failed to alert the medical community of the risk of VHD. Appellant submitted that Dr. Anthay would not have prescribed Re-dux to her had he been warned that Redux could cause VHD.\n\u00b6 6 In July 2007, the FDA requested Wyeth to issue \u201cblack box\u201d warnings detailing the risk of VHD. In September 2007, Wyeth voluntarily withdrew Redux from the market.\n\u00b6 7 On September 4, 2009, the trial court granted summary judgment in favor of Wyeth. The trial court concluded that Wyeth\u2019s warnings with regard to PPH were adequate on the basis that Wyeth informed Dr. Anthay that Redux may cause PPH. The trial court further concluded that because Appellant suffered from PPH and not VHD, she could not establish that Wyeth\u2019s failure to warn of the risk of VHD was the proximate cause of her particular injury. This appeal ensued.\n\u00b6 8 Appellant raises the following issue for review:\nDid the trial court err as a matter of law in granting summary judgment in Wyeth\u2019s favor on the issue of proximate causation, where a reasonable jury could easily find based on the evidence of record that [Appellant] would not have sustained serious injuries as a result of ingesting Wyeth\u2019s medication had Wyeth provided adequate warnings to [Appellant\u2019s] prescribing physician of the actual risks inherent in ingesting that product?\nBrief for Appellant at 3.\n\u00b6 9 We review a grant of summary judgment under the following well-settled standards:\nPennsylvania law provides that summary judgment may be granted only in\nthose cases in which the record clearly shows that no genuine issues of material fact exist and that the moving party is entitled to judgment as a matter of law. The moving party has the burden of proving that no genuine issues of material fact exist. In determining whether to grant summary judgment, the trial court must view the record in the light most favorable to the non-moving party and must resolve all doubts as to the existence of a genuine issue of material fact against the moving party. Thus, summary judgment is proper only when the uncontraverted allegations in the pleadings, depositions, answers to interrogatories, admissions of record, and submitted affidavits demonstrate that no genuine issue of material fact exists, and that the moving party is entitled to judgment as a matter of law. In sum, only when the facts are so clear that reasonable minds cannot differ, may a trial court properly enter summary judgment.\nWright v. Allied Signal, Inc., 963 A.2d 511, 514 (Pa.Super.2008) (citation omitted).\n\u00b6 10 In support of her sole issue, Appellant maintains that had Dr. Anthay been informed of the risk of VHD, he would not have prescribed her Redux. Appellant reasons that if Dr. Anthay had not prescribed her Redux, she would not have ingested the drug and never would have been diagnosed with PPH. Based on this logic, Appellant proposes that Wyeth\u2019s failure to warn of the risk of VHD was the proximate cause of her injury.\n\u00b6 11 Countering, Wyeth asserts that its warnings informed Dr. Anthay that Redux may result in PPH and that Appellant assumed the risk that she may develop PPH. Wyeth argues that even if its warnings with regard to VHD were inadequate, its failure to warn of VHD was not the proximate cause of Appellant\u2019s PPH. Wyeth submits that to establish proximate causation, Appellant must prove that its warnings failed to disclose the risk of her particular injury \u2014 PPH.\n\u00b6 12 Upon review, we agree with Wyeth.\n\u00b6 13 In cases involving the failure to warn of risks associated with prescription drugs, Pennsylvania applies the learned intermediary doctrine. Simon v. Wyeth Pharms., Inc., 989 A.2d 356, 368 (Pa.Super.2009). Under the learned intermediary doctrine, a manufacturer will be held liable only where it fails to exercise reasonable care to inform a physician of the facts which make the drug likely to be dangerous. Taurino v. Ellen, 397 Pa.Super. 50, 579 A.2d 925, 927 (1990). The manufacturer has the duty to disclose risks to the physician, as opposed to the patient, \u201cbecause it is the duty of the prescribing physician to be fully aware of (1) the characteristics of the drug he is prescribing, (2) the amount of the drug which can be safely administered, and (3) the different medications the patient is taking.\u201d Id. \u201cIt is also the duty of the prescribing physician to advise the patient of any dangers or side effects associated with the use of the drug as well as how and when to take the drug.\u201d Id.\n\u00b6 14 Proximate cause is an essential element in a failure to warn case. Simon, 989 A.2d at 368. A proximate, or legal cause, is defined as a substantial contributing factor in bringing about the harm in question. Whitner v. Von Hintz, 437 Pa. 448, 263 A.2d 889, 893-94 (1970). Assuming that a plaintiff has established both duty and a failure to warn, a plaintiff \u201cmust further establish proximate causation by showing that had defendant issued a proper warning to the learned intermediary, he would have altered his behavior and the injury would have been avoided.\u201d Demmler v. SmithKline Beecham Corp., 448 Pa.Super. 425, 671 A.2d 1151, 1155 (1996) (citation omitted). \u201cTo create a jury question, the evidence introduced must be of sufficient weight to establish ... some reasonable likelihood that an adequate warning would have prevented the plaintiff from receiving the drug.\u201d Id.\n\u00b6 15 Here, in his deposition testimony, Dr. Anthay stated that he would not have prescribed Redux to Appellant had he known of the risk of VHD that the FDA required Wyeth to disclose on a black box warning. R.R. at 589-93. Appellant submits that under Demmler, Dr. Anthay5s testimony, standing alone, was sufficient to establish that Wyeth\u2019s failure to disclose the risk of VHD proximately caused her PPH. To resolve this matter, we must decide whether the Demmler standard applies to Appellant, vis-\u00e1-vis a plaintiffs burden of establishing proximate causation in a failure to warn case. We gauge the Demmler standard in light of the circumstances before us, namely where the manufacturer disclosed a risk of injury, the plaintiff sustained that very injury, but the manufacturer failed to disclose another risk which, if revealed, would have resulted in the physician deciding not to prescribe the drug. Since this issue is unique to Pennsylvania, we turn to the case law from foreign jurisdictions for guidance.\nII16 To support her position, Appellants cites Cipollone v. Liggett Group, 1987 WL 14666, 1987 U.S. Dist. Lexis 9936 (D.N.J. 1987), aff'd in part and rev\u2019d in part on other grounds in 893 F.2d 541 (3d Cir. 1990), later ajfd in part and rev\u2019d in part on other grounds in 505 U.S. 504, 112 S.Ct. 2608, 120 L.Ed.2d 407 (1992); Sanderson v. Upjohn Co., 578 F.Supp. 338 (D.Mass.1984); and Dartez v. Fibreboard Corp., 765 F.2d 456, 468 (5th Cir.1985). These cases, however, are distinguishable and/or unpersuasive.\n\u00b6 17 For instance, in Sanderson, the court addressed the adequacy of the drug manufacturer\u2019s warning, assessing the duty and breach elements of a failure to warn case. The Sanderson court concluded that although the plaintiff suffered from injuries of which the manufacturer expressly warned, the manufacturer\u2019s warnings could not be deemed adequate as a matter of law because they failed to disclose other risks. The only issue before the court in Sanderson was the adequacy of the warnings, and Sanderson never decided the issue of proximate causation presently before this Court. Although there is a passing reference in Sanderson related to causation and a plaintiffs burden of proof in a failure to warn case, this discussion is at best dicta. Moreover, it is apparent that Sanderson\u2019s statement regarding causation was limited to the element of causation-in-fact, and not the separate inquiry of proximate causation. See First v. Zem Zem Temple, 454 Pa.Super. 548, 686 A.2d 18, 21 n. 2 (1996) (discussing the differences between causation in fact and proximate causation); Frangis v. Duquesne Light Co., 232 Pa.Super. 420, 335 A.2d 796 (1975) (same). Therefore, Sand-erson offers little to no guidance in deciding the issue of proximate causation at hand and we find it unpersuasive.\n\u00b6 18 In Cipollone, the plaintiff suffered from lung cancer and instituted a failure to warn suit against the drug manufacturer because the manufacturer failed to adequately warn of the risk of lung cancer. The court in Cipollone determined that evidence of risks, other than the risk of lung cancer, was relevant and admissible to prove that the manufacturer had a duty to warn of those risks. Here, unlike Ci-pollone, Appellant was adequately warned of PPH, the precise injury which she sustained, and Appellant is not seeking to introduce evidence of the risk of PPH to establish the existence of a duty on the part of Wyeth. Regardless of whether Wyeth had a duty to disclose the risk of VHD, the issue remains whether a breach of that duty was the proximate cause of Appellant\u2019s PPH. Cipollone did not resolve, let alone address, this issue. Thus, we find Cipollone inapposite.\n\u00b6 19 Finally, in Dartez, the United States Court of Appeals for the Fifth Circuit upheld the admission of evidence that asbestos could cause cancer or mesothelio-ma when the plaintiff did not suffer from either medical condition. In that case, however, the plaintiffs legal injury was that she \u201cfeared\u201d she would obtain cancer or mesothelioma in the future, and Texas law permitted damages for stand alone emotional distress proximately caused by asbestos exposure. Consequently, there was a direct causal correlation between the non-disclosed risks of cancer and mesothe-lioma and the plaintiffs fear of contracting cancer and/or mesothelioma. Here, by contrast, Appellant did not claim that Wyeth\u2019s failure to disclose the risk of VHD resulted in a fear that she would later develop VHD. Rather, Appellant argued that Wyeth\u2019s failure to disclose the risk of VHD proximately caused PPH, a condition wholly unrelated to the risk (or fear) of VHD. As such, Dartez is distinguishable on its facts.\n\u00b6 20 Therefore, Sanderson, Cipollone and Dartez do not support Appellant\u2019s position.\n\u00b6 21 Wyeth counters that Appellant is categorically barred from establishing proximate causation because it adequately warned Dr. Anthay of the risk of PPH and Appellant\u2019s injury was PPH. To substantiate its contention, Wyeth relies primarily on Mills v. United States, 764 F.2d 373, 379 (5th Cir.1985); Coursen v. A.H. Robins Co., 764 F.2d 1329 (9th Cir.1985); In re Rezulin Prods. Liab. Litig., 331 F.Supp.2d 196 (S.D.N.Y.2004); Bouchard v. American Home Prods., 213 F.Supp.2d 802 (N.D.Ohio 2002); Grenier v. Medical Eng\u2019g Corp., 99 F.Supp.2d 759, 766 (W.D.La.2000); and In re Norplant Contraceptive Prods. Liab. Litig., 1997 U.S. Dist. LEXIS 10382 (E.D.Tex.1997).\n\u00b6 22 We find that the case law cited by Wyeth does not lend credence to its argument because those cases involve factual patterns and issues distinct from the one before this Court. First, Coursen, Bou-chard, and In re Norplant Contraceptive Prods. Liab. Litig. all addressed an issue of evidence, weighing the probative value of a non-disclosed risk of injury which the plaintiff did not sustain, against its prejudicial impact to the defendant and the likelihood of causing jury confusion. Second, in In re Rezulin Prods. Liab. Litig., the court granted summary judgment in favor of the defendant because the plaintiff failed to establish that had the doctor known of the risk of liver toxicity, he never would have prescribed the drug to the plaintiffs. Third, in Mills, the court held that the specific wording of a warning was broad enough to inform the plaintiff of her particular injury. Although there is language in Mills that could be read to support Wyeth\u2019s position, this language was based on the court distinguishing other cases\u2019 textual analysis of a warning with respect to different medical conditions. In short, the only issue before the court in Mills was the scope and adequacy of the warning. Fourth, in Ghrenier, the court concluded, without any meaningful discussion or citation to authority, that \u201c[a] claimant cannot seek to impose a duty to warn on a manufacturer of damage not sustained.\u201d 99 F.Supp.2d at 766. This is simply incorrect; a manufacturer has a duty to disclose all risks irrespective of the plaintiffs injury. See Makripodis v. Merrell-Dow Pharms., 361 Pa.Super. 589, 523 A.2d 374, 378 (1987). For these reasons, we conclude that the authority cited by Wyeth does not support its position.\n\u00b6 23 This Court\u2019s independent research has similarly failed to locate any case law concerning proximate causation in failure to warn cases that could be deemed directly on-point and persuasive. Due to the absence of authority on the issue, we find strong guidance in those cases that have addressed a plaintiffs burden of proving proximate causation in the informed consent context.\n\u00b6 24 The tort of informed consent, like the tort of failure to warn, is grounded in a duty to disclose material risks.\nTo obtain a patient\u2019s informed consent, doctors must provide patients with material information necessary to determine whether to proceed with the surgical or operative procedure or to remain in the present condition. This information must give the patient a true understanding of the nature of the operation to be performed, the seriousness of it, the organs of the body involved, the disease or incapacity sought to be cured, and the possible results.\nValles v. Albert Einstein Med. Ctr., 569 Pa. 542, 805 A.2d 1232, 1237 (2002) (citations and internal quotation marks omitted).\n\u00b6 25 In both informed consent and failure to warn cases, the duty to disclose risks is breached when the defendant fails to disclose a material risk. In informed consent cases, the patient must be warned of all material risks to decide whether to undergo an operation, while in failure to warn cases, the prescribing physician must be informed of all material risks to decide whether to prescribe a drug to a patient. Moreover, to succeed in a failure to warn claim, a plaintiff must establish that had the physician been aware of the non-disclosed risk, the physician never would have prescribed the drug. Demmler, 671 A.2d at 1155. To prevail on an informed consent claim, the plaintiff must establish that the undisclosed risk substantially affected his/her decision to undergo a procedure. 40 P.S. \u00a7 1303.504(d)(1). As such, the torts of informed consent and failure to warn are very similar, given their elements of duty, breach of duty and causation.\n\u00b6 26 Finding the torts of informed consent and failure to warn analogous, we are persuaded by the jurisdictions that have concluded a plaintiff cannot establish proximate causation where the non-disclosed risk never materialized into an injury. In a landmark informed consent case, Canterbury v. Spence, 464 F.2d 772, 790 (D.C.Cir.1972), the United States Court of Appeals for the District of Columbia first pronounced:\nNo more than breach of any other legal duty does nonfulfillment of the physician\u2019s obligation to disclose alone establish liability to the patient. An unrevealed risk that should have been made known must materialize, for otherwise the omission, however unpardonable, is legally without consequence. Occurrence of the risk must be harmful to the patient, for negligence unrelated to injury is nonactionable.\nId.\n\u00b6 27 In Downer v. Veilleux, 322 A.2d 82, 92 (Me.1974), the Supreme Court of Maine formulated the proximate cause inquiry in informed consent cases as follows:\n[A breach of] the physician\u2019s obligation to disclose the material risks incidental to a particular treatment ... does not per se establish liability to the patient. As in the ease of any breach of a legal duty, the plaintiff must ... prove a proximate causal relationship between the physician\u2019s failure to adequately inform and injury to the patient.\nProof of proximate cause in such cases requires, initially, a showing that the unrevealed risk which should have been made known has materialized. Absent occurrence of the undisclosed risk, the doctor\u2019s omission is legally inconsequential.\nId.\n\u00b628 The Anew espoused by the courts in Canterbury and Downer has been uniformly accepted by the high courts of numerous other jurisdictions. See, e.g., Funke v. Fieldman, 212 Kan. 524, 512 P.2d 539, 548 (1973); Scott v. Bradford, 606 P.2d 554, 559 (Ok.1979); Hales v. Pittman, 118 Ariz. 305, 576 P.2d 493, 499 (1978); Hamish v. Children\u2019s Hospital Medical Center, 387 Mass. 152, 439 N.E.2d 240, 244 (1982); Reinhardt v. Colton, 337 N.W.2d 88, 95-96 (Minn.1983); LaCaze v. Collier, 434 So.2d 1039, 1048 (La.1983); Nickell v. Gonzalez, 17 Ohio St.3d 136, 477 N.E.2d 1145, 1148 (1985); Smith v. Cotter, 107 Nev. 267, 810 P.2d 1204, 1209 (1991); Howard v. Univ. of Med. & Dentistry of N.J., 172 N.J. 537, 800 A.2d 73, 79-80 (2002); see also Doe v. Noe, 293 Ill.App.3d 1099, 228 Ill.Dec. 937, 690 N.E.2d 1012, 1021 (1997); Wachter v. U.S., 689 F.Supp. 1420, 1422 (D.Md.1988) (applying Maryland law); Hook v. Rothstein, 281 S.C. 541, 316 S.E.2d 690, 704 (1984). Indeed, this Court is unable to locate any authority that has refused to adopt the proximate cause principle enunciated in Canterbury and Downer. In informed consent cases, it appears to be well-settled and without debate that the non-disclosed risk must manifest itself into actual injury in order for a plaintiff to establish proximate causation.\n\u00b6 29 Because the tort of informed consent corresponds -with the tort of failure to warn, this Court applies the above law governing proximate causation for informed consent claims to Pennsylvania\u2019s jurisprudence in failure to warn claims. Here, Wyeth allegedly breached its duty in failing to disclose the risk of VHD, and Appellant\u2019s injury was PPH. The risk of VHD did not develop into the actual injury of VHD. Although Dr. Anthay testified in his deposition that he would not have prescribed Redux to Appellant had he known of the risk of VHD, this does not alter the fact that Wyeth failed to disclose the risk of VHD and Appellant suffered from PPH. In these circumstances, the relationship between the legal wrong (the failure to disclose the risk of VHD) and the injury (PPH) is not directly correlative and is too remote for proximate causation. Therefore, as a matter of law, there is no proximate, causal connection between Wyeth\u2019s failure to disclose the risk of VHD and Appellant\u2019s specific injury. See Brown v. Philadelphia College of Osteopathic Medicine, 760 A.2d 863, 868 (Pa.Super.2000) (stating that as a matter of law, the court is required to make the determination of whether a defendant\u2019s alleged breach of duty could constitute the proximate cause of a plaintiffs injury before submitting the issue to the jury).\n\u00b6 80 Although our decision in Demmler stated the general proximate cause standard for failure to warn cases, Demmler addressed only part of the proximate cause equation. Relying on the authority discussed above, we hold that before a plaintiff can prove that a non-disclosed risk would have altered the physician\u2019s decision to prescribe a drug, the plaintiff must first demonstrate that he/she suffered from the precise injury that the manufacturer allegedly failed to disclose. See Downer, 322 A.2d at 92 (\u201cProof of proximate cause in such cases requires, initially, a showing that the unrevealed risk which should have been made known has materialized.\u201d). Only if the plaintiff carries this initial burden, can he/she establish proximate causation with evidence that the physician would not have prescribed a drug had the physician known of the non-disclosed risk. Because Appellant did not make this threshold factual showing, ie., that her physical injury (PPH) was the result of the non-disclosed risk (VHD), she cannot establish proximate causation as a matter of law. The trial court, accordingly, did not err in granting summary judgment in favor of Wyeth on Appellant\u2019s failure to warn claim. Therefore, we affirm the trial court\u2019s' order.\n\u00b6 31 For the above-stated reasons, we affirm the trial court\u2019s order granting summary judgment.\n\u00b6 32 Order affirmed.\n. Pennsylvania law does not permit claims for increased risk and fear of cancer where the plaintiff has not developed cancer. Simmons v. Pacor, Inc., 543 Pa. 664, 674 A.2d 232 (1996).\n. We note that courts have imposed a similar requirement when discerning the proximate cause standard for claims sounding in fraudulent omissions/misrepresentations. These cases hold that in order to be compensable, the non-disclosed risk or misrepresented fact must materialize into an injury that is specifically related in scope to the peculiar nature of the omission or misrepresentation. See, e.g., Lentell v. Merrill Lynch & Co., 396 F.3d 161, 173 (2d. Cir.2005) (Rule 10-b5 securities fraud) (\"[An] omission is the 'proximate cause\u2019 of an investment loss if the risk that caused the loss was within the zone of risk concealed by the [ ] omissions ... [A] plaintiff must allege ... that the loss [was] caused by the materialization of the concealed risk.\u201d) (emphasis in original); accord Schaaf v. Residential Funding Corp., 517 F.3d 544, 552 (8th Cir.2008) (Minnesota Consumer Fraud Act and state common-law fraud) (\"To prevail, the plaintiffs must plead and prove that the loss was ... caused by the materialization of the concealed risk.\u201d), and also Criqui v. Pearl Music Co., 41 Or.App. 511, 599 P.2d 1177, 1181 (1979) (affirmative misrepresentation) (\"It is only where the fact misstated was of a nature calculated to bring about such a result that damages for it can be recovered.\u201d) (citation omitted); accord Giammanco v. Giammanco, 253 Ill.App.3d 750, 192 Ill.Dec. 835, 625 N.E.2d 990, 1003 (1993) (\"[Although a transaction may have been induced by a misrepresentation, the requirement of proximate cause limits recovery to those damages that ... follow from the character of the misrepresentation itself.\u201d).",
+        "type": "majority",
+        "author": "ALLEN, J.:"
+      }
+    ],
+    "attorneys": [
+      "Howard J. Bashman, Willow Grove, for appellant.",
+      "Michael T. Scott, Philadelphia, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Nancy COCHRAN, Appellant v. WYETH, INC., Appellee.\nSuperior Court of Pennsylvania.\nArgued June 22, 2010.\nFiled July 27, 2010.\nHoward J. Bashman, Willow Grove, for appellant.\nMichael T. Scott, Philadelphia, for appel-lee.\nBEFORE: STEVENS, GANTMAN and ALLEN, JJ."
+  },
+  "file_name": "0673-01",
+  "first_page_order": 707,
+  "last_page_order": 715
+}

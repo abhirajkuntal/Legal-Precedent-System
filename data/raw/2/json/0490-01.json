@@ -1,0 +1,318 @@
+{
+  "id": 7288059,
+  "name": "Alice M. KINCY, Appellant v. Nancy PETRO, Appellee",
+  "name_abbreviation": "Kincy v. Petro",
+  "decision_date": "2010-08-17",
+  "docket_number": "",
+  "first_page": "490",
+  "last_page": "499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "422 Pa.Super. 533",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        923481
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1087",
+          "parenthetical": "opining that Rule 213 is consistent with Az-inger, and holding that trial court properly consolidated pursuant to Rule 213 a petition for contempt and petitions to modify a custody order, all of which \"dealt with the custody order, its implementation and possible violations\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/422/0533-01"
+      ]
+    },
+    {
+      "cite": "343 Pa.Super. 7",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        635225
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "777-78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/343/0007-01"
+      ]
+    },
+    {
+      "cite": "501 Pa. 306",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1782426
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/501/0306-01"
+      ]
+    },
+    {
+      "cite": "735 A.2d 1256",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11543731,
+        838597
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/735/1256-01",
+        "/pa/558/0170-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 170",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838597
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0170-01"
+      ]
+    },
+    {
+      "cite": "454 A.2d 199",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "201"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "741 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11656406
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "810"
+        },
+        {
+          "page": "811"
+        },
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/741/0808-01"
+      ]
+    },
+    {
+      "cite": "972 A.2d 483",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4195554,
+        4195172,
+        7295621,
+        7295663,
+        4196086,
+        7295582
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0316-01",
+        "/pa/601/0315-02",
+        "/a2d/972/0483-02",
+        "/a2d/972/0483-03",
+        "/pa/601/0315-01",
+        "/a2d/972/0483-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 315",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4195172,
+        4196086
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0315-02",
+        "/pa/601/0315-01"
+      ]
+    },
+    {
+      "cite": "105 A. 87",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "87"
+        },
+        {
+          "page": "87-88",
+          "parenthetical": "citations omitted, emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "262 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1044494
+      ],
+      "weight": 2,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/262/0242-01"
+      ]
+    },
+    {
+      "cite": "1999 WL 33888882",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "4-8"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "454 A,2d 199",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "741 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11656406
+      ],
+      "weight": 3,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/741/0808-01"
+      ]
+    },
+    {
+      "cite": "105 A. 87",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1918,
+      "opinion_index": 1
+    },
+    {
+      "cite": "262 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1044494
+      ],
+      "year": 1918,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/262/0242-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1020,
+    "char_count": 29626,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828742525143358
+    },
+    "sha256": "a66952faf65cfac03f8e65079313fe8a40603e7f1db162a48177c090ca780919",
+    "simhash": "1:beeffcee0fdc84d4",
+    "word_count": 4733
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ."
+    ],
+    "parties": [
+      "Alice M. KINCY, Appellant v. Nancy PETRO, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice TODD.\nIn this appeal, we consider the effect of a trial court order purporting to consolidate, under Rule 213(a) of the Pennsylvania Rules of Civil Procedure, two separate actions involving different parties and different theories of liability \u201cfor all purposes.\u201d For reasons discussed below, we conclude that such an order does not result in the complete consolidation of such actions, such that the pleadings are merged and/or the actions shed their separate identities. Accordingly, we affirm the Superior Court\u2019s order affirming the trial court\u2019s grant of a compulsory nonsuit against Appellant Alice M. Kincy.\nThe instant case arises out of a car accident that occurred on September 13, 2003. Kincy was driving her vehicle, in which her brother, Jerome Nixon, was a passenger, when it was struck by a vehicle driven by Anastasia Petro (\u201cAnastasia\u201d). The vehicle Anastasia was driving was owned by her mother, Nancy Petro (\u201cPe-tro\u201d). On August 3, 2005, Kincy filed an action for compensatory damages against Petro, alleging Petro was negligent in operating her vehicle, resulting in injuries to Kincy. The action was docketed at Case No. 000448. Thereafter, Nixon and his wife filed a separate action naming both Anastasia and Petro as defendants. The Nixon complaint, docketed at Case No. 001554, alleged that Anastasia was negligent in her operation of the vehicle, and that Petro negligently entrusted the vehicle to her daughter, and, thus, was liable for Anastasia\u2019s negligence under the doctrine of respondeat superior.\nOn October 18, 2005, Petro filed an answer and new matter to Kincy\u2019s complaint, wherein Petro admitted that she owned the vehicle that struck Kincy\u2019s car, but asserted that her daughter, Anastasia, was the driver of the vehicle at the time of the accident. Despite the fact that it was undisputed that Anastasia was operating the vehicle at the time of the accident, Kincy at no time sought leave to amend her complaint to state a claim against Anastasia, or to amend the basis of her cause of action against Petro.\nOn March 7, 2006, the Honorable Gary Glazer issued a consolidation order with respect to both eases. The order provided:\nAND NOW, this 7th day of March 2006, it is hereby ORDERED that [Case No. 00448 and Case No. 01554] be consolidated as Arbitration cases, for all purposes including, but not limited to, discovery, arbitration, trial and appeal pursuant to Pa.R.C.P. 213(a). Further, these cases will be consolidated under August Term 2005, No. 01554 with an arbitration date April 10, 2006 at 9:30 A.M.\nOrder, 3/7/06 (emphasis added). However, on March 13, 2006, the consolidation order was docketed at Case No. 000448 as follows: \u201c[Case No. 000448 and Case No. 001554] are hereby consolidated for purposes of discovery and arbitration only. Arbitration hearing is scheduled for April 10, 2006 at 9:30 A.M.\u201d (emphasis added). Thereafter, the prothonotary continued to make separate docket entries and maintain separate files for each case.\nOn June 17, 2006, a joint arbitration hearing was conducted, wherein the arbitrators separately considered the Kincy and Nixon lawsuits. Following the hearing, the arbitrators found for the Nixons and awarded damages, but ruled against Kincy. Subsequently, the Nixons settled their claims against Anastasia and Petro, and their action was discontinued. Kincy appealed her adverse arbitration award to the Philadelphia Court of Common Pleas, and Anastasia and Petro moved for summary judgment on the basis that Kincy had failed to timely assert a valid claim of negligence, since she failed to file suit against Anastasia, the driver of the vehicle that struck her car. Kincy opposed the motion, arguing that, as a result of the trial court\u2019s March 7, 2006 consolidation order, her complaint merged with the Nixon complaint, and, therefore, she had asserted a negligence claim against Anastasia. In a cross-motion for summary judgment against Anastasia, Kincy further argued that there was no genuine issue of material fact regarding Anastasia\u2019s negligence. In response, Anastasia and Petro disputed that the March 7, 2006 consolidation order merged the actions, and argued, moreover, that any consolidation was moot because the Nixons\u2019 case had been discontinued with prejudice. Judge Glazer denied both summary judgment motions without opinion.\nPrior to trial, Anastasia and Petro filed a motion in limine seeking to preclude Kincy from presenting at trial any evidence other than evidence in support of her asserted claim against Petro for negligent operation of a vehicle. On June 7, 2007, the Honorable Esther Sylvester granted the motion, reasoning that, pursuant to this Court\u2019s decision in Azinger v. Pennsylvania R. Co., 262 Pa. 242, 105 A. 87 (1918), separate actions can be merged into a single action only if they involve, inter alia, the same parties. Because the instant case did not involve the same parties, the court concluded that Judge Glazer\u2019s consolidation order merely served to consolidate the Kincy and Nixon actions\u2014 which maintained separate dockets and resulted in separate arbitration verdicts \u2014 for the purpose of a joint trial. Trial Court Opinion, 1/17/08, at 3. As it was undisputed that Petro was not the driver of the vehicle that struck Kincy\u2019s car, the trial court subsequently granted a nonsuit in favor of Anastasia and Petro. Kincy appealed to the Superior Court, which, on October 7, 2008, affirmed the trial court\u2019s order for the reasons set forth by the trial court in its opinion. By order dated May 19, 2009, this Court granted Kincy\u2019s Petition for Allowance of Appeal for consideration of the following issue:\nWhether under Pa.R.C.P. 213(a) a trial court order, which states that two separately docketed cases involving different plaintiffs and different theories of liability are \u201cconsolidated for all purposes,\u201d and does not otherwise specify that a joint trial of the cases is to be held, operates automatically to merge the pleadings filed in the separate cases?\nKincy v. Petro, 601 Pa. 315, 972 A.2d 483 (Pa.2009).\nRule 213(a) of the Pennsylvania Rules of Civil Procedure provides:\nIn actions pending in a county which involve a common question of law or fact or which arise from the same transaction or occurrence, the court on its own motion or on the motion of any party may order a joint hearing or trial of any matter in issue in the actions, may order the actions consolidated, and may make orders that avoid unnecessary cost or delay.\nPa.R.Civ.P. 213(a). Thus, under Rule 218(a), a trial court has three options where pending actions involve either a common question of law or fact, or which arise from the same transaction: (1) ordering a joint trial or hearing on any matter at issue; (2) ordering the actions \u201cconsolidated\u201d; and (3) issuing other orders designed to avoid unnecessary costs or delay. Kincy argues that her action was consolidated with the Nixon action under the second option of Rule 213(a). Thus, our primary inquiry is whether, and to what extent, the Kincy and Nixon actions were consolidated under Rule 213(a).\nWhile this Court has not yet discussed the specific parameters of the three options for consolidation set forth in Rule 213(a), long before the enactment of Rule 213, we contemplated the various meanings of the term \u201cconsolidation\u201d in Azinger v. Pennsylvania R. Co., supra. In Azinger, a husband and wife were injured when the vehicle in which they were riding was struck by one of the defendant\u2019s freight trains. Two actions were filed, one by the husband for his injuries, and another by the husband and wife for her injuries. The trial judge entered an order stating: \u201cIt appearing that no prejudice will result to the plaintiffs and that it is reasonable to consolidate the two actions for trial before the same jury, ... the said cases are directed to be tried together; separate verdicts to be rendered in accordance with the practice in such cases established.\u201d 262 Pa. at 245, 105 A. at 87. The cases were tried together, and a nonsuit was entered against the husband in both actions. The wife\u2019s claim was submitted to the jury, who found in favor of the defendant. On appeal, the husband and wife argued that the trial judge erred in directing the cases to be tried together. In rejecting their argument, this Court discussed the various types of consolidation:\nThe court\u2019s action was not such a consolidation of the two proceedings as to merge the two actions into one, but merely an order directing they be tried together in view of the fact that the cases were of the same nature, arose out of the same transaction, and depended in each case upon substantially the same proofs, and was made in the interest of justice and for the purpose of avoiding unnecessary delay and expense.\nA reference to the distinction between consolidation of two or more actions, and ordering them tried together, is sufficient to show the action of the court was proper. The term \u2018consolidation\u2019 is used in three different senses: First, where all except one of the several actions are stayed until one is tried, in which case the judgment in the one is conclusive as to the others; second, where several actions are combined into one and lose their separate identity and become a single action in which a single judgment is rendered; and, third, where several actions are ordered to be tried together but each retains its separate character and requires the entry of a separate judgment. Failure in many cases to clearly distinguish between these various uses of the word has caused no little apparent confusion in the decisions. Where a technical consolidation takes place, the result is that one verdict is rendered which is conclusive of the entire subjectmatter of the litigation. Consequently, different actions cannot be consolidated unless between the same parties and involving the same subject-matter, issues, and defenses. But where separate actions in favor of or against two or more persons have arisen out of a single transaction, and the evidence by which they are supported is largely the same, although the rights and liabilities of parties may differ, it is within the discretion of the trial judge to order all to be tried together, though in every other respect the actions remain distinct and require separate verdicts and judgments.\nId. at 245-46, 105 A. at 87-88 (citations omitted, emphasis added). Thus, pursuant to the second option described in Azinger, separate actions cannot be consolidated to the extent the actions lose their separate identities and become a single action what we will refer to as \u201ccomplete consolidation\u201d \u2014 unless the actions involve the same parties, subject matter, issues, and defenses.\nAlthough the language of Rule 213(a) suggests that a court may order actions consolidated when the actions involve a common question of law or fact, or arise from the same transaction or occurrence, we conclude that the second option for consolidation under Rule 213(a), relied on by Kincy, is distinct from the complete consolidation implicated in Azinger. We base this determination on several factors. First, in light of the compulsory joinder rules of the Pennsylvania Rules of Civil Procedure, see, e.g., Pa.R.Civ.P. 1020(d), there are few, if any, circumstances, in which separate actions would involve identical parties, subject matter, issues, and defenses, such that complete consolidation by a trial court could be contemplated under Rule 213.\nFurthermore, recognizing that the first option specified in Rule 213(a) allows the trial court to \u201corder a joint hearing or trial of any matter in issue in the actions,\u201d this first option is not all-encompassing; indeed, we can conceive of other reasons besides a joint hearing or trial that a trial court may want to consolidate separate actions. For example, the court may choose to consolidate the discovery process for separate actions which involve similar issues of proof or questions of fact. A trial court may also choose to consolidate the actions for procedural or practical reasons, for example, in order that the separate actions proceed on the same time schedule, or before the same trial judge. The second option of Rule 213(a) permits consolidation for such other purposes, even where the actions do not involve identical parties, subject matter, issues, and defenses.\nFinally, a conclusion that Rule 218(a) contemplates complete consolidation between actions involving non-identical parties, subject matter, issues and defenses, is simply untenable. In ascertaining the intention of the Supreme Court in the promulgation of a rule, it is presumed that we did not intend a result that is absurd, impossible of execution, or unreasonable. See Pa.R.Civ.P. 128(a). While it may be reasonable to order separate actions filed by different plaintiffs to be consolidated for trial, or, for example, discovery, it seems patently unfair to require different plaintiffs, by complete consolidation of their actions, to join forces as if they filed suit together.\nThus, where a party or trial court seeks complete consolidation of two separate actions, we reaffirm our holding in Azinger that such consolidation cannot be achieved unless the actions involve the same parties, subject matter, issues, and defenses. As the Kincy and Nixon actions did not involve identical parties, under Azinger, the actions could not have been consolidated such that the actions lost their separate identities and the pleadings merged. Moreover, as noted above, the type of consolidation contemplated by the second option of Rule 213(a) is not the complete consolidation allowed for under Azinger; therefore, consolidation of the Kincy and Nixon actions under the second option of Rule 213(a) would not result in merger of the pleadings, or the loss of the separate identities of the actions.\nNotably, Kincy does not dispute the ongoing validity of Azinger, and, indeed, does not cite the case in her brief. Rather, in arguing that the trial court erred in determining that Judge Glazer\u2019s consolidation order did not consolidate the Kincy and Nixon actions for all purposes, Kincy maintains that, under Keefer v. Keefer, 741 A.2d 808 (Pa.Super.1999), \u201c[t]he method of consolidation of cases ordered by a Court is controlled and determined by the language used in the Order itself.\u201d Appellant\u2019s Brief at 10 (citing Keefer). In Keefer, after filing an action for divorce, the plaintiff filed several other actions against the same defendant in different divisions of the court of common pleas, including two actions in the civil division. Thereafter, an administrative judge issued an order consolidating all of the actions into the original divorce action in the family division. The trial court subsequently dismissed one of the civil actions in its entirety, and dismissed several counts of the second civil action. The plaintiff appealed, asserting that the trial court erred in dismissing one action entirely and another action in part.\nPrior to addressing the issue presented on appeal, the court first considered whether the appeal properly was before it \u2014 i.e., whether the appeal was from a final order. In analyzing that issue, the Superior Court contemplated the nature of the administrative judge\u2019s consolidation order. Citing this Court\u2019s decision in Azinger, and noting that the term consolidation had been used interchangeably to refer to several distinct procedural postures, the Keefer court concluded that, where pending actions \u201cinvolve a common question of law or fact or which arise from the same transaction or occurrence,\u201d Rule 213(a) allows, inter alia, a trial court to (1) order a joint hearing or trial of any matter at issue in the actions, or (2) order the actions consolidated. Keefer, 741 A.2d at 810. The court further acknowledged that, when cases are joined for a joint hearing or trial, \u201cas under method (1), each case remains distinct and maintains its own identity.\u201d Id. The court recognized, conversely, \u201c[w]hen a judge orders several cases consolidated under method (2), the individual cases shed their separate identities and merge into a single action. Thus, \u2018where two actions are consolidated pursuant to Pa.R.C.P. 213(a) only one action retains its identity and the others are absorbed by it.\u2019 \u201d Id. at 811 (quoting Mosside Assocs., Ltd. v. Zoning Hearing Bd. of the Municipality of Monroeville, 70 Pa. Cmwlth. 555, 454 A.2d 199, 201 (1982)).\nDespite its recognition of Azinger, the Keefer court inexplicably failed to base its decision on the fact that consolidation of the actions in Keefer clearly was proper under Azinger since the actions involved the same parties. Instead, the Keefer court proceeded to consider, and find dis-positive, the express language of the trial court\u2019s consolidation order:\n[The trial court] used the phrase \u201cto be consolidated with the matter\u201d rather than the phrase \u201cto be jointly tried.\u201d By ordering the actions consolidated, without further explanation, [the trial court] rejected the joint trial or hearing alternative found in the rule. Wethere-fore read the order as utilizing the second approach in Rule 213(a) and hold that such a consolidation merges all actions into one, such that each lose their separate identities.\nKeefer, 741 A.2d at 811. On the basis of this l\u00e1nguage, Kincy argues that Judge Glazer\u2019s order, which provided that the actions were consolidated as arbitration cases \u201cfor all purposes including, but not limited to, discovery, arbitration, trial and appeal,\u201d Trial Court Order, 5/19/09, is controlling.\nPetro, conversely, argues that Keefer does not afford Kincy relief because the Superior Court\u2019s consideration in Keefer of the language of the consolidation order was unnecessary, and indeed erroneous. We agree. First, the Superior Court in Keefer provided no authority for its determination that the language used in a consolidation order supersedes the limitations of consolidation set forth by this Court in Azinger (or our procedural rules), namely, that only actions involving the same parties, subject matter, issues, and defenses may be consolidated into a single action, such that the actions shed their separate identities, Moreover, the Keefer decision is inconsistent with the Superior Court\u2019s own prior decisions, including Roznowski and Hill. Accordingly, while the Superior Court\u2019s ultimate disposition in Keefer was proper \u2014 because, under Azinger, as the cases involved the same parties, the consolidation order merged the actions \u2014 -the court\u2019s reliance on the peculiar language of the consolidation order as determinative was superfluous and erroneous, and is hereby disapproved.\nKincy further relies on Mosside Assocs., Ltd., supra, asserting Mosside \u201cis directly on point in that it involves two appeals by separate parties being consolidated into one matter.\u201d Appellant\u2019s Brief at 10. We disagree with Kincy\u2019s interpretation of Mosside. In Mosside, the Monroeville Municipal Council (\u201cCouncil\u201d) approved a conditional use application filed by Mos-side for the construction of a motel, office building, and parking garage, despite a recommendation by the municipality\u2019s planning commission that the application be denied. Thereafter, the board of the planning commission and two of its members, as individuals, filed appeals with the Zoning Hearing Board of Monroeville (\u201cZoning Board\u201d), all challenging the interpretation of several ordinance provisions, and the individual members additionally challenging Council\u2019s ultimate decision to approve the application. The Zoning Board consolidated the appeals, and, following several hearings, declared Council\u2019s approval of the application void. On appeal, the court of common pleas reversed. On appeal of that decision to the Commonwealth Court, the board of the planning commission and its individual members argued that Mosside failed to perfect its appeal to the court of common pleas because, despite the fact that the appeals of the board of the planning commission and its individual members remained separate appeals throughout the proceedings before the Zoning Board, Mosside\u2019s notice of appeal indicated that it was challenging the Zoning Board\u2019s decision with regard to only one of the appeals. The Commonwealth Court rejected this argument, noting that an earlier motion had been made and granted by the Zoning Board to \u201cconsolidate the two applications,\u201d and that \u201cthe clear effect of this motion was to merge the two appeals into one, thus necessitating only one decision by the [Zoning] Board.... The Board apparently issued only one decision and we conclude that Mosside perfected its appeal to the court of common pleas from that decision.\u201d Mosside, 454 A.2d at 201.\nWhile the Commonwealth Court in Mos-side focused on the Zoning Board\u2019s consolidation of the appeals to conclude that, subsequent to a single decision by the Zoning Board, only one notice of appeal to the common pleas court was required to perfect Mosside\u2019s appeal, we note that, as in Keefer, consolidation of the two appeals arguably was proper because the appeals involved the same parties. Thus, Kincy\u2019s suggestion that Mosside stands for the proposition that two separate actions involving separate parties may be consolidated, such that the pleadings are merged, is incorrect. Assuming, for sake of argument, that the parties were not identical, the Mosside decision is inconsistent with our decision in Azinger, and to that extent is disapproved.\nAs a final matter, we point out that, even if we determined that Judge Glazer\u2019s consolidation order resulted in complete consolidation of the Kincy and Nixon actions, resulting in a merger of the pleadings, such a conclusion would not enable Kincy to pursue her desired causes of action against Anastasia or Petro. As discussed above, Kincy\u2019s complaint alleged only that Petro was negligent in the operation of her motor vehicle, and it is undisputed that Anastasia, not Petro, was the driver of the vehicle. A complete merger of the Kincy and Nixon complaints would not have altered these allegations, and no cause of action by Kincy against Anastasia for negligent operation of a motor vehicle, or against Petro for negligent entrustment or vicarious liability, would exist absent amendment to Kincy\u2019s complaint.\nAt no time, however, did Kincy seek to amend her complaint, and even if she had sought to amend her complaint following the entry of Judge Glazer\u2019s order of March 7, 2006, she would not have been permitted to do so, as the two-year statute of limitations on Kincy\u2019s cause of action expired on September 13, 2005. A plaintiff may not amend a pleading to add a new and distinct party once the statute of limitations has expired. Tork-Hiis v. Commonwealth, 558 Pa. 170, 735 A.2d 1256 (1999). Similarly, an amendment introducing a new cause of action will not be permitted after the statute of limitations has run. See Connor v. Allegheny General Hosp., 501 Pa. 306, 461 A.2d 600 (1983).\nAccordingly, while we conclude, for the reasons set forth above, that Judge Glazer\u2019s consolidation order did not result in complete consolidation of the Kincy and Nixon actions, or merger of the pleadings, even were we to hold otherwise, Kincy would not be entitled to relief because the merged pleadings would not have asserted a cause of action by Kincy against Anastasia or Petro. Thus, we hold that the trial court\u2019s grant of summary judgment against Kincy was proper, as was the Superior Court\u2019s order affirming the trial court.\nOrder affirmed.\nFormer Justice GREENSPAN did not participate in the decision of this case.\nChief Justice CASTILLE and Justices BAER and McCAFFERY join the opinion.\nJustice SAYLOR files a concurring opinion in which Justice EAKIN joins.\n. As we discuss further below, this allegation was problematic, as it is undisputed that Anastasia, not Petro, was operating the vehicle that struck Kincy's car.\n. Kincy does not, and could not, argue reliance on Judge Glazer's consolidation order as a basis for failing to amend her complaint within the statute of limitations period, as the statute of limitations for Kincy's negligence claim against Anastasia expired on September 13, 2005, prior to the entry of the order.\n. Petro argues that, by its express language, Rule 213 applies only to pending actions, and, therefore, the discontinuance of the Nixon action rendered Judge Glazer's consolidation order moot. In view of our conclusion with regard to the issue before us, we need not address this argument.\n. We note that, although Azinger predated the enactment of Rule 213 in 1938, lower courts continue to cite Azinger for its discussion of the various methods and effects of consolidation. For example, in Roznowski v. Pa. Nat\u2019l Mut. Cas. Ins. Co., 343 Pa.Super. 7, 493 A.2d 775 (1985), the Superior Court recognized that Rule 213 authorizes consolidation of actions for trial, and, citing Azinger, noted \u201c[w]hen separate actions are consolidated for trial, each action retains its separate character. Each has its own docket entries, and each produces its own verdict and judgment.\u201d 493 A.2d at 777-78; see also Hill v. Hill, 422 Pa.Super. 533, 619 A.2d 1086, 1087 (1993) (opining that Rule 213 is consistent with Az-inger, and holding that trial court properly consolidated pursuant to Rule 213 a petition for contempt and petitions to modify a custody order, all of which \"dealt with the custody order, its implementation and possible violations\u201d).\n. Rule 1020(d) provides:\nIf a transaction or occurrence gives rise to more than one cause of action heretofore asserted in assumpsit and trespass, against the same person, including causes of action in the alternative, they shall be joined in separate counts in the action against any such person. Failure to join a cause of action as required by this subdivision shall be deemed a waiver of that cause of action as against all parties to the action.\nPa.R.Civ.P. 1020(d).",
+        "type": "majority",
+        "author": "Justice TODD."
+      },
+      {
+        "text": "Justice SAYLOR,\nconcurring.\nI concur in the result for the reasons set forth in the final few paragraphs of the majority opinion \u2014 Appellant provides no support for her assertion that, upon consolidation of actions, claims asserted on behalf of one party automatically and retroactively become claims asserted on another party\u2019s behalf. To the contrary, I believe that, even in the very strongest form of consolidation, distinct counts set forth in the individual complaints should remain as such in the consolidated action, with any additional claims to be asserted via appropriate cross-, counter-, or third-party pleadings. A looser approach permitting automatic, retroactive consolidation of counts to encompass unstated cross-claims is untenable, since the potential for disorder, confusion, and surprise simply is too great.\nRegarding the balance of the majority opinion, I have a number of differences. Principally, I do not see what is left of full substantive consolidation as contemplated by Azinger v. Pennsylvania Railroad Company, 262 Pa. 242, 105 A. 87 (1918), in the aftermath of Rule of Civil Procedure 1020(d), embodying the compulsory joinder rule. To the degree anything is left, I do not understand why such consolidation is outside the scope of Rule 213(a), which indicates that a trial judge \u201cmay order ... actions consolidated.\u201d Pa.R.Civ.P. No. 213(a).\nConcerning the majority\u2019s discussions of the case law, I am unable to recognize the litmus by which the majority is determining same-party status. For example, in discussing Mosside Associates, Ltd. v. ZHB of Monroeville, 70 Pa.Cmwlth. 555, 454 A,2d 199 (Pa.Cmwlth.1982), and Keefer v. Keefer, 741 A.2d 808 (Pa.Super.1999), the majority indicates that both decisions involved the same parties. See Majority Opinion, at 496, 497. Nevertheless, Mos-side involved appeals by legally distinct entities (a planning commission and its individual members). See Mosside, 70 Pa. Cmwlth. at 557-58, 454 A.2d at 201. As to Keefer, although there is substantial overlap among the parties to the multiple consolidated actions in that case, some of the underlying complaints appear to have involved distinct individuals. See Brief for Appellant, Keefer v. Keefer, 741 A.2d 808 (Pa.Super.1999), 1999 WL 33888882, at 4-8 (Jan. 1, 1999). Therefore, it is not clear whether the majority approach to same-party status contemplates overlap or complete identity.\nFinally, in light of the flexibility integrated into Rule 213, I would reiterate Keefer\u2019s admonition that it would greatly facilitate appellate review if the trial courts would employ a degree of precision in orders under that rule. See Keefer, 741 A.2d at 811 n. 3. Parties seeking extraordinary approaches to consolidation (as, for example, Appellant has pursued on appeal here in the form of retroactive consolidation with reconstituted counts), should obviously put the court and other parties on notice of what is being pursued. This will allow for fair and informed responses by the litigants and decision-making by the court.\nJustice EAKIN joins this concurring opinion.\n. Neither Mosside nor Keefer was framed to consider the same-party issue. In the absence of a sharper focus in the written decisions, I question the helpfulness of judgments on the same-party question relative to those opinions at this juncture.",
+        "type": "concurrence",
+        "author": "Justice SAYLOR,"
+      }
+    ],
+    "attorneys": [
+      "Andrew R. Spirt, Golomb & Honik, P.C., for Alice M. Kincy.",
+      "Joseph Allen Ross, Robert J. Casey, Jr. & Associates, Philadelphia, for Nancy Pe-tro."
+    ],
+    "corrections": "",
+    "head_matter": "Alice M. KINCY, Appellant v. Nancy PETRO, Appellee.\nSupreme Court of Pennsylvania.\nArgued Oct. 21, 2009.\nDecided Aug. 17, 2010.\nAndrew R. Spirt, Golomb & Honik, P.C., for Alice M. Kincy.\nJoseph Allen Ross, Robert J. Casey, Jr. & Associates, Philadelphia, for Nancy Pe-tro.\nBEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ."
+  },
+  "file_name": "0490-01",
+  "first_page_order": 506,
+  "last_page_order": 515
+}

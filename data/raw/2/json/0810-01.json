@@ -1,0 +1,183 @@
+{
+  "id": 7289597,
+  "name": "COURT OF COMMON PLEAS OF LACKAWANNA COUNTY, Petitioner v. The PENNSYLVANIA OFFICE OF OPEN RECORDS, Lackawanna County, Respondents",
+  "name_abbreviation": "Court of Common Pleas of Lackawanna County v. Pennsylvania Office of Open Records",
+  "decision_date": "2010-08-11",
+  "docket_number": "",
+  "first_page": "810",
+  "last_page": "814",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 810"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "950 A.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8228106
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/950/0382-01"
+      ]
+    },
+    {
+      "cite": "556 A.2d 988",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1387308
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/125/0042-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 1110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        607128,
+        11634027
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0258-01",
+        "/a2d/727/1110-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607128
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "262-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0258-01"
+      ]
+    },
+    {
+      "cite": "507 Pa. 270",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792345
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "274"
+        },
+        {
+          "page": "1327"
+        },
+        {
+          "page": "274"
+        },
+        {
+          "page": "1327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0270-01"
+      ]
+    },
+    {
+      "cite": "744 A.2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11491530
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "800"
+        },
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/744/0798-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 509,
+    "char_count": 10164,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 2.9298463607417934e-07,
+      "percentile": 0.8472607862466113
+    },
+    "sha256": "37231e402b87eff69cd260b6d038029414098ec3b3972748d248b8c9e7e5581b",
+    "simhash": "1:783a26cc471b9af5",
+    "word_count": 1617
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: PELLEGRINI, Judge, and McCULLOUGH, Judge, and BUTLER, Judge."
+    ],
+    "parties": [
+      "COURT OF COMMON PLEAS OF LACKAWANNA COUNTY, Petitioner v. The PENNSYLVANIA OFFICE OF OPEN RECORDS, Lackawanna County, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge PELLEGRINI.\nThe Court of Common Pleas of Lacka-wanna County, through the Administrative Office of Pennsylvania Courts (AOPC), filed this action in our original jurisdiction seeking a declaratory judgment that the Office of Open Records (OOR) does not have the jurisdiction to force Lackawanna County (County) to provide e-mails and correspondence from Patrick Luongo, the Director of the Lackawanna County Office of Domestic Relations (Luongo), to Charles Schillinger, a reporter for The Times Tribune newspaper, and Joseph Pil-chesky, an individual requestor (collectively, Requestors), who requested this information pursuant to the Right-to-Know Law (RTKL). AOPC also seeks an injunction preventing the release of this information.\nThis case has its genesis in a request by Requestor Schillinger, followed soon after by a substantially identical request by Requestor Pilchesky, to the County seeking \u201cinappropriate e-mails from or to any e-mail accounts used by County employee Patrick Luongo related to his suspension.\u201d (AOPC\u2019s motion for summary relief at \u00b6 8.) The County denied the request, and Requestor Schillinger filed an appeal with the OOR. While the matter was on appeal, Ronald C. Mackay, District Court Administrator for the Lack-awanna County Court of Common Pleas, submitted a letter and affidavit to the OOR stating that Luongo was a court employee, that Luongo\u2019s e-mails were records of the judiciary, and that the RTKL was not applicable to the judiciary.\nDespite receiving this evidence, the OOR granted Requestors\u2019 appeal and ordered the County to release the records. The OOR reasoned that Luongo, who is supervised by the judiciary but paid by the County, was a County and not a judiciary employee. Even if he was a judiciary employee, Luongo\u2019s e-mails were records of the County because the County had access to them and control over them as it provided the court with its computer system on which they were located. The OOR also determined that the e-mails were \u201crecords\u201d for purposes of the RTKL and that they did not fall under any exceptions to disclosure. The County did not appeal that decision.\nBecause of the OOR\u2019s determination, AOPC filed the instant action naming the OOR and the County as defendants. The County filed a notice of non-opposition and has not participated in this case, nor has either Requestor. In its petition for review, AOPC seeks a declaratory judgment that the OOR does not have the right to release information, documents or materials that pertain to court employees or court documents stored on county-provided equipment as well as a declaratory judgment that the OOR lacks jurisdiction over requests seeking such information, documents or material. Additionally, AOPC seeks an injunction permanently enjoining both the OOR and the County from ordering the release or releasing the requested information, documents or material.\nBefore us now is the AOPC\u2019s motion for summary relief. In its motion, it contends that Luongo, as Director of the Lackawan-na County Office of Domestic Relations, is a court-supervised employee regardless of the fact that his salary was paid by the County. It argues, therefore, that his emails are judicial records not subject to disclosure by the RTKL and that the OOR had no power or jurisdiction to order the County to release them. AOPC also contends that the OOR\u2019s determination violates the separation of powers doctrine because it has no jurisdiction over court documents and vitiates the general supervisory authority of the Supreme Court of Pennsylvania over all courts and personnel in the unified judicial system. AOPC is correct on both arguments.\nThe RTKL limits the records that judicial agencies must disclose to financial records. As there is no allegation that the records at issue here are financial records, and as it is axiomatic that any record produced by a judicial employee is a record of a judicial agency, we need only consider whether Luongo was a judicial employee in order to decide this case.\nThe RTKL defines judicial agency as \u201c[a] court of the Commonwealth or any other entity or office of the unified judicial system.\u201d The Judicial Code provides that \u201c[ejach court of common pleas shall have a domestic relations section, which shall consist of such probation officers and other staff of the court as shall be assigned thereto.\u201d 42 Pa.C.S. \u00a7 961. As director of the Lackawanna County Office of Domestic Relations, Luongo clearly is an employee of the Lackawanna County Court of Common Pleas and, thus, making him an administrative staff employee of the unified judicial system. See L.J.S. v. State Ethics Commission, 744 A.2d 798 (Pa.Cmwlth.2000) (probation officers are part of judiciary). As such, his records are records of a judicial agency and not subject to the jurisdiction of the OOR.\nThe fact that Luongo was paid by the County does not affect his status as a judicial employee. County of Lehigh v. Pennsylvania Labor Relations Board, 507 Pa. 270, 274, 489 A.2d 1325, 1327 (1985). Likewise, the fact that the County had access to Luongo\u2019s e-mails because it provided the County\u2019s court computer system is irrelevant. Counties in Pennsylvania were created to provide for courts, attendant jails and filing offices. See Article IV, Section 4 of the Pennsylvania Constitution. See also Article XIV, \u00a7\u00a7 1, 2 and 7 of the Pennsylvania Constitution of 1874 (Repealed). Just because the County provides logistic support to the courts does not mean that every record stored on what the County provides as part of its function to support the court makes it a County record \u2014 those records always remain the records of the court. Otherwise, every record ever generated by a County court, including the draft opinions and law clerk memorandums, would be accessible through the RTKL simply by submitting the request to the County instead, an absurd result that would make Section 304 of the RTKL meaningless. See 1 Pa.C.S. \u00a7 1921(a) (\u201cEvery statute shall be construed, if possible, to give effect to all its provisions.\u201d), and 1 Pa.C.S. \u00a7 1922(1) (\u201c[T]he General Assembly does not intend a result that is absurd, impossible of execution or unreasonable.\u201d).\nBesides violating the RTKL, AOPC is correct that the OOR\u2019s order constituted a blatant and unconstitutional violation of the separation of powers doctrine. Separation of powers is inherent in our system of democracy. The Pennsylvania Constitution, like the United States Constitution, establishes three separate, equal and independent branches of government: the legislature, executive and judiciary. Neither the General Assembly nor the executive branch of government, acting through an administrative agency, may constitutionally infringe upon the powers or duties of the judiciary. First Judicial District of Pennsylvania v. Pennsylvania Human Relations Commission, 556 Pa. 258, 727 A.2d 1110 (1999); L.J.S., 744 A.2d at 800. Among the judiciary\u2019s powers is the ability to supervise its own personnel without interference from another branch of government. See First Judicial District, 556 Pa. at 262-63, 727 A.2d at 1112; County of Lehigh, 507 Pa. at 274, 489 A.2d at 1327; L.J.S., 744 A.2d at 801. An inescapable corollary to this power is that no administrative agency may exercise control over the records generated by personnel of a judicial agency.\nBecause the OOR in attempting to expand its jurisdiction overstepped its statutory powers and acted unconstitutionally, AOPC\u2019s motion for summary relief is granted, and the OOR and County are permanently enjoined from releasing any information, documents or materials that in any way pertain to Luongo or other judicial employees that are responsive to Requestors\u2019 requests.\nORDER\nAND NOW, this 11th day of August, 2010, the motion for summary relief of the Court of Common Pleas of Lackawanna County is granted. The Pennsylvania Office of Open Records and Lackawanna County are permanently enjoined from releasing any e-mails or other information, documents or materials pertaining to Patrick Luongo or other employees of the Court of Common Pleas of Lackawanna County responsive to the requests of Charles Schillinger or Joseph Pilchesky.\n. Act of February 14, 2008, P.L. 6, 65 P.S. \u00a7\u00a7 67.101-67.3104.\n. Because of the way we decide this case, we need not consider whether the e-mails are \u201crecords\u201d or whether any exception applies to their disclosure. Any labeling of the information or materials sought as \"records\u201d in this opinion is merely for convenience and does not imply that they are such for purposes of the RTKL.\n. A declaratory judgment is a remedial remedy whose purpose is to settle and afford relief from uncertainty and insecurity with respect to rights, status and other legal relations. It is to be liberally construed and administered. Declaratory Judgment Act, 42 Pa.C.S. \u00a7 7541. The Declaratory Judgment Act is properly invoked when there is a challenge to the scope of a government body's action pursuant to statutory authority. Blackwell v. State Ethics Commission, 125 Pa.Cmwlth. 42, 556 A.2d 988 (1989).\nInjunctive relief is proper where there is a clear right to relief, an injunction is necessary to prevent a harm that is not compensable by damages, and greater injury will result from not granting the injunction than by granting it. See Mazin v. Bureau of Professional and Occupational Affairs, 950 A.2d 382 (Pa. Cmwlth.2008).\n. Section 304 of the RTKL, 65 P.S. \u00a7 67.304.\n. Section 102 of the RTKL, 65 P.S. \u00a7 67.102.\n.Section 102 of the Judicial Code, 42 Pa.C.S. \u00a7 102, defines \u201cadministrative staff\" as \u201c[a]ll individuals employed in the business of a court, including the personnel of the office of the clerk of the court of common pleas ...\u201d",
+        "type": "majority",
+        "author": "Judge PELLEGRINI."
+      }
+    ],
+    "attorneys": [
+      "A. Taylor Williams, Philadelphia, for petitioner.",
+      "Corinna V. Wilson and Lucinda C. Glinn, Harrisburg, for respondent, Office of Open Records."
+    ],
+    "corrections": "",
+    "head_matter": "COURT OF COMMON PLEAS OF LACKAWANNA COUNTY, Petitioner v. The PENNSYLVANIA OFFICE OF OPEN RECORDS, Lackawanna County, Respondents.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs July 9, 2010.\nDecided Aug. 11, 2010.\nA. Taylor Williams, Philadelphia, for petitioner.\nCorinna V. Wilson and Lucinda C. Glinn, Harrisburg, for respondent, Office of Open Records.\nBEFORE: PELLEGRINI, Judge, and McCULLOUGH, Judge, and BUTLER, Judge."
+  },
+  "file_name": "0810-01",
+  "first_page_order": 826,
+  "last_page_order": 830
+}

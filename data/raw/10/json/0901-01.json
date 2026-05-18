@@ -1,0 +1,59 @@
+{
+  "id": 7289735,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Timothy McKINNEY, Appellant",
+  "name_abbreviation": "Commonwealth v. McKinney",
+  "decision_date": "2010-12-28",
+  "docket_number": "No. 19 EAP 2010",
+  "first_page": "901",
+  "last_page": "901",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 253,
+    "ocr_confidence": 0.677,
+    "sha256": "ac477fdc8d49c0452c806c5c7ae881376ac607981cf95e125cd7f89c5ec8b1eb",
+    "simhash": "1:643b6b3422af112e",
+    "word_count": 39
+  },
+  "last_updated": "2023-07-14T20:45:43.314120+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Timothy McKINNEY, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of December, 2010, the Commonwealth\u2019s Motion to Quash Moot Appeal is GRANTED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Timothy McKINNEY, Appellant.\nNo. 19 EAP 2010.\nSupreme Court of Pennsylvania.\nDec. 28, 2010."
+  },
+  "file_name": "0901-01",
+  "first_page_order": 901,
+  "last_page_order": 901
+}

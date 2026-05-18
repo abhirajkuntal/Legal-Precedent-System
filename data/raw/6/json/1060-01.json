@@ -1,0 +1,345 @@
+{
+  "id": 7289739,
+  "name": "Charles KOVLER, Appellant v. BUREAU OF ADMINISTRATIVE ADJUDICATION",
+  "name_abbreviation": "Kovler v. Bureau of Administrative Adjudication",
+  "decision_date": "2010-10-19",
+  "docket_number": "",
+  "first_page": "1060",
+  "last_page": "1067",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "966 A.2d 551",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8160354,
+        8160231,
+        4194353,
+        4194583,
+        4192920,
+        8160185
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0551-03",
+        "/a2d/966/0551-02",
+        "/pa/600/0377-01",
+        "/pa/600/0378-01",
+        "/pa/600/0376-02",
+        "/a2d/966/0551-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 376",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4192920,
+        4194190
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0376-02",
+        "/pa/600/0376-01"
+      ]
+    },
+    {
+      "cite": "958 A.2d 1069",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8206958
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/1069-01"
+      ]
+    },
+    {
+      "cite": "972 A.2d 1276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7299205
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1283"
+        },
+        {
+          "page": "1283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/972/1276-01"
+      ]
+    },
+    {
+      "cite": "991 A.2d 990",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291385
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/0990-01"
+      ]
+    },
+    {
+      "cite": "841 A.2d 108",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9281380,
+        16725
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/841/0108-01",
+        "/pa/576/0622-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16725
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0622-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12052726
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "268"
+        },
+        {
+          "page": "1020-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0254-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 5,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "841 F.2d 1272",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11305550
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/841/1272-01"
+      ]
+    },
+    {
+      "cite": "137 L.Ed.2d 1049",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 1846",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "520 U.S. 1241",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11725792,
+        11725539,
+        11725444,
+        11725636,
+        11725735,
+        11725867,
+        11726187,
+        11726129,
+        11725586,
+        11725684,
+        11726071,
+        11725496,
+        11725949
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/1241-08",
+        "/us/520/1241-03",
+        "/us/520/1241-01",
+        "/us/520/1241-05",
+        "/us/520/1241-07",
+        "/us/520/1241-09",
+        "/us/520/1241-13",
+        "/us/520/1241-12",
+        "/us/520/1241-04",
+        "/us/520/1241-06",
+        "/us/520/1241-11",
+        "/us/520/1241-02",
+        "/us/520/1241-10"
+      ]
+    },
+    {
+      "cite": "103 F.3d 1346",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        991
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1351-52"
+        },
+        {
+          "page": "1350"
+        },
+        {
+          "page": "1352"
+        },
+        {
+          "page": "1352-53",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/103/1346-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "556 Pa. 681",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "711 A.2d 544",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11823714
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "546-47",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/711/0544-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 913,
+    "char_count": 19740,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 4.096757629276062e-07,
+      "percentile": 0.9095414443081431
+    },
+    "sha256": "de7fc08189b6200d94d7256d3abfd4ad2a23b051dea5ed32b1d5f049a5e13044",
+    "simhash": "1:cfed69ec57dbfdf6",
+    "word_count": 3180
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: COHN JUBELIRER, Judge, and BROBSON, Judge, and FRIEDMAN, Senior Judge."
+    ],
+    "parties": [
+      "Charles KOVLER, Appellant v. BUREAU OF ADMINISTRATIVE ADJUDICATION."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge BROBSON.\nAppellant Charles Kovler (Kovler) appeals from an order of the Court of Common Pleas of Philadelphia County (trial court), dated March 15, 2010. The trial court affirmed the decision of the Bureau of Administrative Adjudication (BAA), a division of the City of Philadelphia (City), which found Kovler liable for a parking citation (Ticket) and assessed fines and penalties totaling $61.00. We affirm the trial court.\nThe trial court summarized the relevant factual and procedural history as follows:\nThis appeal arises from a single parking ticket, (the \u201cTicket\u201d), issued September 25, 2008 to [Kovler]. The Ticket was issued to Kovler\u2019s vehicle for parking in a \u201cStopping Prohibited\u201d zone on the 200 Block of South Broad Street in Philadelphia. Kovler had two hearings before the [BAA]. The first hearing was conducted on April 28, 2009, and the second took place on August 4, 2009. Kovler was found liable for the Ticket after both hearings. On August 11, 2009, Kovler appealed the matter to [the trial] [c]ourt under 2 Pa.C.S. \u00a7 754. The certified record was filed with the [trial] court and both Kovler and the BAA filed briefs. [The trial] [c]ourt heard oral arguments on March 4, 2010. On March 15, 2010, [the trial] [c]ourt entered an Order dismissing Kovler\u2019s appeal and affirming the BAA. Kovler now appeals.\n(BAA\u2019s Reproduced Record (R.R.) at 29a.)\nOn appeal, Kovler argues that the BAA\u2019s procedures for adjudicating parking violations are unconstitutional because they deny due process. Kovler also argues that the BAA\u2019s decision is not supported by substantial evidence because the original Ticket is not part of the record.\nWe address, first, Kovler\u2019s argument that the BAA\u2019s procedures for adjudicating parking violations contravene due process. Initially, we note that this Court has not previously addressed the constitutionally of the BAA\u2019s procedures for adjudicating parking violations. Although our opinion in O\u2019Neill v. City of Philadelphia, 711 A.2d 544 (Pa.Cmwlth.), appeal denied, 556 Pa. 681, 727 A.2d 134 (1998), discussed the BAA\u2019s procedures generally, this Court only went so far as to hold that \u201cthere was ... no constitutional or statutory bar to the city by ordinance from transferring the enforcement of all outstanding parking tickets on June 11, 1989 from Traffic Court to the BAA.\u201d Multiple United States Courts of Appeals, however, considering procedures for adjudicating parking violations substantially similar to the BAA\u2019s, have found those procedures to satisfy due process. See Van Harken v. City of Chicago, 103 F.3d 1346 (7th Cir.) (holding Chicago\u2019s system for adjudicating parking violations satisfied due process), appeal denied, 520 U.S. 1241, 117 S.Ct. 1846, 137 L.Ed.2d 1049 (1997); Gardner v. City of Columbus, Ohio, 841 F.2d 1272 (6th Cir.1988) (holding Columbus\u2019s procedures for adjudicating parking violations did not contravene due process).\nKovler\u2019s principal due process argument stems from the ticket writer\u2019s absence from the hearings before the BAA. Kov-ler contends that due process requires the opportunity to cross-examine the ticket writer and that the BAA\u2019s procedures are unconstitutional because only the hearing examiner has the authority to compel the ticket writer\u2019s presence at the hearing pursuant to Section 12-2807(2) of the Philadelphia Code. We disagree.\nFirst and foremost, we find it disingenuous, at best, for Kovler to claim that he was denied the opportunity to cross-examine the ticket writer where Kovler never requested the presence of the ticket writer in the first place. (R.R. at 27a-28a.) Here, the BAA\u2019s procedures provide that the hearing examiner can require the ticket writer to appear at the hearing if the hearing examiner determines that the ticket writer\u2019s presence is required. Phi-la.Code \u00a7 12-2807(2). Not only did Kovler fail to request the ticket writer\u2019s presence at the hearing, Kovler failed to raise any issue that would make the ticket writer\u2019s presence necessary. Kovler did not challenge the date and time, location, or stated reason for the citation, nor any other information provided by the ticket writer.\nFurthermore, the Seventh Circuit in Van Harken held that due process does not require the presence of the ticket writer at every hearing where the ticket is challenged. Van Harken, 103 F.3d at 1351-52. In Van Harken, the City of Chicago\u2019s system for adjudicating parking violations was virtually identical to the BAA\u2019s, including the provisions that parking tickets are prima facie evidence of a violation and that only the hearing examiner can require the ticket writer\u2019s presence at the hearing. Id. at 1350. Similar to Kovler, the appellants in Van Harken argued that due process required the presence of the ticket writer at the hearing. Applying the cost-benefit analysis set forth in Mathews v. Eldridge, 424 U.S. 319, 96 S.Ct. 893, 47 L.Ed.2d 18 (1976), the Seventh Circuit determined that Chicago\u2019s system did not violate due process because the \u201cthe benefits of requiring the [ticket writer] to appear at every hearing are unlikely to exceed the costs.\u201d Id. at 1352. Regarding the benefits, the Seventh Circuit determined that there was only a small likelihood that requiring the ticket writer\u2019s presence would prevent an erroneous result \u2014 i. e., that an innocent driver would be forced to pay a fine. Id. at 1351-52. As to the costs, the Seventh Circuit found that requiring the ticket writer\u2019s presence would cause Chicago to incur substantial monetary costs, diminish the deterrent efficacy of the parking laws, and deprive Chicago of revenues to which it was entitled. Id. at 1351. The Seventh Circuit further explained:\nAssuming that oral testimony is more persuasive in general than written, the only basis on which the plaintiffs can complain about the [ticket writer\u2019s absence is that it prevents them from cross-examining him. In short, they are claiming that they have a right of confrontation. There is no absolute right of confrontation in civil cases. In particular cases, live testimony and cross-examination might be so important as to be required by due process, although the principal case so holding\u2014 Goldberg v. Kelly, 397 U.S. 254, 268, 90 S.Ct. 1011, 1020-21, 25 L.Ed.2d 287 (1970)\u2014may not have much life left after Mathews. Goldberg granted a right of confrontation to persons denied welfare benefits; Mathews withdrew it for persons denied disability benefits. The basis for distinction was the hardship to persons taken off welfare, and of course it has no counterpart here. Moreover, the ordinance empowers the hearing [examiner] to subpoena witnesses. That provides an adequate safety valve for those cases, if any (there may be none), in which fair consideration of the respondent\u2019s defense would require, as a constitutional imperative, the recognition of a right of confrontation.\nId. at 1352 (citations omitted). Though we are not bound by Van Harken, the Seventh Circuit\u2019s reasoning is persuasive and compelling. Based on this reasoning, the ticket writer\u2019s absence from Kovler\u2019s hearing did not constitute a violation of due process.\nWe address, next, Kovler\u2019s argument that the BAA\u2019s decision is not supported by substantial evidence because the original Ticket was not part of the record as required by Section 12-2807(2) of the Philadelphia Code, which provides, in pertinent part:\nThe City shall not be required to submit any evidence other than the parking ticket and information from a state department of motor vehicles identifying the oumer of the vehicle. Such documentation in proper form (including without limitation any facsimile of the original parking ticket and the information from a state department of motor vehicles which has been transferred onto microfilm, computer tape or other form of data storage) shall be considered pri-ma facie evidence that the registered owner of the vehicle was the person who committed the parking violation.\nPhila.Code \u00a7 12-2807(2) (emphasis added). We agree with Kovler that the original Ticket, or a true copy thereof, is absent from the record; however, even if we assume, arguendo, that Section 12-2807(2) of the Philadelphia Code requires the City to submit the original parking ticket as evidence in every hearing before the BAA, we find that the original Ticket\u2019s absence from the record constitutes harmless error in the present matter.\nAt the hearing before the BAA, the hearing examiner stated:\nOK PA TAG PD17121V IS THE VEHICLE. LET\u2019S SEE WHAT WE GOT. THE VEHICLE HAS TWO OPEN TICKETS ON IT. THE ONE SCHEDULED FOR THE APPEAL TODAY IS FOR STOPPING PROHIBITED ON THE 200 BLOCK OF SOUTH BROAD. 12:30 PM ON 9/25/08. WHAT\u2019S THE SITUATION HERE SIR?\n(R.R. at 27a.) Significantly, Kovler did not refute any portion of the above statement during the hearing. It is undisputed, therefore, that Kovler received a parking ticket on September 25, 2008, at 12:30 p.m., for parking in a stopping prohibited zone on the 200 Block of South Broad Street. These are the exact facts that would be established by the original Ticket.\nFurthermore, not only did Kovler fail to refute the above quoted statement of the hearing examiner, Kovler presented photographs \u2014 apparently in an attempt to dispute the validity of the Ticket \u2014 showing his vehicle parked in a stopping prohibited zone on the date and time in question. (R.R. at 16a.)- The following dialogue regarding the photographs occurred between Kovler and the hearing examiner at the hearing:\nKovler: LAST HEARING, I DIDN\u2019T HAVE PICTURES. I HAD A CELL PHONE.\nHearing Examiner: YOU DIDN\u2019T HAVE PICTURES?\nKovler: YES, NOW I HAVE PICTURES. THESE WERE TAKEN 9/25. THIS GUY HERE GOT A TICKET TOO. IF YOU DON\u2019T BELIEVE THESE PICTURES WERE TAKING [sic] AT THE SCENE THERE IS NOTHING THERE, THERE\u2019S NOTHING ON THE METER THAT SAYS NO STOPPING. THIS [sic] ARE LIG-ITIMATE [sic] PARKING SPACES.\nHearing Examiner: OK. WHERE\u2019S THE VEHICLE? RIGHT HERE?\nKovler: THAT\u2019S MY VEHICLE.\nHearing Examiner: OK. SO THERE\u2019S THE SIGN. IT\u2019S EITHER YOU ARE IN A HANDICAP, WHICH HALF OF YOUR VEHICLE IS, AND HALF OF IT IS IN A STOPPING PROHIBITED. Kovler: WELL THAT\u2019S BECAUSE THE GUY IN FRONT OF ME IS WAY OVER. HE\u2019S IN A STANDARD VEHICLE.\nHearing Examiner: OK I UNDERSTAND THAT BUT STILL IF THEY GIVE YOU SOMETHING FOR STOPPING PROHIBITED YOU [sic] VEHICLE IS PASSED THE SIGNS.\nKovler: YOU GOT TO BE KIDDING.\nHearing Examiner: I AM NOT KIDDING SIR. YOUR PHOTOS, AS EVIDENCE, SHOW THAT YOUR VEHICLE IS MOSTLY IN THE STOPPING PROHIBITED.\nKovler: I WOULD [sic] SAY MOSTLY, TWO-THIRDS IS IN THE HANDICAP SPOT.\nHearing Examiner: I WOULDN\u2019T SAY AT MOST, A QUARTER OF THE VEHICLE IS IN THE HANDICAP SPOT, MAYBE. SO THIS IS A GOOD TICKET.\nKovler: OK LET\u2019S SEE WHAT THEY SAY IN THE NEXTCOURT [sic],\n(R.R. 27a-28a.)\nTo recap: Kovler did not dispute receiving a parking ticket on September 25, 2008, at 12:30 p.m. for parking in a stopping prohibited zone on the 200 Block of South Broad Street; the only evidence submitted by Kovler to dispute the validity of the Ticket at the hearing were photographs showing Kovler\u2019s vehicle parked in a stopping prohibited zone on the date and time in question; and, in discussing the photographs at the hearing, Kovler admitted that his vehicle was partially parked in a stopping prohibited zone. The hearing examiner\u2019s decision, therefore, is supported by substantial evidence in the record.\nAccordingly, we affirm.\nORDER\nAND NOW, this 19th day of October, 2010, the order of the Court of Common Pleas of Philadelphia County, dated March 15, 2010, is hereby AFFIRMED.\n. Where the trial court does not take any additional evidence, our scope of review over the decision of a local agency is limited to determining whether constitutional rights were violated, whether an error of law was committed, whether the procedure before the local agency was contrary to statute, and whether necessary findings of fact are supported by substantial evidence. 2 Pa.C.S. \u00a7 754(b).\n. Kovler's brief does not specify whether the BAA's procedures violate the due process clause of the United States Constitution, the Pennsylvania Constitution, or both. Nevertheless, the due process provisions of the United States and Pennsylvania constitutions are generally treated as coextensive. Dep\u2019t of Transp. v. Taylor, 576 Pa. 622, 633 n. 6, 841 A.2d 108, 114 n. 6 (2004). This Court's due process analysis, therefore, is the same under both federal and state law.\n.Both the BAA and the trial court below cite O'Neill for the proposition that the BAA's procedures for adjudicating parking violations have been held to be constitutionally adequate. Based on our review, the only passage from the O\u2019Neill opinion even remotely supporting such a proclamation is the following excerpt from this Court\u2019s summation of the trial court\u2019s decision:\nThe trial court also observed that while the City did not warn Appellants that they might lose access to Traffic Court, the City did provide them with an alterative procedure that it is adequate under due process standards. Thus, the trial court concluded that Appellants at most suffered a deprivation of process \u2014 not property \u2014 without due process, which does not constitute a violation of their Constitutional rights.\nO'Neill, 711 A.2d at 546-47 (emphasis added). Nowhere in the O'Neill opinion, however, does this Court expressly adopt the above quoted observation of the trial court, let alone discuss the constitutional adequacy of the BAA\u2019s procedures for the purposes of due process. O'Neill, therefore, does not stand for the proposition for which it has been cited by the BAA and trial court.\n. Section 12-2807(2) of the Philadelphia Code provides, in pertinent part:\n(2) The officer issuing the ticket shall not be required to appear at the hearing unless the respondent has denied liability and the Parking Hearing Examiner determines that the officer\u2019s presence is required.\nPhila.Code \u00a7 12-2807(2).\n. In Mathews, the Supreme Court set forth the following factors for determining the procedural minima required by due process:\nFirst, the private interest that will be affected by the official action; second, the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and finally, the Government's interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedural requirement would entail.\nMathews, 424 U.S. at 335, 96 S.Ct. 893.\n. Kovler also argues that the BAA\u2019s procedures violate due process because the hearing examiner was biased in favor of the City. Kovler, however, makes no showing of bias other than the fact that hearing examiners are employees of the City. A similar argument was rejected by the Seventh Circuit in Van Harken, where the appellants argued that hearing examiners were unconstitutionally biased because they were \"hired by, and [could] be fired at will by, the City[ of Chicago]\u2019s Director of Revenue, who may want to maximize the City\u2019s 'take' from parking tickets.\u201d Van Harken, 103 F.3d at 1352. As the Seventh Circuit stated:\n[W]e do not think that the adjudicative reliability of the hearing [examiners] is fatally compromised by the manner of their appointment and by their lack of secure tenure. The [examiners] are not paid by the number of hearings that they resolve against the respondent; they are not paid any portion of the fines they impose ...; they have no quota of fines that they must impose on pain of losing their jobs or having their pay reduced; and they have no other financial stake in the outcome of the cases that they adjudicate.... If their very indirect, very tenuous stake (a fear that if a hearing [examiner] lets off too many alleged parking violators, the Director of Revenue may get angry and fire him) were enough to disqualify them on constitutional grounds, elected judges, who face significant pressure from the electorate to be \"tough\u201d on crime, would be disqualified from presiding at criminal trials, especially in capital cases. They are not.\nId. at 1352-53 (citations omitted). Accordingly, BAA hearing examiners are not constitutionally disqualified from presiding over parking violations based solely on their status as employees of the City.\n. \u201cSubstantial Evidence is relevant evidence that a reasonable mind might consider adequate to support a conclusion.\" In re Collegium Found., 991 A.2d 990, 992 n. 6 (Pa. Cmwlth.2010).\n. Section 12-2804(5) of the Philadelphia Code further provides:\n(5) The original parking ticket shall be signed by the issuing officer who shall affirm the truth of the facts set forth therein. The original ticket or any true copy thereof (or any facsimile of the original ticket transferred onto microfilm, computer tape, or other form of data storage) shall be considered a record kept in the ordinary course of business of the City and shall be prima facie evidence of the facts contained therein.\nPhila.Code \u00a7 12-2804(5).\n. Although the BAA contends that Kovler appeared at the hearing with the original Ticket and that the original Ticket was used by the hearing examiner in making his determination, the original Ticket is not part of the official record and we are unable to discern from the hearing transcript exactly what information was before the hearing examiner.\n. We further note that Kovler did not raise any objection concerning the absence of the original Ticket at the hearing before the BAA. Kovler\u2019s argument in this regard is therefore waived. See Mitman v. Police Pension Comm'n of City of Easton, 972 A.2d 1276, 1283 (Pa.Cmwlth.2009) (holding issues not raised before local agency are waived).\n. Kovler argues that the photographs do not depict the exact position of his vehicle at the time the Ticket was issued because the photographs were taken after he backed up a few feet from where he was originally parked. This argument, however, was made for the first time in Kovler\u2019s brief to the trial court. (Original Record (O.R.) at 52.) Issues not raised before the local agency are waived on appeal. Mitman, 972 A.2d at 1283. Furthermore, even if we were to accept Kovler's contention that he backed up his vehicle before taking the photographs, Kovler admitted that \"the rear of his vehicle [was] no more than a foot beyond the pole\u201d (marking the beginning of the stopping prohibited zone) as originally parked. (O.R. at 52.)\n. Kovler also appears to argue that the trial court should not have considered this matter as an appeal. Rather, Kovler contends that the trial court should have required the City to file a civil complaint under the Pennsylvania Rules of Civil Procedure to allow the matter to be fully litigated. Kovler envisions a process involving discovery and a full civil trial; however, Kovler offers no legal support for such a contention. See Boniella v. Com., 958 A.2d 1069, 1072 n. 8 (Pa.Cmwlth.2008) (holding issue spotting without legal citation precludes appellate review), appeal denied sub nom. In re Handgun, 600 Pa. 376, 966 A.2d 551 (2009). Furthermore, our review of the relevant caselaw in this area reveals no infirmities with the procedural process utilized by the trial court. The appeal properly proceeded under the Local Agency Law, 2 Pa.C.S. \u00a7\u00a7 551-555, 751-754, and Kovler does not appear to contend that the procedures of the Local Agency Law were not followed.",
+        "type": "majority",
+        "author": "Judge BROBSON."
+      }
+    ],
+    "attorneys": [
+      "Charles Kovler, Holland, for appellant.",
+      "Nicholas W. Mattiacci, Philadelphia, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Charles KOVLER, Appellant v. BUREAU OF ADMINISTRATIVE ADJUDICATION.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs July 16, 2010.\nDecided Oct. 19, 2010.\nCharles Kovler, Holland, for appellant.\nNicholas W. Mattiacci, Philadelphia, for appellee.\nBEFORE: COHN JUBELIRER, Judge, and BROBSON, Judge, and FRIEDMAN, Senior Judge."
+  },
+  "file_name": "1060-01",
+  "first_page_order": 1106,
+  "last_page_order": 1113
+}

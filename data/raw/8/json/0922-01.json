@@ -1,0 +1,104 @@
+{
+  "id": 7288530,
+  "name": "THE ROAD TOAD, INC., Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (McLEAN), Respondent",
+  "name_abbreviation": "Road Toad, Inc. v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-08-12",
+  "docket_number": "",
+  "first_page": "922",
+  "last_page": "924",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 922"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "34 Pa. Code \u00a7 127.556",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "761 A.2d 1258",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11164105
+      ],
+      "pin_cites": [
+        {
+          "page": "1262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/1258-01"
+      ]
+    },
+    {
+      "cite": "887 A.2d 817",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9003583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/887/0817-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 327,
+    "char_count": 5798,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1882947615864863
+    },
+    "sha256": "2711cce53c00c2e5e35a1825dbc6336b6b77c7539d116b2fde57df02899150f9",
+    "simhash": "1:5a8e4f99605ac7cf",
+    "word_count": 932
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+    ],
+    "parties": [
+      "THE ROAD TOAD, INC., Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (McLEAN), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nPresident Judge LEADBETTER.\nEmployer, The Road Toad, Inc., petitions for review of the order of the Workers\u2019 Compensation Appeal Board (Board) that reversed the order of the Workers\u2019 Compensation Judge (WCJ) granting Employer\u2019s petitions for review of a Utilization Review (UR) determination and to review medical treatment and/or billing in the case of Claimant Mary Lou McLean. We reverse.\nIn 1996, Claimant sustained a work-related head injury, causing her to lose the use of her right arm, right leg and right eye, and causing scarring and disfigurement to her head and neck. After the injury, Employer paid for unskilled home assistance to Claimant eight hours a day, five days a week. In 2002, Claimant filed a Request for UR, seeking an increase in her home assistance to twelve hours a day, seven days a week, and referrals to occupational, speech and physical therapy. The reviewer found that the increase in assistance and the referrals were reasonable and necessary. Following that finding, Employer filed a Petition for Review of UR Determination, which was assigned to a WCJ. Thereafter, Employer filed a Petition to Review Medical Treatment and/or Billing, which alleged that it was being billed for non-health related services, including housekeeping services. Prior to the hearing, Employer authorized an increase in Claimant\u2019s care to eight hours a day, seven days a week.\nAt the hearing, Employer presented the deposition testimony of Dr. Brian Ernstoff, who stated that the Claimant\u2019s condition had not changed, and that assistance twelve hours a day was not necessary. In addition, Employer presented the testimony of several of Claimant\u2019s home assistants, who stated that a portion of their time at Claimant\u2019s house was spent doing housekeeping duties. Claimant presented the testimony of Dr. Laura Shymansky, her treating physician, who recommended assistance of twelve hours a day. The WCJ found that Dr. Ernstoff and the assistants were credible, and that Dr. Shy-mansky\u2019s testimony was not credible and equivocal. The WCJ concluded that the referrals were not necessary, and that assistance eight hours a day, seven days a week was all that was medically required. In addition, the WCJ found that Employer had been billed for non-health care related services, specifically the home assistants\u2019 housekeeping work.\nClaimant appealed to the Board, arguing that because Dr. Ernstoff did not examine Claimant until after the Petition for Review of UR Determination was filed, the WCJ erred in relying on the doctor\u2019s testimony. The Board agreed, and reversed the WCJ as to both petitions. Employer appealed to this court.\nIt is undisputed that Dr. Ernstoff examined the Claimant after the Employer filed the Petition for Review of UR Determination, but before it filed the Petition to Review Medical Treatment and/or Billing. Claimant argues, and the Board agreed, that under United States Steel Corporation v. Workers\u2019 Comp. Appeal Bd. (Luczki), 887 A.2d 817 (Pa.Cmwlth.2005) (en banc), the testimony of Dr. Ernstoff should not have been considered by the WCJ. This was error, and a misapplication of Luczki.\nIn Luczki, this court held that when an employer appeals from a UR determination without contrary medical evidence in its possession at the time of filing, the employer has not presented a reasonable contest, and attorney\u2019s fees may be awarded to the Claimant. The Board in this case held that because Dr. Ernstoff s exam did not take place until after the petition was filed, his \u201copinion was not competent to support [Employer\u2019s] burden of proof to justify a deviation from the recommendation of the URO reviewer.\u201d Board Opinion at 4. This was a misapplication of our ruling in Luczki. Luczki dealt only with what constituted a \u201creasonable contest,\u201d as the term is used in Section 440 of the Workers\u2019 Compensation Act (Act), which deals with attorney\u2019s fees. Luczki does not deal with what evidence is competent to be considered by the WCJ on the merits, nor does it provide support for the Board\u2019s conclusion that the WCJ erred in considering Dr. Ernstoff s testimony.\nIn fact, this court has held that WCJ review of a UR determination \u201cis a de novo proceeding\u201d in which \u201ceither party is free to offer evidence beyond that considered in the UR process in meeting their burden of proof.\u201d Seamon v. Workers\u2019 Comp. Appeal Bd. (Sarno & Son Formals), 761 A.2d 1258, 1262 (Pa.Cmwlth.2000), citing 34 Pa. Code \u00a7 127.556. The WCJ properly considered Dr. Ernstoffs testimony, and it was therefore error for the Board to reverse the WCJ.\nAccordingly, we reverse.\nORDER\nAND NOW, this 12th day of August, 2010, the order of the Workers\u2019 Compensation Appeal Board in the above-captioned matter is hereby REVERSED.\n. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. \u00a7 996.\n. 34 Pa.Code \u00a7 127.556 states:\nThe hearing before the workers\u2019 compensation judge shall be a de novo proceeding. The URO report shall be part of the record before the workers\u2019 compensation judge and the workers\u2019 compensation judge shall consider the report as evidence. The workers\u2019 compensation judge will not be bound by the URO report.\n.Employer also argues that Claimant did not perfect an appeal to the Board with respect to the Petition to Review Medical Treatment and/or Billing. Because our ruling reverses the Board with respect to both petitions, we see no reason to address this argument.",
+        "type": "majority",
+        "author": "President Judge LEADBETTER."
+      }
+    ],
+    "attorneys": [
+      "James M. Poerio, Pittsburgh, for petitioner.",
+      "Dennis N. Persin, Greensburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "THE ROAD TOAD, INC., Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (McLEAN), Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs July 2, 2010.\nDecided Aug. 12, 2010.\nPublication Ordered Nov. 1, 2010.\nJames M. Poerio, Pittsburgh, for petitioner.\nDennis N. Persin, Greensburg, for respondent.\nBEFORE: LEADBETTER, President Judge, and LEAVITT, Judge, and KELLEY, Senior Judge."
+  },
+  "file_name": "0922-01",
+  "first_page_order": 948,
+  "last_page_order": 950
+}

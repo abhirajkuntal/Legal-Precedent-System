@@ -1,0 +1,742 @@
+{
+  "id": 7287778,
+  "name": "Melvin DAY, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (CITY OF PITTSBURGH), Respondent",
+  "name_abbreviation": "Day v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-10-18",
+  "docket_number": "",
+  "first_page": "633",
+  "last_page": "646",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 633"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "948 A.2d 221",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8243748
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/948/0221-01"
+      ]
+    },
+    {
+      "cite": "989 A.2d 57",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289323
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0057-01"
+      ]
+    },
+    {
+      "cite": "233 A.2d 891",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "894"
+        },
+        {
+          "page": "895"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "427 Pa. 5",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1910422
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "7"
+        },
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/427/0005-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 378",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11184483,
+        1367007
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0378-01",
+        "/pa/563/0313-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 313",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1367007
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0313-01"
+      ]
+    },
+    {
+      "cite": "823 A.2d 284",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9122939
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/823/0284-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Stat. 620",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 A.3d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290650
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "1138"
+        },
+        {
+          "page": "1136-37",
+          "parenthetical": "claimant eligible to receive WC benefits despite receipt of a municipal disability pension"
+        },
+        {
+          "page": "1138"
+        },
+        {
+          "page": "1138-39"
+        },
+        {
+          "page": "1138-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/4/1130-01"
+      ]
+    },
+    {
+      "cite": "104 A.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 7,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "107"
+        },
+        {
+          "page": "105"
+        },
+        {
+          "page": "108"
+        },
+        {
+          "page": "107"
+        },
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "377 Pa. 7",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1249538
+      ],
+      "weight": 3,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "9"
+        },
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/377/0007-01"
+      ]
+    },
+    {
+      "cite": "640 A.2d 1266",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872209,
+        775537
+      ],
+      "weight": 6,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1267"
+        },
+        {
+          "page": "1268",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "1268-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/640/1266-01",
+        "/pa/537/0032-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775537
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0032-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8975554
+      ],
+      "weight": 7,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "265"
+        },
+        {
+          "page": "264"
+        },
+        {
+          "page": "267",
+          "parenthetical": "Friedman, J., concurring"
+        },
+        {
+          "page": "264",
+          "parenthetical": "Hr'g Tr. citations omitted"
+        },
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/872/0263-01"
+      ]
+    },
+    {
+      "cite": "806 A.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11355997
+      ],
+      "pin_cites": [
+        {
+          "page": "966"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/806/0962-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 240",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808596
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "252"
+        },
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0240-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 911",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11335426,
+        461597
+      ],
+      "weight": 8,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "913"
+        },
+        {
+          "page": "912"
+        },
+        {
+          "page": "913"
+        },
+        {
+          "page": "913"
+        },
+        {
+          "page": "913"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/669/0911-01",
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461597
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "79"
+        },
+        {
+          "page": "76"
+        },
+        {
+          "page": "79"
+        },
+        {
+          "page": "79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "669 A.3d 911",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "913"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "4 A.3d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290650
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/4/1130-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8975554
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/872/0263-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461597
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "79"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "747 A.2d 850",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11475161,
+        95798
+      ],
+      "year": 2000,
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/747/0850-01",
+        "/pa/560/0618-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 618",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95798
+      ],
+      "year": 2000,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/560/0618-01"
+      ]
+    },
+    {
+      "cite": "569 A.2d 1038",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1399098
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1040",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa-commw/131/0218-01"
+      ]
+    },
+    {
+      "cite": "611 A.2d 352",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1433501
+      ],
+      "year": 1992,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa-commw/148/0343-01"
+      ]
+    },
+    {
+      "cite": "882 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8915082
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/882/0001-01"
+      ]
+    },
+    {
+      "cite": "886 A.2d 1160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8903724
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/886/1160-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 176",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7288034
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/990/0176-01"
+      ]
+    },
+    {
+      "cite": "2 A.3d 689",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7289210
+      ],
+      "pin_cites": [
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a3d/2/0689-01"
+      ]
+    },
+    {
+      "cite": "640 A.2d 1266",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872209,
+        775537
+      ],
+      "year": 1994,
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/640/1266-01",
+        "/pa/537/0032-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775537
+      ],
+      "year": 1994,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/537/0032-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8975554
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/872/0263-01"
+      ]
+    },
+    {
+      "cite": "806 A.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11355997
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/806/0962-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 911",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11335426,
+        461597
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "912"
+        },
+        {
+          "page": "913"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/669/0911-01",
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461597
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "76-77"
+        },
+        {
+          "page": "79"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/543/0074-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1239,
+    "char_count": 40004,
+    "ocr_confidence": 0.716,
+    "pagerank": {
+      "raw": 1.359600625354857e-07,
+      "percentile": 0.6352229415691802
+    },
+    "sha256": "c61f29d5e43edd2a94ff131643c27198c3873bd946bec6dcf259f9b4d15ff994",
+    "simhash": "1:e20efc42f5eab79b",
+    "word_count": 6495
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and BROBSON, Judge, and McCullough, Judge."
+    ],
+    "parties": [
+      "Melvin DAY, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (CITY OF PITTSBURGH), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge COHN JUBELIRER.\nMelvin Day (Claimant) petitions for review of the order of the Workers\u2019 Compensation Appeal Board (Board), which affirmed the decision and order of the Workers\u2019 Compensation Judge (WCJ). In her decision and order, the WCJ granted the Petition to Suspend Compensation Benefits (Suspension Petition) filed by the City of Pittsburgh (Employer) on the grounds that Claimant had retired and failed to show either that he was forced to retire from the entire workforce due to his work-related injury or that he was looking for work.\nClaimant began working as a helper in Employer\u2019s sanitation department in 1978 or 1979 and later became a driver. As a driver, Claimant\u2019s duties included driving a truck and picking up garbage and discarding items of varying weights. On March 19, 1992, Claimant injured his neck. Through a Notice of Compensation Payable, Employer accepted Claimant\u2019s injury as a cervical strain. Claimant underwent surgery for his neck injury and returned to his pre-injury position in 1993 or 1994. Claimant could not continue in this position, however, and began working for Employer in modified, light-duty positions in 1995 or 1996, usually as a custodian. Employer laid Claimant off in 2000 or 2001.\nAfter Employer laid him off Claimant applied for, and received, Unemployment Compensation (UC) benefits. While receiving UC benefits, Claimant looked for light-duty jobs, but was unable to find any. When his UC benefits ran out sometime in 2000 or 2001, Claimant applied for, and received, a Social Security pension, as well as a pension from Employer. Claimant did not look for work after his UC benefits ran out; instead, he began collecting his Social Security pension. Claimant also received temporary total disability workers\u2019 compensation (WC) payments. At Employer\u2019s request, Claimant underwent an independent medical examination by David Vermeire, M.D., who determined that Claimant was capable of full-time, medium-duty work. On the basis of Dr. Vermeire\u2019s opinion, Employer sent Claimant a Notice of Ability to Return to Work on December 8, 2007. Employer filed its Suspension Petition on December 11, 2007, seeking to suspend Claimant\u2019s benefits on the grounds that he had voluntarily withdrawn from the workforce.\nHearings were held before the WCJ on Employer\u2019s Suspension Petition on January 28, 2008, February 20, 2008, July 7, 2008, and October 27, 2008. Claimant testified on his own behalf. During his testimony, Claimant stated that he believed he could perform custodial work of the type he had previously performed for Employer. (WCJ Hr\u2019g Tr. at 15, February 20, 2008.) Claimant also testified that he had not looked for work after he stopped receiving UC and began receiving his pensions. (WCJ Hr\u2019g Tr. at 9-10.) Claimant also testified that he was aware that he had been released to work with restrictions, \u201c[mjodified to lifting no more than like 30 pounds, no sudden movements, no staring up.\u201d (WCJ Hr\u2019g Tr. at 10.) Claimant did not introduce any medical evidence. Employer introduced the deposition testimony of Deborah Curry, a senior claims examiner for Employer\u2019s insurer, and Dr. Vermeire. The WCJ credited Claimant\u2019s testimony that he looked for modified-duty work while receiving UC benefits, but stopped looking for work after he retired. (WCJ Decision, Findings of Fact (FOF) \u00b6 6(a).) On this basis, the WCJ concluded that Claimant had voluntarily removed himself from the workforce and granted the Suspension Petition.\nClaimant appealed the WCJ\u2019s decision to the Board. Before the Board, Claimant argued that the WCJ erred in determining that Claimant had voluntarily removed himself from the workforce and that, pursuant to Supreme Court precedent, when an injured claimant stops working due to his work-related injury, \u201c[t]he [e]mployer has the burden of proof that it either offered the injured [claimant] a modified job or directed the injured [claimant] to a then open position with another employer.\u201d (Appeal From Judge\u2019s Findings of Fact and Conclusions of Law at 1, April 3, 2009.) Citing Southeastern Pennsylvania Transportation Authority v. Workmen\u2019s Compensation Appeal Board (Henderson), 543 Pa. 74, 669 A.2d 911 (1995), the Board stated that \u201c[f]or compensation to continue after the claimant retires the claimant must prove (1) that he or she is seeking employment after retirement or (2) that the employee was forced into retirement because of the work-related injury.\u201d (Board Op. at 3.) The Board concluded that Claimant\u2019s testimony, that he did not look for work after he began receiving his Social Security pension, provided substantial evidence for the WCJ\u2019s finding that Claimant voluntarily removed himself from the workforce. (Board Op. at 4-5.) The Board affirmed the WCJ\u2019s order. Claimant now petitions this Court for review of the Board\u2019s order.\nBefore this Court, Claimant argues that the WCJ and the Board improperly shifted the burden of proof to Claimant to show that he was still looking for work after taking his Social Security pension, rather than requiring Employer to show that suitable jobs were available for Claimant. Claimant argues that the WCJ\u2019s and the Board\u2019s determination that Claimant voluntarily withdrew from the workforce was in error and that the Board\u2019s order affirming the WCJ\u2019s order suspending Claimant\u2019s WC benefits should be reversed. For the following reasons, we disagree.\nGenerally, in order to suspend a claimant\u2019s WC benefits, an employer must meet the following requirements:\n1. The employer who seeks to modify a claimant\u2019s benefits on the basis that he has recovered some or all of his ability must first produce medical evidence of a change in condition.\n2. The employer must then produce evidence of a referral (or referrals) to a then open job (or jobs), which fits in the occupational category for which the claimant has been given medical clearance, e.g., light work, sedentary work, etc.\n3. The claimant must then demonstrate that he has in good faith followed through on the job referral(s).\n4. If the referral fails to result in a job then claimant\u2019s benefits should continue.\nKachinski v. Workmen\u2019s Compensation Appeal Board (Vepco Construction Co.), 516 Pa. 240, 252, 532 A.2d 374, 380 (1987). Pursuant to Section 306(b)(2) of the Workers\u2019 Compensation Act (Act), an employer may prove its entitlement to a suspension or modification of benefits by referring a claimant to an available position as required by Kachinski, or by \u201cestablishing the claimant\u2019s] \u2018earning power\u2019 through expert opinion evidence including job listings with employment agencies, agencies of the Department of Labor and Industry, and advertisements in a claimant\u2019s usual area of employment.\u201d South Hills Health System v. Workers' Compensation Appeal Board (Kiefer), 806 A.2d 962, 966 (Pa.Cmwlth.2002).\nHowever, an employer is not required to prove the availability of suitable work when a claimant voluntarily removes himself from the labor market through retirement. See Henderson, 543 Pa. at 79, 669 A.2d at 913. Where a claimant has voluntarily retired, the claimant has the. burden of showing either that his work-related injury has forced him out of the entire workforce or that he is looking for work after retirement. Id.; County of Allegheny (Department of Public Works) v. Workers\u2019 Compensation Appeal Board (Weis), 872 A.2d 263, 265 (Pa.Cmwlth. 2005). In this case, the Board held that Claimant failed to show either that his work-related injury forced him out of the entire workforce or that he was continuing to look for work. Claimant argues that the Board\u2019s application of Supreme Court precedent regarding retirement in WC cases, and this Court\u2019s case law interpreting that precedent, go too far and place an unfair burden on a claimant who is discharged by his time-of-injury employer from a modified-duty job. In order to properly address Claimant\u2019s arguments, it is necessary first to discuss the line of cases leading up to the current standard. The current standard grew out of Supreme Court case law that framed the issue of how post-retirement WC benefits should be handled in terms of the traditional definition of disabilitv in workers\u2019 compensation law.\nIn Republic Steel Corp. v. Workmen\u2019s Compensation Appeal Board (Petrisek), 537 Pa. 32, 640 A.2d 1266 (1994), the claimant voluntarily retired from work as a coal miner in 1981 and filed a claim petition for pneumoconiosis in 1988. Id. at 33, 640 A.2d at 1267. The referee and the Board found that the claimant was entitled to compensation. Id. at 34, 640 A.2d at 1267 The employer appealed, arguing that the claimant was not entitled to benefits because he had voluntarily retired, had no intention of returning to work and, therefore, suffered no wage loss associated with his occupational disease. Id. In analyzing this argument the Supreme Court examined its decision in Unora v. Glen Alden Coal Co., 377 Pa. 7, 104 A.2d 104 (1954). In U\u00f1ara, the Supreme Court stated that, while physical impairment was one element of disability for purposes of the Act, \u201cthe second ingredient [of disability] is de facto inability to earn wages, as evidenced by proof that claimant has not in fact earned anything.\u201d Id. at 12, 104 A.2d at 107. The Supreme Court went on to state that \u201c[t]he proper balancing of the medical and the wage-loss factors, is, then, the essence of the \u2018disability\u2019 problem in workmen\u2019s compensation.\u201d Id. (quoting 2 Arthur Larson, Law of Workmen\u2019s Compensation \u00a7 57.10 at 2-3 (1952)). Based on these statements the Supreme Court, in Republic Steel, interpreted U\u00f1ara for the principle that \u201centitlement to benefits under the Act is contingent upon proof that the claimant suffered an injury or disease in the work place and the injury or disease affects his or her ability to earn a wage.\u201d Republic Steel, 537 Pa. at 36, 640 A.2d at 1268 (emphasis in original). The Supreme Court held that, because the claimant had retired, there was no evidence in the record that the claimant had suffered any loss of earning power due to his occupational disease and, therefore, the claimant was not entitled to benefits. Id. at 36, 38 n. 3, 640 A.2d at 1268-69,1270 n. 3.\nIn Henderson, the claimant injured his knee while working for the employer and received total disability benefits pursuant to a notice of compensation payable. He returned to a light-duty position with the employer and his benefits were modified to partial disability. Later he returned to total disability, but then went back to partial disability. Further litigation followed about his proper disability status. The claimant testified \u201cthat he was receiving Social Security retirement benefits and that he was applying for a pension from [the employer] on his 65th birthday, June 18, 1989.\u201d Henderson, 543 Pa. at 76, 669 A.2d at 912. There was also \u201cevidence that he began receiving pension benefits on July 1, 1989.[The claimant] testified that he was not looking for work.\u201d Id. Therefore, the WCJ determined that the claimant was retired as of July 1,1989 and not entitled to further WC disability compensation. The Board reversed the WCJ, and this Court affirmed the Board on the grounds that \u201cthere must also be unequivocal evidence that the claimant has no intention of seeking employment after retirement.\u201d Id. The Supreme Court reversed this Court, stating:\nIt is clear that disability benefits must be suspended when a claimant voluntarily leaves the labor market upon retirement. The mere possibility that a retired worker may, at some future time, seek employment does not transform a voluntary retirement from the labor market into a continuing compensable disability. An employer should not be required to show that a claimant has no intention of continuing to work; such a burden of proof would be prohibitive. For disability compensation to continue following retirement, a claimant must show that he is seeking employment after retirement or that he was forced into retirement because of his work-related injury.\nId. at 79, 669 A.2d at 913.\nThis Court interpreted Henderson in Weis. In Weis, the claimant injured his knee in 1981. Weis, 872 A.2d at 264. The employer paid benefits under a notice of compensation payable until 2001, at which time it filed a suspension petition on the ground that the claimant had voluntarily withdrawn from the workforce. Id. At some point prior to the employer\u2019s filing of the suspension petition, the claimant applied for a disability retirement pension with his employer. Id. at 267 (Friedman, J., concurring). [The claimant testified before the WCJ that \u201c[h]e never returned to work after his retirement, although he intended to \u2018if they got my knee straightened out.\u2019 The claimant did not seek work after his retirement.\u201d Weis, 872 A.2d at 264 (Hr\u2019g Tr. citations omitted). Relying on Henderson, this Court stated that, where a claimant retires, an employer does not have to show the availability of suitable work in a suspension proceeding as it would normally have to do pursuant to Kachinski. Id. at 265. In addition, citing Henderson and Republic Steel, this Court held that the claimant had to show he was forced out of the entire labor market rather than just his pre-injury job. Id.\nClaimant argues that: (1) to presume that a claimant who accepts a pension has retired goes against the legislative intent behind the Act, as evidenced by Section 204(a) of the Act; and (2) this Court\u2019s case law interpreting Henderson essentially presumes that merely because a claimant is capable of performing some work, work of that type is generally available, and that this presumption is contrary to the spirit of the Act as a whole, to Section 306(b)(2) of the Act in particular, and to decades of Supreme Court precedent.\nWe first address Claimant\u2019s argument that it is contrary to the legislative intent behind the Act, as evidenced by Section 204(a) of the Act, to presume that a claimant who accepts a pension is retired. In City of Pittsburgh v. Workers\u2019 Compensation Appeal Board (Robinson), 4 A.3d 1130 (Pa.Cmwlth.2010) (en banc), this Court held that, in order to prove that a claimant has retired for purposes of the Henderson standard, the \u201cemployer must show, by the totality of the circumstances, that the claimant has chosen not to return to the workforce.\u201d Id., 4 A.3d at 1138. This Court went on to state that:\n[c]ircumstances that could support a holding that a claimant has retired include: (1) where there is no dispute that the claimant retired; (2) the claimant\u2019s acceptance of a retirement pension; or (3) the claimant\u2019s acceptance of a pension and refusal of suitable employment within h[is] restrictions.\nId. In this case, Claimant testified that he took a \u201cregular pension\u201d after his UC benefits ran out and that he applied for, and received, Social Security benefits. (WCJ Hr\u2019g Tr. at 9-10.) Claimant also testified that he did not look for work beyond initially registering at the unemployment center when he was first laid off in 2000 or 2001. The totality of the circumstances here, including Claimant\u2019s acceptance of a pension from Employer, and a Social Security pension after receiving and exhausting UC benefits, along with Claimant\u2019s testimony that he believed he could work but was not looking for work, justify a holding that, like the claimant in Henderson, Claimant intended to terminate his career and, therefore, retired.\nClaimant\u2019s argument that Section 204(a) of the Act shows a legislative intent that the acceptance of a pension should not factor into a determination of whether a claimant is retired is unpersuasive. Section 204(a) provides, inter alia, that \u201c[fjifty per centum of the benefits commonly characterized as \u2018old age\u2019 benefits under the Social Security Act (49 Stat. 620, 42 U.S.C. \u00a7 301 et seq.) shall also be credited against\u201d a claimant\u2019s WC benefits. 77 P.S. \u00a7 71(a). Claimant argues that this provision \u201cevidences an understanding by the General Assembly that injured workers will leave employment due to a work injury and then receive such benefits.\u201d (Claimant\u2019s Br. at 14.) Voluntary receipt of a pension alone does not necessarily bar a claimant from benefits. See Robinson, 4 A.3d at 1136-37 (claimant eligible to receive WC benefits despite receipt of a municipal disability pension). While receipt of a pension may, as here, contribute to a determination that, under the totality of the circumstances, a claimant has retired, the claimant may rebut that presumption and continue to receive benefits offset by his Social Security pension. We, therefore, reject Claimant\u2019s argument that any consideration of a pension in the analysis of whether a claimant is retired conflicts with the legislative intent of the Act.\nWe next address Claimant\u2019s argument that this Court\u2019s case law interpreting Henderson creates an impermissible presumption that merely because a claimant is capable of performing some work, work of that type is generally available, and that such a presumption violates the spirit of the Act generally, Section 306(b)(2) in particular, as well as decades of Supreme Court precedent. Claimant asserts that the Legislature, in enacting Section 306(b)(2), wished to place the burden on an employer seeking suspension of a claimant\u2019s benefits to show that work within that claimant\u2019s capabilities is open and available. Moreover, Claimant contends that it may not be presumed that such work is available, but that an employer must prove the actual availability of such work. In support, Claimant cites cases such as Allied Products and Services v. Workers\u2019 Compensation Appeal Board (Click), 823 A.2d 284, 288 (Pa.Cmwlth. 2003), in which this Court stated that in order to modify benefits pursuant to Section 306(b)(2), an \u201cemployer must still persuade the fact-finder that the [positions within the injured worker\u2019s residual capacity] are actually available.\u201d This is done, Claimant argues, through the employer\u2019s presentation of the testimony of a vocational expert. Moreover, Claimant argues, the Supreme Court, in Bethlehem Steel Corp. v. Workers\u2019 Compensation Appeal Board (Laubach), 563 Pa. 313, 760 A.2d 378 (2000), declined to place the burden on claimants to show that their loss in earning power was due to anything except their work-related injuries.\nAdditionally, Claimant asserts, longstanding precedent of the Supreme Court places the burden on an employer seeking modification or suspension to show that suitable work is available within the physical, mental, educational, and occupational abilities of a claimant. In support, Claimant cites Unora and Petrone v. Moffat Coal Co., 427 Pa. 5, 233 A.2d 891 (1967). In Unora, the claimants were coal miners suffering from anthracosilicosis, an occupational disease. Unora, 377 Pa. at 9, 104 A.2d at 105. The Medical Board declined to find them totally disabled on the grounds that they could still \u201cperform work of a limited general nature.\u201d Id. at 15, 104 A.2d at 108. The Supreme Court held that:\nWhere the injured person can handle only a specially-created job, one light of effort and responsibility but laden with rest and comfort (employment plums that do not often dangle from the tree of everyday economics) the burden is on the defendant-employer to show that such a job is in fact within reach.\nId. at 13, 104 A.2d at 107. The Supreme Court remanded the matter to the Medical Board for reconsideration, partly because the Medical Board based its decision only on reports, and did not give a hearing to claimants\u2019 counsel.\nIn Petrone, the claimant was a coal miner suffering from anthracosilicosis. The claimant filed a claim petition and the referee found the claimant to be totally disabled, but the Board reversed the decision. The Court of Common Pleas and the Superior Court affirmed. On appeal, the Supreme Court framed the issue as:\nwhether a claimant for compensation is entitled to benefits under the heading of total disability if the only work he can perform is light work of a general nature, when no evidence has been presented that light work, considering the worker\u2019s physical disability, his limited education and vocational background, is ' available.\nPetrone, 427 Pa. at 7, 283 A.2d at 892. The Supreme Court held that merely because a claimant was capable of light work does not mean that such work is available to that claimant. Id. at 9-10, 288 A.2d at 894-95. With regard to a presumption by the Superior Court that such work was available if a person was capable of it, the Supreme Court stated \u201c[t]he presumption spoken of by the Superior Court in the case at bar ... is so unnatural and illogical that one wonders how it ever found a footing in the law.\u201d Id. at 10, 233 A.2d at 894. The Supreme Court went on to state that:\nIn addition, the law does not require that the claimant must visit every building and house in his community to inquire if he is needed as an elevator operator or engineer on a power lawn mower [two positions that an expert physician opined the claimant could perform]. If light work is available, it is easier for the defendant to prove its existence than for the claimant to prove its non-existence.\nId. at 11-12, 233 A.2d at 895. The Supreme Court remanded the case for a determination as to whether light work was actually available to the claimant.\nEssentially, Claimant argues that this Court\u2019s case law interpreting Henderson, beginning with Weis, is contrary to the Act because it puts the burden on a claimant to show the unavailability of suitable work, in contravention of the Supreme Court\u2019s longstanding precedent. However, this argument mischaracterizes the holdings of Weis and its progeny.\nThe initial burden in a suspension petition is always on the employer. Usually, in order to modify or suspend benefits, an employer must satisfy the standard set out in Kachinski and in Section 306(b)(2), described above, by showing that due to a change in the claimant\u2019s physical condition and the availability of suitable work, he is no longer suffering a loss of earning power due to his work-related injury. Under Henderson and its progeny, the Employer still bears the burden of showing that the claimant is no longer suffering from a loss of earning power due to his work-related injury. The employer does this, not by using the Kachinski or Section 306(b)(2) standards, but by showing \u201cby the totality of the circumstances, that the claimant has chosen not to return to the workforce.\u201d Robinson, 4 A.3d at 1138. Only after the employer has carried its burden of showing that the claimant has retired does the burden shift to the claimant to rebut the presumption that he has voluntarily withdrawn from the workforce. Henderson, 543 Pa. at 79, 669 A.2d at 913. As discussed above, a claimant may satisfy this burden either by showing that he is still looking for work or has been forced to withdraw from the entire workforce by his work-related disability. Claimant\u2019s argument appears to equate the claimant\u2019s burden to show that he is looking for work with the burden to show that suitable work is available. These burdens are not the same. A claimant may look for suitable work even if that work is not available. Just as the Supreme Court stated in Petrone and other cases that a claimant cannot be expected to prove that no suitable work is available, Petrone, 427 Pa. at 10, 238 A.2d at 894, the Supreme Court stated in Henderson that an employer cannot be expected to show that a claimant who has retired \u201chas no intention of continuing to work.\u201d Henderson, 543 Pa. at 79, 669 A.2d at 913. Thus, a claimant whom an employer has shown to have retired may rebut that showing by manifesting an intent to remain connected to the workforce by seeking employment within his limitations. The burden on the claimant is only to look for suitable work; he will not be denied benefits if he cannot find it. Therefore, contrary to Claimant\u2019s assertions, there is no burden on such claimants to prove the unavailability of suitable work.\nIn this case, Claimant received WC benefits while working in a light-duty position for Employer. Claimant, therefore, knew he was capable of light-duty work and admitted that he believed himself to be capable of light-duty work. (WCJ Hr\u2019g Tr. at 15.) Claimant also applied for, and received, UC benefits, thereby demonstrating that he was able and available for work. See Section 401(d)(1) of the Unemployment Compensation Law (providing that in order to be eligible to receive UC, an individual must be \u201cable to work and available for suitable work\u201d). Once his UC benefits ran out, Claimant stopped looking for work and applied for, and received, a pension from Employer and Social Security. Under the totality of these circumstances, Claimant had retired; therefore, the burden shifted to him to prove that he was still seeking work or that his injury had forced him to retire from the entire workforce. Claimant admitted that he was not looking for work and presented no medical evidence to support a finding that he was not capable of any work. Therefore, per the standard set forth in Henderson and Weis, Claimant is not entitled to benefits.\nFor these reasons, we affirm the order of the Board.\nJudge McGINLEY concurs in the result only.\nORDER\nNOW, October 18, 2010, the order of the Workers\u2019 Compensation Appeal Board in the above-captioned matter is hereby AFFIRMED.\n. When reviewing an order of the Board, \"[t]his Court's review is limited to a determination of whether an error of law was committed, whether necessary findings of fact are supported by substantial evidence, or whether constitutional rights were violated.\u201d Ashman v. Workers\u2019 Compensation Appeal Board (Help Mates, Inc. and State Workers\u2019 Insurance Fund), 989 A.2d 57, 62 n. 6 (Pa.Cmwlth. 2010).\n. Act of June 2, 1915, P.L. 736, as amended, 77P.S. \u00a7 512(2).\n. \"WCJs were previously known as 'referees.\u2019 \u201d City of Philadelphia v. Workers\u2019 Compensation Appeal Board (Andrews), 948 A.2d 221, 231 n. 5 (Pa.Cmwlth.2008).\n. 77 P.S. \u00a7 71(a).\n. Contrasting these circumstances with those of Robinson, in Robinson the claimant accepted a disability pension conditioned on her inability to perform her time-of-injury job and which did not preclude her from other work. Robinson, 4 A.3d at 1138-39. Here, Claimant accepted both a Social Security pension and what he believes was a \"regular,\u201d or retirement pension from Employer. (WCJ Hr'g Tr. at 9-10.) The claimant in Robinson credibly testified that she was still looking for work, despite not knowing her own capabilities. Robinson, 4 A.3d at 1138-39. In this case, Claimant testified as to what he believed his restrictions were and that he believed he could still perform a job similar to the modified-duty custodial job he had performed for Employer, yet also testified that he had not looked for work after registering for unemployment. (WCJ Hr'g Tr. at 9-10, 15.) The differences in these circumstances justify holdings that the claimant in Robinson desired to remain attached to the workforce and was, therefore, not retired, while the Claimant in this case has chosen to take his pensions and withdraw from the workforce.\n. At the time the underlying facts in Unora occurred, the Medical Board was a body charged under the Pennsylvania Occupational Disease Act, Act of June 21, 1939, P.L. 566, as amended, 77 P.S. \u00a7\u00a7 1201\u20141603, with resolving contested medical issues in cases on appeal to the Board from the decisions of referees. Unora, 377 Pa. at 10, 104 A.2d at 106.\n. Act of December 5, 1936, Second Ex.Sess., P.L. (1937) 2897, as amended, 43 P.S. \u00a7 801(d)(1).",
+        "type": "majority",
+        "author": "Judge COHN JUBELIRER."
+      },
+      {
+        "text": "CONCURRING OPINION BY\nJudge LEAVITT.\nI concur in the majority\u2019s conclusion to suspend Claimant\u2019s compensation. I write separately because I disagree with the majority\u2019s \u201ctotality of the circumstances\u201d test, which requires the employer to prove that a claimant who has elected to go on a pension has withdrawn from the workforce by showing (i) job availability and (ii) the claimant has not looked for work.\nPennsylvania courts have already established a legal standard for retirement cases, set forth in cases such as County of Allegheny (Department of Public Works) v. Workers\u2019 Compensation Appeal Board (Weis), 872 A.2d 263, 265 (Pa.Cmwlth. 2005). This case law establishes a presumption that an employee collecting a pension is presumed to have withdrawn from the work force. It is the responsibility of the claimant to rebut this presumption with evidence that he has continued to work or with evidence that he has been forced out of the entire job market by the work injury. Without a presumption that an employee who chooses a pension has voluntarily withdrawn from the workplace, the employer will bear the \u201cprohibitive\u201d burden of having to show that \u201ca claimant has no intention of continuing to work.\u201d Southeastern Pennsylvania Transportation Authority v. Workmen\u2019s Compensation Appeal Board (Henderson), 543 Pa. 74, 79, 669 A.3d 911, 913 (1995). For the reasons set forth in my dissenting opinion in City of Pittsburgh v. Workers\u2019 Compensation Appeal Board (Robinson), 4 A.3d 1130 (Pa.Cmwlth.2010) (Leavitt, J., dissenting), I do not agree with the majority\u2019s additions to the Weis test.\nJudge PELLEGRINI joins in this concurring opinion.",
+        "type": "concurrence",
+        "author": "Judge LEAVITT."
+      },
+      {
+        "text": "CONCURRING OPINION BY\nJudge McCullough.\nI agree with the Majority that the evidence supports the WCJ\u2019s determination that the employer met its burden of proof in this suspension proceeding. However, I would employ a different analysis to reach this conclusion.\nFirst, I believe our courts must clarify the fundamental question of when a claimant on total disability status has a duty to look for work. This Court\u2019s recent decisions indicate that accepting a pension is the event that triggers a claimant\u2019s obligation to seek employment, and with this I disagree, particularly because this analysis excludes consideration of the claimant\u2019s medical condition. Rather than imposing a duty to find work before a claimant has been medically cleared to do so, I would conclude that a totally disabled claimant has no duty to look for work unless and until the employer issues a Notice of Ability to Return to Work pursuant to section 306(b)(3) of the Act, 77 P.S. \u00a7 512(3).\nSection 306(b)(3) of the Act provides as follows:\nIf the insurer receives medical evidence that the claimant is able to return to work in any capacity, the insurer must provide prompt written notice, on a form prescribed by the department, to the claimant, which states all of the following:\n(i) The nature of the employe\u2019s physical condition or change of condition.\n(ii) That the employe has an obligation to look for available employment.\n(iii) That proof of available employment opportunities may jeopardize the employe\u2019s right to receipt of ongoing benefits.\n(iv) That the employe has the right to consult with an attorney in order to obtain evidence to challenge the insurer\u2019s contentions.\n77 P.S. \u00a7 512(3).\nThe form advises the claimant that his right to benefits is contested as of a certain date. \u201cPursuant to Section 306(b)(3)(ii) of the Act, a claimant has an obligation to begin pursuing employment opportunities upon being supplied with a Notice of Ability to Return to Work.\u201d Phoenixville Hospital v. Workers\u2019 Compensation Appeal Board (Shoap), 2 A.3d 689, 696 (Pa.Cmwlth.2010) (emphasis added). Compliance with this provision is a threshold burden an employer must satisfy in order to obtain a suspension or modification of a claimant\u2019s benefits. Struthers Wells v. Workers\u2019 Compensation Appeal Board (Skinner), 990 A.2d 176 (Pa. Cmwlth.2010); Secco, Inc. v. Workers\u2019 Compensation Appeal Board (Work), 886 A.2d 1160 (Pa.Cmwlth.2005); Allegis Group (Onsite) v. Workers\u2019 Compensation Appeal Board (Henry), 882 A.2d 1 (Pa. Cmwlth.2005).\nCertainly where a claimant has no duty to seek employment, he cannot be penalized for not doing so. Therefore, I would suggest that, because a claimant receiving total disability has no duty to look for work unless and until the employer provides notice pursuant to section 306(b)(3), the claimant\u2019s efforts to find work \u2014 or lack thereof \u2014 prior to this triggering event have no relevance in a suspension proceeding.\nIn this case, Claimant began receiving total disability benefits when he was laid off from his light-duty position in 2000 or 2001. From the time Claimant was laid off he supplemented his workers\u2019 compensation benefits, first with unemployment compensation, then with a Social Security pension and a pension from Employer. Employer sent Claimant a Notice of Ability to Return to Work on December 3, 2007. The notice informed Claimant of an IME determination, dated November 14, 2007, that he was capable of full-time, medium duty work. (R.R. at 58a.) Employer filed its suspension petition on December 11, 2007.\nAt a February 20, 2008, hearing, Claimant testified that, beyond registering at the unemployment office when he was laid off, he had not actively looked for work. Claimant also stated that he believed he was capable of performing light-duty janitorial work and that doctors had cleared him for work involving modified lifting. (R.R. at 15a, 17a, 20a.)\nI would conclude that the suspension of benefits is appropriate here, based on the medical evidence presented and Claimant\u2019s admission, approximately ten weeks after receiving the Notice of Ability to Return to Work, that he is capable of performing some work but has not attempted to find any. Under these circumstances, Employer met its burden of proof and established its entitlement to a suspension of benefits.\nSecond, it is important to clarify that receipt of a pension is not the factual or legal equivalent of retirement, or withdrawal from the workforce, in every case. It is true that in most instances an employee must withdraw from his employer\u2019s work force in order to be eligible for a pension. However in many instances, such as the present matter, that is not the case.\nWhere, as here, the employee has been laid off, the employer has effectively removed the employee from its workforce, and the application for a pension merely formalizes the circumstances that already exist \u2014 the employer has severed the employment relationship in both the factual and the legal sense. Under such circumstances, the receipt of a pension is not a separation from the employer\u2019s workforce and thus, there is no rational basis for shifting the burden of proof from the employer, affording the employer any presumption, or imposing any duty upon the claimant. Instead, in eases like this, the receipt of a pension is merely one fact for a WCJ to consider in deciding a suspension petition.\nI believe the importance of the distinction between receipt of a pension and retirement is reflected in decisions such as Southeastern Pennsylvania Transportation Authority v. Workmen\u2019s Compensation Appeal Board (Henderson), 543 Pa. 74, 669 A.2d 911 (1995); Republic Steel Corp. v. Workmen\u2019s Compensation Appeal Board (Petrisek), 537 Pa. 32, 640 A.2d 1266 (1994); Nabisco v. Workmen\u2019s Compensation Appeal Board (Kelly), 148 Pa. Cmwlth.343, 611 A.2d 352 (1992); and Dugan v. Workmen\u2019s Compensation Appeal Board, 131 Pa.Cmwlth. 218, 569 A.2d 1038 (1990); among others, all focusing on the presence or absence of a claimant\u2019s unequivocal testimony that he intended to retire. Indeed, I believe that the need to carefully distinguish between receipt of a pension and retirement becomes more apparent every day; just recently, the City of Pittsburgh announced it might be rehiring \u201cretired\u201d police officers.\nMore important, the remedial purpose of the Act cannot be satisfied by an analysis that excludes consideration of an employer\u2019s bankruptcy, an employer\u2019s outsourcing of work, an employee\u2019s loss of benefits upon being laid off or an employee\u2019s ongoing financial needs, any of which might force an employee to apply for a pension irrespective of either his physical ability or his desire to return to work.\nAccordingly, I respectfully suggest that by holding that the receipt of a pension effectively operates as a forfeiture of the right to workers\u2019 compensation, our court has overlooked the additional evidence concerning the claimant\u2019s voluntary withdrawal from the workforce that our Supreme Court and this court previously considered. Finally, I would not overlook the fact that the Act treats a \u2018pension as income, not as a disqualifying event.\nIn sum, I would reach the same result as the Majority, following the well-settled principle that an employer seeking a suspension of benefits bears the burden of establishing that the claimant\u2019s earning power is no longer affected by the work injury. Landmark Constructors, Inc. v. Workers\u2019 Compensation Appeal Board (Costello), 560 Pa. 618, 747 A.2d 850 (2000). The employer can meet its burden by presenting (1) medical evidence of the claimant\u2019s ability and (2) referral to an available job or expert opinion evidence, including job listings with employment agencies, etc., concerning available jobs in the claimant\u2019s usual areas of employment. South Hills Health System v. Workers\u2019 Compensation Appeal Board (Kiefer), 806 A.2d 962 (Pa.Cmwlth.2002). I would clarify that, if the employer establishes that the claimant has voluntarily retired, i.e., voluntarily withdrawn from the workforce, the employer is relieved of its burden to establish' job availability. I also would hold that the employer can establish the claimant\u2019s withdrawal from the workforce by demonstrating, inter alia, that the claimant has not looked for work since receiving a Notice of Ability to Return to Work and is receiving a pension through his employer.\n. For example, in Southeastern Pennsylvania Transportation Authority v. Workmen\u2019s Compensation Appeal Board (Henderson), 543 Pa. 74, 76-77, 669 A.2d 911, 912 (1995); our Supreme Court quoted this Court\u2019s statement in Dugan v. Workmen's Compensation Appeal Board, 131 Pa.Cmwlth. 218, 569 A.2d 1038, 1040 (1990) (emphasis added), that \"suspension of compensation is appropriate if a claimant states unequivocally that he has no intention of seeking future employment.\" Although I do not suggest that such evidence is necessary, I believe that these cases illustrate that evidence of a pension, in and of itself, is not sufficient to establish an employee\u2019s withdrawal from the workforce.\n. See, for example, County of Allegheny (Department of Public Works) v. Workers\u2019 Compensation Appeal Board (Weis), 872 A.2d 263 (Pa. Cmwlth.2005), holding that a claimant receiving a disability pension was presumed to have withdrawn from the [employer\u2019s] workforce and therefore, in order to remain eligible for compensation, was required to prove that he was seeking employment or that his injury forced him out of the entire labor market. I would observe that the oft-quoted language set forth in Weis begins with the statement that disability benefits must be suspended \"when a claimant voluntarily leaves the labor market upon retirement.\u201d Id. at 265 (quoting Henderson, 543 Pa. at 79, 669 A.2d at 913). I would not interpret this statement to mean that the receipt of a pension in every case presumptively establishes a claimant's voluntary withdrawal from the employer\u2019s workforce.\n.Rather than saying that the burden then shifts to the claimant, I would say that, as with every element of the employer\u2019s burden of proof, the claimant may present evidence to rebut the employer\u2019s evidence on the issue of his voluntary withdrawal from the workforce. If the claimant successfully rebuts the employer\u2019s evidence, the employer remains obligated to demonstrate job availability.",
+        "type": "concurrence",
+        "author": "Judge McCullough."
+      }
+    ],
+    "attorneys": [
+      "Lawrence R. Chaban, Pittsburgh, for petitioner.",
+      "Bradley R. Andreen, Pittsburgh, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Melvin DAY, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (CITY OF PITTSBURGH), Respondent.\nCommonwealth Court of Pennsylvania.\nArgued April 21, 2010.\nDecided Oct. 18, 2010.\nLawrence R. Chaban, Pittsburgh, for petitioner.\nBradley R. Andreen, Pittsburgh, for respondent.\nBEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, and PELLEGRINI, Judge, and COHN JUBELIRER, Judge, and LEAVITT, Judge, and BROBSON, Judge, and McCullough, Judge."
+  },
+  "file_name": "0633-01",
+  "first_page_order": 679,
+  "last_page_order": 692
+}

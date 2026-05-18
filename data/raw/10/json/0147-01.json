@@ -1,0 +1,329 @@
+{
+  "id": 7283104,
+  "name": "Hernan MELENDEZ, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Melendez v. United States",
+  "decision_date": "2010-12-23",
+  "docket_number": "No. 08-CF-1516",
+  "first_page": "147",
+  "last_page": "154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 9509,
+    "name": "United States Court of Appeals for the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 6001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "882 A.2d 210",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8916078
+      ],
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/882/0210-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 828",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9170509
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "834-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0828-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294085
+      ],
+      "pin_cites": [
+        {
+          "page": "1052-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/1041-01"
+      ]
+    },
+    {
+      "cite": "978 A.2d 1202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7299113
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1207",
+          "parenthetical": "citations and internal quotation marks omitted"
+        },
+        {
+          "page": "1207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/978/1202-01"
+      ]
+    },
+    {
+      "cite": "952 A.2d 942",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8185400
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "947"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/952/0942-01"
+      ]
+    },
+    {
+      "cite": "516 A.2d 513",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7925177
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "516-18"
+        },
+        {
+          "page": "516-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/516/0513-01"
+      ]
+    },
+    {
+      "cite": "436 F.2d 222",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2213615
+      ],
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/436/0222-01"
+      ]
+    },
+    {
+      "cite": "564 A.2d 1161",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11358680
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/564/1161-01"
+      ]
+    },
+    {
+      "cite": "620 A.2d 860",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7362668
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "862"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/620/0860-01"
+      ]
+    },
+    {
+      "cite": "549 A.2d 1124",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7885345
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1126"
+        },
+        {
+          "page": "1126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/549/1124-01"
+      ]
+    },
+    {
+      "cite": "415 U.S. 308",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174956
+      ],
+      "weight": 5,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/415/0308-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 673",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207521
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "680"
+        },
+        {
+          "page": "678-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0673-01"
+      ]
+    },
+    {
+      "cite": "3 A.3d 346",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7287156
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "352",
+          "parenthetical": "citing Delaware v. Van Arsdall, 475 U.S. 673, 680, 106 S.Ct. 1431, 89 L.Ed.2d 674 (1986); Davis v. Alaska, 415 U.S. 308, 94 S.Ct. 1105, 39 L.Ed.2d 347 (1974)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/3/0346-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1036,
+    "char_count": 22004,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 6.376982691111843e-08,
+      "percentile": 0.39051620384045554
+    },
+    "sha256": "646a3dece09ae1bea4fce9398c204c6db3f0d3d6f9579157781ad648200f2790",
+    "simhash": "1:9fda2e157b20b58b",
+    "word_count": 3594
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID and FISHER, Associate Judges, and FERREN, Senior Judge."
+    ],
+    "parties": [
+      "Hernan MELENDEZ, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "FERREN, Senior Judge:\nAfter a jury trial, appellant Hern\u00e1n Melendez was convicted of second degree murder while armed for beating Andres Benitez to death with a baseball bat. He also was convicted of assault with a dangerous weapon for hitting Eric Umana in the head with the bat, as well as possession of a prohibited weapon. Melendez contends on appeal that the trial court violated his Sixth Amendment right to confront witnesses against him by precluding examination of William Luna for potential bias, namely, bias derived from the hope of currying favor with the government in connection with a sentence Luna was serving in another jurisdiction. We perceive no error and thus affirm.\nI.\nThe death of Benitez occurred during the early hours of January 28, 2007, on the east side of the 1200 block of 11th Street, N.W. Three residential apartment building security guards, Durand Covington, Randy Franklin, and Isabel Tavares, watched the incident from across the street and testified on behalf of the government. Although there were discrepancies among the three accounts, all testified that the incident unfolded as follows. A man later identified as Benitez was the first attacker. He swung a baseball bat at three men. The three stepped back, paused, and then rushed at Benitez, causing all four men to fall to the ground. Three men got up, one of whom retrieved the baseball bat, then stood over the one still down, Benitez, and struck him several times. As the beating was taking place a bystander, later identified as Eric Umana, approached and told the man with the bat to stop. The man struck Umana on his head with the bat. Umana quickly fled the scene.\nAfter the beating ended, the three went into a nearby alley on the south end of 11th Street. Security guards Franklin and Covington jumped in their cars in order to chase and seize the assailants. After losing sight of the men for no more than forty-five seconds, Covington and Franklin saw the group entering an apartment building on 10th Street. The guards ran into the building and seized the man carrying the baseball bat, later identified as appellant Melendez. They were unable to seize the other two, later identified as William and Yoni Luna.\nTestifying for the government, Coving-ton, Franklin, Tavares, and Umana identified Melendez as the person who had struck Benitez and Umana with a bat. Detective Jacqueline Middleton, who arrived on the scene after Melendez had been seized, testified that when she stood at the vantage point from which the guards had observed the crime, she could recognize faces as she looked across the street at the scene of the crime.\nThe government also presented evidence of blood spatter and DNA. According to the government experts who testified, the stains on appellant\u2019s jacket and hood had the characteristics of blood, and, based on the DNA profile found in that blood, the blood came from Benitez. Further testimony revealed that Benitez\u2019s DNA could have been a contributor to the DNA on the barrel of the bat, and that both Benitez and appellant could have contributed to the DNA on the handle of the bat.\nAppellant\u2019s theory of the case was mis-identification \u2014 that William Luna was the real perpetrator. Appellant took the stand in his own defense and testified that William had beaten Benitez and struck Uma-na with the baseball bat. Thereafter, said appellant, he \u201cbecame scared and started to walk,\u201d whereupon William and Yoni Luna accosted him in the alleyway, struck him with the bat on the back of his head and his back, and forced him to take the bat as they neared the entrance of the apartment building on 10th Street. Appellant also introduced evidence of animus between William Luna and Benitez, namely, that a couple of weeks before this incident, Benitez had punched a man named Cristo Rivas, and that William Luna had been present during this altercation and told Benitez to leave Rivas alone. Finally, to rebut Detective Middleton\u2019s testimony, a Public Defender Service investigator testified that when she had gone back to the scene of the crime at night and stood where the security guards had stood, she could not see another person\u2019s face across the street where the crime had taken place.\nAppellant premises his misidentification defense on his own testimony, the testimony of one of his cohorts, William Luna, and other evidence that William Luna, not he, committed the murder. As explained more fully below, appellant called Luna as an adverse witness in the defense case. On cross-examination by the government, however, Luna contradicted appellant\u2019s version of the events and testified that appellant had beaten Benitez \u201chard\u201d on the head with the bat \u201ctwo or three times\u201d as Benitez lay on the ground.\nIn an effort to discredit Luna\u2019s testimony, therefore, appellant attempted to prove Luna\u2019s bias in favor of the government\u2014 an effort the trial court derailed. Accordingly, appellant\u2019s sole argument on appeal is that the trial court erred, to his severe prejudice, by refusing to- allow defense counsel to explore this alleged bias by eliciting testimony from Luna about a sentencing order against Luna in New York. More specifically, appellant contends that Luna was biased because Luna had violated that sentencing order but had reason to believe that the prosecutors in this case could help him deflect a contempt charge in New York if he testified in support of the government\u2019s case against appellant here in Washington.\nII.\nThe bias issue evolved as follows. As noted, counsel for appellant called William Luna to testify in the defense case as an adverse witness. Although Luna had initially invoked his Fifth Amendment rights, the government sought and received a compulsion order that required Luna to testify as to \u201call matters about which he may be interrogated\u201d in appellant\u2019s case. Then, to protect Luna\u2019s right not to incriminate himself, the compulsion order also provided that \u201cno testimony or other information compelled under th[e] order (or any information directly or indirectly derived from such testimony or other in-foi'mation) may be used against [him] in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with th[e] [o]rder.\u201d\nDuring direct examination, defense counsel asked Luna whether, \u201cat the beginning of February of 2007,\u201d he had called Norma Saravia, the mother of his children. Luna replied that he had called her and added, \u201cI always talk with her.\u201d After establishing the nature of their relationship and where each person lived at the time, counsel asked Luna whether he had called Ms. Saravia after the January 2007 incident in which Benitez was murdered. Luna acknowledged that he had, and that he had \u201ctold her [his] problem\u201d that the Benitez\u2019s family members and the police were looking for him, and that he wanted to hide. He then denied counsel\u2019s assertion that he also had told Ms. Saravia that he had killed someone in D.C. in self defense, and that if Ms. Saravia did not help him, he would kill her and her family. Shortly thereafter, Luna testified that he had pled guilty to aggravated harassment in March 2007 in New York \u201cbased on the things [he] had said to Ms. S[a]ravia.\u201d When counsel inquired whether Luna had \u201ctold [the New York Judge] that [he] said those things to Ms. S[a]ravia,\u201d Luna answered \u201cyes,\u201d adding that he had \u201cassume[d] responsibility.\u201d Counsel then repeated himself, asking Luna whether he had admitted to the New York Judge that he had made the statements counsel had asked him about. Luna answered \u201cyes.\u201d (Later, in closing argument, counsel reminded the jury that Luna had admitted coming to New York to hide from Beni-tez\u2019s family, but when counsel began to refer to Luna\u2019s denial when asked whether he had \u201ckilled someone in D.C.,\u201d the trial court advised the jury that \u201cthe question is not in evidence and there is no evidence to the contrary.\u201d)\nAfter counsel established that Luna had received a sentence after his plea, he began to ask Luna about a stay-away order the New York court had imposed as a part of the sentence. The government objected for lack of relevance. Counsel approached the bench and the following colloquy took place:\nCounsel: First of all, I think he\u2019s violated it. He admitted that he\u2019d contacted Ms. S[a]ravia in the times since she\u2019s been in D.C.\nCourt: What does that have to do with his credibility.\nCounsel: The fact that he defied a court order I think is relevan[t] when he is someone who is testifying under a grant of immunity.\nCourt: I don\u2019t think so. What\u2019s next[?]\nCounsel: And I think that it explains if \u2014 or I may need to recall him if she denies that he made these statements.\nCourt: She may deny it, but \u2014 and you may need to recall him, but that doesn\u2019t have anything to do with what his sentence is in New York. It\u2019s completely collateral\u2014\nCounsel: He\u2019s under a sentence now.\nCourt: I understand.\nCounsel: \u2014 as he\u2019s testifying.\nCourt: I know it.\nCounsel: I think that goes to his bias.\nCourt: Which bias? Against whom?\nCounsel: Against our client, against the need \u2014 you know, keep himself in good favor, and against Ms. S[a]ravia.\nCourt: I don\u2019t \u2014 she\u2019s the mother of his children. I don\u2019t know what the bias is. It\u2019s completely collateral and likely to be confusing and misleading to the jury.\nThe threshold question, therefore, is whether, in this colloquy, appellant laid a foundation sufficient to justify the request to examine Luna about the scope and implications of the New York stay-away order.\nIII.\nRecently, we reaffirmed \u201cthat the complete denial of the opportunity to cross-examine a witness as to bias denies a defendant his Sixth Amendment right to confront witnesses against him.\u201d McClary v. United States, 3 A.3d 346, 352 (D.C. 2010) (citing Delaware v. Van Arsdall, 475 U.S. 673, 680, 106 S.Ct. 1431, 89 L.Ed.2d 674 (1986); Davis v. Alaska, 415 U.S. 308, 94 S.Ct. 1105, 39 L.Ed.2d 347 (1974)). Thus, an error of constitutional dimension occurs when the trial court refuses \u201cto allow any questioning about facts indicative of bias from which the jury could reasonably draw adverse inferences of reliability.\u201d Ford v. United States, 549 A.2d 1124, 1126 (D.C.1988) (quoting Van Arsdall, 475 U.S. at 678-79, 106 S.Ct. 1431 (1986); Davis, 415 U.S. at 318, 94 S.Ct. 1105 (1974)) (emphasis omitted).\nOn the other hand, before a defendant may \u201cpursue a line of questioning suggesting that a witness is biased[,]\u201d \u201ca proper foundation must be laid[.]\u201d Ray v. United States, 620 A.2d 860, 862 (D.C. 1993); accord Scull v. United States, 564 A.2d 1161, 1164 (D.C.1989) (\u201cwe are loath to allow cross-examination without the establishment of a proper foundation\u201d). Accordingly, the requirement of an adequate foundational proffer safeguards against wasting valuable judicial resources on irrelevant issues, confusing the jury with matters collateral to the issues at trial, and \u201casking highly prejudicial questions ... with the almost certain knowledge that the insinuations are false.... \u201d United States v. Pugh, 436 F.2d 222, 225 (D.C.Cir.1970). In short, there will be no abridgment of constitutional rights, or other trial court error, when the court precludes counsel from cross-examining a witness for alleged bias on baseless matters unrelated to the case. See Ford, 549 A.2d at 1126.\nMore specifically, this required proffer is necessary to establish the relevance of a proposed inquiry by facts from which the trial court may surmise that the line of questioning is probative of bias. See, e.g., Jones v. United States, 516 A.2d 513, 516-18 (D.C.1986) (proffer was insufficient where counsel failed to proffer facts explaining how or why witness was biased). In order to lay a proper foundation for bias cross-examination, therefore, defense counsel must proffer \u201ca reasonable factual foundation,\u201d (Melvin) Brown v. United States, 952 A.2d 942, 947 (D.C.2008); that is, \u201csome facts which support a genuine belief that the witness is biased in the manner asserted, ... or at least a well-reasoned suspicion rather than an improbable flight of fancy to support the proposed cross-examination.\u201d Howard v. United States, 978 A.2d 1202, 1207 (D.C. 2009) (citations and internal quotation marks omitted). \u201cAt a minimum, this would ... require \u2018that the questioner [ ] support any proposal for cross-examination with a credible statement describing the suspected cause of bias in the witness, supported by plausible factual allegations or itself plausible within the framework of facts that neither party has contested.\u2019 \u201d Brown, 952 A.2d at 948 n. 7 (quoting Scull, 564 A.2d at 1164 n. 4).\nIn this case, the trial court did not err in precluding the proposed line of examination because defense counsel failed to provide an adequate factual proffer for doing so. In the first place, counsel proffered no meaningful basis for counsel\u2019s bare surmise that Luna had violated the stay-away order by contacting Ms. Saravia after that order had been imposed. More particularly, counsel failed to provide the court with any detail about the nature of the alleged violation, including when and where it took place. See Jones, 516 A.2d at 516-18. Counsel merely told the court, \u201cI think he\u2019s violated it.\u201d Why? Because, according to counsel, he \u201cadmitted that he\u2019d contacted Ms. S[a]ravia in the times since she\u2019s been in D.C.\u201d Trial counsel, however, did not proffer a factual context for that alleged admission. The only possible record reference for that statement would be Luna\u2019s answer that \u201cI always talk with her\u201d in response to counsel\u2019s question whether he had contacted Ms. Saravia during the beginning of February 2007, a month before the stay-away order was entered. That statement \u2014 on which counsel on appeal acknowledged she does not rely \u2014 provides flimsy, if any, support for appellant\u2019s premise for his proposed line of inquiry that Luna had violated the New York order issued a month later.\nIndeed, without the support of a plausible factual foundation either provided by appellant or available within the record itself, appellant\u2019s assertion is more akin to an \u201cimprobable flight of fancy\u201d rather than a \u201cwell-reasoned suspicion\u201d or genuine belief that the witness was biased. Howard, 978 A.2d at 1207; see McCraney v. United States, 983 A.2d 1041, 1052-53 (D.C.2009) (in absence of factual basis for defense assertion that eyewitness, decedent\u2019s girlfriend, had been selling drugs, trial court did not err in precluding inquiry attempting to show that witness was trying to curry favor with prosecution, and thus biased against defendant, in hope of receiving lenient treatment by government).\nFurthermore, counsel never clearly explained how the proposed inquiry would show that Luna was biased in favor of the government. In answering the trial court\u2019s first question, \u201c[w]hat does that have to do with his credibility?\u201d, counsel referred again to Luna\u2019s alleged defiance of the court order and to the fact that \u201c[h]e\u2019s under a sentence now ... as he\u2019s testifying.\u201d These vague responses did not affect the court\u2019s view that the New York matter was \u201ccompletely collateral.\u201d Counsel then shifted the discussion away from credibility: \u201cI think that [the inquiry] goes to bias.\u201d \u201cAgainst whom?\u201d, asked the court. Replied counsel: \u201cAgainst our client, against the need \u2014 you know, keep himself in good favor, and against Ms. S[a]ravia.\u201d To which the court responded: \u201cI don\u2019t \u2014 she\u2019s the mother of his children. I don\u2019t know what the bias is. It\u2019s completely collateral and likely to be confusing and misleading to the jury.\u201d The discussion then ended. Counsel never redirected the court\u2019s focus to appellant\u2019s keeping \u201chimself in good favor,\u201d presumably with the government. No effort was made to explain the nexus between the stay-away order in New York and its relevance to currying favor with the District of Columbia prosecutors. The proffer floundered.\nCounsel on appeal amply fleshes out an argument elaborating Luna\u2019s alleged bias that trial counsel did not explain. In Blunt v. United States, 863 A.2d 828 (D.C.2004), we acknowledged that (1) there were grounds for the defendant\u2019s subjective belief that if he cooperated with the prosecutors in his case, they could intervene on his behalf to prevent prosecutors in Maryland from trying him on charges held in abeyance on a \u201cstet\u201d docket there, and thus that (2) it \u201cwas reasonable\u201d to suggest that he may well have \u201chad a motive to curry favor with the prosecution.\u201d Id. at 834-35. Counsel contends that Blunt\u2019s reasoning applies here, justifying appellant\u2019s belief that the government could protect him in any contempt proceeding for violating the stay-away order in New York. Assuming without deciding that Blunt would support this contention, and further assuming that trial counsel had a Blunt argument in mind when she mentioned that her client wanted to \u201ckeep himself in good favor,\u201d counsel\u2019s failure to proffer any probative evidence that Luna had violated the order, not to mention her failure to make a Blunt-type argument even in outline, undercuts the usefulness of any argument on appeal premised on Blunt.\nIn appellant\u2019s reply brief, counsel stresses that \u201cneither the government nor the trial judge questioned the basis\u201d for counsel\u2019s belief that Luna had \u201calready violated\u201d the stay-away order \u201cbased on her belief that he had admitted to contacting Norma Saravia when she was in D.C.\u201d Defense counsel, however, not the judge or the prosecutor, has the obligation to establish a prima facie basis for the alleged bias, an obligation that counsel\u2019s assertion, as we have elaborated, did not satisfy.\nCounsel adds that, in addition to this lack of any challenge, \u201cdefense counsel was prevented from making a more extensive proffer\u201d because of \u201cthe trial court\u2019s abrupt ruling that the proposed .area of inquiry was \u2018collateral.\u2019 \u201d See Randolph v. United States, 882 A.2d 210, 218 (D.C.2005) (\u201cwhere appropriate, [appellant] must have been afforded the opportunity to make an appropriate record in the trial court\u201d). To the contrary, from the colloquy quoted earlier, we do not perceive that the trial judge was proceeding so abruptly that he would have refused to listen to a forthright, concrete proffer of evidence that appellant had violated the New York order, coupled with a summary argument citing Blunt. At any juncture during the colloquy \u2014 for example, when the judge asked, \u201cWhat\u2019s next?\u201d \u2014 counsel could have replied, \u201cHere\u2019s the point\u201d and explained it. That did not happen, and thus no adequate foundation as to Luna\u2019s bias \u2014 no essential proffer \u2014 was presented. Nothing more need be said.\nAffirmed.\n. D.C.Code \u00a7\u00a7 22-2103, -4502 (2010 Supp.).\n. D.C.Code \u00a7 22-402 (2001).\n. D.C.Code \u00a7 22-4514(b) (2010 Supp.).\n.Appellant attacked the veracity of these eyewitness identifications by pointing to inconsistencies within the testimony of each witness and to contradictions among the witnesses. On appeal, however, he has not questioned the sufficiency of the evidence for conviction.\n. The forensic expert, Rebecca Thomas, refers to the DNA and blood of \"Johnny Guzman,\u201d another name used by Benitez.\n. There were indications that a third person also touched the bat. The blood and bat were not analyzed for William or Yoni Luna\u2019s DNA.\n. In addition to his testimony that Luna had beaten Benitez and Umana, appellant testified that during the assaults on Benitez and Uma-na, Luna had been wearing a red jacket, white shirt, and black or blue pants \u2014 a shirt and pants combination that roughly corresponded to testimony about the assailant's garb by Covington and Tavares.\n. See infra Part II.\n. Other evidence arguably implicating Luna was drawn from inconsistencies within and contradictions among the government\u2019s eyewitness testimonies. See supra note 4.\n. Because William Luna did not testify that appellant was the individual who had struck Eric Umana, one may ask whether appellant\u2019s argument alleging Luna's bias reaches appellant's conviction for assaulting Umana with a dangerous weapon. On the other hand, because Luna testified that appellant was the bat swinger, and because there was no evidence that someone other than Benitez\u2019s assailant had attacked Umana, we may assume that the argument on appeal is addressed to all three charges.\n. The United States District Court for the District of Columbia issued the compulsion order pursuant to 18 U.S.C. \u00a7\u00a7 6001 et seq. (2000).\n. Appellant did not call Ms. Saravia to testify (although it appears that she had been in the courthouse during trial). Approximately five months after trial, in November 2008, appellant submitted to the trial court a \"Notice of Filing\u201d that contained a copy of a complaint by Saravia to the New York police department. That complaint, dated February 8, 2007, states in relevant part:\nOn 02-03-07 at about 9:00 pm my ex-boyfriend, William Luna, called me ... on my cell phone.... He told me \"if you don\u2019t help me I'm going to kill you, and your family.\u201d ... I'm scared because he kept telling me that he wants to come to New York because he killed someone fifteen days ago, and that it was in self-defense.\n. Blunt did not address, nor do we, whether a witness\u2019s subjective belief that the prosecutors could intervene on his behalf in another jurisdiction could be so preposterous under the circumstances as to permit the trial court to deny examination of the witness for bias on that basis.",
+        "type": "majority",
+        "author": "FERREN, Senior Judge:"
+      }
+    ],
+    "attorneys": [
+      "Mikel-Meredith Weidman, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant.",
+      "Suzanne C. Nyland, Assistant United States Attorney, with whom Ronald C. Machen, Jr., United States Attorney, and Roy W. McLeese III, Chrisellen R. Kolb, and Steven B. Snyder, Assistant United States Attorneys, were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hernan MELENDEZ, Appellant, v. UNITED STATES, Appellee.\nNo. 08-CF-1516.\nDistrict of Columbia Court of Appeals.\nArgued Dec. 9, 2010.\nDecided Dec. 23, 2010.\nMikel-Meredith Weidman, Public Defender Service, with whom James Klein, Public Defender Service, was on the brief, for appellant.\nSuzanne C. Nyland, Assistant United States Attorney, with whom Ronald C. Machen, Jr., United States Attorney, and Roy W. McLeese III, Chrisellen R. Kolb, and Steven B. Snyder, Assistant United States Attorneys, were on the brief, for appellee.\nBefore REID and FISHER, Associate Judges, and FERREN, Senior Judge."
+  },
+  "file_name": "0147-01",
+  "first_page_order": 181,
+  "last_page_order": 188
+}

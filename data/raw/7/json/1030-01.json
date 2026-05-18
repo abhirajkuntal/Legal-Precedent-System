@@ -1,0 +1,766 @@
+{
+  "id": 7288162,
+  "name": "Tashina JOHNSON, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2010-11-12",
+  "docket_number": "No. 09-CM-1233",
+  "first_page": "1030",
+  "last_page": "1037",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 1030"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "993 A.2d 571",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289492
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/993/0571-01"
+      ]
+    },
+    {
+      "cite": "591 F.3d 935",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3507574
+      ],
+      "pin_cites": [
+        {
+          "page": "940"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/591/0935-01"
+      ]
+    },
+    {
+      "cite": "708 A.2d 637",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11817168
+      ],
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/708/0637-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 565",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6227938
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0565-01"
+      ]
+    },
+    {
+      "cite": "267 U.S. 132",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137701
+      ],
+      "weight": 3,
+      "year": 1925,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/267/0132-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 98",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787600
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0098-01"
+      ]
+    },
+    {
+      "cite": "229 P.3d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6994544
+      ],
+      "pin_cites": [
+        {
+          "page": "1057"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/229/1054-01"
+      ]
+    },
+    {
+      "cite": "399 U.S. 42",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168334
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[A]s will be true in many cases, the circumstances justifying the arrest are also those furnishing probable cause for the search.\""
+        },
+        {
+          "parenthetical": "\"[A]s will be true in many cases, the circumstances justifying the arrest are also those furnishing probable cause for the search.\""
+        },
+        {
+          "parenthetical": "\"[A]s will be true in many cases, the circumstances justifying the arrest are also those furnishing probable cause for the search.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/399/0042-01"
+      ]
+    },
+    {
+      "cite": "555 U.S. 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679252
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/555/0135-01"
+      ]
+    },
+    {
+      "cite": "526 U.S. 295",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11133135
+      ],
+      "weight": 25,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "300"
+        },
+        {
+          "page": "307"
+        },
+        {
+          "page": "302"
+        },
+        {
+          "page": "301"
+        },
+        {
+          "page": "304"
+        },
+        {
+          "page": "301-02"
+        },
+        {
+          "page": "305-06"
+        },
+        {
+          "page": "306"
+        },
+        {
+          "page": "305"
+        },
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/526/0295-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 798",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6191830
+      ],
+      "weight": 11,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "817-25"
+        },
+        {
+          "page": "820-21"
+        },
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0798-01"
+      ]
+    },
+    {
+      "cite": "453 U.S. 454",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722898
+      ],
+      "weight": 3,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/453/0454-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 221",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959006
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "224-25, 235-36",
+          "parenthetical": "when officers saw butt of revolver protruding from underneath the passenger's seat, they had probable cause to arrest passenger and, pursuant to New York v. Belton, 453 U.S. 454, 101 S.Ct. 2860, 69 L.Ed.2d 768 (1981"
+        },
+        {
+          "parenthetical": "when officers saw butt of revolver protruding from underneath the passenger's seat, they had probable cause to arrest passenger and, pursuant to New York v. Belton, 453 U.S. 454, 101 S.Ct. 2860, 69 L.Ed.2d 768 (1981"
+        },
+        {
+          "parenthetical": "when officers saw butt of revolver protruding from underneath the passenger's seat, they had probable cause to arrest passenger and, pursuant to New York v. Belton, 453 U.S. 454, 101 S.Ct. 2860, 69 L.Ed.2d 768 (1981"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0221-01"
+      ]
+    },
+    {
+      "cite": "562 A.2d 90",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7345801
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "91-92"
+        },
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/562/0090-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959884
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0478-01"
+      ]
+    },
+    {
+      "cite": "607 A.2d 519",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11287883
+      ],
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/607/0519-01"
+      ]
+    },
+    {
+      "cite": "697 A.2d 36",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12009437
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "38"
+        },
+        {
+          "parenthetical": "\"[T]he probable cause which the police had to search the car was not exhausted when they found the maidjuana cigarette in the ashtray.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/0036-01"
+      ]
+    },
+    {
+      "cite": "909 F.2d 1170",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541085
+      ],
+      "pin_cites": [
+        {
+          "page": "1175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/909/1170-01"
+      ]
+    },
+    {
+      "cite": "273 A.2d 840",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8110734
+      ],
+      "pin_cites": [
+        {
+          "page": "841"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/273/0840-01"
+      ]
+    },
+    {
+      "cite": "922 A.2d 449",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8308352
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/922/0449-01"
+      ]
+    },
+    {
+      "cite": "96 Cal.Rptr.3d 696",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "705",
+          "parenthetical": "\"Although the firearm found on defendant was loaded, it was reasonable to believe that the vehicle might contain additional items related to the crime of gun possession such as more ammunition or a holster.\" (applying Gant)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Cal.App.4th 1052",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3973875
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Although the firearm found on defendant was loaded, it was reasonable to believe that the vehicle might contain additional items related to the crime of gun possession such as more ammunition or a holster.\" (applying Gant)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/175/1052-01"
+      ]
+    },
+    {
+      "cite": "594 F.3d 14",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3547940,
+        3521639
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "26",
+          "parenthetical": "it was reasonable for officer to believe that \"there might be additional weapons in the car, particularly in the locked briefcase found on the backseat.\" (applying Gant)"
+        },
+        {
+          "page": "26"
+        },
+        {
+          "page": "25",
+          "parenthetical": "\"Presumably, the 'reasonable to believe' standard requires less than probable cause, because otherwise Gant's eviden-tiary rationale would merely duplicate the 'automobile exception,' which the Court specifically identified as a distinct exception to the warrant requirement.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/389/0199-01",
+        "/f3d/594/0014-01"
+      ]
+    },
+    {
+      "cite": "389 U.S.App. D.C. 199",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3547940
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "211",
+          "parenthetical": "it was reasonable for officer to believe that \"there might be additional weapons in the car, particularly in the locked briefcase found on the backseat.\" (applying Gant)"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/389/0199-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 730",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199658
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "740",
+          "parenthetical": "\"There is no legitimate expectation of privacy ... shielding that portion of the interior of an automobile which may be viewed from outside the vehicle by either inquisitive passersby or diligent police officers.\""
+        },
+        {
+          "parenthetical": "\"There is no legitimate expectation of privacy ... shielding that portion of the interior of an automobile which may be viewed from outside the vehicle by either inquisitive passersby or diligent police officers.\""
+        },
+        {
+          "parenthetical": "\"There is no legitimate expectation of privacy ... shielding that portion of the interior of an automobile which may be viewed from outside the vehicle by either inquisitive passersby or diligent police officers.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/0730-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 470",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291762
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "476"
+        },
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0470-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 615",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5878891
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "632",
+          "parenthetical": "Scalia, J., concurring in the judgment"
+        },
+        {
+          "parenthetical": "Scalia, J., concurring in the judgment"
+        },
+        {
+          "parenthetical": "Scalia, J., concurring in the judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0615-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 752",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772077
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "763"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0752-01"
+      ]
+    },
+    {
+      "cite": "517 U.S. 690",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11746351
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "699"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0690-01"
+      ]
+    },
+    {
+      "cite": "932 A.2d 1137",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8350978
+      ],
+      "pin_cites": [
+        {
+          "page": "1141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/932/1137-01"
+      ]
+    },
+    {
+      "cite": "597 A.2d 1318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11947884
+      ],
+      "pin_cites": [
+        {
+          "page": "1320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/597/1318-01"
+      ]
+    },
+    {
+      "cite": "673 A.2d 603",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862708
+      ],
+      "pin_cites": [
+        {
+          "page": "607"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/673/0603-01"
+      ]
+    },
+    {
+      "cite": "129 S.Ct. 1710",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3653882
+      ],
+      "weight": 13,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1723",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1716"
+        },
+        {
+          "page": "1719"
+        },
+        {
+          "page": "1719"
+        },
+        {
+          "page": "1720",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1721"
+        },
+        {
+          "page": "1719"
+        },
+        {
+          "page": "1721"
+        },
+        {
+          "page": "1721"
+        },
+        {
+          "page": "1719",
+          "parenthetical": "\"In many cases, as when a recent occupant is arrested for a traffic violation, there will be no reasonable basis to believe the vehicle contains relevant evidence.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0332-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1064,
+    "char_count": 24200,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 6.140023239719265e-08,
+      "percentile": 0.38198578372715936
+    },
+    "sha256": "205ac643f18326833be12bf2202a4ad681f58463922c87fb0db0907a8c1f1257",
+    "simhash": "1:ee49377a3dc3241a",
+    "word_count": 3962
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID and FISHER, Associate Judges, and BELSON, Senior Judge."
+    ],
+    "parties": [
+      "Tashina JOHNSON, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Associate Judge:\nTashina Johnson was convicted of unlawful possession of a controlled substance, D.C.Code \u00a7 48-904.01(d) (2001), after police officers saw a handgun on the floor of a car in which she was riding and, during a search of the car\u2019s interior, found marijuana in her purse. Appellant argues that the trial court erred in denying her motion to suppress. Because the search was permissible incident to the lawful arrest of another passenger, we affirm.\nI. Background\nWhile on routine patrol, two police officers focused their attention on a Volvo; a WALES cheek indicated it was stolen. The .car contained two males, the driver and the front passenger, and appellant, who was seated behind the driver. After the driver parked the Volvo (apparently without prompting by the police), the officers pulled up, turned on their emergency lights, and approached the car on foot. The officer who approached from the passenger side saw a large semiautomatic handgun on the floor below the front passenger\u2019s legs, and saw the front passenger move his legs in an attempt to conceal the weapon. The officers then ordered all three occupants to get out and placed them in handcuffs.\nAfter confirming that the vehicle had been reported stolen and contained a handgun, the officers arrested all the oceu-pants. At that point, appellant spontaneously asked, \u201c[W]hat\u2019s going to happen to my purse?\u201d and \u201cIs it going to be at the station[?]\u201d The officers then searched the car for weapons, ammunition, and contraband related to the handgun. They found a purse, large enough to hold a handgun, on the rear seat. Another officer searched the purse and, within \u201cjust a few seconds,\u201d found a plastic bag containing marijuana inside it.\nPrior to trial, Ms. Johnson moved to suppress the marijuana, arguing that the police lacked reason to believe (either probable cause or reasonable, articulable suspicion) that she was involved in criminal activity and therefore had no right to search the purse. After a combined suppression hearing and trial, Judge Epstein, relying on the officers\u2019 testimony about the likelihood of finding more guns or ammunition, found that the police \u201chad reason to believe\u201d that the passenger compartment contained evidence of the offense of carrying a pistol without a license, for which the front passenger had been arrested. Applying Arizona v. Gant, - U.S. -, 129 S.Ct. 1710, 173 L.Ed.2d 485 (2009), Judge Epstein concluded that the police had authority to search the passenger compartment and those containers within it capable of holding evidence of the crime, including weapons and ammunition. Having also found that the purse was big enough to hold a weapon and \u201ccertainly ammunition,\u201d the court denied the motion to suppress. The court found appellant guilty beyond a reasonable doubt.\nII. Analysis\nAppellant argues that the officers lacked probable cause to arrest her either for possessing the handgun or for unauthorized use of a motor vehicle; that there was no \u201creasonable basis\u201d to believe that the purse would contain evidence of a weapons offense; and that, even if there were, the search of the purse exceeded the permissible scope of a search for weapons. The import of her arguments is that the search of the purse did not fall within any exception to the warrant requirement of the Fourth Amendment and that the marijuana should have been suppressed. As the trial judge correctly decided, however, the search was properly conducted incident to a lawful arrest. See Arizona v. Gant, supra.\n\u201cWe view the evidence presented at the suppression hearing in the light most favorable to the party prevailing below, and we draw all reasonable inferences in that party\u2019s favor.\u201d Womack v. United States, 673 A.2d 603, 607 (D.C.1996) (citing Peay v. United States, 597 A.2d 1318, 1320 (D.C.1991) (en banc)). We review de novo the trial court\u2019s legal conclusions and \u201cdefer[] to the trial court\u2019s findings of fact unless they are clearly erroneous.\u201d Limpuangthip v. United States, 932 A.2d 1137, 1141 (D.C.2007) (citing Ornelas v. United States, 517 U.S. 690, 699, 116 S.Ct. 1657, 134 L.Ed.2d 911 (1996)).\nA. The Right to Search a Vehicle Incident to Arrest\nFollowing the Supreme Court\u2019s recent decision in Gant, there are two separate rationales for permitting the search of an automobile incident to the arrest of a recent occupant. \u201cPolice may search a vehicle incident to a recent occupant\u2019s arrest only if the arrestee is within reaching distance of the passenger compartment at the time of the search or it is reasonable to believe the vehicle contains evidence of the offense of arrest.\u201d Arizona v. Gant, 129 S.Ct. at 1723 (emphasis added). The original justification for a search incident to arrest \u2014 that the arrestee \u201cmight gain possession of a weapon or destructible evidence,\u201d Chimel v. California, 395 U.S. 752, 763, 89 S.Ct. 2034, 23 L.Ed.2d 685 (1969)\u2014does not apply to this case. As the Court held in Gant, \u201c[i]f there is no possibility that an arrestee could reach into the area that law enforcement officers seek to search, [the Chimel ] justifications for the search-incident-to-arrest exception are absent and the rule does not apply.\u201d 129 S.Ct. at 1716.\n\u201cAlthough it does not follow from Chimel, [the Supreme Court] also conclude^] [in Gant ] that circumstances unique to the vehicle context justify a search incident to a lawful arrest when it is \u2018reasonable to believe evidence relevant to the crime of arrest might be found in the vehicle.\u2019\u201d 129 S.Ct. at 1719 (quoting Thornton v. United States, 541 U.S. 615, 632, 124 S.Ct. 2127, 158 L.Ed.2d 905 (2004) (Scalia, J., concurring in the judgment)). In such circumstances, officers may \u201csearch[ ] the passenger compartment of an arrestee\u2019s vehicle and any containers therein.\u201d Id. at 1719 (emphasis added). See, e.g., Dawkins v. United States, 987 A.2d 470, 476 (D.C.2010) (upholding the search of an automobile under this prong of Gant).\nB. Reason to Search the Vehicle\nIn this case, the front seat passenger was arrested after the officers found a handgun beneath his legs. After they removed the driver and his passengers from the car, the officers searched \u201cfor other objects, other contraband related to the weapon, other weapons, ammunition, items of that sort.\u201d The officer who first saw the gun testified that, based on his training and experience, where there is one gun there may be more than one. Crediting the officers\u2019 testimony, the trial judge found that \u201cat the time of the search the police had reason to believe that there might be evidence of the offense of arrest [ \u2014 ] carrying a pistol without a license [ \u2014 ] in the passenger compartment of the car, including containers in the passenger compartment, and [he concluded that] they were therefore justified in searching [appellant\u2019s] purse.\u201d\nWe find no error in the trial judge\u2019s factual findings or legal conclusion. The officer in this case observed the handgun in plain view on the floor of the car. Texas v. Brown, 460 U.S. 730, 740, 103 S.Ct. 1535, 75 L.Ed.2d 502 (1983) (\u201cThere is no legitimate expectation of privacy ... shielding that portion of the interior of an automobile which may be viewed from outside the vehicle by either inquisitive passersby or diligent police officers.\u201d) (citation omitted). The sight of the handgun was evidence that a weapons offense was being committed, as was the front passenger\u2019s attempt at concealment. See, e.g., D.C.Code \u00a7 22-4504(a) (\u201cNo person shall carry within the District of Columbia either openly or concealed on or about their person, a pistol, without a license issued pursuant to District of Columbia law....\u201d). In addition, the trial judge credited testimony from one of the officers that where there is one gun, there may be more guns or ammunition. In the totality of the circumstances, it was, at a minimum, \u201creasonable to believe\u201d that the vehicle contained additional weapons or ammunition. See, e.g., Dawkins, 987 A.2d at 476 (\u201c[H]aving observed appellant lean into the car and close the door shortly before he was seen with a marijuana blunt, the officers reasonably could have believed that appellant had additional marijuana or drug paraphernalia in the car such that it was \u2018reasonable to believe evidence relevant to the crime of arrest might be found in the vehicle.\u2019 \u201d (quoting Gant, 129 S.Ct. at 1719)); United States v. Vinton, 389 U.S.App. D.C. 199, 211, 594 F.3d 14, 26 (2010) (it was reasonable for officer to believe that \u201cthere might be additional weapons in the car, particularly in the locked briefcase found on the backseat.\u201d (applying Gant)); People v. Osborne, 175 Cal.App.4th 1052, 96 Cal.Rptr.3d 696, 705 (2009) (\u201cAlthough the firearm found on defendant was loaded, it was reasonable to believe that the vehicle might contain additional items related to the crime of gun possession such as more ammunition or a holster.\u201d (applying Gant)).\nIndeed, cases addressing similar circumstances establish that the officers had probable cause to search the vehicle. See Andrews v. United States, 922 A.2d 449, 457 n. 13 (D.C.2007) (\u201cOnce Officer Dean saw the ammunition clip in plain view, the police had probable cause to seize and search the vehicle.\u201d); Hurley v. United States, 273 A.2d 840, 841 (D.C.1971) (holding that the discovery of nine bullets but no weapon during the search of a driver created \u201cprobable cause to search the vehicle for contraband, that is, the pistol\u201d); United States v. Boucher, 909 F.2d 1170, 1175 (8th Cir.1990) (\u201cCooper ... had probable cause to search the vehicle resulting from his observation of the concealed weapon in the front seat.\u201d); cf. United States v. Watson, 697 A.2d 36, 38 (D.C.1997) (\u201c[W]hen the police saw Watson smoking what appeared to be a marijuana cigarette, and smelled the distinctive odor of burnt marijuana as they approached his car on foot, they had probable cause to seai'ch the passenger compartment of the car.\u201d); id. (\u201c[T]he probable cause which the police had to search the car was not exhausted when they found the maidjuana cigarette in the ashtray.\u201d); Minnick v. United States, 607 A.2d 519, 525 (D.C.1992) (holding \u201cthat a police officer who smells the identifiable aroma of a contraband drug emanating from a car has probable cause to believe that the car contains a quantity of that drug.\u201d). Because there was probable cause to search, there was, perforce, \u201creason to believe\u201d that the car contained evidence related to the crime of carrying a pistol without a license for which the front passenger had been arrested. We therefore need not decide whether a level of suspicion less than probable cause will suffice under the \u201creasonable to believe\u201d prong of Gant.\nC. Searching Appellant\u2019s Purse\nWe reject appellant\u2019s argument that the police exceeded the scope of a permissible search by inspecting her purse. The trial judge found that the \u201cpurse was large enough to contain a weapon and certainly ammunition,\u201d so, we add, \u201cthere is no plausible argument that the object of the search could not have been concealed in the [purse].\u201d United States v. Johns, 469 U.S. 478, 487, 105 S.Ct. 881, 83 L.Ed.2d 890 (1985). Although the record does not reveal the exact dimensions of the \u201csmall zip loc bag\u201d of marijuana, the trial court saw it when the exhibit was identified and admitted into evidence, and there is no reason to think the officers discovered it in an area of the purse that could not have contained ammunition.\nNor does it matter that the search of appellant\u2019s purse was justified by the arrest of another passenger. If the search of a vehicle is authorized incident to an arrest, officers may search containers in the passenger compartment without regard to ownership. Staten v. United States, 562 A.2d 90, 91-92 (D.C.1989) (upon arrest of driver, police could search locked glove compartment of vehicle, although car was owned by passenger). In Staten we explained: \u201cThird-party ownership of the auto' or \u2018containers\u2019 therein ... should not ... bar the police from searching them in the same manner as if they were owned by the arrestee.\u201d 562 A.2d at 92. See United States v. Hensley, 469 U.S. 221, 224-25, 235-36, 105 S.Ct. 675, 83 L.Ed.2d 604 (1985) (when officers saw butt of revolver protruding from underneath the passenger\u2019s seat, they had probable cause to arrest passenger and, pursuant to New York v. Belton, 453 U.S. 454, 101 S.Ct. 2860, 69 L.Ed.2d 768 (1981), could search interior of car owned by driver, including a bag in the back seat; discovery of additional firearms gave probable cause to arrest driver). Indeed, Gant acknowledged that \u201cBelton searches authorize police officers to search not just the passenger compartment but every purse, briefcase, or other container within that space.\u201d Gant, 129 S.Ct. at 1720 (emphasis added).\nStaten applied the original justifications for searches incident to arrest (concerns for officer safety and preventing destruction of evidence), which do not apply to the facts of this case, see supra note 3. However, the portion of Staten on which we now focus \u2014 addressing the permissible scope of a search incident to arrest \u2014 is equally applicable when the search is justified by the new rationale adopted in Gant\u2014\u201creason[ ] to believe the vehicle contains evidence of the offense of arrest.\u201d 129 S.Ct. at 1721. Gant reaffirms that, in many cases (and we conclude this is one of them), \u201cthe offense of arrest will supply a basis for searching the passenger compartment of an arrestee\u2019s vehicle and any containers therein.\u201d Id. at 1719.\nWhether the warrantless search of an automobile is conducted incident to arrest, or is justified instead by probable cause, see United States v. Ross, 456 U.S. 798, 102 S.Ct. 2157, 72 L.Ed.2d 572 (1982), the police may search all containers that might conceal the object of the search. Ross, 456 U.S. at 817-25, 102 S.Ct. 2157. In Wyoming v. Houghton, 526 U.S. 295, 119 S.Ct. 1297, 143 L.Ed.2d 408 (1999), where there was \u201cprobable cause to believe there were illegal drugs in the car[,]\u201d id. at 300, 119 S.Ct. 1297, the Supreme Court upheld the search of a passenger\u2019s purse: \u201c[Pjolice officers with probable cause to search a car may inspect passengers\u2019 belongings found in the car that are capable of concealing the object of the search.\u201d Id. at 307, 119 S.Ct. 1297. \u201cWhen there is probable cause to search for contraband in a car, it is reasonable for police officers ... to examine packages and containers without a showing of individualized probable cause for each one[,]\u201d id. at 302, 119 S.Ct. 1297, and \u201cwithout qualification as to ownership.\u201d Id. at 301, 119 S.Ct. 1297. Indeed, \u201c[effective law enforcement would be appreciably impaired without the ability to search a passenger\u2019s personal belongings when there is reason to believe contraband or evidence of criminal wrongdoing is hidden in the car.\u201d Id. at 304, 119 S.Ct. 1297.\nAs the Court reasoned in Houghton, \u201c[i]f the rule of law that Ross announced were limited to contents belonging to the driver, or contents other than those belonging to passengers, one would have expected that substantial limitation to be expressed.\u201d Id., 526 U.S. at 301-02, 119 S.Ct. 1297. The same may be said about Gant. Nothing in Gant suggests that a restriction based on ownership of a container has been superimposed upon the search of a vehicle incident to arrest.\nCommon sense counsels against imposing any such limitation. It would be impractical to always require police to sort out who owns which containers on the scene of each and every vehicle search. Moreover, in many circumstances, ownership does not determine where evidence may be found. As the Court cautioned in Houghton,\nonce a \u201cpassenger\u2019s property\u201d exception to car searches became widely known, one would expect passenger-confederates to claim everything as their own. And one would anticipate a bog of litigation ... involving such questions as whether the officer should have believed a passenger\u2019s claim of ownership, whether he should have inferred ownership from various objective factors, whether he had probable cause to believe that the passenger was a confederate, or to believe that the driver might have introduced the contraband into the package with or without the passenger\u2019s knowledge.\nHoughton, 526 U.S. at 305-06, 119 S.Ct. 1297. Because \u201cdeterminations of \u2018reasonableness\u2019 under the Fourth Amendment must take account of these practical realities,\u201d id. at 306, 119 S.Ct. 1297, we reaffirm our holding in Staten that, during the search of a passenger compartment incident to the arrest of a recent occupant, containers may be searched without regard to ownership. In this case, the police properly searched appellant\u2019s purse incident to the arrest of the front seat passenger for carrying a pistol without a license.\nIII. Conclusion\nBecause the search of the purse was justified under Gant incident to the arrest of the front seat passenger, we need not reach appellant\u2019s argument that the police lacked probable cause to arrest her for carrying a pistol without a license or unauthorized use of a vehicle. Nor do we consider the government\u2019s argument that the marijuana should not be suppressed because the police acted in good-faith reliance upon the law as it was understood prior to Gant.\nThe judgment of the Superior Court is hereby\nAffirmed.\n. Although the owner told a detective two days before the stop \"that she had seen the car parked in a different parking place on the street where it had been when she parked it[,]\u201d she failed to come to the police station as requested, and the relevant database had not been updated at the time of the arrest. Appellant does not argue on appeal that the officers improperly relied on the information in the WALES system. See Herring v. United States, 555 U.S. 135, 129 S.Ct. 695, 702, 172 L.Ed.2d 496 (2009).\n. Officer Catlett testified that \u201c[d]efinitely a handgun could fit in there. It was pretty big. It was like a big old Gucci bag.\u201d During his testimony, Officer Wade gestured to illustrate the size of the purse and described it as \"maybe a little less than a foot.\u201d He \u201dbe-lievefd] the purse could contain ammunition, handguns, a large handgun or a small handgun, many different types of weapons....\"\n. \"The government does not rely on Gant's safety rationale given that all of the occupants had been removed from the car, arrested, and handcuffed by the time the police searched the car.\u201d Brief for Appellee at 25 n. 22.\n. The handgun thus served double duty, creating probable cause not only to arrest the front passenger but also to believe that the Volvo contained other weapons or ammunition. See Chambers v. Maroney, 399 U.S. 42, 47 n. 6, 90 S.Ct. 1975, 26 L.Ed.2d 419 (1970) (\"[A]s will be true in many cases, the circumstances justifying the arrest are also those furnishing probable cause for the search.\").\n. In Vinton, the court noted that both unlawful possession of a weapon and unlawful possession of narcotics tend to establish an evi-dentiary basis for searching a car:\n[I]t is difficult to imagine a principled basis for distinguishing the possession of narcotics from the possession of an unlawful weapon, where an arrest for the former makes it reasonable to believe additional narcotics remain in the car, but an arrest for the latter does not make it reasonable to believe additional weapons are in the car. In both cases, the defendant has been caught with a type of contraband sufficiently small to be hidden throughout a car and frequently possessed in multiple quantities. Indeed, this fact was well-known to Officer Alton, who testified that \"generally if one weapon is there ... there\u2019s the chance that other weapons could be there.\u201d\nVinton, 389 U.S.App. D.C. at 211, 594 F.3d at 26.\n. But see Vinton, 389 U.S.App. D.C. at 210, 594 F.3d at 25 (\"Presumably, the 'reasonable to believe' standard requires less than probable cause, because otherwise Gant's eviden-tiary rationale would merely duplicate the \u2018automobile exception,\u2019 which the Court specifically identified as a distinct exception to the warrant requirement.\u201d); People v. Chamberlain, 229 P.3d 1054, 1057 (Colo.2010) (\"[I]t seems more likely that the Court intended a lesser degree of suspicion commensurate with that sufficient for limited intrusions, like investigatory stops.\u201d); 3 Wayne R. LaFave, Search and Seizure \u00a7 7.1(d) at 111 (4th ed. Supp.2009-10) (the Gant majority \"most certainly\u201d did not mean that the \u201creasonable to believe\u201d standard was equivalent to probable cause).\n. \"If there is probable cause to believe a vehicle contains evidence of criminal activity, United States v. Ross, 456 U.S. 798, 820-21 [102 S.Ct. 2157, 72 L.Ed.2d 572] (1982), authorizes a search of any area of the vehicle in which the evidence might be found.\u201d Gant, 129 S.Ct. at 1721.\n. Unlike searches permitted under the \"reasonable to believe\u201d prong of Gant, \"Ross allows searches for evidence relevant to offenses other than the offense of arrest, and the scope of the search authorized is broader.\u201d Gant, 129 S.Ct. at 1721.\n. Citing its decision in Rawlings v. Kentucky, 448 U.S. 98, 102, 100 S.Ct. 2556, 65 L.Ed.2d 633 (1980), the Supreme Court noted that \"[a] criminal might be able to hide contraband in a passenger\u2019s belongings as readily as in other containers in the car, ... perhaps even surreptitiously, without the passenger's knowledge or permission.\u201d Houghton, 526 U.S. at 305, 119 S.Ct. 1297.\n. Judge Epstein specifically cited both Staten and Houghton when explaining his decision to deny appellant\u2019s motion to suppress.\n. The search of the Volvo might also be justified under the automobile exception to the warrant requirement, which authorizes officers to search a vehicle if they have probable cause to believe it contains contraband or evidence of a crime. Carroll v. United States, 267 U.S. 132, 45 S.Ct. 280, 69 L.Ed. 543 (1925); California v. Acevedo, 500 U.S. 565, 580, 111 S.Ct. 1982, 114 L.Ed.2d 619 (1991). Under this exception, officers may search \"every part of the vehicle and its contents that may conceal the object of the search.\u201d United States v. Ross, 456 U.S. 798, 825, 102 S.Ct. 2157, 72 L.Ed.2d 572 (1982); United States v. Brown, 708 A.2d 637, 639 (D.C.1998) (\"Probable cause having been established, the officers were authorized to search the entire vehicle, including the trunk and the bag in the trunk.\u201d). \u201cThat rule, recalled in Gant, remains unchanged.\u201d United States v. Stotler, 591 F.3d 935, 940 (7th Cir.2010). Moreover, \"police officers with probable cause to search a car may inspect passengers\u2019 belongings found in the car that are capable of concealing the object of the search.\u201d Wyoming v. Houghton, 526 U.S. 295, 307, 119 S.Ct. 1297, 143 L.Ed.2d 408 (1999). The government has not made this argument, however, and we therefore do not base our decision upon it.\n.We neither perceive nor intend any inconsistency between our holding here and our recent decision in United States v. Debruhl, 993 A.2d 571 (D.C.2010), where the search had been conducted before the decision in Gant, and this court rejected the government's argument that we should apply the \"good faith\u201d exception to the exclusionary rule. \"Because Debruhl had been arrested for a traffic violation, handcuffed, and held by police officers away from his car while it was searched, the government [did] not contest that, under Gant, the search violated the Fourth Amendment.\u201d Id. at 582. See Gant, 129 S.Ct. at 1719 (\"In many cases, as when a recent occupant is arrested for a traffic violation, there will be no reasonable basis to believe the vehicle contains relevant evidence.\u201d). Here, by contrast, the search was valid under Gant and there is no occasion to consider any \"good faith\u201d exception to the exclusionary rule.",
+        "type": "majority",
+        "author": "FISHER, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Christine Pembroke, Washington, DC, appointed by the court, for appellant.",
+      "Ronald C. Machen Jr., United States Attorney, and Roy W. McLeese III, Mary B. McCord, Trevor N. McFadden, and John P. Gidez, Assistant United States Attorneys, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Tashina JOHNSON, Appellant, v. UNITED STATES, Appellee.\nNo. 09-CM-1233.\nDistrict of Columbia Court of Appeals.\nSubmitted Sept. 9, 2010.\nDecided Nov. 12, 2010.\nChristine Pembroke, Washington, DC, appointed by the court, for appellant.\nRonald C. Machen Jr., United States Attorney, and Roy W. McLeese III, Mary B. McCord, Trevor N. McFadden, and John P. Gidez, Assistant United States Attorneys, for appellee.\nBefore REID and FISHER, Associate Judges, and BELSON, Senior Judge."
+  },
+  "file_name": "1030-01",
+  "first_page_order": 1058,
+  "last_page_order": 1065
+}

@@ -1,0 +1,562 @@
+{
+  "id": 7284280,
+  "name": "IRA G. STEFFY & SON, INC., Appellant v. CITIZENS BANK OF PENNSYLVANIA, Appellee",
+  "name_abbreviation": "Ira G. Steffy & Son, Inc. v. Citizens Bank of Pennsylvania",
+  "decision_date": "2010-09-17",
+  "docket_number": "",
+  "first_page": "278",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 A.3d 278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "639 A.2d 32",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "536 Pa. 646",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Pa.Super. 57",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        929888
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/426/0057-01"
+      ]
+    },
+    {
+      "cite": "911 A.2d 133",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8401402
+      ],
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/911/0133-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 1127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        650368,
+        8978923
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0440-01",
+        "/a2d/872/1127-01"
+      ]
+    },
+    {
+      "cite": "582 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        650368
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0440-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 567",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8468136
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/905/0567-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 975",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        730245,
+        11337534
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "979-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/447/0436-01",
+        "/a2d/669/0975-01"
+      ]
+    },
+    {
+      "cite": "447 Pa.Super. 436",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        730245
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/447/0436-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11905449
+      ],
+      "pin_cites": [
+        {
+          "page": "1006"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/1003-01"
+      ]
+    },
+    {
+      "cite": "801 A.2d 1248",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9412706
+      ],
+      "pin_cites": [
+        {
+          "page": "1250-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/801/1248-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 979",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11905185
+      ],
+      "pin_cites": [
+        {
+          "page": "985"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/0979-01"
+      ]
+    },
+    {
+      "cite": "641 F.2d 143",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6540253,
+        1365861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/9/0143-01",
+        "/f2d/641/0143-01"
+      ]
+    },
+    {
+      "cite": "176 A.2d 132",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Pa.Super. 644",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        754915
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/196/0644-01"
+      ]
+    },
+    {
+      "cite": "615 A.2d 1313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "532 Pa. 657",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 Pa.Super. 371",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        911123
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "570",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/415/0371-01"
+      ]
+    },
+    {
+      "cite": "275 Pa.Super. 594",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        140697
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/275/0594-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 986",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295153,
+        4197222,
+        7295191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/0986-01",
+        "/pa/603/0133-01",
+        "/a2d/982/0986-02"
+      ]
+    },
+    {
+      "cite": "992 A.2d 65",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7286665,
+        3697787
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/992/0065-01",
+        "/pa/605/0468-02"
+      ]
+    },
+    {
+      "cite": "924 A.2d 1259",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8309553
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/1259-01"
+      ]
+    },
+    {
+      "cite": "2009 U.S. Dist. LEXIS 92193",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "13-15",
+          "parenthetical": "some citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 3172752",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "5",
+          "parenthetical": "some citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "637 A.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1841467,
+        7353685
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0610-01",
+        "/a2d/637/0276-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 610",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841467
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0610-01"
+      ]
+    },
+    {
+      "cite": "422 Pa.Super. 262",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        923455
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "citing D.A. Hill, supra"
+        },
+        {
+          "page": "350",
+          "parenthetical": "citing D.A. Hill, supra"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/422/0262-01"
+      ]
+    },
+    {
+      "cite": "271 Pa.Super. 484",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        132931
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/271/0484-01"
+      ]
+    },
+    {
+      "cite": "279 Pa.Super. 101",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        149048
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "benefit of subcontractor's work to owner can be demonstrated by price of property at foreclosure sale"
+        },
+        {
+          "page": "1062",
+          "parenthetical": "benefit of subcontractor's work to owner can be demonstrated by price of property at foreclosure sale"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/279/0101-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 425",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822857
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0425-01"
+      ]
+    },
+    {
+      "cite": "189 A.2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "595-96",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "410 Pa. 446",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1884585
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/410/0446-01"
+      ]
+    },
+    {
+      "cite": "924 A.2d 675",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8306275
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/0675-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1297,
+    "char_count": 37371,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 3.826104818355754e-07,
+      "percentile": 0.8985570201197058
+    },
+    "sha256": "77afd9e42cbb502a2380e1fbd81fe3cb85df98ea8be59d087ce6c40334d3563d",
+    "simhash": "1:9197a317fb6a95ee",
+    "word_count": 5880
+  },
+  "last_updated": "2024-02-27T21:48:53.570631+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: BENDER, OTT and KELLY, JJ."
+    ],
+    "parties": [
+      "IRA G. STEFFY & SON, INC., Appellant v. CITIZENS BANK OF PENNSYLVANIA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nKELLY, J.:\nAppellant/Plaintiff, Ira G. Steffy & Son, Inc., appeals from the order entered in the Lehigh County Court of Common Pleas sustaining the preliminary objections of Appellee/Defendant, Citizens Bank of Pennsylvania, and dismissing Appellant\u2019s amended complaint. After an extensive review of the record, we affirm the trial court\u2019s opinion, finding that Appellant, a subcontractor who was not paid for work performed on a project after Appellee bank failed to release construction funds to the developer, has failed to state a claim for relief against Appellee.\nAppellant\u2019s amended complaint, filed on June 9, 2009, averred that pursuant to the terms of a construction loan agreement (CLA) that was executed on December 3, 2007, Appellee agreed to loan Macungie Crossings I, L.L.C, (Macungie) $35,900,000 to construct a warehouse (the Project) on a tract of land in Lehigh County, Pennsylvania. As part of the agreement, Macungie mortgaged the property to Appellee. Opus East, LLC (Opus) was hired as the general contractor. On February 20, 2008, Opus executed a subcontract with Appellant to perform structural metal work in exchange for payment of approximately $3,000,000.\nBeginning in February of 2009, Opus materially breached the subcontract agreement by failing to make monthly progress payments to Appellant. Appellant claimed that it had substantially completed its work by March 10, 2009, but it was \u201cprevented\u201d from finishing due to Opus\u2019 lack of payment. (Amended Complaint, at \u00b6 12). \u201cIn numerous communications with Opus and Macungie,\u201d Appellant was \u201cadvised\u201d that progress payments were not made because Appellee wrongfully refused to advance money to Macungie under the CLA. (Id,., at \u00b6 13).\nSpecifically, on March 23, 2009, Brian Grindall of Opus indicated that [Appel-lee] had failed to release any funds for the January, 2009 draw request, even though Macungie was not in default under the [CLA]. Upon [Appellant\u2019s] information and belief, [Appellee] has failed to release any funds for any work performed in February, 2009, or thereafter.\n(Id.).\nAppellant argued that \u201cby entering into the [CLA] and causing the mortgage and note to be filed[, Appellee] represented ... that there would be funds of up to $35,-900,00[] available to complete the construction!,]\u201d and Appellant acted in reasonable reliance upon this representation when it entered into the subcontract with Opus. (Id., at \u00b6\u00b6 25, 26). Thus, Appellee, \u201cacting with full knowledge\u201d that its \u201cwrongful withholding of funds\u201d would \u201cjeopardize!]\u201d Opus\u2019 subcontracts and cause Macungie to default under the CLA, would be unjustly enriched if it were able to seize the property through foreclosure without having paid the fair and reasonable value for it. (Id., at \u00b6\u00b6 14-15). Because \u201cmore than sufficient [CLA] funds remain[ed] ... to complete the Project!,]\u201d Appellant requested that a constructive trust be imposed on the remaining funds for the value of its unpaid labor and materials. (Id., at \u00b6\u00b6 22-23). Appellant also sought relief under theories of fraudulent misrepresentation, intentional interference with contractual relations, and breach of contract as a third-party beneficiary.\nPursuant to Pa.R.C.P. 1028(a)(4), Appel-lee filed preliminary objections on July 2, 2009. First, Appellee asserted that Appellant failed to show how the withholding of funds was unjust, because \u201c[Appellee] has merely acted within its rights under the [l]oan [documents so as to best protect its own financial interests.\u201d (Preliminary Objections, 7/2/09, at \u00b68). Appellee claims that Macungie was in default under the terms of the CLA, and commenced foreclosure on the property. Appellee further responded that Appellant failed to plead the requisite elements for claims of misrepresentation, intentional interference with contractual relations, or breach of contract as a third-party beneficiary. The trial court sustained Appellee\u2019s preliminary objections and dismissed Appellant\u2019s action in its entirety on August 7th.\nOn appeal, Appellant claims that the trial court erred in sustaining Appel-lee\u2019s preliminary objections where its amended complaint stated a claim for: (1) unjust enrichment, and as such, imposition of a constructive trust; (2) breach of the CLA, of which it was a third-party beneficiary; (3) intentional interference with its subcontract with Opus; and (4) misrepresentation.\nWhen reviewing the dismissal of a complaint based upon preliminary objections in the nature of a demurrer, we treat as true all well-pleaded material, factual averments and all inferences fairly deducible therefrom. Where the preliminary objections will result in the dismissal of the action, the objections may be sustained only in cases that ai\u2019e clear and free from doubt. To be clear and free from doubt that dismissal is appropriate, it must appear with certainty that the law would not permit recovery by the plaintiff upon the facts averred. Any doubt should be resolved by a refusal to sustain the objections. Moreover, we review the trial court\u2019s decision for an abuse of discretion or an error of law.\nBurgoyne v. Pinecrest Community Ass\u2019n, 924 A.2d 675, 679 (Pa.Super.2007).\nWhere one party has been unjustly enriched at the expense of another, he is required to make restitution to the other. In order to recover, there must be both (1) an enrichment, and (2) an injustice resulting if recovery for the enrichment is denied....\nSection 110 [of the Restatement of Restitution] deals with the situation where a third party benefits from a contract entered into between two other parties. It provides that, in the absence of some misleading by the third party, the mere failure of performance by one of the contracting parties does not give rise to a right of restitution against the third party.\nMeehan v. Cheltenham Township, 410 Pa. 446, 189 A.2d 593, 595-96 (1963) (emphasis added).\nIn D.A. Hill Co. v. Clevetrust Realty Investors, 524 Pa. 425, 573 A.2d 1005 (1990), our Supreme Court has addressed unjust enrichment claims brought by a subcontractor against a third-party lending institution. In D.A. Hill, an investment company provided a construction loan, secured by a mortgage, to a developer to build a shopping mall. Id. at 1006. The developer hired a general contractor, who in turn hired the plaintiff as a subcontractor. Id. After construction began, the development company defaulted on its loan by failing to make a mandatory interest payment. Id. at 1007. In accordance with its rights under the loan agreement, the investment company refused to disburse additional funds, the general contractor received no money, and the subcontractor was left without compensation for its work. Id. Eventually, the investment company foreclosed on the property. Id. The plaintiff subcontractor then brought suit against the investment company on the theory that the investment company had been unjustly enriched by the subcontractor\u2019s work. Id. at 1008.\nThe Pennsylvania Supreme Court found that in order to prevail, the subcontractor would have had to demonstrate that the investment company was enriched, and that such enrichment was unjust. Id. at 1009. Enrichment is \u201cmeasured by the value of the benefit to the owner, not by the value of the invoice submitted by the subcontractor.\u201d Id.; see also Meehan, supra at 595 (subcontractor \u201ccannot merely allege its own loss as the measure of recovery \u2014 i.e., the value of labor and materials expended \u2014 but instead must demonstrate that the owner has in fact benefited.\u201d); Gee v. EBerle, 279 Pa.Super. 101, 420 A.2d 1050, 1062 (1980) (benefit of subcontractor\u2019s work to owner can be demonstrated by price of property at foreclosure sale). Furthermore, the enrichment would only be considered unjust if the owner had requested the benefit, contracted directly with, or misled the subcontractor. D.A. Hill, supra at 1009, 1010. The Court ruled in favor of the investment company, finding that the subcontractor failed to establish the existence of a benefit at the time of foreclosure. Id,., at 1010. The Court explained its decision:\nThe legislature in Pennsylvania has by statute provided the mechanics\u2019 lien as a means by which a contractor or subcontractor can obtain security for work done. Other security can be acquired by contract.... [A] court should not rewrite the contract of the parties or legislate a right to receive payment from a mortgagee who has been compelled to go into possession to preserve its security. Such a rule would do much to impair the availability of capital upon which the building industry so greatly depends.\nId. at 1010 n. 5 (quoting Myers-Macomber Engineers v. M.L.W. Constr. Corp., 271 Pa.Super. 484, 414 A.2d 357, 361 (1979)). Additionally, we find the recent comments made by the United States District Court for the Eastern District of Pennsylvania on this issue illuminating:\nA contrary rule allowing subcontractors to recover directly from owners in other circumstances would destroy the balance of contractual relationships in the construction industry and reverse the public policy of Pennsylvania as articulated by the Supreme Court....\n* * *\n... As D.A. Hill makes clear, the conferral of a benefit is a necessary, but not sufficient, condition of a valid unjust enrichment claim. \u201cThe doctrine does not apply simply because the defendant may have benefit[t]ed as a result of the actions of the plaintiff.\u201d [Styer v. Hugo, 422 Pa.Super. 262, 619 A.2d 347, 350 (1993) (citing D.A. Hill, supra), aff'd 535 Pa. 610, 637 A.2d 276 (1994) ]. In order to avoid dismissal of the unjust enrichment claim, [the plaintiff] must allege in its complaint facts showing that the defendants specifically requested benefits or misled [the plaintiff].\nGoldsmith Assocs. v. Del Frisco\u2019s of Phila., Inc., 2009 WL 3172752, 5, 2009 U.S. Dist. LEXIS 92193, 13-15 (E.D.Pa. Oct. 1, 2009) (some citations omitted).\nIn the instant case, Appellant argued that its work on the Project had increased the value of the property, and Appellee will be unjustly enriched if it \u201cseize[s] the benefit ... without having paid the fair and reasonable value therefore.\u201d (Amended Complaint, at \u00b6 14). On appeal, Appellant claims that the trial court erred in holding that a partially-completed project cannot be the source of unjust enrichment to a lender. {See Trial Ct. Op., 8/7/09, at 7) (\u201cA partially completed project does not yield a lender all that it bargained for in terms of security. Hence, in such circumstances, it cannot be deemed unjustly enriched when the specter of additional, and perhaps, indeterminate payments remain in the offing in order to protect its collateral.\u201d) Appellant argues that in so holding, the trial court either made an unlawful finding of fact at the pleadings stage, that is, that indeterminate payments were left to be made, or erred as a matter of law pursuant to Gee, supra at 1057 n. 5.\nWhile we agree with Appellant that the trial court may have made an improper finding of fact, we affirm its order of dismissal on other grounds. Nationwide Mut. Ins. Co. v. Fleming, 924 A.2d 1259, 1269 n. 5 (Pa.Super.2007) (we may uphold decision of trial court if there is any proper basis for result reached), aff'd, 992 A.2d 65 (Pa.2010). Regarding the \u201cenrichment\u201d prong, we find that Appellant\u2019s pleadings are not \u201cclear and free from doubt.\u201d See Burgoyne, supra. However, this finding is not based on the alleged value of the unpaid labor and materials or the degree to which the work was completed. Rather, it is based on both parties\u2019 presentation of evidence that Appellee had commenced foreclosure proceedings on the property, and that default judgment was entered against Macungie. Had discovery in this case been allowed, Appellant would potentially be able to show that Appellee was enriched by its work, if the value of the property seized at foreclosure exceeded the amount advanced.\nYet even if Appellant could show enrichment, it did not plead facts showing that any such enrichment would be unjust. See D.A. Hill, supra at 1010. Indeed, regarding the \u201cunjust prong,\u201d Appellant has failed to demonstrate that it had either the requisite contractual relationship with Appellee or was misled by Appellee. See id.\nAppellant was not a party to Appellee\u2019s Construction Loan Agreement (CLA) with Macungie, and Appellee was not a party to Appellant\u2019s subcontractor agreement with Opus. Pursuant to the pleadings, the only interaction that Appellant had with Appel-lee was on April 2, 2009, when it sent a letter to Appellee regarding Opus\u2019 missed payments. (See Amended Complaint, Exh. E at 1). No response to this letter was included in the record.\nAppellant repeatedly points to section 7.1(a) of the CLA, where Appellee reserved the right to make direct payments to subcontractors, should it choose to, as evidence of a contractual relationship between the two parties. (See, e.g., id., at \u00b6 3). We find Appellant misreads this paragraph. While section 7.1(a) allows for direct payments to be made, it specifically disclaims the formation of any contractual relationship as a result of these payments:\nLoan proceeds may be paid directly by [Appellee] to the Contractors[ due them on account of work performed and/or materials furnished.... These direct payments shall not create any privity of contract, trustee, beneficiary, or guai'antor (surety) relationship of any kind between said parties and [Appel-lee].\n(Id., Exh. A \u00a7 7.1(a)) (emphasis added). As such, Appellant has failed to set forth any evidence to suggest that it had a direct contractual agreement with Appellee, or that Appellee requested a benefit from it.\nFurthermore, Appellant has not set forth sufficient facts that would warrant an inference that it was misled by Appellee. In its amended complaint, Appellant asserted that \u201c[b]y entering into the [CLA] and causing the mortgage and note to be filed of record, [Appellee] represented to all parties interested in the Project that there would be funds of up to $35,900,00[ ] available to complete the construction,\u201d and that Appellee intended for the subcontractors to rely upon this representation. (Id., at \u00b6 25). However, the purpose of recording a mortgage is to provide notice that the property in question is encumbered; it does not amount to a positive guarantee that funds will be released by the lender. US Bank N.A. v. Mallory, 982 A.2d 986, 994 n. 6 (Pa.Super.2009) (\u201cMortgages are recorded to provide notice to the world as to whose interest encumbers title.\u201d)\nWhile Appellant argues that Appellee violated the CLA by withholding funds even though Macungie was not in default, the only evidence it offers in support of this contention is that it learned of this information from an Opus representative. (See Amended Complaint,, at \u00b6 13). Moreover, even if Appellant could prove Appel-lee\u2019s alleged misconduct, it does not' have standing to challenge this behavior.\nThis Court faced a similar set of facts in R.M. Shoemaker Co. v. Southeastern Pennsylvania Economic Development Corp., 275 Pa.Super. 594, 419 A.2d 60 (1980), where a general contractor attempted to show that the owner of the property was not insolvent at the time the lending institution refused to advance funds under the construction loan. This Court found the contractor\u2019s claim unpersuasive, because the owner\nhas not challenged [the lender\u2019s] refusal to advance moneys, and [the contractor] acquired no rights under the loan agreement. Therefore, even if [the owner] had been solvent and [the lender] had been in violation of the loan agreement by refusing to advance money, only [the owner] could complain of [the lender\u2019s] breach. [The contractor] was not a party to the agreement and had no standing to enforce it by legal action.\nId. at 63.\nSimilar to the contractor in R.M. Shoemaker Co., Appellant had acquired no rights under the loan agreement between Appellee and Macungie. As such, Appellant has no standing to complain of a breach of that agreement by Appellee. Such a challenge is within the province of Macungie, who, according to the pleadings, was found to be in default and consented to Appellee\u2019s motion to appoint a receiver. (See Response to Preliminary Objections, at Exh. A n.1).\nWhile Appellant has presented a potential claim for enrichment, it has failed to state a claim that such enrichment would be unjust. Accordingly, we find that the trial court did not abuse its discretion in sustaining Appellee\u2019s preliminary objections pursuant to Appellant\u2019s claim for unjust enrichment.\nIn addition, Appellant argues that the CLA establishes that subcontractors are intended third-party beneficiaries of the agreement. However, we agree with the trial court\u2019s finding that this claim is without merit. (See Trial Ct. Op., at 7).\nTo be considered a third-party beneficiary in [Pennsylvania] it is necessary to show both parties to the contract had an intent to benefit the third party through the contract and did, in fact, explicitly indicate this intent in the contract.\nStrutz v. State Farm Mut. Ins. Co., 415 Pa.Super. 371, 609 A.2d 569, 570 (1992) (citations omitted) (emphasis added), appeal denied, 532 Pa. 657, 615 A.2d 1313 (1992). Nowhere in the CLA does Appel-lee or Macungie show an intent to make Appellant a third-party beneficiary to the agreement. To the contrary, the terms of the CLA show that its drafters specifically rejected the idea of subcontractors as third-party beneficiaries.\nAs noted above, section. 7.1(a) of the CLA gave Appellee the right to make direct payments to subcontractors, but expressly states that no beneficiary relationship shall result from these payments. (Amended Complaint, at Exh. A \u00a7 7.1(a)). Even more telling is section 10.4 of the CLA, entitled \u201cNo Third Parties Benefit-ted[,]\u201d which states that \u201c[n]o part of the Loan proceeds will be at any time subject or liable to attachment or levy at the suit of ... any subcontractor [and n]o party is intended to be a third party beneficiary of the Loan proceeds or [the CLA].\u201d (Id., at Exh. A. \u00a7 10.4) (emphasis added). As such, the CLA demonstrates Appellee\u2019s unambiguous intent to deny third-party beneficiary status to subcontractors.\nAppellant cites to two cases, Kreimer v. Second Federal Sav. & Loan Asso., 196 Pa.Super. 644, 176 A.2d 132 (1961), and In re Gebco Inv. Corp., 641 F.2d 143 (3d Cir.1981), in support of its argument that a construction loan agreement which permits a lender to make direct payments to a subcontractor evince an intent to convey a third-party beneficiary status upon the subcontractor. We first note that the agreement in Kreimer, supra at 133, unlike the agreement in the instant case, required the lender to make direct payments to the subcontractors. Furthermore, both cases are distinguished from the case sub judice because the agreements in neither Kreimer nor Gebco contained language that expressly disclaimed third-party beneficiary status. It is the practice of this Court to find against third-party beneficiary status when a construction loan agreement specifically disclaims an intent to confer such status on subcontractors. See, e.g., Gee, supra at 1055-56 n. 4 (express provision of agreement disclaimed intent to create third party beneficiary). Accordingly, we find that the trial court did not abuse its discretion in dismissing Appellant\u2019s claim for breach of contract as a third-party beneficiary to the CLA.\nFurthermore, we find that the trial court properly dismissed Appellant\u2019s claim for relief under a theory of intentional interference with contractual relations.\nThe elements of a cause of action for intentional interference with a contractual relation, whether existing or prospective, are as follows:\n(1) the existence of a contractual, or prospective contractual relation between the complainant and a third party;\n(2) purposeful action on the part of the defendant, specifically intended to harm the existing relation, or to prevent a prospective relation from occurring;\n(3) the absence of privilege or justification on the part of the defendant; and\n(4) the occasioning of actual legal damage as a result of the defendant\u2019s conduct.\nIn determining whether a particular course of conduct is improper for purposes of setting forth a cause of action for intentional interference with contractual relationships, or, for that matter, potential contractual relationships, the court must look to section 767 of the Restatement (Second) of Torts. This section provides the following factors for consideration: 1) the nature of the actor\u2019s conduct; 2) the actor\u2019s motive; 3) the interests of the other with which the actor\u2019s conduct interferes; 4) the interests sought to be advanced by the actor; 5) the proximity or remoteness of the actor\u2019s conduct to interference, and 6) the relationship between the parties.\nStrickland v. Univ. of Scranton, 700 A.2d 979, 985 (Pa.Super.1997) (citations omitted) (emphasis added).\nAppellant has failed to state a claim for intentional interference with contract relations because it has not pleaded facts that would satisfy either the second or third prong of the test set forth in Strickland. First, Appellant did not allege any facts that would support the inference that Appellee withheld funds from Macun-gie under the CLA for the specific purpose of harming Appellant\u2019s subcontract with Opus. Rather, Appellant merely contends that Appellee wrongfully refused to release funds under the CLA \u201cwith the full knowledge that [its] actions would cause Opus not to perform its payment obligations to [Appellant].\u201d (Amended Complaint, \u00b6 30). Although Appellee might have been aware that the withholding of funds would interfere with potential subcontracts, it does not follow that the actions were taken for this specific purpose. Furthermore, even if Appellee\u2019s motive was, as Appellant claims, to seize the benefit of the substantially completed property without having paid a fair and reasonable price for it, then Appellee\u2019s intent would be to interfere with the CLA between itself and Macungie; the state of Appellant\u2019s relations with Opus would be irrelevant.\nSecond, we agree with the trial court that the nexus between Appellant and Appellee is \u201ctoo attenuated for the action to fall within the ambit of tortuous interference with contractual relations.\u201d (See Trial Ct. Op., at 11). Here, Appellee entered into loan agreement with Macun-gie for the purpose of constructing a warehouse. Appellant claims that Macungie then entered into a separate agreement with Opus to design and build the project, which in turn resulted in a separate subcontract between Opus and Appellant to provide structural metal work.\nIt simply cannot be said that the alleged conduct by [Appellee], which in no manner specifically targeted Opus, qualifies as purposeful action specifically intended to cause harm to [Appellant\u2019s] contractual relations with that entity.... Were the rule otherwise, every garden variety breach-of-contract claim could be transformed into a tortious-interference allegation by a plaintiff who claims that an obligor on his contract has been rendered unable to perform as a consequence of a breach of some other contract to which the plaintiff was, in fact, not a party.\n(Id., at 10-11).\nAccordingly, we find that the trial properly dismissed Appellant\u2019s claim for intentional interference with contractual relations.\nFinally, we find that the trial court did not abuse its discretion in sustaining Appellee\u2019s preliminary objections to Appellant\u2019s claim of misrepresentation. The elements of fraudulent misrepresentation are as follows:\n(1) A representation\n(2) which is material to the transaction at hand;\n(3) made falsely, with knowledge of its falsity or recklessness as to whether it is true or false;\n(4) with the intent of misleading another into relying on it;\n(5) justifiable reliance on the misrepresentation; and,\n(6) the resulting injury was proximately caused by the reliance.\nHeritage Surveyors & Eng\u2019rs, Inc. v. Nat\u2019l Penn Bank, 801 A.2d 1248, 1250-51 (Pa.Super.2002). Scienter, or the maker\u2019s knowledge of the untrue character of his representation, is a key element in finding fraudulent misrepresentation. See Restatement (Second) of Torts \u00a7 526, Comment a. \u201cIt is well-established that the breach of a promise to do something in the future is not actionable in fraud.\u201d Shoemaker v. Commonwealth Bank, 700 A.2d 1003, 1006 (Pa.Super.1997).\nAppellant alleged that\n[b]y entering into the [CLA] and causing the mortgage and note to be filed of record, [Appellee] represented to all parties interested in the Project that there would be funds of up to $35,900,-000[ ] available to complete the construction. Further, upon information and belief, [Appellee] intended that subcontractors, such as [Appellant], rely upon [Appellee\u2019s] representation that sufficient construction funds would be available.\n(Amended Complaint, at \u00b625). Appellant contended that it acted in reliance upon this representation in entering into the subcontract, and that, contrary to the representation, Appellee ceased funding the Project even though Macungie did not breach the CLA.\nOn the basis of the record before us, Appellant has failed to show that Ap-pellee made a material misrepresentation of fact. A loan agreement between a lender and a borrower, coupled with a recorded note and mortgage, is not a guarantee that such funds will be made available to all tangential parties involved. As stated above, \u201c[mjortgages are recorded to provide notice to the world as to whose interest encumbers title[,]\u201d U.S. Bank N.A., supra, not to guarantee that payments will be made by the lender. Furthermore, as previously indicated, Appellant failed to demonstrate any communication between itself and Appellee save for a letter sent to Appellee on April 2, 2009 regarding Opus\u2019 missed payments. (Amended Complaint, Exh. E at 1). As such, Appellant\u2019s complaint fails to show that Appellee made any kind of representation, let alone a misrepresentation, to Appellant.\nFurthermore, as the trial court properly deduced, the essential element of scienter is lacking. Appellant \u201cclaims only that [Appellee] represented that money would be available, and then failed to perform on that promise without justification.\u201d (Trial Ct. Op., at 4). However, Appellant has not contended that at the time Appellee entered into the CLA with Macungie, it knowingly misrepresented that money would be available in order to induce Appellant\u2019s reliance. We find that the trial court did not abuse its discretion in sustaining Appellee\u2019s preliminary objections to misrepresentation.\nIn sum, we find that Appellant has failed to state a claim for relief under theories of unjust enrichment, third-party beneficiary status, intentional interference with contractual relations, or misrepresentation. We therefore affirm the trial court\u2019s order sustaining Appellee\u2019s preliminary objections and dismissing Appellant\u2019s complaint.\nOrder affirmed.\n.The money was loaned in part to Macungie Crossings I, L.L.C, in its individual capacity, and the balance to Macungie Crossings II, L.L.C and Macungie Crossings III, L.L.C in accordance with a straw party agreement in-coiporated into the CLA. (See Amended Complaint, 6/9/09, Exh. A. at 1).\n. Opus was named as a general contractor in the CLA. (See id., Exh. A. \u00a7 1.1). Appellant claims that Macungie executed a separate contract with Opus for its services, but did not include a copy of it in the pleadings. (See id., at \u00b6 5).\n. \"The fair and reasonable value of the labor and materials provided by [Appellant] for which no payment has been made is $1,297,572.20.\u201d (Amended Complaint, at \u00b6 18).\n. In an action filed in the United States Court for the Eastern District of Pennsylvania, Ap-pellee alleged that Macungie was in default under the terms of the CLA for, \"among other things, [its] failure to (i) fund a costs overrun deposit after notice and demand from [Appel-lee] in violation of Section 9.1(h) and 9.1(n); and (ii) qualify for Future Advances as provided in Section 3.3 in violation of 9.1(a) of the [CLA].\u201d (Brief in Support of Preliminary Objections, 7/2/09, at Exh. A \u00b6 13).\nPa.R.C.P. 1019(g) states that \"[a] party may incorporate by reference any matter of record in any State or Federal court of record whose records are within the county in which the action is pending[.]\u201d Pa.R.C.P. 1019(g). The United States District Court for the Eastern District of Pennsylvania encompasses Lehigh County. Accordingly, this Court may take notice of the proceedings at issue before the District Court.\n. The status of the foreclosure action is unclear from the pleadings. According to Appellant, \"[Appellee] has commenced a foreclosure action against [Macungie] in the Court of Common Pleas of Lehigh County Pennsylvania, at docket number 2009-C-3332 ... and, simultaneously ... commenced an action in the United States District Court for the Eastern District of Pennsylvania, at docket number 2:09-cv-2079[.]\u201d (Response to Preliminary Objections, 7/10/09, at \u00b6 7). The U.S. District Court for the Eastern District of Pennsylvania entered default judgment against Macungie on June 23, 2009. (Id., at Exh. A n.l) Appellee then filed an unopposed motion to appoint a receiver, which was denied by the District Court, on the grounds that\n[Appellee] could have requested a default judgment at any time. See Fed.R.Civ.P. 55(b). [Its] failure to do so, along with the breadth of die power vested in the proposed receiver, implies that receivership is sought as an end to itself \u2014 with that end apparently being liquidation of [Macungie's] assets to die benefit of [Appellee] and to the frustration of any other interested parties\u2014 rather than as a means to preserve the property pending resolution of the primary relief sought by [Appellee] in this action.\n(Id.). No further information was made available to the trial court regarding the foreclosure.\n6. The fact that Appellee was a third-party lending institution and not an owner at the time the claim arose is de minimis. The rule in D.A. Hill is stated both in terms of a generic \"third party,\u201d id. at 1010, and in terms of an \"owner,\u201d id. at 1009.\n. We note that decisions of federal district courts are not binding on Pennsylvania courts. Chiropractic Nutritional Assocs. v. Empire Blue Cross & Blue Shield, 447 Pa.Super. 436, 669 A.2d 975, 979-80 (1995).\n. In Gee, a lender acquired property at a sheriff's sale after its mortgagor, the developer of the property, defaulted on a construction loan. Unpaid subcontractors sought payment for the work from the lender under the theory of unjust enrichment. This Court stated the following:\n[w]e need not decide whether a lender may be unjustly enriched where it forecloses on a partially completed project, because here, by the time the sheriff\u2019s sale occurred, [the project was virtually completed]. It would seem at least arguable, however, that the fact that a project is only partially completed when the lender forecloses should not necessarily bar a subcontractor from prevailing on an unjust enrichment theory, if the subcontractor can show that in some manner the lender's return at the sheriff\u2019s sale was enhanced because of the subcontractor\u2019s work.\nId. at 1057 n. 5 (emphasis added).\n. Appellant repeatedly cites to Limbach Co., LLC v. City of Philadelphia, 905 A.2d 567 (Pa.Cmwlth.Ct.2006), for the proposition that a property owner may be subject to an unjust enrichment claim by a subcontractor despite the absence of a contractual relationship, if the property owner had \"direct dealings with the subcontractor, which caused the subcontractor to perform work.\" Id. at 577. Initially, we note that this Court \u201cis [not] bound to follow as controlling precedent the decisions of the\" Commonwealth Court. McCray v. Pa. Dep\u2019t of Corr., 582 Pa. 440, 872 A.2d 1127, 1130 n. 12 (2005). Moreover, even if we were bound by the Limbach decision, we would not find Appellant's argument persuasive.\nThe Limbach decision dealt with an untrad-itional construction contract. The City of Philadelphia and the Philadelphia Authority for Industrial Development (Industrial Authority) issued bonds to U.S. Airways to cover the cost of construction of two new terminals at the Philadelphia International Airport. The Industrial Authority entered into a development lease with U.S. Airways, authorizing it to \"design and construct, or cause to be designed and constructed, each and every of the Project Elements.\u201d Limbach, supra at 570. Pursuant to the terms of the development lease, the Industrial Authority was the owner of the project, while the City retained a right of reversion in and to the physical structures. Once the project was completed, the Industrial Authority held title and leased the new terminals back to the City, which the City in turn subleased to U.S. Airways and other airlines. Limbach LLC, which performed work under a subcontract with U.S. Airways, filed a complaint for damages against the City and the Industrial Authority for unpaid labor, including a claim of unjust enrichment.\nWhile there are some similarities between the development lease in Limbach and the CLA in the instant case, the Limbach defendants were significantly more involved in their project than Appellee. First, the entities providing the funds were acting in different financial capacities, as the City owned a re-versionary interest in the physical structures, and the Industrial Authority gained title to the land when the project was completed. Id. at 570. In the case sub judice, Appellee was a mere mortgage lender and primary lienholder.\nSecond, in Limbach, the development lease provided that the Industrial Authority had a right to review and approve all schematic designs, design-development, and construction-bid documents, as well as any other design or construction change orders before any construction could be implemented by U.S. Airways. Id. Similarly, it provided that the \"City, in its sole discretion, may reject any designs so submitted and require U.S. Airways to resubmit designs and layout proposals until they meet City\u2019s requirements and are approved by City.\u201d Id. Here, while Ap-pellee reserved the right to approve design plans and specifications, (see Amended Complaint, Exh. A. \u00a7 1.1), the clause regarding material changes evinced an intent not to control the Project, but to ensure that all working parties were up-to-date on any potential changes to the Project plans. Indeed, the section to which Appellant refers states the following:\n[Macungie] agrees to erect and equip the Improvements on the Premises in strict conformity with the Plans and Specifications. [Macungie] agrees that no material changes, modifications of or amendments to the Plans and Specifications, or of the construction with respect thereto, shall be made without obtaining prior written approval of Lender, Contractors, and, where applicable, Governmental Authorities and Utility Companies.\n(Amended Complaint, Exh. A at \u00a7 5.1) (emphasis added). Finally, the subcontract between U.S. Airways and Limbach specifically referenced the City, the Industrial Authority, and the Development Lease:\n[US Airways] is authorized to enter into this agreement pursuant to [the Development Lease] between the Philadelphia Authority for Industrial Development (PAID) and [US Airways] dated July 1, 1998 governing certain improvements to the Philadelphia International Airport (the Airport). References in the Contract Documents to [US Airways] intended to benefit or protect the owner of the site where the work is being performed shall be construed so as to mean U.S. Airways, Inc., the Philadelphia Authority for Industrial Development and the City of Philadelphia (City).\nLimbach, supra at 578 n. 12 (emphasis removed). Here, Appellant\u2019s subcontract with Opus does not refer to Appellee by name, nor does it mention the CLA.\nAs such, we would find that Appellant\u2019s pleadings did not demonstrate that Appellee had \"direct dealings\u201d with Appellant in the same manner as the parties in Limbach, supra.\n10. The term \"Contractors\u201d included all subcontractors who would work on the Project. (Amended Complaint, at Exh. A \u00a7 1.1).\n. Because Appellant\u2019s request for constructive trust on the remaining CLA funds is premised on its claim of unjust enrichment, the trial court properly sustained Appellee's preliminary objections on this issue as well. (See Trial Ct. Op., at 8 n.1); Commerce Bank v. First Union Nat'l Bank, 911 A.2d 133, 144 (Pa.Super.2006) (remedy of constructive trust inappropriate when unjust enrichment claim lacks merit).\n. We note that decisions of the Third Circuit Court of Appeals are not binding on this Court. See Chiropractic Nutritional Assocs., supra.\n13. \"While some jurisdictions consider a justification for a defendant's interference to be an affirmative defense, Pennsylvania courts require the plaintiff, as part of his prima [fa-cie] case, to show that the defendant\u2019s conduct was not justified.\" Triffin v. Janssen, 426 Pa.Super. 57, 626 A.2d 571, 574 n. 3 (1993) (citations omitted), appeal denied, 536 Pa. 646, 639 A.2d 32 (1994).",
+        "type": "majority",
+        "author": "KELLY, J.:"
+      }
+    ],
+    "attorneys": [
+      "John G. Milakoic, Harrisburg, for appellant.",
+      "Kathleen J. Goldman, Pittsburgh, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "IRA G. STEFFY & SON, INC., Appellant v. CITIZENS BANK OF PENNSYLVANIA, Appellee.\nSuperior Court of Pennsylvania.\nArgued June 9, 2010.\nFiled Sept. 17, 2010.\nJohn G. Milakoic, Harrisburg, for appellant.\nKathleen J. Goldman, Pittsburgh, for ap-pellee.\nBEFORE: BENDER, OTT and KELLY, JJ."
+  },
+  "file_name": "0278-01",
+  "first_page_order": 306,
+  "last_page_order": 319
+}

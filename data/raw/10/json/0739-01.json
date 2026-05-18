@@ -1,0 +1,296 @@
+{
+  "id": 7289060,
+  "name": "STATE of Maine v. Jayson W. CARON",
+  "name_abbreviation": "State v. Caron",
+  "decision_date": "2011-01-11",
+  "docket_number": "",
+  "first_page": "739",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 739"
+    },
+    {
+      "type": "parallel",
+      "cite": "2011 ME 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "2008 ME 38",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8393760
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 19"
+        },
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/942/0673-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 8",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291945
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 5"
+        },
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/988/0975-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 102",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9216817
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "858"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/854/0855-01"
+      ]
+    },
+    {
+      "cite": "620 A.2d 282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7354296
+      ],
+      "pin_cites": [
+        {
+          "page": "285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/620/0282-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 42",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8393844
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "683"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/942/0680-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 103",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8410501
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "855-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/903/0853-01"
+      ]
+    },
+    {
+      "cite": "610 A.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7927922
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "745",
+          "parenthetical": "concluding that the admission of medical records in evidence against the defendant did not violate his right to confront witnesses"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/610/0743-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 136",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9297750
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/837/0101-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 138",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9165671
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0263-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 90",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9218121
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 22"
+        },
+        {
+          "page": "1170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/854/1164-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 31",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7290871
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 2"
+        },
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/0819-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 755,
+    "char_count": 12843,
+    "ocr_confidence": 0.712,
+    "pagerank": {
+      "raw": 1.1685297058233612e-07,
+      "percentile": 0.5857549996158077
+    },
+    "sha256": "df913302161e8ceb68abe18eec12480afa839b5186cbba60f74552e9839bbff8",
+    "simhash": "1:5e73aef2f11350e8",
+    "word_count": 2086
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Jayson W. CARON."
+    ],
+    "opinions": [
+      {
+        "text": "JABAR, J.\n[\u00b6 1] Jayson W. Caron appeals from a judgment of conviction of aggravated assault (Class B), 17-A M.R.S. \u00a7 208(1)(A) (2010); aggravated operating under the influence (OUI) (Class C), 29-A M.R.S. \u00a7 2411(1-A)(A), (l-AXDXl), (5)(D-1) (2007); and aggravated OUI (Class C), 29-A M.R.S. \u00a7 2411(1-A)(A), (1-A)(B)(3), (5)(C) (2007), entered in the Superior Court (Penobscot County, Anderson, J.) following a jury trial. Caron raises four points of error in this appeal, challenging both his conviction and sentence. Specifically, he argues that the court erred by: (1) failing to exclude the testimony of the State\u2019s expert witness; (2) admitting certain redacted medical records in evidence; (3) denying his motion for a mistrial; and (4) imposing an illegal sentence. We disagree with Caron\u2019s contentions and affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] Viewing the evidence presented at trial in the light most favorable to the State, the jury rationally could have found the following facts beyond a reasonable doubt. See State v. Manosh, 2010 ME 31, \u00b6 2, 991 A.2d 819, 820.\n[\u00b6 3] On the afternoon of September 1, 2007, Caron and the victim were attending the Springfield Fair. Caron, who had been consuming alcohol earlier in the day, planned to participate in a truck pull being held at the fair. While waiting for the event to begin, Caron continued to drink alcohol. Around 6:30 p.m., after registering for the truck pull, Caron struck another vehicle with his truck. Event organizers became concerned about his level of sobriety and refused to allow him to participate. Thereafter, the victim drove Car-on to a nearby convenience store.\n[\u00b6 4] Upon arriving at the store, Caron took the keys from the victim and insisted on driving the truck. The victim was ultimately unable to convince him to reconsider, and moved to the passenger\u2019s seat to let him drive. Shortly after leaving the store, Caron lost control of the truck and crashed, injuring himself and the victim, leaving the victim paralyzed from the waist down. A blood-alcohol test administered at the hospital less than three hours after the accident registered Caron\u2019s blood-alcohol level at 0.16%. Caron was subsequently indicted for aggravated assault (Class B), 17-A M.R.S. \u00a7 208(1)(A); aggravated OUI (Class C), 29-A M.R.S. \u00a7 2411(1-A)(A), (1-A)(D)(1), (5)(D-1); and aggravated OUI (Class C), 29-A M.R.S. \u00a7 2411(1-A)(A), (1-A)(B)(3), (5)(C).\n[\u00b6 5] The primary issue at Caron\u2019s trial was the identity of the vehicle\u2019s driver at the time of the accident. To this end, Caron and the State each designated an expert witness. Caron filed a motion in limine seeking to exclude the testimony of the State\u2019s expert, arguing that the expert\u2019s opinions did not satisfy the qualification and reliability requirements for admissibility. After conducting a voir dire examination, outside the presence of the jury, the court denied Caron\u2019s motion. The court found that the State\u2019s expert was sufficiently qualified to testify and that the jury should decide the weight to be given to the expert\u2019s conclusions. In the court\u2019s words:\n[T]he gist of the [State\u2019s expert\u2019s] testimony is that the left-sided injuries indicate the driver, the right-sided injuries indicate the passenger, and [the expert] indicates that this is backed up in the literature ... and his own personal experience, and he has testified that the fact that there is a rollover does not alter that opinion, that there could be other reasons for other injuries, but that his premise is still valid.\n[\u00b6 6] Both the State\u2019s expert and Car-on\u2019s expert testified at trial, each offering a conflicting opinion on the identity of the driver. The State\u2019s expert further testified on the issue of Caron\u2019s blood-alcohol level, extrapolating from the result of the blood-alcohol test taken at the hospital back to the time of the accident. Over Caron\u2019s objection, the court also admitted certain redacted medical records of Caron and the victim, pursuant to 16 M.R.S. \u00a7 357 (2008).\n[\u00b6 7] Following deliberation, the jury returned guilty verdicts on all three counts. Before discharging the jury, however, it came to the court\u2019s attention that a scheduling document referencing Caron\u2019s three prior OUI convictions had been posted near the doorway to the courtroom. On individual von- dire conducted by the court, each juror denied seeing the document. The court denied Caron\u2019s motion for a mistrial, and entered judgment on the jury verdict.\n[\u00b68] On the aggravated assault count, the court sentenced Caron to eight years in prison, with all but six years suspended, and three years of probation. Caron was sentenced to three years for each of the remaining two counts, to be served concurrently. The court also imposed $5175 in fines and suspended Caron\u2019s driver\u2019s license for six years. This appeal followed.\nII. DISCUSSION\nA. Expei't Testimony\n[\u00b6 9] Caron advances two arguments in support of his contention that the court erred in refusing to exclude the State\u2019s expert\u2019s testimony. He argues that the State\u2019s expert was neither competent nor qualified to testify. We disagree with both contentions.\n[\u00b6 10] The focus of Caron\u2019s competency argument is on an alleged learning disability afflicting the State\u2019s expert. Caron highlights a particular exchange during voir dire in which the State\u2019s expert, attempting to describe the nature of his condition, testified that, \u201cI do not know right from left and I do not \u2014 am not able to add or subtract even simple numbers.\u201d Noting that the State\u2019s expert was ultimately asked to calculate Caron\u2019s blood-alcohol level and to explain the significance of left-sided and right-sided injuries, Car-on contends that the State\u2019s expert\u2019s learning disability rendered him incompetent to testify.\n[\u00b6 11] As a general rule, \u201c[e]very person is competent to be a witness.\u201d M.R. Evid. 601(a). Pursuant to M.R. Evid. 601(b)(3), however, a person will be disqualified from testifying if the court finds that \u201cthe proposed witness lacked any reasonable ability to perceive the matter.\u201d The phrase \u201cany reasonable ability\u201d was included in Rule 601(b) \u201c \u2018to make it clear that even a limited ability to perceive ... may be sufficient to avoid disqualification.\u2019 \u201d State v. Goman, 2004 ME 90, \u00b6 22, 854 A.2d 1164, 1170 (quoting Field & Murray, Maine Evidence \u00a7 601.2 at 244 (2000 ed.)). A trial court\u2019s ruling on witness competency is reviewed for clear error. State v. Cochran, 2004 ME 138, \u00b6 6, 863 A.2d 263, 265.\n[\u00b6 12] We find no clear error in the court\u2019s competency determination. Notwithstanding the State\u2019s expert\u2019s self-reported learning disability, the court was able to observe the apparent fluency with which he explained his opinions, including his ability to distinguish right-sided and left-sided injury patterns and perform the calculations necessary to extrapolate from the results of Caron\u2019s blood-alcohol test. Accepting Caron\u2019s argument would require reading the State\u2019s expert\u2019s brief description of his learning disability in a vacuum, divorced from all context. This we will not do.\n[\u00b6 13] Caron\u2019s second argument targets the qualifications of the State\u2019s expert. Caron acknowledges that, as the State\u2019s Deputy Chief Medical Examiner, the State\u2019s expert possessed significant scientific credentials. He contends, however, that the State\u2019s expert\u2019s particular expertise did not qualify him to opine on the identity of the driver of the vehicle. We review the trial court\u2019s ruling on this issue for an abuse of discretion. See State v. Cookson, 2003 ME 136, \u00b6 20 n. 2, 837 A.2d 101, 108 (\u201cWhen the issue is not what the expert\u2019s qualifications are, but whether those qualifications are adequate for the opinion of the expert, the standard of review is abuse of discretion.\u201d).\n[\u00b6 14] According to his voir dire testimony, the State\u2019s expert has investigated approximately 600 motor vehicle fatalities during his nearly thirty-year tenure as a medical examiner. Based on his training, experience, and review of medical literature, he testified that a person\u2019s injury patterns could be used to determine that person\u2019s original position in the vehicle. Notwithstanding Caron\u2019s unsupported assertion to the contrary, the State\u2019s expert explained that specialized knowledge in the fields of accident reconstruction and \u201coccupant kinematics\u201d was not necessary to render an opinion on this issue. Given this record, we cannot say that the court abused its discretion in determining that the State\u2019s expert was qualified to testify at trial.\nB. Remaining Arguments\n[\u00b6 15] Caron\u2019s other contentions are without merit, and we address them only briefly. His numerous arguments with regard to the court\u2019s admission of the medical records are unpersuasive: Medical records may, and often must, be admitted in redacted form, see 16 M.R.S. \u00a7 357; State v. Francis, 610 A.2d 743, 744 & n. 4 (Me. 1992); neither Maine Rule of Evidence 403 nor the Confrontation Clause of the Sixth Amendment to the United States Constitution required exclusion of the records, see State v. Bennett, 2006 ME 103, \u00b6 9, 903 A.2d 853, 855-56 (reviewing the admission of evidence over a Rule 403 objection for an abuse of discretion); Francis, 610 A.2d at 745 (concluding that the admission of medical records in evidence against the defendant did not violate his right to confront witnesses); Caron did not object to the noninclusion of a diagram depicting Caron\u2019s injuries, see Anderson v. O\u2019Rourke, 2008 ME 42, \u00b6 13, 942 A.2d 680, 683 (\u201cTo preserve an issue for appeal, a party must not only object, but must also state the specific grounds of its objection .... \u201d (quotation marks omitted)); and any inadvertent references to Caron\u2019s level of intoxication, which had gone unnoticed during the redaction process, were not prejudicial, particularly given the considerable amount of admissible evidence presented on this issue, see In re Elijah R., 620 A.2d 282, 285 (Me.1993) (finding the improper admission of medical records to be \u201charmless error because under the circumstances it is highly probable that admission of the evidence did not affect the judgment\u201d).\n[\u00b6 16] The court also properly denied Caron\u2019s motion for a mistrial. See State v. Bridges, 2004 ME 102, \u00b6 10, 854 A.2d 855, 858 (\u201c[W]e review a denial of a motion for a mistrial for an abuse of discretion, overruling the denial only in the event of prosecutorial bad faith or in exceptionally prejudicial circumstances.\u201d (quotation marks omitted)). By conducting individual voir dire to confirm that no juror noticed the scheduling document, the court adequately ensured that the jury had not been improperly influenced by the document\u2019s presence near the courtroom.\n[\u00b6 17] Finally, Caron\u2019s sentence was not illegal or imposed in an illegal manner. See State v. Schmidt, 2010 ME 8, \u00b6 5, 988 A.2d 975, 977 ( [0]n direct appeal, we review only the legality, not the propriety, of a sentence.\u201d). In reviewing the legality of a sentence, we have recognized a difference between improperly \u201cincreasing a defendant\u2019s sentence because the defendant chooses to exercise the right to trial,\u201d and properly \u201cconsidering a defendant\u2019s conduct at trial and information learned at trial, along with other factors, in determining the genuineness of a defendant\u2019s claim of personal reform and contrition.\u201d State v. Grindle, 2008 ME 38, \u00b6 19, 942 A.2d 673, 678 (quotation marks omitted). Contrary to Caron\u2019s contention, the court here explicitly recognized this distinction and did not punish him for exercising his constitutional right to a trial, but rather explained its reasons for considering his apparent refusal to accept responsibility for his criminal actions.\nThe entry is:\nJudgment affirmed.\n. Title 29-A M.R.S. \u00a7 2411 has since been amended, though those amendments are not relevant in the present case. P.L.2009, ch. 447, \u00a7\u00a7 37-42 (effective Sept. 12, 2009); P.L. 2007, ch. 531, \u00a7 2 (effective Sept. 1, 2008).\n. Title 16 M.R.S. \u00a7 357 has since been amended, though those amendments are not relevant in the present case. P.L.2009, ch. 447, \u00a7 17 (effective Sept. 12, 2009).\n. Because the parties stipulated that Caron had three prior OUI convictions, tire court agreed to exclude this information from the jury-\n. Although the State's expert conceded to having never dealt with a case involving these exact same circumstances, he explained that on at least six occasions he has been called upon to determine the identity of a driver based on tire injury patterns of the vehicle\u2019s occupants.",
+        "type": "majority",
+        "author": "JABAR, J."
+      }
+    ],
+    "attorneys": [
+      "Mandi Odier-Fink, Esq., Bangor, ME, for Jayson Caron.",
+      "R. Christopher Almy, Dist. Atty., Susan J. Pope, Asst. Dist. Atty., Bangor, ME, for the State of Maine."
+    ],
+    "corrections": "",
+    "head_matter": "2011 ME 9\nSTATE of Maine v. Jayson W. CARON.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Dec. 1, 2010.\nDecided: Jan. 11, 2011.\nMandi Odier-Fink, Esq., Bangor, ME, for Jayson Caron.\nR. Christopher Almy, Dist. Atty., Susan J. Pope, Asst. Dist. Atty., Bangor, ME, for the State of Maine.\nPanel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0739-01",
+  "first_page_order": 739,
+  "last_page_order": 744
+}

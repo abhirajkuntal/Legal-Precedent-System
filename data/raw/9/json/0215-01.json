@@ -1,0 +1,431 @@
+{
+  "id": 7283271,
+  "name": "Robert G. STEWART, as Attorney-in-Fact for Ruth Davidson, Appellee, v. GGNSC-CANONSBURG, L.P., d/b/a/ Golden Living Center-South Hills; GGNSC Canonsburg GP, L.L.C.; GGNSC Equity Holdings, L.L.C.; Golden Gate National Senior Care, L.L.C., d/b/a/ Golden Living GGNSC Holdings, L.L.C., d/b/a/ Golden Horizons, Appellants",
+  "name_abbreviation": "Stewart v. GGNSC-Canonsburg, L.P.",
+  "decision_date": "2010-11-04",
+  "docket_number": "",
+  "first_page": "215",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 A.3d 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "858 A.2d 1229",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9164090
+      ],
+      "pin_cites": [
+        {
+          "page": "1232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/858/1229-01"
+      ]
+    },
+    {
+      "cite": "959 A.2d 438",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8200134
+      ],
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/959/0438-01"
+      ]
+    },
+    {
+      "cite": "2009 U.S. Dist. LEXIS 112204",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 4580739",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "684 F.Supp.2d 1161",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3604827
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1168"
+        },
+        {
+          "page": "1167"
+        },
+        {
+          "page": "1167-68"
+        },
+        {
+          "page": "1168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/684/1161-01"
+      ]
+    },
+    {
+      "cite": "923 S.W.2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10000153
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "87"
+        },
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/923/0080-01"
+      ]
+    },
+    {
+      "cite": "924 N.E.2d 454",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "338 Ill.Dec. 248",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 Ill.2d 586",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "918 N.E.2d 598",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "335 Ill.Dec. 253",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "395 Ill.App.3d 1079",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        4291273
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/395/1079-01"
+      ]
+    },
+    {
+      "cite": "2010 U.S. Dist. LEXIS 22551",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WL 936471",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 U.S. Dist. LEXIS 85042",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "**12-13"
+        },
+        {
+          "page": "*12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WL 3283529",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 U.S. Dist. LEXIS 104600",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*19"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 3485933",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*6"
+        },
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 U.S.App. LEXIS 17872",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. App. LEXIS",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "**4-5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WL 3377235",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "**1-2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 F.3d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1743561
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1222"
+        },
+        {
+          "page": "1222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/211/1217-01"
+      ]
+    },
+    {
+      "cite": "457 F.3d 1054",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3789827
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1061"
+        },
+        {
+          "page": "1059-61"
+        },
+        {
+          "page": "1060"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/457/1054-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C.A. \u00a7 5",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1169"
+        },
+        {
+          "page": "1167"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "925 A.2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8306396
+      ],
+      "pin_cites": [
+        {
+          "page": "871"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/925/0868-01"
+      ]
+    },
+    {
+      "cite": "739 A.2d 180",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11563122
+      ],
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/739/0180-01"
+      ]
+    },
+    {
+      "cite": "323 Pa.Super. 530",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        594368
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/323/0530-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 866,
+    "char_count": 21529,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 5.316544216679851e-07,
+      "percentile": 0.9426649970712578
+    },
+    "sha256": "4717901e4c8225e817d500cf5ea03ee7a27d31557ea6a0d0cd85dd628d333f91",
+    "simhash": "1:af3d6b9e7706c8ec",
+    "word_count": 3412
+  },
+  "last_updated": "2024-02-27T16:17:14.732518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MUSMANNO, SHOGAN, and ALLEN, JJ."
+    ],
+    "parties": [
+      "Robert G. STEWART, as Attorney-in-Fact for Ruth Davidson, Appellee, v. GGNSC-CANONSBURG, L.P., d/b/a/ Golden Living Center-South Hills; GGNSC Canonsburg GP, L.L.C.; GGNSC Equity Holdings, L.L.C.; Golden Gate National Senior Care, L.L.C., d/b/a/ Golden Living GGNSC Holdings, L.L.C., d/b/a/ Golden Horizons, Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nALLEN, J.:\nIn this appeal, various defendants listed in the caption above (\u201cAppellants\u201d) contend that the trial court erred in denying their preliminary objections seeking to compel the enforcement of an arbitration agreement. We affirm.\nThe facts and procedural history of this case are as follows. Robert G. Stewart, as attorney-in-fact for Ruth Davidson (\u201cPlaintiff\u2019), commenced this civil action against Appellants, maintaining that they were negligent in caring for Plaintiff while she was admitted to their nursing home facility. Appellants filed preliminary objections seeking to compel the enforcement of an arbitration agreement (\u201cAgreement\u201d).\nIn the Agreement, the parties agreed that disputes, such as the one asserted by Plaintiff, would be submitted to arbitration. Specifically, the parties agreed that a dispute \u201cshall be resolved exclusively by binding arbitration ... in accordance with the National Arbitration Forum [the \u201cNAF\u201d] Code of Procedure, which is hereby incorporated into this Agreement, and not by any lawsuit or resort to court process.\u201d R.R. at 76 (emphasis added). Under the NAF Code of Procedure, the \u201cCode shall be administered only by [the NAF] or by any entity or individual providing administrative services by agreement with [the NAF].\u201d R.R. at 274 (emphasis added). Moreover, the Agreement contained a severability clause. This clause stated: \u201cIn the event a court having jurisdiction finds any portion of this agreement unenforceable, that portion shall not be effective and the remainder of the agreement shall remain effective.\u201d R.R. at 76. The problem in this case is that the designated arbitration forum, the NAF, can no longer accept arbitration cases pursuant to a consent decree it entered with the Attorney General of Minnesota.\nOn December 17, 2009, the trial court entered an order denying Appellants\u2019 preliminary objections seeking to compel arbitration. The trial court concluded that the Agreement was unenforceable because an essential term of the Agreement failed; that is, the arbitration forum selection clause designating the NAF and its procedures were integral to the Agreement and could not be enforced because the NAF was no longer available to act as arbitrators. Trial Court Opinion (T.C.O.), 3/1/10, at 3-7. As the trial court explained:\nHere, it was clearly the intent of [Appellants] to arbitrate before the NAF. [Appellants] presented a pre-printed agreement to [Plaintiff] in which the selection of an arbitral forum was already made. Moreover, the agreement states that this binding arbitration shall be conducted \u201cin accordance with [the NAF] Code of Procedure, which is hereby incorporated into this agreement.\u201d The Code consists of over 65 pages of rules and procedures governing parties and the adjudication of their disputes. An agreement to submit to a specific forum and its comprehensive set of rules evidences an explicit intention to arbitrate exclusively before that organization. ... Accordingly, this Court finds that the arbitral forum selection clause is not an ancillary, logistical concern but, rather, a primary purpose of the agreement itself. Therefore, the arbitration clause is unenforceable as an essential term of the agreement has failed[.]\nT.C.O., 3/1/10, at 6 (citations omitted).\nThe trial court further concluded that the severability clause could not save the Agreement\u2019s arbitration clause because the trial court would be forced to rewrite the arbitration clause and devise a new form and mode of arbitration for the parties. Id. at 7-8. According to the trial court:\n... [Appellants] would like the Court to dust off its blue pencil, excise some portions of the very agreement they drafted, and then create new terms. This Court refuses to do so.\nPennsylvania law holds that if less than an entire agreement is invalid, and the invalid provision is not an essential part or the primary purpose of the agreement, then the remaining portions of the agreement are fully enforceable. Huber v. Huber [323 Pa.Super. 530], 470 A.2d 1385, 1389 (Pa.Super.1984); Restatement (Second) of Contracts, \u00a7 184 (1981). Thus, the replacement of an essential term is impermissible under general contract principles. As stated above, this Court finds that the arbitral forum provision is an essential part of the agreement. Therefore, the remainder of the arbitration agreement is unenforceable. The face of the agreement reflects the parties\u2019 intention to be bound by a particular term\u2014the one with the NAF as the arbitrator. To use the severability clause to basically swap out essential terms would not prevent injustice; rather, it would foster it.\nId. at 7-8.\nFor these reasons, the trial court denied Appellants\u2019 preliminary objections seeking to compel enforcement of the Agreement.\nOn appeal, Appellants raise two issues for review:\n1. Whether the trial court erred when it found that the forum selection clause was not an \u201cancillary logistical concern, but rather an essential part of the parties\u2019 agreement,\u201d thereby justifying the Court\u2019s decision to void the entire arbitration agreement?\n2. Whether the trial court erred when it did not invoke the Severance Clause contained in the Arbitration Agreement, which provides that \u201cin the event a court having jurisdiction finds any portion of this agreement unenforceable, that portion shall not be effective and the remainder of the agreement shall remain in effect,\u201d and refer the case to arbitration?\nBrief for Appellants at 3.\nWe will address Appellants\u2019 two issues together because they are interrelated. In their brief, Appellants contend that under the plain language of the Agreement, the primary purpose of the Agreement \u201cwas not to have [the NAF] arbitrate the dispute,\u201d but rather, that the dispute be submitted to arbitration. Brief for Appellants at 13. Appellants point to the severability clause in the Agreement as further evidence that the parties\u2019 paramount intent was to arbitrate claims, and that the selection of the NAF and the NAF Code was merely ancillary to this intent. Id. at 18-21. Appellants propose that under \u00a7 5 of the Federal Arbitration Act (\u201cFAA\u201d), the Agreement was enforceable, and the trial court could have appointed another arbitrator to replace the NAF. Id. at 16, 21. Accordingly, Appellants conclude that the trial court erred in denying the preliminary objections to compel arbitration. We disagree.\n\u201cOur review of a claim that the trial court improperly denied ... preliminary objections in the nature of a petition to compel arbitration is limited to determining whether the trial court\u2019s findings are supported by substantial evidence and whether the trial court abused its discretion in denying the petition.\u201d Midomo Company, Inc. v. Presbyterian Housing Development Company, 739 A.2d 180, 186 (Pa.Super.1999). Here, the relevant facts are not in dispute, and the issues presented by Appellants primarily involve matters of contract interpretation. As contract interpretation poses a pure question of law, our review of the trial court\u2019s decision is de novo and our scope of review is plenary. Bucks Orthopaedic Surgery Associates, P.C. v. Ruth, 925 A.2d 868, 871 (Pa.Super.2007).\nThe parties agree that this case is governed by \u00a7 5 of the FAA, which provides in pertinent part:\nIf in the agreement provision be made for a method of naming or appointing an arbitrator ... such method shall be followed ... or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein.\n9 U.S.C.A. \u00a7 5.\nUnder 9 U.S.C.A. \u00a7 5, an arbitration agreement will not fail because of the unavailability of a chosen arbitrator unless the parties\u2019 choice of forum is an \u201cintegral part\u201d of the agreement to arbitrate, rather than \u201can ancillary logistical concern.\u201d Reddam v. KPMG L.L.P., 457 F.3d 1054, 1061 (9th Cir.2006); Brown v. ITT Consumer Financial Corp., 211 F.3d 1217, 1222 (11th Cir.2000). Where the arbitration clause selects merely the rules of a specific arbitral forum, as opposed to the forum itself, and another arbitral forum could apply those rules, the unavailability of the implicitly intended arbitral forum will not require the court to condemn the arbitration clause. Reddam, 457 F.3d at 1059-61. At a minimum, for the selection of an arbitrator to be deemed \u201cintegral,\u201d the arbitration clause must include an \u201cexpress statement\u201d designating a specific arbitrator. Id. at 1060; see Ranzy v. Tijerina, 2010 WL 3377235, 2010 U.S.App. LEXIS 17872 (5th Cir.2010).\nUpon review, we find that the trial court\u2019s analysis is well-reasoned, and we adopt it as our own. Although Appellants\u2019 issues have not been addressed by Pennsylvania case law, other jurisdictions have had the opportunity to decide whether an arbitration agreement is enforceable in the absence of the NAF. The trial court\u2019s legal conclusion that the Agreement was unenforceable due to the NAF\u2019s unavailability is supported by a majority of the decisions that have analyzed language similar to that in the Agreement. In sum, these cases concluded that the NAF\u2019s participation in the arbitration process was an \u201cintegral part\u201d of the agreement to arbitrate. See Carideo v. Dell, Inc., 2009 WL 3485933, at *6, 2009 U.S. Dist. LEXIS 104600, at *19 (W.D.Wash.2009) (collecting and discussing cases) (\u201c[T]he court concludes that the selection of NAF is integral to the arbitration clause. The unavailability of NAF as arbitrator presents compounding problems that threaten to eviscerate the core of the parties\u2019 agreement. To appoint a substitute arbitrator would constitute a wholesale revision of the arbitration clause.\u201d), accord Khan v. Dell, Inc., 2010 WL 3283529, at *4, 2010 U.S. Dist. LEXIS 85042, at **12-13 (D.N.J.2010) (\u201cThe plain language of this clause evinces the parties\u2019 intent to arbitrate exclusively before a particular arbitrator, not simply an intent to arbitrate generally. The NAF is expressly named, the NAF\u2019s rules are to apply, and no provision is made for an alternate arbitrator. The language used is mandatory, not permissive.\u201d); Ranzy v. Extra Cash of Tex., Inc., 2010 WL 936471, 2010 U.S. Dist. LEXIS 22551 (S.D.Tex. 2010), aff'd by 2010 WL 3377235, 2010 U.S.App. LEXIS 17872 (5th Cir.2010); Carr v. Gateway, Inc., 395 Ill.App.3d 1079, 335 Ill.Dec. 253, 918 N.E.2d 598 (2009), appeal granted 235 Ill.2d 586, 338 Ill.Dec. 248, 924 N.E.2d 454 (2010); see also John R. Ray & Sons v. Stroman, 923 S.W.2d 80, 87 (Tex.Ct.App. 14th Dist.1996) (\u201cIt is true that the purpose of a severability clause is to allow a contract to stand when a portion has been held to be invalid. However, when the severed portion is integral to the entire contract, a severability clause, standing alone, cannot save the contract.\u201d).\nWe recognize, nonetheless, that there is a comparable amount of authority to the contrary. Jones v. GGNSC Pierre LLC, 684 F.Supp.2d 1161, 1168 (D.S.D.2010) (\u201c[Tjhere is no evidence here that the NAF as a forum was an integral part of the Arbitration Agreement.\u201d); Adler v. Dell, 2009 WL 4580739, at *3, 2009 U.S. Dist. LEXIS 112204, at *8 (E.D.Mich.2009) (\u201c[T]he agreement falls far short of establishing the exception ... that arbitration will fail only if it is \u2018clear\u2019 that the term in dispute, i.e. that the exclusive and final resolution of all disputes between the parties must be administered by NAF, is as important a consideration as the agreement to arbitrate itself.\u201d); see Brown v. ITT Consumer Fin. Corp., 211 F.3d 1217, 1222 (11th Cir.2000).\nThe central arguments advanced by Appellants in this appeal revolve around their reliance upon Jones, a recent decision from the District Court of South Dakota, which Appellants contend is controlling authority in this matter. Although Jones addressed language identical to that presently before this Court, we find that the reasoning in Jones is unpersuasive.\nIn Jones, the court concluded that the NAF and the NAF Code were not integral to the arbitration agreement for three reasons. First, the court found that the arbitration agreement did not mandate, per se, that the NAF serve as the arbitrators because the language of the agreement stated that the dispute had to be resolved \u201cin accordance with [the NAF Code].\u201d 684 F.Supp.2d at 1167. The Jones court, however, acknowledged that the agreement\u2019s reference to the NAF Code was \u201can implicit selection of the NAF as the arbitration forum,\u201d because the NAF Code \u201cdesignated the NAF as the exclusive administrator of its rules.\u201d Id. Second, the court found that \u201c[t]he existence of the severance clause in the arbitration agreement is evidence that the parties did not intend for the entire agreement to fail if one portion was invalid or unenforceable.\u201d Id. at 1167-68. Finally, the court noted that the plaintiffs testimony did not demonstrate that the NAF provision was integral to the agreement. Id. at 1168. Therefore, the court in Jones concluded that pursuant to 9 U.S.C.A. \u00a7 5, the arbitration agreement was enforceable, and the court facilitated the appointment of an alternative arbitrator. Id. at 1169.\nAfter careful review, we reject the reasoning of the Jones court because that case failed to appreciate the legal significance of the fact that the parties expressly agreed to two fundamental terms in the arbitration agreement that were unenforceable. In particular, the parties in Jones, as here, agreed to be bound by the following: (1) that the law governing the arbitration proceedings would be the NAF Code, and (2) that under the NAF Code, the arbitrators would be members of the NAF, who are the only people authorized to administrator and apply the NAF Code. Consequently, with the unavailability of the NAF, both provisions designating the arbitrators themselves (the NAF), and the rules of the arbitration forum (the NAF Code) could not be enforced. Given the unenforceability of these provisions, we disagree with the Jones court\u2019s conclusion that the NAF and the NAF Code were not an \u201cintegral\u201d part of the agreement to arbitrate.\nIn addition, the parties in Jones, like the parties in this case, expressly agreed that any disputes \u201cshall be resolved exclusively\u201d through arbitration with the NAF. The Jones court, however, did not afford this contractual language any meaning, opting instead to find that it was severable under the severability clause. See id. at 1167. We believe that the Jones court violated cardinal contract principles by failing to view the plain language of the Agreement as the principal evidence of the parties\u2019 intent as to whether the NAF and the NAF Code were an integral part of the Agreement. Before a court can sever a contractual provision from a contract, it must first determine whether the severed provision \u201cis integral to the entire contract.\u201d Stroman, 923 S.W.2d 80, 87. The Jones court failed to undertake this analysis, and erroneously concluded that the severability clause trumped the plain language of the contract designating the NAF as the exclusive forum to arbitrate claims. In light of the plain language of the Agreement, and the importance of the unenforceable, essential provisions of the Agreement, we conclude that the sever-ability clause cannot save the Agreement or override the fact that the NAF and the NAF Code were an integral part of the Agreement.\nUnlike the court in Jones, this Court will not rewrite an arbitration agreement and insert additional terms to replace an unenforceable provision that was integral to the agreement. Sanctioning this type of action would run contrary to the clear intent of the parties as expressed by the plain language of the Agreement itself. See R.R. at 76 (stating that disputes \u201cshall be resolved exclusively by binding arbitration ... in accordance with [the \u201cNAF\u201d] Code of Procedure[.]\u201d); R.R. at 274 (stating that \u201c[the NAF Code shall be administered only by the NAF ...\u201d). As the Fifth Circuit recently explained:\nIn order to determine whether the designation of the NAF as the sole arbitration forum is an integral part of the arbitration agreement, the court must employ the rules of contract construction to determine the intent of the parties. Any doubts concerning the scope of arbitrable issues should be resolved in favor of arbitration.\nHere, the arbitration agreement plainly states that Ranzy \u2018shall\u2019 submit all claims to the NAF for arbitration and that the procedural rules of the NAF \u2018shall\u2019 govern the arbitration. Put differently, the parties explicitly agreed that the NAF shall be the exclusive forum for arbitrating disputes.... [W]here the parties\u2019 agreement specifies that the laws and procedures of a particular forum shall govern any arbitration between them, that forum-selection clause is an \u2018important\u2019 part of the arbitration agreement. Thus, a federal court need not compel arbitration in a substitute forum if the designated forum becomes unavailable.\nRanzy, 2010 WL 3377235 at **1-2, 2010 U.S.App. LEXIS 17872 at **4-5 (citations and some internal quotation marks omitted).\nAccordingly, we reject Jones and its companions as unpersuasive and follow the view espoused by the courts in Carideo, Khan, Ranzy and Carr. Although the language of the arbitration agreements in Carideo, Khan, Ranzy and Carr differ slightly from that used in the Agreement, our conclusion is the same: the plain language of the arbitration clauses in those cases, like the Agreement, delineated the NAF and the NAF Code as the exclusive arbitrators and rules of the arbitration proceedings. Moreover, we find Carideo, Khan, Ranzy and Carr persuasive because these cases emphasized the plain language of the arbitration agreement as the sole evidence of the parties\u2019 intent, while Jones and its predecessors placed undue focus on extrinsic and/or collateral evidence of the parties\u2019 intent. The former view, we believe, is much more consistent with well-established contract principles under Pennsylvania law. See Giant Food Stores, LLC v. THF Silver Spring Dev., L.P., 959 A.2d 438, 448 (Pa.Super.2008) (\u201c[I]t is firmly settled that the intent of the parties to a written contract is contained in the writing itself.... [W]hen the words of a contract are clear and unambiguous, we are to determine what the parties intended by looking only at the express language of the agreement.\u201d) (citation omitted). Therefore, we conclude that the Agreement\u2019s arbitration provision was unenforceable, and the trial court did not err in overruling Appellants\u2019 preliminary objections to compel arbitration.\nFor the above-stated reasons, we affirm the trial court\u2019s order.\nOrder affirmed. Case remanded. Jurisdiction relinquished.\n. The Agreement states:\n... It is understood and agreed by Facility and Resident that any and all claims, disputes, and controversies (hereafter collectively referred to as a \"claim\u201d or collectively as \"claims\u201d) arising out of, or in connection with, or relating in any way to the Admission Agreement or any service or health care provided by the Facility to the Resident shall be resolved exclusively by binding arbitration to be conducted at a place agreed upon by the Parties, or in the absence of such an agreement, at the Facility, in accordance with the National Arbitration Forum Code of Procedure, which is hereby incorporated into this Agreement[l], and not by a lawsuit or resort to court process. This agreement shall be governed by and interpreted under the Federal Arbitration Act, 9 U.S.C. Sections 1-16....\n[1] Information about the National Arbitration Forum, including a complete copy of the Code of Procedure, can be obtained from the Forum at 800-474-2371, by fax at 651-604-6778 or toll-free fax at 366-743-4527, or on the internet at http://www. arbforum.com\nR.R. at 76.\n. We note that an order refusing to compel a case to arbitration is appealable as a matter of statutory right. Callan v. Oxford Land Dev., Inc., 858 A.2d 1229, 1232 (Pa.Super.2004); see 42 Pa.C.S.A. \u00a7 7320(a)(1).\n. For instance, in Khan and Carideo, the arbitration agreement stated that any disputes between the parties \"shall be resolved exclusively and finally by binding arbitration administered by [the NAF] under its Code of Procedure then in effect.\u201d Khan, 2010 WL 3283529, at *4, 2010 U.S. Dist. LEXIS 85042, at *12; Carideo, 2009 WL 3485933, at *1, 2009 U.S. Dist. LEXIS 104600, at *4. As mentioned above, the Agreement provided that any disputes \"shall be resolved exclusively by binding arbitration ... in accordance with the [the \"NAF\u201d] Code of Procedure,\" and the NAF Code was expressly incorporated into the Agreement. R.R. at 76. Pursuant to the terms of the NAF Code, the \"Code shall be administered only by [the NAF.]\u201d R.R. at 274.",
+        "type": "majority",
+        "author": "ALLEN, J.:"
+      }
+    ],
+    "attorneys": [
+      "Ira L. Podheiser, Pittsburgh, for GGNSC-Canonsburg, L.P., for appellant.",
+      "Stephen Trzcinski, Philadelphia, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "Robert G. STEWART, as Attorney-in-Fact for Ruth Davidson, Appellee, v. GGNSC-CANONSBURG, L.P., d/b/a/ Golden Living Center-South Hills; GGNSC Canonsburg GP, L.L.C.; GGNSC Equity Holdings, L.L.C.; Golden Gate National Senior Care, L.L.C., d/b/a/ Golden Living GGNSC Holdings, L.L.C., d/b/a/ Golden Horizons, Appellants.\nSuperior Court of Pennsylvania.\nArgued Oct. 6, 2010.\nFiled Nov. 4, 2010.\nReargument Denied Jan. 13, 2011.\nIra L. Podheiser, Pittsburgh, for GGNSC-Canonsburg, L.P., for appellant.\nStephen Trzcinski, Philadelphia, for ap-pellee.\nBEFORE: MUSMANNO, SHOGAN, and ALLEN, JJ."
+  },
+  "file_name": "0215-01",
+  "first_page_order": 237,
+  "last_page_order": 244
+}

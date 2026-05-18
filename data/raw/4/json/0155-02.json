@@ -1,0 +1,59 @@
+{
+  "id": 7284572,
+  "name": "Marie VOGT, Executrix of the Estate of Joseph Thibeault, Deceased, and Marie Vogt, Administratrix of the Estate of Theresa Thibeault, Deceased, Appellant v. Honorable Thomas J. HINES, Workers' Compensation Judge, and Honeywell, Inc. (Successor in Interest to Allied Signal, Inc.), and Travelers Insurance Company, Appellees",
+  "name_abbreviation": "Vogt v. Hines",
+  "decision_date": "2010-09-29",
+  "docket_number": "",
+  "first_page": "155",
+  "last_page": "155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 645,
+    "ocr_confidence": 0.685,
+    "sha256": "78dc794fa83349106a382a4a857a9c2f725b517aedea100ba89fee62a69ce185",
+    "simhash": "1:797da306d2c2b4e3",
+    "word_count": 101
+  },
+  "last_updated": "2023-07-14T18:37:41.617876+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marie VOGT, Executrix of the Estate of Joseph Thibeault, Deceased, and Marie Vogt, Administratrix of the Estate of Theresa Thibeault, Deceased, Appellant v. Honorable Thomas J. HINES, Workers\u2019 Compensation Judge, and Honeywell, Inc. (Successor in Interest to Allied Signal, Inc.), and Travelers Insurance Company, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of September, 2010, it appearing that Appellant has failed to raise any argument of merit that would support her request for a writ of prohibition or a writ of mandamus in this case, the Order of the Commonwealth Court is AFFIRMED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Marie VOGT, Executrix of the Estate of Joseph Thibeault, Deceased, and Marie Vogt, Administratrix of the Estate of Theresa Thibeault, Deceased, Appellant v. Honorable Thomas J. HINES, Workers\u2019 Compensation Judge, and Honeywell, Inc. (Successor in Interest to Allied Signal, Inc.), and Travelers Insurance Company, Appellees.\nSupreme Court of Pennsylvania.\nSept. 29, 2010."
+  },
+  "file_name": "0155-02",
+  "first_page_order": 217,
+  "last_page_order": 217
+}

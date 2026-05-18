@@ -1,0 +1,92 @@
+{
+  "id": 7286422,
+  "name": "GUARDIANSHIP OF KEAN R. IV.",
+  "name_abbreviation": "Guardianship of Kean R. IV.",
+  "decision_date": "2010-08-24",
+  "docket_number": "",
+  "first_page": "340",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 340"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 84"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "473 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7990127
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "877-78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/473/0875-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 452,
+    "char_count": 8380,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.34766949733362834
+    },
+    "sha256": "539892f90c2cb46cae0980328c7a6297423bc10454697c7257aa55ca03e7a1d9",
+    "simhash": "1:e853700370167065",
+    "word_count": 1427
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "GUARDIANSHIP OF KEAN R. IV."
+    ],
+    "opinions": [
+      {
+        "text": "JABAR, J.\n[\u00b6 1] The father of Kean R. IV appeals from a judgment of the Waldo County Probate Court (Longley, J.) appointing guardianship of the child to the paternal grandmother pursuant to 18-A M.R.S. \u00a7 5-204(d) (2009). Because the court instructed the parties at the outset of the hearing that it was proceeding pursuant to 18-A M.R.S. \u00a7 5 \u2014 204(c) (2009), but then decided the case pursuant to section 5-204(d), a statutory basis that had not been pleaded or litigated, we vacate the court\u2019s judgment.\nI. BACKGROUND\n[\u00b6 2] Kean\u2019s mother and father are unmarried, and there is a parental rights and responsibilities order in place providing that the father cares for Kean Mondays through Fridays, and the mother cares for Kean on weekends. Sometime around the end of 2007 or early 2008, the father violated the conditions of his probation in an unrelated criminal matter and was inear-cerated. He remained in jail until August 2009. Kean\u2019s father arranged for Kean to live with his paternal grandmother while the father was incarcerated.\n[\u00b6 3] In March 2009, the paternal grandmother filed a petition for guardianship of Kean. She supported her petition by explaining that she wanted Kean to live with her until the father was released from jail and had achieved a stable life. In addition, she wanted Kean to stay in his current elementary school.\n[\u00b6 4] The court held a hearing in September 2009. The mother, father, and grandmother were present, but only the father was represented by counsel. For the benefit of the self-represented parties, the court carefully explained how it would conduct the proceedings. As part of its explanation, the court repeatedly instructed the parties that, in order to prevail on her petition, the grandmother would need to prove (1) a temporarily intolerable living situation, and (2) that a guardianship would be in Kean\u2019s best interest, the elements required to satisfy 18-A M.R.S. \u00a7 5-204(c).\n[\u00b6 5] The grandmother testified first, and explained that Kean was a bright but shy child and that she wanted him to continue to live with her until he completed fifth grade. She acknowledged that Kean\u2019s father\u2019s life was \u201cpretty good,\u201d in that he was out of jail and no longer on probation, shared a two-bedroom apartment with his wife and another minor child, and had a full-time job. The mother testified that she had filed a motion in the District Court to amend the parental rights order, and that that court had scheduled a hearing for October 2009. She also stated that, as long as she continued to see Kean on weekends, she supported Kean\u2019s placement with his father.\n[\u00b6 6] After the grandmother and the mother testified, the father moved for a judgment as a matter of law pursuant to M.R. Prob. P. 50; M.R. Civ. P. 50(d). The court reserved a ruling on the motion, explaining that it \u201cneed[ed] more information.\u201d The father then testified. He confirmed the grandmother\u2019s testimony regarding his employment and living situation, and expressed that he was fully prepared to \u201cjump right back into\u201d being Kean\u2019s primary caretaker. At the close of all the evidence, the father did not renew his motion for judgment as a matter of law. The court granted the grandmother\u2019s request to be appointed guardian.\n[\u00b6 7] The court found by a preponderance of the evidence that (1) the grandmother was Kean\u2019s de facto guardian, and (2) there was a demonstrated lack of consistent participation by the parents. The court further found that a guardianship was in Kean\u2019s best interest because the grandmother had become the primary caregiver; Kean had adjusted to his school and community; he was in a stable, satisfactory environment; it would promote continuity and permanence; and Kean was shy and had difficulty with sudden change. Based on those findings, and, despite its instructions concerning section 5-204(c) throughout the hearing, not on any finding of intolerable living conditions, the court issued a judgment granting the grandmother guardianship pursuant to section 5-204(d). The court limited the guardianship pursuant to 18-A M.R.S. \u00a7 5-105 (2009) to allow the parents access to Kean\u2019s educational and medical information and to permit them to spend time with Kean. The father appealed.\nII. DISCUSSION\n[\u00b6 8] The court erred when it decided the case pursuant to section 5-204(d) after it instructed the parties that the petition would be decided pursuant to section 5-204(c). The elements of section 5-204(c) focus on intolerable living situations and the best interest of the child; the elements of 5-204(d) focus on de facto guardianship and lack of consistent participation. Section 5-204(d) was not pleaded or litigated, and it could not serve as the basis for the court\u2019s judgment.\n[\u00b6 9] The court did not find that a guardianship could be granted on the grounds of intolerable living circumstances. Therefore, we infer that the court concluded that the grandmother did not meet her burden pursuant to section 5-204(c), and we affirm that judgment. There was no evidence in the record that the father was unfit or no longer able to safely care for his son.\n[\u00b6 10] We cannot, however, affirm the court\u2019s judgment issued pursuant to section 5-204(d). An issue not raised in the pleadings or in a pretrial order is not properly before the court unless it is tried by express or implied consent of the parties. See M.R. Prob. P. 15; M.R. Civ. P. 15(b); DiBiase v. Universal Design & Builders, Inc., 473 A.2d 875, 877-78 (Me. 1984). Here, section 5-204(d) was not raised in the pleadings, the court never gave the parties notice that it considered this to be an issue in the case, and it was not tried by express or implied consent. Accordingly, the court erred in granting a guardianship pursuant to section 5-204(d).\nThe entry is:\nJudgment granting guardianship vacated.\n. The grandmother filed a guardianship plan on the same day that she filed the guardianship petition. When describing Kean's living arrangements in the guardianship plan, the grandmother noted that Kean visited his father in jail monthly.\n. Title 18-A M.R.S. \u00a7 5-204(c) (2009) provides that the court may appoint a guardian for an unmarried minor if:\nThe person or persons whose consent is required ... do not consent, but the court finds by clear and convincing evidence that the person or persons have failed to respond to proper notice or a living situation has been created that is at least temporarily intolerable for the child even though the living situation does not rise to the level of jeopardy required for the final termination of parental rights, and that the proposed guardian will provide a living situation that is in the best interest of the child.\n. Title 18-A M.R.S. \u00a7 5-101(l-B) (2009) defines \"de facto guardian\u201d as:\n[A]n individual with whom, within the 24 months immediately preceding the filing of a petition under section 5-204, subsection (d), a child has resided for the following applicable period and during which period there has been a demonstrated lack of consistent participation by the parent or legal custodian:\n(a) If the child at the time of filing the petition is under 3 years of age, 6 months or more, which need not be consecutive; or\n(b) If the child at the time of filing the petition is at least 3 years of age, 12 months or more, which need not be consecutive.\n\"De facto guardian\u201d does not include an individual who has a guardian\u2019s powers delegated to the individual by a parent or guardian of a child under section 5-104, adopts a child under Article 9 or has a child placed in the individual's care under Title 22, chapter 1071.\n(Footnotes omitted.)\n. Title 18-A M.R.S. \u00a7 5-204(d) (2009) states that the court may appoint a guardian without the parents\u2019 consent if:\n[T]he court finds by a preponderance of the evidence that there is a de facto guardian and a demonstrated lack of consistent participation by the nonconsenting parent or legal custodian of the unmarried minor. The court may appoint the de facto guardian as guardian if the appointment is in the best interest of the child.",
+        "type": "majority",
+        "author": "JABAR, J."
+      }
+    ],
+    "attorneys": [
+      "Aaron Fethke, Esq., Searsport, ME, for father.",
+      "The paternal grandmother did not file a brief.",
+      "The mother did not file a brief."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 84\nGUARDIANSHIP OF KEAN R. IV.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: May 27, 2010.\nDecided: Aug. 24, 2010.\nAaron Fethke, Esq., Searsport, ME, for father.\nThe paternal grandmother did not file a brief.\nThe mother did not file a brief.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0340-01",
+  "first_page_order": 370,
+  "last_page_order": 373
+}

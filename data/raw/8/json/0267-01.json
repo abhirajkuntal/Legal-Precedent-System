@@ -1,0 +1,1309 @@
+{
+  "id": 7283985,
+  "name": "COMMONWEALTH of Pennsylvania, c/o Office of General Counsel, Appellee v. JANSSEN PHARMACEUTICA, INC., Trading As \"Janssen, L.P.\", Appellant",
+  "name_abbreviation": "Commonwealth v. Janssen Pharmaceutica, Inc.",
+  "decision_date": "2010-08-17",
+  "docket_number": "",
+  "first_page": "267",
+  "last_page": "282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "902 A.2d 402",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3467597,
+        8413365
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "412-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0650-01",
+        "/a2d/902/0402-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 650",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3467597
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0650-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2471785,
+        8997954
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "660"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0196-01",
+        "/a2d/888/0655-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2471785
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0196-01"
+      ]
+    },
+    {
+      "cite": "721 A.2d 1067",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11798996,
+        765997
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1069"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/721/1067-01",
+        "/pa/554/0456-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765997
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0456-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 542",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630455
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0542-01"
+      ]
+    },
+    {
+      "cite": "636 A.2d 615",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7363833,
+        1841539
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "617-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/636/0615-01",
+        "/pa/535/0492-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 492",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841539
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0492-01"
+      ]
+    },
+    {
+      "cite": "770 A.2d 318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1276772,
+        11100550
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0656-01",
+        "/a2d/770/0318-01"
+      ]
+    },
+    {
+      "cite": "778 A.2d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706273,
+        9497965,
+        706228,
+        706325,
+        9498039,
+        9497983
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0160-01",
+        "/a2d/778/1194-01",
+        "/pa/566/0161-02",
+        "/pa/566/0161-01",
+        "/a2d/778/1194-03",
+        "/a2d/778/1194-02"
+      ]
+    },
+    {
+      "cite": "566 Pa. 161",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706228,
+        706325
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0161-02",
+        "/pa/566/0161-01"
+      ]
+    },
+    {
+      "cite": "843 A.2d 1223",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9281281,
+        91718,
+        91693,
+        91700,
+        9281209,
+        9281180
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1230",
+          "parenthetical": "citing O'Rourke v. Commonwealth, Dept. of Corrections, 566 Pa. 161, 778 A.2d 1194, 1201 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/843/1223-03",
+        "/pa/577/0231-01",
+        "/pa/577/0230-01",
+        "/pa/577/0230-02",
+        "/a2d/843/1223-02",
+        "/a2d/843/1223-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 231",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91718
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citing O'Rourke v. Commonwealth, Dept. of Corrections, 566 Pa. 161, 778 A.2d 1194, 1201 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0231-01"
+      ]
+    },
+    {
+      "cite": "664 A.2d 84",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470753,
+        470818,
+        470769,
+        7862196,
+        7862292,
+        7862233
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "87",
+          "parenthetical": "\"Where the words of a statute are clear and free from ambiguity the legislative intent is to be gleaned from those very words.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0423-01",
+        "/pa/541/0424-02",
+        "/pa/541/0424-01",
+        "/a2d/664/0084-01",
+        "/a2d/664/0084-03",
+        "/a2d/664/0084-02"
+      ]
+    },
+    {
+      "cite": "541 Pa. 424",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470769,
+        470818
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Where the words of a statute are clear and free from ambiguity the legislative intent is to be gleaned from those very words.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0424-01",
+        "/pa/541/0424-02"
+      ]
+    },
+    {
+      "cite": "807 A.2d 830",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11354272,
+        312761,
+        312835,
+        11354415
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "835"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/807/0830-01",
+        "/pa/569/0609-01",
+        "/pa/569/0608-01",
+        "/a2d/807/0830-02"
+      ]
+    },
+    {
+      "cite": "569 Pa. 609",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312761
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0609-01"
+      ]
+    },
+    {
+      "cite": "822 A.2d 676",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9131720,
+        197219
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/822/0676-01",
+        "/pa/573/0143-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 143",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197219
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0143-01"
+      ]
+    },
+    {
+      "cite": "915 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8340050,
+        3017333
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/1155-01",
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 56",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "730 A.2d 935",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        607176,
+        11613132
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding statute granting standing to Civil Service Commission to enforce veterans' preferences where such standing did not exist under traditional standing doctrine"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0621-01",
+        "/a2d/730/0935-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 621",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607176
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding statute granting standing to Civil Service Commission to enforce veterans' preferences where such standing did not exist under traditional standing doctrine"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0621-01"
+      ]
+    },
+    {
+      "cite": "904 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8473694,
+        3788399
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "applying statute limiting standing to seek visitation or custody to grandparents whose child has died"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/904/0875-01",
+        "/pa/588/0342-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 342",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788399
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "applying statute limiting standing to seek visitation or custody to grandparents whose child has died"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0342-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 627",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196057,
+        7292755
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "statute conferring standing on district attorney to challenge record expungement does not extend to State Police"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0156-01",
+        "/a2d/983/0627-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 156",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196057
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "statute conferring standing on district attorney to challenge record expungement does not extend to State Police"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0156-01"
+      ]
+    },
+    {
+      "cite": "821 A.2d 1238",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        197205,
+        9141182
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0127-01",
+        "/a2d/821/1238-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197205
+      ],
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0127-01"
+      ]
+    },
+    {
+      "cite": "879 A.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8933265,
+        687746
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "189",
+          "parenthetical": "\"As a general rule, the best indication of legislative intent is the plain language of a statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/879/0185-01",
+        "/pa/583/0478-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 478",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687746
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "\"As a general rule, the best indication of legislative intent is the plain language of a statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0478-01"
+      ]
+    },
+    {
+      "cite": "673 A.2d 905",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7865377,
+        461515,
+        461577,
+        7865247
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/673/0905-02",
+        "/pa/543/0591-01",
+        "/pa/543/0592-01",
+        "/a2d/673/0905-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461577
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0592-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8936626,
+        687748
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "518-19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/880/0505-01",
+        "/pa/583/0514-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 514",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687748
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0514-01"
+      ]
+    },
+    {
+      "cite": "956 A.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3988843,
+        8209381
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "943"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0283-01",
+        "/a2d/956/0937-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3988843
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0283-01"
+      ]
+    },
+    {
+      "cite": "977 A.2d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4195040,
+        7297499
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1142"
+        },
+        {
+          "parenthetical": "home rule statute conferring standing on \"aggrieved person\" did not include taxpayers not detrimentally harmed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0083-01",
+        "/a2d/977/1132-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 83",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4195040
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "home rule statute conferring standing on \"aggrieved person\" did not include taxpayers not detrimentally harmed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0083-01"
+      ]
+    },
+    {
+      "cite": "975 A.2d 1076",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297233,
+        4195218,
+        4194785,
+        7297261
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/975/1076-01",
+        "/pa/601/0562-01",
+        "/pa/601/0563-01",
+        "/a2d/975/1076-02"
+      ]
+    },
+    {
+      "cite": "601 Pa. 563",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194785
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0563-01"
+      ]
+    },
+    {
+      "cite": "470 Pa. 372",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1723801
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/470/0372-01"
+      ]
+    },
+    {
+      "cite": "812 A.2d 591",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11367121,
+        1070140
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "600-01",
+          "parenthetical": "alluding to the great-public-importance exception, particularly in light of a material lack of clarity in governing law"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/812/0591-01",
+        "/pa/571/0375-01"
+      ]
+    },
+    {
+      "cite": "571 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070140
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "alluding to the great-public-importance exception, particularly in light of a material lack of clarity in governing law"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/571/0375-01"
+      ]
+    },
+    {
+      "cite": "838 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9298712,
+        630377,
+        9298628,
+        630455
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing that, in the context of a constitutional dispute, the law at issue is the constitutional provision under which the objector brings its challenge"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/838/0566-02",
+        "/pa/575/0541-01",
+        "/a2d/838/0566-01",
+        "/pa/575/0542-01"
+      ]
+    },
+    {
+      "cite": "246 A.2d 337",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "431 Pa. 542",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917393
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/431/0542-01"
+      ]
+    },
+    {
+      "cite": "50 DePaul L.Rev. 743",
+      "category": "journals:journal",
+      "reporter": "DePaul L. Rev.",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "783-84"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "489 Pa. 254",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1762413
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "260"
+        },
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/489/0254-01"
+      ]
+    },
+    {
+      "cite": "235 P.3d 21",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that, to ensure that public attorneys exercise \"real rather than illusory control\" over contingent-fee counsel, contingent-fee agreements \"must provide: (1) that the public-entity attorneys will retain complete control over the course and conduct of the case; (2"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "112 Cal.Rptr.3d 697",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that, to ensure that public attorneys exercise \"real rather than illusory control\" over contingent-fee counsel, contingent-fee agreements \"must provide: (1) that the public-entity attorneys will retain complete control over the course and conduct of the case; (2"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "50 Cal.4th 35",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3910156
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that, to ensure that public attorneys exercise \"real rather than illusory control\" over contingent-fee counsel, contingent-fee agreements \"must provide: (1"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/cal-4th/50/0035-01"
+      ]
+    },
+    {
+      "cite": "51 DePaul L.Rev. 315",
+      "category": "journals:journal",
+      "reporter": "DePaul L. Rev.",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "325-26"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "95 L.Ed.2d 740",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        6222790,
+        1148238
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "disapproving the appointment of private counsel to represent the government where such appointment raises \"the potential for private interest to influence the discharge of public duty\" (emphasis in original)"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/481/0787-01",
+        "/us/341/0050-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 787",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6222790
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "805",
+          "parenthetical": "disapproving the appointment of private counsel to represent the government where such appointment raises \"the potential for private interest to influence the discharge of public duty\" (emphasis in original)"
+        },
+        {
+          "page": "2136-37",
+          "parenthetical": "disapproving the appointment of private counsel to represent the government where such appointment raises \"the potential for private interest to influence the discharge of public duty\" (emphasis in original)"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/481/0787-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "87",
+          "parenthetical": "clarifying that, although an attorney for the government is an advocate, his Ghent's goal is not to prevail but to establish justice"
+        },
+        {
+          "page": "1197",
+          "parenthetical": "clarifying that, although an attorney for the government is an advocate, his Ghent's goal is not to prevail but to establish justice"
+        },
+        {
+          "parenthetical": "clarifying that, although an attorney for the government is an advocate, his Ghent's goal is not to prevail but to establish justice"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "705 P.2d 347",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "351",
+          "parenthetical": "\"Not only is a government lawyer's neutrality essential to a fair outcome for the litigants in the case in which he is involved, it is essential to the proper function of the judicial process as a whole.\""
+        },
+        {
+          "page": "351",
+          "parenthetical": "\"In the case at bar, Clancy has an interest in the result of the case: his hourly rate will double if the City is successful in the litigation. Obviously this arrangement gives him an interest extraneous to his official function in the actions he prosecutes on behalf of the City.\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "218 Cal.Rptr. 24",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Not only is a government lawyer's neutrality essential to a fair outcome for the litigants in the case in which he is involved, it is essential to the proper function of the judicial process as a whole.\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "39 Cal.3d 740",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2011378
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Not only is a government lawyer's neutrality essential to a fair outcome for the litigants in the case in which he is involved, it is essential to the proper function of the judicial process as a whole.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/cal-3d/39/0740-01"
+      ]
+    },
+    {
+      "cite": "202 A.2d 816",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "820",
+          "parenthetical": "observing that \"all acts of the legislature and of any governmental agency are subordinate to the Constitution, which is the Supreme Law of the land\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "415 Pa. 177",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1891834
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "185",
+          "parenthetical": "observing that \"all acts of the legislature and of any governmental agency are subordinate to the Constitution, which is the Supreme Law of the land\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/415/0177-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2471785,
+        8997954
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "659",
+          "parenthetical": "reciting that an interest is \"direct\" if the matter complained of caused harm to the party's interests, and it is \"immediate\" if the causal connection is not remote or speculative"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/585/0196-01",
+        "/a2d/888/0655-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2471785
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "204",
+          "parenthetical": "reciting that an interest is \"direct\" if the matter complained of caused harm to the party's interests, and it is \"immediate\" if the causal connection is not remote or speculative"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/585/0196-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 542",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630455
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "n. 7, 560",
+          "parenthetical": "recognizing that, in the context of a constitutional dispute, the law at issue is the constitutional provision under which the objector brings its challenge"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/575/0542-01"
+      ]
+    },
+    {
+      "cite": "821 A.2d 1238",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        197205,
+        9141182
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1243",
+          "parenthetical": "indicating that standing exists \"if the proponent of a legal action has somehow been 'aggrieved' by the matter he seeks to challenge\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/573/0127-01",
+        "/a2d/821/1238-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197205
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "136",
+          "parenthetical": "indicating that standing exists \"if the proponent of a legal action has somehow been 'aggrieved' by the matter he seeks to challenge\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/573/0127-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1939,
+    "char_count": 51602,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18826232726309527
+    },
+    "sha256": "a9a0b59596159d1d11d5f2d2c5646b127e6bdad3390be11738e47da6cf0724df",
+    "simhash": "1:b0e7a5830efbdc1a",
+    "word_count": 7932
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, c/o Office of General Counsel, Appellee v. JANSSEN PHARMACEUTICA, INC., Trading As \u201cJanssen, L.P.\u201d, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nChief Justice CASTILLE.\nThis appeal of the trial court\u2019s order denying the motion of appellant Janssen Pharmaceutica, Inc. (\u201cJanssen\u201d) to disqualify contingent fee counsel retained by ap-pellee, the Commonwealth\u2019s Office of General Counsel (\u201cOGC\u201d), is before this Court on a grant of extraordinary relief pursuant to 42 Pa.C.S. \u00a7 726, by which we exercised jurisdiction to consider the possible statutory and constitutional implications of the contingent fee representation agreement entered into between OGC and the Texas law firm of Bailey Perrin Bailey, LLP (\u201cBailey Perrin\u201d). We affirm.\nOn January 17, 2008, OGC filed a complaint against Janssen in the Court of Common Pleas of Philadelphia County, raising statutory and common law tort claims related to Risperdal, a prescription antipsychotic medication marketed by Janssen. Although Risperdal had been approved by the Food and Drug Administration (\u201cFDA\u201d), OGC alleged, inter alia, that Janssen improperly marketed and promoted Risperdal for non-FDA approved uses, commonly known as \u201coff-label\u201d uses. OGC contended that the Commonwealth has expended millions of dollars for Risperdal prescriptions through Medicaid and the Pharmaceutical Assistance Contract for the Elderly (\u201cPACE\u201d). In filing the action, OGC was not represented by government-employed lawyers. Instead, OGC retained Bailey Perrin, a private law firm based in Houston, Texas, to prosecute the action on a contingent fee basis.\nOn June 9, 2008, Janssen filed a motion in the trial court seeking to disqualify Bailey Perrin as OGC\u2019s counsel in the litigation. Janssen alleged that, while OGC filed the complaint against Janssen on behalf of the Commonwealth, no attorney from OGC entered an appearance, the complaint was signed by local Philadelphia counsel for Bailey Perrin, and a Bailey Perrin attorney verified the complaint. Janssen contended that the contingent fee agreement restricts OGC\u2019s ability to consent to a non-monetary settlement of the Risperdal action because it requires that any settlement include reasonable compensation for Bailey Perrin; contains a provision waiving conflicts of interests arising out of Bailey Perrin representing other states in similar actions that varies from the usual conflict of interest provisions included in contingent fee agreements executed by the Attorney General; and does not provide for OGC\u2019s control and management of the litigation as is generally the case with the Attorney General\u2019s contingent fee agreements. Janssen argued that the contingent fee agreement violates the separation of powers doctrine by usurping the General Assembly\u2019s exclusive spending powers. Finally, Janssen claimed that the agreement deprives it of its due process rights because those who exercise the government\u2019s powers in adjudicative proceedings must have no financial interest in the outcome, must be impartial, and must maintain the appearance of impartiality.\nOGC responded that Janssen misrepresented the terms of the contingent fee agreement regarding the scope of OGC\u2019s control over the litigation. OGC stated that the agreement relegates Bailey Perrin to advising, counseling and recommending actions to OGC and carrying out OGC\u2019s directives to the best of its ability and further provides that Bailey Perrin is directly responsible to OGC on all matters of strategy and tactics. In addition, according to OGC, the agreement provides that, at the time of settlement or judgment, OGC will consult with Bailey Perrin and agree to appropriate legal fees. OGC noted that the agreement provides that Bailey Perrin must advance all costs of litigation and, if there is no recovery, could expend millions of dollars with no remuneration.\nRegarding alleged restrictions on the ability to reach a non-monetary settlement, OGC argued that, because the Risperdal complaint seeks monetary damages, the likelihood of an acceptable non-monetary settlement is extremely remote, and Jans-sen had not proposed any non-monetary settlement. On the issue of the alleged conflict of interest, OGC responded that Janssen failed to point to any such conflict or establish how Bailey Perrin\u2019s representation of other states against Janssen presents a conflict. OGC added that the contingent fee agreement does not violate the separation of powers doctrine because any fees paid to Bailey Perrin would issue from Janssen and not from the state treasury. Finally, OGC countered Janssen\u2019s due process argument by noting that all of the caselaw on that issue involves criminal matters and the impartiality of judges, not counsel representing a governmental entity.\nThe Honorable Howland W. Abramson denied the motion to disqualify counsel on December 8, 2008, without filing an opinion or otherwise stating the reasons for denial on the record. Janssen then filed an application for extraordinary relief with this Court, asking this Court to exercise jurisdiction to review the denial of its motion to disqualify. Janssen renewed the arguments it had forwarded below, i e., that the contingent fee contract restricted OGC\u2019s authority to settle the litigation for non-monetary relief, and that the contract did not vest control of the litigation with OGC but rather provided that Bailey Perrin need only consult with OGC; that the process by which Bailey Perrin was retained was irregular because the contingent fee contract was not the subject of competitive bidding or legislative authorization; and that the contract violated the separation of powers doctrine and Janssen\u2019s due process rights. Finally, Janssen noted that if OGC prevailed in this litigation, Bailey Perrin would be paid fees of as much as fifteen percent of the actual recovery.\nOGC opposed the application for extraordinary relief, arguing that Sections 204 and 501 of the Commonwealth Attorneys Act (\u201cAttorneys Act\u201d or \u201cAct\u201d) specifically authorized OGC to hire outside counsel to represent it. See 71 P.S. \u00a7\u00a7 732-204 and 732-501. Further, OGC claimed that Janssen lacked standing to move to disqualify Bailey Perrin under Section 103 of the Attorneys Act, which explicitly states that no party other than a Commonwealth agency has standing to challenge the authority of the legal representation of the agency. 71 P.S. \u00a7 732-103. As to Jans-sen\u2019s separation of powers argument, OGC renewed its position that Bailey Perrin\u2019s compensation would come from Janssen, not from the state treasury, because any fee would be paid directly to Bailey Perrin prior to any recovery from Janssen being deposited into the treasury. In any event, according to OGC, the majority of other jurisdictions that have considered such a separation of powers argument have rejected it. Regarding Janssen\u2019s due process claim, OGC noted that it appears that Janssen would not object if OGC were represented by government-employed attorneys or private counsel working on an hourly basis; therefore, OGC characterized Janssen\u2019s true objection as being a strategic one, reflecting its concern with Bailey Perrin\u2019s level of skill, experience and special expertise in pharmaceutical reimbursement claims. OGC posits that due process principles cannot be construed to deny the Commonwealth the ability to retain superior legal representation.\nOn June 30, 2009, this Court exercised jurisdiction due to the public importance of the disqualification issue and directed the parties to brief the following four issues:\nA. Whether 71 P.S. \u00a7 732-103 dictates that [Janssen] lacks standing to seek disqualification of Bailey Perrin Bailey, LLP on the basis of alleged violations of constitutional law.\nB. Whether the Attorneys Act, 71 P.S. \u00a7 732-101 et seq., authorizes the Office of General Counsel\u2019s contingent fee agreement with Bailey Perrin Bailey, LLP.\nC. Whether Bailey Perrin Bailey, LLP should be disqualified because the General Assembly did not authorize the contingent fee arrangement between the Office of General Counsel and the law firm, such that the agreement violates Article III, \u00a7 24 and the separation of powers mandate of the Pennsylvania Constitution.\nD. Whether Bailey Perrin Bailey, LLP should be disqualified because the due process guarantees of the United States and Pennsylvania Constitutions prohibit the Commonwealth from delegating the exercise of its sovereign powers to private counsel with a direct contingent financial interest in the outcome of the litigation.\nCommonwealth v. Janssen Pharmaceutical, Inc., 601 Pa. 563, 975 A.2d 1076 (2009). The questions, posing two questions of statutory construction and two questions of constitutional law, are purely legal ones and thus, our scope of review is plenary and our standard of review is de novo. See Spahn v. Zoning Bd. of Adjustment, 602 Pa. 83, 977 A.2d 1132, 1142 (2009); Castellani v. Scranton Times, L.P., 598 Pa. 283, 956 A.2d 937, 943 (2008).\nPreliminarily, we note that it has long been the policy of this Court to avoid constitutional questions where a matter can be decided on alternative, non-constitutional grounds. See Commonwealth v. Karetny, 583 Pa. 514, 880 A.2d 505, 518-19 (2005); In re Fiori, 543 Pa. 592, 673 A.2d 905, 909 (1996). Accordingly, we will begin with the first issue under the Attorneys Act, which presents the threshold question of whether Janssen has standing to challenge Bailey Perrin\u2019s representation of OGC. Section 103 provides that: \u201cNo party to an action, other than a Commonwealth agency including the Departments of Auditor General and State Treasury and the Public Utility Commission, shall have standing to question the authority of the legal representation of the agency.\u201d\nOGC states that Section 108\u2019s mandate clearly precludes Janssen\u2019s attack on OGC\u2019s choice of counsel. Janssen responds that it has standing to move to disqualify Bailey Perrin because nothing in the Attorneys Act prevents a litigant from challenging OGC\u2019s unconstitutional usurpation of the General Assembly\u2019s spending powers or from litigating due process claims deriving from the Commonwealth\u2019s retention of private contingent fee counsel.\nJanssen\u2019s statutory arguments are based on the Act\u2019s legislative history and also on the text of Section 103. First, viewing Section 103 from a historical perspective, Janssen notes that it was enacted after the 1978 amendment to the Pennsylvania Constitution that provided for the election of the Attorney General rather than executive appointment of that position. According to Janssen, the Act implements the constitutional amendment by establishing the position of Governor\u2019s General Counsel and splitting the duties of the prior appointed Attorney General between the elected Attorney General and OGC. Section 204(c) of the Act thus authorizes the Attorney General to \u201crepresent the Commonwealth and all Commonwealth agencies\u201d in most civil litigation, 71 P.S. \u00a7 732-204(c), while Section 301(6) allows OGC to represent Commonwealth agencies in limited circumstances. Section 301(6) provides, in context:\nThere is hereby established the Office of General Counsel which shall be headed by a General Counsel appointed by the Governor to serve at his pleasure who shall be the legal advisor to the Governor and who shall:\n(6) Initiate appropriate proceedings or defend the Commonwealth or any executive agency when an action or matter has been referred to the Attorney General and the Attorney General refuses or fails to initiate appropriate proceedings or defend the Commonwealth or executive agency.\n71 P.S. \u00a7 732-301(6). It is undisputed that the Attorney General declined to file the Risperdal action against Janssen and that OGC was authorized to do so. Viewed in light of this history, Janssen argues, Section 103\u2019s express limitation on standing was intended only to restrict challenges to the division of responsibility between the Attorney General and OGC; in that instance, only a Commonwealth agency has standing to \u201cquestion the authority\u201d of the legal representation of the agency.\nIn any event, Janssen argues, it is not challenging Bailey Perrin\u2019s statutory \u201cauthority\u201d to represent the Commonwealth because it recognizes that OGC has the authority to initiate the action and to hire private counsel to prosecute the matter. Instead, Janssen claims, it seeks disqualification of Bailey Perrin as counsel because the contingent fee arrangement violates constitutional principles of separation of powers and due process. Because Section 103 focuses only on statutory \u201cauthority,\u201d Janssen argues that Section 103 does not forbid or limit a party\u2019s right to assert a violation of constitutional guarantees, via the vehicle of a motion to disqualify contingent fee counsel.\nFinally, Janssen claims that Section 103 does not limit Janssen\u2019s standing to seek disqualification of Bailey Perrin as counsel because Section 103 applies on its face only to \u201cthe legal representation of the agency\u201d where a Commonwealth agency is a party to the action. According to Janssen, the Commonwealth itself is the sole plaintiff in this action, and representation of the Commonwealth is distinct from representation of a Commonwealth agency. Janssen says that the distinction it draws is implicit in the General Assembly\u2019s use in Section 204(c) of the language, \u201c[t]he Attorney General shall represent the Commonwealth and all Commonwealth agencies .... \u201d Thus, Janssen argues, Section 103\u2019s specific limitation on standing to challenge representation of an agency cannot be read, as a matter of basic statutory construction, to impose a similar limitation on standing to challenge representation of the Commonwealth as a whole.\nOGC counters that a private litigant lacks standing to usurp the role of elected officials in establishing and carrying out the Commonwealth\u2019s policies. OGC argues that Janssen\u2019s \u201clofty rhetoric of separation of powers and due process rights\u201d aside, Janssen\u2019s motion to disqualify counsel is nothing more than \u201can attempt by an alleged corporate malfeasor to avoid the consequences of its wrongdoing by re-debating the policy choices of the Governor, Attorney General, and General Counsel.\u201d Br. of Appellee at 11. OGC contends that the policy decisions of whether to pursue a particular avenue of litigation, which attorneys to use in the litigation, and how to compensate the attorneys are properly made by public officials, and not by private parties or the courts.\nAs to Section 103 specifically, OGC points to the plain language of the statute, which prohibits parties to an action other than a Commonwealth agency from challenging the authority of the agency\u2019s legal representation, and notes that the best indication of legislative intent is that plain language. See Commonwealth v. Shiffler, 583 Pa. 478, 879 A.2d 185, 189 (2005) (\u201cAs a general rule, the best indication of legislative intent is the plain language of a statute.\u201d). OGC argues that this unequivocal restriction does not support the distinction Janssen attempts to draw between the statutory and constitutional authority of Bailey Perrin\u2019s representation. Instead, according to OGC, Section 108 prevents all such challenges to the legal authority of a Commonwealth party\u2019s representation. Because Section 103 is clear and free from ambiguity, OGC posits that Janssen\u2019s argument is foreclosed by basic rules of statutory construction. See 1 Pa.C.S. \u00a7 1921(b) (\u201cWhen the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit.\u201d). OGC concludes that Section 103 means what it plainly says: no party to an action \u2014 and Janssen is a party to this action \u2014 may challenge an agency\u2019s legal representation. As for Janssen\u2019s argument that the Commonwealth, and not a Commonwealth agency, is the plaintiff in this action, OGC responds that the complaint it filed clearly states that the action was brought on behalf of the Department of Public Welfare and the Department of Aging, both of which are Commonwealth agencies. Finally, OGC observes that Janssen \u201cclaims to champion the interests of the legislature against the executive, in the absence of any indication that the legislature believes that its rights have been infringed or that it needs a private champion.\u201d Br. of Appellee at 18.\nPreliminarily, we note that Section 103 both confers and prohibits standing: it permits Commonwealth agencies to question the authority of an agency\u2019s legal representation, but denies such standing to any other party to an action. The General Assembly has frequently enacted statutes conferring standing on particular individuals or entities in specific situations. See, e.g., 13 Pa.C.S. \u00a7 2A531 (lessor and lessee have standing to sue third party whose conduct toward goods subject to lease causes actionable injury to party to lease); 23 Pa.C.S. \u00a7 4341 (granting standing to any person caring for child to commence or continue action for child support regardless of whether court order grants that person custody); 23 Pa.C.S. \u00a7 4378 (recipient of public assistance has standing to commence action for support for any child for whom recipient claims assistance); 24 P.S. \u00a7 13-1311-A (student victim of act of violence involving weapon on school property has standing to seek expulsion of aggressor not expelled by school); 35 P.S. \u00a7 780-152 (tenant organization has standing to initiate eviction proceedings for drug-related criminal activity on or in immediate vicinity of leased residential premises). The General Assembly also has adopted legislation denying standing in particular circumstances. See, e.g., 15 Pa.C.S. \u00a7\u00a7 517 (corporations generally), 1717 (domestic business corporations), 5717 (domestic non-profit corporations) (limiting standing of different types of corporations\u2019 individual directors, board of directors and committees of board to sue board of directors, committees or individual directors). Similarly, the Crimes Code provides that persons charged with certain offenses lack standing to challenge the authority of the Attorney General to institute criminal proceedings anywhere in the Commonwealth. See 18 Pa.C.S. \u00a7\u00a7 2716 (weapons of mass destruction), 4107 (deceptive or fraudulent business practices), 4120 (identity theft), 5111 (dealing in proceeds of unlawful activities), 6318 (unlawful contact with minor). Accord 70 P.S. \u00a7 1-511 (same restriction as to criminal penalties under Securities Act); 73 P.S. \u00a7 517.8 (same as to home improvement fraud); 74 P.S. \u00a7 202 (same as to confidentiality of social security numbers); 77 P.S. \u00a7 1039.9 (same as to criminal prosecution of workers\u2019 compensation insurance fraud). Thus, Section 103 is not unique.\nAlthough Section 103 addresses but one narrow issue of standing to challenge a Commonwealth agency\u2019s legal representation, where applicable, the Section is absolute and not subject to a weighing of factors, much less does it purport to incorporate the various factors that guide traditional judicial standing doctrine. See, e.g., In re Hickson, 573 Pa. 127, 821 A.2d 1238 (2003). Thus, it appears that a private party, who otherwise might be able to establish standing to disqualify the Commonwealth agency\u2019s counsel under traditional standing doctrine, will not succeed under the terms of the Attorneys Act. We note that Janssen does not dispute the general power of the General Assembly to act to curtail standing in this regard. Rather, Janssen appears to accept the legitimacy of the statute but maintains that the provision should be deemed inapplicable for the various reasons it forwards. Similarly, OGC does not argue that, even if Janssen\u2019s motion to disqualify was not barred under Section 103, Janssen lacks standing under traditional standing doctrine to challenge OGC\u2019s arrangement with private contingent fee counsel.\nIn making these observations, we do not suggest that an argument concerning traditional standing doctrine would have merit either way; rather, we seek to make clear that the standing question we are asked to decide is one of statutory interpretation. This Court has frequently passed upon just such questions of statutory standing. See, e.g., Spahn v. Zoning Bd. of Adjustment, 602 Pa. 83, 977 A.2d 1132 (2009) (home rule statute conferring standing on \u201caggrieved person\u201d did not include taxpayers not detrimentally harmed); Hunt v. Pennsylvania State Police, 603 Pa. 156, 983 A.2d 627 (2009) (statute conferring standing on district attorney to challenge record expungement does not extend to State Police); Hiller v. Fausey, 588 Pa. 342, 904 A.2d 875 (2006) (applying statute limiting standing to seek visitation or custody to grandparents whose child has died); Housing Auth. of County of Chester v. Pennsylvania State Civil Serv. Comm\u2019n, 556 Pa. 621, 730 A.2d 935 (1999) (upholding statute granting standing to Civil Service Commission to enforce veterans\u2019 preferences where such standing did not exist under traditional standing doctrine).\nIn all matters involving statutory interpretation, we follow the dictates of the Statutory Construction Act, 1 Pa.C.S. \u00a7 1501 et seq., which provide that the object of interpretation and construction of statutes is to ascertain and effectuate the intention of the General Assembly. See 1 Pa.C.S. \u00a7\u00a7 1903(a), 1921(b). The statute\u2019s plain language generally provides the best indication of legislative intent. See, e.g., McGrory v. Commonwealth, Dept. of Transp., 591 Pa. 56, 915 A.2d 1155, 1158 (2007); Shiffler, supra; Commonwealth v. Gilmour Manuf. Co., 573 Pa. 143, 822 A.2d 676, 679 (2003); Bowser v. Blom, 569 Pa. 609, 807 A.2d 830, 835 (2002); Pennsylvania Fin. Resp. Assigned Claims Plan v. English, 541 Pa. 424, 664 A.2d 84, 87 (1995) (\u201cWhere the words of a statute are clear and free from ambiguity the legislative intent is to be gleaned from those very words.\u201d). Only when the words of a statute are not explicit will we resort to other considerations to discern legislative intent. 1 Pa.C.S. \u00a7 1921(c). See also McGrory; Canvass of Absentee Ballots of November 4, 2008 General Election, 577 Pa. 231, 843 A.2d 1223, 1230 (2004) (citing O\u2019Rourke v. Commonwealth, Dept. of Corrections, 566 Pa. 161, 778 A.2d 1194, 1201 (2001)); Ramich v. Workers\u2019 Compensation Appeal Bd. (Schatz Electric, Inc.), 564 Pa.656, 770 A.2d 318, 322 (2001).\nWe agree with OGC that the language of Section 103 is clear and unambiguous and thus provides a clear indication of the General Assembly\u2019s intent. The obvious interpretation of Section 103 is that no party to an action, other than the Commonwealth agency involved in the action itself, may challenge the authority of the agency\u2019s legal representation. Looking for the occasion of the Attorneys Act, Janssen has constructed a cogent argument that Section 103 could be read as intending only to preclude parties involved in litigation against the Commonwealth from challenging whether the Attorney General or OGC properly should represent the Commonwealth agency, but does not extend to challenges against outside counsel representing the Commonwealth agency. But, to credit Janssen\u2019s extra-textual argument would require a policy and statutory construction analysis of Section 103 that is not fairly invited by the clear and unambiguous statutory language actually employed in the legislation. And, in any event, if we were to indulge in a digression into the purpose of the provision, we note that it is perfectly logical to conclude that the General Assembly fully intended the broad effect of the actual words chosen: i.e., that, in addressing the authority of Commonwealth attorneys, it intended that no party but the affected agency should be heard to complain about so fundamental an executive matter as the identity of the lawyers representing Commonwealth entities.\nEqually unavailing is Janssen\u2019s argument that this matter involves not a Commonwealth agency as plaintiff, but the Commonwealth itself, and thereby does not trigger Section 103\u2019s limitation. As OGC notes, this action in fact was filed on behalf of two Commonwealth agencies, the Department of Public Welfare and the Department of Aging, and thus Janssen\u2019s argument fails.\nIn short, the OGC, on behalf of the Commonwealth and two of its agencies, sued Janssen, retaining Bailey Perrin to prosecute the action. Pursuant to the plain language of Section 103, Janssen, as a party to the action other than the Commonwealth party, cannot be heard to challenge Bailey Perrin\u2019s authority to represent the Commonwealth party. Because the statutory language is plain and unambiguous, the alternative construction offered by Janssen must fail.\nAs explained above, the parties do not advert to traditional standing principles. But, it is worth noting that Section 103\u2019s limitation aligns with those principles, and that fact is instructive in contextualizing the multi-layered challenge Janssen pursues when, for example, it claims that its motion to disqualify counsel does not necessarily implicate the prohibition against challenging the authority of the legal representation of the agency.\nAt its most basic level, standing merely \u201cdenotes the existence of a legal interest.\u201d Commonwealth v. Peterson, 535 Pa. 492, 636 A.2d 615, 617-18 (1993). Traditionally, to have standing, a party must be aggrieved \u2014 that is, the party must have a substantial interest in the subject matter of the litigation that must be direct and immediate, rather than remote, and which distinguishes his interest from the common interest of other citizens.\nWith respect to this requirement of being aggrieved, an individual can demonstrate that he is aggrieved if he can establish that he has a substantial, direct, and immediate interest in the outcome of the litigation in order to be deemed to have standing. In re Hickson, [573 Pa. 127,] 821 A.2d [1238,] 1243 [ (Pa.2003) ]; City of Philadelphia [v. Commonwealth of Pennsylvania ], [575 Pa. 542] 838 A.2d [566,] 577 [ (Pa. 2003) ]. An interest is \u201csubstantial\u201d if it is an interest in the resolution of the challenge which \u201csurpasses the common interest of all citizens in procuring obedience to the law.\u201d In re Hickson, 821 A.2d at 1243. Likewise, a \u201cdirect\u201d interest mandates a showing that the matter complained of \u201ccaused harm to the party\u2019s interest,\u201d id., i.e., a causal connection between the harm and the violation of law. City of Philadelphia, 838 A.2d at 577. Finally, an interest is \u201cimmediate\u201d if the causal connection is not remote or speculative. Id.; see Kuropatwa v. State Farm Ins. Co., 554 Pa. 456, 721 A.2d 1067, 1069 (1998).\nPittsburgh Palisades Park v. Commonwealth of Pennsylvania, 585 Pa. 196, 888 A.2d 655, 660 (2005).\nIn re Adoption of J.E.F., 587 Pa. 650, 902 A.2d 402, 412-13 (2006).\nThe General Assembly has rendered a legislative judgment that only the Commonwealth party-client has a cognizable basis to question its counsel\u2019s authority; non-Commonwealth parties to ongoing litigation, such as Janssen, do not have a legislatively-recognized interest in the identity of the lawyers its party-opponent, the Commonwealth and its agencies, has authorized to represent it in an action. Moreover, aside from the legislation, and as a general matter, it is difficult to see how a party-opponent in active litigation with the Commonwealth could be said to have a substantial, direct and immediate interest in the authority or identity of the legal representation the Commonwealth has chosen. This is true in legal matters generally: one\u2019s opponent generally cannot dictate the choice of otherwise professionally qualified counsel.\nFurthermore, to the extent that Janssen could be said to have a different interest in the questions it poses, distinguishable from the ordinary taxpayer citizen for example, it should be noted that in fact this legislation has distinguished Janssen\u2019s interest in contrary fashion. As a party to an action with a Commonwealth agency, a determination has been made in Section 103 that, at least with respect to the question of agency representation, the party should not be heard to complain. Other interests Janssen identifies, such as economic issues regarding the contingency fee arrangement between OGC and Bailey Perrin, whether such arrangements best serve the common good, the procedure by which the arrangement was made, and whether such arrangements represent an executive infringement upon an exclusive legislative prerogative, involve either issues of common concern to the citizenry or a separation of powers concern within the unique province of the General Assembly. They offer no ground upon which to deny the statute its plain effect.\nGiven our disposition of the standing question, we do not reach the remaining issues accepted for review. The decision of the Court of Common Pleas of Philadelphia County is affirmed. Jurisdiction is relinquished.\nFormer Justice GREENSPAN did not participate in the decision of this matter.\nJustice EAKIN and TODD join the opinion.\nJustice BAER files a concurring opinion in which Justice McCAFFERY joins.\nJustice SAYLOR files a dissenting opinion.\n. Section 726 authorizes this Court to exercise plenary jurisdiction at any stage in any matter pending in any court or magisterial district in the Commonwealth:\nNotwithstanding any other provision of law, the Supreme Court may, on its own motion or upon petition of any party, in any matter pending before any court or magisterial district judge of this Commonwealth involving an issue of immediate public importance, assume plenary jurisdiction of such matter at any stage thereof and enter a final order or otherwise cause right and justice to be done.\n42 Pa.C.S. \u00a7 726.\n. This Court is aware that, despite the pen-dency of this appeal, the matter proceeded to trial before the Honorable Frederica Massi-ah-Jackson in the Court of Common Pleas of Philadelphia County, with jury selection beginning May 28, 2010, and opening statements on June 3, 2010. On June 14, 2010, following oral argument, Judge Massiah-Jackson granted Janssen\u2019s motion for a compulsory nonsuit pursuant to Pa.R.C.P. No. 230.1 (trial court may enter compulsory non-suit if, at close of plaintiff\u2019s case on liability, plaintiff has failed to establish right to relief), thereby dismissing Counts I and II of the Commonwealth\u2019s complaint against Janssen. The parties did not seek a stay of trial court proceedings from this Court, and none was entered. The parties did not apprise this Court that the matter was proceeding to trial. Judge Massiah-Jackson filed an opinion in support of her determination on June 25, 2010.\n. Janssen also alleged that OGC and Bailey Perrin negotiated the contingent fee contract over a period in 2006 during which one of Bailey Perrin\u2019s founding partners made contributions to Pennsylvania Governor Edward G. Rendell\u2019s reelection campaign and to the Democratic Governors Association, another contributor to the Governor\u2019s reelection campaign. OGC, in its brief to this Court, notes that these allegations have not been accepted by any court and, in any event, are irrelevant. These separate allegations are not germane to our disposition and will not be addressed.\n. We recognize that OGC did not argue statutory standing to the trial court, though it did squarely raise the argument in its response to Janssen\u2019s application for extraordinary relief filed in this Court. Janssen does not argue that the standing issue is waived.\n. Article IV, Section 4.1 of the Pennsylvania Constitution established the office of the Attorney General as an elected rather than an appointed position:\nAn Attorney General shall be chosen by the qualified electors of the Commonwealth on the day the general election is held for the Auditor General and State Treasurer; he shall hold his office during four years from the third Tuesday of January next ensuing his election and shall not be eligible to serve continuously for more than two successive terms; he shall be the chief law officer of the Commonwealth and shall exercise such powers and perform such duties as may be imposed by law.\n. Section 204(c) states:\nCivil litigation; collection of debts. \u2014 The Attorney General shall represent the Commonwealth and all Commonwealth agencies and upon request, the Departments of Auditor General and State Treasury and the Public Utility Commission in any action brought by or against the Commonwealth or its agencies, and may intervene in any other action, including those involving charitable bequests and trusts or the constitutionality of any statute. The Attorney General shall represent the Commonwealth and its citizens in any action brought for violation of the antitrust laws of the United States and the Commonwealth. The Attorney General shall collect, by suit or otherwise, all debts, taxes and accounts due the Commonwealth which shall be referred to and placed with the Attorney General for collection by any Commonwealth agency; the Attorney General shall keep a proper docket or dockets, duly indexed, of all such claims, showing whether they are in litigation and their nature and condition. The Attorney General may, upon determining that it is more efficient or otherwise is in the best interest of the Commonwealth, authorize the General Counsel or the counsel for an independent agency to initiate, conduct or defend any particular litigation or category of litigation in his stead. The Attorney General shall approve all settlements over such maximum amounts as he shall determine arising out of claims brought against the Commonwealth pursuant to 42 Pa.C.S. \u00a7 5110.\n71 P.S. \u00a7 732-204(c).\n. Mr. Justice Saylor states in his Dissenting Opinion that he would apply traditional standing principles. Justice Saylor states that the Constitution is the supreme law of the land that cannot be trumped by a statute and, therefore, Janssen\u2019s constitutional claims may not be barred by the standing limitations of Section 103. Dissenting Op. at 278-79. As we understand the theory Justice Saylor proposes, application of the standing restriction in the Commonwealth Attorneys Act to limit standing here would be unconstitutional. We reiterate that neither party argued that traditional standing analysis should apply. Justice Saylor has formed a cogent argument concerning traditional standing and the constitutionality of Section 103, but it is not the one we perceive to be advanced by Janssen. For the reasons detailed in the text, we do not read Janssen\u2019s instant challenge \u2014 here or below \u2014 as involving a constitutional challenge to the statutory standing limitation, with a consequent resort to traditional standing principles.",
+        "type": "majority",
+        "author": "Chief Justice CASTILLE."
+      },
+      {
+        "text": "Justice BAER,\nconcurring.\nI join in full the Majority\u2019s opinion holding that the plain and unambiguous language of Section 103 of the Attorneys Act, 71 P.S. \u00a7 732-103, bars Appellant, Janssen Pharmaceutica, from challenging Appellee, Office of General Counsel\u2019s hiring of outside counsel to represent it.\nI write separately only to indicate my hesitancy and discomfort with the procedural posture of this case, given that the parties have somehow proceeded to trial and conclusion in the underlying matter. First, it is bothersome to me that the parties have failed to keep this Court apprised of such proceedings, given their success in obtaining from our Court the grant of extraordinary relief to decide this important, and arguably, threshold, legal question. Moreover, I believe that the current procedural posture of the case may make the matter before us moot. Nevertheless, as it is at least plausible that the question before us likely falls into the great-public-importance or capable-of-repetition-yet-evading-review exceptions to the mootness doctrine, given our Court\u2019s grant of extraordinary jurisdiction, see Pap\u2019s A.M. v. City of Erie, 571 Pa. 375, 812 A.2d 591, 600-01 (2002) (alluding to the great-public-importance exception, particularly in light of a material lack of clarity in governing law); Consumers Educ. and Protective Ass\u2019n v. Nolan, 470 Pa. 372, 368 A.2d 675, 681 (1977) (declining to dismiss a declaratory judgment action on mootness grounds despite the expiration of the term for an administrative commissioner, explaining \u201cwe conclude that the [legal issue surrounding such claimant\u2019s entitlement to office] presents a question capable of repetition and of sufficient public importance that it ought not to escape appellate review at this time\u201d), and given that no party is asserting mootness at this juncture, I am able to join the Majority\u2019s decision on the merits in full.\nJustice McCAFFERY joins this concurring opinion.\n. Section 103 specifies, in whole:\nNo party to an action, other than a Commonwealth agency including the Departments of Auditor General and State Treasury and the Public Utility Commission, shall have standing to question the authority of the legal representation of the agency.\n71 P.S. \u00a7 732-103.",
+        "type": "concurrence",
+        "author": "Justice BAER,"
+      },
+      {
+        "text": "Justice SAYLOR,\ndissenting.\nI respectfully dissent, as I believe Jans-sen has standing to raise constitutional claims, most notably, an assertion that its due process rights have been violated.\nAs the majority recites, Janssen argues that the Commonwealth\u2019s contingent-fee arrangement with Bailey Perrin violates its constitutional rights. The majority ultimately concludes, however, that Section 103 of the Commonwealth Attorneys Act, 71 P.S. \u00a7 782-103, deprives Janssen of standing to question the propriety of the arrangement. Consistent with the foundational principle that the constitution is the supreme law of the land, see Pittsburgh Rys. Co. v. Port of Allegheny County Auth., 415 Pa. 177, 185, 202 A.2d 816, 820 (1964) (observing that \u201call acts of the legislature and of any governmental agency are subordinate to the Constitution, which is the Supreme Law of the land\u201d (internal quotation marks omitted)), I would not deem any legislative policy objective discernible from Section 103 to be germane to whether Janssen has standing to assert that the hiring of Bailey Perrin pursuant to the present contingent-fee contract violated its rights under the state or federal charters. Rather, I would resolve that question solely by reference to whether Janssen is aggrieved in the ordinary sense \u2014 that is, whether it has an interest in the outcome of its disqualification motion that is cognizable for purposes of standing under ordinary, prudentially-based precepts. See In re Hickson, 573 Pa. 127, 136, 821 A.2d 1238, 1243 (2003) (indicating that standing exists \u201cif the proponent of a legal action has somehow been \u2018aggrieved\u2019 by the matter he seeks to challenge\u201d).\nIn seeking to disqualify Bailey Perrin, Janssen contends, among other things, that the contingent-fee agreement violates the Due Process Clause of the Fourteenth Amendment. In this respect, Janssen forwards a colorable argument that, to avoid actual impropriety or the appearance of partiality, due process requires the government\u2019s attorneys to be financially disinterested in the outcome of the litigation inasmuch as they are \u2014 ostensibly, at least \u2014 serving the public interest, and not their own personal financial interests. Accord People ex rel. Clancy v. Superior Court, 39 Cal.3d 740, 218 Cal.Rptr. 24, 705 P.2d 347, 351 (1985) (\u201cNot only is a government lawyer\u2019s neutrality essential to a fair outcome for the litigants in the case in which he is involved, it is essential to the proper function of the judicial process as a whole.\u201d). See generally Brady v. Maryland, 373 U.S. 83, 87, 83 S.Ct. 1194, 1197, 10 L.Ed.2d 215 (1963) (clarifying that, although an attorney for the government is an advocate, his Ghent\u2019s goal is not to prevail but to establish justice). Thus, for example, Janssen claims that such attorneys must be personally indifferent as between settlements that require large monetary payouts, and those that entail smaller payouts but involve other forms of relief to the government. Again, the reasoning is that the public interest \u2014 and not the lawyer\u2019s private pecuniary benefit\u2014 should dictate which type of outcome the government ultimately agrees to. See Young v. United States ex rel. Vuitton et Fils S.A., 481 U.S. 787, 805, 107 S.Ct. 2124, 2136-37, 95 L.Ed.2d 740 (1987) (disapproving the appointment of private counsel to represent the government where such appointment raises \u201cthe potential for private interest to influence the discharge of public duty\u201d (emphasis in original)); cf. Clancy, 218 Cal.Rptr. 24, 705 P.2d at 351 (\u201cIn the case at bar, Clancy has an interest in the result of the case: his hourly rate will double if the City is successful in the litigation. Obviously this arrangement gives him an interest extraneous to his official function in the actions he prosecutes on behalf of the City.\u201d).\nAs applied here, Janssen maintains that the contingent-fee contract violates due process by granting the Commonwealth\u2019s counsel a financial stake in the resolution of the action, which constrains its ability to agree to outcome choices with regard to settlement. For example, the contract entered into by Bailey Perrin and the Office of General Counsel expressly precludes any compensation or indemnification of costs if no money is recovered from Jans-sen, see R.R. 80a, which would incentivize Bailey Perrin to disfavor settlements lacking a monetary component that would nonetheless be in the best interests of the citizens of Pennsylvania. In this regard, one commentator has explained, \u201cContingency fee lawyers\u2019 incentives to maximize monetary settlements are more problematic in parens patriae litigation than in traditional private tort litigation.... For example, when the litigation process reveals that the state\u2019s theory of liability is factually weak or incorrect, the public interest would seem to dictate that the state should drop its case rather than waste more social resources on the litigation and potentially secure an unjustified recovery.\u201d David Dana, Public Interest and Private Lawyers: Toward a Normative Evaluation of Parens Patriae Litigation by Contingency Fee, 51 DePaul L.Rev. 315, 325-26 (2001). Janssen also points out that, even putting problematic incentives aside, the express terms of the contingent-fee contract here preclude the government from agreeing to any settlement that provides only for non-monetary relief unless it also requires Janssen to pay Bailey Perrin for the latter\u2019s services to the Commonwealth, see Contract for Legal Services, Appendix C, \u00b6 3, reproduced in R.R. 80a, a restriction that would presumably be unnecessary if Bailey Perrin were not being compensated on a contingent basis.\nFinally, Janssen argues that the concept that the Office of General Counsel maintains tight control of Bailey Perrin is largely illusory, as the contingent-fee contract only dictates a nebulous duty of \u201cconsultation.\u201d See Contract for Legal Services \u00b6 4, reproduced in R.R. 71a. Janssen asserts that this differs qualitatively from ordinary contracts entered into by the government with outside counsel, which \u201cinclude a detailed provision for the [Office of General Counsel\u2019s \u2018Control and Management of the Litigation.\u2019 \u201d Motion to Disqualify Plaintiff\u2019s Counsel \u00b6 12, reproduced in R.R. 64a. Again, Janssen highlights the above-mentioned restriction on the Commonwealth agreeing to non-monetary relief as evidence that the government has voluntarily surrendered at least some of its ordinary ability to control the litigation in the public interest. Cf. County of Santa Clara v. Superior Court, 50 Cal.4th 35, 112 Cal.Rptr.3d 697, 235 P.3d 21 (2010) (holding that, to ensure that public attorneys exercise \u201creal rather than illusory control\u201d over contingent-fee counsel, contingent-fee agreements \u201cmust provide: (1) that the public-entity attorneys will retain complete control over the course and conduct of the case; (2) that government attorneys retain a veto power over any decisions made by outside counsel; and (3) that a government attorney with supervisory authority must be personally involved in overseeing the litigation\u201d).\nIn my view, Janssen\u2019s allegations, if borne out, are sufficient to give it a substantial, direct, and immediate interest in disqualifying Bailey Perrin and precluding the Commonwealth from pursuing relief through similar contingent-fee contracts with outside counsel. Since Janssen alone stands to incur additional costs due to the contract under which Bailey Perrin was hired, its interest in the relief it seeks is substantial because it surpasses that of citizens generally in procuring obedience to the law. As well, the causal relationship between the complained-of arrangement and Janssen\u2019s alleged harm is sufficient to render the interest direct and immediate. See generally Pittsburgh Palisades Park v. Commonwealth, 585 Pa. 196, 204, 888 A.2d 655, 659 (2005) (reciting that an interest is \u201cdirect\u201d if the matter complained of caused harm to the party\u2019s interests, and it is \u201cimmediate\u201d if the causal connection is not remote or speculative). Indeed, not only does Janssen aver that the Commonwealth\u2019s strategic litigation decisions are likely to be distorted to Janssen\u2019s detriment by Bailey Perrin\u2019s pecuniary interest in the outcome, but its allegations include a suggestion that this particular litigation might not have occurred at all but for the aggressive efforts of Bailey Perrin in seeking to convince state officials to initiate it under a contingent-fee arrangement whereby the firm could expect to receive a substantial portion of any monetary payout. See Motion to Disqualify Plaintiff\u2019s Counsel \u00b6 \u00b6 5-6, 9-12, reproduced in R.R. 61a-64a; cf. Brief for Appellant at 48 (recounting allegations regarding Bailey Perrin\u2019s involvement in commencing the present lawsuit, as well as Risperdal litigation in other jurisdictions).\nAccordingly, I would hold that Janssen has standing to raise at least its claim based on the Due Process Clause.\n. Although the majority indicates that Janssen does not advance any constitutional challenge to Section 103\u2019s limitation on standing, see Majority Opinion, at 276 n. 7, Janssen does argue that its due process rights are infringed by the contingency-fee arrangement, see Brief for Appellant at 27-41; see also id. at 13 (\"By giving Bailey Perrin ... a direct financial interest in the outcome of the litigation, the Governor\u2019s General Counsel violated Jans-sen\u2019s state and federal constitutional rights to due process.\u2019\u2019), and states further that \"Section 103[can] not constitutionally be read to prohibit a legal challenge to the constitutionality of the contingent fee arrangement.\u201d Id.; see also id. at 15 (\u201c[Njothing in the Act stands in the way of Janssen's due process challenge to the Commonwealth\u2019s retention of private contingent fee counsel.\u201d); id. at 16 (\"Indeed, the General Assembly could not, by limiting standing, preclude such challenges to constitutional violations.\u201d). These arguments, moreover, echo averments forwarded in the underlying petition. See Motion to Disqualify Plaintiff\u2019s Counsel \u00b6\u00b6 15-19, reproduced in R.R. 65a-66a. In this regard, it bears noting that reviewing courts have a duty to construe statutory enactments in a limited fashion where reasonably possible if a broader interpretation would render them constitutionally unsound. See Commonwealth v. Mastrangelo, 489 Pa. 254, 260, 414 A.2d 54, 57 (1980); see also 1 Pa.C.S. \u00a7 1922(3). Thus, unlike the majority, I believe that the present discussion is fairly implicated by the substance of Jans-sen's challenge and salient legal principles.\n. Other forms of relief might include promises not to advertise or market the product in question in certain ways, or to undertake substantial efforts to educate the public about any dangers associated with use of the product.\n. Other commentators have also expressed concerns about partiality regarding the terms on which a private contingently-paid law firm may be willing to settle the case on behalf of its governmental client. See, e.g., Dale Dahl-quist, Inherent Conflict: A Case Against the Use of Contingency Fees by Special Assistants in Quasi-Govemmental Prosecutorial Roles, 50 DePaul L.Rev. 743, 783-84 (2000) (\"When a Special Assistant is bestowed with all the power and authority of the Attorney General, he has a corresponding duty to represent the state as would the Attorney General himself. ... Those members of the plaintiffs\u2019 bar who serve as Special Assistants are now hopelessly conflicted, serving as government contractors with financial incentives proportionate to their hoped-for conquest.... How could such lawyers possibly evaluate with impartiality the prospect of a settlement, say, or the tradeoff between injunctive and monetary relief?\u201d (brackets, footnotes, and internal quotation marks omitted)); Robert Levy, The New Business of Government Sponsored Litigation, 9 Kan. J.L. & Pub. Policy 592, 598 (2001) (approving of hourly-fee contracts with outside counsel, but asserting that contingent-fee contracts are a \"sure-fire catalyst for the abuse of power,\u201d and that it is difficult to \"condone private lawyers enforcing public law with an incentive kicker to increase the penalties\u201d).\nBailey Perrin attempts to deflect these criticisms by observing that outside counsel paid on an hourly basis could also abuse their position by inflating their hours. See Brief for Appellee at 54. I find this argument flawed in at least two respects: first, it does not ameliorate the due process concerns identified above; second, although a possibility of overbilling may exist \u2014 as indeed it may in purely private litigation \u2014 this type of difficulty appears more readily subject to control via well-established criteria for determining reasonableness of hourly fees. See In re LaRocca's Estate, 431 Pa. 542, 546, 246 A.2d 337, 339 (1968). It is also worth noting that the justification for allowing contingent-fee contracts for private plaintiffs lacking the resources to bring a meritorious action is absent when the plaintiff-client is the government.\n. Here, the \"law\u201d is the Due Process Clause. See City of Phila. v. Commonwealth, 575 Pa. 542 n. 7, 560, 838 A.2d 566, 577 n. 7 (2003) (recognizing that, in the context of a constitutional dispute, the law at issue is the constitutional provision under which the objector brings its challenge).",
+        "type": "dissent",
+        "author": "Justice SAYLOR,"
+      }
+    ],
+    "attorneys": [
+      "David John Antczak, Joanne Celia Lew-ers, Kenneth Alonzo Murphy, Edward M. Posner, Drinker, Biddle & Reath, L.L.P., Philadelphia, for Janssen Pharmaceutica, Inc.",
+      "John G. Harkins, Jr., Marianne Consen-tino, Harkins Cunningham, LLP, Philadelphia, Richard Faulk, John Gray, Gardere Wynne Sewell, LLP, for Amicus Curiae American Chemistry Council, et al.",
+      "William H. Graham, Connell Foley LLP, Philadelphia, for Amicus Curiae Atlantic Legal Foundation.",
+      "Charles H. Moellenberg, Leon F. DeJu-lius, Stephanie Marie Chmiel, Jones Day, Pittsburgh, for Amicus Curiae Chamber of Commerce of the United States of America.",
+      "Lori J. Mininger, Eric Lasker, Hollings-worth LLP, for Amicus Curiae National Paint & Coatings Association, Inc.",
+      "Arnd N. von Waldow, Reed Smith LLP, Pittsburgh, for Amicus Curiae Product Liability Advisory Counsel.",
+      "Sean Peter Wajert, James Michael Beck, Dechert LLP, Philadelphia, for Ami-cus Curiae Washington Legal Foundation (WLF).",
+      "Stewart Lee Cohen, William David Marvin, Cohen, Placitella & Roth, P.C., Philadelphia, Robert E.J. Curran, Media, Ralph G. Wellington, Bruce Philip Merenstein, Schnader Harrison Segal & Lewis, L.L.P., Philadelphia, for Commonwealth of PA, c/o Office of General Counsel."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, c/o Office of General Counsel, Appellee v. JANSSEN PHARMACEUTICA, INC., Trading As \u201cJanssen, L.P.\u201d, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 21, 2009.\nDecided Aug. 17, 2010.\nDavid John Antczak, Joanne Celia Lew-ers, Kenneth Alonzo Murphy, Edward M. Posner, Drinker, Biddle & Reath, L.L.P., Philadelphia, for Janssen Pharmaceutica, Inc.\nJohn G. Harkins, Jr., Marianne Consen-tino, Harkins Cunningham, LLP, Philadelphia, Richard Faulk, John Gray, Gardere Wynne Sewell, LLP, for Amicus Curiae American Chemistry Council, et al.\nWilliam H. Graham, Connell Foley LLP, Philadelphia, for Amicus Curiae Atlantic Legal Foundation.\nCharles H. Moellenberg, Leon F. DeJu-lius, Stephanie Marie Chmiel, Jones Day, Pittsburgh, for Amicus Curiae Chamber of Commerce of the United States of America.\nLori J. Mininger, Eric Lasker, Hollings-worth LLP, for Amicus Curiae National Paint & Coatings Association, Inc.\nArnd N. von Waldow, Reed Smith LLP, Pittsburgh, for Amicus Curiae Product Liability Advisory Counsel.\nSean Peter Wajert, James Michael Beck, Dechert LLP, Philadelphia, for Ami-cus Curiae Washington Legal Foundation (WLF).\nStewart Lee Cohen, William David Marvin, Cohen, Placitella & Roth, P.C., Philadelphia, Robert E.J. Curran, Media, Ralph G. Wellington, Bruce Philip Merenstein, Schnader Harrison Segal & Lewis, L.L.P., Philadelphia, for Commonwealth of PA, c/o Office of General Counsel.\nBEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 301,
+  "last_page_order": 316
+}

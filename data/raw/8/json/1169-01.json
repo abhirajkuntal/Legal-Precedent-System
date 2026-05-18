@@ -1,0 +1,736 @@
+{
+  "id": 7289707,
+  "name": "Larry L. LOPER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Loper v. State",
+  "decision_date": "2010-11-19",
+  "docket_number": "No. 204, 2010",
+  "first_page": "1169",
+  "last_page": "1177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1169"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "929 A.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8354157
+      ],
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/929/0390-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11338811
+      ],
+      "weight": 9,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "423"
+        },
+        {
+          "page": "424"
+        },
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0420-01"
+      ]
+    },
+    {
+      "cite": "1992 WL 53406",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "608 A.2d 731",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "446 U.S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182222
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "299-302",
+          "parenthetical": "explaining the \"interrogation\" requirement"
+        },
+        {
+          "parenthetical": "explaining the \"interrogation\" requirement"
+        },
+        {
+          "parenthetical": "explaining the \"interrogation\" requirement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0291-01"
+      ]
+    },
+    {
+      "cite": "807 A.2d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11357869
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1125-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/807/1119-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "111 A.2d 249",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "257"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "412 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "weight": 5,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "227"
+        },
+        {
+          "page": "248-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "135 F.3d 1345",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11878688
+      ],
+      "pin_cites": [
+        {
+          "page": "1349-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/135/1345-01"
+      ]
+    },
+    {
+      "cite": "749 A.2d 1230",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11534843
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/749/1230-01"
+      ]
+    },
+    {
+      "cite": "993 F.2d 431",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10513957
+      ],
+      "pin_cites": [
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/993/0431-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 560",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714156
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "573-74",
+          "parenthetical": "Black, J\u201e dissenting"
+        },
+        {
+          "parenthetical": "Black, J\u201e dissenting"
+        },
+        {
+          "parenthetical": "Black, J\u201e dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0560-01"
+      ]
+    },
+    {
+      "cite": "59 L.Ed.2d 83",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that a defendant bears the burden of establishing that the search and seizure violated his Fourth Amendment rights"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 S.Ct. 1035",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that a defendant bears the burden of establishing that the search and seizure violated his Fourth Amendment rights"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 U.S. 1122",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11454563,
+        11454516,
+        11454607
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that a defendant bears the burden of establishing that the search and seizure violated his Fourth Amendment rights"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/1122-02",
+        "/us/439/1122-01",
+        "/us/439/1122-03"
+      ]
+    },
+    {
+      "cite": "439 U.S. 128",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11329017
+      ],
+      "weight": 3,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/0128-01"
+      ]
+    },
+    {
+      "cite": "780 A.2d 1037",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9485086
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1049"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/780/1037-01"
+      ]
+    },
+    {
+      "cite": "2002 WL 31796193",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "812 A.2d 899",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "519 U.S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11595747
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "413-15",
+          "parenthetical": "holding that a police officer making a traffic stop may order passengers to exit the car pending completion of stop"
+        },
+        {
+          "parenthetical": "holding that a police officer making a traffic stop may order passengers to exit the car pending completion of stop"
+        },
+        {
+          "parenthetical": "holding that a police officer making a traffic stop may order passengers to exit the car pending completion of stop"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0408-01"
+      ]
+    },
+    {
+      "cite": "434 U.S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180104
+      ],
+      "weight": 7,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "107-11"
+        },
+        {
+          "page": "107"
+        },
+        {
+          "parenthetical": "holding that a police officer making a traffic stop may order passengers to exit the car pending completion of stop"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/434/0106-01"
+      ]
+    },
+    {
+      "cite": "100 L.Ed.2d 565",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12033563,
+        6221076
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/350/0473-01",
+        "/us/486/0567-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 567",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221076
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "573"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0567-01"
+      ]
+    },
+    {
+      "cite": "596 A.2d 1345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11316036
+      ],
+      "pin_cites": [
+        {
+          "page": "1351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/596/1345-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 621",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11320254
+      ],
+      "weight": 6,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "626"
+        },
+        {
+          "page": "624-26",
+          "parenthetical": "explaining the meaning of \"custody\""
+        },
+        {
+          "parenthetical": "explaining the meaning of \"custody\""
+        },
+        {
+          "parenthetical": "explaining the meaning of \"custody\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0621-01"
+      ]
+    },
+    {
+      "cite": "2004 WL 2297395",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "860 A.2d 809",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 2310001",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "931 A.2d 437",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "542 U.S. 177",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2528582
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0177-01"
+      ]
+    },
+    {
+      "cite": "2006 WL 1027202",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "900 A.2d 101",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "551 U.S. 249",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3573063
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "257",
+          "parenthetical": "\"[E]ven when the wrongdoing is only bad driving, [a] passenger will expect to be subject to some scrutiny....\""
+        },
+        {
+          "parenthetical": "\"[E]ven when the wrongdoing is only bad driving, [a] passenger will expect to be subject to some scrutiny....\""
+        },
+        {
+          "parenthetical": "\"[E]ven when the wrongdoing is only bad driving, [a] passenger will expect to be subject to some scrutiny....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/551/0249-01"
+      ]
+    },
+    {
+      "cite": "958 A.2d 825",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8205357
+      ],
+      "pin_cites": [
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/958/0825-01"
+      ]
+    },
+    {
+      "cite": "765 A.2d 1257",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11078332
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1261"
+        },
+        {
+          "page": "1261"
+        },
+        {
+          "page": "1261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/765/1257-01"
+      ]
+    },
+    {
+      "cite": "869 A.2d 285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9020162
+      ],
+      "pin_cites": [
+        {
+          "page": "290-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/869/0285-01"
+      ]
+    },
+    {
+      "cite": "745 A.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11483036
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "864-65"
+        },
+        {
+          "page": "866-69"
+        },
+        {
+          "page": "859"
+        },
+        {
+          "page": "858"
+        },
+        {
+          "page": "859"
+        },
+        {
+          "page": "863-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/745/0856-01"
+      ]
+    },
+    {
+      "cite": "970 A.2d 154",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7331815
+      ],
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/970/0154-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1031,
+    "char_count": 24108,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 1.5316609801206762e-07,
+      "percentile": 0.6712097886787994
+    },
+    "sha256": "66de9f737864040dc974e2ae39c0a440136616e6b3cacdcf6015ad93bfc8a103",
+    "simhash": "1:db436c8a23da03c2",
+    "word_count": 3894
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HOLLAND, BERGER and JACOBS, Justices."
+    ],
+    "parties": [
+      "Larry L. LOPER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "JACOBS, Justice:\nLarry L. Loper (\u201cLoper\u201d), the defendant below, appeals from the Superior Court\u2019s denial of his motion to suppress evidence, and his subsequent conviction for trafficking in phencyclidine (PCP) over 100 grams, possession with intent to deliver PCP, use of a vehicle for keeping controlled substances, and possession of drug paraphernalia. On appeal, Loper claims that the Superior Court erred in denying his suppression motion, because the State did not establish a reasonable and articula-ble suspicion of criminal activity sufficient to justify the police stopping and questioning him. We find no error and affirm.\nFACTUAL AND PROCEDURAL BACKGROUND\nOn January 8, 2009, Officer Steven P. Cancila stopped Loper for speeding in the 900 block of West 2nd Street in Wilmington, Delaware. Officer Cancila asked Lop-er to produce his driver\u2019s license, vehicle registration, and insurance card. Loper did that; however, his insurance card had expired on December 21, 2008. Officer Cancila also requested identification from Loper\u2019s passenger, who first responded that he had no identification. Loper then told Officer Cancila, \u201cHe is a juvenile, sir.\u201d The passenger then told Officer Cancila that he was seventeen years old, that his name was \u201cScott Stevens,\u201d and that his date of birth was January 1, 1991. As Cancila was documenting the passenger\u2019s response in his police notebook, the passenger then told him that his real name was actually Faheem Kennedy, and that he had an outstanding warrant \u201cfor curfew.\u201d\nOfficer Cancila conducted a DELJIS check, and found an active outstanding capias for Kennedy for criminal impersonation. Cancila immediately requested additional assistance, because he intended to make an arrest. After Officer John Santiago arrived, Cancila told Santiago that Kennedy had an outstanding warrant, and that the driver (Loper) was acting suspiciously.\nOfficer Santiago asked Loper to exit the car when Officer Cancila arrested Kennedy, and Loper did so. Santiago then asked Loper if he had \u201canything illegal\u201d on his person. Loper responded that he had some \u201cweed\u201d in his front pocket. Santiago reached into Loper\u2019s front pocket and retrieved a bag containing twenty-two plastic vials of what appeared to be marijuana. Santiago also found, in Loper\u2019s pocket, a small bottle containing yellow liquid, which (Loper told Santiago) was codeine. Loper was then arrested. During a search of the car incident to the arrest, Santiago found a second bottle of yellow liquid. Laboratory tests later identified the yellow liquid in both bottles as PCP.\nOn October 27, 2009, Loper moved to suppress the evidence obtained as a result of the pat down search. At the suppression hearing, a Superior Court judge denied Loper\u2019s motion after hearing testimony from Loper, Santiago, and Cancila. The Superior Court ruled that the officers had a reasonable and articulable suspicion to stop and search Loper because: (i) Lop-er\u2019s volunteered statement about \u201cweed\u201d constituted a consent to the search; (ii) even if Loper did not consent, the police had a reasonable and articulable suspicion that Loper was engaged in criminal activity when Kennedy gave Officer Cancila a false name and Loper told Cancila that Kennedy was a juvenile; (iii) the police had probable cause to arrest Kennedy and to detain Loper, because Loper\u2019s insurance card had expired and Kennedy had an outstanding capias; and (iv) the police had a basis to search Loper\u2019s person after Loper volunteered that he had \u201cweed\u201d on his person. After a bench trial, Loper was convicted of trafficking in PCP over 100 grams, possession with intent to deliver PCP, use of a vehicle for keeping a controlled substance, and possession of drug paraphernalia. This is Loper\u2019s direct appeal from those convictions.\nANALYSIS\nOn appeal, Loper claims that the Superi- or Court erred in denying his suppression motion, because the evidence was the fruit of an illegal search and seizure in violation of the Fourth, Fifth, and Fourteenth Amendments of the United States, and Article I, Section 6 of the Delaware, Constitutions. Loper argues that the police: (i) did not have a reasonable and articula-ble suspicion to detain him after making the initial traffic stop, (ii) failed to give Miranda warnings before questioning him, and (iii) had neither a reasonable suspicion that he was armed, nor his consent, to justify conducting a Terry pat down search. Loper also asserts that even if his statement about carrying \u201cweed\u201d amounted to consent to a search, that consent was still invalid because he was illegally detained.\nThis Court reviews a Superior Court denial of a motion to suppress for abuse of discretion. Questions of law are reviewed de novo, and questions of fact are reviewed for \u201cclear error.\u201d\nI. Did the Police Have Reasonable And Articulable Suspicion to Detain Loper Beyond The Initial Traffic Stop?\nLoper claims that the Superior Court erred in denying his suppression motion, because the police did not possess a reasonable and articulable suspicion to detain him beyond the initial traffic stop. Loper concedes the legality of the initial traffic stop, but contends that the follow-up search and seizure exceeded the scope of the initial traffic stop and, therefore, was unreasonable. Loper advances three arguments to support that claim. First, he argues that Officer Cancila exceeded the scope of the traffic stop investigation by asking Loper\u2019s passenger (Kennedy) to identify himself and then performing a background check. Second, Loper contends that even if the police were entitled to question Kennedy, Loper\u2019s detention was unreasonably prolonged by Kennedy\u2019s arrest. Third, Loper claims that the evidence seized was the result of a warrant-less search and seizure accomplished without reasonable suspicion or consent.\nA. The Police Did Not Exceed The Scope Of The Traffic Stop\nLoper\u2019s first claim, that Officer Cancila exceeded the scope of the initial traffic stop by questioning Kennedy, runs as follows: Had Cancila not questioned Loper\u2019s passenger, the police would have never discovered the PCP on Loper\u2019s person or in his car. Because the police had no right to question Kennedy, the evidence ultimately seized as a result of searching Loper should have been suppressed. Lop-er\u2019s argument fails, because he cannot show that by questioning Kennedy, the police exceeded the scope of the traffic stop or acted unreasonably under the circumstances. The United States Supreme Court has observed that during a routine traffic stop, all passengers are subject to some scrutiny. This Court has also held that during a routine traffic stop, the police may question a passenger about his or her identity, and that those questions are not beyond the scope of a reasonable investigation. Accordingly, the trial judge properly held that Officer Cand\u00eda did not exceed the permissible scope of a routine traffic stop by asking Loper\u2019s passenger for identification and then running a background cheek.\nB. Loper\u2019s Detention Was Not Unreasonably Extended\nLoper next contends that even if the police did not err in questioning Kennedy during the traffic stop, the police unreasonably extended Loper\u2019s detention when they arrested Kennedy. This argument lacks merit, because the delay caused by Kennedy\u2019s arrest was not unreasonable. Once Kennedy gave the police his name and birth date, Officer Cancila promptly ran a background check. He then immediately called for assistance upon learning that Kennedy had an active outstanding capias on a criminal impersonation charge. Officer Santiago arrived at the scene two or three minutes later. If Loper\u2019s detention was delayed by Kennedy\u2019s arrest, any delay was de minimis and not unreasonable. The Superior Court did not abuse its discretion in denying Loper\u2019s suppression motion on this ground.\nC. The Search and Seizure Of The POP Vials Was Valid\nLoper next claims that the police lacked both a reasonable suspicion and his consent to conduct a warrantless search and seizure of his person and his car. Therefore, he urges, the seized evidence should have been suppressed.\n1. Loper\u2019s Claim That There Was A Second Seizure\nLoper contends that his detention after Kennedy\u2019s arrest constituted a second seizure that was not independently supported. Stated differently, Loper argues that a second \u201cseizure\u201d occurred when Officer Santiago ordered him to exit his car, thereby initiating another investigation beyond the initial traffic stop. Loper claims that because only the facts existing at the time of the seizure are relevant to a \u201creasonable suspicion\u201d analysis, the trial court should not have considered the PCP found during the second seizure in determining whether the police had a reasonable and articulable suspicion to conduct the first search and seizure. Loper relies on Jones v. State, where this Court held that Article 1, \u00a7 6 of the Delaware Constitution provided greater protection than its Fourth Amendment counterpart and that a \u201cseizure\u201d occurs only if, viewing the totality of the circumstances, a reasonable person would have believed he was not free to ignore police presence.\nLoper\u2019s reliance on Jones is misplaced. In Jones, the police did not have a reasonable and articulable suspicion when they limited the defendant\u2019s mobility by ordering him to stop. The police suspicions were triggered by Jones\u2019 refusal to obey their order to stop, and his repeated attempts to leave. Here, however, at the time Officer Santiago ordered Loper out of the car, Loper was already lawfully detained as a consequence of the valid traffic stop. Loper\u2019s mobility having already been validly limited, he was not subject to a \u201csecond seizure\u201d when the police ordered him to exit his car. As the United States Supreme Court held in Pennsylvania v. Mimms, the police may order the driver or a passenger to exit the car after a valid traffic stop, and that order is not a \u201cseizure\u201d under the Fourth Amendment. Loper has cited no authority, nor made any cogent legal argument, for why this Court should expand the meaning of \u201cseizure\u201d under Jones and Article 1, \u00a7 6 of the Delaware Constitution, to hold that a person already being lawfully detained as a result of a valid traffic stop is \u201cseized\u201d a second time when ordered to leave his car. The constitutional claim, therefore, fails.\nEven assuming, arguendo, that a second \u201cseizure\u201d occurred when the police ordered Loper to leave his car, the seizure was reasonable. Loper relies on Caldwell v. State. In Caldwell, the police approached the defendant, who was illegally parked in a fire lane. They ordered him to exit his car immediately after obtaining his license and registration information. Rather than continue to question the passengers in Caldwell\u2019s car, the officer frisked and handcuffed Caldwell and detained him until another officer arrived. In those circumstances, we concluded that a second \u201cseizure\u201d had occurred, because the officer\u2019s actions exceeded the permissible scope of the initial traffic stop, and the police lacked additional facts sufficient to justify the second \u201cseizure.\u201d\nHere, in contrast, Officers Santiago and Cancila questioned Loper and Kennedy, and received suspicious responses, before they ordered Loper to exit the car. Loper provides no support for his claim that giving the police a false identify and age does not raise a reasonable and articulable suspicion under the Fourth Amendment. The Superior Court did not err in holding that, in the totality of the circumstances, there was reasonable suspicion sufficient to support a search and seizure.\n2. Loper\u2019s Claim That He Did Not Give Consent\nLoper next contests the Superior Court\u2019s conclusion that he had voluntarily told the police that he was carrying \u201cweed.\u201d Alternatively, Loper argues, even if his statement was voluntary it was not a \u201cconsent\u201d to search his car. Whether consent was given to a police search is a question of fact to be determined from the totality of the circumstances. Absent a reasonable and articulable suspicion that Loper was engaged in criminal activity, the consent must be voluntary to justify a warrantless search and seizure. After hearing testimony and weighing the witnesses\u2019 credibility, the trial judge concluded that Loper\u2019s response-that he had \u201cweed\u201d on his person, when asked \u201cif he had anything illegal on himself,\u201d \u2014 was voluntary. That factual finding is not clearly erroneous.\nII. Did The Police Fail to Give Loper A Miranda Warning?\nLoper\u2019s second claim of error is that the police violated his constitutional rights, because they did not give him a Miranda warning before questioning him. Loper argues that because a reasonable person would not feel free to ignore the presence of a police officer, he was \u201cin custody\u201d when ordered to exit his car. Therefore, when the police asked Loper whether he had anything \u201cillegal\u201d on him, that constituted an interrogation which required a Miranda warning.\nFor Miranda to apply, the defendant must be: (i) in custody or in a custodial setting, and (ii) the questioning must rise to the level of an interrogation. Loper\u2019s Miranda claim cannot succeed because he was not \u201cin custody\u201d when being questioned. A person is \u201cin custody\u201d when, considering the totality of the circumstances, \u201ca reasonable man in the suspect\u2019s position would feel a restraint on his freedom of movement fairly characterized as that \u2018degree associated with formal arrest\u2019 to such an extent that he would not feel free to leave.\u201d In Berkemer v. McCarty, the police stopped the defendant after observing his car weave in and out of a highway lane, and ordered the defendant to exit his car. An officer asked the defendant whether he was intoxicated without first giving him Miranda warnings. The defendant replied that he had consumed two beers and had smoked marijuana. The defendant later claimed that his Fifth Amendment rights had been violated and moved to suppress the evidence. The United States Supreme Court held that the \u201cnoncoercive aspect of ordinary traffic stops prompts us to hold that persons temporarily detained pursuant to such stops are not \u2018in custody' for purposes of Miranda.\u201d Berkemer is dis-positive here. Even if Loper did not feel free to leave when being asked to exit his car, his Miranda argument gains no traction because he was not \u201cin custody.\u201d\nIII. Was The Police\u2019s Terry Search Proper?\nLoper\u2019s final claim is that the Superior Court erred in denying his suppression motion, because the police conducted a Terry pat down search of his person without his consent or any articulable basis to suspect that he was involved in criminal activity or that he possessed a weapon. Alternatively, Loper contends that even if he voluntarily told the police that he had \u201cweed,\u201d that admission did not cure the absence of a reasonable and articulable suspicion to detain him after the initial traffic stop.\nLoper\u2019s claim fails for want of a factual predicate. After reviewing the evidence, the Superior Court concluded that Loper had not been subjected to a pat down search \u2014 a conclusion that Loper has not shown is erroneous. We will not disturb the trial court\u2019s factual findings absent clear error.\nNor was Loper\u2019s consent tainted. Lop-er relies on State v. Heath to support his legal argument that where a person who is illegally detained consents to a search, that consent is deemed tainted by the illegal detention, and is therefore ineffective to justify the subsequent search. Loper\u2019s argument is without merit. As earlier discussed, the initial traffic stop and the subsequent investigation were constitutionally valid. Therefore, they could not have \u201ctainted\u201d Loper\u2019s voluntary consent. The trial court did not abuse its discretion by denying Loper\u2019s suppression motion on this basis.\nCONCLUSION\nThe judgments of the Superior Court are affirmed.\n. 16 Del. C. \u00a7 4753A(a)(6)(c).\n. 16 Del. C. \u00a7 4752.\n. 16 Del. C. \u00a7 4755(a)(5).\n. 16 Del. C. \u00a7 4771.\n.Although Loper raises claims under both the U.S. and Delaware Constitutions, he has not fully and fairly presented his Delaware constitutional claim. See infra at Section I.C. See also Jenkins v. State, 970 A.2d 154, 158 (Del.2009) (holding that \"[t]o present properly an alleged violation of the Delaware Constitution, a defendant must discuss and analyze one or more of the following non-exclusive criteria [as set forth in Jones v. State, 745 A.2d 856, 864-65 (Del.1999) ]: 'textual language, legislative history, preexisting state law, structural differences, matters of particular state interest or local concern, state traditions, and public attitudes.\u2019 \u201d); Ortiz v. State, 869 A.2d 285, 290-91 (Del.2005) (same). We, therefore, decline to address that claim.\n. Woody v. State, 765 A.2d 1257, 1261 (Del.2001).\n. Sierra v. State, 958 A.2d 825, 828 (Del.2008).\n. Woody, 765 A.2d at 1261.\n. Loper admitted that he was speeding when he was stopped by the police.\n. Brendlin v. California, 551 U.S. 249, 257, 127 S.Ct. 2400, 168 L.Ed.2d 132 (2007) (\"[E]ven when the wrongdoing is only bad driving, [a] passenger will expect to be subject to some scrutiny....\").\n. Mills v. State, 900 A.2d 101 (Table), 2006 WL 1027202, at *2 (Del.2006) (\u2018\u2018[Q]uestions concerning a suspect's identity are a routine and accepted part [of an investigatory stop].\u201d) (quoting Hiibel v. Sixth Jud. Dist. Ct. of Nev., Humboldt Cty., 542 U.S. 177, 186, 124 S.Ct. 2451, 159 L.Ed.2d 292 (2004)).\n. Howard v. State, 931 A.2d 437 (Table), 2007 WL 2310001, at *3 (Del.2007) (holding that a 40-minute delay in waiting for the arrival of a drug dog was not unreasonable following a routine traffic stop); Bunting v. State, 860 A.2d 809 (Table), 2004 WL 2297395, at *2 (Del.2004) (concluding that a 13-hour detention was not unreasonable because the police had probable cause to believe that the defendant had committed a criminal offense following his initial detention).\n. Jones v. State, 745 A.2d 856, 866-69 (Del.1999) (rejecting the United States Supreme Court's definition of \"seizure\u201d in California v. Hodari D., 499 U.S. 621, 626, 111 S.Ct. 1547, 113 L.Ed.2d 690 (1991), which requires \"either physical force ... or ... submission to the assertion of authority,\u201d and concluding that \"[i]n our view, the question presented by Jones of when a seizure has occurred under Article I, \u00a7 6 of the Delaware Constitution requires focusing upon the police officer\u2019s actions to determine when a reasonable person would have believed he or she was not free to ignore the police presence.\u201d); Robertson v. State, 596 A.2d 1345, 1351 (Del.1991) (\"[T]he police can be said to have seized an individual only if, in view of all the circumstances surrounding the incident, a reasonable person would have believed that he was not free to leave.\u201d) (quoting Michigan v. Chesternut, 486 U.S. 567, 573, 108 S.Ct. 1975, 100 L.Ed.2d 565 (1988)).\n. Jones, 745 A.2d at 859. In Jones, the police had received an anonymous tip reporting that a \"suspicious black male wearing a blue coat\u201d had been standing in front of a public park for some time. Id. at 858. When the police approached Jones, instead of asking him for his name and identification as required under 11 Del. C. \u00a7 1902, the officers ordered Jones to \"stop and remove his hands from his coat pockets.\u201d Id. at 859. We concluded that at the time the officers made a showing of their authority and ordered Jones to stop, he had been \"seized\u201d within the meaning of Article I, \u00a7 6 of the Delaware Constitution, even though the police had not used actual force to stop Jones. Id. at 863-69.\n. Pennsylvania v. Mimms, 434 U.S. 106, 107-11, 98 S.Ct. 330, 54 L.Ed.2d 331 (1977). In Mimms, the police ordered the defendant to exit the car after a valid traffic stop. Id. at 107, 98 S.Ct. 330. The Supreme Court weighed the interest of the driver's personal liberty against the safety of the police officer, and held that \"once a motor vehicle has been lawfully detained for a traffic violation, the police officer may order the driver to get out of the vehicle without violating the Fourth Amendment\u2019s proscription of unreasonable search and seizure.\u201d Id. at 111 n. 6, 98 S.Ct. 330. See also Maryland v. Wilson, 519 U.S. 408, 413-15, 117 S.Ct. 882, 137 L.Ed.2d 41 (1997) (holding that a police officer making a traffic stop may order passengers to exit the car pending completion of stop).\n. Our case law suggests otherwise. See, e.g., Dunlap v. State, 812 A.2d 899 (Table), 2002 WL 31796193, at *2 (Del.2002) (holding that the police acted reasonably where, after stopping the defendant for driving under 10 mph in a 25 mph zone and weaving, they ordered the defendant to exit the vehicle); Caldwell v. State, 780 A.2d 1037, 1045 n. 27 (Del.2001) (recognizing that under the Fourth Amendment, the police can order a driver and his or her passengers to exit the car during the course of a valid traffic stop).\n. Caldwell, 780 A.2d 1037.\n. Id. at 1049.\n. Id.\n. Id.\n. Rakas v. Illinois, 439 U.S. 128, 130 n. 1, 99 S.Ct. 421, 58 L.Ed.2d 387 (1978), reh\u2019g denied, 439 U.S. 1122, 99 S.Ct. 1035, 59 L.Ed.2d 83 (1979) (noting that a defendant bears the burden of establishing that the search and seizure violated his Fourth Amendment rights).\n. There does not seem to be any Delaware case law on whether a passenger's false identification or age can raise a reasonable suspicion sufficient to justify a seizure of the driver. There are cases holding that a driver\u2019s false identity or false claim of age can raise a reasonable suspicion. See, e.g., Whiteley v. Warden, 401 U.S. 560, 573-74, 91 S.Ct. 1031, 28 L.Ed.2d 306 (1971) (Black, J\u201e dissenting) (noting that police had reasonable suspicion to believe that the defendant was lying and attempting to escape when the defendant reported a false name); United States v. Shabazz, 993 F.2d 431, 433 (5th Cir.1993) (driver's false identity and inconsistent stories are enough to raise reasonable suspicion); Barrow v. State, 749 A.2d 1230, 1241 n. 8 (Del.2000) (defendant gave a false name and address when questioned by police; court held that the police had reasonable suspicion based on the defendant\u2019s evasiveness and because he matched the description of a wanted suspect). Here, however, Loper\u2019s expired insurance card could be taken into consideration in determining whether there was reasonable suspicion. See United States v. Hunnicutt, 135 F.3d 1345, 1349-50 (10th Cir.1998) (suspended license, no insurance card nor proof of authority to use the car, nervous behavior, and inconsistent responses are enough to raise reasonable suspicion).\n. Schneckloth v. Bustamonte, 412 U.S. 218, 227, 93 S.Ct. 2041, 36 L.Ed.2d 854 (1973); State v. Huntley, 111 A.2d 249, 257 (Del.Super.Ct.2000).\n. Bustamonte, 412 U.S. at 248-49, 93 S.Ct. 2041.\n. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).\n. McAllister v. State, 807 A.2d 1119, 1125-26 (Del.2002) (emphasizing that both \"custody\u201d and \"interrogation\u201d are required for Miranda to apply); see California v. Hodari D., 499 U.S. 621, 624-26, 111 S.Ct. 1547, 113 L.Ed.2d 690 (1991) (explaining the meaning of \"custody\u201d); Rhode Island v. Innis, 446 U.S. 291, 299-302, 100 S.Ct. 1682, 64 L.Ed.2d 297 (1980) (explaining the \"interrogation\u201d requirement).\n. McAllister, 807 A.2d at 1126 (citing Torres v. State, 608 A.2d 731 (Table), 1992 WL 53406, at *2 (Del.1992)).\n. Berkemer v. McCarty, 468 U.S. 420, 423, 104 S.Ct. 3138, 82 L.Ed.2d 317 (1984).\n. Id.\n. Id.\n. Id. at 424, 104 S.Ct. 3138.\n. Id. at 440, 104 S.Ct. 3138.\n. Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968).\n. Woody v. State, 765 A.2d 1257, 1261 (Del.2001).\n. State v. Heath, 929 A.2d 390, 411 (Del.Super.Ct.2006).",
+        "type": "majority",
+        "author": "JACOBS, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Court Below Superior Court of the State of Delaware in and for New Castle County, Cr. I.D. No. 0901005714.",
+      "John S. Malik, Esquire, Wilmington, Delaware, for Appellant.",
+      "Timothy J. Donovan, Jr., Esquire, Department of Justice, Wilmington, Delaware, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Larry L. LOPER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 204, 2010.\nSupreme Court of Delaware.\nSubmitted: Oct. 6, 2010.\nDecided: Nov. 19, 2010.\nCourt Below Superior Court of the State of Delaware in and for New Castle County, Cr. I.D. No. 0901005714.\nJohn S. Malik, Esquire, Wilmington, Delaware, for Appellant.\nTimothy J. Donovan, Jr., Esquire, Department of Justice, Wilmington, Delaware, for Appellee.\nBefore HOLLAND, BERGER and JACOBS, Justices."
+  },
+  "file_name": "1169-01",
+  "first_page_order": 1195,
+  "last_page_order": 1203
+}

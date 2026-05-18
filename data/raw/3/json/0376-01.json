@@ -1,0 +1,251 @@
+{
+  "id": 7287438,
+  "name": "Nathan REARDON v. Jonathan LARKIN et al.",
+  "name_abbreviation": "Reardon v. Larkin",
+  "decision_date": "2010-08-26",
+  "docket_number": "",
+  "first_page": "376",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 376"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "494 A.2d 1353",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7923285
+      ],
+      "pin_cites": [
+        {
+          "page": "1354, 1361, 1362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/494/1337-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 67",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8308183
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b67, 11"
+        },
+        {
+          "page": "1069, 1070"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/1066-01"
+      ]
+    },
+    {
+      "cite": "330 A.2d 909",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12030308
+      ],
+      "pin_cites": [
+        {
+          "page": "912"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/330/0909-01"
+      ]
+    },
+    {
+      "cite": "486 A.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7909238
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/486/0126-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 74",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9229420
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/852/0066-01"
+      ]
+    },
+    {
+      "cite": "561 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7349478
+      ],
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/561/0498-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 55",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7289776
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 10-11"
+        },
+        {
+          "page": "760"
+        },
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "758"
+        },
+        {
+          "page": "760",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "760",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/997/0755-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 59",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8416982
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 2, 6"
+        },
+        {
+          "page": "405, 406"
+        },
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "406",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "406-07",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "407-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/898/0404-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 629,
+    "char_count": 9929,
+    "ocr_confidence": 0.668,
+    "pagerank": {
+      "raw": 7.51859273124154e-08,
+      "percentile": 0.4471249095989766
+    },
+    "sha256": "4f42d1660a07febfeb2b7099d6ac5144c9284bc416fc651eee7b02e4490c9888",
+    "simhash": "1:91a5a3e3f9be8922",
+    "word_count": 1666
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "Nathan REARDON v. Jonathan LARKIN et al."
+    ],
+    "opinions": [
+      {
+        "text": "SAUFLEY, C.J.\n[\u00b6 1] Following an automobile collision, the parties stipulated to liability and presented their dispute over damages to a jury. The jury awarded no damages to the plaintiff, Nathan Reardon. Reardon asks us to determine that the failure to award damages in the face of stipulated liability must reflect jury bias or other unlawful basis for the decision. We decline his invitation and affirm the judgment.\n[\u00b6 2] Specifically, Reardon appeals from the judgment of the Superior Court (Penobscot County, Murphy, J.) denying his motions for additur and for a new trial or to amend the judgment, pursuant to M.R. Civ. P. 59(a) and (e), after the jury returned a verdict in favor of Jonathan Larkin and United Parcel Service of America, Inc. (UPS). Reardon argues that the court should have ordered additur or granted a new trial on damages because the jury acted with bias or prejudice when it awarded him no damages.\nI. BACKGROUND\n[\u00b6 3] On November 14, 2003, Reardon was driving on Oak Street in Bangor when a UPS van, driven by Larkin, collided with his car. Reardon sued Larkin and UPS, and, at trial, the parties stipulated that the accident was caused by Larkin\u2019s negligence and that Larkin and UPS were liable for any damages proximately caused by the accident. The jury was asked to determine the extent of Reardon\u2019s damages. It concluded that the collision did not cause Reardon any damages. Reardon argues that a rational jury could not have reached that conclusion.\n[\u00b6 4] Viewing the evidence in the light most favorable to the jury\u2019s verdict, the jury could have found the following facts. Provencher v. Faucher, 2006 ME 59, \u00b6\u00b6 2, 6, 898 A.2d 404, 405, 406. Two weeks before the accident, Reardon had been diagnosed with diabetes. Reardon\u2019s physician agreed with an endocrinologist\u2019s opinion that the accident did not cause the diabetes.\n[\u00b6 5] The police officer who responded to the accident reported that no one was injured. After the accident, Reardon drove his damaged car to the automotive repair shop that he owned and then visited the emergency room. At the emergency room, Reardon stated that he had mild left-side neck discomfort and some mild muscle discomfort. The treating physician found no other acute symptoms and advised him to follow up with his primary care physician. Since the accident, Rear-don has received chiropractic treatments for lower back pain and physical therapy for lower back and hip pain, and he has incurred medical bills for those treatments.\n[\u00b6 6] Four days after the accident, Reardon visited his physician, who noted that Reardon had no radiculopathy \u2014 that is, nerve damage related to a back injury that causes pain, numbness, or weakness in the legs. In December 2003, an MRI showed that Reardon had a minimal grade spondylolisthesis but no compression of nerves that would cause radiculopathy. A doctor who treated Reardon for low back and leg pain opined that Reardon\u2019s spon-dylolisthesis was caused by either a congenital abnormality that predisposed him to this condition or by major trauma or repetitive microtrauma to that area, but he could not determine whether the spondylo-listhesis was caused by the accident. An orthopedic surgeon opined that Reardon\u2019s spondylolisthesis was not caused by the accident.\n[\u00b6 7] Ten days after the accident, Rear-don coughed to clear his throat and felt an unusual movement in his groin. He had not complained of groin pain at earlier doctor visits. In January 2004, exploratory surgery confirmed that Reardon had an inguinal hernia, which was repaired during a second surgery in February. An infection developed, requiring a third surgery in March. In his physician\u2019s opinion, Reardon\u2019s hernia was probably caused by his cough because he had no previous groin pain.\n[\u00b6 8] A week after the accident, Rear-don closed his automotive repair shop because he could not be there to run it due to his health problems. He reopened the shop in October 2004. Reardon has never reported a profit or personal income from the business.\n[\u00b6 9] Since the accident, Reardon has participated in a number of physical activities including scuba diving, bowling, performing doughnuts and wheelies on an all-terrain vehicle, and helping to catch alligators in Florida. He has taken vacations to Pennsylvania, New York, and Florida, during which he drove his car and walked for extended periods of time without showing signs of back pain. He has also packed and moved equipment from his shop, carried scuba equipment, loaded doors purchased from Home Depot, and installed a portable air conditioner.\n[\u00b6 10] Shortly after the accident, Rear-don told a friend that a UPS driver had hit him and that he \u201cnow had UPS by the balls.\u201d On several occasions, he reported that he must refrain from carrying things because \u201cUPS might be watching.\u201d Rear-don also asked his physician, in light of his current litigation, to change his medical records regarding when he was diagnosed with diabetes.\n[\u00b6 11] The court gave the jury a special verdict form that itemized Reardon\u2019s damages according to medical bills, lost earnings and earning capacity, pain, suffering, loss of enjoyment of life, and permanent impairment. The jury returned a verdict of zero damages for each of the categories on the verdict form.\n[\u00b6 12] Reardon moved to amend the judgment or for a new trial on the issue of damages pursuant to M.R. Civ. P. 59(a) and (e), and for additur in the amount of $600,000. The court denied the motions, and Reardon appealed.\nII. DISCUSSION\n[\u00b6 IB] Reardon contends that the court abused its discretion when it denied his motions for additur and for a new trial because, unless the jury acted with bias or prejudice, it could not have rationally returned a verdict of no damages when liability was stipulated and evidence related to injuries and medical bills was uncontro-verted.\n[\u00b6 14] \u201cWe review the trial court\u2019s denial of a motion for a new trial and/or additur for a clear and manifest abuse of discretion, reviewing the evidence in the light most favorable to the verdict.\u201d Provencher, 2006 ME 59, \u00b6 6, 898 A.2d at 406 (quotation marks omitted). \u201cWe will not set verdicts aside on the ground that damages are ... inadequate unless it is apparent that the jury acted under some bias, prejudice or improper influence, or [has] made some mistake of fact or law because assessment of damages is the sole province of the jury.\u201d Id. \u00b6 6, 898 A.2d at 406-07 (alteration in original) (quotation marks omitted); see also Ma v. Bryan, 2010 ME 55, \u00b6\u00b6 10-11, 997 A.2d 755, 760.\n[\u00b6 15] Although Larkin and UPS stipulated to liability, Reardon had the burden of proving the extent of his damages that were proximately caused by the accident. See Foss v. Ingeneri, 561 A.2d 498, 499 (Me.1989); see also Reardon v. Lovely Dev., Inc., 2004 ME 74, \u00b6 9, 852 A.2d 66, 69. On appeal, he must demonstrate that, on this record, the jury was compelled to find that he proved the elements of causation and damages. See Ma, 2010 ME 55, \u00b6 6, 997 A.2d at 758.\n[\u00b6 16] The jury could have been, and apparently was, unpersuaded by Rear-don\u2019s evidence \u2014 even to the extent that it was uncontroverted. See id. Specifically, the jury was not required to credit Rear-don\u2019s evidence regarding the source of his back and leg pain. Furthermore, the jury could have found Reardon not to be credible based on his demeanor at trial and the evidence of his participation in many physical activities, his attempt to change his medical records related to the time of his diabetes diagnosis, and his references to UPS. At the same time, the jury could have believed that Reardon\u2019s hernia was caused by his coughing instead of the accident, that his diabetes was diagnosed before the accident, and that his spondylolis-thesis was a congenital condition that was not caused or aggravated by the accident.\n[\u00b6 17] Reardon asserts that jury bias\u2014 not his lack of credibility \u2014 generated the verdict in this case. He has not, however, demonstrated \u201cserious allegations of juror bias in the context of juror dishonesty\u201d or \u201cverifiable external manifestations of such impropriety.\u201d See id. \u00b6\u00b6 9, 10, 997 A.2d at 760 (quotation marks omitted). Nor is the verdict so \u201cmanifestly and clearly wrong\u201d that bias or prejudice can be inferred. See id. \u00b6 11, 997 A.2d at 760 (quotation marks omitted). The court did not abuse its discretion when it decided that the jury acted rationally and without bias, prejudice, or improper influence, and accordingly denied Reardon\u2019s motions for a new trial and/or additur. See Provencher, 2006 ME 59, \u00b6 10, 898 A.2d at 407-08.\nThe entry is:\nJudgment affirmed.\n. Contrary to Reardon\u2019s additional claims, the court did not abuse its discretion when it excluded an automobile crash safety report from evidence because it contained opinions and conclusions, see M.R. Evid. 803(8); Tiemann v. Santarelli Enters., Inc., 486 A.2d 126, 131 n. 9 (Me.1984); State v. Chase, 330 A.2d 909, 912 (Me.1975), and on the summary judgment record, Reardon failed to establish a prima facie case that Larkin or UPS acted with actual or implied malice that would justify an award of punitive damages, see M.R. Civ. P. 56(c), (e), (h)(4); Tri-Town Marine, Inc. v. J.C. Milliken Agency, Inc., 2007 ME 67, \u00b6\u00b67, 11, 924 A.2d 1066, 1069, 1070; Tuttle v. Raymond, 494 A.2d 1353, 1354, 1361, 1362 (Me.1985). We do not address these arguments further.\n. Spondylolisthesis is a condition of the spine where one of the spinal vertebra has slipped out of alignment with a lower vertebra.",
+        "type": "majority",
+        "author": "SAUFLEY, C.J."
+      }
+    ],
+    "attorneys": [
+      "Timothy E. Zerillo, Esq., Zerillo Law, LLC, Portland, ME, for Nathan Reardon.",
+      "Thomas E. Getchell, Esq., Troubh Heis-ler, Portland, ME, for Jonathan Larkin and United Parcel Service of America, Inc."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 86\nNathan REARDON v. Jonathan LARKIN et al.\nSupreme Judicial Court of Maine.\nSubmitted On Briefs: July 21, 2010.\nDecided: Aug. 26, 2010.\nTimothy E. Zerillo, Esq., Zerillo Law, LLC, Portland, ME, for Nathan Reardon.\nThomas E. Getchell, Esq., Troubh Heis-ler, Portland, ME, for Jonathan Larkin and United Parcel Service of America, Inc.\nPanel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0376-01",
+  "first_page_order": 410,
+  "last_page_order": 413
+}

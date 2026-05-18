@@ -1,0 +1,161 @@
+{
+  "id": 7286668,
+  "name": "STATE of Maine v. Richard M. DALLI",
+  "name_abbreviation": "State v. Dalli",
+  "decision_date": "2010-11-04",
+  "docket_number": "",
+  "first_page": "632",
+  "last_page": "637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 632"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 113"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "2010 ME 30",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7290849
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 27-28"
+        },
+        {
+          "page": "816-17"
+        },
+        {
+          "page": "\u00b6 32"
+        },
+        {
+          "page": "818",
+          "parenthetical": "holding that sentencing court appropriately considered relevant factors in light of sentencing goals when determining whether any portion of the sentence should be suspended"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/0806-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 44",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7260902
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 42"
+        },
+        {
+          "page": "935"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/969/0923-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 62",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7289830
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "938-39"
+        },
+        {
+          "page": "939"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "939"
+        },
+        {
+          "page": "939"
+        },
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "939"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/999/0936-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 644,
+    "char_count": 12010,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 1.0297514337237789e-07,
+      "percentile": 0.5477641746680985
+    },
+    "sha256": "9e390321c96879e123f2a24762566468b764e049ec7ba2a62416f15ca247e024",
+    "simhash": "1:f8d663bec60746dd",
+    "word_count": 1960
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Richard M. DALLI."
+    ],
+    "opinions": [
+      {
+        "text": "MEAD, J.\n[\u00b6 1] Richard M. Dalli appeals from the sentence imposed by the Superior Court (York County, Fritzsche, J.) following his guilty plea to an information charging him with manslaughter (Class A), 17-A M.R.S. \u00a7 208(1)(A) (2009). The court sentenced Dalli to thirty years\u2019 imprisonment, with all but twenty years suspended, and four years of probation. Dalli contends that the court misapplied principle in setting a basic sentence and abused its discretion in arriving at a maximum and final sentence. We granted leave to appeal pursuant to 15 M.R.S. \u00a7 2152 (2009) and M.RApp. P. 20, and now affirm the sentence.\nI. BACKGROUND\n[\u00b6 2] On September 2, 2008, Richard Dalli stabbed John Wheeler in the chest with a knife, killing him. Wheeler, a longtime acquaintance of Dalli, was at Dalli\u2019s house that night with his girlfriend, who was also a friend of Dalli. All three had been drinking, and there was also evidence that Dalli had taken prescription drugs and that Wheeler had used marijuana.\n[\u00b6 3] At some point in the evening Dalli made a sexual advance toward Wheeler that Wheeler rejected; the parties disagree as to whether this was laughed off as a joke or whether it provided motive for what came later. Some time afterward, Dalli went to the kitchen and returned with a machete; his intent in doing so is uncertain. Wheeler disarmed him, and his girlfriend hid the machete. While the girlfriend and Wheeler were occupied with bandaging a small cut on Wheeler\u2019s hand, Dalli returned with a butcher knife, slashed Wheeler several times, and inflicted the fatal stab wound to Wheeler\u2019s left chest. Dalli washed off the knife and initially told responding officers that he had stabbed Wheeler in self-defense after Wheeler kicked his door in.\n[\u00b6 4] It is undisputed that at the time of the killing Dalli had a long-standing diagnosis of schizoaffective disorder, aggravated by alcohol dependence and substance abuse. He had a criminal record dating to 1978 involving theft and drug and alcohol offenses.\n[\u00b6 5] Dalli was originally indicted for intentional or knowing murder; he entered pleas of not guilty and not criminally responsible by reason of insanity. His trial on that charge resulted in a mistrial after the jury could not reach a verdict. One month later, Dalli pleaded guilty to an information charging him with manslaughter for recklessly or with criminal negligence causing Wheeler\u2019s death. Before the sentencing hearing on December 7, 2009, both Dalli and the State submitted sentencing memoranda. In addition, the State submitted a written victim impact statement from Wheeler\u2019s mother, and Dalli submitted several letters attesting to his good qualities when he was not abusing drugs or alcohol. After explicitly engaging in the analysis required by 17-A M.R.S. \u00a7 1252-C (2009), the court imposed its sentence. This appeal followed.\nII. DISCUSSION\nA. Basie Sentence\n[\u00b6 6] In step one of the three-step process required by section 1252-C, the sentencing court \u201cmust determine the basic period of incarceration by examining the crime, the defendant\u2019s conduct in committing it, and by looking at other sentences for similar offenses.\u201d State v. Robbins, 2010 ME 62, \u00b6 9, 999 A.2d 936, 938-39 (quotation marks omitted). The Superior Court\u2019s basic sentence of twenty-five years in this case is reviewed de novo for misapplication of principle. Id. \u00b6 9, 999 A.2d at 939. In setting the basic sentence near the top of the permissible range, the sentencing court was \u201cnot compelled to expressly invoke a continuum of seriousness, - so long as [its] analyses] reflects] that the defendant\u2019s crime was considered to be among the most serious ways in which the crime might be committed ...\u201d State v. Hutchinson, 2009 ME 44, \u00b6 42, 969 A.2d 923, 935; see State v. Reese, 2010 ME 30, \u00b6\u00b6 27-28, 991 A.2d 806, 816-17.\n[\u00b6 7] Because manslaughter necessarily involves a death, the court analyzed the seriousness of Dalli\u2019s conduct by examining how likely it was to result in a death in comparison to other ways that manslaughter might be committed. The court reasoned that in purposely stabbing Wheeler deep in the chest with a knife, Dalli acted in a way that created \u201can extraordinarily high probability of death,\u201d and found that his conduct was \u201ca far more serious way of committing manslaughter than the person who drives drunk and in most instances is able to somehow ... get home safely.\u201d The court concluded that Dalli\u2019s conduct was \u201cnot the absolutely worst way [to commit manslaughter] \u2014 or the most certain way, but it\u2019s certainly among those.\u201d\n[\u00b6 8] The court\u2019s analysis does not reflect a misapplication of principle. The court was required to \u201cconsider[ ] the particular nature and seriousness of the offense as committed by the offender,\u201d 17-A M.R.S. \u00a7 1252-C(1), and it quite logically concluded that Dalli\u2019s conduct fell near the boundary between the upper limits of manslaughter and intentional or knowing murder. That conclusion justified a basic sentence near the top of the permissible range.\nB. Maximum Sentence\n[\u00b6 9] After setting the basic sentence, the court was required to set a maximum sentence by \u201cconsidering] whether any mitigating or aggravating factors exist to adjust the [basic] sentence upward or downward.\u201d Robbins, 2010 ME 62, \u00b6 10, 999 A.2d at 939. We review this step for an abuse of discretion. Id. Although a sentencing court is required to consider the existence of mitigating factors, it is not compelled to reduce the basic sentence as a result. Id. \u00b6 12, 999 A.2d at 939.\n[\u00b6 10] Here, the court found both aggravating and mitigating factors in setting the maximum sentence at the statutory maximum of thirty years. 17-A M.R.S. \u00a7 1252(2)(A) (2009). In mitigation, the court found that Dalli was genuinely remorseful for Wheeler\u2019s death. The court also found three aggravating factors: (1) \u201cabsolutely devastating\u201d victim impact demonstrated by Wheeler\u2019s mother\u2019s letter to the court; (2) Dalli\u2019s criminal record; and (3) its finding that given his history of mental health problems and substance abuse, when Dalli decided to drink and take drugs on the night Wheeler was killed, he knew \u201cthat something bad could happen, that things wouldn\u2019t go as well if [he] went in that direction.\u201d\n[\u00b6 11] Balancing the three aggravating factors against the single mitigating factor, the court concluded that the twenty-five-year basic sentence should be increased to a maximum sentence of thirty years. The court thus did what section 1252-C(2) directed it to do \u2014 consider all mitigating and aggravating factors, determine their combined impact on the basic sentence, and then quantify that impact by increasing or decreasing the basic sentence accordingly. That process reveals no abuse of the court\u2019s discretion.\nC. Final Sentence\n[\u00b6 12] In determining the final sentence, \u201cthe court determines what, if any, portion of the jail sentence should be suspended, and how much probation is appropriate.\u201d Robbins, 2010 ME 62, \u00b6 10, 999 A.2d at 939. We also review this third step for an abuse of discretion. Id.\n[\u00b6 13] Here, the court first determined that a four-year period of probation following the unsuspended portion of the sentence was appropriate. See 17-A M.R.S. \u00a7 1202(1) (2009) (\u201cA person convicted of a Class A crime may be placed on probation for a period not to exceed 4 years.... \u201d). It then determined how much of the maximum sentence to suspend in light of the sentencing goals set out in 17-A M.R.S. \u00a7 1151 (2009). See Reese, 2010 ME 30, \u00b6 32, 991 A.2d at 818 (holding that sentencing court appropriately considered relevant factors in light of sentencing goals when determining whether any portion of the sentence should be suspended).\n[\u00b6 14] In arriving at a final sentence of thirty years, all but twenty years suspended, with four years of probation, the court explicitly considered the gravity and seriousness of the offense; concern for public safety; deterrence and rehabilitation; and the potential for Dalli\u2019s cooperation in his rehabilitation. Because the court did not disregard the statutory sentencing factors applicable to this case, its final sentence, in which it suspended one-third of the maximum sentence and imposed a lengthy period of probation, does not reflect an abuse of discretion.\nThe entry is:\nSentence affirmed.\n.The statute requires:\nIn imposing a sentencing alternative pursuant to section 1152 that includes a term of imprisonment relative to murder, a Class A, Class B or Class C crime, in setting the appropriate length of that term as well as any unsuspended portion of that term accompanied by a period of probation, the court shall employ the following 3-step process:\n1. The court shall first determine a basic term of imprisonment by considering the particular nature and seriousness of the offense as committed by the offender.\n2. The court shall next determine the maximum period of imprisonment to be imposed by considering all other relevant sentencing factors, both aggravating and mitigating, appropriate to that case. These sentencing factors include, but are not limited to, the character of the offender and the offender\u2019s criminal history, the effect of the offense on the victim and the protection of the public interest.\n3.The court shall finally determine what portion, if any, of the maximum period of imprisonment should be suspended and, if a suspension order is to be entered, determine the appropriate period of probation to accompany that suspension.\n17-A M.R.S. \u00a7 1252-C (2009).\n. The maximum term of imprisonment for a Class A crime is thirty years. 17-A M.R.S. \u00a7 1252(2)(A) (2009).\n. Dalli contends that the court improperly penalized his decision to go to trial on the original murder charge by downgrading its characterization of his remorse for Wheeler\u2019s death from a mitigating factor to a neutral one when he later pleaded guilty to manslaughter. It is evident, however, that the court did accept Dalli\u2019s remorse as a mitigating factor. When the court referred to the defendant\u2019s decision to plead guilty as a \"neutral fact,\u201d it was commenting on his belated acceptance of responsibility, not his remorse. Addressing Dalli, the court explicitly found that \"you do seem genuinely sorry for all the harm that you\u2019ve caused and I find that to be really quite sincere.\u201d\n. The statute provides, in part:\nThe general purposes of the provisions of this part are:\n1. To prevent crime through the deterrent effect of sentences, the rehabilitation of convicted persons, and the restraint of convicted persons when required in the interest of public safety;\n2. To encourage restitution in all cases in which the victim can be compensated and other purposes of sentencing can be appropriately served!;]\n3. To minimize correctional experiences which serve to promote further criminality;\n4. To give fair warning of the nature of the sentences that may be imposed on the conviction of a crime;\n5. To eliminate inequalities in sentences that are unrelated to legitimate criminological goals;\n6. To encourage differentiation among offenders with a view to a just individualization of sentences; \u201e\n7. To promote the development of correctional programs which elicit the cooperation of convicted persons; and\n8. To permit sentences that do not diminish the gravity of offenses....\n17-A M.R.S. \u00a7 1151 (2009).",
+        "type": "majority",
+        "author": "MEAD, J."
+      }
+    ],
+    "attorneys": [
+      "Sarah A. Churchill, Esq. (orally), Strike, Goodwin & O\u2019Brien, Portland, ME, for Richard Dalli.",
+      "Janet T. Mills, Attorney General, Lisa J. M\u00e1rchese, Asst. Atty. Gen., Donald W. Macomber, Asst. Atty. Gen. (orally), Office of the Attorney General, Augusta, ME, for State of Maine."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 113\nSTATE of Maine v. Richard M. DALLI.\nSupreme Judicial Court of Maine.\nArgued: Oct. 5, 2010.\nDecided: Nov. 4, 2010.\nSarah A. Churchill, Esq. (orally), Strike, Goodwin & O\u2019Brien, Portland, ME, for Richard Dalli.\nJanet T. Mills, Attorney General, Lisa J. M\u00e1rchese, Asst. Atty. Gen., Donald W. Macomber, Asst. Atty. Gen. (orally), Office of the Attorney General, Augusta, ME, for State of Maine.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ.\nAlthough not available at oral argument, Justice Silver participated in this opinion. See M.R.App. P. 12(a) (stating that a \"qualified justice may participate in a decision even though not present at oral argument\u201d)."
+  },
+  "file_name": "0632-01",
+  "first_page_order": 658,
+  "last_page_order": 663
+}

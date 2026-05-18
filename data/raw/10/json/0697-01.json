@@ -1,0 +1,349 @@
+{
+  "id": 7288603,
+  "name": "STATE of Maine v. Carol A. MURPHY",
+  "name_abbreviation": "State v. Murphy",
+  "decision_date": "2010-12-29",
+  "docket_number": "",
+  "first_page": "697",
+  "last_page": "703",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 697"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "454 A.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12056372
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/454/0341-01"
+      ]
+    },
+    {
+      "cite": "861 F.2d 1307",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537155
+      ],
+      "pin_cites": [
+        {
+          "page": "1312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/861/1307-01"
+      ]
+    },
+    {
+      "cite": "261 A.2d 48",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8066976
+      ],
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/261/0048-01"
+      ]
+    },
+    {
+      "cite": "792 F.2d 1318",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1583381
+      ],
+      "pin_cites": [
+        {
+          "page": "1322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/792/1318-01"
+      ]
+    },
+    {
+      "cite": "311 F.3d 93",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9301045
+      ],
+      "pin_cites": [
+        {
+          "page": "96-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/311/0093-01"
+      ]
+    },
+    {
+      "cite": "577 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7385718
+      ],
+      "pin_cites": [
+        {
+          "page": "1172-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/577/1167-01"
+      ]
+    },
+    {
+      "cite": "20 F.3d 911",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10512635
+      ],
+      "pin_cites": [
+        {
+          "page": "915"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/20/0911-01"
+      ]
+    },
+    {
+      "cite": "72 F.3d 1518",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415958
+      ],
+      "pin_cites": [
+        {
+          "page": "1530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/72/1518-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 337",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054264
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0337-01"
+      ]
+    },
+    {
+      "cite": "102 F.3d 1120",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7641933
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1156-58"
+        },
+        {
+          "page": "1157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/102/1120-01"
+      ]
+    },
+    {
+      "cite": "567 A.2d 1350",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7363307
+      ],
+      "pin_cites": [
+        {
+          "page": "1352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/567/1350-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 80",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8416290
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 17-20"
+        },
+        {
+          "page": "708-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0702-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 204",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11160712
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 13-15"
+        },
+        {
+          "page": "868"
+        },
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/0865-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 40",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8429748
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/895/0319-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 130",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8347025
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/932/0549-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 836,
+    "char_count": 15726,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 3.832728008213311e-07,
+      "percentile": 0.8988410135108263
+    },
+    "sha256": "22f6aaec5244ffa86910c578d62ac302470cce5714e19f200b86c459bdd82cd1",
+    "simhash": "1:b5521f2633537045",
+    "word_count": 2585
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, and GORMAN, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Carol A. MURPHY."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\n[\u00b6 1] Carol A. Murphy appeals from the judgment of the Superior Court (Franklin County, Murphy, J.) entered following a jury verdict convicting her of assault on an officer (Class C), 17-A M.R.S. \u00a7 752-A(1)(A) (2009); refusing to submit to arrest (Class D), 17-A M.R.S. \u00a7 751-B(1)(C) (2009); criminal use of an electronic weapon (Class D), 17-A M.R.S. \u00a7 1004(1) (2009); and two counts of cruelty to animals (Class D), 17 M.R.S. \u00a7 1031(1)(E) (2009). The record reflects that the State\u2019s evidence supporting conviction for each offense was uncontested at trial and is sufficient to support each conviction.\n[\u00b6 2] Murphy does not contest the evidence on appeal; instead, she contends that: (1) her purported removals of the case to the United States District Courts in Massachusetts and Wyoming, a habeas corpus petition she filed in the United States District Court in Arizona, and an appeal she had filed deprived the Superior Court of jurisdiction to hear the matter; (2) her actions and complaints against the trial judge, the prosecutor, and the State\u2019s witnesses in the matter barred their participation in the proceedings; (3) the statutes upon which her prosecution was based are unconstitutional; (4) her prior cruelty to animals conviction that we affirmed in State v. Murphy, Mem 06-125 (decided July 27, 2006), is void, as are actions taken to enforce the lifetime prohibition on possession of animals imposed in that case; and (5) the warrant that supported search and seizure of animals at her home was overly broad. Each of these five claims is frivolous, and we do not review them further. See State v. Estabrook, 2007 ME 130, \u00b6 4 n. 1, 932 A.2d 549, 550; State v. Smen, 2006 ME 40, \u00b6 7, 895 A.2d 319, 321; In re Michael M., 2000 ME 204, \u00b6\u00b6 13-15, 761 A.2d 865, 868.\n[\u00b6 3] Murphy also contends that (6) the prosecution and trial deprived her of due process, and (7) a competency exam ordered by the court violated her Fifth Amendment rights. Murphy has failed to demonstrate that the actions of the court and the State\u2019s witnesses incident to the proceedings deprived her of due process or any other constitutional rights, and the record indicates neither clear error nor abuse of discretion in the court\u2019s ordering a competency examination, finding her competent to stand trial, and permitting her to represent herself with assistance of available standby counsel. However, we examine these issues briefly to note the trial court\u2019s exemplary performance and vigilance to assure that Murphy\u2019s fundamental constitutional rights were respected and protected, and that she received a fair trial despite Murphy\u2019s continually disruptive and disrespectful conduct toward the court and the jury.\nI. CASE HISTORY\n[\u00b6 4] This case arose on October 14, 2009, when a State Police trooper was sent to Murphy\u2019s residence in New Sharon to investigate complaints that she was keeping animals at her residence in violation of the lifetime ban on keeping animals imposed after conviction in a 2004 cruelty to animals case. We had affirmed the conviction in the 2004 case in State v. Murphy, Mem 06-125.\n[\u00b6 5] While en route to Murphy\u2019s residence, the officer was advised of an outstanding warrant for Murphy\u2019s arrest. When the officer arrived at the residence, he encountered Murphy outside the residence and advised her that he had a warrant for her arrest. He then let Murphy go into the residence, unescorted, to get some things for the trip to the jail. When Murphy emerged from the residence five minutes later, she attacked the officer with a Taser gun. That attack led to the first three charges.\n[\u00b6 6] A subsequent search of Murphy\u2019s premises led to discovery of many animals on the premises in violation of the previously-issued lifetime ban on possession of animals. Most of the animals were in very poor condition and difficult circumstances. This discovery led to the two charges of cruelty to animals.\n[\u00b6 7] A competent and very experienced criminal defense attorney was appointed to represent Murphy in the proceedings. The court ordered a mental status examination, see 15 M.R.S. \u00a7 101-D (2009), in which Murphy refused to cooperate. Murphy, on her own behalf and without assistance of counsel, began filing removal petitions and actions against the court and various anticipated trial participants in federal courts outside the State of Maine. Also, without the assistance of her court-appointed counsel, she began filing various court papers indicating that the Superior Court had been deprived of jurisdiction of the case, that all claims against her violated her constitutional rights, and that the prior judgment and any restrictions on her liberty were void.\n[1\u00cd8] As the trial date neared, Murphy\u2019s counsel filed a motion seeking leave to withdraw and to be appointed as standby counsel, while permitting Murphy to represent herself at trial. The case then proceeded to jury selection. The court permitted Murphy to represent herself at jury selection, with court-appointed counsel as standby counsel. Murphy then began objecting that the court lacked jurisdiction to hear the case. She refused to participate in jury selection and also directed standby counsel not to participate in jury selection. The court held that Murphy would not be permitted to avoid or delay trial by requesting a jury and then refusing to cooperate or participate in jury selection. After taking appropriate precautions to prevent the jurors from perceiving that Murphy was in custody, the court proceeded to jury selection.\n[\u00b6 9] Before finally deciding Murphy\u2019s motion to be permitted to represent herself at trial, the court ordered a competency examination pursuant to 15 M.R.S. \u00a7 101-D(4). Murphy refused to cooperate with the examination, asserting her right to remain silent. The examiner completed the exam by observing Murphy, reviewing files about Murphy, and, apparently, watching or reviewing the record of one or more proceedings in which Murphy participated.\n[\u00b6 10] The examiner filed a report recommending that Murphy was competent to stand trial. At a brief hearing following receipt of the competency report, Murphy\u2019s only statements were claims that, because she had removed the case to federal court, the Superior Court had no authority to act; and a disrespectful question to the trial court, \u201cHow is it that you continue to sit on the bench?\u201d The court then entered an order finding Murphy competent to stand trial and allowing her to represent herself at trial, with appointed counsel as standby counsel.\n[If 11] Orders in the court file and references in some of the transcripts that have been prepared indicate that both the court and assigned counsel had advised Murphy of her rights and the risks inherent in self-representation, while respecting Murphy\u2019s right to represent herself, if her choice to represent herself was made voluntarily and knowingly. Courts evaluate whether a defendant\u2019s waiver of the right to counsel was voluntary, knowing, and intelligent by considering whether the defendant was informed of the right to counsel by the court, as well as the totality of relevant circumstances \u201cincluding the background, experience, and conduct of the accused.\u201d State v. Watson, 2006 ME 80, \u00b6\u00b6 17-20, 900 A.2d 702, 708-10 (quotation marks omitted); State v. Morrison, 567 A.2d 1350, 1352 (Me.1990).\n[\u00b6 12] Although Murphy does not raise this issue on appeal, we can infer from the available record that Murphy was properly advised of the rights at stake and risks inherent in self-representation and that the court concluded that Murphy had voluntarily, knowingly, and intelligently chosen to proceed with only standby counsel.\n[\u00b6 13] At trial, Murphy did not seriously contest the State\u2019s evidence or cross-examine the State\u2019s -witnesses on the facts. She made an opening statement to the jury that asserted that the court was without authority to act and was disrespectful of the court and the jury. At one point, she told the jury, \u201cWhatever you decide is irrelevant.\u201d At another point, after describing the proceedings as \u201ca kangaroo court,\u201d Murphy stated, \u201cThe Judge has no jurisdiction. Unfortunately, neither do you.\u201d She made several other critical and disrespectful statements before completing her opening statement.\n[\u00b6 14] Following the opening, Murphy\u2019s trial participation was limited to comments critical of the court and other trial participants, and her claims that the court lacked jurisdiction to undertake the proceedings and was committing constitutional violations by maintaining the proceedings. She cross-examined no witnesses, offered no evidence, and directed standby counsel not to participate. At one point, she swore at the judge. Later she got up from her seat, walked out of the courtroom, and refused to return. The court then took a recess.\n[\u00b6 15] The court offered to allow Murphy to listen to the proceedings in a room near the courtroom, but Murphy refused that offer and elected to return to the county jail. After questioning the court officers regarding Murphy\u2019s actions, the court found that she had voluntarily absented herself from the proceedings, was choosing not to participate further in the proceedings, and should not be forced to return to the courtroom because such an action would result in a prejudicial scene in front of the jury. The trial then resumed and was completed with Murphy not present and standby counsel present but not participating, as directed by Murphy.\n[\u00b6 16] After the jury found Murphy guilty of all five charges presented to it, the court sentenced Murphy to four years straight time on Count I, the Class C felony, and nine months, concurrent, on each misdemeanor charge. No term of probation was imposed. However, on the two cruelty to animals counts, the court imposed a lifetime ban on possessing or owning animals. Murphy then brought this appeal.\nII. JUDICIAL RESTRAINT\n[\u00b6 17] The court\u2019s actions here, dealing with a competent but continually disruptive and disrespectful defendant, were a model of restraint, fair warning, and measured response to inappropriate statements and actions, demonstrating a continued focus on ensuring that Murphy-received the fairest trial possible in light of the circumstances she chose to create. The court ensured that the disruptions were properly reflected in the record. See United States v. Brazel, 102 F.3d 1120, 1156-58 (11th Cir.1997). The court\u2019s response to Murphy\u2019s actions was appropriately measured, beginning with warnings but leading to the defendant not being in the courtroom when Murphy gave the court no alternative. See Illinois v. Allen, 397 U.S. 337, 346, 90 S.Ct. 1057, 25 L.Ed.2d 353 (1970); Brazel, 102 F.3d at 1157; United States v. Beasley, 72 F.3d 1518, 1530 (11th Cir.1996); United States v. Stewart, 20 F.3d 911, 915 (8th Cir.1994). The court\u2019s offer to provide a room where Murphy could hear the proceedings, and the court\u2019s findings and jury instructions regarding Murphy\u2019s choice to refuse to participate further in the proceedings, were consistent with our direction to address a situation of a defendant who, by choice or because of disruptions, is removed from the presence of the jury. See State v. Barrett, 577 A.2d 1167, 1172-73 (Me.1990); see also L\u2019Abbe v. DiPaolo, 311 F.3d 93, 96-99 (1st Cir.2002); United States v. Stotts, 792 F.2d 1318, 1322 (5th Cir.1986). A disruptive defendant should not be allowed to turn the disruption to advantage by causing a mistrial or other result in the defendant\u2019s favor. Maine Jury Instruction Manual \u00a7 4-11 at 4-22 to 4-23 (4th ed.2010).\n[\u00b6 18] Despite Murphy\u2019s provocations and claims that the judge should have recused because of Murphy\u2019s filing actions against the judge and criticism of the judge, the court appropriately maintained the proceedings to them completion. Recusal is discretionary and, as we have observed, judges should avoid recusal in situations when parties engage in actions seeking to cause recusal.\nA judge should not recuse himself or herself \u201cmerely because a completely unfounded claim of prejudice [is] lodged against him by a defendant.\u201d State v. Aubut, 261 A.2d 48, 50 (Me.1970). We recognize the sensitivity with which a motion for recusal must be treated by a judge. Judges must ascertain whether they, in fact, come within any of the categories requiring disqualification in the Code of Judicial Conduct and whether there is any other basis upon which their impartiality may reasonably be questioned. See Maine Code of Jud. Conduct, Canon 3(E)(2)(a)-(c). At the same time judges must not allow litigants to utilize the process of a recusal motion to delay or thwart the judicial proceedings where there is no reasonable basis for the motion and it is obvious on its face that it was intended to halt or delay the litigation. \u201cA judge is as much obliged not to recuse himself when it is not called for as he is obliged to when it is.\u201d In re Drexel Burnham Lambert, Inc., 861 F.2d 1307, 1312 (2d Cir.1988).\nIn re Michael M., 2000 ME 204, \u00b6 14, 761 A.2d at 868.\n[\u00b6 19] The trial court acted appropriately, and with commendable restraint and responsible concern for Murphy\u2019s fundamental rights in assuring itself of Murphy\u2019s competence to stand trial; allowing her to represent herself; composing a measured response to Murphy\u2019s disrespect and disruptions; and maintaining and completing the proceedings despite Murphy\u2019s provocations and demands that the court recuse. Murphy received the fair trial to which she is entitled under the Constitution.\nThe entry is:\nJudgment affirmed.\n. Although the heading for the second count of the indictment and of the judgment of conviction, refusing to submit to arrest on or around October 14, 2009, cited 17-A M.R.S. \u00a7 751-A (2008) and \u00a7 751-A(1)(B), respectively, we observe sua sponte that section 751-A(1)(B) was repealed and replaced by P.L.2009, ch. 449, \u00a7\u00a7 1, 2 (effective Sept. 12, 2009) (codified at 17-A M.R.S. \u00a7 751-B(1)(C) (2009)).\n\"Error in the citation of a statute or its omission shall not be grounds for the dismissal of the indictment or information or for reversal of a conviction if the error or omission did not mislead the defendant to the defendant\u2019s prejudice.\u2019\u2019 M.R.Crim. P. 7(c); State v. Earley, 454 A.2d 341, 342 n. 2 (Me. 1983). The elements of the crime described in the charging instrument and of which Murphy was convicted are unchanged as between 17-A M.R.S. \u00a7 751\u2014A(1)(B) and 17-A M.R.S. \u00a7 751-B(1)(C). Despite the error in citation, the indictment placed Murphy on notice of the allegations relating to each element of the crime of refusing to submit to arrest. Murphy was not prejudiced by the citation error in the indictment, nor has she alleged any, and it is not grounds for reversal of the conviction on that count.\n. Prior to this proceeding, the United States District Court for the District of Maine (Woodcock, CJ.) had entered an order prohibiting Murphy from filing any further actions related to her possession of animals in the United States District Court for Maine without prior judicial approval. Murphy contends that this action gave her license to file such claims in any other United States District Court.\n. The trial judge and the defendant are not related.\n. With proper warnings, the court found Murphy in contempt for some of her statements after the jury trial had been completed. See M.R. Civ. P. 66.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Carol A. Murphy, Windham, ME, pro se.",
+      "James A. Andrews, Asst. Dist. Atty., Franklin County District Attorney\u2019s Office, Farmington, ME, for the State of Maine."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 140\nSTATE of Maine v. Carol A. MURPHY.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Nov. 17, 2010.\nDecided: Dec. 29, 2010.\nCarol A. Murphy, Windham, ME, pro se.\nJames A. Andrews, Asst. Dist. Atty., Franklin County District Attorney\u2019s Office, Farmington, ME, for the State of Maine.\nPanel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, and GORMAN, JJ."
+  },
+  "file_name": "0697-01",
+  "first_page_order": 697,
+  "last_page_order": 703
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7289713,
+  "name": "John K. WHALEN, Respondent v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Whalen v. Commonwealth",
+  "decision_date": "2010-12-22",
+  "docket_number": "",
+  "first_page": "900",
+  "last_page": "901",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 900"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 888,
+    "ocr_confidence": 0.681,
+    "sha256": "11ba4b8708b998507bb0eabdde40891541b6a6f1b393136a093e475205d1a37c",
+    "simhash": "1:d43fbb02602bd351",
+    "word_count": 134
+  },
+  "last_updated": "2023-07-14T20:45:43.314120+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John K. WHALEN, Respondent v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of December 2010, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by petitioner, is:\nDoes [Licensee\u2019s] acceptance of ARD for his second DUI charge establish a DUI violation and thereby trigger the statutory ignition-interlock requirement where: the general assembly and the courts have consistently treated the acceptance of ARD for a DUI charge as an adjudication mandating the imposition of suspensions or revocations, even where the language of the statute required conviction; and the statute at issue here only requires a violation and suspension in order to require installation of an ignition interlock as a condition of license restoration?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John K. WHALEN, Respondent v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 22, 2010."
+  },
+  "file_name": "0900-03",
+  "first_page_order": 900,
+  "last_page_order": 901
+}

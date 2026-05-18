@@ -1,0 +1,191 @@
+{
+  "id": 7287065,
+  "name": "In re DAVID W.",
+  "name_abbreviation": "In re David W.",
+  "decision_date": "2010-11-23",
+  "docket_number": "",
+  "first_page": "673",
+  "last_page": "677",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 119"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "2007 ME 24",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8332101
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 10"
+        },
+        {
+          "page": "228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/0225-01"
+      ]
+    },
+    {
+      "cite": "2004 ME 153",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9165839
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0270-01"
+      ]
+    },
+    {
+      "cite": "1999 ME 195",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11501802
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "925"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/742/0919-01"
+      ]
+    },
+    {
+      "cite": "2002 ME 159",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11431652
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 28"
+        },
+        {
+          "page": "1253"
+        },
+        {
+          "page": "\u00b6 27"
+        },
+        {
+          "page": "1253",
+          "parenthetical": "\"The District Court's judgment on the issue of best interest is entitled to substantial deference because that court is able to directly evaluate the testimony of the witnesses.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/809/1245-01"
+      ]
+    },
+    {
+      "cite": "2005 ME 123",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8992397
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 23-25"
+        },
+        {
+          "page": "303-06"
+        },
+        {
+          "page": "\u00b6 29"
+        },
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/0297-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 538,
+    "char_count": 9404,
+    "ocr_confidence": 0.715,
+    "pagerank": {
+      "raw": 2.3402066335126644e-07,
+      "percentile": 0.7920836311306181
+    },
+    "sha256": "b04def54e90d15612b2413092bc0b28eb5f267cfed9eed8a106d8933f7baa338",
+    "simhash": "1:c6a35da2868ed2a2",
+    "word_count": 1543
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "In re DAVID W."
+    ],
+    "opinions": [
+      {
+        "text": "GORMAN, J.\n[\u00b6 1] The mother of David W. appeals from a judgment entered in the District Court (Biddeford, Foster, J.) terminating her parental rights to the child pursuant to 22 M.R.S. \u00a7 4055(1)(B)(2) (2009). She argues that the court erred in fashioning a permanency plan for the child by terminating her parental rights rather than placing the child in a permanency guardianship pursuant to 22 M.R.S. \u00a7 4038-C (2009). Because we conclude that the court did not abuse its discretion, we affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] Shawn A. is the mother of a boy, David W., who is now six years old. In the summer of 2008, after two years of offering services to Shawn, who was David\u2019s custodial parent, the Department of Health and Human Services realized David was not safe in his mother\u2019s care and attempted to avoid the necessity for a court proceeding by placing him with other family members. When those placements fell apart, in August 2008, the Department requested and obtained a preliminary protection order. Through that order, the Department obtained temporary custody of David, and it placed him in a therapeutic foster home.\n[\u00b6 3] Shortly thereafter, both parents agreed to the entry of a jeopardy order. In its order, the court found that jeopardy to David was caused by his mother\u2019s mental health issues, her undiagnosed blackouts, her history of relationships involving domestic violence, her failure to follow through with services for her child, and a history of unsanitary living conditions. During the next eight months, David remained in foster care, in the Department\u2019s custody, pursuant to orders entered by the court, based on agreements among all parties.\n[\u00b6 4] After the Department filed a petition to terminate the parents\u2019 parental rights, the court held a two-day hearing in November 2009 that involved evidence presented on the termination petition and on the statutorily-required review of the jeopardy order and determination of a permanency plan. See 22 M.R.S. \u00a7\u00a7 4038(1), 4038 \u2014 B(1)(B) (2009). In December 2009, the court issued a review and permanency planning order, finding that the Department made reasonable efforts to rehabilitate and reunify the family and noting that the Department and the mother disagreed on the appropriate permanency plan. The Department was requesting that the mother\u2019s parental rights be terminated, and that David be placed with his maternal aunt and uncle for adoption. The mother was seeking a permanency guardianship with the same maternal aunt and uncle. The court ordered that David was to remain in the Department\u2019s custody pending resolution of the termination proceeding.\n[\u00b6 5] In February 2010, the court terminated the mother\u2019s parental rights on grounds that she (1) was unwilling or unable to protect the child from jeopardy and the circumstances were unlikely to change within a time reasonably calculated to meet the child\u2019s needs; (2) was unwilling or unable to take responsibility for the child within a time that was reasonably calculated to meet the child\u2019s needs; and (3) had failed to make a good faith effort to rehabilitate and reunify with the child. See 22 M.R.S. \u00a7 4055(l)(B)(2)(b)(i), (ii), (iv). The court found that termination of the mother\u2019s parental rights was in the child\u2019s best interest and that permanency could best be achieved for the child through adoption. In light of tumultuous family dynamics, the court declined to place the child in a permanency guardianship pursuant to 22 M.R.S. \u00a7 4038-C. The mother timely appeals.\nII. DISCUSSION\n[\u00b6 6] A \u201ccentral tenet\u201d of Maine\u2019s Child and Family Services and Child Protection Act (the Act), 22 M.R.S. \u00a7\u00a7 4001 to 4099-G (2009), is the importance of permanency for children subject to child protection proceedings. See In re Thomas H., 2005 ME 123, \u00b6\u00b6 23-25, 889 A.2d 297, 303-06. Section 4050, which sets forth the purpose of the Act\u2019s termination subchap-ter, currently provides:\nRecognizing that instability and imper-manency are contrary to the welfare of children, it is the intent of the Legislature that this subehapter:\n1. Termination of parental rights. Allow for the termination of parental rights at the earliest possible time after rehabilitation and reunification efforts have been discontinued and termination is in the best interest of the child;\n2. Return to family. Eliminate the need for children to wait unreasonable periods of time for their parents to correct the conditions which prevent their return to the family;\n3. Adoption. Promote the adoption of children into stable families rather than allowing children to remain in the impermanency of foster care; and\n4. Protect interests of child. Be liberally construed to serve and protect the best interests of the child.\n22 M.R.S. \u00a7 4050.\n[\u00b6 7] Our decisions also reflect this fundamental principle of permanency. See In re Thomas H., 2005 ME 123, \u00b6 29, 889 A.2d at 307 (\u201cThe Act, our decisions, and practice all reinforce the fundamental principle that the strong public policy favoring permanency for children must inform the trial court\u2019s exercise of judicial discretion associated with determining a child\u2019s best interest, as well as any subsequent appellate review.\u201d); In re Michaela C., 2002 ME 159, \u00b6 28, 809 A.2d 1245, 1253 (stating that the Act \u201chas a clearly stated policy favoring permanency for children\u201d); In re Kafia M., 1999 ME 195, \u00b6 15, 742 A.2d 919, 925 (\u201cFor all children, permanency and stability are legislatively mandated goals, and the impermanency of foster care is to be avoided.\u201d).\n[\u00b6 8] In fashioning a permanency plan, the District Court must determine whether the child will be: (1) \u201c[rjeturned to a parent,\u201d (2) \u201c[pjlaced for adoption,\u201d (3) \u201c[cjared for by a permanency guardian ... or a guardian appointed by the Probate Court,\u201d (4) \u201c[pjlaced with a fit and willing relative,\u201d or (5) \u201c[pjlaced in another planned permanent living arrangement.\u201d 22 M.R.S. \u00a7 4038-B(4)(A). In determining the appropriate permanency plan, \u201cit is the policy in this State that permanency plans for children, who are the subject of protection proceedings, be implemented so that children will have stability and certainty.\u201d Adoption of Michaela C., 2004 ME 153, \u00b6 15, 863 A.2d 270, 274.\n[\u00b6 9] In this case, the court expressly found that, although he has special needs, David has shown an ability to integrate into another home. The guardian ad litem suggested that David\u2019s proposed caretaker, his aunt, would need the \u201cprotection\u201d provided by a termination order so that she could make decisions for David without excessive family interference. The court commented that the stress of familial interactions had already undermined the maternal aunt\u2019s resolve to adopt David, and noted that, if family pressures or some other factor prevented David\u2019s aunt and uncle from adopting him, only termination of his mother\u2019s parental rights would allow the Department to locate another permanent home for the child. Based on these concerns, the court specifically rejected the option of a permanency guardianship, finding that adoption would ensure a permanent home for the child.\n[\u00b6 10] The record fully supports the court\u2019s finding that termination of the mother\u2019s parental rights is in David\u2019s best interest. See In re Michaela C., 2002 ME 159, \u00b6 27, 809 A.2d at 1253 (\u201cThe District Court\u2019s judgment on the issue of best interest is entitled to substantial deference because that court is able to directly evaluate the testimony of the witnesses.\u201d). The court\u2019s well-reasoned opinion gave proper weight to the concept of permanency in its best interests determination. \u201cPermanency is a dynamic concept that must be fashioned from the actual circumstances and needs of the child or children before the court.\u201d In re Marcus S., 2007 ME 24, \u00b6 10, 916 A.2d 225, 228. A permanency guardianship in this case would not have ensured certainty and stability for the child. Thus, the court did not err in determining that placement for adoption, rather than a permanency guardianship, was in the child\u2019s best interest.\nThe entry is:\nJudgment affirmed.\n. The mother concedes that there is sufficient evidence in the record to support the court's findings of parental unfitness. Title 22 M.R.S. 4038-C(l) (2009) provides:\nThe District Court may appoint a person to be a permanency guardian only if the court finds that the prospective permanency guardian:\nA.Has the ability to provide a safe home for the child;\nB. Has a close emotional bond with the child and that the child has a close emotional bond with the prospective permanency guardian;\nC. Is willing and able to make an informed, long-term commitment to the child; and\nD. Has the skills to care for the child and to obtain needed information about and assistance with any special needs of the child.\n. David\u2019s father agreed to the termination of his parental rights in November 2009. Therefore, his role in the case or David\u2019s life will not be discussed in this opinion.",
+        "type": "majority",
+        "author": "GORMAN, J."
+      }
+    ],
+    "attorneys": [
+      "Angela M. Thibodeau, Esq., McGarry & Holmes, LLC, Wells, ME, for mother.",
+      "Janet T. Mills, Attorney General, Nora Sosnoff, Asst. Atty. Gen., Karen Dostaler, Asst. Atty. Gen., Office of the Attorney General, Augusta, ME, for the Maine Department of Health and Human Services."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 119\nIn re DAVID W.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Oct. 21, 2010.\nDecided: Nov. 23, 2010.\nAngela M. Thibodeau, Esq., McGarry & Holmes, LLC, Wells, ME, for mother.\nJanet T. Mills, Attorney General, Nora Sosnoff, Asst. Atty. Gen., Karen Dostaler, Asst. Atty. Gen., Office of the Attorney General, Augusta, ME, for the Maine Department of Health and Human Services.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0673-01",
+  "first_page_order": 699,
+  "last_page_order": 703
+}

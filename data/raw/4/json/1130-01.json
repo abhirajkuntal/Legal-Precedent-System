@@ -1,0 +1,592 @@
+{
+  "id": 7290650,
+  "name": "CITY OF PITTSBURGH and UPMC Benefit Management Services, Inc., Petitioners, v. WORKERS' COMPENSATION APPEAL BOARD (ROBINSON), Respondent",
+  "name_abbreviation": "City of Pittsburgh v. Workers' Compensation Appeal Board",
+  "decision_date": "2010-09-22",
+  "docket_number": "",
+  "first_page": "1130",
+  "last_page": "1142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 1130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "942 A.2d 245",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8390965
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/942/0245-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291789
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/0241-01"
+      ]
+    },
+    {
+      "cite": "104 A.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "377 Pa. 7",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1249538
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/377/0007-01"
+      ]
+    },
+    {
+      "cite": "2 A.3d 548",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4197608,
+        7288265
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/606/0621-01",
+        "/a3d/2/0548-01"
+      ]
+    },
+    {
+      "cite": "747 A.2d 850",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11475161,
+        95798
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/747/0850-01",
+        "/pa/560/0618-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 618",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95798
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "626"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0618-01"
+      ]
+    },
+    {
+      "cite": "944 A.2d 827",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8385903
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "829"
+        },
+        {
+          "page": "828"
+        },
+        {
+          "page": "829"
+        },
+        {
+          "page": "829-30"
+        },
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/944/0827-01"
+      ]
+    },
+    {
+      "cite": "890 A.2d 1126",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8992985
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "1127"
+        },
+        {
+          "page": "1128"
+        },
+        {
+          "page": "1130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/890/1126-01"
+      ]
+    },
+    {
+      "cite": "806 A.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11355997
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "966"
+        },
+        {
+          "page": "966"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/806/0962-01"
+      ]
+    },
+    {
+      "cite": "582 A.2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "516 Pa. 240",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808596
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0240-01"
+      ]
+    },
+    {
+      "cite": "948 A.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8246274
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "908"
+        },
+        {
+          "page": "909"
+        },
+        {
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "908"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/948/0907-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8975554
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "265"
+        },
+        {
+          "page": "265"
+        },
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/872/0263-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 911",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11335426,
+        461597
+      ],
+      "weight": 4,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "913",
+          "parenthetical": "\"For disability compensation to continue following retirement, a claimant must show that he is seeking employment after retirement or that he was forced into retirement because of his work-related injury\""
+        },
+        {
+          "page": "912",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/669/0911-01",
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461597
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "79"
+        },
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 378",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11184483,
+        1367007
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0378-01",
+        "/pa/563/0313-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 313",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1367007
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0313-01"
+      ]
+    },
+    {
+      "cite": "418 Pa.Super. 131",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        916887
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1213"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/418/0131-01"
+      ]
+    },
+    {
+      "cite": "944 A.2d 827",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8385903
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/944/0827-01"
+      ]
+    },
+    {
+      "cite": "948 A.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8246274
+      ],
+      "pin_cites": [
+        {
+          "page": "910-11"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/948/0907-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 911",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11335426,
+        461597
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/669/0911-01",
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461597
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "855 A.2d 952",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12255038
+      ],
+      "pin_cites": [
+        {
+          "page": "955-956"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/855/0952-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 240",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808596
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "252"
+        },
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/516/0240-01"
+      ]
+    },
+    {
+      "cite": "872 A.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8975554
+      ],
+      "pin_cites": [
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/872/0263-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 911",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11335426,
+        461597
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "913",
+          "parenthetical": "\"An employer should not be required to show that a claimant has no intention of continuing to work; such a burden of proof would be prohibitive.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/669/0911-01",
+        "/pa/543/0074-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461597
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "79",
+          "parenthetical": "\"An employer should not be required to show that a claimant has no intention of continuing to work; such a burden of proof would be prohibitive.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/543/0074-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1159,
+    "char_count": 38134,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 2.7724175601486773e-07,
+      "percentile": 0.8344459464625158
+    },
+    "sha256": "3c9879d07c5140d00fe923ec92835eecd28e07c07ea5c2b81b3c0945d5d32b7d",
+    "simhash": "1:260a7842b63a95dc",
+    "word_count": 6039
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, PELLEGRINI, Judge, COHN JUBELIRER, Judge, LEAVITT, Judge, BROBSON, Judge, and McCULLOUGH, Judge."
+    ],
+    "parties": [
+      "CITY OF PITTSBURGH and UPMC Benefit Management Services, Inc., Petitioners, v. WORKERS\u2019 COMPENSATION APPEAL BOARD (ROBINSON), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge COHN JUBELIRER.\nCity of Pittsburgh and UPMC Benefit Management Services, Inc. (together, Employer) petition for review of the order of the Workers\u2019 Compensation Appeal Board (Board), which affirmed the decision and order of the Workers\u2019 Compensation Judge (WCJ). In his decision and order, the WCJ denied Employer\u2019s Petition to Suspend Compensation Benefits (Suspension Petition) on the grounds that Employer failed to show that work was available within the work restrictions of Dorothy Robinson (Claimant) and, alternatively, that Claimant met any burden she might have of showing that she remained attached to the workforce after her retirement.\nClaimant began working for Employer as a police officer on April 17,1989. While working for Employer in 1997, Claimant sustained a work-related injury to her neck and right shoulder. Thereafter, Claimant worked for Employer in a light-duty position. While traveling to an appointment for treatment for her work-related injury on October 15, 2001, Claimant was involved in an automobile accident and sustained injuries to her neck, the right side of her lower back and right shoulder. Employer accepted these injuries through a Notice of Temporary Compensation Payable dated December 18, 2001, which later converted to a Notice of Compensation Payable. Claimant did not return to her light-duty job immediately after the car accident. In 2003, Employer discontinued its transitional-duty program, under which Employer had previously provided Claimant with her modified-duty position. In late 2004, Claimant sought, and received, a disability pension from Employer. Victor Thomas, M.D., performed an independent medical examination of Claimant on Employer\u2019s behalf on October 30, 2007. Dr. Thomas opined that Claimant was capable of light-duty, sedentary work. Based on that opinion, Employer sent Claimant a Notice of Ability to Return to work on November 8, 2007. Less than two weeks later, on November 21, 2007, Employer filed the Suspension Petition, arguing that Claimant voluntarily withdrew from the workforce because she failed to look for suitable work within her restrictions after retiring. After Employer filed its Suspension Petition, Claimant went to a local employment center and looked for jobs she believed she could perform, but did not apply for any. Claimant also searched the newspaper for jobs.\nThe Suspension Petition was assigned to the WCJ, who held three hearings on the matter on January 15, 2008, May 29, 2008, and October 2, 2008. Claimant presented her own testimony, as well as the deposition testimony of Deborah Curry, a senior claims examiner for Employer\u2019s insurer. Employer presented Dr. Thomas\u2019s deposition testimony. The WCJ determined that, pursuant to Bethlehem Steel Corp. v. Workers\u2019 Compensation Appeal Board (Laubach), 563 Pa. 313, 760 A.2d 378 (2000), where an employer eliminates a claimant\u2019s modified-duty position, as Employer did here, the employer must place the claimant on temporary total disability benefits and, if the employer later seeks to modify or suspend the claimant\u2019s benefits, the employer must show the availability of suitable work. The WCJ held that Employer failed to meet this burden. The WCJ determined that Employer forced Claimant into retirement by eliminating her modified-duty position. (WCJ Decision, Findings of Fact (FOF) \u00b6 22.) Citing the Supreme Court\u2019s decision in Southeastern Pennsylvania Transportation Authority v. Workmen\u2019s Compensation Appeal Board (Henderson), 543 Pa. 74, 669 A.2d 911 (1995), the WCJ noted that a claimant may continue to receive workers\u2019 compensation benefits despite being retired where the claimant was forced into retirement by the work-related injury. The WCJ acknowledged this Court\u2019s decision in County of Allegheny (Department of Public Works) v. Workers\u2019 Compensation Appeal Board (Weis), 872 A.2d 263, 265 (Pa. Cmwlth.2005), which held that a claimant must be forced by her work-related injury to retire from the entire workforce, not just from her pre-injury position, but held that this decision and similar decisions from this Court conflicted with the Supreme Court\u2019s decision in Henderson. (WCJ Decision, Conclusions of Law (COL) \u00b6 6.) The WCJ also, however, found Claimant to be credible and found, based on Claimant\u2019s testimony, that Claimant had been looking for work. (FOF \u00b6\u00b6 17-18.) The WCJ concluded that Employer failed to meet its burden of proof and, therefore, denied the Suspension Petition. (COL \u00b6 5; WCJ Order at 10.) Employer appealed to the Board.\nBefore the Board, Employer argued that the WCJ erred in failing to apply Weis and that the WCJ\u2019s findings were not supported by substantial evidence. The Board upheld the WCJ\u2019s decision, noting that the WCJ\u2019s decision did not conflict with Weis because the WCJ found that Claimant had looked for work and, therefore, remained attached to the labor market. The Board also noted that the WCJ correctly found that Employer failed to offer evidence of available, suitable work for Claimant, which, in the Board\u2019s view, might have justified a denial of benefits pursuant to this Court\u2019s holding in Pennsylvania State University v. Workers\u2019 Compensation Appeal Board (Hensal), 948 A.2d 907 (Pa.Cmwlth.2008). The Board, therefore, affirmed the WCJ\u2019s Decision. Employer now petitions this Court for review.\nBefore this Court, Employer argues that the Board erred in: (1) upholding the WCJ\u2019s finding that Claimant remained attached to the workforce when this finding was not supported by substantial evidence; (2) affirming the WCJ\u2019s finding that Claimant was forced out of the entire workforce; and (3) determining that Employer needed to present evidence of the availability of suitable work within Claimant\u2019s abilities in order to prevail on its Suspension Petition. For the following reasons, we affirm the Board.\nGenerally, in order to suspend a claimant\u2019s benefits, an employer must meet the following requirements:\n1. The employer who seeks to modify a claimant\u2019s benefits on the basis that he has recovered some or all of his ability must first produce medical evidence of a change in condition.\n2. The employer must then produce evidence of a referral (or referrals) to .a then open job (or jobs), which fits in the occupational category for which the claimant has been given medical clearance, e.g., light work, sedentary work, etc.\n3. The claimant must then demonstrate that he has in good faith followed through on the job referral(s).\n4. If the referral fails to result in a job then claimant\u2019s benefits should continue.\nKachinski v. Workmen\u2019s Compensation Appeal Board (Vepco Construction Co.), 516 Pa. 240, 252, 582 A.2d 374, 380 (1987). Pursuant to Section 306(b)(2) of the Workers\u2019 Compensation Act, an employer may establish its entitlement to a suspension or modification by either referring a claimant to an available position as required by Kachinski or \u201cestablishing a claimant\u2019s] \u2018earning power\u2019 through expert opinion evidence including job listings with employment agencies, agencies of the Department of Labor and Industry, and advertisements in a claimant\u2019s usual area of employment.\u201d South Hills Health System v. Workers\u2019 Compensation Appeal Board (Kiefer), 806 A.2d 962, 966 (Pa.Cmwlth.2002).\nHowever, an employer need not prove the availability of suitable work when a claimant voluntarily removes herself from the labor market through retirement. See Henderson, 543 Pa. at 79, 669 A.2d at 913 (\u201cFor disability compensation to continue following retirement, a claimant must show that he is seeking employment after retirement or that he was forced into retirement because of his work-related injury\u201d). In Henderson, our Supreme Court stated:\nIt is clear that disability benefits must be suspended when a claimant voluntarily leaves the labor market upon retirement. The mere possibility that a retired worker may, at some future time, seek employment does not transform a voluntary retirement from the labor market into a continuing compensable disability. An employer should not be required to show that a claimant has no intention of continuing to work; such a burden of proof would be prohibitive.\nId. In fact, where a claimant voluntarily retires, it is the claimant who bears the burden of showing either that her work-related injury has forced her out of the entire workforce or that she is looking for work after retirement. Id.; Weis, 872 A.2d at 265. Here, the WCJ found that Claimant did not \u201cvoluntarily remove herself from the workforce\u201d and that she continued to look for work. (FOF \u00b6\u00b6 16-17.) Likewise, the Board determined that Claimant was eligible for benefits because Employer failed to show that work was available to Claimant within her limitations and because Claimant continued to look for work. (Board Decision at 4-5.)\nWe first address Employer\u2019s argument that the Board erred in determining that Employer needed to present evidence of the availability of suitable work within Claimant\u2019s abilities in order to prevail on its Suspension Petition. Claimant, for her part, argues that where an employer has modified work available, but refuses to provide such work to a claimant, the burden is properly on the employer to show the availability of suitable work. Fundamentally, what is at issue is the question of when the burden should shift from an employer to show the availability of suitable work, under the Kachinski standard, to a claimant to show that she is still attached to the workforce or was forced out of the entire workforce by her work-related injury, under the Henderson standard. In other words, when is a claimant \u201cretired\u201d such that Henderson and its progeny apply?\nEmployer, in this case, appears to assume that Claimant retired because she applied for, and accepted, a disability pension. Such an assumption is not surprising because the issue of whether a claimant had retired has rarely been in dispute. In Henderson, for example, the claimant testified that \u201che was receiving Social Security retirement benefits and that he was applying for a pension from SEPTA on his 65th birthday ... [and] that he was not looking for work.\u201d Henderson, 543 Pa. at 76, 669 A.2d at 912 (emphasis added). Thus, it was clear in Henderson that the claimant had retired given that the claimant was receiving a retirement pension and admitted that he was not looking for work.\nLikewise, in cases interpreting Henderson, it appears that the issue of whether a claimant was, in fact, retired has seldom, if ever, been fully litigated. However, an examination of these cases reveals that in each, the claimant\u2019s retirement was undisputed or that the totality of the circumstances supported a holding that the claimant had made the decision to retire. For instance, in Weis, it was \u201cundisputed Claimant retired and did not seek employment after retirement.\u201d Weis, 872 A.2d at 265. In Hepler v. Workers\u2019 Compensation Appeal Board (Penn Champ/Bissel, Inc.), 890 A.2d 1126 (Pa.Cmwlth.2006), the claimant disputed, before the WCJ, whether he was terminated by the employer or voluntarily retired. The WCJ determined that the claimant, who had accepted a disability pension from the employer, as well as a social security disability pension, retired and was not terminated. Id. at 1127. The WCJ based this decision on the testimony of the employer\u2019s inventory and warehouse manager, who testified that claimant voluntarily retired and was not terminated. Id. In addition, the claimant did not look for work despite having been released to work two years previously. Id. The WCJ determined, however, that because the claimant retired from his position due to his work injury, he was eligible for benefits. Id. at 1128. This Court affirmed the Board\u2019s reversal of the WCJ\u2019s determination, on the basis of Weis, because the claimant failed to show that his work-related injury forced him to retire from the entire workforce. Id. at 1130. Thus, this Court did not review the WCJ\u2019s determination that the claimant voluntarily retired.\nIn Hensal, the claimant suffered a work-related injury and began receiving workers\u2019 compensation benefits. Hensal, 948 A.2d at 908. Two years later the claimant sought a disability pension. Id. The employer then filed a modification petition and showed that work was available within the claimant\u2019s work restrictions. Id. As part of its modification petition, the employer had identified positions that were available to the claimant. Id. at 909. In his decision on the modification petition, the WCJ found that \u201cgeneral work was available to Claimant within his work restrictions, such as a parking lot attendant or assembler, and that Claimant could have been hired if he had been \u2018motivated to seek employment.\u2019 \u201d Id. (footnote omitted). Therefore, the WCJ reduced the claimant\u2019s benefits by the amount of the average weekly wage of the available positions. Id. at 908. Almost two years after the employer filed its modification petition, the claimant was still unemployed. Id. at 908 & n. 1. The totality of these circumstances shows that, aside from merely accepting a disability pension, the claimant exhibited the intent to forgo opportunities for employment in favor of receiving his pension and workers\u2019 compensation benefits.\nIn Mason v. Workers\u2019 Compensation Appeal Board (Joy Mining Machinery), 944 A.2d 827 (Pa.Cmwlth.2008), the case upon which this Court relied in Hensal, the employer had also provided claimant with vocational counseling and referred him to available suitable work within claimant\u2019s restrictions and abilities before a determination was made that claimant had retired. Id. at 829. After a right knee work injury, for which he originally received total disability benefits, the claimant\u2019s disability status fluctuated between partial, total, and suspended, based on various factors in the claimant\u2019s work and treatment history between August 1994 and July 2005. Id. at 828. Ultimately, the employer\u2019s physician cleared the claimant to return to medium-duty work. Id. However, the claimant wished to return to his prior position, which was not medium-duty work. . Id. The employer decided not to reinstate the claimant or offer him a modified-duty position. Id. The claimant applied for and received a disability pension from the employer and left employer\u2019s active-duty roster on July 31, 2005. Id. In May 2005, before he took his pension, the claimant met with a vocational rehabilitation counselor, Martin Bright (Bright), who referred the claimant to various positions that were available and suitable for the claimant\u2019s physical and vocational abilities. Id. at 829. On January 24, 2006, after the claimant took his disability pension, the employer filed a suspension petition alleging that the claimant had voluntarily removed himself from the workforce. Id. The claimant argued that the employer failed to show that suitable work was generally available. In rebuttal, the employer offered the following testimony:\nBright testified that he first notified [the cjlaimant about a position as an auto glass installer with Safelite Auto Glass (Safelite). Bright stated, though, that [the cjlaimant never appeared to interview for that position. Rather, in a subsequent feedback letter, [the cjlaim-ant told Bright that he did meet the manager of Safelite, was told that the business was out of applications, and that he should attempt to re-contact her. Bright stated that the manager confirmed this account, but added that [the cjlaimant never re-contacted her. The next position Bright located was as a residential cleaner with Cinderella\u2019s Cleaning Service (Cinderella\u2019s) but that [the cjlaimant was not hired because he gave Cinderella\u2019s manager the impression that he did not want the position because he talked at length about his disabilities and how it would not behoove him financially to return to work. Bright then found four more openings\u2014 an operator at a call center, a janitorial position and two telemarketing jobs\u2014 but [the cjlaimant either failed to submit an application to the employer or appear for the interviews. Bright testified that every job referral was within [the cjlaimant\u2019s vocation and physical capabilities, and that [the employer\u2019s medical expert] approved of each of them as being within [the cjlaimant\u2019s physical work restrictions.\nId. Significantly, the claimant, for his part, testified that \u201chis understanding ... was that if he were to work elsewhere, he would lose his pension.\u201d Id. at 829-30. This statement, along with the circumstances described above, shows that the claimant preferred his disability pension over work, justifying a determination that he had chosen to retire from the workforce. It is under the totality of these circumstances that this Court stated, \u201c[u]nder Henderson then, to overcome the presumption that he has left the workforce, a claimant who accepts a pension must establish that (1) he is seeking employment or (2) the work-related injury forced him to retire.\u201d Id. at 831. In this context, this statement may be read as referring not merely to the claimant\u2019s acceptance of a pension, but the claimant\u2019s evident preference for that pension over available work.\nBlack\u2019s Law Dictionary defines \u201cretirement\u201d as \u201c[germination of one\u2019s own employment or career, esp. upon reaching a certain age or for health reasons; retirement may be voluntary or involuntary.\u201d Black\u2019s Law Dictionary 1431 (9th ed.2009). In determining whether acceptance of a pension should create a presumption that a claimant has terminated her career, it is important to look at the facts involved and the type of pension. For example, there are both retirement pensions and disability pensions. There are also different types of disability pensions. Some, like the disability pension at issue, require only a showing that the recipient cannot perform her time-of-injury job. That a claimant is unable to perform the time-of-injury job due to a work-related injury is part of a claimant\u2019s burden of proof in order to receive workers\u2019 compensation benefits in the first place. Thus, accepting this type of disability pension by itself, would not, without more, indicate that the claimant has voluntarily left the entire workforce. Rather, it is merely an acknowledgement that the claimant cannot perform her time-of-injury job, which has already been determined through a claim petition or notice of compensation payable.\nThe Supreme Court has described the dual obligations that employers have under the Act as paying benefits and also assisting injured workers to return to the workforce. Landmark Constructors, Inc. v. Workers\u2019 Compensation Appeal Board (Costello), 560 Pa. 618, 626, 747 A.2d 850, 854 (2000). The injured workers have a reciprocal obligation to cooperate with that effort. As described by the Supreme Court:\nbecause of the Act\u2019s humanitarian objectives, an employer must do more than simply pay employees benefits for work-related injuries. In order to make the employee whole, the employer must try to reintroduce into the workforce those employees injured while pursuing the employer\u2019s interests.\nOur decision in Kachinski also recognized that the employer\u2019s obligation is not without limits. The Act places upon the employee a reciprocal obligation to make his or her best efforts to return to the workforce. Thus, employees must cooperate with employers\u2019 attempts to return them to the workforce by making themselves available for appropriate employment, whether with the employer or with a substitute employer.\nId. See also, Bufford v. Workers\u2019 Compensation Appeal Board (North American Telecom), - Pa.-, 2 A.3d 548 (2010) (holding that an employer must show job availability and a claimant\u2019s refusal to follow up on that job availability in order to defeat a reinstatement petition once the claimant has shown that his earning power is again adversely affected by his work-related injury, and stating that \u201cworkers should be encouraged to take opportunities to lawfully better their economic circumstances, not penalized for doing so\u201d). Of course, as the Supreme Court held in Henderson, an employer is not required to help a claimant find available work or prove the availability of that work if the claimant has indicated, by retiring from the workforce, a desire not to work. However, we cannot reheve an employer of its obligation to help a claimant reenter the workforce, by identifying the claimant\u2019s residual work abilities and finding available positions within those abilities, unless it is clear from the totality of the circumstances that such efforts would be unavailing. The Supreme Court has long stressed the importance and gravity of an employer\u2019s burden to show suitable work, stating that:\n[wjhere the injured person can handle only a specially-created job, one light of effort and responsibility but laden with rest and comfort (employment plums that do not often dangle from the tree of everyday economics) the burden is on the defendant-employer to show that such a job is in fact within reach.\nUnora v. Glen Alden Coal Co., 377 Pa. 7, 13, 104 A.2d 104, 107 (1954). In order to show that efforts to return a claimant to the workforce would be unavailing because a claimant has retired, an employer must show, by the totality of the circumstances, that the claimant has chosen not to return to the workforce. Circumstances that could support a holding that a claimant has retired include: (1) where there is no dispute that the claimant retired; (2) the claimant\u2019s acceptance of a retirement pension; or (3) the claimant\u2019s acceptance of a pension and refusal of suitable employment within her restrictions. To impose a lesser standard on an employer to show that a claimant has retired would not be consistent with the humanitarian purpose of the Act or our Supreme Court\u2019s precedent.\nIn this case, Employer did not provide sufficient evidence to show that, under the totality of the circumstances, Claimant intended to terminate her career. Claimant applied for, and received, a disability pension, which was conditioned on her inability to perform her time-of-injury position. Section 13(5) of the Act of May 22, 1935, P.L. 233, as amended, 53 P.S. \u00a7 23656(5). Claimant did not seek a disability pension that precluded her from working or an old-age pension. It is true that Claimant did not return to her modified-duty position after her car accident; however, this is because Employer no longer made the position available to her. (FOF \u00b622.) Claimant credibly testified that she looked for work after she received the Notice of Ability to Return to Work, which was followed shortly by the Suspension Petition. (FOF \u00b6\u00b6 17-18.) Claimant looked for work despite being unclear as to her abilities or restrictions resulting from her work-related injuries, (FOF \u00b6 18), and despite the fact that Employer never offered her a position or identified available positions within her abilities or restrictions. These circumstances provide no evidence that Claimant intended to terminate her employment or her career. Indeed, to the contrary, the WCJ specifically found as fact that Claimant would be working if Employer had not eliminated Claimant\u2019s modified-duty position. (FOF \u00b6 16.) Therefore, Employer failed to carry its burden under Henderson to show that Claimant had retired. Because Employer failed to show that Claimant was retired, pursuant to Kachinski and Section 306(b)(2) of the Act, we agree with the Board that Employer needed to show the availability of suitable work within Claimant\u2019s restrictions and abilities to sustain its burden on the Suspension Petition. South Hills, 806 A.2d at 966.\nFor these reasons, we affirm the order of the Board.\nJudge McGINLEY concurs in the result only.\nORDER\nNOW, September 22, 2010, the order of the Workers\u2019 Compensation Appeal Board in the above-captioned matter is hereby AFFIRMED.\n. \"This Court\u2019s scope and standard of review of an order of the Board is limited to determining whether the necessary findings of fact are supported by substantial evidence, whether Board procedures were violated, whether constitutional rights were violated or an error of law was committed.\u201d Graves v. Workers\u2019 Compensation Appeal Board (Philadelphia Housing Authority), 983 A.2d 241, 244 n.6 (Pa.Cmwlth.2009). \"Substantial evidence is such relevant evidence a reasonable person might find sufficient to support the WCJ\u2019s findings.\u201d Rosenberg v. Workers' Compensation Appeal Board (Pike County), 942 A.2d 245, 249 n. 4 (Pa.Cmwlth.2008).\n. Act of June 2, 1915, P.L. 736, as amended, 77P.S. \u00a7 512(2).\n. For example, an employee of a city of the second class (i.e., Pittsburgh) in this Commonwealth is entitled to a disability pension if the employee \"is in a permanent condition of health which would totally disable him or her from performing the duties of his or her position or office.\u201d Section 4(a) of the Act of May 28, 1915, P.L. 596, as amended, 53 P.S. \u00a7 23564(a) (emphasis added). Such benefits can, however, be discontinued in the event the employee's condition improves and the employee is no longer incapacitated. Id.\n. Due to our holding that Employer failed to show that Claimant retired, we do not reach the issues of whether the Board erred in determining that Claimant sought employment in good faith following her retirement or was forced out of the entire workforce by her work-related injury.",
+        "type": "majority",
+        "author": "Judge COHN JUBELIRER."
+      },
+      {
+        "text": "DISSENTING OPINION BY\nJudge PELLEGRINI.\nI respectfully dissent because I disagree with the majority that there was insufficient evidence to support a finding that Dorothy Robinson (Claimant) met her burden of showing that she remained attached to the workforce once she retired.\nClaimant suffered a work-related injury to her neck and right shoulder in 1997 by catching a heavy drawer while working for the City of Pittsburgh (Employer) as a police officer. Claimant went on light-duty in one of Employer\u2019s transitional-duty programs. On October 15, 2001, she was in a car accident while on her way for treatment for her work injuries and sustained injuries, among others, again to her neck and right shoulder. Employer issued a notice of temporary compensation payable dated December 18, 2001, which was converted to a notice of compensation payable. Claimant never returned to work for Employer. In 2003, Employer discontinued its transitional-duty program under which Claimant had been working light-duty, and in 2004, Claimant requested and received a disability pension from Employer.\nIn October 2007, an IME was performed on Claimant on Employer\u2019s behalf by orthopedic surgeon Victor Thomas, M.D. Dr. Thomas found that Claimant suffered from some cervical and lumbar degenerative disc disease but that Claimant was capable of light-duty, modified work. As a result, Employer sent Claimant a notice of ability to return to work on November 8, 2007, and then filed a suspension petition arguing that Claimant voluntarily withdrew from the workforce because she failed to look for suitable work within her restrictions after retiring from the work force.\nAt the hearing before the WCJ, Claimant testified that since the car accident in 2001, she never returned to work for Employer because she was never released by her physicians to go back to work and Employer never offered her any work that was light-duty. Claimant stated that she obtained her pension in 2004 and since that time she had not applied for a job. She acknowledged that after receiving the notice of ability to return to work from Employer, she went one time to a neighborhood employment center on Penn Avenue to look for work but never went back. She also looked through the newspaper for jobs, but she did not apply for any of the jobs.\nThe WCJ found that Claimant had not voluntarily removed herself from the workforce and remained attached to the labor market. The WCJ relied on the fact that Employer abolished the modified-duty program which she had been performing for Employer and that Claimant had been seeking employment. Further, Employer had not offered Claimant any light-duty work and did not provide Claimant with any vocational rehabilitation services. The Board affirmed.\nThe majority holds that although Claimant voluntarily retired, she remained tied to the job market, even though she made no effort because she was unaware of what work that she could perform. In effect, what the majority is holding is that a claimant\u2019s duty to seek work begins to ran from the time the claimant is informed by the employer that her physical condition does not preclude her from seeking appropriate work. I disagree because a claimant has the obligation from the date of retirement to seek employment or obtain medical evidence that he or she was medically unable to be employed.\nIn Pennsylvania State University v. Workers\u2019 Compensation Appeal Board (Hensal), 948 A.2d 907, 910-11 (Pa. Cmwlth.2008), we stated:\nWhere, as here, a claimant accepts a pension, our Supreme Court, in Southeastern Pennsylvania Transit [Transportation ] Authority v. Workmen\u2019s Compensation Appeal Board (Henderson), 543 Pa. 74, 669 A.2d 911 (1995), held that the claimant is presumed to have left the workforce entitling an employer to a suspension of benefits unless he establishes that (1) he is seeking employment or (2) the work-related injury forced him to retire. Because Claimant does not contend that his work injury forced him to retire, the only question is whether Claimant sustained his burden of showing that he was actively seeking employment.\nTo show that he was actively seeking employment, Claimant had to show that he engaged in a good-faith job search. Mason v. Workers\u2019 Compensation Appeal Board (Joy Mining Machinery and AIG Claim Services), 944 A.2d 827 (Pa. Cmwlth.2008). The duty of \u201cgood-faith\u201d has been defined as \u201c[hjonesty in fact in the conduct or transaction concerned.\u201d Somers v. Somers, 418 Pa.Super. 131, 613 A.2d 1211, 1213 (1992). To show \u201cgood-faith\u201d then, a claimant has to show that he has honestly undertaken efforts where an employer knows that he is seeking employment.\nUnder this standard, a claimant always has the burden to show that the workforce injury forced him or her not to seek employment \u2014 that burden is never placed on employer.\nIn this case, once Claimant left her light-duty job \u2014 which, in itself, should have informed her that she could work and what type of work she could perform\u2014 there was no \u201cbrief lapse of time\u201d in which she had to look for a job. Claimant had, at a minimum, three years to look for a job from the time she retired. In fact, Claimant\u2019s testimony before the WCJ reveals that she was not interested in looking for work since she received her pension:\nQ. Even though a doctor may not have told you through the last six or seven years that you were released to go to work, you still haven\u2019t gone to look for work on your own in some capacity where you think you could work; is that right?\nA. That\u2019s correct, I haven\u2019t.\n(Reproduced Record at 72a.) She also admitted that the only reason she went to the job center was because she received Employer\u2019s petition. This is not the good faith search required.\nBecause Hensal placed the burden on Claimant to pursue a job hunt once she retired unless she established before the WCJ that her medical condition prevented her from seeking work, I would reverse the Board.\nPresident Judge LEADBETTER joins in this dissenting opinion.\n. A disability pension is awarded to Pittsburgh police officers if the work-related injury \"disables him or her from performing the duties of his or her position or office.\" Section 4 of the Second Class City Code, Act of May 28, 1915, P.L. 596, as amended, 53 P.S. \u00a7 23564(a).",
+        "type": "dissent",
+        "author": "Judge PELLEGRINI."
+      },
+      {
+        "text": "DISSENTING OPINION BY\nJudge LEAVITT.\nI admire the majority\u2019s effort to address a difficult case in a fair and reasonable way. However, the proffered solution is unnecessarily complex and, accordingly, I respectfully dissent. I believe there should be one legal standard for determining continued eligibility for workers\u2019 compensation where the claimant chooses to collect a pension, regardless of whether it is a retirement or a disability pension.\nIn 2004, Claimant chose to begin receiving a disability pension, thereby separating herself from employment with the City of Pittsburgh. She had other choices when her light duty job ended. Claimant could have applied for Heart and Lung benefits, which requires only that the injured employee not be able to do her pre-injury job. Choosing these benefits would not require a separation from employment. Likewise, Claimant could have opted to return to total workers\u2019 compensation disability, which also does not require a separation from employment with the City. Instead, Claimant chose a disability pension, which is available to all employees regardless of whether the disability is work-related. This is a \u201cvoluntary retirement.\u201d\nIt is axiomatic that an employer seeking to suspend workers\u2019 compensation benefits must present evidence of available jobs that are within the claimant\u2019s work restrictions, either through job referrals or a labor market survey. Kachinski v. Workmen\u2019s Compensation Appeal Board (Vepco Construction Co.), 516 Pa. 240, 252, 532 A.2d 374, 380 (1987); Readinger v. Workers\u2019 Compensation Appeal Board (Epler Masonry), 855 A.2d 952, 955-956 (Pa. Cmwlth.2004). Where, however, the claimant has voluntarily retired, the employer does not bear this burden. There is a presumption that the claimant on a retirement pension no longer intends to remain in the workplace. To rebut this presumption, the claimant must prove that her work injury has made it impossible to do any job or that she has been looking for work, thereby demonstrating an intention to remain attached to the workforce. County of Allegheny (Department of Public Works) v. Workers\u2019 Compensation Appeal Board (Weis), 872 A.2d 263, 265 (Pa. Cmwlth.2005).\nThe majority correctly points out that in most retirement cases, the question of whether the claimant\u2019s retirement was voluntary has not been litigated and, thus, no principles have heretofore been established. The majority suggests that the Court fill that void with a hybrid burden of proof, combining principles from Kachin-ski-type job availability cases and Weis retirement cases. Under the majority\u2019s proffered \u201ctotality of the circumstances\u201d test to determine whether the pension was taken voluntarily, the employer must demonstrate both job availability and acceptance of the disability pension to prove that the claimant has voluntarily left the workforce. Quite simply, job availability is not relevant in pension cases.\nJob availability is pertinent where a claimant is out of work because of a work injury; has not separated from employment; and is receiving workers\u2019 compensation benefits. In such a case, the employer seeking to suspend or modify the claimant\u2019s compensation must prove the claimant has earning power by proof of available employment. Otherwise, total disability benefits continue.\nA pension involves a different type of situation because the claimant who elects the pension separates from employment. Disability pensions are not limited to disability caused by a work injury, and earning power does not change the claimant\u2019s initial entitlement to receive the pension. Indeed, eligibility for a disability pension is easier to establish in that the employee must show only an inability to do her pre-injury job, as opposed to being unable to do any job.\nWhere an employer seeks to suspend benefits because the claimant is on a pension, the correct and clearer course is that she should be presumed to have voluntarily left the labor market. Southeastern Pennsylvania Transportation Authority v. Workmen\u2019s Compensation Appeal Board (Henderson), 543 Pa. 74, 79, 669 A.2d 911, 913 (1995) (\u201cAn employer should not be required to show that a claimant has no intention of continuing to work; such a burden of proof would be prohibitive.\u201d). This presumption should apply to any pension case, retirement or disability, and it is not onerous to rebut the presumption. The claimant need only show that she has continued to look for work after choosing the pension. The claimant\u2019s other option is to show by medical evidence that she has been forced out of the entire labor market. In sum, the burden of proof established by the courts for claimants on a retirement pension should apply with equal force to those on a disability pension.\nHere, Claimant did not present any medical evidence that she was forced out of the entire labor market. Further, although Claimant looked for work after receiving the Notice of Ability to Return to Work in November 2007, the fact remains that she had retired in 2004 and did not look for work at all in the three years between her retirement and receiving the Notice. This evidence does not prove a good-faith effort to remain attached to the labor market by seeking employment. Claimant failed to meet her burden of proof, and her benefits should be suspended.\nAccordingly, I would reverse the Board\u2019s decision.\nPresident Judge LEADBETTER joins in this dissenting opinion.\n. Although not overtly expressed, the majority seems to suggest that retirement pensions are permanent and disability pensions are not. In fact, people may come out of retirement and lose their right to continued pension benefits. Neither type of pension is permanent.\n. The evidence in this case is confusing. It is not clear why Employer sent Claimant for an independent medical examination and sent her a Notice of Ability to Return to Work, rather than filing a suspension petition when Claimant took the pension. Job availability is, however, not relevant in a pension case.",
+        "type": "dissent",
+        "author": "Judge LEAVITT."
+      }
+    ],
+    "attorneys": [
+      "Bradley R. Andreen, Pittsburgh, for petitioners.",
+      "Lawrence R. Chaban, Pittsburgh, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "CITY OF PITTSBURGH and UPMC Benefit Management Services, Inc., Petitioners, v. WORKERS\u2019 COMPENSATION APPEAL BOARD (ROBINSON), Respondent.\nCommonwealth Court of Pennsylvania.\nArgued April 21, 2010.\nDecided Sept. 22, 2010.\nBradley R. Andreen, Pittsburgh, for petitioners.\nLawrence R. Chaban, Pittsburgh, for respondent.\nBEFORE: LEADBETTER, President Judge, and McGINLEY, Judge, PELLEGRINI, Judge, COHN JUBELIRER, Judge, LEAVITT, Judge, BROBSON, Judge, and McCULLOUGH, Judge."
+  },
+  "file_name": "1130-01",
+  "first_page_order": 1192,
+  "last_page_order": 1204
+}

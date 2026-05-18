@@ -1,0 +1,427 @@
+{
+  "id": 7286773,
+  "name": "STATE of Maine v. John C. THOMAS Sr.",
+  "name_abbreviation": "State v. Thomas",
+  "decision_date": "2010-11-09",
+  "docket_number": "",
+  "first_page": "638",
+  "last_page": "646",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 638"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 116"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "662 A.2d 227",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7861765
+      ],
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/662/0227-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 19",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9369256
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 10, 11"
+        },
+        {
+          "page": "830"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/816/0826-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 842",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8080929
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "846"
+        },
+        {
+          "page": "846-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/285/0842-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 114",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1531927
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "124-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0114-01"
+      ]
+    },
+    {
+      "cite": "405 A.2d 149",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8046316
+      ],
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/405/0149-01"
+      ]
+    },
+    {
+      "cite": "1999 ME 126",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11570813
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/737/0554-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 35",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7286548
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 13"
+        },
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/993/0014-01"
+      ]
+    },
+    {
+      "cite": "66 L.Ed.2d 45",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 S.Ct. 115",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 U.S. 839",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11735042,
+        11734754,
+        11734980,
+        11734408,
+        11734521,
+        11734835,
+        11734900,
+        11734582,
+        11734454,
+        11734681
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0839-10",
+        "/us/449/0839-06",
+        "/us/449/0839-09",
+        "/us/449/0839-01",
+        "/us/449/0839-03",
+        "/us/449/0839-07",
+        "/us/449/0839-08",
+        "/us/449/0839-04",
+        "/us/449/0839-02",
+        "/us/449/0839-05"
+      ]
+    },
+    {
+      "cite": "607 P.2d 1279",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Cal.Rptr. 255",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Cal.3d 654",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2263737
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/26/0654-01"
+      ]
+    },
+    {
+      "cite": "603 A.2d 869",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939696
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "871"
+        },
+        {
+          "page": "871"
+        },
+        {
+          "page": "870-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/603/0869-01"
+      ]
+    },
+    {
+      "cite": "1997 ME 183",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        12013366
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "1056"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/698/1053-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 145",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8205359
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 35"
+        },
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/0110-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 71",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7287159
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 15"
+        },
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/1/0445-01"
+      ]
+    },
+    {
+      "cite": "16 U.S.C.S. \u00a7 1856",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)(3)(A)"
+        },
+        {
+          "page": "(a)(3)"
+        },
+        {
+          "page": "(a)(3)(A)",
+          "parenthetical": "LexisNexis 1999"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 U.S.C.S. \u00a7 1801",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 U.S.C.S. \u00a7\u00a7 1801-1884",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "LexisNexis 1999 & Supp.2010"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 U.S.C.S. \u00a7 1802",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(11)",
+          "parenthetical": "LexisNexis 1999"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 977,
+    "char_count": 22893,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 8.909147067643299e-08,
+      "percentile": 0.5002115953478369
+    },
+    "sha256": "088eb5593278739e3330b0688d2e3f4294d4f3683b5288cc4c3217f198c60740",
+    "simhash": "1:9d37fd76fdad5d24",
+    "word_count": 3816
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. John C. THOMAS Sr."
+    ],
+    "opinions": [
+      {
+        "text": "MEAD, J.\n[\u00b6 1] John C. Thomas Sr. appeals from a judgment of conviction entered by the Superior Court (Knox County, Hjelm, J.) following his conditional nolo contendere plea to possession of oversize lobsters (Class D), 12 M.R.S. \u00a7 6431(1) (2007), and to taking of lobsters by unconventional method (Class D), 12 M.R.S. \u00a7 6482(1) (2007). Thomas argues that: the court erred in denying his motion to suppress because the State did not have jurisdiction to enforce its lobster laws against him outside Maine\u2019s three-nautical-mile territorial waters; the State should have prosecuted him under 12 M.R.S. \u00a7 6952-A (2007) instead of section 6432, which has a different penalty provision; and he was entitled to use the immediate liberation defense. We affirm the judgment of conviction.\nI. BACKGROUND\n[\u00b6 2] John C. Thomas Sr. was the captain of the \u201cF/V Blue Water III,\u201d a trawler with a Maine port of hail that carried a Federal Certificate of Documentation, a Northeast Federal Fishing Permit, and a Maine Commercial Fishing with Crew license. David Osier, who had a mailing address in South Bristol, owned the Blue Water and applied for the Maine license. The Blue Water regularly fished in federal waters.\n[\u00b63] On July 12, 2007, several Maine marine patrol officers located the Blue Water approximately thirty-five miles from Matinicus Island. On that day, the Blue Water was rigged for groundfishing. Thomas and the marine patrol officers were familiar with each other, and Thomas was unhappy that the officers had arrived at his boat. The officers asked to board the Blue Water, and Thomas initially refused them permission because he was fishing in federal waters beyond what he perceived to be their law enforcement jurisdiction. When the officers invoked their federal authority, Thomas allowed them to board, believing that he would be \u201ctaken into custody immediately\u201d if he refused a federal inspection.\n[\u00b6 4] Once aboard the Blue Water, the officers examined plastic totes on the deck of the Blue Water and found seventy-eight lobsters; twenty-four of the lobsters were oversize. A number of them were banded in the totes. Maine law establishes a maximum length for lobsters that may be kept. 12 M.R.S. \u00a7 6431(1). Maine law also prohibits taking lobsters by any method other than conventional lobster traps. 12 M.R.S. \u00a7 6432(1). Thomas was charged with violating both statutes.\n[\u00b6 5] Thomas filed a motion to suppress the evidence seized by the officers on the grounds that the boarding and searching of the Blue Water were illegal. Thomas argued that the State officers had no legal justification to stop and search the Blue Water, and they were only able to board because they invoked their concurrent authority to enforce federal law.\n[\u00b6 6] The Blue Water was in the federal exclusive economic zone (EEZ) at the time of the search. The EEZ extends two hundred nautical miles from where the territorial sea is measured, and \u201cthe inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.\u201d 16 U.S.C.S. \u00a7 1802(11) (LexisNexis 1999); see also Proclamation No. 5030, 48 Fed.Reg. 10,605 (Mar. 14, 1983).\n[\u00b67] The Magnuson-Stevens Fishery Conservation and Management Act, 16 U.S.C.S. \u00a7\u00a7 1801-1884 (LexisNexis 1999 & Supp.2010), applies in the EEZ. Originally enacted in 1976, the Act aims to \u201cpromote domestic commercial and recreational fishing under sound conservation and management principles\u201d and \u201cto provide for the preparation and implementation ... of fishery management plans which will achieve and maintain, on a continuing basis, the optimum yield from each fishery.\u201d 16 U.S.C.S. \u00a7 1801(b)(3), (4). Although Maine\u2019s territorial waters extend only three nautical miles from the coast, 12 M.R.S. \u00a7 600K48-B) (2009), the Magnu-son-Stevens Act allows a state to regulate a fishing vessel outside the boundaries of that state when that vessel is registered under the law of that state, and there is no conflict with federal law. 16 U.S.C.S. \u00a7 1856(a)(3)(A). The Magnuson-Stevens Act does not define what it means to be \u201cregistered\u201d in a particular state.\n[\u00b6 8] The definition of \u201cregistered vessel\u201d is expansive in Maine marine resources law. The court found that the Blue Water was registered under the laws of Maine pursuant to at least three of the statutory criteria. First, the Blue Water is \u201cused to bring a marine organism into the State or its territorial waters\u201d pursuant to paragraph (B), because the Blue Water has landed its catch in Portland. Second, the Blue Water\u2019s port of hail is South Bristol, and the Federal Certificate of Documentation cites Medomak as the vessel\u2019s hailing port, so the Blue Water is within paragraph (D). Third, the Blue Water has \u201can established base of operations\u201d in Maine pursuant to paragraph (F), because its owner was a South Bristol entity or individual, its hailing port was in Maine, and a Maine resident applied for and received a Maine state license for the Blue Water.\n[\u00b6 9] The court denied Thomas\u2019s motion to suppress, finding that the officers had an independent legal basis to search the Blue Water, because Maine law requires a person licensed under the marine resource laws \u201cto submit to inspection and search for violations related to the licensed activities by a marine patrol officer.\u201d 12 M.R.S. \u00a7 6306(1) (2007). The court held that section 6306 applied to the Blue Water in the EEZ because the Blue Water was a vessel registered under the laws of Maine. See 16 U.S.C.S. \u00a7 1856(a)(3). Therefore, neither Thomas\u2019s consent nor probable cause was necessary to allow the search.\n[\u00b6 10] Thomas filed a motion for reconsideration on the basis that there was no articulable suspicion that he had violated any marine resources statute, so, pursuant to 12 M.R.S. \u00a7 6025(4) (2009), the marine patrol officers illegally searched the Blue Water without a warrant. The court denied this motion and reiterated that the basis for the denial of the motion to suppress was section 6306, which provides an independent basis for searching a vessel licensed under Maine\u2019s marine resources laws. The court sentenced Thomas to a $7850 fine on the charge of taking lobsters by unconventional means and a $1125 fine on the charge of possession of oversize lobsters; payment of the fines was suspended pending this appeal.\n[\u00b6 11] On appeal, Thomas argues that the court erred in denying his motion to \u2022suppress, the State should have prosecuted him under section 6952-A instead of section 6432, and he was entitled to use the defense of immediate liberation.\nII. DISCUSSION\nA. Thomas\u2019s Motion to Suppress\n[\u00b6 12] In reviewing the denial of a motion to suppress, we review the court\u2019s factual findings for clear error and its legal conclusions de novo. State v. Nadeau, 2010 ME 71, \u00b6 15, 1 A.3d 445, 453. Thomas challenges the court\u2019s finding on the ownership of the Blue Water, as well as the validity of Maine\u2019s \u201cregistered vessel\u201d definition and the constitutionality of the jurisdiction it permits.\n1. Ownership of the Blue Water\n[\u00b6 13] Thomas contends that the Blue Water was not subject to search pursuant to section 6306\u2019s implied consent provision, because Osier was not the actual owner of the Blue Water. If section 6306 did not apply, section 6025(4), which requires probable cause to justify a search, would apply instead.\n[\u00b6 14] The court relied on Thomas\u2019s testimony that Osier owned the Blue Water. Although Thomas\u2019s counsel now alleges this testimony was mistaken, there is nothing in the record that establishes such a mistake. The court was entitled to accept Thomas\u2019s testimony whether or not the record contained evidence to the contrary. For clear error review, we will not disturb the court\u2019s factual findings if they are \u201csupported by competent evidence in the record.\u201d Efstathiou v. Aspinquid, Inc., 2008 ME 145, \u00b6 35, 956 A.2d 110, 121. As the court did not err in finding that Osier owned the Blue Water and held a Maine license, the vessel was properly subject to inspection under section 6306.\n2. Maine\u2019s Definition of \u201cRegistered Vessel\u201d\n[\u00b6 15] Thomas argues that Maine\u2019s definition of \u201cregistered vessel\u201d in section 6001(36) is impermissibly broad when used as a basis for state jurisdiction in the EEZ. 12 M.R.S. \u00a7 6001(36) (2009). He asserts that the definition of \u201cregistered vessel\u201d should be construed narrowly so that Maine would not be able to exert jurisdiction over the Blue Water in the EEZ pursuant to \u00a7 1856(a)(3) of the Mag-nuson-Stevens Act.\n[\u00b6 16] The Magnuson-Stevens Act allows a state to enact more restrictive marine resource laws to be enforced in the EEZ against vessels registered in that state. See Daley v. Comm\u2019r, Dep\u2019t of Marine Res., 1997 ME 183, \u00b6 6, 698 A.2d 1053, 1056 (\u201c[T]he federal lobster management plan contains no limit on the number of traps that may be fished, authorizes concurrent state jurisdiction, and expressly allows the enforcement of more restrictive state law requirements.\u201d (footnote omitted)); State v. Hayes, 603 A.2d 869, 871 (Me.1992) (\u201cHere, Congress has authorized enforcement of more restrictive state fishing laws within the EEZ.\u201d).\n[\u00b6 17] Thomas warns that section 6001(36) allows Maine to exercise jurisdiction over almost any vessel fishing in the EEZ off the Maine coast even when such vessels have remote or tenuous connections to the state. Even if such policy arguments had a place in judicial reviews, Thomas\u2019s arguments are not supported by this record. Because it is clear the Blue Water was a Maine \u201cregistered vessel\u201d under at least three of the six options listed in section 6001(36), the Blue Water\u2019s connection to Maine is neither remote nor tenuous.\n[\u00b6 18] When Congress enacted the Magnuson-Stevens Act, it did not enumerate specific requirements for making the exercise of state jurisdiction in the EEZ lawful. Instead, the language of \u00a7 1856(a) allows individual states to determine which fishing vessels are \u201cregistered.\u201d See People v. Weeren, 26 Cal.3d 654, 163 Cal.Rptr. 255, 607 P.2d 1279, 1287, cert. denied, 449 U.S. 839, 101 S.Ct. 115, 66 L.Ed.2d 45 (1980). Section 6001(36), which allows for broader enforcement of Maine\u2019s marine resource laws, serves important conservation goals and does not conflict with the Mag-nuson-Stevens Act.\n[\u00b6 19] Thomas also argues that Maine\u2019s enforcement of its marine resource laws in the EEZ results in discrimination in enforcement against Maine citizens in violation of the Equal Protection Clause. Thomas \u201cbears a heavy burden of proving unconstitutionality since all acts of the Legislature are presumed constitutional,\u201d and we review whether he has met that burden de novo. State v. Gilman, 2010 ME 35, \u00b6 13, 993 A.2d 14, 19 (quotation marks omitted).\n[\u00b620] We have previously addressed constitutional challenges to the State\u2019s exercise of jurisdiction in the EEZ. Hayes, 603 A.2d at 871. The State\u2019s enforcement of its marine resource laws against only Maine registered vessels does not violate equal protection, because this limitation on jurisdiction reflects a delineation of the outer bounds of Maine\u2019s sovereignty rather than the creation of a suspect classification. See id. The fact that the Maine Legislature has elected to enact strict marine resource protection laws that it can enforce only against Maine-registered vessels in the EEZ is an issue of legislative policy and prerogative, which is beyond the authority of the court to review.\nB. Prosecution Under 12 M.R.S. \u00a7 6432 (2007)\n[\u00b6 21] Thomas argues that he should have been prosecuted under section 6952-A, \u201cTrawling, seining or netting for lobster,\u201d instead of section 6432, \u201cMethods of fishing.\u201d We will review the issue of whether the same conduct may violate more than one statute de novo as a matter of statutory interpretation. See State v. Raymond, 1999 ME 126, \u00b6 6, 737 A.2d 554, 555.\n[\u00b6 22] Although both section 6432 and section 6952-A provide for the same punishment now, in 2007, section 6952-A did not have a penalty section, so the penalty was dictated by 12 M.R.S. \u00a7 6204 (2009). Specifically, section 6952-A did not have the per-lobster fine that was available for violations of section 6432. Section 6952-A also has a defense available for the immediate release into coastal waters.\n[\u00b6 23] Generally, a prosecutor has discretion in deciding which offense to charge when the same conduct gives rise to more than one offense, absent a plain, contrary legislative intent. See 17-A M.R.S. \u00a7 13 (2009); State v. Jones, 405 A.2d 149, 152 (Me.1979). The available penalties may influence the prosecutor\u2019s decision, and this fact alone does not amount to a constitutional violation. United States v. Batchelder, 442 U.S. 114, 124-25, 99 S.Ct. 2198, 60 L.Ed.2d 755 (1979).\n[\u00b624] On an appeal from a conviction for an older version of the statute, we held that \u201csweeping [lobsters] in as an incident of trawling for other fish and failing to liberate them alive ... is squarely within the hard core of conduct which it is the primary legitimate concern of the statute to prohibit, thereby effectively to achieve the State\u2019s lobster conservation purposes.\u201d State v. Richardson, 285 A.2d 842, 846 (Me.1972). Thomas\u2019s conduct is within both the letter and spirit of sections 6432 and 6952-A.\n[\u00b6 25] Thomas argues that section 6432, if applicable to his conduct, would create legal problems for nearly all groundflsh trawlers due to the possibility of incidental take of lobsters with their legal catch. In Thomas\u2019s case the violation was clear: the lobsters were in storage in totes, and some were already banded. His possession of the lobsters was hardly momentary or simply incidental to hauling back the trawl. Thus we need not reach the specter he raises of criminal liability attaching for the momentary and de min-imis possession of lobsters incidentally snared in trawling nets.\nC. Immediate Liberation Defense\n[\u00b6 26] Thomas argues that he could not be guilty of possession of oversize lobsters until he failed to comply with the exception for immediate liberation in section 6431(5). This is an exception to liability for those who \u201cimmediately liberate[ ]\u201d illegal lobsters \u201calive into the coastal waters when taken.\u201d 12 M.R.S. \u00a7 6431(5) (2007).\n[\u00b6 27] We review factual findings for clear error and the application of the law to those facts de novo. See State v. Reynoso-Hernandez, 2003 ME 19, \u00b6\u00b6 10, 11, 816 A.2d 826, 830.\n[\u00b6 28] Because the parties stipulated that at least some of the lobsters were banded and in storage in totes, the trial court found that Thomas did not free the lobsters as soon as he found them in the Blue Water\u2019s catch and concluded that the defense of immediate liberation did not apply. In the context of the statute\u2019s conservation purpose, see Richardson, 285 A.2d at 846-47, we agree and note that the statutory exception is narrowly designed to allow for incidental catch while fishing as long as the lobsters are immediately released alive.\n[\u00b6 29] Thomas argues that \u201ccoastal waters,\u201d as used in section 6431(5), means within three miles of the coast, so he could not have violated the prohibition on oversize lobsters until he entered this area and then failed to immediately liberate the illegal lobsters alive. \u201cCoastal waters\u201d is defined as extending \u201cout to the limits of the exclusive economic zone.\u201d 12 M.R.S. \u00a7 6001(6) (2009). We do not find, as Thomas suggests, that this refers to the inner limit of the EEZ where the EEZ meets Maine\u2019s territorial waters. The plain language of the statute clearly refers to the outer limit of the EEZ. Further, the marine resources laws define \u201cterritorial waters\u201d as those waters \u201cseaward to the 3-nautical-mile line.\u201d 12 M.R.S. \u00a7 6001(48-B). We will not interpret \u201ccoastal waters\u201d to obliterate the distinction between these two terms. See Nasberg v. City of Augusta, 662 A.2d 227, 229 (Me.1995).\nIII. CONCLUSION\n[\u00b6 30] In summary, we uphold the constitutionality of the search of the Blue Water pursuant to section 6306; because the Blue Water was a vessel registered under the laws of Maine at the time of the search, the State validly exercised jurisdiction over it in the EEZ pursuant to the Magnuson-Stevens Act. Further, the State could choose whether to prosecute Thomas under section 6432 or section 6952-A, and the court did not err in holding that the immediate liberation defense requires a person who inadvertently catches lobsters while trawling to release the lobsters immediately.\nThe entry is:\nJudgment affirmed.\n. The relevant statute provides:\n1. Minimum and maximum length. A person may not buy, sell, give away, transport, ship or possess any lobster that is less than the minimum size established in this subsection or more than 5 inches in length, as determined by the state double gauge lobster measure. Except as provided in subsection 1-A, the minimum lobster size is 3 8/32 inches.\n5. Exception for immediate liberation. No violation of this section shall occur if the illegal lobster is immediately liberated alive into the coastal waters when taken.\n7. Penalty. Possession of lobsters in violation of this section is a Class D crime, except that the court shall impose a fine of $50 for each violation and, in addition, a fine of $25 for each lobster involved, up to and including the first 5, and a fine of $50 for each lobster in excess of 5, or, if the number of lobsters cannot be determined, a fine of not more than $2,000.\n12 M.R.S. \u00a7 6431(1), (5), (7) (2007). The penalty section of this statute was amended in 2009. See P.L.2009, ch. 394, \u00a7 6 (effective Sept. 12, 2009).\n.The relevant statute provides:\n1. Conventional traps. A person may not fish for or take lobster by any method other than conventional lobster traps, as defined in rule, or from any platform other than a vessel. A vessel does not include a dock.\n5. Penalty for possession. Possession of lobsters other than caught by the method specified in subsection 1 is a Class D crime, except that in addition to any punishment that may be imposed under Title 17-A, Part 3, the court shall impose a fine of $50 for each violation and, in addition, a fine of $100 for each lobster involved.\n12 M.R.S. \u00a7 6432(1), (5) (2007) (footnote omitted). The penalty section of this statute was amended in 2009. See P.L.2009, ch. 394, \u00a7 9 (effective Sept. 12, 2009).\n. The relevant statute provides:\n1. Trawling, seining or netting for lobsters prohibited. A person may not:\nA. Fish for or take lobsters by use of an otter or beam trawl, a scallop drag or trawl, seine or net; or\nB. Possess any lobsters, regardless of their source, on board any boat rigged for otter or beam trawling, scallop dragging or trawling, seining or netting.\n2. Exception; liberated alive. A person does not violate this section if the lobster is immediately liberated alive in the coastal waters.\n12 M.R.S. \u00a7 6952-A(l), (2) (2007). This section was amended to include a penalty section in 2009. See P.L.2009, ch. 394, \u00a7 14 (effective Sept. 12, 2009).\n. Thomas testified, and the court found, that David Osier was the owner of the vessel, despite the fact that the federal documentation refers to a corporate owner.\n. Maine marine patrol officers are authorized by the federal government to exercise federal enforcement authority in federal waters.\n. Thomas also filed a motion to dismiss, arguing that the evidence was insufficient to establish his guilt, but the court declined to rule in advance of trial on the sufficiency of the State's evidence and denied this motion. Thomas did not appeal this ruling.\n. The relevant statute provides:\n(3) A State may regulate a fishing vessel outside the boundaries of the State in the following circumstances:\n(A) The fishing vessel is registered under the law of that State, and (i) there is no fishery management plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State\u2019s laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.\n16 U.S.C.S. \u00a7 1856(a)(3)(A) (LexisNexis 1999).\n.\"Registered vessel\u201d means:\nA. A vessel that is owned or operated by a person licensed under this Part;\nB. A vessel that is used to bring a marine organism into the State or its territorial waters;\nC. A vessel that is registered or has been issued a certificate of number under chapter 935;\nD. A vessel documented in accordance with 46 United States Code, Chapter 121 that has designated a Maine port of hail;\nE. A vessel that has been issued a certificate of number by the United States Coast Guard under 46 United States Code, Chapter 123 that has identified Maine as the state of principal use; or\nF. A vessel that has an established base of operations within this State.\n12 M.R.S. \u00a7 6001(36) (2009) (footnotes omitted).\n. Section 6306(1) has been amended to include aquaculture leases as well as licenses. See P.L.2009, ch. 229, \u00a7 14 (effective Sept. 12, 2009).\n. The relevant statute provides:\n4. Search powers. Any marine patrol officer, in uniform, may search without a warrant and examine any watercraft, aircraft, conveyance, vehicle, box, bag, locker, trap, crate or other receptacle or container for any marine organism when he has probable cause to believe that any marine organism taken, possessed or transported contrary to law is concealed thereon or therein.\n12 M.R.S. \u00a7 6025(4) (2009).\n. Although we have previously upheld convictions for defendants charged with possession of lobsters taken by unconventional method when the vessel was a \"registered vessel\" pursuant to section 6001(36)(A), in that case, the defendants did not challenge the validity of section 6001(36) as Thomas does here. State v. Hayes, 603 A.2d 869, 870-71 (Me.1992).\n. The Blue Water is additionally within paragraph (A) as a boat owned by a person licensed under the marine resource laws. The Blue Water may also be within paragraph (E) as a vessel that has been issued a certificate of number by the United States Coast Guard and designates Maine as the state of principal use.\n. The relevant statute provides:\nA violation of any provision of marine resources\u2019 laws is a Class D crime, unless another penalty has been expressly provided. Except as otherwise specifically provided, these crimes are strict liability crimes as defined in Title 17-A, section 34, subsection 4-A.\n12 M.R.S. \u00a7 6204(2009).",
+        "type": "majority",
+        "author": "MEAD, J."
+      }
+    ],
+    "attorneys": [
+      "Edward G. Dardis, Esq. (orally), Howard & Bowie, P.A., Damariscotta, ME, for John C. Thomas Sr.",
+      "Janet T. Mills, Attorney General, Mark A. Randlett, Asst. Atty. Gen. (orally), Office of the Attorney General, Augusta, ME, Geoffrey Rushlau, District Attorney, Christopher R. Fernald, Asst. Dist. Atty., Rockland, ME, for the State of Maine."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 116\nSTATE of Maine v. John C. THOMAS Sr.\nSupreme Judicial Court of Maine.\nArgued: Oct. 4, 2010.\nDecided: Nov, 9, 2010.\nEdward G. Dardis, Esq. (orally), Howard & Bowie, P.A., Damariscotta, ME, for John C. Thomas Sr.\nJanet T. Mills, Attorney General, Mark A. Randlett, Asst. Atty. Gen. (orally), Office of the Attorney General, Augusta, ME, Geoffrey Rushlau, District Attorney, Christopher R. Fernald, Asst. Dist. Atty., Rockland, ME, for the State of Maine.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0638-01",
+  "first_page_order": 664,
+  "last_page_order": 672
+}

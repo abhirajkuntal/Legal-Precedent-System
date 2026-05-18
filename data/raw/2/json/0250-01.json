@@ -1,0 +1,702 @@
+{
+  "id": 7285768,
+  "name": "Andrew DANIELS, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Daniels v. United States",
+  "decision_date": "2010-08-19",
+  "docket_number": "No. 06-CF-265",
+  "first_page": "250",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "983 A.2d 323",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291996
+      ],
+      "pin_cites": [
+        {
+          "page": "335-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/983/0323-01"
+      ]
+    },
+    {
+      "cite": "963 A.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8161642
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/963/0147-01"
+      ]
+    },
+    {
+      "cite": "964 A.2d 1282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8221186
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1288"
+        },
+        {
+          "page": "1288-89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/1282-01"
+      ]
+    },
+    {
+      "cite": "989 A.2d 1096",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292176
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/1096-01"
+      ]
+    },
+    {
+      "cite": "979 A.2d 630",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294459,
+        7294407
+      ],
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/0630-02",
+        "/a2d/979/0630-01"
+      ]
+    },
+    {
+      "cite": "995 A.2d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7287407
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "221-22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/995/0212-01"
+      ]
+    },
+    {
+      "cite": "128 S.Ct. 2783",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3677081
+      ],
+      "weight": 2,
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    },
+    {
+      "cite": "931 A.2d 478",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8346757
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "495"
+        },
+        {
+          "page": "495",
+          "parenthetical": "We can say, \"with fair assurance, after pondering all that happened without stripping [any] erroneous action from the whole, that the judgment was not substantially swayed by [any] error.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/931/0478-01"
+      ]
+    },
+    {
+      "cite": "914 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8331923
+      ],
+      "pin_cites": [
+        {
+          "page": "21-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/914/0001-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 725",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6237509
+      ],
+      "weight": 6,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "732"
+        },
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0725-01"
+      ]
+    },
+    {
+      "cite": "565 A.2d 26",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7345924
+      ],
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/565/0026-01"
+      ]
+    },
+    {
+      "cite": "104 F.3d 377",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3698186,
+        7634340
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/322/0334-01",
+        "/f3d/104/0377-01"
+      ]
+    },
+    {
+      "cite": "322 U.S.App.D.C. 334",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3698186
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/322/0334-01"
+      ]
+    },
+    {
+      "cite": "896 A.2d 198",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8425825
+      ],
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/896/0198-01"
+      ]
+    },
+    {
+      "cite": "416 U.S. 637",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        84180
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "646-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/416/0637-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 822",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7869222
+      ],
+      "pin_cites": [
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/668/0822-01"
+      ]
+    },
+    {
+      "cite": "515 A.2d 489",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "450",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "716 A.2d 173",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11700295
+      ],
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/716/0173-01"
+      ]
+    },
+    {
+      "cite": "978 A.2d 1211",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7299170
+      ],
+      "pin_cites": [
+        {
+          "page": "1240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/978/1211-01"
+      ]
+    },
+    {
+      "cite": "379 A.2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11328065
+      ],
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/379/0710-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 1145",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293984
+      ],
+      "pin_cites": [
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/1145-01"
+      ]
+    },
+    {
+      "cite": "697 A.2d 819",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12020334
+      ],
+      "pin_cites": [
+        {
+          "page": "826"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/0819-01"
+      ]
+    },
+    {
+      "cite": "757 A.2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11244433
+      ],
+      "pin_cites": [
+        {
+          "page": "1286-87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/757/1280-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8352068
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1010"
+        },
+        {
+          "page": "1011"
+        },
+        {
+          "page": "1010-11"
+        },
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/1003-01"
+      ]
+    },
+    {
+      "cite": "683 A.2d 1087",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872525
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1098"
+        },
+        {
+          "page": "1101"
+        },
+        {
+          "page": "1095"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/1087-01"
+      ]
+    },
+    {
+      "cite": "331 F.2d 85",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        132659
+      ],
+      "pin_cites": [
+        {
+          "page": "89-90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/331/0085-01"
+      ]
+    },
+    {
+      "cite": "118 U.S.App.D.C. 11",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "pin_cites": [
+        {
+          "page": "15-16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "747 A.2d 1153",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11479751
+      ],
+      "weight": 15,
+      "pin_cites": [
+        {
+          "page": "1165"
+        },
+        {
+          "page": "1164"
+        },
+        {
+          "page": "1165"
+        },
+        {
+          "page": "1164"
+        },
+        {
+          "page": "1166"
+        },
+        {
+          "page": "1165"
+        },
+        {
+          "parenthetical": "quoting (Earl"
+        },
+        {
+          "page": "1165",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1165",
+          "parenthetical": "citation and internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/747/1153-01"
+      ]
+    },
+    {
+      "cite": "328 U.S. 750",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        377132
+      ],
+      "weight": 3,
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "764-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/328/0750-01"
+      ]
+    },
+    {
+      "cite": "840 A.2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9292540
+      ],
+      "pin_cites": [
+        {
+          "page": "676, 687-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/0664-01"
+      ]
+    },
+    {
+      "cite": "857 A.2d 451",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9182320
+      ],
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/857/0451-01"
+      ]
+    },
+    {
+      "cite": "809 A.2d 584",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11426669
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "591"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/809/0584-01"
+      ]
+    },
+    {
+      "cite": "947 A.2d 448",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "453"
+        },
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "995 A.2d 174",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7287138
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "188",
+          "parenthetical": "\"Assuming without deciding that the prosecutor's question to the detective elicited hearsay and that allowing the detective's answer was error, we can say with fair assurance that the (assumed) error was harmless.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/995/0174-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1572,
+    "char_count": 42946,
+    "ocr_confidence": 0.721,
+    "pagerank": {
+      "raw": 2.452595714969983e-07,
+      "percentile": 0.8042019052076009
+    },
+    "sha256": "61377366b66506a636eef11b6939062c0fa20228bdfc4d105096f88dfb5c667b",
+    "simhash": "1:de71b2321b4fcf9a",
+    "word_count": 7019
+  },
+  "last_updated": "2024-02-27T22:55:00.139644+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, GLICKMAN and KRAMER, Associate Judges."
+    ],
+    "parties": [
+      "Andrew DANIELS, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "REID, Associate Judge:\nA jury convicted appellant, Andrew Daniels, of first-degree murder while armed, possession of a firearm during a crime of violence and carrying a pistol without a license. Mr. Daniels contends that the trial court committed reversible error by (1) admitting hearsay statements during the testimony of two government witnesses; (2) permitting improper prosecuto-rial comments during the government\u2019s rebuttal argument; and (B) convicting him of conduct protected under the Second Amendment to the Constitution. Discerning neither reversible trial court error nor abuse of discretion, we affirm.\nFACTUAL SUMMARY\nThe record shows that on the night of April 17, 2002, Mr. Daniels fatally wounded Curtis Cofield in the parking lot of the Sursum Corda Apartment complex, located in the Northwest quadrant of the District of Columbia. The apartment complex sits at the top of the hill on the southwest corner of an area known as the Horseshoe, where First Terrace meets L Place. The Golden Rule Apartments, where Mr. Daniels lived, and the Golden Rule Supermarket, are located at the bottom of the hill. On the night of his death, Mr. Cofield was celebrating his birthday with friends and relatives. Around 11:00 p.m., while he was sitting in his car with two friends, Mr. Daniels, who was dressed in black, walked into the lot, stopped about three feet from Mr. Cofield\u2019s car and fired shots into the passenger-side window with a silver gun. Mr. Daniels then turned around and left the scene. According to the testimony of Dr. Marie-Lydie Pierre-Louis, then the Chief Medical Examiner for the District of Columbia, Mr. Cofield died of gunshot wounds to his lungs, liver and brain.\nTo establish Mr. Daniel\u2019s guilt, the government called several witnesses who were on the scene at the time of the shooting, or who spoke with Mr. Daniels sometime after the shooting, or who were aware of problems between cohorts of Mr. Daniels and Mr. Cofield. Kenny Kay, who grew up in the Sursum Corda complex and who still lived nearby, saw Mr. Daniels in the Horseshoe immediately before and after the shooting. He was standing on the First Terrace side of the Sursum Corda complex and watched as Mr. Cofield and Mr. Daniels \u201cme[]t[] up.\u201d Soon, around \u201c[f]ive to 10 minutes to 15 minutes tops, [he] heard gunshots.\u201d After hearing \u201cfour or five\u201d shots, he ran towards his home. While Mr. Kay was climbing \u201cthe gate\u201d\u2014 an eight-foot fence between an alley and L Street \u2014 he heard someone say, \u201cmove, move, move.\u201d Mr. Kay \u201cgot down and turned around[,] it was [Mr. Daniels] right there with a gun in his hand.\u201d Mr. Daniels put the gun in his pants and climbed over the fence.\nDuring his testimony, Mr. Kay mentioned a person called \u201cEars,\u201d later identified as Daniel Demo; Mr. Demo was one of the men who \u201chung out\u201d at the top of the hill. When the prosecutor asked about the relationship between Mr. Daniels and Mr. Demo, Mr. Kay replied, \u201c[w]asn\u2019t no good, wasn\u2019t no good heart\u201d; altercations had taken place between Mr. Daniels and Mr. Demo.\nOn cross-examination, defense counsel established that in testimony before the grand jury, Mr. Kay said that the gun he saw in Mr. Daniels\u2019 hand on the night of the murder was black, even though during his direct examination, he stated the gun was silver. On redirect examination, he indicated that the gun was silver; he had \u201cseen Mr. Daniels with numerous colors of guns all the time.\u201d Before the day on which Mr. Cofield had been killed, Mr. Kay had noticed both a black and a silver gun in Mr. Daniels\u2019 possession.\nFrom his home on the First Terrace side of the Horseshoe, Earl Risby, who had lived in the Sursum Corda area his entire life, heard gunshots on the night of Mr. Cofield\u2019s death. Mr. Risby looked out of his upstairs bedroom window; Mr. Daniels was in the cut \u2014 a footpath between buildings \u2014 walking toward First Terrace. Mr. Risby ran downstairs. He opened the front door and saw Mr. Daniels coming through the cut carrying a gun. Quickly, Mr. Risby \u201cshut the door because [he] didn\u2019t want to be seen.\u201d\nFrances Warren lives on the First Terrace side of the Horseshoe, not far from the Sursum Corda Apartments. On the night of his death, Ms. Warren had briefly stopped by the parking lot to wish Mr. Cofield a happy birthday; she had known him all of her life. Later, from her third-story bedroom window, Ms. Warren watched a man dressed in black walk into the apartment parking lot. She heard gunshots and people screaming. Less than a minute later, she saw the same man walking in the opposite direction.\nLaura Pearson, a ten-year resident of the Sursum Corda area, was in the Horseshoe on the night of the murder. A man dressed in black, walked by her in the direction of the parking lot. Ms. Pearson heard gunshots; moments later, the man returned with a black gun in his hand. Sometime later, in July 2002, Detective Gregory Sullivan of the Metropolitan Police Department, the lead detective for the investigation of Mr. Cofield\u2019s murder, showed Ms. Pearson nine photographs. From this photo spread, Ms. Pearson selected the picture of Mr. Daniels as the person she saw on the night of the murder.\nDanny Winston, a fifteen-year resident of Sursum Corda who frequented the top of the hill in the Horseshoe area, was among those celebrating Mr. Cofield\u2019s birthday. He described Mr. Daniels as a friend. \u201cWhen it started drizzling,\u201d Mr. Winston walked out of the parking lot. He saw Mr. Daniels \u201cwalking up.\u201d Mr. Daniels stopped \u201cthree feet from [Mr. Co-field\u2019s] car[,] [p]ulled out a gun and shot him, shot towards the car. Hit [Mr. Co-field]. Turned back around and walk[ed] off.\u201d\nThe government attempted to establish the motive for the murder of Mr. Cofield through at least three witnesses \u2014 Mr. Ris-by, Antwan Harrington, and Sandra Whitley. Mr. Risby knew both Mr. Cofield and Mr. Daniels from the neighborhood. Mr. Cofield and his friends (including Mr. Demo) would gather at the Horseshoe while Mr. Daniels and his friends (including Mr. Winston) would \u201chang out\u201d near the Golden Rule Supermarket. On one occasion, Mr. Demo told Mr. Risby that Mr. Daniels \u201crobbed him.\u201d In return, Mr. Demo and his friends \u201csho[ ]t at\u201d Mr. Daniels and his friends. Mr. Risby responded \u201c[y]es\u201d to the prosecutor\u2019s question as to whether \u201cthe robbery and the shooting [ ] was ... part of an ongoing beef between [Mr. Daniels] and his friends [who hung out] at the bottom of the hill,\u201d and Mr. Demo and Mr. Cofield and their friends who gathered \u201cat the top of the hill.\u201d Mr. Demo was killed between May 24 and 26, 2002, and the alleged robbery occurred \u201csix to eight months before Mr. [Demo] was killed.\u201d\nOn the morning of Mr. Cofield\u2019s birthday, Mr. Harrington, a ten-year resident of Sursum Corda, witnessed Mr. Daniels and Mr. Cofield (both of whom he knew) in the Horseshoe arguing \u201cabout the money [Mr. Daniels] took from ... [Mr. Demo].\u201d Mr. Cofield declared: \u201cThere\u2019s going to be some trouble if [Mr. Daniels] didn\u2019t give [Mr. Demo] his money back.\u201d Mr. Daniels retorted that \u201che could return the same favor.\u201d\nMs. Whitley, the godmother of Mr. Daniels\u2019 sister, had lived in the Golden Rule Apartments at the bottom of the hill for ten years. Around 3:00 in the afternoon on the day of the shooting, Mr. Daniels picked up his daughter from Ms. Whitley\u2019s apartment. In the grand jury and at Mr. Daniels\u2019 first trial, Ms. Whitley testified that during this visit Mr. Daniels had told her, \u201cI\u2019m going to bust somebody up on the hill.\u201d The next day, Ms. Whitley \u201cheard somebody got shot\u201d up the hill. About a week later she learned the \u201csomebody\u201d was Mr. Cofield. At Mr. Daniels\u2019 second trial, Ms Whitley\u2019s testimony changed. She testified that Mr. Daniels said, \u201cI\u2019m going up on the hill. I\u2019m going to bust a game.\u201d \u201cMr. Daniels gambled a lot,\u201d she voluntarily added. Ms. Whitley also claimed that she did not learn anything about the shooting until \u201cabout two or three weeks later because [she] hadn\u2019t been around the neighborhood.\u201d Because Ms. Whitley was impeached with her prior testimony, the jury heard both versions of her story. Detective Sullivan testified that he had \u201cspoke[n] to [Ms.] Whitley a couple [of] times with regard to the investigation.\u201d She \u201ctold [him] that she had been in [Mr.] Daniel\u2019s presence in her apartment and that [Mr.] Daniels told her that he was going to go up the hill and bust somebody.\u201d\nWhile incarcerated at the District of Columbia Jail, Mr. Daniels spoke about the murder with two fellow inmates: Richard Williams and Melvin Widery. Prior to his first trial, Mr. Daniels told Mr. Williams: \u201c[Mr. Cofield] tried to get in my water, so I drowned him.\u201d More specifically, \u201c[Mr. Daniels] said that he walked up, he walked up on [Mr. Cofield]. It was [Mr. Cofield\u2019s] birthday. He ain\u2019t even say if it was a gun or anything, just said he punished [Mr. Cofield].\u201d Mr. Widery and Mr. Daniels met between Mr. Daniels\u2019 first and second trials. Mr. Daniels told Mr. Widery that \u201cwhen he bust off,\u201d Mr. Cofield \u201cwas in the passenger seat of his truck.\u201d The two men also discussed witnesses from Mr. Daniels\u2019 first trial. In Mr. Daniels\u2019 estimation, Ms. Warren\u2019s sighting of him from her third-floor window \u201cwas impossible because I was dressed all in black.\u201d Mr. Daniels further relayed that \u201chis youngest sister[\u2019s] godmother\u201d was planning to testify in the second trial that when Mr. Daniels said \u201cbust somebody,\u201d \u201cshe thought [Mr. Daniels] might have been talking about going gambling with someone.\u201d\nANALYSIS\nAlleged Evidentiary Errors By the Trial Court\nMr. Daniels first complains that the trial court erred by allowing Mr. Risby to provide hearsay testimony which implicated him (Mr. Daniels) in the robbery of Mr. Demo. The factual context for this argument is as follows. On direct examination, the prosecutor asked Mr. Risby, \u201cNow are you familiar about an incident that took place between [Mr. Daniels] and [Mr. Demo]?\u201d Mr. Risby replied, \u201cYes,\u201d and explained, \u201cWell, [Mr. Demo] came running back up the street one day and told us that [Mr. Daniels] robbed him.\u201d Mr. Risby could not recall the exact date, but estimated \u201cit was like almost six or eight months before [Mr. Demo was] killed\u201d in May 2002. The prosecutor inquired as to anything \u201cthat [Mr. Demo] and his friends might have done in retaliation.\u201d Based on what Mr. Demo had told him, Mr. Risby responded: \u201cThey went down the street to shoot at them guys.\u201d At the prosecutor\u2019s request, Mr. Risby elaborated:\nWell, when [Mr. Demo] \u2014 the day he was robbed, he came to the house where they were staying at, and he was mad because he said [Mr. Daniels] robbed him. And he was all like \u2014 he was telling [someone] he was ready to go shoot at them. And three or four days later when they shot at him, they ran back to the house, because they said the police was coming. That\u2019s how I know that.\nThe prosecutor then asked: \u201cWas this\u2014 the robbery and the shooting, was this part of an ongoing beef between [Mr. Daniels] and his friends, the folks at the bottom of the hill, and ... [Mr. Demo], [Mr. Cofield], the folks at the top of the hill?\u201d \u201cYes,\u201d Mr. Risby replied.\nDefense counsel opened her examination of Mr. Risby by asking whether he was \u201ccurrently an agent for the government.\u201d Mr. Risby answered affirmatively. Counsel then posed three questions about the robbery of Mr. Demo; each related solely to the time frame. The other two dozen transcript pages of cross-examination involve a significant and thorough impeachment of Mr. Risby. Defense counsel questioned why Mr. Risby had not come forward until he was arrested under a federal charge of conspiracy to distribute crack cocaine. She also emphasized Mr. Risby\u2019s prior convictions and highlighted both his plea agreement and his hope for the government\u2019s assistance in securing a lenient sentence. Further, defense counsel inquired into Mr. Risby\u2019s status as a paid informant and pointed out that, as an informant, Mr. Risby \u201cessentially engage[d] in deceiving people.\u201d On redirect, the prosecutor did not mention the robbery of Mr. Demo but instead focused on: the reason why Mr. Risby did not come forward sooner; the money he received as an informant; his possible sentence reduction; his role in the charged drug conspiracy; and what he saw on the night of Mr. Cofield\u2019s murder.\nOn this record, we need not determine whether the admission of Mr. Risby\u2019s challenged testimony constituted trial court error, because we are satisfied that, assuming error, it was harmless. See Wilson v. United States, 995 A.2d 174, 188 (D.C. 2010) (\u201cAssuming without deciding that the prosecutor\u2019s question to the detective elicited hearsay and that allowing the detective\u2019s answer was error, we can say with fair assurance that the (assumed) error was harmless.\u201d); In re D.B., 947 A.2d 448, 453 (D.C.2008) (\u201c We need not determine whether the court erred\u2019 by considering the [contested admission] for a substantive purpose, because appellant \u2018was not sufficiently prejudiced by [any] error to justify reversal.\u2019\u201d (quoting Sanders v. United States, 809 A.2d 584, 591 (D.C. 2002))) (second alteration in original); Anderson v. United States, 857 A.2d 451, 463 (D.C.2004) (\u201c[assuming, without deciding, that the [contested admission] was an abuse of discretion, the error was nonetheless harmless\u201d).\nMr. Daniels claims that any error in admitting the challenged testimony was not harmless. To illustrate, he compares the outcome of his first trial \u2014 where Mr. Risby did not testify and a hung jury resulted in a mistrial \u2014 with the outcome of his second \u2014 where Mr. Risby testified and the jury pronounced him guilty. Mr. Daniels maintains that Mr. Risby provided the only evidence supporting the government\u2019s theory of a feud as motive for the shooting and therefore posits that Mr. Risby\u2019s testimony accounts for the different outcomes. The government rejoins that witnesses other than Mr. Risby provided motive testimony and highlights Mr. Harrington\u2019s account of the threats exchanged between Mr. Cofield and Mr. Daniels on the morning of the murder. The government also calls attention to the evidence against Mr. Daniels, including: the eye-witness testimony of the shooting; the corroborating testimony of witnesses who saw Mr. Daniels with a gun before and after the incident; and Mr. Daniels\u2019 fluctuating alibis. This evidence of guilt, the government insists, rendered harmless any possible error committed by admitting Mr. Risby\u2019s motive testimony. We believe the government has the better argument.\nThe record clearly refutes Mr. Daniels\u2019 contention that Mr. Risby\u2019s testimony regarding the robbery and retaliation was the only evidence presented in furtherance of the government\u2019s theory of an ongoing feud as motive for the shooting. On the morning of the murder, Mr. Harrington witnessed Mr. Daniels and Mr. Cofield exchange threats as they argued about money that Mr. Daniels \u201ctook from [Mr. Demo].\u201d Along with his eye-witness account of the shooting, Mr. Winston told the jury that Mr. Cofield was \u201c[a] guy that [\u2018hung out\u2019] up top\u201d and that, he generally did not hang out with Mr. Daniels \u201c[unless [he went] down to the market ... [to] chill down there.\u201d Ms. Warren stated that Mr. Daniels hung out \u201cdown the bottom.\u201d The prosecutor asked her: \u201cAnd in your experience, is there ever any animosity between, or arguments between the people at the top of the hill and the people at the bottom of the hill?\u201d \u201cI mean, yes,\u201d she answered. Mr. Kay testified that Mr. Co-field and Mr. Demo were \u201cgood friends\u201d and that they hung out at the top of hill. Mr. Kay also stated that Mr. Daniels hung out at the bottom of the hill and that the relationship between Mr. Daniels and Mr. Demo \u201cwasn\u2019t so good, wasn\u2019t no good heart.\u201d Consequently, and contrary to Mr. Daniels\u2019 contention, Mr. Risby\u2019s testimony about the robbery and retaliation certainly was not \u201cthe only evidence of the government\u2019s [motive] theory.\u201d\nFurthermore, we conclude that Mr. Daniels was not sufficiently prejudiced by the admission of Mr. Risby\u2019s challenged testimony to justify reversal of his conviction. In re D.B., supra, 947 A.2d at 453. First, defense counsel seriously called into question Mr. Risby\u2019s credibility on cross-examination. Second, the evidence against Mr. Daniels was strong and compelling. Mr. Harrington watched Mr. Daniels and Mr. Cofield threaten one another on the morning of the murder. That afternoon, Mr. Daniels told Ms. Whitley that he was \u201cgoing up the hill to bust somebody.\u201d Several witnesses testified that Mr. Daniels was armed and in the immediate area both before and after the shooting. Indeed, Mr. Winston saw Mr. Daniels fire the fatal shots into Mr. Cofield\u2019s vehicle. Mr. Williams and Mr. Widery told the jury about Mr. Daniels\u2019 post-incarceration confessions and commentary. While Mr. Daniels correctly points out that Mr. Risby testified in the second trial but not the first, the same can be said for Mr. Harrington, Mr. Williams, and Mr. Widery. The differing verdicts therefore could be attributed to unchallenged testimony from any, or all, of four new witnesses. See, e.g., Rowland v. United States, 840 A.2d 664, 676, 687-88 (D.C.2004) (refusing to speculate on reasons why the first trial resulted in a hung jury where \u201cthe prosecution evidence was strong and the case was not a close one\u201d). In short, assuming \u2014 without deciding \u2014 that the admission of Mr. Risby\u2019s testimony about the robbery and retaliation constituted error, we can say, \u201c \u201cwith fair assurance,\u2019 \u201d that the jury\u2019s guilty verdict \u201c \u2018was not substantially swayed by the [assumed] error.\u2019 \u201d In re D.B., supra, 947 A.2d at 45B (quoting Kotteakos v. United States, 328 U.S. 750, 764-65, 66 S.Ct. 1239, 90 L.Ed. 1557 (1946)).\nMr. Daniels\u2019 second complaint concerning trial court evidentiary error relates to Mr. Kay\u2019s testimony that Mr. Kay had seen Mr. Daniels with \u201cnumerous guns.\u201d Mr. Daniels insists that the trial court erroneously admitted this testimony because Mr. Kay\u2019s \u201cnumerous guns\u201d comment \u201chad no relevance whatsoever\u201d and \u201cdid nothing more than show that he had criminal propensity.\u201d The factual context for this argument resides in Mr. Kay\u2019s testimony. Mr. Kay stated that he saw Mr. Daniels in the Horseshoe on the night of the shooting, both before and after the incident. Following the gunshots, Mr. Kay was \u201cclimbing the gate\u201d \u2014 an eight-foot fence erected between an alley and L Street \u2014 when he \u201cheard someone say move, move, move.\u201d Upon hearing this command, Mr. Kay told the jury:\nI got down and turned around it was [Mr. Daniels] right there with a gun in his hand. He put the gun up [i.e., put it in his pants] [id at 124]. He climbed the gate, then I climbed the gate. Then I went home. And wherever he went I don\u2019t know after that.\nIn response to the prosecutor\u2019s question about the type of gun, Mr. Kay replied, \u201cI\u2019m not really too tight with all the guns like that but it was a silver gun.\u201d Defense counsel then proceeded to impeach Mr. Kay, in part, by contrasting his direct testimony at trial that he saw a silver gun with his grand jury testimony that he saw a black gun. Mr. Kay acknowledged that his testimony before the grand jury was different, but he stated: \u201cI [saw] Mr. Daniels with numerous guns, black.\u201d Defense counsel made a motion to strike Mr. Kay\u2019s response, but the trial court denied the motion, and instructed Mr. Kay to \u201ccomplete [his] answer.\u201d Defense counsel then said: \u201cYou were asked what gun you saw \u2014 you didn\u2019t say I saw him with numerous guns in the grand jury, did you?\u201d Mr. Kay answered: \u201cNo, I didn\u2019t.\u201d\nDefense counsel emphasized the fact that Mr. Kay had told the grand jury that the shooting had occurred in July. And, defense counsel questioned Mr. Kay regarding his hope for a reduced sentence in exchange for testifying in the instant case and other cases. After the government elicited testimony, on redirect examination, to explain the apparent contradictions in Mr. Kay\u2019s testimony, defense counsel asked for, and was given, an opportunity to re-cross Mr. Kay. She questioned Mr. Kay about his testimony from Mr. Daniel\u2019s first trial:\nDefense: All right. And you were asked the following question and you gave the following answer.\n\u201cDo you know why you said black then and silver now?\u201d Your answer was, \u201c[N]o sir.\u201d That\u2019s what you testified to then, correct?\nMr. Kay: Can I see that please?\nDefense: Certainly.... Again this is testimony from a \u2014 sworn testimony from a proceeding September 15, 2003, correct?\nMr. Kay: Correct.\nDefense: And this is a transcription of your sworn testimony from that day, correct?\nMr. Kay: Correct.\nDefense: Directing your attention to page 223 lines 8 through 10. That\u2019s the question and answer you gave then, correct?\nMr. Kay: Yes.\n(quotation marks added).\nWe turn now to the applicable legal principles. \u201cRelevant evidence is simply that which tends to make the existence or nonexistence of a [contested] fact more or less probable than it would be without the evidence.\u201d Busey v. United States, 747 A.2d 1153, 1165 (D.C.2000) (quotation marks and citations omitted; alteration in original). The general rule governing \u201cother crimes\u201d is:\n[Evidence of a crime for which the accused is not on trial is \u201cinadmissible to prove disposition to commit crime, from which the jury may infer that the defendant committed the crime charged. Since the likelihood that juries will make such an improper inference is high, courts presume prejudice and exclude evidence of \u2018other crimes\u2019 unless that evidence can be admitted for some substantial, legitimate purpose.\u201d\nId. at 1164 (quoting Drew v. United States, 118 U.S.App.D.C. 11, 15-16, 331 F.2d 85, 89-90 (D.C.Cir.1964)). The rules for so-called Drew evidence may be inapplicable \u201cwhere the \u2018other crime\u2019 is not independent of and unrelated to the charged crime.\u201d Id. at 1165. \u201c \u2018Specifically, Drew does not apply where such evidence (1) is direct and substantial proof of the charged crime, (2) is closely intertwined with the evidence of the charged crime, or (3) is necessary to place the charged crime in an understandable context.\u2019 \u201d Id. at 1165 (quoting Johnson v. United States, 683 A.2d 1087, 1098 (D.C.1996)). \u201c[0]ne requirement that applies to the admission of all evidence of \u2018other crimes,\u2019 Drew and non-Drew alike, is that relevance, or probative value, must be weighed against the danger of unfair prejudice.\u201d Busey, supra, 747 A.2d at 1165. As such, \u201c \u2018evidence otherwise relevant may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice it poses.\u2019 \u201d Id. (quoting Johnson, supra, 683 A.2d at 1101). Administration of this balancing test lies within the discretion of the trial court; we review \u201conly for abuse of that discretion.\u201d Id.; Johnson, supra, 683 A.2d at 1095.\nOur decisions in Busey v. United States and Lewis v. United States are instructive for our review of Mr. Daniels\u2019 complaint about Mr. Kay\u2019s testimony. In Busey, \u201c[i]n accordance with the judge\u2019s pretrial ruling, the government elicited from [its witness] on direct examination that she had seen Busey with a gun two days before [the victim] was murdered but did not bring out the circumstances\u201d \u2014 Busey had assaulted the witness. 747 A.2d at 1164. \u201cOn cross examination, however, Busey\u2019s defense counsel challenged [the witness\u2019] credibility by eliciting that she could not remember the time of day she first saw Busey with the gun, which floor of the building she was on, how long she had been there, or what she had been doing that day.\u201d Id. On redirect, the judge permitted the government to question the witness \u201cabout the circumstances under which she had seen Busey with a gun, i.e., the assault.\u201d Id. We concluded that the trial judge \u201cexercised his discretion soundly.\u201d Id. at 1166.\nLewis involved a plain-error review of the trial judge\u2019s failure to sua sponte take corrective action when, on cross examination, the complainant remarked on another person\u2019s statement identifying the defendant. 930 A.2d 1003, 1010 (D.C.2007). In affirming, we made two observations pertinent to the instant case.\nIn the first place, this \u201cerror\u201d was created entirely by the defense; the testimony about the [other person\u2019s] statement was elicited and developed by defense counsel during his cross examination of [the complainant], and was mentioned only by defense counsel during closing argument. \u201cThus the error that occurred, if any, was invited by defense counsel.... It is well established that a defendant \u2018cannot well complain of being prejudiced by a situation which [he] created.\u2019 \u201d Parker v. United States, 757 A.2d 1280, 1286-87 (D.C.2000) (citations omitted).\nFinally, appellant has not shown that the admission of [the other person\u2019s] out-of-court identification, even if it was error, was prejudicial to his defense. Defense counsel made full, intentional use of the statement in an attempt to discredit [the complainant], and [the other person\u2019s] additional identification of appellant was merely cumulative of the identifications by [the complainant] and [another witness].\nId. at 1010-11 (first ellipsis and third alteration in original); see Gonzalez v. United States, 697 A.2d 819, 826 (D.C.1997) (\u201cThe testimony that [the appellant] characterizes as being \u2018highly prejudicial\u2019 was elicited not by the prosecutor but by defense counsel during his cross examination of the expert witness. Thus the error that occurred, if any, was invited by defense counsel.\u201d); cf. Mungo v. United States, 987 A.2d 1145, 1155 (D.C.2010) (rejecting claim of prejudice where defense counsel did not \u201cquestion[] the reliability\u201d of the challenged evidence but rather \u201csought to use [it] to defense advantage\u201d).\nHere, defense counsel challenged the credibility of Mr. Kay by calling into question his contradictory descriptions of the gun and, albeit unintentionally, counsel elicited the \u201cnumerous guns\u201d comment. Although this comment was non-responsive to the query posed, Mr. Daniel\u2019s defense counsel \u201cmade full, intentional use of the statement in an attempt to discredit [Mr. Kay].\u201d Lewis, supra, 930 A.2d at 1011. Counsel\u2019s attack occurred not only on cross-examination, but also during closing argument:\nJust one more thing with regard to Kenny Kay\u2019s testimony before you. He said that the gun was silver here before you.... When he testified at the grand jury, he said that the gun was black. And then when asked by the government why did you say it was silver then when you said it was black now. Because I seen him with guns all the time. And he admitted that at this previous proceeding when he was asked that question he said I don\u2019t know.\nNow, why did he do that because ... he figured he would make it a little bit better this time around. He would make it just a little bit stronger so that he could get that 5K1 motion, make it a little bit stronger. He has got five people he\u2019s in the running with just in this case.\nMoreover, Mr. Kay\u2019s testimony that he had seen Mr. Daniels with guns on previous occasions \u2014 particularly a gun \u201cthat might have been the murder weapon\u201d- \u2014 -was not admitted to establish criminal propensity; \u201c[t]hat evidence was directly relevant, and was not Drew evidence, because it constituted evidence supporting the charge that [Mr. Daniels] was the person who ... murdered [Mr. Cofield].\u201d Busey, supra, 747 A.2d at 1165. \u201c \u2018An accused person\u2019s prior possession of the physical means of committing the crime is some evidence of the probability of his guilt, and is therefore admissible.\u2019 \u201d Id. (quoting (Earl) Coleman v. United States, 379 A.2d 710, 712 (D.C.1977)) (citations omitted); see also Thomas v. United States, 978 A.2d 1211, 1240 (D.C.2009) (concluding \u201cthe prior sworn testimony\u201d that the witness saw the appellant \u201cwith a firearm four days after the murder\u201d was \u201cadmissible as substantive evidence\u201d and \u201crelevant because it showed [the appellant\u2019s] possession of what reasonably could have been the murder weapon soon after the shooting\u201d). Although this \u201cevidence established only a reasonable probability, and not a certainty, that [Mr. Daniels] possessed the murder weapon,\u201d the connection between Mr. Kay\u2019s comment and the murder \u201cwas not \u2018conjectural and remote,\u2019 and so the lack of certainty goes to the weight of the evidence, not its admissibility.\u201d Busey, supra, 747 A.2d at 1165 (citations omitted).\nMr. Kay was not the only person who had seen Mr. Daniels with guns prior to Mr. Cofield\u2019s murder. Mr. Winston also testified that he had \u201cmany times\u201d seen Mr. Daniels with a silver gun. And, Mr. Kay\u2019s \u201cnumerous guns\u201d comment was not referenced by the government during its closing argument. In essence, Mr. Daniels created and then took full advantage of the \u201cerror\u201d about he which now complains. See Lewis, supra, 930 A.2d at 1010-11. Since Mr. Kay\u2019s testimony was relevant and probative, and its \u201cprobative value [was not] substantially outweighed by the danger of unfair prejudice,\u201d Busey, supra, 747 A.2d at 1165 (citation and internal quotation marks omitted), we are convinced that the trial court did not abuse its discretion by refusing to strike the challenged testimony.\nThe Prosecutor\u2019s Rebuttal Arguments\nMr. Daniels takes issue with pros-ecutorial comments that he has extracted from the government\u2019s rebuttal argument. In Mr. Daniels\u2019 estimation, the trial court committed reversible error by not sua sponte intervening when \u201cthe prosecutor inflamed the passions of the jury, violated [his] right to be presumed innocent, vouched for the credibility of government witnesses and argued facts not in evidence by commenting on a witness\u2019 allegedly pri- or consistent testimony.\u201d\nGenerally, \u201ccomments appealing to the emotions, prejudices and passions of the jury,\u201d or comments \u201carguing facts not in evidence or misstating facts in evidence,\u201d are improper. Diaz v. United States, 716 A.2d 173, 180 (D.C.1998) (citations and internal quotation marks omitted). \u201cThe propriety and import of the prosecutor\u2019s remarks ... must be viewed in perspective by examining the arguments advanced by the defense, for a prosecutor may respond, in rebuttal, to defense counsel\u2019s assertions.\u201d (Ronald) Coleman v. United States, 515 A.2d 489, 450 (D.C. 1986) (citations omitted). \u201cClosing arguments, and especially rebuttal arguments, are \u2018seldom carefully constructed in toto before the event; improvisation often frequently results in imperfect syntax and planning.\u2019 \u201d Lee v. United States, 668 A.2d 822, 831 (D.C.1995) (quoting Donnelly v. DeChristoforo, 416 U.S. 637, 646-47, 94 S.Ct. 1868, 40 L.Ed.2d 431 (1974)) (citation omitted).\nIf the prosecutor\u2019s comments are improper and an objection has been made, we examine whether they \u201c \u2018rise to the level of substantial prejudice.\u2019 \u201d Hartridge v. United States, 896 A.2d 198, 221 (D.C.2006) (quoting United States v. Moore, 322 U.S.App.D.C. 334, 347, 104 F.3d 377, 390 (1997)). \u201cThis determination involves an examination of the gravity of the improper comments, the corrective action taken by the trial judge, and the strength of the government\u2019s case.\u201d Id. We look for \u201clegal error or abuse of discretion by the trial judge, not by counsel.\u201d Irick v. United States, 565 A.2d 26, 33 (D.C.1989) (citations omitted). However, where counsel fails to object to the challenged comments, as here with the exception of one instance, our review is for plain error. See United States v. Olano, 507 U.S. 725, 732, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993) (The plain error standard requires a showing of \u201c \u2018error\u2019 that is \u2018plain\u2019 and that \u2018affects substantial rights.\u2019 \u201d If these conditions are satisfied, then appellant must demonstrate that the error \u201cseriously affects the fairness, integrity, or public reputation of [the] judicial proeeed-ing[ ].\u201d). See also Thomas v. United States, 914 A.2d 1, 21-24 (D.C.2006).\nSome of the comments regarding the presumption of innocence and vouching for the credibility of a detective either are close to the edge of propriety, or cross the line into impropriety. Indeed, the government \u201cacknowledge^]\u201d that one aspect of the prosecutor\u2019s rebuttal relating to vouching was improper. That is, in discussing a detective\u2019s testimony, the prosecutor asked the jury: \u201cWhy would Detective Sullivan want to arrest the wrong person? What\u2019s his motivation to arrest [Mr.] Daniels and let the real killer go?\u201d However, Mr. Daniels cannot demonstrate that these comments about Detective Sullivan (or others to which there was no objection) seriously affected his substantial rights, or seriously affected the fairness, integrity or public reputation of the proceeding against him, or substantially prejudiced him. See Olano, supra, 507 U.S. at 732, 113 S.Ct. 1770; see also Teoume-Lessane v. United States, 931 A.2d 478, 495 (D.C.2007) (\u201c[Reversal for plain error in cases of alleged [improper prosecutorial comments] should be confined to particularly egregious situations ) (internal quotation marks and citations omitted) (first alteration in original).\nFinally, we see no need to determine, definitively, whether the prosecutor\u2019s comments relating to facts not in evidence were improper because we are satisfied that they do not \u201crise to the level of substantial prejudice\u201d to Mr. Daniels. Upon hearing defense counsel\u2019s objection to the comment pertaining to the rumor that Mr. Daniels killed Mr. Cofield and the reference to grand jury testimony, the trial judge offered to give the jury a curative instruction even though he did not believe there was anything improper about the argument, but defense counsel was not satisfied with the proposed instruction. When the trial court tried to determine whether there was \u201csomething about the way [he] instruct[ed],\u201d defense counsel replied: \u201cNo, Your Honor, I just would like it not be given.\u201d Nevertheless, the trial court three times instructed the jury that the attorneys\u2019 arguments are not evidence, and we must presume that a jury follows the court\u2019s instructions, absent any indication to the contrary.\u201d Lewis, supra, 930 A.2d at 1008. Under these circumstances, and given the strength of the government\u2019s case against Mr. Daniels, we are persuaded that any error did not substantially prejudice Mr. Daniels. See Teoume-Les-sane, supra, 931 A.2d at 495 (We can say, \u201cwith fair assurance, after pondering all that happened without stripping [any] erroneous action from the whole, that the judgment was not substantially swayed by [any] error.\u201d) (internal quotation marks and citation omitted).\nAccordingly, for the foregoing reasons, we affirm the judgment of the trial court.\nSo ordered.\n. Respectively, violations of D.C.Code \u00a7\u00a7 22-2101, -4502; \u00a7 22-4504(b); and \u00a7 22-4504(a) (2001). The trial giving rise to this appeal is Mr. Daniels\u2019 second \u2014 his first resulted in a mistrial due to a hung jury.\n. Mr. Daniels, supported by amicus curiae Public Defender Service, argues that his conviction for carrying a pistol without a license (\"CPWL\u201d) must be vacated as unconstitutional under District of Columbia v. Heller, - U.S. -, 128 S.Ct. 2783, 171 L.Ed.2d 637 (2008). Because he did not raise this contention in the trial court, we review it for plain error. Since Heller, \"this court has rejected claims that the CPWL statute is unconstitutional on its face.\u201d Riddick v. United States, 995 A.2d 212, 221-22 (D.C.2010) (citing Brown v. United States, 979 A.2d 630, 639 (D.C.2009) (\"We are not persuaded that 'no application of the [CPWL] statute could be constitutional\u2019 or that the restriction the CPWL statute imposes comes even close to presenting the kind of \u2018weighty\u2019 reason that the Supreme Court has concluded justifies declaring a statute invalid on its face.\u201d)) (alteration in original); Little v. United States, 989 A.2d 1096 (D.C.2010) (citing Howerton v. United States, 964 A.2d 1282, 1288 (D.C.2009) (\"It ... is not plain [post-Heller], ... either that the particular statutes under which appellant was prosecuted [including the CPWL statute] ... are facially unconstitutional or that these statutes have been invalidated.\u201d)) (alteration in original). Furthermore, as we explained in Sims v. United States, 963 A.2d 147, 150 (2008), Howerton, supra, 964 A.2d at 1288-89, and Plummer v. United States, 983 A.2d 323, 335-36 (D.C.2009), it is not obvious that Heller\u2019s reach extends beyond cases of handgun possession in the home. Because Mr. Daniels' conviction stems from an unjustified shooting in a public parking lot, Heller is inapposite to his appeal. Consequently, Mr. Daniels cannot overcome the hurdle of \"plain error.\u201d See Riddick, supra, 995 A.2d at 222 (\u201cIn short, the 'facial invalidity\u2019 error that appellant asserts is not error at all, much less plain error.\u201d)\n.On direct examination, Mr. Kay acknowledged that he had been convicted of a drug offense in 2001, had entered a guilty plea to attempted robbery and assault with a dangerous weapon in 2002, and consequently, he had executed a cooperation agreement with the government pertaining to Mr. Daniel's case.\n.The prosecutor wanted to elicit through Mr. Kay that Mr. Demo told him that Mr. Daniels had robbed Mr. Demo. After hearing Mr. Kay\u2019s testimony regarding the alleged robbery without the presence of the jury, the trial judge disallowed the inquiry in the presence of the jury. As the judge put it: \"It\u2019s just too uncertain about whether it was direct, circumstantial, ... hearsay or otherwise. Just not enough [of] an indicia of reliability even as hearsay. I\u2019ll ask you not to do it.\u201d\n. Mr. Risby admitted that, consistent with his plea agreement with the government, he entered a guilty plea to the charge of conspiracy to distribute cocaine; the charge resulted from his December 2004 arrest. He also agreed that since October 22, 2004, he had been paid as an agent for the government, but none of the payments related to Mr. Daniel's case.\n. Ms. Pearson was a reluctant witness who did not wish to be in court. She was convicted of possession of marijuana and a Bail Reform Act violation in 2001, and unlawful entry and another Bail Reform Act violation in March 2005.\n. At the time of his testimony Mr. Winston was serving a prison sentence for second-degree murder.\n. During his testimony, Mr. Harrington stated that he was incarcerated because he had pled guilty in the District of Columbia to unlawful distribution of cocaine. He also had a prior Virginia felony conviction for credit card theft.\n. The first version of the statement Ms. Whitley attributed to Mr. Daniels, \"I'm going to bust somebody up on the hill,\" was admissible as non-hearsay substantive evidence under D.C.Code \u00a7 14-102(b), which provides, in part: \"A statement is not hearsay if the de-clarant testifies at the trial or hearing and is subject to cross-examination concerning the statement and the statement is (1) inconsistent with the declarant\u2019s testimony, and was given under oath subject to the penalty of perjury at a trial, hearing, or other proceeding, or in a deposition.... Such prior statements are substantive evidence.\u201d\n. Mr. Daniels did not testify, but he presented two witnesses. A staff member at the District of Columbia Jail testified that Mr. Daniels was in jail between August 2001 and February 24, 2002, thus implying that Mr. Risby was not a credible witness since he claimed that Mr. Daniels had robbed Mr. Demo around late Fall 2001. A Metropolitan Police Department officer testified that his sketch of the crime scene did not reflect distances.\n. Mr. Risby was a paid informant for the Drug Enforcement Agency and the Metropolitan Police Department.\n. Detective Sullivan testified that Mr. Daniels more than once changed his alibi upon being informed it either could not be verified or could be refuted.\n. We are not persuaded by Mr. Daniels\u2019 argument that the trial court erred by failing to grant him a continuance. Most notably, this argument lacks any support in the record, which shows the following:\nTwo days prior to trial, the trial court convened for jury selection. As a preliminary matter, defense counsel pushed for immediate resolution of an issue regarding Mr. Risby\u2019s testimony. Counsel declared: \"Your Honor, if the [c]ourt is going to let it in, if the [gjovemment intends to use it and if the [c]ourt is going to let it in, we are entitled to a continuance.\u201d The record unequivocally reveals that \"it\u201d was \"new information\u201d to which Mr. Risby could testify \u2014 specifically, after Mr. Demo\u2019s retaliatory shooting, \"Andrew Daniels came to the up hill or top of the hill portion of Sursum Corda on at least one occasion firing shots.\u201d The judge ruled, \u201cI am not going to hear the issue about additional other crimes evidence now before we empanel the jury.\u201d\nLater that morning, the judge heard arguments and told defense counsel, \"I think that you have carried the day in this respect.... It is too late for you to be expected to counter this information.\u201d Accordingly, because the trial court did not \"let it in,\u201d defense counsel\u2019s request for a continuance became moot.\n. To support his argument that the prosecutor inflamed the jury\u2019s passions, Mr. Daniels lifts up comments about \"crime going on out there in society,\u201d with people \"robbing,\u201d \"raping,\u201d and \"murdering\u201d others. As an example of the prosecutor's violation of Mr. Daniel\u2019s right to be presumed innocent, Mr. Daniel\u2019s cites the following statement: \"Thank goodness we have a criminal justice system where you are going to [be] presumed] innocent because that detective sure didn\u2019t presume innocen[ce].... [M]aybe he didn\u2019t because he had information that he wasn\u2019t innocent.\u201d With regard to improper vouching, Mr. Daniels focuses on the prosecutor's comments about a detective and asked whether \"he would risk his badge and job,\u201d and ended by saying, \"He didn\u2019t lie.\u201d Counsel did not object to these comments. However, defense counsel objected to what Mr. Daniels identifies as comments on evidence not admitted at trial. These comments related to \u201cthe rumor floating around [Sursum Corda] ... that [Mr.] Daniels killed [Mr.] Co-field.\u201d The prosecutor stated that \u201cpeople like [Ms. Pearson] ... could have heard [the rumor] on the street.\u201d The prosecutor added: \u201cBut these aren\u2019t people who are just reciting back a rumor. They\u2019re going under oath in the grand jury. They're going under oath here at trial.\u201d",
+        "type": "majority",
+        "author": "REID, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Deborah A. P\u00e9rsico presented oral argument, and Joseph Virgilio, appointed by the court, filed a brief, for appellant.",
+      "Peter S. Smith, Assistant United States Attorney with whom Jeffrey A. Taylor, United States Attorney at the time the brief was filed, and Roy W. McLeese III, Mary B. McCord, and Ellen Chubin Epstein, Assistant United States Attorneys, were on the brief, for appellee.",
+      "James Klein, Alice Wang and Chris Kemmitt, filed a supplemental brief for amicus curiae Public Defender Service, supporting appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew DANIELS, Appellant, v. UNITED STATES, Appellee.\nNo. 06-CF-265.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 20, 2009.\nDecided Aug. 19, 2010.\nDeborah A. P\u00e9rsico presented oral argument, and Joseph Virgilio, appointed by the court, filed a brief, for appellant.\nPeter S. Smith, Assistant United States Attorney with whom Jeffrey A. Taylor, United States Attorney at the time the brief was filed, and Roy W. McLeese III, Mary B. McCord, and Ellen Chubin Epstein, Assistant United States Attorneys, were on the brief, for appellee.\nJames Klein, Alice Wang and Chris Kemmitt, filed a supplemental brief for amicus curiae Public Defender Service, supporting appellant.\nBefore REID, GLICKMAN and KRAMER, Associate Judges."
+  },
+  "file_name": "0250-01",
+  "first_page_order": 280,
+  "last_page_order": 294
+}

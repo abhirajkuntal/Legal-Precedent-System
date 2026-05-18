@@ -1,0 +1,379 @@
+{
+  "id": 7290356,
+  "name": "WEST MIFFLIN AREA SCHOOL DISTRICT, East Allegheny School District and South Allegheny School District, Appellants v. Dr. Gerald L. ZAHORCHAK, the Commonwealth of Pennsylvania, Department of Education, Duquesne City School District and Duquesne Education Association, Appellees",
+  "name_abbreviation": "West Mifflin Area School District v. Zahorchak",
+  "decision_date": "2010-09-29",
+  "docket_number": "",
+  "first_page": "1042",
+  "last_page": "1049",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 1042"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "877 A.2d 383",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8955235,
+        687750,
+        687765,
+        687766,
+        8955098,
+        8955131
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "415-19",
+          "parenthetical": "\"PAGE \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/877/0383-03",
+        "/pa/583/0274-02",
+        "/pa/583/0274-01",
+        "/pa/583/0275-01",
+        "/a2d/877/0383-01",
+        "/a2d/877/0383-02"
+      ]
+    },
+    {
+      "cite": "583 Pa. 275",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687766
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "328-35",
+          "parenthetical": "\"PAGE \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0275-01"
+      ]
+    },
+    {
+      "cite": "211 A.2d 487",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "418 Pa. 520",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1896035
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/418/0520-01"
+      ]
+    },
+    {
+      "cite": "992 A.2d 75",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3698272,
+        7286771
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/605/0484-02",
+        "/a2d/992/0075-01"
+      ]
+    },
+    {
+      "cite": "934 A.2d 1249",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8375816,
+        3596011
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/934/1249-01",
+        "/pa/594/0202-01"
+      ]
+    },
+    {
+      "cite": "594 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3596011
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/594/0202-01"
+      ]
+    },
+    {
+      "cite": "466 A.2d 267",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "899 A.2d 1085",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8422490,
+        3467679
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1098",
+          "parenthetical": "\"[I]t is clear a statute may be deemed per se unconstitutional if, under the classification, the class consists of one member and is closed or substantially closed to future membership.\""
+        },
+        {
+          "page": "1098"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/899/1085-01",
+        "/pa/587/0347-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 347",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3467679
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "369",
+          "parenthetical": "\"[I]t is clear a statute may be deemed per se unconstitutional if, under the classification, the class consists of one member and is closed or substantially closed to future membership.\""
+        },
+        {
+          "page": "369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0347-01"
+      ]
+    },
+    {
+      "cite": "761 A.2d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1366928,
+        11162777
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "striking down a statute giving distinct treatment to a \"class\" of school districts defined by having borders coterminous with the City of Harrisburg"
+        },
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0391-01",
+        "/a2d/761/1132-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366928
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "striking down a statute giving distinct treatment to a \"class\" of school districts defined by having borders coterminous with the City of Harrisburg"
+        },
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0391-01"
+      ]
+    },
+    {
+      "cite": "828 A.2d 1079",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        588041,
+        9108060
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that the classification at issue was rationally related to a legitimate state purpose and did not create a closed class of one member"
+        },
+        {
+          "page": "1087",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0121-01",
+        "/a2d/828/1079-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 121",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588041
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that the classification at issue was rationally related to a legitimate state purpose and did not create a closed class of one member"
+        },
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0121-01"
+      ]
+    },
+    {
+      "cite": "956 A.2d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8209924
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1049"
+        },
+        {
+          "page": "1050-52",
+          "parenthetical": "Cohn Jubelirer, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/956/1040-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 997,
+    "char_count": 22827,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18831271630122065
+    },
+    "sha256": "4527841f567ff56d5ad3b80b23223e3622039ce81e4795f57ae6b1f563509de8",
+    "simhash": "1:9a88803cf01d96ac",
+    "word_count": 3529
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+    ],
+    "parties": [
+      "WEST MIFFLIN AREA SCHOOL DISTRICT, East Allegheny School District and South Allegheny School District, Appellants v. Dr. Gerald L. ZAHORCHAK, the Commonwealth of Pennsylvania, Department of Education, Duquesne City School District and Duquesne Education Association, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice SAYLOR.\nThis is a direct appeal from the order of the Commonwealth Court upholding the constitutionality of certain portions of Act 45 of 2007, which amended Pennsylvania\u2019s Public School Code of 1949.\nAccording to the facts as stipulated by the parties, in July 2000, then-Seeretary of Education Eugene W. Hickok notified the Duquesne City School District (\u201cDu-quesne\u201d) that, due to its history of low test performance, it was being placed on the education empowerment list, as authorized by Section 1703-B of the Education Empowerment Act. See 24 P.S. \u00a7 17-1703-B. Thereafter, in October 2000, Secretary Hickok declared Duquesne a financially-distressed school district under Sections 691-697 of the School Code, id. \u00a7\u00a7 6-691-6-697. Consequently, a special board of control was appointed to manage and operate the district. See id. \u00a7 6-692. On June 5, 2007, Duquesne\u2019s control board eliminated the district\u2019s high school, an action that was approved by the Department of Education. Eighteen professional and temporary professional employees, represented by Appellee Duquesne Education Association, were furloughed as a result. Du-quesne did not enter into any agreements with neighboring school districts for the enrollment of its high school students.\nApproximately six weeks later, the General Assembly enacted Act 45 of 2007, which, inter alia, added Sections 1607.1 and 1113(b.2) to the School Code. See 24 P.S. \u00a7\u00a7 16-1607.1, 11\u2014111B(b.2). Section 1607.1, entitled, \u201cDistressed school districts and student attendance in other districts,\u201d provides, in relevant part:\nIf a third class school district in which a public high school is not maintained operates and, for at least five consecutive years, has operated under a special board of control under section 692, has been placed on the education empowerment list under section 1703-B, has, with the approval of the secretary, curtailed its educational program by eliminating its high school and has not assigned its high school pupils to another school district or school districts and provided adequate transportation in a manner pursuant to section 1607, the secretary shall have the following authority:\n(1) To designate two or more school districts that shall accept on a tuition basis the high school students of a distressed school district, so long as a designated school district\u2019s border is no more than three miles from the border of the distressed school district. Such designation shall occur no later than fifteen (15) days after the effective date of this section. No designated school district shall be assigned more than one hundred sixty-five (165) students from the distressed school district.\n24 P.S. \u00a7 16-1607.1(a). Section 1113(b.2) states that employees furloughed as a result of the closure of a Section 1607.1 district\u2019s high school must be hired on a preferential basis at school districts within three miles of the distressed district. See id. \u00a7 11-1113(b.2).\nDuquesne is the only school district in Pennsylvania that meets all of the criteria set forth in Section 1607.1(a). It is the only third-class school district on the empowerment list (although five other third-class districts \u2014 Aliquippa, Clairton City, Steelton-Highspire, Sto-Rox, and Wilkins-burg \u2014 were previously on the list). Du-quesne is also the only third-class school district that is operated by a special board of control. Appellants West Mifflin Area School District, East Allegheny School District, and South Allegheny School District are all located within three miles of Duquesne, and thus, are potential recipients of Duquesne\u2019s high school students.\nAppellants filed an amended petition for review in the Commonwealth Court\u2019s original jurisdiction, seeking injunctive relief and a declaratory judgment stating that Sections 1607.1 and 1113(b.2) comprise \u201cspecial laws\u201d in violation of Article III, Section 82 of the Pennsylvania Constitution. Section 82 provides, in relevant part:\nThe General Assembly shall pass no local or special law in any case which has been or can be provided for by general law and specifically the General Assembly shall not pass any local or special law ... [rjegulating the affairs of ... school districts [.]\nPa. Const, art. Ill, \u00a7 32 (emphasis added). In the petition, Appellants also claimed that Section 1607.1 violates Article II, Section' 1, which vests the legislative power of the Commonwealth in the General Assembly. The petition named as respondents (Appellees herein): Dr. Gerald L. Zahorc-hak in his official capacity as the Secretary of Education; the Department of Education (collectively, the \u201cDepartment\u201d); Duquesne; and the Duquesne Education Association. Appellees filed an answer and new matter, to which Appellants responded. Thereafter, the parties jointly filed a \u201cStipulation of Undisputed Facts\u201d (the \u201cStipulation\u201d), and additionally filed cross-applications for summary relief and supporting briefs. See Pa.R.A.P. 1532(b).\nA divided panel of the Commonwealth Court concluded that Sections 1607.1 and 1113(b.2) do not constitute special legislation; accordingly, it denied relief and dismissed the petition. See West Mifflin Area Sch. Dist. v. Zahorchak, 956 A.2d 1040 (Pa.Cmwlth.2008) (en banc). In so holding, the court deemed the challenged provisions to be more analogous to legislation upheld in Harrisburg School District v. Zogby, 574 Pa. 121, 828 A.2d 1079 (2003) (finding that the classification at issue was rationally related to a legitimate state purpose and did not create a closed class of one member), than to the enactment invalidated in Harrisburg School District v. Hickok, 563 Pa. 391, 761 A.2d 1132 (2000) (striking down a statute giving distinct treatment to a \u201cclass\u201d of school districts defined by having borders coterminous with the City of Harrisburg). The court reasoned that the criteria in Section 1607.1 \u201crelate rationally to the objective[s] of identifying school districts that have had educational shortcomings and have ongoing severe financial problems[,] and providing assistance if necessary when such a district eliminates its high school program.\u201d Zahorchak, 956 A.2d at 1049. The court concluded that Section 1113(b.2) likewise rationally relates to a legitimate state interest, namely, maintaining qualified teachers in public school service.\nAddressing the contention that Section 1607.1 creates a closed class of one school district, see Pa. Tpk. Comm\u2019n v. Commonwealth, 587 Pa. 347, 369, 899 A.2d 1085, 1098 (2006) (\u201c[I]t is clear a statute may be deemed per se unconstitutional if, under the classification, the class consists of one member and is closed or substantially closed to future membership.\u201d), the court accepted the Department\u2019s understanding of the phrase, \u201chas been placed on the education empowerment list,\u201d to include all school districts that were at one time on the list. Under this interpretation, the court explained, there are several other third-class school districts that could conceivably meet Section 1607.1\u2019s criteria. In reaching this conclusion, the court relied upon the presumption that the Legislature does not intend to violate the Constitution, see 1 Pa.C.S. \u00a7 1922(3), and the principle that, where a statute is reasonably susceptible of two constructions, one of which would render it unconstitutional, the court must adopt the interpretation that will allow the statute to be upheld. See Zahorchak, 956 A.2d at 1050 (citing Ramsey v. Zoning Hearing Bd. of Dormont, 77 Pa. Cmwlth. 456, 466 A.2d 267 (1983)). The court further found that Section 1607.1 does not violate the non-delegation doctrine (see supra note 5), because the General Assembly made the basic policy choices regarding the dispersal of students to nearby districts and simply granted the Secretary the authority to make choices concerning the placement of particular students.\nJudge Cohn Jubelirer authored a dissenting opinion, joined by Judge Pellegri-ni, in which she concluded that Sections 1607.1 and 1113(b.2) amount to unconstitutional special legislation. Initially, the dissent disagreed with the majority\u2019s interpretation that, \u201chas been placed on the education empowerment list,\u201d does not require continuing presence on the list. The dissent reasoned that, given Section 1607.1\u2019s express purpose to aid distressed school districts, where a district improves its academic performance and is removed from the empowerment list, its past inclusion on the list is irrelevant to determining whether it presently warrants attention under Section 1607.1. Thus, the dissent opined that the \u201chas been placed\u201d phraseology requires a district\u2019s presence on the list contemporaneous with its meeting all of the other Section 1607.1 criteria. As Duquesne is the only third-class school district on the empowerment list, and as the Empowerment Act, which provides for list placement, expires on June 30, 2010, the dissent observed that no other third-class district could simultaneously meet the requirements of presence on the list and supervision by a board of control for five consecutive years. Hence, the dissent expressed that Section 1607.1 creates a closed class of one school district\u2014namely, Duquesne\u2014rendering it per se unconstitutional. Further, because Section 1113(b.2) only applies to a Section 1607.1 district, the dissent opined that it, too, comprises unconstitutional special legislation. The dissent lastly noted that Sections 1607.1 and 1113(b.2) were clearly intended to address Duquesne\u2019s specific situation, and suggested that such particularized treatment, which leaves undisturbed existing procedures applicable to all other school districts in the Commonwealth, represents exactly the type of legislation prohibited by Article III, Section 32. See Zahorehak, 956 A.2d at 1050-52 (Cohn Jubelirer, J., dissenting).\nAppellants presently echo much of the Commonwealth Court dissent\u2019s reasoning. They argue that Section 1607.1 is unconstitutional per se because it creates a class of one member that is substantially closed to future membership. They claim that a school district must currently be on the empowerment list to qualify under Section 1607.1, and proffer that the statutory phrases, \u201chas operated,\u201d and \u201chas been placed,\u201d reflect a legislative objective to address conditions that subsist in the present timeframe. According to Appellants, it follows that Duquesne is alone in the class created by Section 1607.1 because, not only is Duquesne the only third-class school district presently on the empowerment list, but the list was effectively closed to new members as of June 1, 2004 \u2014 which preceded the enactment of Act 45.\nAppellants allege, moreover, that, even if the Court credits the Department\u2019s broad interpretation of the phrase, \u201chas been placed,\u201d it is highly unlikely that any of the other five third-class school districts that were once on the list will meet the necessary criteria for classification under Section 1607.1. They state that \u201cthe confluence of events necessary to allow any other school district beside Duquesne to qualify as a section 1607.1(a)(1) school district is so improbable that, even if not logically closed, the class created by section 1607.1(a)(1) is, in fact, \u2018substantially\u2019 closed to other school districts, and is therefore per se unconstitutional pursuant to the Turnpike Commission decision.\u201d Brief for Appellants at 38. That being the case, Appellants also contend that Section 1113(b.2) is invalid because it relies upon the unconstitutional classification from Section 1607.1, and, further, because it serves no legitimate state purpose.\nFinally, with regard to the non-delegation issue, Appellants assert that Section 1607.1 fails to provide definite standards, policies, and limitations to guide the Secretary\u2019s exercise of his discretion in assigning students to neighboring school districts. Therefore, they claim that it impermissibly delegates policymaking authority to the Secretary. See PAGE, 583 Pa. at 333, 877 A.2d at 418.\nIn response, the Department avers that other school districts may enter the single-member class initially created by Section 1607.1. The Department disputes Appellants\u2019 claim that a district must currently be on the empowerment list to qualify under that section, reasoning that the Legislature would have explicitly required present placement on the list if it had intended such a restriction. See Brief for Department at 29-30. With this in mind, the Department applies a broader construction of the statutory language, pursuant to which five other third-class school districts meet the empowerment-list criterion, as they \u201chave been placed\u201d on the list in the past (albeit they are no longer on the list). See id. at 16 (\u201cHere, the statute being challenged ... resulted in the immediate identification of a single school district, and would allow at least five other school districts to join the class at some point in the future.\u201d). The Department further contends that Section 1113(b.2) serves a legitimate state purpose, and, lastly, denies that Section 1607.1 unconstitutionally delegates legislative authority, noting that the General Assembly established the relevant policy and provided the Secretary with adequate standards to guide the exercise of his discretion in identifying neighboring districts to receive students. See Casino Free Phila. v. Pa. Gaming Control Bd., 594 Pa. 202, 206, 934 A.2d 1249, 1252 (2007).\nA statute duly enacted by the General Assembly is presumed valid and will not be declared unconstitutional unless it \u201cclearly, palpably and plainly violates the Constitution.\u201d Zogby, 574 Pa. at 135, 828 A.2d at 1087 (citation omitted). The party seeking to overcome the presumption of validity bears a heavy burden of persuasion. See id. As the constitutionality of a statute involves questions of law, we exercise plenary review. See In re Erie Golf Course, \u2014 Pa. -,-, 992 A.2d 75, 85 (2010).\nAs Appellants emphasize, legislation creating a class of one member that is closed or substantially closed to future membership is per se unconstitutional. See Pa. Tpk. Comm\u2019n, 587 Pa. at 369, 899 A.2d at 1098. Accordingly, our threshold inquiry is whether Section 1607.1 created such a class at the time it was enacted. Here, the parties agree that the initial class created by Section 1607.1 consisted only of Duquesne, see, e.g., Brief for the Department at 18 (noting that application of the relevant criteria from Section 1607.1 \u201cresulted in the immediate identification of only one school district\u2014the Duquesne City School District\u201d); see also id. at 16, and differ principally over whether the phrase, \u201chas been placed on the education empowerment list,\u201d 24 P.S. \u00a7 16-1607.1(a), allows for the later inclusion of school districts that were once on the list, albeit subsequently removed.\nIn the end, we find it unnecessary to answer that question definitively, for even were we to accept, arguendo, the broader construction favored by Appellees, Appellants are correct in highlighting that a highly improbable convergence of events would be necessary for any school district other than Duquesne to be affected by the legislative provisions at issue. First, the parties do not dispute that there are only five other potential school districts that could ever become members of the class created by Section 1607.1(a), by virtue of their status as third-class districts that had been placed on the empowerment list prior to its closure on June 1, 2004. See Stipulation at 7 \u00b6 51, reproduced in R.R. 19a. Additionally, they agree that, during the relevant timeframe, none of the other five third-class districts operated under a special board of control. See id. at 6 \u00b6 44, reproduced in R.R. 18a. Thus, to enter the class, one of those districts would have to return to control-board governance, remain under such governance for five consecutive years, and eliminate its high school without assigning its pupils to other schools. Not only is such a series of occurrences unlikely, but given that the Secretary\u2019s assignment of students to neighboring school districts would have had to occur \u201cno later than fifteen (15) days after the effective date of this section,\u201d 24 P.S. \u00a7 16-1607.1(a)(1)\u2014that is, by August 14, 2007 \u2014 any such third-class district that ultimately met all of these conditions could not benefit from the remedial provisions of Section 1607.1.\nGiven the above, we agree with Appellants that the class created by Section 1607.1 is, at a minimum, \u201csubstantially closed\u201d to new members, in violation of the dictates of Hickok and Pennsylvania Turnpike Commission. It seems clear that the practical effect of Section 1607.1 was, and was always intended to be, to provide a remedy solely for the adverse circumstances obtaining within the Du-quesne City School District upon elimination of its high school, by giving the Secretary authority to re-assign Duquesne\u2019s students to nearby schools, and by assuring that the affected school employees would be given preferential hiring treatment.\nWe recognize that Act 45 may embody a salutary program aimed at resolving certain problems that arose within the Du-quesne City School District in the summer of 2007, and that efforts by the General Assembly to ameliorate such difficulties are consistent with its obligation to \u201cprovide for the maintenance and support of a thorough and efficient system of public education to serve the needs of the Commonwealth.\u201d Pa. Const. art. III, \u00a7 14. Nevertheless, the constitutional prohibition of special legislation applies, by its terms, to the regulation of the affairs of school districts. Here, it is apparent that the challenged provisions of Act 45 amount to special legislation prohibited by Article III, Section 32 of the Pennsylvania Constitution. Accord Hickok, 563 Pa. at 398, 761 A.2d at 1136.\nAccordingly, the order of the Commonwealth Court is reversed, and the matter is remanded to that tribunal for further proceedings consistent with this opinion.\nChief Justice CASTILLE and Justices EAKIN, BAER, TODD, McCAFFERY and ORIE MELVIN join the opinion.\n. Act of Mar. 10, 1949, P.L. 30 (as amended 24 P.S. \u00a7\u00a7 1-[ XXX-XX-XXXX ]) (the \u201cSchool Code\").\n. Act of May 10, 2000, P.L. 44, No. 16, \u00a7 8.1 (as amended 24 P.S. \u00a7\u00a7 17-1701-B\u201417-1716-B) (the \"Empowerment Act\u201d).\n. Act of July 20, 2007, P.L. 278, No. 45 (effective immediately).\n. Section 1607 of the School Code states:\nPupils residing in a school district in which no public high school is maintained may attend ... the nearest or most conveniently located high school of such class as they may desire to attend, unless the board of school directors of the district of residence shall have assigned the pupils to a high school and adequate transportation is provided thereto....\n24 P.S. \u00a7 16-1607. This provision was already part of the School Code prior to the passage of Act 45.\n. \"The legislative power of this Commonwealth shall be vested in a General Assembly, which shall consist of a Senate and a House of Representatives.\u201d Pa. Const art. II, \u00a7 1. This provision has been interpreted to subsume a non-delegation rule, which requires that the \u201cbasic policy choices involved in 'legislative power\u2019 actually be made by the Legislature[.]\u201d Chartiers Valley Joint Schs. v. County Bd. of Sch. Dirs. of Allegheny County, 418 Pa. 520, 529, 211 A.2d 487, 492 (1965). See generally Pennsylvanians Against Gambling Expansion Fund, Inc. v. Commonwealth, 583 Pa. 275, 328-35, 877 A.2d 383, 415-19 (2005) (\u201cPAGE \u201d).\n. In contending that the empowerment list was closed to new members as of June 1, 2004, Appellants reference Section 1714.1-B of the School Code, which precludes any new additions to the list under Section 1703-B on or after June 1, 2004 \u2014 with the sole exception of entities designated as Commonwealth Partnership School Districts (\u201cCPSDs\u201d). See 24 P.S. \u00a7 17-1714.1-B. According to Appellants, this latter category is functionally limited to the Pittsburgh Public Schools because, to be considered a CPSD, the district must experience the loss of a revenue source available only to first-class-A school districts. See Brief for Appellants at 32-33 (citing 24 P.S. \u00a7\u00a7 17-1702-B, 6-652.1). Assuming Appellants are correct in suggesting that CPSDs are limited to first-class-A school districts, any addition to the empowerment list on or after June 1, 2004, could not possibly implicate Section 1607. l's procedures, as those procedures only apply to third-class school districts, and not first-class-A districts. Of course, Appellants' argument that these factors result in a closed class of one depends on their narrow interpretation of \"has been placed\u201d to include only districts currently on the empowerment list. For reasons that will become apparent, however, we need not address this argument.\n. In its brief, the Department effectively concedes that, absent a speculative legislative change, the five other third-class school districts that were previously on the empowerment list are the only ones that could ever come into the class. See id. at 30 n. 15; cf. id. at 34-35.\n. The Duquesne Education Association adopts the averments in the Department\u2019s brief, and additionally details a history of legislative action designed to protect job security for teachers in the interest of maintaining a \"thorough and efficient system of public education.\u201d Pa. Const. art. III, \u00a7 14.\n. Appellees do not deny that the empowerment list has been effectively closed to any additional third-class school districts. See supra note 7. We leave for another day the question of whether a statute creating a closed class of six specific school districts constitutes impermissible special legislation, as Appellants have not raised or preserved it.\n. Because of our holding, we need not address whether Sections 1607.1 and 1113(b.2) serve a legitimate state purpose, or whether Section 1607.1 impermissibly delegates legislative authority.",
+        "type": "majority",
+        "author": "Justice SAYLOR."
+      }
+    ],
+    "attorneys": [
+      "Paul N. Lalley, Campbell, Durrant, Beatty, Palombo & Miller, P.C., Hunting-don Valley, for West Mifflin Area School Dist., et al.",
+      "Thomas W. Corbett, Jr., Office of Atty. Gen. for Com.",
+      "William C. Andrews, Andrews & Price, for Duquesne City School Dist.",
+      "Thomas W. Scott, for Duquesne Education Assn.",
+      "Rosa Alease Copeland, Paul H. Titus, Schnader, Harrison, Segal & Lewis, L.L.P., Ann G. St. Ledger, Joseph Michael Miller, PA Dept, of Education, for Pennsylvania Dept, of Education, et al."
+    ],
+    "corrections": "",
+    "head_matter": "WEST MIFFLIN AREA SCHOOL DISTRICT, East Allegheny School District and South Allegheny School District, Appellants v. Dr. Gerald L. ZAHORCHAK, the Commonwealth of Pennsylvania, Department of Education, Duquesne City School District and Duquesne Education Association, Appellees.\nSupreme Court of Pennsylvania.\nArgued April 13, 2010.\nDecided Sept. 29, 2010.\nPaul N. Lalley, Campbell, Durrant, Beatty, Palombo & Miller, P.C., Hunting-don Valley, for West Mifflin Area School Dist., et al.\nThomas W. Corbett, Jr., Office of Atty. Gen. for Com.\nWilliam C. Andrews, Andrews & Price, for Duquesne City School Dist.\nThomas W. Scott, for Duquesne Education Assn.\nRosa Alease Copeland, Paul H. Titus, Schnader, Harrison, Segal & Lewis, L.L.P., Ann G. St. Ledger, Joseph Michael Miller, PA Dept, of Education, for Pennsylvania Dept, of Education, et al.\nCASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+  },
+  "file_name": "1042-02",
+  "first_page_order": 1104,
+  "last_page_order": 1111
+}

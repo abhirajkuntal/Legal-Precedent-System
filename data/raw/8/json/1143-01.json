@@ -1,0 +1,263 @@
+{
+  "id": 7289579,
+  "name": "INGRES CORPORATION, a Delaware corporation, Defendant Below, Appellant, v. CA, INC., a Delaware corporation, Plaintiff Below, Appellee",
+  "name_abbreviation": "Ingres Corp. v. CA, Inc.",
+  "decision_date": "2010-12-01",
+  "docket_number": "No. 105, 2010",
+  "first_page": "1143",
+  "last_page": "1147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "2000 WL 140781",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 WL 2521295",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "*3",
+          "parenthetical": "quoting M/S Bremen, 407 U.S. at 15, 92 S.Ct. 1907"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 F.2d 341",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2060120
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "345"
+        },
+        {
+          "page": "345",
+          "parenthetical": "\"[I]t should be respected as the responsible expression of the intention of the parties so long as there is no proof that its provisions will put one of the parties to an unreasonable disadvantage and thereby subvert the interests of justice.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/367/0341-01"
+      ]
+    },
+    {
+      "cite": "391 A.2d 214",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8049055
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "216"
+        },
+        {
+          "page": "216",
+          "parenthetical": "\"Such an agreement is unreasonable only when its enforcement would, under the circumstances then existing, seriously impair the plaintiff's ability to pursue his cause of action.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/391/0214-01"
+      ]
+    },
+    {
+      "cite": "685 A.2d 724",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7353119
+      ],
+      "pin_cites": [
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/685/0724-01"
+      ]
+    },
+    {
+      "cite": "2007 WL 544156",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "*3",
+          "parenthetical": "\"Delaware courts have held that, if there is a forum selection clause in a contract, even when venue where the suit is filed is proper, the court should decline to proceed when the parties freely agreed that litigation should be conducted in another forum.\""
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "942 A.2d 603",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8392992
+      ],
+      "pin_cites": [
+        {
+          "page": "607"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/942/0603-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 286",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11621226
+      ],
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/0286-01"
+      ]
+    },
+    {
+      "cite": "407 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9136358
+      ],
+      "weight": 11,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "15"
+        },
+        {
+          "page": "15"
+        },
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0001-01"
+      ]
+    },
+    {
+      "cite": "263 A.2d 281",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8080546
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/263/0281-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 363846",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 4575009",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2009,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 552,
+    "char_count": 9170,
+    "ocr_confidence": 0.756,
+    "pagerank": {
+      "raw": 9.375865078072037e-08,
+      "percentile": 0.5150304129700226
+    },
+    "sha256": "aac4130897d61c13474bc48e1cee85c75e095d53b1e5d0cb9fce3b3cf1ae3c06",
+    "simhash": "1:20bce4f8bb4b15dc",
+    "word_count": 1457
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS, and RIDGELY, Justices, constituting the Court en Banc."
+    ],
+    "parties": [
+      "INGRES CORPORATION, a Delaware corporation, Defendant Below, Appellant, v. CA, INC., a Delaware corporation, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "RIDGELY, Justice:\nThis case involves a breach of contract dispute between two software companies, Ingres Corporation (\u201cIngres\u201d) and CA, Inc. (\u201cCA\u201d). Ingres brought an action against CA in the California Superior Court (the \u201cCalifornia Action\u201d), alleging breach of contract. CA filed this action against Ingres in the Delaware Court of Chancery, requesting preliminary and permanent injunctive relief that would prevent Ingres from prosecuting the California Action and require Ingres to perform its obligations under various contracts, which addressed related subjects.\nTwo of those contracts contained forum selection clauses specifying either Delaware or New York as the chosen forum. The Court of Chancery denied Ingres\u2019s motion to stay this action in favor of the California Action, having concluded that deference to the California Action was not required, given the agreed upon forum selection clauses. After a trial, the Court of Chancery ruled substantially in favor of CA, awarded CA $2.25 million in fees and costs, and enjoined Ingres from prosecuting the California Action. This appeal followed.\nWe find no merit to Ingres\u2019s appeal and affirm on the basis of and for the reasons assigned by the Court of Chancery in its Memorandum and Letter Opinions. We also take this opportunity to reaffirm and clarify our holding in McWane Cast Iron Pipe Corp. v. McDowell-Wellman Engineering Co.\nIn McWane, this Court held that Delaware courts should exercise discretion in favor of a stay where a prior action, involving the same parties and issues, is pending elsewhere in a court capable of doing prompt and complete justice. As Justice Herrmann explained, this rule was \u201cimpelled by considerations of comity and the necessities of an orderly and efficient administration of justice.\u201d\nWe reaffirm that holding. But we also clarify McWane\u2019s application in cases where a contract identifies Delaware as the chosen forum in a legally enforceable forum selection clause. Consistent with the ruling of the United States Supreme Court in M/S Bremen v. Zapata Off-Shore Co., we hold that where contracting parties have expressly agreed upon a legally enforceable forum selection clause, a court should honor the parties\u2019 contract and enforce the clause, even if, absent any forum selection clause, the McWane principle might otherwise require a different result. The reason is that the McWane principle is a default rule of common law, which the parties to the litigation are free to displace by a valid contractual agreement.\n\u201cForum selection [ ] clauses are \u2018presumptively valid\u2019 and should be \u2018specifically\u2019 enforced unless the resisting party \u2018[ ] clearly show[s] that enforcement would be unreasonable and unjust, or that the clause [is] invalid for such reasons as fraud and overreaching.\u2019 \u201d Courts should assess the reasonableness of a forum selection clause on a case-by-case basis.\nIngres argues that the Court of Chancery erred because one of the executed agreements between the parties did not contain an express forum selection clause. But in denying Ingres\u2019 motion to stay, the Court of Chancery explained that in determining which contracts governed the various disputes, the court must consider the entire collection of related contracts, including those that contained forum selection clauses specifying Delaware or New York courts as the chosen forum. After considering and interpreting all of the related agreements, the Court of Chancery concluded that the agreement that did not contain a forum selection clause did not supersede those that did. The Court of Chancery explained:\nIngres agreed in the fundamental Legacy Support Agreement that it would adjudicate all claims in tort or contract that relate to these agreements in a specific forum. By enjoining Ingres from proceeding in a different forum, I simply hold it to the promises it made\u2014 promises that remain binding upon it. Obviously, this order intends no disrespect to my distinguished judicial colleagues in California; rather, it is compelled by the parties\u2019 contracts.\nWe agree with that analysis. Here, the Court of Chancery carefully considered the parties\u2019 contractual agreements and enforced the forum selection clause included therein. Ingres has not shown that the clause was unreasonable, unjust, or otherwise invalid. Given the broad forum selection clauses included in the parties\u2019 related agreements, the Court of Chancery did not err in enjoining Ingres from prosecuting its breach of contract claims in California.\nCONCLUSION\nThe judgment of the Court of Chancery is AFFIRMED.\n. The forum selection clauses relevantly provide: \"Each party hereto agrees that it shall bring any action or proceeding in respect of any claim directly arising out of or related to this Agreement, whether in tort or contract or at law or in equity in any state or U.S. federal court sitting in The City of New York or in any state or U.S. federal court sitting in the State of Delaware .... \u201d (emphasis added).\n. CA, Inc. v. Ingres Corp., 2009 WL 4575009 (Del.Ch. Dec. 7, 2009).\n. CA, Inc. v. Ingres Corp., 2010 WL 363846 (Del.Ch. Jan. 26, 2010).\n. 263 A.2d 281 (Del.1970).\n. See id. at 283.\n. See id.\n. 407 U.S. 1, 92 S.Ct. 1907, 32 L.Ed.2d 513 (1972).\n. See id. at 15, 92 S.Ct. 1907; Elf Atochem North Am., Inc. v. Jaffari, 727 A.2d 286, 287 (Del.1999) (dismissing an action brought in Delaware \"on the ground that [an] [agreement validly predetermined the fora in which disputes would be resolved\u201d); Aveta, Inc. v. Colon, 942 A.2d 603, 607 (Del.Ch.2008) (\"Delaware courts afford a great deal of respect to a plaintiff's choice of forum, and this respect should be even more stalwart where both parties have agreed in advance to a forum by contractual provision.\u201d); HealthTrio, Inc. v. Margules, 2007 WL 544156, at *3 (Del.Super. Jan. 16, 2007) (\"Delaware courts have held that, if there is a forum selection clause in a contract, even when venue where the suit is filed is proper, the court should decline to proceed when the parties freely agreed that litigation should be conducted in another forum.\u201d); Outokumpu Eng'g Enters. v. Kvaerner Enviropower, Inc., 685 A.2d 724, 733 (Del.Super.1996) (explaining that forum selection clauses are entitled to \"substantial weight\u201d); Elia Corp. v. Paul N. Howard Co., 391 A.2d 214, 216 (Del.Super.1978) (\u201c[E]ven though venue is proper where suit is filed and a court of competent jurisdiction exists, that court should decline to proceed with the cause when the parties have freely agreed that litigation shall be conducted in another forum and where such agreement is not unreasonable at the time of litigation.\u201d) (citing M/S Bremen, 407 U.S. 1, 92 S.Ct. 1907). See also Cent. Contracting Co. v. Maryland Cas. Co., 367 F.2d 341, 345 (3d Cir.1966) (\"So long as there is nothing unreasonable in such a provision there is no basis for viewing it as an affront to the judicial power, which must be stricken down.\u201d)\n. Capital Grp. Cos., Inc. v. Armour, 2004 WL 2521295, at *3 (Del.Ch. Nov. 3, 2004) (quoting M/S Bremen, 407 U.S. at 15, 92 S.Ct. 1907). See also M/S Bremen, 407 U.S. at 15, 92 S.Ct. 1907 (\u201cA contractual choice-of-forum clause should be held unenforceable if enforcement would contravene a strong public policy of the forum in which suit is brought, whether declared by statute or by judicial decision.\u201d); HealthTrio, 2007 WL 544156, at *3 (\u201cMere inconvenience or additional expense is not the test of unreasonableness. In light of present day commercial realities, a forum clause should control absent a strong showing that it should be set aside.\u201d) (quoting Eisenmann Corp. v. Gen. Motors Corp., 2000 WL 140781, at *7 (Del.Super. Jan. 28, 2000)); Elia, 391 A.2d at 216 (\"Such an agreement is unreasonable only when its enforcement would, under the circumstances then existing, seriously impair the plaintiff\u2019s ability to pursue his cause of action.\u201d); Cent. Contracting, 367 F.2d at 345 (\"[I]t should be respected as the responsible expression of the intention of the parties so long as there is no proof that its provisions will put one of the parties to an unreasonable disadvantage and thereby subvert the interests of justice.\u201d).",
+        "type": "majority",
+        "author": "RIDGELY, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Kurt M. Heyman, Esquire and Patricia L. Enerio, Esquire of Proctor Heyman LLP, Wilmington, DE; Of Counsel: David J. Berger, Esquire (argued) and Katherine L. Henderson, Esquire of Wilson Sonsini Goodrich & Rosati PC, San Francisco, CA, for appellant.",
+      "David J. Teklits, Esquire and Kevin M. Coen, Esquire of Morris, Nichols, Arsht & Tunnell LLP, Wilmington, DE; Of Counsel: Maria T. Galeno, Esquire (argued) of Pillsbury Winthrop Shaw Pittman LLP, New York, NY; Bruce A. Ericson, Esquire and Kevin M. Fong, Esquire of Pillsbury Winthrop Shaw Pittman LLP, San Francisco, CA; James G. Gatto, Esquire of Pillsbury Winthrop Shaw Pittman LLP, Washington, D.C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "INGRES CORPORATION, a Delaware corporation, Defendant Below, Appellant, v. CA, INC., a Delaware corporation, Plaintiff Below, Appellee.\nNo. 105, 2010.\nSupreme Court of Delaware.\nSubmitted: Sept. 1, 2010.\nDecided: Dec. 1, 2010.\nKurt M. Heyman, Esquire and Patricia L. Enerio, Esquire of Proctor Heyman LLP, Wilmington, DE; Of Counsel: David J. Berger, Esquire (argued) and Katherine L. Henderson, Esquire of Wilson Sonsini Goodrich & Rosati PC, San Francisco, CA, for appellant.\nDavid J. Teklits, Esquire and Kevin M. Coen, Esquire of Morris, Nichols, Arsht & Tunnell LLP, Wilmington, DE; Of Counsel: Maria T. Galeno, Esquire (argued) of Pillsbury Winthrop Shaw Pittman LLP, New York, NY; Bruce A. Ericson, Esquire and Kevin M. Fong, Esquire of Pillsbury Winthrop Shaw Pittman LLP, San Francisco, CA; James G. Gatto, Esquire of Pillsbury Winthrop Shaw Pittman LLP, Washington, D.C., for appellee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS, and RIDGELY, Justices, constituting the Court en Banc."
+  },
+  "file_name": "1143-01",
+  "first_page_order": 1169,
+  "last_page_order": 1173
+}

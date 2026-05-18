@@ -1,0 +1,589 @@
+{
+  "id": 7288474,
+  "name": "Kelvin X. GREER, Petitioner v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent",
+  "name_abbreviation": "Greer v. Unemployment Compensation Board of Review",
+  "decision_date": "2010-07-29",
+  "docket_number": "",
+  "first_page": "733",
+  "last_page": "742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 A.3d 733"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "242 A.2d 454",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "Philco"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "430 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915682
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "Philco"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/430/0101-01"
+      ]
+    },
+    {
+      "cite": "717 A.2d 535",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "553 Pa. 684",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "693 A.2d 637",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11995497
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "640"
+        },
+        {
+          "page": "640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/693/0637-01"
+      ]
+    },
+    {
+      "cite": "163 A.2d 91",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "Vrotney"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "400 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1292500
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "Vrotney"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/400/0440-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 167",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "\"This subchapter may be cited as the [NLRA].\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 LRRM (BNA) 1393",
+      "category": "reporters:specialty",
+      "reporter": "L.R.R.M. (BNA)",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(5) and (b)(3)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 A.2d 366",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "760 A.2d 492",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11185272
+      ],
+      "pin_cites": [
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0492-01"
+      ]
+    },
+    {
+      "cite": "920 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8321960,
+        3014753,
+        3015194,
+        8321911
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "168",
+          "parenthetical": "citations and quotations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/920/0162-02",
+        "/pa/591/0542-01",
+        "/pa/591/0543-01",
+        "/a2d/920/0162-01"
+      ]
+    },
+    {
+      "cite": "842 A.2d 359",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9286850,
+        91666,
+        9286868,
+        91559
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Behers"
+        },
+        {
+          "page": "367"
+        },
+        {
+          "page": "367",
+          "parenthetical": "\"[T]o consider 'past practices' not memorialized in the parties' written agreement would eviscerate the clear and simple rule articulated in Miceli.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/842/0359-01",
+        "/pa/577/0054-01",
+        "/a2d/842/0359-02",
+        "/pa/577/0055-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 55",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91559
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Behers"
+        },
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0055-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 515",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813589
+      ],
+      "weight": 10,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "520"
+        },
+        {
+          "page": "115"
+        },
+        {
+          "page": "525-26"
+        },
+        {
+          "page": "118"
+        },
+        {
+          "page": "525-27"
+        },
+        {
+          "page": "118"
+        },
+        {
+          "page": "526"
+        },
+        {
+          "page": "118",
+          "parenthetical": "\"[C]ondoning a rule that would require courts to consider factors other than the previous terms and conditions of employment would only complicate the issue and is contrary to our policy to keep the standards regarding disruption of the status quo easy to apply on the administrative level.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0515-01"
+      ]
+    },
+    {
+      "cite": "761 A.2d 551",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "563 Pa. 704",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "738 A.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11563296
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "81"
+        },
+        {
+          "page": "81",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/738/0077-01"
+      ]
+    },
+    {
+      "cite": "506 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1790962
+      ],
+      "weight": 12,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "294"
+        },
+        {
+          "page": "369"
+        },
+        {
+          "page": "289-90"
+        },
+        {
+          "page": "367"
+        },
+        {
+          "page": "281"
+        },
+        {
+          "page": "362"
+        },
+        {
+          "page": "293"
+        },
+        {
+          "page": "869"
+        },
+        {
+          "page": "281"
+        },
+        {
+          "page": "362"
+        },
+        {
+          "page": "293"
+        },
+        {
+          "page": "369",
+          "parenthetical": "\"To hold that participation in a strike in contravention of federal law constitutes willful misconduct under Section 402(e"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/506/0274-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213315
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0299-01"
+      ]
+    },
+    {
+      "cite": "953 F.2d 807",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519415
+      ],
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/953/0807-01"
+      ]
+    },
+    {
+      "cite": "940 A.2d 1277",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8309677
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/940/1277-01"
+      ]
+    },
+    {
+      "cite": "694 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Silence is considered an admission, only when the circumstances are such that one ought to speak and does not.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "548 Pa. 640",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Silence is considered an admission, only when the circumstances are such that one ought to speak and does not.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "687 A.2d 416",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7349934
+      ],
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/687/0416-01"
+      ]
+    },
+    {
+      "cite": "541 A.2d 48",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1372575
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/116/0007-01"
+      ]
+    },
+    {
+      "cite": "749 A.2d 1028",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11533401
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/749/1028-01"
+      ]
+    },
+    {
+      "cite": "851 A.2d 240",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9235235
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "252"
+        },
+        {
+          "parenthetical": "\"The terms of [the employer's substance abuse] policy may be trumped by statute or collective bargaining agreement, but it is the claimant's burden to develop the record appropriately to succeed in that defense.\""
+        },
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/851/0240-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1041,
+    "char_count": 27610,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 6.939155244961223e-08,
+      "percentile": 0.42087743339476547
+    },
+    "sha256": "f26c40821b28cbc54d1fe69f0e56d38975a49f08cdc53cb65b4cec8a5179d262",
+    "simhash": "1:c232d5ac7506669f",
+    "word_count": 4451
+  },
+  "last_updated": "2024-02-27T20:05:59.212256+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: PELLEGRINI, Judge, and BROBSON, Judge, and McCULLOUGH, Judge."
+    ],
+    "parties": [
+      "Kelvin X. GREER, Petitioner v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge BROBSON.\nPetitioner Kelvin X. Greer (Claimant) petitions for review of a decision and order of the Unemployment Compensation Board of Review (Board), dated August 24, 2009. The Board reversed the decision of a Referee and declared Claimant ineligible for benefits under Section 402(e.1) of the Unemployment Compensation Law (Law). We affirm the Board\u2019s order.\nThe facts, as found by the Board, are as follows:\n1. The claimant was last employed as a Machinist by Lehigh Heavy Forge Corporation [ (Employer)] from June of 2001, at a final pay rate of $17.35 per hour. His last day of work was October 31, 2008.\n2. The employer\u2019s rules state that, \u201cPossession or consumption of alcoholic beverages on plant premises, or reporting to work under the influence of alcohol, and under the influence of drugs, and/or narcotics, or in possession of dangerous drugs and narcotics while on plant premises, or reporting to working under the influence of drugs and/or arranging to buy or sell drugs while on company property, and/or conviction of drug-related crime (Employer\u2019s 1) are prohibited.\u201d\n3. The employer\u2019s further explanation of the drug and alcohol policy statement also states that, \u201cEmployees suspected of being under the influence of drugs and/or alcohol, be tested for blood levels of drugs and alcohol.\u201d\n4. The claimant was or should have been aware of this policy as it was publicly posted in the workplace.\n5. On October 30, 2008, the employer smelled the odor of alcohol in the claimant\u2019s presence.\n6. The employer requested that the claimant be tested.\n7. The claimant agreed to be tested and was taken to St. Luke\u2019s Hospital North.\n8. The claimant was given a blood/alcohol test and a drug test.\n9. The blood/alcohol test came back negative.\n10. The drug test, however, came back positive for cocaine.\n11. The claimant admitted to the department on his claimant questionnaire that he failed the drug test when his sample \u201ctested positive for traces of cocaine in my urine.\u201d\n12. When confronted with the drug test results, the claimant admitted to the employer that he had drug and alcohol problems and that he was planning on enrolling in a treatment program in Al-toona Pa.\n13. On cross examination the claimant admitted that he ingested cocaine at a party about a week before he was tested and that he knew it was a mistake.\n14. The employer was not acting with any discriminatory animus when it demanded that the claimant submit to the testing.\n15. The claimant was not subjected to disparate treatment.\n(Certified Record (C.R.), Item No. 15 at 1-2.)\nFollowing his discharge, Claimant applied for benefits with the Allentown Unemployment Compensation Service Center, which found Claimant ineligible under Section 402(e.l) of the Law. Claimant appealed. Following a hearing, the Referee awarded benefits, finding that Employer did not meet its burden to prove that Claimant failed the drug test. Employer appealed to the Board. The Board reversed the Referee, holding that Claimant was ineligible for benefits under Section 402(e.l) of the Law. The Board determined that Employer had an established substance abuse policy, Claimant was subjected to drug and alcohol testing in accordance with Employer\u2019s policy, and Claimant tested positive for cocaine in violation of Employer\u2019s policy.\nOn appeal, Claimant argues that there is not substantial evidence in the record to support the Board\u2019s finding that Claimant tested positive for cocaine in violation of Employer\u2019s substance abuse policy. Claimant also argues that Employer\u2019s substance abuse policy violated the terms of the CBA.\nPursuant to Section 402(e.l) of the Law, an employer is required to demonstrate (1) that it had an established substance abuse policy and (2) that the claimant violated the policy. UGI Utils., Inc. v. Unemployment Comp. Bd. of Review, 851 A.2d 240, 252 (Pa.Cmwlth.2004) (UGI Utilities). If an employer meets its initial burden, a claimant will be rendered ineligible for benefits unless the claimant is able to demonstrate that the employer\u2019s substance abuse policy is in violation of the law or a CBA. Id. (\u201cThe terms of [the employer\u2019s substance abuse] policy may be trumped by statute or collective bargaining agreement, but it is the claimant\u2019s burden to develop the record appropriately to succeed in that defense.\u201d).\nClaimant argues, first, that there is not substantial evidence in the record to support the Board\u2019s finding that Claimant tested positive for cocaine in violation of Employer\u2019s substance abuse policy, because Employer failed to offer any evidence authenticating the drug test conducted or its purported results. Citing this Court\u2019s decision in Ellis v. Unemployment Compensation Board of Review, 749 A.2d 1028 (Pa.Cmwlth.2000), Claimant contends that the results of the drug test could not be considered by the Board because Employer failed to offer any testimony regarding the chain of custody for the samples taken from Claimant. Claimant further asserts that because Employer failed to demonstrate that the samples were taken from Claimant, Employer was prohibited from introducing the purported results of the testing into evidence. While we agree that chain of custody must be proven before drug test results can be entered into evidence, we do not agree that the Board\u2019s finding of fact is not supported by substantial evidence in the record.\nIntroducing drug test results into evidence is not the sole means by which an employer can demonstrate a claimant violated a substance abuse policy. Violation of an employer\u2019s substance abuse policy also can be established by a claimant\u2019s own admission that he or she violated the policy. Szostek v. Unemployment Comp. Bd. of Review, 116 Pa.Cmwlth. 7, 541 A.2d 48 (1988). Moreover, a claimant\u2019s failure to deny testing positive for drugs when confronted with test results by the employer may constitute an admission by silence. McIntyre v. Unemployment Comp. Bd. of Review, 687 A.2d 416, 418 (Pa.Cmwlth.1997), allocator den., 548 Pa. 640, 694 A.2d 624 (1997) (\u201cSilence is considered an admission, only when the circumstances are such that one ought to speak and does not.\u201d).\nHere, the Board\u2019s finding that Claimant tested positive for cocaine was based on admissions made by Claimant, not on the results of the drug test itself. First, Claimant admitted on the claimant questionnaire that he \u201ctested positive for traces of cocaine in [his] urine.\u201d (C.R., Item No. 2 at 1.) Although Claimant testified that the claimant questionnaire did not accurately reflect the statements he made to the unemployment representative preparing the claimant questionnaire, the Board accepted the claimant questionnaire as written. In an unemployment case, the Board is the ultimate finder of fact, \u201cempowered to make determinations as to witness credibility and conflicting evidence.\u201d Architectural Testing, Inc. v. Unemployment Comp. Bd. of Review, 940 A.2d 1277, 1280 n. 2 (Pa.Cmwlth.2008). Next, when Employer met with Claimant to discuss termination for violation of the substance abuse policy, not only did Claimant fail to deny testing positive for drugs, Claimant admitted to Employer to having both a drug and alcohol problem and that he was seeking treatment. (C.R., Item No. 10 at 41.) Finally, Claimant admitted at the Referee\u2019s hearing that he had ingested cocaine about a week before the date of the drug test. (Id. at 64.) The Board\u2019s finding that Claimant tested positive for cocaine is, therefore, supported by substantial evidence in the record.\nWe address, next, Claimant\u2019s contention that Employer\u2019s substance abuse policy violated the terms of the CBA. The question of whether a drug test was implemented or requested in violation of a CBA under Section 402(e.l) of the Law is a matter of first impression before this Court. Claimant argues that, in making such a determination, this Court should apply federal labor law.\nClaimant asserts that because drug testing has been recognized by the National Labor Relations Board (NLRB) as a mandatory subject of bargaining, Employer is prohibited from instituting drug testing unless it is provided for in the CBA. See Bolden v. Se. Pennsylvania Transp. Auth., 953 F.2d 807, 827 (3d Cir.1991). Pointing out that it is undisputed that the CBA is silent with regard to drug testing, Claimant argues that because Employer\u2019s purported substance abuse policy was established in April 2005\u2014a year-and-a-half before the CBA was entered into on October 8, 2006\u2014if such a policy were to remain in effect, Employer would have had to incorporate the policy into the CBA. Notwithstanding the absence of a provision expressly authorizing drug testing, Claimant accepts that a CBA may implicitly permit drug testing based on \u201cpractice, usage and custom.\u201d Consolidated Rail Corp. v. Railway Labor Executives\u2019Ass\u2019n, 491 U.S. 299, 311, 109 S.Ct. 2477, 105 L.Ed.2d 250 (1989). Claimant contends, however, that because Employer never enforced its substance abuse policy against any employee \u2014 save Claimant \u2014 -the CBA does not implicitly authorize drug testing. For the reasons that follow, we reject Claimant\u2019s argument.\nPennsylvania courts have discouraged looking to federal labor law for the purpose of deciding a claimant\u2019s eligibility for unemployment compensation benefits. In Penflex, Inc. v. Bryson, 506 Pa. 274, 294, 485 A.2d 359, 369 (1984) {Penflex), our Supreme Court addressed, inter alia, the question of whether employee participation in a strike, which purportedly violated federal labor law, constituted willful misconduct under Section 402(e) of the Law. Id. at 289-90, 485 A.2d at 367. There, the claimants engaged in a work stoppage before their labor union notified the Federal Mediation and Conciliation Service of the contract dispute as required by Section 8(d) of the NLRA. Id. at 281, 485 A.2d at 362. Consequently, the employer terminated the claimants for participating in what the employer deemed to be an \u201cillegal\u201d strike. Rejecting the employer\u2019s argument that participation in a work stoppage in violation of Section 8(d) of the NLRA must be deemed \u201cwillful misconduct\u201d under Section 402(e) of the Law, the Supreme Court stated:\nTo hold that participation in a strike in contravention of federal law constitutes willful misconduct under Section 402(e) would require the courts, in every case, to determine whether an alleged infraction of federal law in fact occurred and, if so, whether the strike must be deemed illegal on account of the infraction. Any such attempt to construe and apply federal law in these situations would constitute an impermissible intrusion into the regulatory jurisdiction of the [NLRB] under Section 8 of the [NLRA].\nId. at 293, 485 A.2d at 869.\nSimilarly, this Court has held that \u201cthe NLRA does not provide a persuasive model for [this] Court\u2019s interpretation of the Law.\u201d Chavez (Token) v. Unemployment Comp. Bd. of Review, 738 A.2d 77, 81 (Pa.Cmwlth.1999) (Chavez), allocatur den., 563 Pa. 704, 761 A.2d 551 (2000). In Chavez, the employer made unilateral changes to the employee health plan and the employee handbook during the course of negotiations with the claimants\u2019 labor union. Id. at 79. The employer then conditioned continued employment on acceptance of the new health plan and new handbook. As a result, the union commenced a work stoppage. Id. This Court was asked to address the question of whether the strike/lockout analysis under Section 402(d) of the Law applied to a work stoppage initiated by workers represented by a labor union, but who had no existing or recently expired collective bargaining agreement with the employer. Id. at 80. Claimants argued that the strike/lockout analysis should apply due to the fact that the NLRA obligates employers to bargain in good faith over any changes to wages, hours, terms and conditions of employment \u2014 otherwise known as mandatory subjects of bargaining \u2014 once workers are represented by a certified union. Id. Rejecting the claimants\u2019 position, this Court stated:\n[Claimants\u2019] reliance on the NLRA is misplaced. The NLRA is designed to regulate collective bargaining, whereas the principal objective of the Law is to alleviate economic distress in individual cases where employees become unemployed through no fault of their own. Accordingly, the NLRA does not provide a persuasive model for the Court\u2019s interpretation of the Law. Moreover, if the Court were to adopt petitioner\u2019s suggestion that the strike/lockout analysis be applied to the status quo mandated by the NLRA when federal law requires bargaining in good faith, then the Court would needlessly entangle this state\u2019s unemployment compensation jurisprudence with the complex body of federal law surrounding the NLRA.\nChavez, 738 A.2d at 81 (citations omitted).\nFurthermore, our Supreme Court has discouraged looking beyond the language of a CBA to determine the terms and conditions of employment in the context of unemployment compensation. In Miceli v. Unemployment Compensation Board of Review, 519 Pa. 515, 549 A.2d 113 (1988) {Miceli), the Supreme Court addressed the question of whether a work stoppage after the expiration of a CBA was the result of a strike or a lockout under Section 402(d) of the Law. Utilizing the Vrotney test, the Supreme Court\u2019s analysis was dependent on which party, the labor union or the employer, first altered the \u201cstatus quo.\u201d Id. at 520, 549 A.2d at 115. Consequently, it was necessary for the Supreme Court to determine what constituted the \u201cstatus quo\u201d between the parties. In our opinion, this Court concluded that \u201cthe status quo consisted not only of the terms and conditions of employment under the expired [CBA], but also the previous conduct of the parties.\u201d Id. at 525-26, 549 A.2d at 118. The Supreme Court disagreed, finding that this Court erred by considering past practices, and held that a court may not look beyond the terms and conditions of employment, as embodied in the CBA, in determining what constitutes the status quo in an unemployment compensation case. Id. at 525-27, 549 A.2d at 118.\nLater, in Behers v. Unemployment Compensation Board of Review, 577 Pa. 55, 842 A.2d 359 (2004) (Behers), our Supreme Court was again asked to determine if this Court erred by looking beyond the terms and conditions of a CBA in determining what constitutes the status quo in the context of unemployment compensation. Reaffirming its decision in Miceli, the Supreme Court again held that this Court erred by considering past practices, stating:\nThe Commonwealth Court erred in interpreting Miceli to permit the consideration of \u201cpast practices\u201d beyond the express terms of the parties\u2019 CBA in determining what constitutes the status quo. Indeed, to consider \u201cpast practices\u201d not memorialized in the parties\u2019 written agreement would eviscerate the clear and simple rule articulated in Miceli.\nId. at 67-68, 842 A.2d at 367.\nAlthough Penflex, Chavez, Miceli, and Behers do not specifically address Section 402(e.l) of the Law, we find these cases persuasive. The overarching theme in each of these decisions is that, in the context unemployment compensation, standards should be simple and easy to apply at the administrative level. Our Supreme Court has stated:\n[T]he Law is designed to allow funds to be obtained by persons unemployed through no fault of their own at the earliest point that is administratively feasible.\nTo this end, the unemployment compensation system must operate quickly, simply, and efficiently. The proceedings are by design, brief and informal in nature. Thus, the claims for benefits are not intended to be intensely litigated.\nHarkness v. Unemployment Comp. Bd. of Review, 591 Pa. 54B, 553, 920 A.2d 162, 168 (2007) (citations and quotations omitted). Claimant\u2019s standard would require Referees, the Board, and/or the courts to construe and apply the complex system of federal labor law in every instance where it is alleged that an employer\u2019s substance abuse policy violates a CBA. Such a standard would be difficult to apply at the administrative level and would invariably be more costly and more time-consuming, as it would necessarily involve delving into past practices and bargaining history. Accordingly, we find application of federal labor law inappropriate. In determining whether Claimant carried his burden of establishing that Employer\u2019s substance abuse policy violated the CBA under Section 402(e.l) of the Law, this Court will look only to the language of the CBA itself.\nIn the present case, Claimant has established, at most, that the CBA is silent with regard to drug testing. This fact alone, however, fails to demonstrate that Employer\u2019s substance abuse policy was \u201ctrumped\u201d by the CBA. UGI Utilities, 851 A.2d at 252. Although the CBA does not explicitly authorize drug testing, the CBA also does not explicitly prohibit it. Instead, the CBA gives Employer considerable discretion over operation of the facilities and direction of the workforce. Specifically, Section 2 of the CBA, entitled \u201cManagement,\u201d provides:\nThe management of the works and the direction of the working forces, including the right to hire, suspend or discharge for proper cause, ... is vested exclusively in [Employer], unless expressly limited by specific provisions contained in the Agreement.\n(C.R., Item No. 6 at 13 (emphasis added).) Notably, no section of the CBA expressly limits Employer\u2019s ability to maintain its substance abuse policy, which, as pointed out by Claimant, was authored before the parties entered into the CBA. Moreover, Section 17 of the CBA, entitled \u201cSafety and Health,\u201d provides that Employer \u201cshall continue to make reasonable provisions for the safety and health of its employees at the plant during the hours of their employment.\u201d (C.R., Item No. 6 at 85.) In light of the above, we hold that Claimant has failed to establish that Employer\u2019s substance abuse policy violated the CBA under Section 402(e.l) of the Law.\nAccordingly, we affirm the decision of the Board.\nORDER\nAND NOW, this 29th day of July, 2010, the order of the Unemployment Compensation Board of Review, dated August 24, 2009, is hereby AFFIRMED.\n. Act of December 5, 1936, Second Ex.Sess., P.L. (1937) 2897, as amended, added by Section 3 of the Act of December 9, 2002, P.L. 1330, 43 P.S. \u00a7 802(e.1). Section 402(e.1) of the Law provides:\nAn employe shall be ineligible for compensation for any week\u2014\n(e.l) In which his unemployment is due to discharge or temporary suspension from work due to failure to submit and/or pass a drug test conducted pursuant to an employer's established substance abuse policy, provided that the drug test is not requested or implemented in violation of the law or of a collective bargaining agreement.\n43 P.S. \u00a7 802(e.l).\n. Employer\u2019s employees are represented by the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, Local 2599 (Union). Employer and Union negotiated and formally executed a collective bargaining agreement (CBA) on October 8, 2006.\n. The Board also determined that Claimant was ineligible for benefits under Section 402(e) of the Law, 43 P.S. \u00a7 802(e), which relates to a claimant's ineligibility for benefits \u201cdue to his discharge or temporary suspension from work for willful misconduct connected with his work.\u201d This Court, however, has recognized that subsequent to the General Assembly's enactment of Section 402(e.l) of the Law, discharges for failure of a drug test should no longer be analyzed under Section 402(e) of the Law as willful misconduct. See UGI Utils., Inc. v. Unemployment Comp. Bd. of Review, 851 A.2d 240 (Pa.Cmwlth.2004) (holding Board erred in analyzing employee's discharge for failure of drug test under Section 402(e) of Law, rather than Section 402(e.1) of Law).\n.Our scope of review is limited to determining whether the Board\u2019s findings of fact are supported by substantial evidence in the record, whether an error of law was committed, or whether constitutional rights were violated. Architectural Testing, Inc. v. Unemployment Comp. Bd. of Review, 940 A.2d 1277, 1280 n. 2 (Pa.CmwIth.2008).\n. \"In determining whether substantial evidence exists to support the Board's findings, this Court must examine the testimony in the light most favorable to the'party prevailing below, giving the prevailing party the benefit of any inferences which can be logically and reasonably drawn from the evidence.\u201d Szostek v. Unemployment Comp. Bd. of Review, 116 Pa.Cmwlth. 7, 541 A.2d 48, 50 (1988).\n. The Board found that Employer\u2019s rules contain a substance abuse policy, prohibiting employees from reporting to work under the influence of drugs or alcohol and providing that employees suspected of being under the influence of drugs or alcohol will be subjected to testing. (C.R., Item No. 15 at 1.) The Board also found that Claimant was or should have been aware of this policy because it was publicly posted in the workplace. Id. Claimant has not challenged these findings of fact; therefore, they are conclusive on appeal. Gibson v. Unemployment Comp. Bd. of Review, 760 A.2d 492, 494 (Pa.Cmwlth.2000).\n. While this statement arguably constitutes inadmissible hearsay, Claimant failed to object to its admission into evidence. (C.R., Item No. 10 at 5.) Under the \"legal residuum\u201d rule, hearsay evidence admitted without objection will be given its natural probative effect \"if it is corroborated by any competent evidence in the record.\u201d Walker v. Unemployment Comp. Bd. of Review, 27 Pa.Cmwlth. 522, 367 A.2d 366, 370 (1976). Claimant's own testimony to the referee and Claimant\u2019s statements to Employer corroborate Claimant's statement on the claimant questionnaire. Therefore, even if Claimant's statement on the claimant questionnaire constitutes hearsay, which we are not convinced that it does, the Board did not err in using the statement to support its finding of fact.\n. Contrary to Claimant's assertion, the fact that the NLRB has deemed a term or condition of employment to be a mandatory subject of bargaining does not mean that the term or condition must be provided for by a CBA. Rather, when a term or condition of employment is determined to be a mandatory subject of bargaining, it means that employers and collective-bargaining representatives have a duty to bargain in good faith over the term or condition pursuant to Section 8(a)(5) and 8(b)(3) of the National Labor Relations Act (NLRA), 29 U.S.C. \u00a7 158(a)(5) and (b)(3), in conjunction with Section 8(d) of the NLRA, 29 U.S.C. \u00a7 158(d). See Johnson-Bateman Co. v. International Association of Machinists, AFL-CIO, Dist. Lodge 120, Local Lodge 1047, 131 LRRM (BNA) 1393 (1989).\n. At the hearing before the Referee, Employer stipulated that the CBA makes no reference to drug testing. (C.R., Item No. 10 at 14.)\n. The Supreme Court in Penflex cited 29 U.S.C. \u00a7 158(d) and stated that it was considering Section 8(d) of the Labor Management Relations Act (LMRA). Penflex, 506 Pa. at 281, 485 A.2d at 362. The statute found at 29 U.S.C. \u00a7 158(d), however, is more accurately attributed to the NLRA. See 29 U.S.C. \u00a7 167 (\"This subchapter may be cited as the [NLRA].\u201d) Accordingly, for the purposes of clarity, we will refer to the section at issue in Penflex as Section 8(d) of the NLRA.\n. Section 402(e) of the Law provides:\nAn employe shall be ineligible for compensation for any week\u2014\n(e) In which his unemployment is due to his discharge or temporary suspension from work for willful misconduct connected with his work, irrespective of whether or not such work is \"employment\u201d as defined in this act.\n43 P.S. \u00a7 802(e).\n. Section 402(d) of the Law provides:\nAn employe shall be ineligible for compensation for any week\u2014\n(d) In which his unemployment is due to a stoppage of work, which exists because of a labor dispute (other than a lock-out) at the factory, establishment or other premises at which he is or was last employed: Provided, That this subsection shall not apply if it is shown that (1) he is not participating in, or directly interested in, the labor dispute which caused the stoppage of work, and (2) he is not a member of an organization which is participating in, or directly interested in, the labor dispute which caused the stoppage of work, and (3) he does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed at the premises at which the stoppage occurs, any of whom are participating in, or directly interested in, the dispute.\n43 P.S. \u00a7 802(d).\n. The Supreme Court developed the following test in Erie Forge & Steel Corp. v. Unemployment Compensation Board of Review, 400 Pa. 440, 163 A.2d 91 (1960) (Vrotney), known as the Vrotney test, for determining whether a dispute is a lockout or a strike:\nHave the employees offered to continue working for a reasonable time under the pre-existing terms and conditions of employment so as to avert a work stoppage pending the final settlement of the contract negotiations; and has the employer agreed to permit work to continue for a reasonable time under the pre-existing terms and conditions of employment pending further negotiations? If the employer refuses to so extend the expiring contract and maintain the status quo, then the resulting work stoppage constitutes a \u201clockout\u201d and the disqualification for unemployment compensation benefits in the case of a \"stoppage of work because of a labor dispute\u201d does not apply.\nKeystone Coca-Cola Bottling Corp. v. Unemployment Comp. Bd. of Review, 693 A.2d 637, 640 (Pa.Cmwlth.1997) (Keystone), allocatur den., 553 Pa. 684, 717 A.2d 535 (1998). The Supreme Court later refined the Vrotney test in Philco Corp. v. Unemployment Compensation Board of Review, 430 Pa. 101, 242 A.2d 454 (1968) (Philco), to require a determination as to which side \"first refused to continue operations under the status quo after the contract had technically expired, but while negotiations were continuing.\u201d Keystone, 693 A.2d at 640.\n. See Behers, 577 Pa. at 68, 842 A.2d at 367 (\"[T]o consider 'past practices' not memorialized in the parties\u2019 written agreement would eviscerate the clear and simple rule articulated in Miceli.\"); see also Miceli, 519 Pa. at 526, 549 A.2d at 118 (\"[C]ondoning a rule that would require courts to consider factors other than the previous terms and conditions of employment would only complicate the issue and is contrary to our policy to keep the standards regarding disruption of the status quo easy to apply on the administrative level.\"); Penflex, 506 Pa. at 293, 485 A.2d at 369 (\"To hold that participation in a strike in contravention of federal law constitutes willful misconduct under Section 402(e) would require the courts, in every case, to determine whether an alleged infraction of federal law in fact occurred and, if so, whether the strike must be deemed illegal on account of the infraction.\u201d); Chavez, 738 A.2d at 81 (\"[I]f the Court were to adopt [the] suggestion that the strike/lockout analysis be applied to the status quo mandated by the NLRA when federal law requires bargaining in good faith, then the Court would needlessly entangle this state\u2019s unemployment compensation jurisprudence with the complex body of federal law surrounding the NLRA.\")",
+        "type": "majority",
+        "author": "Judge BROBSON."
+      }
+    ],
+    "attorneys": [
+      "John S. Harrison, Bethlehem, for petitioner.",
+      "Paul R. Jordan, Asst. Counsel, Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Kelvin X. GREER, Petitioner v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent.\nCommonwealth Court of Pennsylvania.\nArgued June 24, 2010.\nDecided July 29, 2010.\nJohn S. Harrison, Bethlehem, for petitioner.\nPaul R. Jordan, Asst. Counsel, Harrisburg, for respondent.\nBEFORE: PELLEGRINI, Judge, and BROBSON, Judge, and McCULLOUGH, Judge."
+  },
+  "file_name": "0733-01",
+  "first_page_order": 795,
+  "last_page_order": 804
+}

@@ -1,0 +1,271 @@
+{
+  "id": 7287938,
+  "name": "Brian FRITZINGER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Fritzinger v. State",
+  "decision_date": "2010-12-13",
+  "docket_number": "No. 593, 2009",
+  "first_page": "603",
+  "last_page": "613",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "486 U.S. 847",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225235
+      ],
+      "weight": 22,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "850"
+        },
+        {
+          "page": "851"
+        },
+        {
+          "page": "852"
+        },
+        {
+          "page": "859"
+        },
+        {
+          "page": "864-65"
+        },
+        {
+          "page": "865"
+        },
+        {
+          "page": "861"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0847-01"
+      ]
+    },
+    {
+      "cite": "955 A.2d 1276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8217841
+      ],
+      "weight": 5,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1285"
+        },
+        {
+          "page": "1281"
+        },
+        {
+          "page": "1285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/955/1276-01"
+      ]
+    },
+    {
+      "cite": "595 A.2d 381",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7370705
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "384"
+        },
+        {
+          "page": "384-85"
+        },
+        {
+          "page": "385"
+        },
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/595/0381-01"
+      ]
+    },
+    {
+      "cite": "1997 WL 560894",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "*2",
+          "parenthetical": "TABLE"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "700 A.2d 737",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "TABLE"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 A.2d 392",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "397",
+          "parenthetical": "\"[Trial judges should] avoid any language or any conduct which would lead the Jury to suspect that the Judge is favorable to one party to the trial rather than the other.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 A. 877",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1935,
+      "pin_cites": [
+        {
+          "page": "883",
+          "parenthetical": "\"A comment ... on the facts is some expression by the court directly or indirectly conveying to the jury the court's estimation of the truth, falsity or weight of testimony in relation to a matter at issue.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1997 WL 90780",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "ORDER"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "692 A.2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "ORDER"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "600 A.2d 21",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7347975
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/600/0021-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 455",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1100,
+    "char_count": 28095,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.856319230494445e-08,
+      "percentile": 0.3056967800053208
+    },
+    "sha256": "a62f7e69b08259cdd3227d4440f0c7e4b7533d82988e0399d245bb6faada76bf",
+    "simhash": "1:bb2e97078d05864d",
+    "word_count": 4622
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices constituting the court en banc."
+    ],
+    "parties": [
+      "Brian FRITZINGER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "STEELE, Chief Justice:\nOn June 16, 2009, a jury convicted Brian Fritzinger of rape, unlawful sexual contact, and continuous sexual abuse of his ex-girlfriend\u2019s two minor daughters. Frit-zinger appeals his conviction, asserting that the Superior Court committed numerous reversible legal errors. Because the trial judge failed to give Fritzinger a hearing mandated by 11 Del. C. \u00a7 3508, and also improperly referred to two complaining witnesses as \u201cvictims\u201d while instructing the jury, we reverse and remand for a new trial. In addition, because the record before us could cause an objective observer to perceive unfairness or bias, we order reassignment to a different judge for the new trial.\nI. FACTS AND PROCEDURAL HISTORY\nIn 2004, sisters Mary and Tina Smith, aged nine and six, shared a bedroom in a three-bedroom house where they lived with their older brother and their mother. In August 2004, their mother, Helen Leon, met Brian Fritzinger. Within about six months, Fritzinger had moved into the house. Leon and Fritzinger had a volatile relationship and broke up more than once. They reunited after the birth of their baby girl, Beth, on July 22, 2005, but broke up for the last time in November 2006. Frit-zinger moved out and Mary, Tina, and Beth continued to live with Leon. In March 2007, Fritzinger moved into a different house with his new girlfriend, Serena Miller. At some point, Leon\u2019s son moved in with Fritzinger and Miller.\nA. Mary and Tina Move In with Frit-zinger.\nOn June 14, 2007, Fritzinger filed a petition in Family Court for custody of Beth. That same day, he assumed physical custody of Beth from Leon. Then, in July 2007, Fritzinger reported to the Division of Family Services that Leon was neglecting Mary and Tina and abusing drugs. DFS relieved Leon of custody of both daughters and received her permission for the girls to live with Fritzinger and Miller, rather than enter foster care. Mary and Tina began living with Fritzinger and Miller on July 22, 2007.\nWhile they lived there, and continuing through March 2008, each sister attended a once weekly counseling session as part of a program called the Child Well Being Initiative. During this counseling, both girls consistently said that they had never been sexually abused. Both told their social worker that they felt happy and safe living with Fritzinger and Miller.\nB. Mary and Tina Enter Foster Care.\nOn December 13, 2007, Fritzinger and Miller returned custody of the sisters to DFS, who placed them in a foster home. Mary and Tina did not like their first foster parents, the Wests, and on at least one occasion, Tina asked if she could go back to live with Fritzinger. The sisters lived with the Wests until August 13, 2008, when DFS moved them to another foster home. They shared this home with new foster parents, the Atallians, two foster sisters, and the Atallians\u2019 adopted son.\nOn October 2, 2008, Mary and Tina attended a Family Court hearing regarding them foster placement. Both sisters told the Family Court judge that they wanted them half sister, Beth, to come live with them. The Family Court judge told them that he had no power to take Beth from Fritzinger and Miller and place her in them foster home.\nC. Mary and Tina Alleye Sexual Abuse.\nThat same afternoon, after the judge explained he could not place Beth in their home, Tina told her guidance counselor at school that Fritzinger had sexually abused her and her sister. The record shows that until then, neither sister had previously disclosed any sexual misconduct by Frit-zinger to anyone. Tina later asserted, however, that she had previously disclosed that information to her two foster sisters at the Atallians\u2019 house, and that they had encouraged her to tell someone.\nThe school promptly contacted Mary and Tina\u2019s social worker and reported what Tina had told her guidance counselor. The social worker visited Tina at school on October 6. During that meeting, Tina told the social worker about Fritzinger\u2019s sexual abuse. The social worker spoke with Mary at school that same afternoon, and Mary corroborated Tina\u2019s allegations. Mary explained to the social worker that the abuse had occurred over a substantial period of time and that she had never reported it because she wanted her half sister Beth to have a father who could continue to be a part of her life.\nD.The State Arrests and Charges Frit-zinger.\nAfter hearing these reports, the 'Social worker informed her supervisor, and DFS investigators took over the case. On October 10, 2008, DFS contacted the Delaware State Police regarding Mary\u2019s and Tina\u2019s allegations. On October 14, 2008, a representative from the Children\u2019s Advocacy Center interviewed both sisters. Both girls repeated their claims of Fritzinger\u2019s sexual abuse during these interviews. On October 15, 2008, the police arrested Frit-zinger. In November 2008, both sisters returned to counseling with the Child Well Being Initiative, where they repeated them allegations.\nThe sisters claim that Fritzinger\u2019s sexual abuse included vaginal, oral, and anal sex, and sexual touching. They claim that the abuse happened regularly, beginning when they all lived in Leon\u2019s house, and lasting until after the sisters had moved into the Wests\u2019 foster home. Mary claims that one time Fritzinger abused Tina while Mary watched from her bed. She also asserts that the sisters discussed the ongoing abuse only one time.\nUltimately, the State charged Fritzinger with twenty-six counts of sexual misconduct, including various degrees of continuous sexual abuse of a child, unlawful sexual contact, and rape. Since his arrest, Frit-zinger has asserted his innocence of all charges and has denied that any of the alleged conduct ever happened. As part of his defense, he claims that Mary and Tina concocted the allegations as an attempt to remove their half sister Beth from his custody, thereby assuring that Beth could live with them.\nE. A Jury Convicts Fritzinger and Fritzinger Appeals.\nFritzinger\u2019s trial lasted six days. The jury convicted him on ten of the charges, and he received a sentence of life plus 65 years in prison. On appeal, Fritzinger claims that the Superior Court erred in six specific respects. First, he alleges that the judge improperly denied him the opportunity to obtain and then present evidence to the jury of Mary\u2019s previous sexual contact with other persons. Pursuant to 11 Del. C. \u00a7 3508, Fritzinger moved to gather and present evidence to the jury regarding Mary\u2019s sexual contact with others. That was important to Fritzinger\u2019s defense, to show that Mary could have developed her sexual knowledge from a source other than him. The trial judge did not permit Fritzinger to obtain or present that evidence. She also denied his request for an instruction that the jury could not infer from Mary\u2019s knowledge of sexual acts that her knowledge derived from Fritzinger\u2019s conduct. Fritzinger now argues that the judge committed reversible error by denying him (i) the right to present this evidence to the jury, (ii) a hearing on the motion, and (iii) a jury instruction on the matter.\nFritzinger also argues that the trial judge erred by denying his two Motions to Dismiss. He filed the first motion in response to the State\u2019s failure to follow the Superior Court\u2019s order to produce all discovery materials by April 22, 2009. He filed the second on the fourth day of trial after he learned that the State had failed to disclose the videotape of Tina\u2019s SANE examination. These denials of access to relevant information, he claims, prevented him from receiving a fair trial.\nThird, Fritzinger contends the trial judge erred when she referred to Mary and Tina as \u201cvictims\u201d while instructing the jury. During the State\u2019s closing argument, the prosecutor asked the jury to \u201chave courage to support two children ....\u201d Fritzinger\u2019s counsel promptly objected. The judge sustained the objection, denied Fritzinger\u2019s Motion for a Mistrial, and delivered an instruction to the jury that included the language: \u201cYou are not to decide this case based on the age or any other characteristics of the victims.\u201d Fritzinger argues the reference to \u201cvictims\u201d was unlawful commentary by the court on the evidence and constituted reversible error.\nFourth, Fritzinger argues it was reversible error for the trial judge to deny his Motion for a Mistrial when Tina suffered a seizure while testifying in front of the jury. He contends that Tina\u2019s slumping to the floor and the jurors having to step around her while leaving the courtroom was unfairly prejudicial to his right to a fair trial, and required the judge to grant a mistrial.\nFifth, Fritzinger contends that the trial judge erred by denying Fritzinger\u2019s request to display a unique tattoo to the jury that ran from his groin area halfway down his thigh. According to Fritzinger, evidence of the tattoo was exculpatory, since the girls would have recognized it had their allegations been truthful. The judge denied the request, but permitted him to submit a photograph of the tattooed leg to the jury. Fritzinger argues that a picture is a legally inadequate substitute for a live display because of modern technology like Photoshop. He contends the jury would suspect that an image may have been digitally altered. Consequently, he argues, the judge\u2019s denial of his request to display the tattoo live in the courtroom amounted to a legally erroneous exclusion of relevant evidence that prejudiced his right to a fair trial.\nFinally, Fritzinger argues it was reversible error for the trial judge to deny his Motion for Recusal. The primary basis for Fritzinger\u2019s motion was that the chief investigating officer in this case, who sat alongside the prosecutor throughout the entire trial and testified for the State, was the same chief investigating officer in an earlier rape case that involved the judge\u2019s former sister-in-law. Fritzinger also claims that after the trial he learned that Marvin Dallas, one of the persons who Mary claimed had sexually abused her before Fritzinger, was the same man convicted by a jury of raping the trial judge\u2019s former sister-in-law. No one made Frit-zinger aware of this information at trial, and upon learning about it he could not move for recusal because the trial was over. Fritzinger claims that all these facts create the appearance of partiality and that the judge should have recused herself.\nII. ANALYSIS\nA. The Trial Judge Erroneously Deprived Fritzinger of His Right to a Hearing to Develop and Present Evidence of Mary\u2019s Sexual Conduct.\nUnder 11 Del. C. \u00a7 3508(a), evidence of a complaining witness\u2019s previous sexual conduct may be admissible at trial to attack the credibility of the complaining witness if the parties \u25a0 and court follow a prescribed statutory \u201cvetting\u201d process. Specifically, the defendant must submit to the court a written motion that identifies the evidence he wishes to introduce and its relevance to the case at hand. This motion must be accompanied by an affidavit explaining the specific offer of proof tending to prove that evidence. The statute mandates that if the court finds this offer of proof sufficient, it \u201cshall\u201d order a hearing outside the presence of the jury, and allow the defendant to question the complaining witness in order to develop the evidence more fully. If, at the conclusion of the hearing, the trial judge independently determines that the evidence is relevant, then she \u201cmay\u201d issue an order defining the contours of the questioning relating to that evidence that the defendant may pursue at trial.\n\u2022In this case, Fritzinger filed the appropriate motion, accompanied by the required affidavit, both related to his proffered evidence of Mary\u2019s previous sexual conduct. The trial judge conducted an in camera review of Mary\u2019s CAC interview, which was one element of the evidence Fritzinger identified in the motion. But, the judge did not permit Fritzinger to question Mary at a hearing outside the presence of the jury. Despite her ruling, the judge must necessarily have determined that the offer of proof was sufficient, because she proceeded, based on her in camera review, to permit Fritzinger to pursue certain, very limited, lines of questioning at trial.\nThe plain text of Section 3508(a) states that if the trial judge determines the offer of proof is sufficient, then she \u201cshall\u201d order a hearing where the defendant can question the complaining witness and further develop the evidence the defendant wishes to introduce at trial. The hearing is not permissive; it is mandatory. Only after that hearing may the judge determine the parameters of the trial questions relating to that evidence.\nBy denying Fritzinger the hearing mandated by Section 3508(a), the trial judge erred. The State argues this error was harmless because the judge allowed Fritzinger to ask some questions about Mary\u2019s previous sexual conduct at trial, which placed the critical issue \u2014 a potential alternate source of Mary\u2019s sexual knowledge despite her young age \u2014 before the jury. We conclude that the error was not harmless. The trial judge committed legal error which prevented Fritzinger from learning information potentially valuable to his defense. For example, without the hearing, Fritzinger had no opportunity to know the extent or timing of Mary\u2019s previous sexual conduct, or the identity of her previous abusers. Any or all of this information could have helped Fritzinger construct a defense to these significant charges. He had a statutory right, on these facts, to explore those issues at a hearing, and the judge erred by denying him that hearing.\nB. The Ti'ial Judge Should Not Have Referred to Mary and Tina as \u201cVictims. \u201d\nDuring his closing argument, the prosecutor asked the jury to \u201chave confidence to support two children. Frit-zinger\u2019s attorney immediately objected, and the trial judge delivered a cautionary instruction to the jury, in which the judge referred to Mary and Tina as \u201cvictims.\u201d Fritzinger\u2019s attorney objected to this reference outside the presence of the jury, but the judge refused to readdress the issue in front of the jury.\nA Delaware judge presiding over a jury trial must leave the resolution of factual matters to the jury. A judicial reference to the jury that a complaining witness is a \u201cvictim\u201d implicitly tells the jury that the judge believes that a crime has been committed. For a judge to communicate to the jury that witnesses were victimized, in a case where the defense is that the conduct about which the complaining witness testifies never occurred, prejudices that defendant unfairly.\nIn Jackson v. State and Mason v. State, we stated that it was generally inappropriate to refer to complainants as \u201cvictims\u201d at trial. In Jackson, we explained: \u201cThe term \u2018victim\u2019 is used appropriately during trial [only] when there is no doubt that a crime was committed and simply the identity of the perpetrator is in issue.\u201d In Mason, we later clarified the Jackson rule, as applied to comments by prosecutors: \u201cReference to a complainant as a \u2018victim\u2019 is not objectionable in all cases where the commission of a crime is disputed; it is only objectionable in those cases where consent is the sole defense.\u201d Trial judges are in a different position than prosecutors. When a trial judge refers to the complainants as \u201cvictims\u201d in a case where the commission of a crime itself is in dispute, she, in effect, signals to the jury that she accepts the State\u2019s version of the facts. The jury may accord undue weight to the trial judge\u2019s reference. That concern is especially troubling in this case, because the only evidence of the alleged crimes came from Mary\u2019s and Tina\u2019s testimony. Here, Fritzinger has shown prejudice to his substantial rights to a fair trial as a result of the judge\u2019s comment.\nC. On Remand, the President Judge Must Reassign This Case to a New Trial Judge.\nWe reverse the judgment of the Superi- or Court and remand this case on the basis of the two legal errors above: the trial judge\u2019s denial of the requisite Section 3508 hearing and reference to Mary and Tina as \u201cvictims.\u201d We further conclude that the President Judge must reassign this case to a new trial judge on remand. The basis for this conclusion derives from Fritzinger\u2019s final argument on appeal \u2014 that the trial judge committed reversible error by denying his Motion for Recusal.\ni. When facing a Motion for Recusal, a trial judge must create a record subjectively addressing actual bias and objectively addressing the appearance of bias.\nWhen addressing a Motion for Recusal on grounds of personal bias or prejudice, a judge must engage in a two-part analysis. First, the judge must subjectively determine that she can proceed to hear the case free of bias or prejudice. Second, once the judge has subjectively determined that she has no bias, she must then objectively determine whether, actual bias aside, there is an appearance of bias sufficient to cause doubt about her impartiality. If an objective observer viewing the circumstances would conclude that a fair or impartial hearing is unlikely, recu-sal is appropriate. The judge must make both determinations on the record. On appeal, we review the judge\u2019s subjective analysis for abuse of discretion, but we review the merits of the objective analysis de novo.\nWe note that Fritzinger\u2019s Motion for Recusal focused on the fact that the State\u2019s chief investigating officer in this case, Detective Conaway, was also the chief investigating officer in the judge\u2019s former sister-in-law\u2019s rape case. Given that, the trial judge clearly and appropriately stated on the record her subjective belief that she could hear the case free of bias. Considering the extensive explanation on the record, and the facts that the judge asserted that she did not remember ever meeting Conaway and that her relationship with her former sister-in-law was quite distant, the trial judge did not abuse her discretion by subjectively determining that she could hear this case without bias that would prejudice Fritzinger.\nOur review of the objective second prong of the recusal test, however, is more complicated. On appeal, Fritzinger makes two arguments. First, he argues that Conaway\u2019s involvement objectively created an appearance of bias sufficient to require recusal. Second, he contends that no one disclosed to his counsel that Marvin Dallas, one of the men Mary claims sexually abused her before Fritzinger, was also the man a jury convicted of raping the judge\u2019s former sister-in-law. According to Frit-zinger, this additional material fact, found in the CAC interview of record, created an improper objective appearance of unfairness or bias.\nii. Promoting confidence in the judiciary is a critically important goal of recusal.\nThe United States Supreme Court has addressed the importance of objective perceptions in the context of recusal motions. In Liljeberg v. Health Services Acquisition Corp., the Supreme Court decided a case in which, nearly a year after trial, the parties learned for the first time that the judge had a potential conflict that could have been the basis for disqualification at trial. The losing party promptly filed a Motion to Vacate Judgment. The trial judge denied the motion, but the appellate court remanded the case for a different judge to determine the extent and timing of the trial judge\u2019s knowledge of the potential conflict. On remand, the new judge determined that at some point before trial, the trial judge had actual knowledge of the information that formed the basis for the potential conflict. The new judge also found, however, that by the time of trial the trial judge had forgotten that information and never recalled it until after he had already rendered his opinion in the case. On appeal from the remand, the Fifth Circuit ruled, on the basis of apparent impropriety under 28 U.S.C. \u00a7 455(a), that the trial judge should have recused himself and vacated the judgment as soon as he regained knowledge of the information underlying the potential conflict.\nOn certiorari review, the Supreme Court clarified that \u201cscienter is not an element\u201d of the required objective assessment of the appearance of bias. Specifically, the Court noted that a judge\u2019s lack of knowledge of a disqualifying circumstance does not eliminate the risk that objective observers may reasonably question his impartiality. Although the Court acknowledged that the trial judge had, in fact, forgotten the information underlying the potential conflict until after he issued his opinion, the Court cited popular suspicions and doubts regarding the integrity of judges as a major concern. The Court explained that the federal disqualification statute intended to promote confidence in the judiciary by avoiding even the appearance of impropriety to the maximum extent possible. Requiring judges to disqualify themselves on the basis of facts and circumstances that they do not know or recall would be, in the Court\u2019s words, \u201cabsurd.\u201d But, retroactive application of the objective test, when possible, properly requires judges to \u201crectify an oversight and to take the steps necessary to maintain public confidence in the impartiality of the judiciary.\u201d Accordingly, the Supreme Court affirmed the Court of Appeals ruling vacating the trial court\u2019s judgment.\nIn the immediate case, Fritzinger claims neither the judge nor the State disclosed information to him until after trial that, had he known it at trial, he could have used to support his motion for recusal. What actually happened is unclear from the record. What is clear, however, is that in any event, neither the State \u2014 which is presumed to know its own proffered evidence \u2014 nor the trial judge disclosed that Mary\u2019s CAC interview, which the trial judge reviewed in camera, revealed that \u201cMarvin\u201d \u2014 whose mother\u2019s last name was \u201cDallas\u201d \u2014 had sexually molested her in the past. The trial judge, then, did not address the objective second prong of the Los recusal analysis.\nIn light of these circumstances, the failure to follow the strictures of our Los precedent requires reassignment on remand. Under Los, we must assess whether an objective observer would view all the circumstances and conclude that a fair or impartial hearing was unlikely. That requires us to assess the circumstances objectively to determine whether there is an appearance of bias sufficient to cause doubt about judicial impartiality\nAssessing the totality of the circumstances of this case as a reasonable objective observer would, we determine, in light of the information Fritzinger discovered post-trial, which the trial judge did not address, that a reassignment of the case is necessary to maintain public confidence in the impartiality of the judiciary.\nIII. CONCLUSION\nThe judgment of the Superior Court is REVERSED and this case is REMANDED for proceedings consistent with this Opinion.\n. Pseudonyms selected by this Court pursuant to Supr. Ct. R. 7(d).\n. Pseudonym selected by this Court pursuant to Supr. Ct. R. 7(d).\n. Appendix to Op. Br. at A337.\n. Id. at A339.\n. 11 Del. C. \u00a7 3508. Rape \u2014 sufficiency of evidence; proceedings in camera.\n(a) In any prosecution for the crime of any degree of rape, unlawful sexual intercourse, unlawful sexual penetration or unlawful sexual contact; an attempt to commit any degree of rape, unlawful sexual intercourse, unlawful sexual penetration or unlawful sexual contact, if such attempt conforms to \u00a7 531 of this title; solicitation for the crime of any degree of rape, unlawful sexual intercourse, unlawful sexual penetration or unlawful sexual contact, if such offense conforms to \u00a7 502 of this title; or conspiracy to commit any degree of rape, unlawful sexual intercourse, unlawful sexual penetration or unlawful sexual contact, if such offense conforms to \u00a7 512 of this title, if evidence of the sexual conduct of the complaining witness is offered to attack the credibility of the complaining witness the following procedure shall be followed:\n(1) The defendant shall make a written motion to the court and prosecutor stating that the defense has an offer of proof concerning the relevancy of evidence of the sexual conduct of the complaining witness which the defendant proposes to present, and the relevancy of such evidence in attacking the credibility of the complaining witness.\n(2) The written motion shall be accompanied by an affidavit in which the offer of proof shall be stated.\n(3) If the court finds that the offer of proof is sufficient, the court shall order a hearing out of the presence of tlte jury, if any, and at such hearing allow the questioning of the complaining witness regarding the offer of proof made by the defendant.\n(4) At the conclusion of the hearing, if the court finds that evidence proposed to be offered by the defendant regarding the sexual conduct of the complaining witness is relevant, and is not inadmissible, the court may issue an order stating what evidence may be introduced by the defendant, and the nature of the questions to be permitted. The defendant may then offer evidence pursuant to the order of the court.\n.\u00a7 3508(a)(1).\n. \u00a7 3508(a)(2).\n. \u00a7 3508(a)(3).\n. \u00a7 3508(a)(4).\n. Appendix to Op. Br. at A50-A52.\n. Id. atA96.\n. Id. at A337.\n. Id. at A339.\n. See Del. Const. Art. IV, \u00a7 19 (\"Judges shall not charge juries with respect to matters of fact, but may state the questions of fact in issue and declare the law.\u201d).\n. 600 A.2d 21 (Del. 1991).\n. 692 A.2d 413, 1997 WL 90780 (Del. 1997) (ORDER).\n. Jackson, 600 A.2d at 24.\n. Mason, 1997 WL 90780, at *2.\n. See State v. Carey, 178 A. 877, 883 (Del. 1935) (\"A comment ... on the facts is some expression by the court directly or indirectly conveying to the jury the court\u2019s estimation of the truth, falsity or weight of testimony in relation to a matter at issue.\u201d); Buckley v. R.H. Johnson & Co., 25 A.2d 392, 397 (Del.Super. 1942) (\"[Trial judges should] avoid any language or any conduct which would lead the Jury to suspect that the Judge is favorable to one party to the trial rather than the other.\u201d).\n. See Williams v. State, 700 A.2d 737, 1997 WL 560894, at *2 (Del. Sept. 2, 1997) (TABLE) (\"In order to prevail, the defendant must show prejudice to his substantial rights as a result of the judicial action when viewed in light of the particular facts and circumstances in the context of the trial as a whole.\u201d).\n. Los v. Los, 595 A.2d 381, 384 (Del.1991).\n. Id. at 384-85.\n. Id. at 385.\n. Gattis v. State, 955 A.2d 1276, 1285 (Del. 2008).\n. Id.\n. Id. at 1281.\n. Id.\n. See Appendix to Op. Br. at A98-A101 (\"And I have to be candid, I\u2019ve heard a number of sex offense cases as a judge, and it has had no affect on me at all, in terms of hearing a case or deciding an issue.... The person was caught and the matter was resolved without a trial. I don't feel any sense of any connection between the two at all, and I don\u2019t see the need to recuse myself.\u201d).\n. 486 U.S. 847, 108 S.Ct. 2194, 100 L.Ed.2d 855 (1988).\n. Id. at 850, 108 S.Ct. 2194.\n. Id.\n. Id. at 851, 108 S.Ct. 2194.\n. Id.\n. Id.\n. 28 U.S.C. \u00a7 455(a). Disqualification of justice, judge, or magistrate judge.\nAny justice, judge, or magistrate judge of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.\nWe note that this federal recusal statute requires an objective assessment of the \"appearance of bias,\u201d akin to the second prong of our Los recusal test.\n. Liljeberg, 486 U.S. at 852, 108 S.Ct. 2194.\n. Id. at 859, 108 S.Ct. 2194.\n. Id.\n. Id. at 864-65, 108 S.Ct. 2194.\n. Id. at 865, 108 S.Ct. 2194.\n. Id. at 861, 108 S.Ct. 2194.\n. Id.\n. Gattis, 955 A.2d at 1285.\n. Los, 595 A.2d at 385.",
+        "type": "majority",
+        "author": "STEELE, Chief Justice:"
+      }
+    ],
+    "attorneys": [
+      "Edward C. Gill of the Law Office of Edward C. Gill, P.A., Georgetown, Delaware, for appellant.",
+      "Abby Adams of the Department of Justice, Georgetown, Delaware, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Brian FRITZINGER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nNo. 593, 2009.\nSupreme Court of Delaware.\nSubmitted: Oct. 20, 2010.\nDecided: Dec. 13, 2010.\nEdward C. Gill of the Law Office of Edward C. Gill, P.A., Georgetown, Delaware, for appellant.\nAbby Adams of the Department of Justice, Georgetown, Delaware, for appellee.\nBefore STEELE, Chief Justice, HOLLAND, BERGER, JACOBS and RIDGELY, Justices constituting the court en banc."
+  },
+  "file_name": "0603-01",
+  "first_page_order": 603,
+  "last_page_order": 613
+}

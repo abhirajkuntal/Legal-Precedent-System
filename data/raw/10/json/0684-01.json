@@ -1,0 +1,190 @@
+{
+  "id": 7288456,
+  "name": "GUARDIANSHIP OF DAVID C.",
+  "name_abbreviation": "Guardianship of David C.",
+  "decision_date": "2010-12-23",
+  "docket_number": "",
+  "first_page": "684",
+  "last_page": "686",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 A.3d 684"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 136"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "530 U.S. 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413198
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "65-66, 69, 72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0057-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 198",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11152533
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/0291-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 17",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7291636
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "\u00b6 12"
+        },
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/989/0726-01"
+      ]
+    },
+    {
+      "cite": "2010 ME 80",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7286091
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "303-04"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/2/0301-01"
+      ]
+    },
+    {
+      "cite": "2009 ME 74",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        7297111
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 26-28"
+        },
+        {
+          "page": "962-63"
+        },
+        {
+          "page": "\u00b6 27"
+        },
+        {
+          "page": "962"
+        },
+        {
+          "page": "\u00b6 28"
+        },
+        {
+          "page": "963"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/0955-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 314,
+    "char_count": 4685,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 9.849590336963658e-08,
+      "percentile": 0.5341077800288743
+    },
+    "sha256": "b3e4abd37f704b44524d738e7d88407cf9c10b617688610e62111d1005220bf7",
+    "simhash": "1:73bad99656a1570f",
+    "word_count": 768
+  },
+  "last_updated": "2024-02-27T22:08:36.652414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+    ],
+    "parties": [
+      "GUARDIANSHIP OF DAVID C."
+    ],
+    "opinions": [
+      {
+        "text": "ALEXANDER, J.\n[\u00b6 1] The mother and father of David C., a three-year-old child, appeal from a judgment of the Penobscot County Probate Court (Woodcock, J.) denying their petition to terminate a previously-established guardianship for their son. The guardianship was established in May 2009 when, with the consent of the mother and father, the mother\u2019s brother and his girlfriend were granted full guardianship of David.\n[\u00b62] The mother and father argue on appeal that, in applying 18-A M.R.S. \u00a7 5-212(d) (2009) (providing the procedure for termination of the guardianship of a minor), the court erroneously placed the burden on them to prove their parental fitness, rather than placing the burden on the guardians to prove parental unfitness. The parents also challenge certain of the court\u2019s factual findings as unsupported by sufficient record evidence. We vacate and remand for application of the proper burden of proof.\n[\u00b6 3] Title 18-A M.R.S. \u00a7 5-212(d) was amended in 2005 to place the burden on the party seeking to terminate a guardianship to prove by a preponderance of the evidence, that, in the absence of the guardian\u2019s consent, termination of the guardianship is in the best interest of the ward. See P.L.2005, ch. 371, \u00a7 5 (effective Sept. 17, 2005). If the court does not terminate the guardianship after an initial petition to terminate the guardianship, it may dismiss future petitions to terminate the guardianship unless there has been a \u201csubstantial\u201d change of circumstances. 18-A M.R.S. \u00a7 5-212(d).\n[\u00b6 4] The statute does not expressly provide that the court must consider parental fitness in addition to considering the best interests of the ward when ruling on a parent\u2019s petition to terminate guardianship of his or her child. Because of the fundamental parental rights at issue, we recently held that a court must address parental fitness in guardianship termination proceedings, recognizing that \u201cany decision ... limiting the right of a parent to physical custody of his child also affects his constitutionally protected liberty interest in maintaining his familial relationship with the child.\u201d Guardianship of Jeremiah T., 2009 ME 74, \u00b6\u00b6 26-28, 976 A.2d 955, 962-63 (interpreting 18-A M.R.S.A. \u00a7 5-212(d) (1998)) (quotation marks omitted). We were not called upon in Jeremiah T. to reach the issue of which party bears the burden of showing parental fitness or unfitness pursuant to section 5-212(d) as currently in effect.\n[\u00b6 5] We have, however, \u201cconsistently recognized, absent a showing of unfitness, parents\u2019 fundamental liberty interest with respect to the care, custody, and control of their children.\u201d Guardianship of Jewel M., 2010 ME 80, \u00b6 6, 2 A.3d 301, 303-04; Guardianship of Jewel M., 2010 ME 17, \u00b6 12, 989 A.2d 726, 729; Guardianship of Jeremiah T., 2009 ME 74, \u00b6 27, 976 A.2d at 962; Rideout v. Riendeau, 2000 ME 198, \u00b6 18, 761 A.2d 291, 299; see also Troxel v. Granville, 530 U.S. 57, 65-66, 69, 72, 120 S.Ct. 2054, 147 L.Ed.2d 49 (2000).\n[\u00b6 6] Because a parent has a fundamental right to parent his or her child, the burden of proving parental unfitness is generally on the non-parent party who is attempting to limit the parent\u2019s right. See generally Guardianship of Jeremiah T., 2009 ME 74, \u00b6 28, 976 A.2d at 963.\n[\u00b6 7] We therefore clarify today that, although a parent seeking to terminate a guardianship in order to regain custody bears the burden of proving that termination is in his or her child\u2019s best interest pursuant to 18-A M.R.S. \u00a7 5-212(d), the party opposing the termination of the guardianship bears the burden of proving, by a preponderance of the evidence, that the parent seeking to terminate the guardianship is currently unfit to regain custody of the child. If the party opposing termination of the guardianship fails to meet its burden of proof on this issue, the guardianship must terminate for failure to prove an essential element to maintain the guardianship. This rule applies whether the guardianship was initially established with the parents\u2019 consent, as occurred in this case, or otherwise.\n[\u00b6 8] Because the matter must be remanded for reconsideration of the evidence, we need not reach the mother and father\u2019s arguments concerning the sufficiency of the evidence.\nThe entry is:\nJudgment vacated and remanded for further proceedings consistent with this opinion.",
+        "type": "majority",
+        "author": "ALEXANDER, J."
+      }
+    ],
+    "attorneys": [
+      "Hunter J. Tzovarras, Esq., Hampden, ME, Attorney for the mother and father.",
+      "Benjamin Fowler, Esq., Brewer, ME, Attorney for the guardians."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 136\nGUARDIANSHIP OF DAVID C.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Dec. 1, 2010.\nDecided: Dec. 23, 2010.\nHunter J. Tzovarras, Esq., Hampden, ME, Attorney for the mother and father.\nBenjamin Fowler, Esq., Brewer, ME, Attorney for the guardians.\nPanel: SAUFLEY, C.J., and ALEXANDER, SILVER, MEAD, GORMAN, and JABAR, JJ."
+  },
+  "file_name": "0684-01",
+  "first_page_order": 684,
+  "last_page_order": 686
+}

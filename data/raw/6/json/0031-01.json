@@ -1,0 +1,161 @@
+{
+  "id": 7283688,
+  "name": "HARBOR ADVERTISING, INC., Petitioner v. DEPARTMENT OF TRANSPORTATION, Respondent",
+  "name_abbreviation": "Harbor Advertising, Inc. v. Department of Transportation",
+  "decision_date": "2010-10-15",
+  "docket_number": "",
+  "first_page": "31",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 31"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "353 F.Supp. 335",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3563124
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "341",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/353/0335-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 131",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 U.S.C. \u00a7 131",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "533 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1837466
+      ],
+      "weight": 6,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "193"
+        },
+        {
+          "page": "1128"
+        },
+        {
+          "page": "192"
+        },
+        {
+          "page": "1128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/533/0188-01"
+      ]
+    },
+    {
+      "cite": "782 A.2d 15",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9466878
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "19",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/782/0015-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 661,
+    "char_count": 16279,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.370710586428907e-08,
+      "percentile": 0.2745625324101907
+    },
+    "sha256": "51dff73e0540ced23cc8a1fb48fcc6483f1fa5fd46ff2ad843c66df3c8894028",
+    "simhash": "1:d35cdd17bbfdbc7f",
+    "word_count": 2587
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: PELLEGRINI, Judge, and BUTLER, Judge, and FLAHERTY, Senior Judge."
+    ],
+    "parties": [
+      "HARBOR ADVERTISING, INC., Petitioner v. DEPARTMENT OF TRANSPORTATION, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nJudge BUTLER.\nHarbor Advertising, Inc. (Harbor) petitions for review of the November 30, 2009 order of the Secretary of the Department of Transportation (PennDOT) denying the Exceptions of Harbor, and adopting and finalizing the PennDOT Hearing Officer\u2019s Proposed Report denying Harbor\u2019s application for an outdoor advertising device permit pursuant to the Outdoor Advertising Control Act of 1971(Act). The issues before this Court are: 1) whether the Secretary improperly determined that the property on which Harbor applied to construct a billboard was not an \u201carea clearly established by law as industrial or commercial\u201d because it was not \u201czoned industrial or commercial\u201d as of September 21, 1959; 2) whether PennDOT\u2019s determination that issuance of a mining permit is different and distinguishable from zoning an area as commercial or industrial is consistent with the Act and PennDOT\u2019s regulations; and 3) whether the Secretary improperly determined that PennDOT\u2019s regulatory interpretation of Section 4 of the Act conforms with Section 131 of the Federal Highway Beautification Act of 1965 (Beautification Act), where a 1968 amendment to the Beautification Act recognized that a state may make a determination of customary use in the absence of a local zoning law. For the following reasons, the Secretary\u2019s order is affirmed.\nOn June 11, 2008, Harbor submitted an application to construct a billboard on property located adjacent to Interstate 79 in North Strabane Township, Washington County. The proposed billboard would be located on property owned and/or eon-trolled by Coca-Cola Enterprises and Jones & Hall Ventures, Inc. North Stra-bane Township is a second class township, and had no zoning ordinance until 1962. The property on which the proposed billboard is to be located is currently zoned industrial. Prior to September 21, 1959, the site was used for mining purposes pursuant to a state-issued mining permit.\nOn December 17, 2008, PennDOT issued a letter denying Harbor\u2019s application for the billboard permit on the following grounds:\nYour application to erect an off-premise advertising sign on land owned by Coca-Cola Enterprises/Jones & Hall Ventures Inc., in North Strabane Township, adjacent to Interstate 79, is denied because the documentation does not support that the sign site was zoned industrial or commercial as of September 21, 1959. The Outdoor Advertising Control Act No. 160 of 1970 36 P.S. [\u00a7 ]2718.104(1)(V) allows signs to be erected adjacent to an interstate highway in Townships where the location of the sign site was zoned industrial or commercial as of September 21, 1959.\nReproduced Record (R.R.) at 6a, 14a.\nHarbor filed an appeal on January 14, 2009 challenging PennDOT\u2019s denial. A hearing was conducted on March 26, 2009, and on August 20, 2009, the Hearing Officer filed a Proposed Report. The Hearing Officer concluded, as a matter of law, that the proposed billboard would not be a permitted use under the Act, and more specifically, that the property on which the proposed billboard was to be constructed was \u201cnot a Kerr Area[] \u2014 Type 2 because the use of the property for mining pursuant to a permit issued under state mining regulations does not establish it as a \u2018zoned commercial or industrial area.\u2019 \u201d R.R. at 22a.\nHarbor filed Exceptions and a supporting brief to the Hearing Officer\u2019s Proposed Report. On November 30, 2009, the Secretary of PennDOT (Secretary) denied Harbor\u2019s Exceptions, adopting and rendering final the Proposed Report. Harbor appealed to this Court.\nHarbor argues that PennDOT improperly construed the phrase \u201cclearly established by law as industrial or commercial\u201d as requiring that the property be zoned commercial or industrial. It also argues that if the rules of statutory construction are properly applied, the phrases are not interchangeable as implied by PennDOT\u2019s regulation. Harbor further argues that PennDOT\u2019s regulation violates Section 1921(a) of the Statutory Construction Act by failing to give effect to all of the statutory provisions and rendering a portion of Section 4(l)(v) of the Act mere surplusage. Finally, Harbor contends that PennDOT misconstrued the holding in Kasha v. Department of Transportation, 782 A.2d 15 (Pa.Cmwlth.2001), because the Commonwealth Court did not rule on the substantive legal issues, but held only that Kasha had not met his burden of proving that PennDOT abused its discretion; while in the present case, Harbor has presented legal and substantive issues, specifically, that PennDOT\u2019s regulatory definition violates Sections 1903, 1921(a), 1921(b), and 1922(i) of the Statutory Construction Act. We disagree.\nSection 4(l)(v) of the Act provides:\nTo effectively control outdoor advertising, while recognizing it to be a legitimate commercial use of property and an integral part of the business and marketing function, no outdoor advertising device shall be erected or maintained: (1) within six hundred sixty feet of the nearest edge of the right-of-way if any part of the advertising or informative contents is visible from the main-traveled way of an interstate or primary highway, except:\n(v) Outdoor advertising devices in areas zoned commercial or industrial along the interstate system and lying within the boundaries of any incorporated municipality as such boundaries existed on September 21, 1959, and devices located in any other area which, as of September 21, 1959, was clearly established by law as industrial or commercial.\n36 P.S. \u00a7 2718.104(1)(v). PennDOT has distinguished two areas based on Section 4(l)(v) of the Act, referring to an area zoned commercial or industrial lying within the boundaries of any incorporated municipality as such boundaries existed on September 21,1959 as a \u201cKerr Area\u2014Type 1,\u201d and any other area which, as of September 21, 1959, was clearly established by law as industrial or commercial as a \u201cKerr Area\u2014Type 2.\u201d Section 445.2 of Penn-DOT\u2019s regulations provide, in relevant part: \u201cThe following words and terms, when used in this chapter, have the following meanings, unless the context clearly indicates otherwise.... Area dearly established by law as industrial or commercial\u2014A zoned commercial or industrial area.\u201d 67 Pa.Code \u00a7 445.2.\nThis Court in Kasha held: \u201cIn general, a regulation promulgated by a state agency is presumed valid unless there has been a clear abuse of discretion.... Kasha has not proven that [PennJDOT abused its discretion in defining an area clearly established by law as industrial or commercial as a \u2018zoned commercial or industrial area.\u2019 \u201d Kasha, 782 A.2d at 19 (citations omitted).\nThe rules of statutory construction provide: \u201c[w]ords and phrases shall be construed according to rules of grammar and according to their common and approved usage....\u201d 1 Pa.C.S. \u00a7 1903. Further,\n(a) The object of all interpretation and construction of statutes is to ascertain and effectuate the intention of the General Assembly. Every statute shall be construed, if possible, to give effect to all its provisions.\n(b) When the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit.\n1 Pa.C.S. \u00a7 1921(a), (b). Finally, Section 1922(1) of the Statutory Construction Act provides: \u201cIn ascertaining the intention of the General Assembly in the enactment of a statute the following presumptions, among others, may be used: That the General Assembly does not intend a result that is absurd, impossible of execution or unreasonable.\u201d 1 Pa.C.S. \u00a7 1922(1). In Patrick Media Group, Inc. v. Department of Transportation, 533 Pa. 188, 620 A.2d 1125 (1993), the Pennsylvania Supreme Court indicated:\nThe ... Act was a legislative response to the [Beautification Act] of 1965 (Federal Act), 23 U.S.C. \u00a7 131 et seq. The [Beautification] Act was intended to protect the public investment in the interstate and primary highway system, to promote the safety and recreational value of public travel, and to preserve our nation\u2019s natural beauty. 23 U.S.C. \u00a7 131(a)_ The ... Act was intended by our legislature to protect the Commonwealth\u2019s interest in receiving federal-aid funds, and, at the same time, to further the national policy of highway beautification. Its goal was to limit the proliferation of advertising signs alongside our highways. See 36 P.S. \u00a7 2718.102 (purposes of the Act).\nId., 533 Pa. at 193, 620 A.2d at 1128.\nPennDOT\u2019s regulatory definition of the phrase \u201cclearly established by law as industrial or commercial\u201d as meaning \u201czoned commercial or industrial\u201d does effectuate the General Assembly\u2019s goal of limiting the proliferation of advertising signs along the Commonwealth\u2019s highways, as well as protecting the Commonwealth\u2019s interest in receiving federal funding. Since the regulatory definition does not violate the rules of statutory construction, the property on which Harbor wishes to construct its billboard does not meet the statutory requirements for a Kerr Area \u2014 Type 2 because it was not zoned industrial or commercial as of September 21, 1959. Therefore, Penn-DOT did not abuse its discretion in defining an area clearly established by law as industrial or commercial as a \u201czoned commercial or industrial area,\u201d and the Secretary did not improperly determine that the property on which Harbor applied to construct a billboard was not a Kerr Area\u2014 Type 2.\nNext, Harbor argues that assuming that PennDOT\u2019s regulatory definition does require that the property be zoned industrial or commercial, by issuing state permits for mining operation on the subject property, the Commonwealth\u2019s regulations reserved the area for industrial use, thereby meeting the requirements of a Kerr Area \u2014 Type 2. We disagree.\nTo qualify for the Kerr Area \u2014 Type 2 exception, an area must be \u201cclearly established by law as industrial or commercial\u201d prior to September 21, 1959. (Emphasis added.) A mining permit was issued for the property on March 24, 1948. Black\u2019s Law Dictionary defines a permit as: \u201cA certificate evidencing permission; a license.\u201d It is issued pursuant to law by an agency or governmental authority, but it is not law. A law must be voted on by some form of legislative body and cannot be revoked in the same manner as a permit. A permit is also obtained, in most cases, through an application process, as opposed to a law, which has to be enacted and goes through a thorough process.\nClearly a permit is not a law as Harbor would have this Court accept. The issuance of a mining permit for the property on which Harbor wants to construct its billboard, only gave the recipient of the permit the permission to conduct the activity of mining on that property. It did not by any law establish the property as industrial. We hold that mere use of a property for an industrial use does not establish the property as industrial for purposes of the Act. Therefore, PennDOT\u2019s determination that issuance of a mining permit is different and distinguishable from zoning an area as commercial or industrial is consistent with the Act and PennDOT\u2019s regulations.\nFinally, Harbor argues that Penn-DOT failed to consider and apply a 1968 amendment to the Beautification Act, which recognized that a state may make a determination of customary use in the absence of a local zoning ordinance. It further contends that in the present case, Pennsylvania made a determination of the customary industrial use of the property, prior to 1959, by issuing a mining permit. We disagree.\nSection 181(d) of the Beautification Act, 28 U.S.C. \u00a7 131(d), provides:\nIn order to promote the reasonable, orderly and effective display of outdoor advertising while remaining consistent with the purposes of this section, signs, displays, and devices whose size, lighting and spacing, consistent with customary use is to be determined by agreement between the several States and the Secretary, may be erected and maintained within six hundred and sixty feet of the nearest edge of the right-of-way within areas adjacent to the Interstate and primary systems which are zoned industrial or commercial under authority of State law, or in unzoned commercial or industrial areas as may be determined by agreement between the several States and the Secretary. The States shall have full authority under their own zoning laws to zone areas for commercial or industrial purposes, and the actions of the States in this regard will be accepted for the purposes of this Act. Whenever a bona fide State, county, or local zoning authority has made a determination of customary use, such determination will be accepted in lieu of controls by agreement in the zoned commercial and industrial areas within the geographical jurisdiction of such authority. Nothing in this subsection shall apply to signs, displays, and devices referred to in clauses (2) and (3) of subsection (c) of this section.\nHarbor is arguing that because Pennsylvania issued a permit for the subject property, it has made a customary use determination that the area is industrial. A 1968 amendment to the Beautification Act, referred to in Harbor\u2019s brief, added the following language: \u201c[Wjhenever a bona fide State, county, or local zoning authority has made a determination of customary use, such determination will be accepted in lieu of controls by agreement in the zoned commercial and industrial areas within the geographical jurisdiction of such authority.\u201d 1968 Amendments. Subsec. (d). Pub.L. 90-495, \u00a7 6(a).\nHarbor, however, is taking the amendment out of its context. At the beginning of Section 131(d) of the Beautification Act, the language regarding customary use refers to \u201csigns, displays, and devices whose size, lighting and spacing, [are] consistent with customary use[J\u201d (Emphasis added.) In addition, the only case that referenced this section of the Beautification Act was a case before the Southern Division of the South Dakota United States District Court, South Dakota v. Volpe, 353 F.Supp. 335 (D.S.D.1973). The State of South Dakota in Volpe argued: \u201cthe Secretary has been arbitrary and unreasonable in not accepting the State\u2019s valid \u2018customary use\u2019 determination in regard to size, lighting, and spacing as directed by 23 U.S.C.A. Sec. 131(d).\u201d Id. at 341 (emphasis added).\nHarbor is asking this Court to apply the \u201ccustomary use\u201d language to the actual property and not the billboard itself. This is contrary to the Beautification Act, and this Court does not accept Harbor\u2019s interpretation. Therefore, the Secretary properly determined that PennDOT\u2019s regulatory interpretation of Section 4 of the Act conforms to the Beautification Act.\nFor the foregoing reasons, we affirm the order of the Secretary of the Department of Transportation.\nORDER\nAND NOW, this 15th day of October, 2010, the November 30, 2009 order of the Secretary of the Department of Transportation is affirmed.\n. Act of December 15, 1971, P.L. 596, as amended, 36 P.S. \u00a7\u00a7 2718.101-2718.115.\n. 23 U.S.C. \u00a7 131.\n. Kerr Areas are so named for Senator Robert S. Kerr (D-Okla.) who proposed this exception as part of the Beautification Act.\n. \"Our scope of review is limited to determining whether constitutional rights have been violated, whether an error of law has been committed, or whether necessary findings of fact are supported by substantial evidence.\u201d Kasha v. Dep\u2019t of Transp., 782 A.2d 15, 17 n. 2 (Pa.Cmwlth.2001).\n. The Pennsylvania Supreme Court has held: \u201cSince townships are not to be regarded as municipalities, it follows that, despite their exercise of certain powers that are quasi-corporate in nature, townships are not incorporated municipalities.\u201d Patrick Media Grp., Inc. v. Dep't of Transp., 533 Pa. 188, 192, 620 A.2d 1125, 1128 (1993). There is no dispute that North Strabane Township is not an incorporated municipality, and therefore does not fall within the definition of a Kerr Area\u2014Type 1.\n. Black's Law Dictionary 1255 (9th ed.2009).",
+        "type": "majority",
+        "author": "Judge BUTLER."
+      }
+    ],
+    "attorneys": [
+      "Samuel P. Kamin, Pittsburgh, for petitioner.",
+      "Eric J. Jackson, Asst. Counsel and William J. Cressler, Asst. Chief Counsel, Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "HARBOR ADVERTISING, INC., Petitioner v. DEPARTMENT OF TRANSPORTATION, Respondent.\nCommonwealth Court of Pennsylvania.\nArgued Sept. 14, 2010.\nDecided Oct. 15, 2010.\nSamuel P. Kamin, Pittsburgh, for petitioner.\nEric J. Jackson, Asst. Counsel and William J. Cressler, Asst. Chief Counsel, Harrisburg, for respondent.\nBEFORE: PELLEGRINI, Judge, and BUTLER, Judge, and FLAHERTY, Senior Judge."
+  },
+  "file_name": "0031-01",
+  "first_page_order": 77,
+  "last_page_order": 83
+}

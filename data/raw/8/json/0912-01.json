@@ -1,0 +1,455 @@
+{
+  "id": 7288465,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Ross RHOADES Jr., Appellant",
+  "name_abbreviation": "Commonwealth v. Rhoades",
+  "decision_date": "2010-11-12",
+  "docket_number": "",
+  "first_page": "912",
+  "last_page": "919",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 A.3d 912"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "828 A.2d 1105",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108095
+      ],
+      "pin_cites": [
+        {
+          "page": "1107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/828/1105-01"
+      ]
+    },
+    {
+      "cite": "992 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7288031
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "171"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/992/0162-01"
+      ]
+    },
+    {
+      "cite": "406 Pa.Super. 12",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        898271
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "848-849",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/406/0012-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 830",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4197001,
+        7292842
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "837",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0034-01",
+        "/a2d/985/0830-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197001
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "45",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0034-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 730",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "605 Pa. 700",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "980 A.2d 667",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294568
+      ],
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/0667-01"
+      ]
+    },
+    {
+      "cite": "204 Pa. Code \u00a7 303.10",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "pin_cites": [
+        {
+          "page": "(a)(3)(ix)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 Pa.Super. 369",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        891663
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "saw used to stab victim was a deadly weapon"
+        },
+        {
+          "page": "7",
+          "parenthetical": "saw used to stab victim was a deadly weapon"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/402/0369-01"
+      ]
+    },
+    {
+      "cite": "403 Pa.Super. 492",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        892731
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "fireplace poker used to strike victim constituted a deadly weapon"
+        },
+        {
+          "page": "721",
+          "parenthetical": "fireplace poker used to strike victim constituted a deadly weapon"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/403/0492-01"
+      ]
+    },
+    {
+      "cite": "621 A.2d 579",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "533 Pa. 633",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "414 Pa.Super. 442",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        909424
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "finding tire iron thrown at victim was a deadly weapon"
+        },
+        {
+          "page": "753",
+          "parenthetical": "finding tire iron thrown at victim was a deadly weapon"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/414/0442-01"
+      ]
+    },
+    {
+      "cite": "915 A.2d 125",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8332483
+      ],
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/0125-01"
+      ]
+    },
+    {
+      "cite": "702 A.2d 547",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11891146,
+        11891109,
+        17479
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "551"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/702/0547-02",
+        "/a2d/702/0547-01",
+        "/pa/549/0608-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 1142",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11480323
+      ],
+      "pin_cites": [
+        {
+          "page": "1144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/1142-01"
+      ]
+    },
+    {
+      "cite": "999 A.2d 608",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7288125
+      ],
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/999/0608-01"
+      ]
+    },
+    {
+      "cite": "870 A.2d 362",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9016004
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "865"
+        },
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/870/0362-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 122",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "580 Pa. 695",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "849 A.2d 270",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9239108
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "274"
+        },
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/849/0270-01"
+      ]
+    },
+    {
+      "cite": "895 A.2d 1270",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8437844
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1273-74"
+        },
+        {
+          "page": "1274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/895/1270-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 797,
+    "char_count": 16594,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 2.635696053639943e-07,
+      "percentile": 0.8226213188490912
+    },
+    "sha256": "83550d99c0e121344a156bb1699ebfbf817ab2c6c5a08c35278b89dd60940d15",
+    "simhash": "1:dfb4c4747e4d6d88",
+    "word_count": 2632
+  },
+  "last_updated": "2024-02-27T21:35:16.369133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: MUSMANNO, PANELLA and SHOGAN, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Ross RHOADES Jr., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nPANELLA, J.\nAppellant, Ross Rhoades, appeals from the judgment of sentence entered on October 5, 2009, by the Honorable Paul W. Tressler, Court of Common Pleas of Montgomery County. After careful review, we affirm.\nThe facts of the instant case are as follows. Rhoades and the victim shared an apartment in Lansdale, Pennsylvania. On February 10, 2008, the couple had an argument and the victim stayed at a friend\u2019s house that evening. The following afternoon, on February 11, 2008, Rhoades convinced the victim to return to their apartment to discuss their relationship. When the victim arrived at the apartment, Rhoades immediately verbally and physically attacked her. Throughout the course of the horrific assault, Rhoades: beat the victim repeatedly with both fists and a riding crop, threatened to burn her eye with a lit cigarette, choked her with an extension chord and a belt, threatened her with a knife, attempted to drown the victim in a bucket filled with Pine Glo and mop water, doused the victim in lighter fluid and taunted her by holding a lighter to her dress, and anally raped her with a glass beer bottle. The victim ultimately escaped from the apartment and called 911.\nRhoades was subsequently arrested and charged with attempted first degree murder, two counts of rape, two counts of involuntary deviate sexual intercourse (\u201cIDSI\u201d), two counts of aggravated assault, two counts of simple assault, ter-roristic threats, unlawful restraint, recklessly endangering another person (\u201cREAP\u201d), and possession of an instrument of crime (\u201cPWID\u201d). On May 26, 2009, Rhoades entered an open guilty plea to one count of IDSI, two counts of aggravated assault, and one count each of ter-roristic threats, unlawful restraint, REAP, and PWID, in exchange for which all other charges were nol prossed, On October 5, 2009, following a hearing and review of a pre-sentence investigation report, the lower court sentenced Rhoades to an aggregate term of no less than fifteen nor more than 40 years imprisonment. This timely appeal followed.\nOn appeal, Rhoades raises the following issues for our review:\n1. Did the [t]rial [c]ourt err by applying the Deadly Weapon Enhancement, thereby calculating an incorrect sentencing matrix applicable to the offense of Involuntary Deviate Sexual Intercourse in so far as the instrumentality used (that is, a bottle) was not a deadly weapon?\n2. Did the [t]rial [e]ourt err by applying the Deadly Weapon Enhancement, thereby calculating an incorrect sentencing matrix applicable to the offense of Involuntary Deviate Sexual Intercourse in so far as the item used (that is, a bottle) was an element of the offense?\n3. Did the [t]rial [cjourt err in failing to merge for purposes of sentencing the two charges of Aggravated Assault as both charges arose out of the same course of criminal conduct?\n4. Considering the significant circumstances presented in mitigation, was [sic] the sentences imposed unduly harsh?\nAppellant\u2019s Brief, at 2.\nRhoades claims that the sentencing court abused its discretion in applying the deadly weapon enhancement to the sentence imposed on the IDSI conviction because the glass bottle employed to anally penetrate the victim is not a deadly weapon. See Appellant\u2019s Brief, at 9. We disagree.\nBecause Rhoades claims that his sentence is excessive, he does not challenge its legality; rather, he challenges its discretionary aspects. \u201cIssues challenging the discretionary aspects of a sentence must be raised in a post-sentence motion or by presenting the claim to the trial court during the sentencing proceedings.\u201d Commonwealth v. Shugars, 895 A.2d 1270, 1273-74 (Pa.Super.2006). \u201cAbsent such efforts, an objection to a discretionary aspect of a sentence is waived.\u201d Id. at 1274.\nThe certified record reveals that on October 7, 2009, Rhoades filed a Motion for Reconsideration of Sentence, alleging that the trial court erred in applying the deadly weapon enhancement to the sentence imposed on the IDSI conviction. As this motion adequately preserved Rhoades\u2019s challenge to the discretionary aspects of his sentence, we will proceed to address his arguments on appeal.\nWe begin our review by noting that, \u201c[a] challenge to the discretionary aspects of a sentence must be considered a petition for permission to appeal, as the right to pursue such a claim is not absolute.\u201d Commonwealth v. McAfee, 849 A.2d 270, 274 (Pa.Super.2004), appeal denied, 580 Pa. 695, 860 A.2d 122 (2004) (citation omitted). When challenging the discretionary aspects of the sentence imposed, an appellant must present a substantial question as to the appropriateness of the sentence. See Commonwealth v. Tirado, 870 A.2d 362, 865 (Pa.Super.2005). \u201cTwo requirements must be met before we will review this challenge on its merits.\u201d McAfee, 849 A.2d at 274. \u201cFirst, an appellant must set forth in his brief a concise statement of the reasons relied upon for allowance of appeal with respect to the discretionary aspects of a sentence.\u201d Id. \u201cSecond, the appellant must show that there is a substantial question that the sentence imposed is not appropriate under the Sentencing Code.\u201d Id. That is, \u201cthe sentence violates either a specific provision of the sentencing scheme set forth in the Sentencing Code or a particular fundamental norm underlying the sentencing process.\u201d Tirado, 870 A.2d at 365. We examine an appellant\u2019s Rule 2119(f) statement to determine whether a substantial question exists. See id. \u201cOur inquiry must focus on the reasons for which the appeal is sought, in contrast to the facts underlying the appeal, which are necessary only to decide the appeal on the merits.\u201d Id.\nIn the present case, Rhoades\u2019s appellate brief contains the requisite Rule 2119(f) concise statement, and, as such, is in technical compliance with the requirements to challenge the discretionary aspects of a sentence. Further, we have found on several occasions that the application of the deadly weapon enhancement presents a substantial question. See, e.g., Commonwealth v. Kneller, 999 A.2d 608, 614 (Pa.Super.2010) (citation omitted); Commonwealth v. Hatcher, 746 A.2d 1142, 1144 (Pa.Super.2000); Commonwealth v. Greene, 702 A.2d 547, 551 (Pa.Super.1997). Therefore, we will address the merits of Rhoades\u2019s claim.\nTo determine whether a deadly weapon enhancement should apply, the Sentencing Code provides as follows:\nWhen the Court determines that the offender used a deadly weapon during the commission of the current conviction offense, the Court shall use the DWE/ Used Matrix (\u00a7 303.18). An offender has used a deadly weapon if any of the following were employed by the offender in a way that threatened or injured another individual; (i) any firearm, (as defined in 42 Pa.C.S. \u00a7 9712) whether loaded or unloaded, or (ii) any dangerous weapon (as defined in 18 P.S. \u00a7 913) or (iii) any device, implement, or Instrumentality capable of producing death or serious bodily injury.\n204 Pa.Code \u00a7 303.10(a)(2).\nPennsylvania law defines a deadly weapon as \u201cany firearm, loaded or unloaded, or any device designed as a weapon and capable of producing death or serious bodily injury, or any other device or instrumentality which, in the manner in which it is used or intended to be used, is calculated or likely to produce death or serious bodily injury.\u201d 18 Pa. Cons.Stat. Ann. \u00a7 2301 (emphasis added). Serious bodily injury is defined as \u201c[bjodily injury which creates a substantial risk of death or which causes serious, permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ.\u201d Id.\nItems not normally considered deadly weapons can take on such status based upon their use under the circumstances. Commonwealth v. Raybuck, 915 A.2d 125, 128 (Pa.Super.2006) (citing Commonwealth v. Scullin, 414 Pa.Super. 442, 607 A.2d 750, 753 (1992) (finding tire iron thrown at victim was a deadly weapon), appeal denied, 533 Pa. 633, 621 A.2d 579 (1992)); Commonwealth v. Cornish, 403 Pa.Super. 492, 589 A.2d 718, 721 (1991) (fireplace poker used to strike victim constituted a deadly weapon); Commonwealth v. Brown, 402 Pa.Super. 369, 587 A.2d 6, 7 (1991) (saw used to stab victim was a deadly weapon).\nAs used under the instant circumstances, we do not hesitate to find an intact glass bottle constituted a deadly weapon. As previously noted, the victim testified at sentencing that Rhoades anally raped her with a beer bottle. N.T., Sentencing, 10/5/09, at 27. Clearly, a glass bottle forcibly inserted into a body cavity, here, the rectum, is calculated or likely to produce \u201cserious, permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ.\u201d 18 Pa. Cons.Stat. Ann. \u00a7 2301; 204 Pa.Code \u00a7 303.10(a)(2). Accordingly, we find no error in the trial court\u2019s determination that a glass bottle constituted a deadly weapon under the circumstances of the instant case.\nRhoades alternatively argues that the trial court erred when it applied the deadly weapon enhancement to his IDSI conviction. The Sentencing Code provides that there shall be no deadly weapon enhancement for \u201c[a]ny offense for which possession of a Deadly Weapon is an element of the statutory definition.\u201d 204 Pa. Code \u00a7 303.10(a)(3)(ix). Rhoades contends that the glass bottle was an element of the IDSI offense and therefore, \u201cthe instrumentality cannot then trigger an application of the Deadly Weapon Enhancement.\u201d Appellant\u2019s Brief, at 10.\nWe cannot agree with Rhoades\u2019s interpretation of the statutory elements of involuntary deviate sexual intercourse. A person commits IDSI when the person \u201cengages in deviate sexual intercourse with a complainant: (1) by forcible compulsion; [or] (2) by threat of forcible compulsion that would prevent resistance by a person of reasonable resolution.... \u201d 18 Pa. Cons.Stat. Ann. \u00a7 3123(a). Deviate Sexual Intercourse is defined as:\n[sjexual intercourse per os or per anus between human beings and any form of sexual intercourse with an animal. The term also includes penetration, however slight, of the genitals or anus of another person with a foreign object for any purpose other than good faith medical, hygienic or law enforcement procedures.\n18 Pa. Cons.Stat. Ann. \u00a7 3101.\nThe plain language of the statute reveals no mention of a deadly weapon element whatsoever. Although we agree that the statutory definition of IDSI includes penetration with a foreign object, there is no requirement that the foreign object used must also be a deadly weapon. The clear statutory language is not altered merely because the foreign object used for purposes of the IDSI conviction was also considered by the trial court to be a deadly weapon for the purposes of applying the deadly weapon enhancement. Thus, we find that the trial court correctly applied the deadly weapons enhancement to Rhoades\u2019s IDSI conviction, and Rhoades\u2019s argument otherwise is without merit.\nRhoades next argues that the trial court erred when it failed to merge his convictions for aggravated assault, counts six and seven, for sentencing purposes. Appellant\u2019s Brief, at 11. A claim that crimes should have merged for sentencing purposes raises a challenge to the legality of the sentence, which cannot be waived. Commonwealth v. Williams, 980 A.2d 667, 672 (Pa.Super.2009), appeal denied, 605 Pa. 700, 990 A.2d 730 (2010).\nSection 9765 of the Judicial Code provides guidance on merger of sentences:\nNo crimes shall merge for sentencing purposes unless the crimes arise from a single criminal act and all of the statutory elements of one offense are included in the statutory elements of the other offense. Where crimes merge for sentencing purposes, the court may sentence the defendant only on the higher graded offense.\n42 Pa. Cons.Stat. Ann. \u00a7 9765. In recently interpreting Section 9765, our Supreme Court has mandated that courts of this Commonwealth apply an elements-based test when determining questions of merger at the time of sentencing:\nA plain language interpretation of Section 9765 reveals the General Assembly\u2019s intent to preclude the courts of this Commonwealth from merging sentences for two offenses that are based on a single criminal act unless all of the statutory elements of one of the offenses are included in the statutory elements of the other.\nCommonwealth v. Baldwin, 604 Pa. 34, 45, 985 A.2d 830, 837 (2009) (emphasis added).\nApplying this standard to the facts of the case sub judice, we find that the charges for aggravated assault at counts 6 and 7, 18 Pa. Cons.Stat. Ann. \u00a7\u00a7 2702(a)(1) and 2702(a)(4), respectively, did not share identical statutory elements:\n[W]hen the two subsections are read together it is apparent that subsection (4) contains an element that is not found in the greater offense of subsection (1). Specifically, subsection (4) requires that the assault be caused or attempted \u201cwith a deadly weapon\u201d. This element is not contained in subsection (1), which prohibits any attempt to cause or the causing of serious bodily injury but which does not limit itself to any particular mode of causing such an injury.\nIt is therefore possible that a subsection (1) assault may be proved in some cases without necessarily proving a subsection (4) assault.\nCommonwealth v. Ferrari, 406 Pa.Super. 12, 593 A.2d 846, 848-849 (1991) (citation omitted) (emphasis omitted). Therefore, as Rhoades\u2019s assault convictions contain disparate elements, we find no error in the trial court\u2019s failure to merge these crimes for sentencing purposes.\nLastly, Rhoades claims that the trial court\u2019s alleged failure to consider mitigating circumstances of record resulted in an unduly harsh sentence. Appellant\u2019s Brief, at 6. Although Rhoades\u2019s claim challenges the discretionary aspects of his sentence, an allegation that the sentencing court failed to consider mitigating factors generally does not raise a substantial question for our review. Commonwealth v. Mowry, 992 A.2d 162, 171 (Pa.Super.2010). Moreover, where, as here, the sentencing court had the benefit of a pre-sentence investigation report, \u201cwe can assume the sentencing court Vas aware of relevant information regarding the defendant\u2019s character and weighed those considerations along with mitigating statutory factors.\u2019 \u201d Id. (citation omitted). Accordingly, we are precluded from addressing Rhoades\u2019s challenge to the discretionary aspects of his sentence on this basis.\nJudgment of sentence affirmed. Jurisdiction relinquished.\n. 18 Pa. Cons.Stat. Ann. \u00a7 2502; 18 Pa. Cons. Stat.Ann. \u00a7 901.\n. 18 Pa. Cons.Stat. Ann. \u00a7\u00a7 3121(a)(1) and (2).\n. 18 Pa. Cons.Stat. Ann. \u00a7\u00a7 3123(a)(1) and (2).\n. 18 Pa. Cons.Stat. Ann. \u00a7\u00a7 2702(a)(1) and (4).\n. 18 Pa. Cons.Stat. Ann. \u00a7\u00a7 2701(a)(1) and (3).\n. 18 Pa. Cons.Stat. Ann. \u00a7 2706(a)(1).\n. 18 Pa. Cons.Stat. Ann. \u00a7 2902(a)(1).\n. 18 Pa. Cons.Stat. Ann. \u00a7 2705.\n. 18 Pa. Cons.Stat. Ann. \u00a7 907(a).\n. Rhoades was ordered to undergo a psychological evaluation, after which it was determined that he was not a sexual offender. N.T., Sentencing, 10/05/09, at 4.\n. Rule 2119 provides the following, in pertinent part:\n(f) Discretionary aspects of sentence. An appellant who challenges the discretionary aspects of a sentence in a criminal matter shall set forth in his brief a concise statement of the reasons relied upon for allowance of appeal with respect to the discretionary aspects of a sentence. The statement shall immediately precede the argument on the merits with respect to the discretionary aspects of sentence.\nPa.R.A.P., Rule 2119\u00ae, 42 Pa. Cons.Stat. Ann.\n. This Court has held that a substantial question exists when a sentencing court imposed a sentence in the aggravated range without considering mitigating factors. Commonwealth v. Felmlee, 828 A.2d 1105, 1107 (Pa.Super.2003). Here, Rhoades contends that the sentence imposed on his IDSI conviction is in the aggravated range of the sentencing guidelines based upon his claim that the sentencing court incorrectly applied the deadly weapon enhancement to that conviction. Appellant\u2019s Brief, at 12. However, we have determined that the sentencing court\u2019s application of the deadly weapon enhancement was appropriately applied, and Rhoades's sentence is within the standard range of the deadly weapons enhancement guidelines. Therefore, we find no substantial question is raised.",
+        "type": "majority",
+        "author": "PANELLA, J."
+      }
+    ],
+    "attorneys": [
+      "Joseph J. Hylan, Norristown, for appellant.",
+      "Adrienne Jappe, Assistant District Attorney, Norristown, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Ross RHOADES Jr., Appellant.\nSuperior Court of Pennsylvania.\nArgued Aug. 25, 2010.\nFiled Nov. 12, 2010.\nJoseph J. Hylan, Norristown, for appellant.\nAdrienne Jappe, Assistant District Attorney, Norristown, for Commonwealth, appellee.\nBEFORE: MUSMANNO, PANELLA and SHOGAN, JJ."
+  },
+  "file_name": "0912-01",
+  "first_page_order": 938,
+  "last_page_order": 945
+}

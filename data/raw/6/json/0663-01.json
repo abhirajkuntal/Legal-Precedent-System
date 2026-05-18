@@ -1,0 +1,181 @@
+{
+  "id": 7287976,
+  "name": "ERIE SPORTS BAR, INC. t/a Coach's Sports Bar & Grill v. PENNSYLVANIA STATE POLICE, BUREAU OF LIQUOR CONTROL ENFORCEMENT, Appellant",
+  "name_abbreviation": "Erie Sports Bar, Inc. v. Pennsylvania State Police, Bureau of Liquor Control Enforcement",
+  "decision_date": "2010-10-21",
+  "docket_number": "",
+  "first_page": "663",
+  "last_page": "669",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 663"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "657 A.2d 1359",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11946060
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/657/1359-01"
+      ]
+    },
+    {
+      "cite": "951 A.2d 1232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8222158
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/951/1232-01"
+      ]
+    },
+    {
+      "cite": "995 A.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289378
+      ],
+      "year": 2010,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/995/0517-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 975",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294220
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/981/0975-01"
+      ]
+    },
+    {
+      "cite": "974 A.2d 525",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295088
+      ],
+      "year": 2009,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/974/0525-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "818 A.2d 910",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "demonstrable prejudice is a key factor in assessing whether procedural due process was denied"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "457 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477656
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "demonstrable prejudice is a key factor in assessing whether procedural due process was denied"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/457/0264-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 815,
+    "char_count": 21197,
+    "ocr_confidence": 0.77,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43843154562293013
+    },
+    "sha256": "5cdfdf08834b54108bc5ef45278787b956eb341fe199609c0d64b4486c1c0938",
+    "simhash": "1:d8bd530aa35e3029",
+    "word_count": 3385
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: SIMPSON, Judge, and BUTLER, Judge, and KELLEY, Senior Judge."
+    ],
+    "parties": [
+      "ERIE SPORTS BAR, INC. t/a Coach\u2019s Sports Bar & Grill v. PENNSYLVANIA STATE POLICE, BUREAU OF LIQUOR CONTROL ENFORCEMENT, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge KELLEY.\nAppellant Pennsylvania State Police, Bureau of Liquor Control Enforcement (Bureau), appeals from an order of the Court of Common Pleas of Erie County (Trial Court) which granted the appeal of Erie Sports Bar, Inc., t/a Coach\u2019s Sports Bar & Grill (Licensee) from an order and decision of the Liquor Control Board (Board). The Trial Court\u2019s order also dismissed a civil citation against Licensee for a violation of Section 493(1) of the Liquor Code, for selling, furnishing, and/or giving an alcoholic beverage to an underage person. We affirm.\nOn April 9, 2007, an undercover Liquor Enforcement Officer entered Licensee\u2019s premises. Shortly thereafter, as part of the Bureau\u2019s Age Compliance Check Program, a 19-year-old female identified as an Underage Buyer entered Licensee\u2019s premises and approached' the bar. The Underage Buyer then ordered a bottle of beer from Licensee\u2019s bartender, who served the Buyer without questioning her age, and completed the sale. The Underage Buyer then promptly left Licensee\u2019s premises without consuming the beer.\nThe Bureau subsequently notified Licensee, by certified letter received thereby on May 1, 2007, of the alleged violation of Section 493(1) of the Liquor Code resulting from Licensee\u2019s sale of the beer to the Underage Buyer. The Bureau issued a citation dated May 25, 2007, via certified mail, to Licensee for the violation at issue.\nA hearing on the citation ensued before a Bureau Administrative Law Judge (ALJ), at which both parties appeared and were represented by counsel. After hearing testimony, and upon review of the evidence presented, the ALJ issued an Adjudication dated December 11, 2007. Following the Adjudication\u2019s Findings of Fact, the ALJ concluded that the Bureau had failed to provide immediate notification to Licensee\u2019s Board-approved premises manager, and/or person in charge, once the alleged violation within the premises had been established, in violation of S\u00e9ction 23.23(1) of Title 37 of the Pennsylvania Code. The ALJ\u2019s Adjudication accordingly dismissed the citation.\nThe Bureau thereafter appealed the Adjudication to the Board. Following its review of the parties\u2019 arguments, and the record to the matter, the Board issued an Opinion and Order dated April 2, 2008. Therein, the Board concluded, inter alia, that Licensee was strictly liable for the alleged violation of Section 493(1) of the Liquor Code notwithstanding the Bureau\u2019s failure to demonstrate that it had complied with the immediate notification provisions of Section 23.23(1) of Title 37 of the Pennsylvania Code. The Board expressly concluded that Section 23.23(1) did not add to the burden of proof required of the Bureau in civil administrative hearings against licensees for a violation of Section 493(1) of the Liquor Code. The Board further concluded that the ALJ\u2019s dismissal was an error of law, reversed the ALJ\u2019s Adjudication, and granted the Bureau\u2019s appeal.\nLicensee thereafter appealed to the Trial .Court, which heard argument from the parties without receiving additional evidence. By Order dated August 5, 2008, the Trial Court concluded that the Bureau\u2019s compliance with the applicable provisions of the Pennsylvania Code, including Section 23.23(1) of Title 37, was mandatory and required for the pursuit of any alleged violations detected under the Bureau\u2019s employment of the Age Compliance Check Program, and that the Pennsylvania Code\u2019s notice requirements provided a licensee with particularly important opportunities regarding both the defense of a subsequent violation proceeding, and the ability to take responsibility and correct any noted problems. Further, the Trial Court emphasized that without any sanction for the Bureau\u2019s notice failure at issue, no incentive would exist for the Bureau to conform their behavior to the clear requirements of the law. Accordingly, the Trial Court granted Licensee\u2019s appeal, overturned the Board\u2019s Decision and Order, and dismissed the citation. The Bureau now appeals from the Trial Court\u2019s order.\nThis Court\u2019s review is limited to determining whether the decision of the trial court is based on substantial evidence, and whether the trial court abused its discretion or committed an error of law. 5708 K & T, Inc. v. Pennsylvania Liquor Control Board, 951 A.2d 1232 (Pa.Cmwlth. 2008).\nThe Bureau asserts one issue in the instant appeal: whether the Trial Court erred in concluding that the notice provisions of the Age Compliance Program Check applied to a civil proceeding for a licensee violation of Section 498(1) of the Liquor Code.\nThe Bureau argues that the Trial Court erred in judicially amending the statutory language of the Liquor Code, in that the elements of an offense under Section 498(1) do not require the immediate notification of a licensee for a violation thereof. Under the Bureau\u2019s view, to prove a violation of Section 493(1) the Bureau need only prove that on the date of the violation, the establishment provided alcohol to a minor; the only valid defense to this charge is found in Section 495 of the Liquor Code, 47 P.S. \u00a7 4-495, which defense is not applicable under the instant facts. The Bureau emphasizes that the Board noted that the Age Compliance Check Program provisions are not implicated in a civil administrative prosecution by the Bureau. R.R. at 153a.\nThe Bureau further argues that the Underage Buyer herein did not violate Section 6308(a) of the Crimes Code, when she purchased alcohol, and that nothing in any subsection of Section 6808, and nothing in the attendant regulations promulgated thereunder, alters the elements of a charged offense under the Crimes Code. The Bureau asserts that it only needs to show compliance with Section 6808 requirements in a criminal prosecution against an underage buyer for having made an otherwise unlawful purchase, and that those provisions are relevant only in a Bureau attempt to establish an effective defense for an underage buyer. The Bureau\u2019s position is founded upon its conclusion that the only notification requirement to a licensee relevant to the instant matter is that required upon completion of the Bureau\u2019s investigation. Section 471(b) of the Liquor Code, 47 P.S. \u00a7 4-471(b). The Bureau asserts, correctly, that there is no dispute herein that the Bureau provided this notification via timely certified letter to Licensee upon the completion of its investigation. R.R. at 122a.\nWe cannot adopt the Bureau\u2019s preferred interpretation of the statutory and regulatory scheme at issue herein. Section 6308(e)(3) of the Crimes Code mandates that compliance checks conducted under the Program shall be conducted in a manner consistent with the regulations promulgated under that Section. In availing itself of the distinct enforcement advantages statutorily provided for in the Age Compliance Check Program, the Bureau must concomitantly submit to the clear statutory and regulatory requirements thereof, including the immediate notice provision at issue. Following the mandate for regulatory promulgation under Section 6808, the language of Section 28.23(1) of Title 37 of the Pennsylvania Code is clear and unambiguous, and requires without exception that immediate verbal notification will be provided as a mandated part of the Age Compliance Check Program. There is no provision anywhere within the applicable regulations to the Age Compliance Check Program that supports the Bureau\u2019s theory that the notification provision at issue herein is only applicable for purposes of providing a defense to a minor or the Bureau if either were to be prosecuted with a violation of Section 6308; there is only a mandate for immediate verbal notice in the face of a violation, without exception thereto or qualification thereof. It is undisputed that immediate notification was not provided by the Bureau in this case.\nFurther, due process implications attach to the notice provisions of the statute at issue, and to the regulations promulgated thereunder. Section 23.23(1) of Title 37 of the Pennsylvania Code requires immediate verbal notification to be provided to the in-charge personnel of the premises at which the enforcement action has been undertaken, if a violation is found. It is axiomatic that due process rights encompass rights to both notice, and to an opportunity to be heard. See, e.g., DeMarco v. Pennsylvania Liquor Control Board, 657 A.2d 1359 (Pa.Cmwlth.1995). To the extent that particular forms of notice have been mandated by the General Assembly via statute, or via regulation properly promulgated thereunder, due process protections are implicated. Given that the notice provision required by Section 23.23(1) is directed solely at the premises at which the Bureau has undertaken an action (and found a violation) under the Age Compliance Check Program, due process demands that such an action (when a violation has been found) include the mandated immediate notice to those premises. Where specifically provided for and expressly mandated without exception, due process protections are not optional.\nAdditionally, as Licensee has argued, any lack of the notice plainly mandated in Section 23.23(1) prejudices the owner, operator, or possessor of the premises subject to the Age Compliance Check Program by removing the opportunity to observe, document, and/or preserve any evidence, witnesses, or surveillance of the incident at issue, as well as depriving the premises of any opportunity to immediately correct any problem perceived with procedures, or with the employees responsible for any found violation.\nIn summation, we hold that if the Bureau avails itself of the Age Compliance Check Program, it must abide by the mandates of that program, including the notice provisions promulgated thereunder, notwithstanding the subsequent criminal burden the Bureau may face in its subsequent criminal prosecution of the premises targeted by the Program under a section of the Crimes Code. Where the General Assembly, dr an administrative body under its own regulations promulgated pursuant to statute, expressly provides for mandated notice, due process protections attach to that notice.\nAccordingly, we affirm.\nORDER\nAND NOW, this 21st day of October, 2010, the order of the Court of Common Pleas of Erie County, dated August 5, 2008, at No. MD-208-2008, is affirmed.\n. Act of April 12, 1951, P.L. 90, as amended, 47 P.S. \u00a7 4-493(1).\n. Section 493(1) states:\nUnlawful acts relative to liquor, malt and brewed beverages and licensees The term \"licensee,\" when used in this section, shall mean those persons licensed under the provisions of Article IV, unless the context clearly indicates otherwise.\nIt shall be unlawful\u2014\n(1) Furnishing liquor or malt or brewed beverages to certain persons. For any licensee or the board, or any employe, servant or agent of such licensee or of the board, or any other person, to sell, furnish or give any liquor or malt or brewed beverages, or to permit any liquor or malt or brewed beverages to be sold, furnished or given, to any person visibly intoxicated, or to any minor: Provided further, That notwithstanding any other provision of law, no cause of action will exist against a licensee or the board or any employe, servant or agent of such licensee or the board for selling, furnishing or giving any liquor or malt or brewed beverages or permitting any liquor or malt or brewed beverages to be sold, furnished or given to any insane person, any habitual drunkard or person of known intemperate habits unless the person sold, furnished or given alcohol is visibly intoxicated or is a minor.\n47 P.S. \u00a7 4-493(1).\n.Section 23.23 of Title 37 of the Pennsylvania Code reads:\nNotification of results of age compliance check.\nA Bureau officer will be responsible for insuring notification is made of the results of the age compliance check to the Board-approved manager or person in charge of the licensed premises.\n(1) If the licensed premises is not in compliance, immediate verbal notification will be provided followed by written notification within 10 working days.\n(2) If the licensed premises is found to be in compliance, written notification of compliance will be provided within 10 working days.\n(3) Verbal and written notification will include the date and time of the compli-anee check as well as the name of the server if known.\n37 Pa.Code \u00a7 23.23.\n. By Supplemental Order dated January 8, 2008, the ALJ denied the Bureau\u2019s Request for Reconsideration. \u25a0\n. The Board\u2019s order further remanded the matter to the ALJ for the imposition of an appropriate penalty consistent with the Board\u2019s Decision and Order. By Supplemental Order dated April 2, 2008, the ALJ ordered Licensee to pay a fine of $1,250.00, and to . contact the Bureau for further compliance process and certification thereof under the Liquor Code. See Reproduced Record (R.R.) at 155a.\n. The Trial Court did not subsequently file a Memorandum Opinion in support of its Order. See R.R. at 49a.\n. Section 495 reads, in relevant part:\nIdentification cards; licensees and state liquor store employes saved from prosecution\n(e) No penalty shall be imposed on a licensee, licensee's employe or State Liquor Store employe for serving alcohol to a minor if the licensee or employe can establish that the minor was required to produce an identification card as set forth in subsection (a), the minor completed and signed the form as set forth in subsection (c) and these documents were relied upon in good faith. This defense shall apply to all civil and criminal prosecutions.\n(f) In addition to the defense set forth in subsection (e), no penalty shall be imposed on a licensee, licensee\u2019s employe or State Liquor Store employe for serving alcohol to a minor if the licensee or employe can establish that the minor was required to produce an identification card as set forth in subsection (a), a photograph, photocopy or other visual or video presentation of the identification card was made and those documents were relied upon in good faith. This defense shall apply to all civil and criminal prosecutions.\n(g) In addition to the defenses set forth in subsections (e) and (f), no penalty shall be imposed on a licensee, licensee\u2019s employe or Pennsylvania Liquor Store employe for serving alcohol to a minor if the licensee or employe can establish that the minor was required to produce an identification card as set forth in subsection (a), the identification card is identified as a valid card by a transaction scan device and the identification card and transaction scan results were relied upon in good faith. This defense shall apply to all civil and criminal prosecutions. For purposes of this section, a \"transaction scan device\u201d is a device capable of deciphering in an electronically readable format the information encoded on the magnetic strip or bar code of an identification card set forth in subsection (a).\n. Section 6308(a) reads, in relevant part:\nPurchase, consumption, possession or transportation of liquor or malt or brewed beverages\n(a) Offense defined. \u2014 A person commits a summary offense if he, being less than 21 years of age, attempts to purchase, purchases, consumes, possesses or knowingly and intentionally transports any liquor or malt or brewed beverages, as defined in section 6310.6 (relating to definitions). For the purposes of this section, it shall not be a defense that the liquor or malt or brewed beverage was consumed in a jurisdiction other than the jurisdiction where the citation for underage drinking was issued.\n18 Pa.C.S. \u00a7 6308(a).\nHowever, Section 6308(e) of the Crimes Code, 18 Pa.C.S. \u00a7 6308(e), creates an exception for Bureau compliance checks intended to shield underage buyers from criminal prosecution under Section 6308(a), and includes a list of conditions that must be satisfied without exception:\n(e) Exception for compliance checks.\u2014\n(1)An individual who is under 21 years of age may purchase, attempt to purchase, possess or transport liquor or malt or brewed beverages if all of the following apply:\n(1) The individual is at least 18 years of age.\n(ii) The individual is an officer, employee or intern of the Bureau of Liquor Control Enforcement of the Pennsylvania State Police.\n(iii) The individual has completed training specified by the bureau.\n(iv) The individual is acting within the scope of prescribed duties.\n(v) The individual is acting under the direct control or supervision of a bureau officer who is an adult.\n(2) Under no circumstances may individuals under 21 years of age consume liquor or malt or brewed beverages.\n(3) The Pennsylvania State Police shall promulgate regulations prescribing the manner in which compliance checks are to be performed. Compliance checks under this subsection shall be conducted in a manner consistent with the regulations. Regulations shall require, at a minimum, all of the following:\n(i) Prior to participation in the compliance check, the officer, employee or intern shall undergo training approved by the Bureau of Liquor Control Enforcement.\n(ii) A person licensed to sell liquor or malt or brewed beverages that is found to be in compliance with this section during a compliance check shall be notified in writing of the compliance check and the determination of compliance.\n(iii) A person licensed to sell liquor or malt or brewed beverages that is found to be noncompliant with this section during a compliance check shall be immediately verbally advised by the supervising bureau officer and shall be notified in writing of the failure to comply within ten working days of the date of the compliance check.\n. Section 471(b) reads, in relevant part:\n[I]f a licensee has been cited and found to have violated section 493(1) as it relates to sales to minors or sales to a visibly intoxicated person but at the time of the sale the licensee was in compliance with the requirements set forth in section 471.1 and the licensee had not sold to minors or visibly intoxicated persons in the previous four years, then the administrative law judge shall immediately suspend or revoke the license, or impose a fine of not less than fifty dollars ($50) nor more than one thousand dollars ($1,000), or both. The administrative law judge shall notify the licensee by registered mail, addressed to the licensed premises, of such suspension, revocation or fine.\n. Relatedly, we reject the Bureau's argument that Section 6308 exists solely to shield an underage buyer participating in the Age Compliance Check Program from subsequent prosecution; while such protection may be the primary goal of that Section, the notice provision clearly and unambiguously, on its face, inures solely to the benefit of the premises targeted thereby. We agree with Licensee that there is no rational basis upon which to conclude that immediate notice to the premises could in any way protect the underage buyer from a subsequent criminal prosecution.",
+        "type": "majority",
+        "author": "Senior Judge KELLEY."
+      },
+      {
+        "text": "CONCURRING OPINION BY\nJudge SIMPSON.\nAlthough I agree with the result reached by the majority, I write separately to offer a refined analysis of the procedural due process issue resulting from the failure of the Bureau to provide immediate notification of the age compliance check, as required by regulation.\nThe majority writer states: \u201cWhere specifically provided for and expressly mandated without exception, due process protections are not optional.\u201d Majority Op. at 668. While this statement is true, it is not the end of the analysis. To support a remedy, the petitioner must also demonstrate prejudice. State Dental Council & Examining Bd. v. Pollock, 457 Pa. 264, 818 A.2d 910 (1974) (demonstrable prejudice is a key factor in assessing whether procedural due process was denied).\nWhen confronted with a claim of procedural due process deprivation, this Court undertakes a Mathews analysis, following the guidance of the United States Supreme Court in Mathews v. Eldridge, 424 U.S. 319, 96 S.Ct. 893, 47 L.Ed.2d 18 (1976). This approach was recently applied in In re McGlynn, 974 A.2d 525 (Pa.Cmwlth. 2009), Pennsylvania Bankers Association v. Department of Banking, 981 A.2d 975 (Pa.Cmwlth.2009), and Messina v. East Penn Township, 995 A.2d 517 (Pa.Cmwlth. 2010) {en banc). Essential to the analysis is whether the process afforded was such as to create a risk of erroneous deprivation of a protected interest.\nUndertaking a Mathews analysis here, I conclude that the lack of- immediate notice created a risk of erroneous deprivation of Licensee\u2019s interest in keeping its liquor license. In particular, the lack of immediate notice interfered with Licensee\u2019s ability to preserve evidence relating to the age violation. The risk of erroneous deprivation of a protected interest outweighs any burden on the Bureau associated with giving immediate notice. In short, after a Mathews.analysis, I concur with the result.",
+        "type": "concurrence",
+        "author": "Judge SIMPSON."
+      }
+    ],
+    "attorneys": [
+      "Nadia L. Vargo, Asst. Counsel, Pittsburgh, for appellant.",
+      "James L. Moran, Erie, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "ERIE SPORTS BAR, INC. t/a Coach\u2019s Sports Bar & Grill v. PENNSYLVANIA STATE POLICE, BUREAU OF LIQUOR CONTROL ENFORCEMENT, Appellant.\nCommonwealth Court of Pennsylvania.\nArgued April 19, 2010.\nDecided Oct. 21, 2010.\nNadia L. Vargo, Asst. Counsel, Pittsburgh, for appellant.\nJames L. Moran, Erie, for appellee.\nBEFORE: SIMPSON, Judge, and BUTLER, Judge, and KELLEY, Senior Judge."
+  },
+  "file_name": "0663-01",
+  "first_page_order": 709,
+  "last_page_order": 715
+}

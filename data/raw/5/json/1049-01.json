@@ -1,0 +1,236 @@
+{
+  "id": 7290384,
+  "name": "Kathleen L. DYER v. Bruce S. DYER",
+  "name_abbreviation": "Dyer v. Dyer",
+  "decision_date": "2010-10-21",
+  "docket_number": "",
+  "first_page": "1049",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 A.3d 1049"
+    },
+    {
+      "type": "parallel",
+      "cite": "2010 ME 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "804 A.2d 1138",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1139"
+        },
+        {
+          "page": "1138"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002 ME 149",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11424724
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6\u00b6 16-18"
+        },
+        {
+          "page": "\u00b6 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/804/1133-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 149",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8318265
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "804"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/938/0801-01"
+      ]
+    },
+    {
+      "cite": "2007 ME 123",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8352432
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b623"
+        },
+        {
+          "page": "1095-96"
+        },
+        {
+          "page": "\u00b6\u00b6 23, 25"
+        },
+        {
+          "page": "1095-96, 1096-97"
+        },
+        {
+          "page": "\u00b6\u00b6 25-26, 31"
+        },
+        {
+          "page": "1096-97, 1098",
+          "parenthetical": "rejecting a statutory construction that has no connection to a statutory goal in favor of a construction \" 'that avoids a result adverse to the public interest'\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/1088-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 50",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8390549
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "\u00b6 25"
+        },
+        {
+          "page": "581"
+        },
+        {
+          "page": "\u00b6 25"
+        },
+        {
+          "page": "581"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/943/0573-01"
+      ]
+    },
+    {
+      "cite": "2008 ME 97",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8185481
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "\u00b6 6"
+        },
+        {
+          "page": "978"
+        },
+        {
+          "page": "\u00b6\u00b69-10"
+        },
+        {
+          "page": "978-79"
+        },
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "978-79"
+        },
+        {
+          "page": "\u00b6\u00b6 9-10"
+        },
+        {
+          "page": "978-79"
+        },
+        {
+          "page": "\u00b6\u00b6 13-16"
+        },
+        {
+          "page": "979-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/952/0976-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 546,
+    "char_count": 10139,
+    "ocr_confidence": 0.695,
+    "pagerank": {
+      "raw": 1.9197260735529302e-07,
+      "percentile": 0.732774574888343
+    },
+    "sha256": "ae2ce2e91b27fbcc3ee01702f93bf7edd597a8a9359e04fa33576887e2b07b35",
+    "simhash": "1:ea7e9500cc8f867c",
+    "word_count": 1706
+  },
+  "last_updated": "2024-02-27T19:27:34.798659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, and JABAR, JJ."
+    ],
+    "parties": [
+      "Kathleen L. DYER v. Bruce S. DYER."
+    ],
+    "opinions": [
+      {
+        "text": "LEVY, J.\n[\u00b6 1] Bruce S. Dyer appeals from a judgment entered in the District Court (West Bath, Tucker, J.) extending for a second time a protection from abuse order against him related to his former wife, Kathleen L. Dyer. Bruce contends that (1) the plain language of the protection from abuse statute allows the court to extend a protection order only once; (2) the evidence was insufficient to support the court\u2019s finding that Kathleen had an objectively reasonable fear of further abuse; and (3) the court abused its discretion by extending the protection order for four years. We affirm the judgment.\nI. BACKGROUND\n[\u00b6 2] The parties do not dispute the relevant facts, which are supported by competent evidence in the record. Kathleen and Bruce are divorced, and they have one daughter, who was born in 1995. In December 2005, Bruce assaulted Kathleen in the garage of their home. After convincing her to enter the garage, he struck her in the head from behind with a lacrosse stick and struck her again in the face. While she was on the ground, he got on top of her and held his hands over her mouth and nose until she was on the verge of losing consciousness. The assault stopped when their ten-year-old daughter entered the garage and Kathleen was able to tell her to call 9-1-1. Bruce was arrested and charged -with aggravated assault. He was convicted of the aggravated assault and served approximately six months in jail.\n[\u00b63] In December 2005, the parties agreed to an order of protection from abuse, which the court entered without a finding of abuse. The order prohibited Bruce from having direct or indirect contact with Kathleen or their daughter for two years. Bruce twice violated this order by sending his daughter a Christmas card in December 2005 and by entering Kathleen\u2019s home in early 2006.\n[\u00b6 4] In November 2007, Kathleen moved to extend the protection order pursuant to 19-A M.R.S. \u00a7 4007(2) (2009). The parties agreed to extend the order for an additional two years without a finding of abuse. The extended order did not apply to their daughter.\n[\u00b6 5] In December 2009, Kathleen moved to extend the second protection order. After a hearing on the motion, the court made a finding of abuse and extended the protection order for four additional years, reasoning that the Legislature did not intend \u201cto put a two-year limit on how scared somebody can be from such horrendous conduct.\u201d Bruce moved for additional findings of fact and conclusions of law pursuant to M.R. Civ. P. 52(a). The court found that the 2005 assault was \u201cextraordinarily brutal and unprovoked,\u201d that Kathleen is still affected by Bruce\u2019s violations of the first protection order, and that she \u201clives in fear of [Bruce] as if the assault happened yesterday.\u201d Specifically, Kathleen is fearful when she sees vehicles that are similar to Bruce\u2019s, she avoids traveling in the town where Bruce lives, and when she learned that Bruce got a job in the town where she works, she informed the local police and reviewed her workplace\u2019s safety plan with her employer. The court also concluded that section 4007(2) allows the court to extend a protective order more than once. Bruce .timely appealed.\nII. DISCUSSION\nA. Construction of Section 4007(2)\n[\u00b6 6] Bruce contends that the court erred in ordering a second extension of the protection order because a second extension is not explicitly authorized by the statute. Whether the statute authorizes a second extension is a question that we have not previously addressed.\n[\u00b6 7] We review the court\u2019s interpretation of a statute de novo by first considering the plain language of the statute. Copp v. Liberty, 2008 ME 97, \u00b6 6, 952 A.2d 976, 978. If the statutory language is silent or ambiguous, we then consider other indicia of legislative intent. Id.; GENUJO LOK Beteiligungs GmbH v. Zorn, 2008 ME 50, \u00b6 25, 943 A.2d 573, 581. Legislative intent may be ascertained from the statute\u2019s underlying purpose. Adoption of M.A., 2007 ME 123, \u00b623, 930 A.2d 1088, 1095-96.\n[\u00b6 8] The protection from abuse statute provides, in relevant part, that a protection order or consent agreement may be extended as necessary to protect the plaintiff or a minor child from abuse:\n1. Protection order; consent agreement. The court, after a hearing and upon finding that the defendant has committed the alleged abuse ..., may grant a protective order....\n2. Duration. A protective order or approved consent agreement is for a fixed period not to exceed 2 years. At the expiration of that time, the court may extend an order, upon motion of the plaintiff, for such additional time as it determines necessary to protect the plaintiff or minor child from abuse.... Upon motion by either party, for sufficient cause, the court may modify the order or agreement from time to time as circumstances require.\n19-A M.R.S. \u00a7 4007(1), (2) (2009). The statute also provides a general rule of statutory construction and a statement of its underlying purpose:\nThe court shall liberally construe and apply this chapter to promote the following underlying purposes: ... To allow family ... members who are victims of domestic abuse to obtain ... effective protection against further abuse so that the lives of the nonabusing family ... members are as secure and uninterrupted as possible.\n19-A M.R.S. \u00a7 4001(2) (2009).\n[\u00b6 9] By its plain language, section 4007(2) provides for a court to extend a protective order when it expires, but it neither authorizes nor prohibits further extensions of a protective order. See 19-A M.R.S. \u00a7 4007(2). Because the statute is silent on this matter, we consider other indicia of legislative intent, such as the statutory statement of purpose included in section 4001, to choose between two competing constructions. See GENUJO LOK, 2008 ME 50, \u00b6 25, 943 A.2d at 581; Adoption of MA., 2007 ME 123, \u00b6\u00b6 23, 25, 930 A.2d at 1095-96, 1096-97.\n[\u00b6 10] A liberal construction of section 4007(2) that does not preclude a second extension of a protective order is in harmony with the underlying purpose of the statute to provide family members \u201ceffective protection against further abuse so that [their] lives ... are as secure and uninterrupted as possible.\u201d See 19-A M.R.S. \u00a7 4001(2). By contrast, a strict construction of section 4007(2) that would prevent more than one extension of a protection order ignores the reality and unpredictability of personal relationships and, in this case, would create a result adverse to the statute\u2019s purpose. See Adoption of M.A., 2007 ME 123, \u00b6\u00b6 25-26, 31, 930 A.2d at 1096-97, 1098 (rejecting a statutory construction that has no connection to a statutory goal in favor of a construction \u201c \u2018that avoids a result adverse to the public interest\u2019\u201d). The Legislature could not have intended the latter construction. Accordingly, we conclude that section 4007(2) does not prohibit a court from extending a protection from abuse order more than once.\nB. The Court\u2019s Application of Section 4007(2)\n[\u00b6 11] Although the court may only extend a protection order by agreement of the parties or upon a finding of abuse, the court has broad discretion to provide relief in a protection order without limitations on the amount of time for which a protection order may be extended. Copp, 2008 ME 97, \u00b6\u00b69-10, 952 A.2d at 978-79; L\u2019Heureux v. Michaud, 2007 ME 149, \u00b6 11, 938 A.2d 801, 804; see 19-A M.R.S. \u00a7 4007(2). However, because a protection order can impose significant restrictions on a defendant\u2019s freedom of movement, see 19-A M.R.S. \u00a7 4007(1)(B), (C), and other rights, including the right to possess firearms, see 19-A M.R.S. \u00a7 4007(1)(A-1), the extension must be supported by a court\u2019s determination that \u201csuch additional time [is] necessary to protect the plaintiff ... from abuse,\u201d see 19-A M.R.S. \u00a7 4007(2); Copp, 2008 ME 97, \u00b6 9, 952 A.2d at 978-79. Where the underlying abuse consists of \u201c[a]ttempting to cause or causing bodily injury or offensive physical contact\u201d pursuant to 19-A M.R.S. \u00a7 4002(1)(A) (2009), this determination must be based on proof of continuing harm or the threat of continuing harm arising out of or related to the abuse that necessitated the protection order in the first instance.\n[\u00b6 12] Here, the court made the required finding that the 2005 attack on Kathleen constituted abuse pursuant to 19-A M.R.S. \u00a7 4002(1)(A). The court also found that the attack demonstrably continues to affect Kathleen based on her subjective fear of Bruce \u201cas if the assault happened yesterday,\u201d and that her fear is objectively reasonable based on the \u201cextraordinarily brutal and unprovoked\u201d nature of the \u201chorrendous\u201d attack. Cf. Smith v. Hawthorne, 2002 ME 149, \u00b6\u00b6 16-18, 804 A.2d 1138, 1139 (examining a court\u2019s finding of \u201cfear of bodily injury,\u201d pursuant to 19-A M.R.S.A. \u00a7 4002(1)(B) (1998), for subjective and objective reasonableness).\n[\u00b6 13] We review the court\u2019s factual findings for clear error, and because competent evidence exists in the record to support these findings, we discern none. See Smith, 2002 ME 149, \u00b6 15, 804 A.2d at 1138. Furthermore, based on the heinous and unprovoked nature of Bruce\u2019s attack on Kathleen and the continued effect that the attack has on her, we conclude that the court acted within its discretion in determining that a four-year extension of the protection order was necessary to protect Kathleen from abuse. See Copp, 2008 ME 97, \u00b6\u00b6 9-10, 952 A.2d at 978-79.\nThe entry is:\nJudgment affirmed.\n. Because the order in this case does not apply to the parties\u2019 minor daughter and, thus, does not implicate parental rights and responsibilities, we need not consider whether the court found \"extraordinary circumstances\u201d to justify a four-year extension of the protection order. See Copp v. Liberty, 2008 ME 97, \u00b6\u00b6 13-16, 952 A.2d 976, 979-80 (Levy, J., concurring).",
+        "type": "majority",
+        "author": "LEVY, J."
+      }
+    ],
+    "attorneys": [
+      "Michael P. Turndorf, Esq., Brunswick, ME, for Bruce S. Dyer.",
+      "Jonathan M. Davis, Esq., Powers & French, P.A., Freeport, ME, for Kathleen L. Dyer."
+    ],
+    "corrections": "",
+    "head_matter": "2010 ME 105\nKathleen L. DYER v. Bruce S. DYER.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs: Sept. 23, 2010.\nDecided: Oct. 21, 2010.\nMichael P. Turndorf, Esq., Brunswick, ME, for Bruce S. Dyer.\nJonathan M. Davis, Esq., Powers & French, P.A., Freeport, ME, for Kathleen L. Dyer.\nPanel: SAUFLEY, C.J., and ALEXANDER, LEVY, SILVER, MEAD, and JABAR, JJ."
+  },
+  "file_name": "1049-01",
+  "first_page_order": 1071,
+  "last_page_order": 1075
+}

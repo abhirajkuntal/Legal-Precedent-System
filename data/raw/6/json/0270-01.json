@@ -1,0 +1,413 @@
+{
+  "id": 7284955,
+  "name": "Terrance R. STANLEY, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Stanley v. United States",
+  "decision_date": "2010-10-21",
+  "docket_number": "No. 09-CM-852",
+  "first_page": "270",
+  "last_page": "278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "49 C.F.R \u00a7 1544.201",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "\"Each aircraft operator must use the measures in its security program to prevent or deter the carriage of any weapon ... on or about each individual's person or accessible property before boarding an aircraft or entering a sterile area.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "247 F.3d 1009",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11110723
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1011-12"
+        },
+        {
+          "page": "1014",
+          "parenthetical": "citation and quotation marks omitted"
+        },
+        {
+          "page": "1015"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/247/1009-01"
+      ]
+    },
+    {
+      "cite": "529 F.3d 1119",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3569944,
+        3626423
+      ],
+      "weight": 4,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1129"
+        },
+        {
+          "page": "1133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/381/0415-01",
+        "/f3d/529/1119-01"
+      ]
+    },
+    {
+      "cite": "381 U.S.App. D.C. 415",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3569944
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/381/0415-01"
+      ]
+    },
+    {
+      "cite": "367 A.2d 1297",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8012854
+      ],
+      "pin_cites": [
+        {
+          "page": "1304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/367/1297-01"
+      ]
+    },
+    {
+      "cite": "564 A.2d 31",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11312206
+      ],
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/564/0031-01"
+      ]
+    },
+    {
+      "cite": "964 A.2d 141",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8208509
+      ],
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/964/0141-01"
+      ]
+    },
+    {
+      "cite": "534 F.2d 15",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1068262
+      ],
+      "pin_cites": [
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/534/0015-01"
+      ]
+    },
+    {
+      "cite": "805 F.2d 1062",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1111467,
+        4329110
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1065",
+          "parenthetical": "\"Indeed it has been uniformly recognized that substantial dealers in narcotics possess firearms and that such weapons are as much tools of the trade as more commonly recognized drug paraphernalia.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/805/1062-01",
+        "/us-app-dc/256/0358-01"
+      ]
+    },
+    {
+      "cite": "256 U.S.App. D.C. 358",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        4329110
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "361",
+          "parenthetical": "\"Indeed it has been uniformly recognized that substantial dealers in narcotics possess firearms and that such weapons are as much tools of the trade as more commonly recognized drug paraphernalia.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/256/0358-01"
+      ]
+    },
+    {
+      "cite": "597 A.2d 1318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11947884
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1321",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1820"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/597/1318-01"
+      ]
+    },
+    {
+      "cite": "716 A.2d 981",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11705335
+      ],
+      "pin_cites": [
+        {
+          "page": "984"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/716/0981-01"
+      ]
+    },
+    {
+      "cite": "788 A.2d 570",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9402312
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/788/0570-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 85",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11304934
+      ],
+      "weight": 8,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "92-93"
+        },
+        {
+          "page": "93-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0085-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 12,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "27"
+        },
+        {
+          "page": "21"
+        },
+        {
+          "page": "7, 8, 10, 12, 16, 17, 19, 28-35"
+        },
+        {
+          "page": "21-22"
+        },
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "984 A.2d 1217",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294635
+      ],
+      "weight": 6,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1221"
+        },
+        {
+          "page": "1222"
+        },
+        {
+          "page": "1228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/984/1217-01"
+      ]
+    },
+    {
+      "cite": "452 U.S. 692",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313927
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "705"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/452/0692-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 987,
+    "char_count": 23296,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 5.154625485987684e-08,
+      "percentile": 0.3247382376347038
+    },
+    "sha256": "e3df13a255ce63fb8575cc3ccd4c3152a71efe63a0e21031360e8676f0017be7",
+    "simhash": "1:a69ae62eb66a127c",
+    "word_count": 3718
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WASHINGTON, Chief Judge, NEBEKER and KING, Senior Judges."
+    ],
+    "parties": [
+      "Terrance R. STANLEY, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "NEBEKER, Senior Judge:\nFollowing a conditional plea of guilty, under which he reserved the right to appeal the trial court\u2019s denial of his motion to suppress evidence, appellant Terrance Stanley was convicted of unlawful possession of a controlled substance (cocaine), in violation of D.C.Code \u00a7 48-904.01(d). Appellant seeks reversal, of his conviction on the ground that the pat-down search, which led to police discovery of a baggie of cocaine on his person, violated his rights under the Fourth Amendment. We conclude that the trial court did not err in denying the motion to suppress and, therefore, we affirm the conviction.\nI.\nOn the evening of December 2, 2008, officers from the Metropolitan Police Department (MPD) executed a search warrant \u201cfor illegal drugs or narcotics[ \u2014 Related paraphernalia or contraband\u201d at 232 Randolph Place, N.E. The affidavit in support of the application for the search warrant established that the affiant, Officer Jonathan Jordan, had probable cause to believe that, in addition to narcotics and narcotics-related paraphernalia, the residence contained \u201cillegal weapons.\u201d Appellant\u2019s brother, Damien Stanley, resided at the address. Once inside, police saw appellant and his brother along with three other individuals seated on a couch in the living room. Officer Wingate-Robinson (hereinafter Robinson) instructed the individuals in the house to lie on the floor and the officers then handcuffed them. Officer Robinson instructed appellant to stand up, and while appellant was handcuffed, began \u201cto shake him, [to] make sure he didn\u2019t have any [] weapons\u201d on him. Officer Robinson testified that while he was patting appellant down he had no reason to believe that appellant had drugs on him because he was not a target of the search. While shaking appellant\u2019s belt, a \u201cred zip\u201d containing cocaine fell to the ground. Officer Robinson retrieved the baggie and placed appellant under arrest.\nAppellant moved to suppress the cocaine as the fruit of an unlawful search, arguing that additional grounds for the belt shaking were missing for what he believes was an additional intrusion. Officers Jordan and Robinson, who both helped execute the search warrant, testified at the hearing on the motion to suppress. Vanessa Bates, who was present at the residence while police executed the warrant, testified on behalf of the defense. Officer Robinson testified that he \u201cpatted the inside of [appellant\u2019s] legs and around his waistband and shook his belt to make sure he didn\u2019t have anything, any type of weapons or anything around his waistband.\u201d The officer explained that \u201cas [he] shook .[appellant\u2019s] belt a red zip containing [a] white rock-like substance fell down to the ground.\u201d The officer testified that he was not looking for drugs when the baggie fell. He stated that it was standard procedure for him to shake the belts of individuals while conducting a frisk for weapons, \u201cbecause somebody could be hiding a weapon inside their belt ... in between the belt and the pants.\u201d Lastly, the officer testified that he has uncovered guns and knives while conducting protective pat-downs and that, in his experience, a gun can be mistaken for a large belt buckle. Vanessa Bates, appellant\u2019s ex-girlfriend, testified that the officers searched appellant several times by patting him and looking inside of his pockets.\nThe trial court orally denied appellant\u2019s motion to suppress and issued a written order denying the motion. The trial court credited the testimony of Officers Robinson and Jordan and, because of her demeanor and relationship with appellant, did not credit the testimony of Vanessa Bates. The trial court found that \u201c[t]he scope of Officer Robinson\u2019s frisk was limited to the extent reasonably necessary to discover any weapon on [appellant\u2019s] person.\u201d It held that the frisk was reasonable because Officer Robinson, based- on his experience, \u201creasonably believed that [appellant] might have a weapon under his belt and that shaking his belt would reveal any such weapon\u201d and because \u201c[handcuffing a detainee does not necessarily eliminate all threats.\u201d The trial court observed that \u201cmultiple detainees were detained in the house, and one detainee could obtain a weapon concealed on the person of another detainee\u201d and that appellant would have been able to recover a weapon once the handcuffs were removed.\nIn reaching its decision, the trial court relied largely on Michigan v. Summers, 452 U.S. 692, 705, 101 S.Ct. 2587, 69 L.Ed.2d 340 (1981), which authorized detainment of occupants of a residence where the officers had no particularized information that the occupants were armed and dangerous or otherwise involved in criminal activity, but where they had a warrant to search the residence for contraband. The trial court applied the reasoning of Summers to the situation where officers not only detain, but also frisk, occupants of a residence subject to a search warrant for narcotics and held that Officer Robinson\u2019s frisk of appellant was \u201ca step reasonably necessary to minimize the threat\u201d posed by occupants of a residence where officers had probable cause to believe they would find drugs. The trial court observed that, unlike street encounters, the \u201cconnection between drugs and guns ... supports the reasonableness of Officer Robinson\u2019s actions during the execution in a residence of a search warrant for drugs\u201d because \u201cthe officers were engaged in \u2018the kind of transaction that may give rise to sudden violence\u2019 and that requires officers \u2018routinely exercise unquestioned command of the situation.\u2019 \u201d The trial court concluded by stating:\n[t]he practical difficulty of determining the exact status of each occupant and calibrating the risk each occupant poses during the execution of a residential search warrant for drugs explains why it was reasonable for the officers to frisk all occupants of Mr. Johnson-Stanley\u2019s house, whether they lived there or were related to the target.\nII.\nAppellant contends, as he did at the trial level, that Officer Robinson\u2019s pat-down search violated the Fourth Amendment because Officer Robinson lacked particularized information that appellant possessed weapons or drugs and thus exceeded the permissible scope of a Terry protective pat-down when he shook appellant\u2019s belt. The question of whether the trial court erred in denying appellant\u2019s motion to suppress tangible evidence is subject to de novo review. Germany v. United States, 984 A.2d 1217, 1221 (D.C. 2009). However, we view the facts and all reasonable inferences therefrom in favor of sustaining the trial court\u2019s ruling. Id. We review the trial judge\u2019s factual findings and resolution of conflicting testimony for clear error only. Id. We affirm.\nIt is well established that a police officer may briefly detain an individual and conduct a pat-down search for weapons if the officer has \u201creasonable articulable suspicion\u201d that the individual is armed and dangerous. Germany, 984 A.2d at 1221 (citing Terry v. Ohio, 392 U.S. 1, 27, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968)). In order to justify a protective pat-down or \u201cfrisk\u201d for weapons, \u201cthe police officer must be able to point to specific and artic-ulable facts which, taken together with rational inferences from those facts, reasonably warrant the intrusion.\u201d 392 U.S. at 21, 88 S.Ct. 1868. In Terry, the Supreme Court emphasized that the \u201csole justification\u201d for a frisk \u201cis the protection of the officer and others nearby, and it must therefore be confined in scope to an intrusion reasonably designed to discover guns, knives, clubs, or other hidden instruments for the assault of the police officer.\u201d Id, at 29, 88 S.Ct. 1868. To determine whether the search in this case was reasonable, we must evaluate the totality of the circumstances and balance the need for the search against the degree of the intrusion it entails. See Germany, 984 A.2d at 1222.\nIn considering whether Officer Robinson possessed the requisite \u201cindividualized suspicion\u201d to frisk appellant for weapons, the trial court acknowledged that Officer Robinson \u201chad no specific information that [appellant] might have drugs or weapons on his person before he frisked him.\u201d It determined, however, that the frisk was reasonable because (1) the officers were executing a residential search warrant for narcotics and appellant was present in the residence to be searched; (2) drugs and guns are often found together; (8) there were multiple individuals in the residence, increasing the risk that somebody could access a weapon; and (4) Officer Robinson\u2019s experience taught him that appellant might have a weapon on his person.\nAppellant argues that without particularized suspicion that appellant possessed drugs or weapons or was involved in his brother\u2019s criminal activities, the officers could not \u201cfrisk\u201d him or \u201cshake\u201d him down. Appellant relies on the Supreme Court\u2019s decision in Ybarra v. Illinois, 444 U.S. 85, 100 S.Ct. 338, 62 L.Ed.2d 238 (1979). He states that, Ybarra affirms that \u201cOfficer Robinson can perform a pat-down for safety, but under the \u2018narrow scope\u2019 doctrine, without reasonable] belief that Stanley had any weapons in his possession, the patdown cannot include the shaking of the belt or buckle.\u201d Thus, appellant seems to draw a distinction between a pat-down and a frisk and shake, which he claims would have been permissible only if the police had particularized suspicion that he was involved in some criminal activity.\nThere is no support in Terry or its progeny for the proposition that there is a distinction between a pat-down and a frisk, and what appellant takes from Officer Robinson\u2019s testimony as a \u201cshake\u201d; indeed, the Terry opinion itself uses \u201cpat-down\u201d and \u201cfrisk\u201d interchangeably. 392 U.S. at 7, 8, 10, 12, 16, 17, 19, 28-35, 88 S.Ct. 1868. The Supreme Court, in Ybar-ra, did not make distinctions between a frisk, a shaking search, and a pat-down. The Court described the officer\u2019s search of Ybarra as both a \u201cfrisk\u201d and a \u201cpatdown.\u201d 444 U.S. at 92-93, 100 S.Ct. 338 (\u201cThe initial frisk of Ybarra was simply not supported by a reasonable belief that he was armed and presently dangerous, a belief which this Court has invariably held must form the predicate to a patdown of a person for weapons.\u201d). The Court ultimately held that the pat-down search of Ybarra, who was a patron at a tavern that was the subject (along with the bartender) of a search warrant for narcotics and narcotics-related paraphernalia, was \u201cnot supported by a reasonable belief that he was armed and presently dangerous.\u201d Id. It explained:\nNothing in Terry can be understood to allow a generalized \u201ccursory search for weapons\u201d or indeed, any search whatever for anything but weapons. The \u201cnarrow scope\u201d of the Terry exception does not permit a frisk for weapons on less than reasonable belief or suspicion directed at the person to be frisked, even though that person happens to be on premises where an authorized narcotics search is taking place.\nId. at 93-94, 100 S.Ct. 338. Thus, although Ybarra held that the search of the tavern patron was unreasonable, it did not do so on the ground that Terry permits a pat-down but not a frisk or shake, in some circumstances, and Terry itself does not decide the question of whether and when a protective pat-down may involve the shaking of an individual\u2019s belt or other articles of clothing.\nWe need not get entangled in the asserted difference between a pat-down, a frisk and a shake. It is sufficient to note that Ybarra involved a public tavern where Ybarra was one of the patrons, not, as here, a residence where two brothers were present. See Germany, 984 A.2d at 1228 (\u201cThe fact that the location being searched is a private residence also weighs heavily in the totality of the circumstances as a reason that heightens the need for police to take safety precautions. Occupants or residents of a private home are likely to react adversely to the police entrance into their home.\u201d) (citation and internal quotation marks omitted); United States v. Owens, 788 A.2d 570, 577 n. 7 (D.C.2002) (concluding that police could lawfully frisk appellant\u2019s jacket based on fact that police had a warrant authorizing a search, for firearms and ammunition, of the apartment in which appellant was seized).\nThe trial court\u2019s conclusion is consistent with common sense, as well as our holding in Germany, the Supreme Court cases discussed in Germany, and other precedents from this court. Namely, Officer Robinson and the other officers had a warrant to search for drugs in the residence where appellant was present and they had reason to believe, based on his apparent association with the criminal activity, that appellant might be armed and dangerous. As the government points out in its brief, Germany involved a search warrant that authorized police to search for both drugs and weapons, while the warrant in this case permitted a search only for drugs. However, we agree with the government that this factual distinction is not outcome determinative in light of our recognition, and the recognition of courts around the country, that drugs and weapons are often found together. See, e.g., Upshur v. United States, 716 A.2d 981, 984 (D.C.1998) (\u201c[D]rugs and guns go together.\u201d) (citation and quotation marks omitted); Peay v. United States, 597 A.2d 1318, 1321 (D.C. 1991) (en banc) (same); United States v. Payne, 256 U.S.App. D.C. 358, 361, 805 F.2d 1062, 1065 (1986) (\u201cIndeed it has been uniformly recognized that substantial dealers in narcotics possess firearms and that such weapons are as much tools of the trade as more commonly recognized drug paraphernalia.\u201d); United States v. Wiener, 534 F.2d 15, 18 (2d Cir.1976) (same). Therefore, the totality of the circumstances, including the number of occupants at the Randolph Place residence, and appellant\u2019s apparent association with illegal activities at the residence, support the trial court\u2019s conclusion that Officer Robinson had reasonable articulable suspicion to ensure against danger.\nIII.\nAppellant also argues that even if Officer Robinson had the requisite reasonable suspicion to conduct the Terry search, the officer exceeded the bounds of a permissible Terry search when he shook appellant\u2019s belt. The government contends, however, that this belt shaking did not violate appellant\u2019s Fourth Amendment rights because the intrusion was slight and the \u201cstrong government interest in protecting officer safety in a situation where a pat-down for weapons of the outer clothing [ ] would have been ineffective and incom- . p\u00edete\u201d outweighed appellant\u2019s interest in keeping his belt-area private. The government contends that a traditional pat-down would have been ineffective because appellant was wearing a belt and in Officer Robinson\u2019s experience a belt can conceal a weapon. The trial court agreed with this line of reasoning, crediting the testimony of Officer Robinson that, in his experience, there is a risk that a weapon could be hidden between an individual\u2019s belt and pants. The court concluded:\nThe evidence here establishes that the pat-down was no more intrusive than reasonably necessary to protect the safety of the officers in the house. Based on his experience, Officer Robinson reasonably believed that [appellant] might have [had] a weapon under his belt and that shaking his belt would reveal any such weapon.\n\u201cIn reviewing a trial court order denying a motion to suppress, the facts and all reasonable inferences therefrom must be viewed in favor of sustaining the trial court ruling.\u201d Peay, 597 A.2d at 1820. \u201cThe touchstone of the Fourth Amendment is reasonableness measured in objective terms by evaluating the totality of the circumstances.\u201d Goines v. United States, 964 A.2d 141, 144 (D.C.2009).\nIn Terry, the Supreme Court articulated a fundamental axiom in search and seizure cases to assess the reasonableness of a police officer\u2019s protective pat-down for weapons: \u201cwould the facts available to the officer at the moment of the seizure or the search warrant a man of reasonable caution in the belief that the action taken was appropriate?\u201d 392 U.S. at 21-22, 88 S.Ct. 1868 (citations and internal quotation marks omitted). The Court emphasized that a protective pat-down must \u201cbe confined in scope to an intrusion reasonably designed to discover guns, knives, clubs or other hidden instruments for the assault of the police officer\u201d but also opined that \u201cthe limitations which the Fourth Amendment places upon a protective seizure and search for weapons ... will have to be developed in the concrete factual circumstances of individual cases.\u201d Id. at 29, 88 S.Ct. 1868. Nothing in the decision suggested that the choice of \u201cshake\u201d makes a constitutional difference from pat-down or frisk. We are bound by the trial judge\u2019s finding that the belt maneuver was an integral part of the justified check for weapons. No additional intrusion occurred requiring more justification.\nWhen determining that Officer Robinson\u2019s actions were reasonable, the trial court focused on the officer\u2019s testimony that he was not searching for drugs when he shook appellant\u2019s belt, that he had found a gun on an individual in the past, and that he always shakes the belt when conducting protective pat-downs because somebody could be hiding a weapon \u201cbetween the belt and the pants.\u201d The trial court then made the factual determination that Officer Robinson believed that shaking appellant\u2019s belt was necessary to effectuate the protective pat-down. This factual determination is afforded a great deal of deference by this court. See Davis v. United States, 564 A.2d 31, 35 (D.C.1989) (en banc) (trial court\u2019s \u201cfactual findings are accorded considerable deference and are reviewed under a clearly erroneous standard.\u201d) (citation and internal quotation marks omitted).\nMoreover, even in the absence of explicit findings about the size of appellant\u2019s belt or buckle, we are mindful that where no express findings are made, our job is to \u201cdetermine if the denial of the motion to suppress is supportable under any reasonable view of the evidence.\u201d Brooks v. United States, 367 A.2d 1297, 1304 (D.G.1976). One reasonable view of the evidence is that appellant\u2019s belt was at least large enough to conceal a small weapon, such as a box cutter or razor blade. Indeed, it was large enough to conceal the container of cocaine. The trial judge, who had the opportunity to weigh the testimony, and witness the demeanor of Officer Robinson, found him to be a credible witness.\nAppellant relies largely on United States v. Askew, 381 U.S.App. D.C. 415, 529 F.3d 1119 (2008) (en banc), and United States v. Miles, 247 F.3d 1009 (9th Cir.2001) to argue that Officer Robinson\u2019s \u201cshake down\u201d violated his Fourth Amendment rights. However, these cases are quite inapposite. Askew involved the unzipping of a jacket; the United States Court of Appeals for the District of Columbia Circuit held that the partial unzipping of the appellant\u2019s jacket, which led to the discovery of a weapon, went beyond the scope of a permissible Terry pat-down. Askew, 381 U.S.App. D.C. at 440, 529 F.3d at 1129. The court observed that the appellant had already undergone a frisk, yielding no weapons, and that the officers unzipped the appellant\u2019s jacket in order to facilitate a show-up identification, making the search a non-protective evidentiary search, rather than a lawful protective pat-down. Id. at 429, 529 F.3d at 1133. The court emphasized that when the officer unzipped the appellant\u2019s jacket \u201che not only penetrated the outer layer of appellant\u2019s clothing, he actually physically peeled a portion of it back,\u201d thereby exposing appellant to a greater degree than he was already exposed. Id.\nHere, Officer Robinson did not remove or peel back any of appellant\u2019s attire to expose what lay underneath. The officers in Askew unzipped the appellant\u2019s jacket for the sole purpose of gathering evidence, i.e., a positive eyewitness identification based on a matching sweatshirt, not of protecting their own safety. Contrary to appellant\u2019s assertion that this shaking exceeded what was necessary to determine if he was armed, Officer Robinson testified that in his experience, a person can conceal a weapon \u201cin between the belt and the pants.\u201d\nMiles involved police manipulation of a small box inside of the appellant\u2019s clothing during a Terry pat-down. 247 F.3d at 1011-12. The United States Court of Appeals for the Ninth Circuit noted that \u201cthe officer continued to manipulate the object beyond what was necessary to ascertain that it posed no threat.\u201d Id. at 1014 (citation and quotation marks omitted). When the government suggested that the officer might have been looking for a \u201ctiny pen knife, needle or other slender weapon\u201d inside of the box, the court emphasized that \u201cthe officer did not testify to such a motivation.\u201d Id. at 1015. Again, here we have the direct testimony of Officer Robinson that he shook appellant\u2019s belt because he thought a weapon might be concealed between his belt and waistband, and the trial court expressly found that there was no \u201cmanipulation of an object that was felt through the clothing to determine whether it was a weapon.\u201d Indeed, the interest in security here is similar, if not the same, as it is in post 9/11 commercial aircraft boarding security where passengers are directed to put all metal items in their carry-on baggage so that the items may be screened by an x-ray machine. Passengers may also be asked to open their belt buckle during the hand-wand inspection to ensure against weapons of the kind a belt might conceal. Passenger Security Check points, TSA.com, http://unvw.tsa.gov/ travelers/airtravel/assistant/\u2019editorial_$1f 101p9.shtm (last visited Sep. 23, 2010); See also TSA, DHS, Civil Aviation Security, 49 C.F.R \u00a7 1544.201(a) (2009) (\u201cEach aircraft operator must use the measures in its security program to prevent or deter the carriage of any weapon ... on or about each individual\u2019s person or accessible property before boarding an aircraft or entering a sterile area.\u201d). Interestingly, on at least one occasion, a transportation security officer discovered a two and a quarter inch knife concealed in the face of the belt buckle. Belt Buckle Knife is \u2018Good Catch\u2019, TSA.com, http://www.tsa.gov/press/ happenings/beltJknife.shtm (last visited Sep. 23, 2010).\nIn light of the record before us, and of our standard of review, we affirm appellant\u2019s conviction.\nAffirmed.\n. The government also points out that \"in the search-warrant affidavit Officer Jordan stated that there was probable cause to believe that \u2018illegal weapons' would be found in the residence as well.\u201d This provides added support for the trial court\u2019s conclusion that Officer Robinson had a reasonable articulable basis to frisk appellant.",
+        "type": "majority",
+        "author": "NEBEKER, Senior Judge:"
+      }
+    ],
+    "attorneys": [
+      "Daniel K Dorsey, Washington, DC, appointed by the court, filed a brief for appellant.",
+      "Channing D. Phillips, Acting United States Attorney at the time the brief was filed, and Roy W. McLeese III, Elizabeth Trosman and Andrew D. Finkelman, Assistant United States Attorneys, were on the brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Terrance R. STANLEY, Appellant, v. UNITED STATES, Appellee.\nNo. 09-CM-852.\nDistrict of Columbia Court of Appeals.\nSubmitted June 8, 2010.\nDecided Oct. 21, 2010.\nDaniel K Dorsey, Washington, DC, appointed by the court, filed a brief for appellant.\nChanning D. Phillips, Acting United States Attorney at the time the brief was filed, and Roy W. McLeese III, Elizabeth Trosman and Andrew D. Finkelman, Assistant United States Attorneys, were on the brief for appellee.\nBefore WASHINGTON, Chief Judge, NEBEKER and KING, Senior Judges."
+  },
+  "file_name": "0270-01",
+  "first_page_order": 316,
+  "last_page_order": 324
+}
