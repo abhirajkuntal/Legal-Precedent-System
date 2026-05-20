@@ -70,9 +70,6 @@ Case excerpt:
             response["message"]["content"]
         )
 
-        print("\n LLM Raw output:\n")
-        print(content)
-        print("\n End of output\n")
 
         try:
 

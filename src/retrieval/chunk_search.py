@@ -353,6 +353,13 @@ class ChunkSearchEngine:
                 + metadata_score
                 + pagerank_boost
             )
+
+            MIN_SCORE_THRESHOLD = 2
+
+            if combined_score < MIN_SCORE_THRESHOLD:
+
+                continue
+
             combined_results.append({
                 "score": combined_score,
                 "chunk": chunk
@@ -477,10 +484,11 @@ class ChunkSearchEngine:
                     )
             })
 
-        synthesized_answer = (self.answer_synthesizer.synthesize(query,final_results))
+        #synthesized_answer = (self.answer_synthesizer.synthesize(query,final_results))
+        
 
         return {"results":final_results,
-                "answer": synthesized_answer
+                #"answer": synthesized_answer
                 }
 
     def filter_chunks(
