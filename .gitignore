@@ -15,6 +15,7 @@ venv/
 .env
 
 # FAISS indexes
+data/
 data/indexes/
 
 # Processed data
