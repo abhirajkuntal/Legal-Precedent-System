@@ -65,11 +65,7 @@ class ChunkSearchEngine:
         # =========================
         # LOOKUP TABLE (for now)
         # =========================
-        self.case_lookup = {
-            chunk.case_id: chunk
-            for chunk in self.chunks
-        }
-
+        self.case_metadata = artifacts["case_metadata"] 
         # =========================
         # SEARCH COMPONENTS
         # =========================
@@ -88,6 +84,11 @@ class ChunkSearchEngine:
         self.reranker = LegalCrossEncoder()
 
         self.embedder = LegalEmbedder()
+
+        self.chunk_id_to_chunk = {
+                chunk.chunk_id: chunk
+                for chunk in self.chunks
+                }
 
     def get_citation_score(self,case_id):
         
@@ -109,7 +110,7 @@ class ChunkSearchEngine:
         judge=None,
         category=None
     ):
-
+        #TODO: Use elasticsearch/tantivy/PostgreFTS later to avoid searching over all indexes again and again 
         filtered_chunks = self.filter_chunks(
             court=court,
             jurisdiction=jurisdiction,
@@ -134,7 +135,9 @@ class ChunkSearchEngine:
             semantic_indices
         ):
 
-            chunk = filtered_chunks[idx]
+            chunk_id = filtered_chunks[idx].chunk_id
+            chunk = self.chunk_id_to_chunk[chunk_id]
+            
 
             semantic_scores[
                 chunk.chunk_id
@@ -151,7 +154,7 @@ class ChunkSearchEngine:
 
             chunk = result["chunk"]
 
-            if chunk not in filtered_chunks:
+            if chunk.chunk_id not in {c.chunk_id for c in filtered_chunks}:
                 continue
 
             bm25_scores[
@@ -250,10 +253,6 @@ class ChunkSearchEngine:
 
             seen_cases.add(chunk.case_id)
 
-            summary = self.summarizer.summarize(
-                chunk.chunk_text
-            )
-
             unique_results.append({
                 "score": result["score"],
                 "chunk": chunk,
@@ -276,6 +275,7 @@ class ChunkSearchEngine:
 
 
             chunk = result["chunk"]
+            meta = self.case_metadata[chunk.case_id]
             summary = self.summarizer.summarize(
                 chunk.chunk_text
             )
@@ -291,6 +291,16 @@ class ChunkSearchEngine:
             final_results.append({
                 "score": result["score"],
                 "chunk": chunk,
+
+                "case_metadata": {
+                    "title": meta.title,
+                    "court": meta.court,
+                    "jurisdiction": meta.jurisdiction,
+                    "judges": meta.judges,
+                    "case_id": meta.case_id,
+                    "pagerank": meta.pagerank
+                },
+
                 "summary": summary,
 
                 "legal_issue": analysis.get("legal_issue", ""),
@@ -302,8 +312,7 @@ class ChunkSearchEngine:
 
                 "citation_score": result.get("citation_score", 0),
                 "rerank_score": result.get("rerank_score", 0)
-            }) 
-
+            })
         return {"results":final_results,
                 #"answer": synthesized_answer
                 }

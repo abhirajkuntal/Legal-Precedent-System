@@ -13,6 +13,9 @@ from src.artifacts.artifact_paths import (
     FAISS_INDEX
 )
 
+from src.artifacts.case_metadata_builder import CaseMetadataBuilder
+from src.indexing.storage import save_case_metadata
+from src.artifacts.artifact_paths import CASE_METADATA
 
 class ArtifactBuilder:
 
@@ -55,13 +58,23 @@ class ArtifactBuilder:
 
         return index
 
+    #Building case Metadata
+    def build_case_metadata(self, cases):
+
+        builder = CaseMetadataBuilder()
+        metadata = builder.build(cases)
+
+        return metadata
+
     # -----------------------------
     # STEP 4: SAVE EVERYTHING
     # -----------------------------
-    def save(self, chunks, embeddings, index):
+    def save(self, chunks, embeddings, index, cases):
 
-        print("Saving artifacts...")
+        metadata = self.build_case_metadata(cases)
 
         save_chunks(chunks, str(CHUNKS))
         save_embeddings(embeddings, str(EMBEDDINGS))
         save_faiss_index(index, str(FAISS_INDEX))
+        save_case_metadata(metadata, str(CASE_METADATA))    
+

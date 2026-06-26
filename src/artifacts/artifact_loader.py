@@ -11,25 +11,24 @@ from src.indexing.storage import (
 )
 
 from src.indexing.faiss_index import FaissIndexer
-
+from src.indexing.storage import load_case_metadata
+from src.artifacts.artifact_paths import CASE_METADATA
 
 class ArtifactLoader:
-
     def load(self):
-
-        print("Loading artifacts...")
 
         chunks = load_chunks(str(CHUNKS))
         embeddings = load_embeddings(str(EMBEDDINGS))
         faiss_index_raw = load_faiss_index(str(FAISS_INDEX))
+        case_metadata = load_case_metadata(str(CASE_METADATA))
 
         dim = embeddings.shape[1]
-
         index = FaissIndexer(dim)
         index.load_existing_index(faiss_index_raw)
 
         return {
             "chunks": chunks,
             "embeddings": embeddings,
-            "index": index
+            "index": index,
+            "case_metadata": case_metadata
         }
