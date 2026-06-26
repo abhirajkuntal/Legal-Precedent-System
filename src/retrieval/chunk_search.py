@@ -1,3 +1,5 @@
+from src.artifacts.artifact_builder import ArtifactBuilder
+
 from src.preprocessing.chunker import (
     split_into_chunks
 )
@@ -113,22 +115,9 @@ class ChunkSearchEngine:
             )
 
         else:
+            builder = ArtifactBuilder()
 
-            self.chunks = []
-
-            print("Generating chunks...")
-
-            for case in cases:
-
-                case_chunks = split_into_chunks(
-                    case
-                )
-
-                self.chunks.extend(case_chunks)
-
-            print(
-                f"Generated {len(self.chunks)} chunks"
-            )
+            self.chunks = builder.build_chunks(cases)
 
             chunk_texts = [
                 chunk.chunk_text
@@ -139,43 +128,11 @@ class ChunkSearchEngine:
                 "Generating chunk embeddings..."
             )
 
-            self.embeddings = (
-                self.embedder.embed_texts(
-                    chunk_texts
-                )
-            )
+            self.chunks = builder.build_chunks(cases)
+            self.embeddings = builder.build_embeddings(self.chunks)
+            self.index = builder.build_faiss(self.embeddings)
 
-            embedding_dim = (
-                self.embeddings.shape[1]
-            )
-
-            print("Building FAISS index...")
-
-            self.index = FaissIndexer(
-                embedding_dim
-            )
-
-            self.index.add_embeddings(
-                self.embeddings
-            )
-
-            print("Saving processed data...")
-
-            save_chunks(
-                self.chunks,
-                chunks_path
-            )
-
-            save_embeddings(
-                self.embeddings,
-                embeddings_path
-            )
-
-            save_faiss_index(
-                self.index,
-                index_path
-            )
-
+            builder.save(self.chunks, self.embeddings, self.index)
 
         print("Building BM25 index...")
 
@@ -308,7 +265,6 @@ class ChunkSearchEngine:
                 chunk.case_id
             )
             
-            #TODO : Test different weightings for the scores to see if it improves results
             
             metadata_score = 0
 
