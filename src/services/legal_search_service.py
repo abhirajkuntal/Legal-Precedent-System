@@ -26,6 +26,35 @@ class LegalSearchService:
 
         self.query_parser = LLMQueryParser()
 
+    def get_case(self, case_id:int):
+        metadata = self.search_engine.case_metadata.get(case_id)
+
+        if metadata is None:
+            return None
+
+        return metadata
+
+
+    def analyze_text(self, text: str):
+        summary = self.search_engine.summarizer.summarize(text)
+
+        analysis = self.search_engine.case_analyzer.analyze_case(
+            text[:1000]
+        )
+
+        entities = self.search_engine.ner.extract_entities(
+            text[:3000]
+        )
+
+        return {
+            "summary": summary,
+            "legal_issue": analysis.get("legal_issue", ""),
+            "procedural_posture": analysis.get("procedural_posture", ""),
+            "holding": analysis.get("holding", ""),
+            "reasoning": analysis.get("reasoning", ""),
+            "entities": entities
+        }
+
     def search(
         self,
         query,
