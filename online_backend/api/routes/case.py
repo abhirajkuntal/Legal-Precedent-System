@@ -1,13 +1,23 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 
-router = APIRouter()
+from online_backend.api.dependencies import service
+
+router = APIRouter(
+    prefix="/case",
+    tags=["Case"]
+)
+
 
 
 @router.get("/{case_id}")
-def get_case(case_id: str):
+def get_case(case_id: int):
 
-    # later: fetch from metadata store / parquet / sqlite
-    return {
-        "case_id": case_id,
-        "message": "Case endpoint placeholder"
-    }
+    case = service.get_case(case_id)
+
+    if case is None:
+        raise HTTPException(
+            status_code=404,
+            detail="Case not found"
+        )
+
+    return case
