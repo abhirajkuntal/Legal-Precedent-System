@@ -35,3 +35,12 @@ def save_faiss_index(index, path):
 def load_faiss_index(path):
 
     return faiss.read_index(path)
+
+def save_case_metadata(metadata, path):
+    with open(path, "wb") as f:
+        pickle.dump(metadata,f)
+
+def load_case_metadata(path):
+    with open(path, "rb") as f:
+        return pickle.load(f)
+

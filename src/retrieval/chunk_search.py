@@ -1,26 +1,16 @@
-from src.preprocessing.chunker import (
-    split_into_chunks
-)
-
 from src.llm.legal_case_analyzer import (
     LegalCaseAnalyzer
 )
+
+from src.embedding.embedder import LegalEmbedder
 
 from src.llm.legal_answer_synthesizer import (
     LegalAnswerSynthesizer
 )
 
 
-from src.embedding.embedder import (
-    LegalEmbedder
-)
-
 from src.summarization.legal_summarizer import (
         LegalSummarizer
-)
-
-from src.retrieval.reranker import (
-        LegalReranker
 )
 
 
@@ -40,166 +30,65 @@ from src.extraction.legal_ner import (
     LegalNER
 )
 
-from src.indexing.faiss_index import (
-    FaissIndexer
-)
-from pathlib import Path
 
-from src.indexing.storage import (
-    save_chunks,
-    load_chunks,
-    save_embeddings,
-    load_embeddings,
-    save_faiss_index,
-    load_faiss_index
-)
+from src.artifacts.artifact_loader import ArtifactLoader
+from src.retrieval.bm25_search import BM25Search
+from src.reranking.cross_encoder import LegalCrossEncoder
+
+from src.llm.legal_case_analyzer import LegalCaseAnalyzer
+from src.llm.legal_answer_synthesizer import LegalAnswerSynthesizer
+
+from src.summarization.legal_summarizer import LegalSummarizer
+from src.extraction.legal_extractor import LegalExtractor
+from src.extraction.legal_ner import LegalNER
+
 
 class ChunkSearchEngine:
 
-    def __init__(self, cases, citation_graph=None):
+    def __init__(self, citation_graph=None):
 
-        self.cases = cases
+        # =========================
+        # ONLINE ARTIFACT LOADING
+        # =========================
+        loader = ArtifactLoader()
+        artifacts = loader.load()
+
+        self.chunks = artifacts["chunks"]
+        self.embeddings = artifacts["embeddings"]
+        self.index = artifacts["index"]
+
+        # =========================
+        # GRAPH (optional)
+        # =========================
         self.citation_graph = citation_graph
+
+        # =========================
+        # LOOKUP TABLE (for now)
+        # =========================
+        self.case_metadata = artifacts["case_metadata"] 
+        # =========================
+        # SEARCH COMPONENTS
+        # =========================
+        self.bm25_index = BM25Search(self.chunks)
+
+        # =========================
+        # LLM / NLP COMPONENTS
+        # =========================
         self.case_analyzer = LegalCaseAnalyzer()
         self.answer_synthesizer = LegalAnswerSynthesizer()
 
-        self.case_lookup = {
-            case.case_id: case
-            for case in cases}
-
-
-        self.embedder = LegalEmbedder()
-
-        chunks_path = "data/processed/chunks.pkl"
-
-        embeddings_path = (
-            "data/embeddings/chunk_embeddings.npy"
-        )
-
-        index_path = (
-            "data/indexes/chunk_faiss.index"
-        )
-
-        if (
-            Path(chunks_path).exists()
-            and Path(embeddings_path).exists()
-            and Path(index_path).exists()
-        ):
-
-            print("Loading saved data...")
-
-            self.chunks = load_chunks(
-                chunks_path
-            )
-
-            self.embeddings = load_embeddings(
-                embeddings_path
-            )
-
-            faiss_index = load_faiss_index(
-                index_path
-            )
-
-            embedding_dim = (
-                self.embeddings.shape[1]
-            )
-
-            self.index = FaissIndexer(
-                embedding_dim
-            )
-
-            self.index.load_existing_index(
-                faiss_index
-            )
-
-        else:
-
-            self.chunks = []
-
-            print("Generating chunks...")
-
-            for case in cases:
-
-                case_chunks = split_into_chunks(
-                    case
-                )
-
-                self.chunks.extend(case_chunks)
-
-            print(
-                f"Generated {len(self.chunks)} chunks"
-            )
-
-            chunk_texts = [
-                chunk.chunk_text
-                for chunk in self.chunks
-            ]
-
-            print(
-                "Generating chunk embeddings..."
-            )
-
-            self.embeddings = (
-                self.embedder.embed_texts(
-                    chunk_texts
-                )
-            )
-
-            embedding_dim = (
-                self.embeddings.shape[1]
-            )
-
-            print("Building FAISS index...")
-
-            self.index = FaissIndexer(
-                embedding_dim
-            )
-
-            self.index.add_embeddings(
-                self.embeddings
-            )
-
-            print("Saving processed data...")
-
-            save_chunks(
-                self.chunks,
-                chunks_path
-            )
-
-            save_embeddings(
-                self.embeddings,
-                embeddings_path
-            )
-
-            save_faiss_index(
-                self.index,
-                index_path
-            )
-
-
-        print("Building BM25 index...")
-
-        self.bm25_index = BM25Search(
-            self.chunks
-        )
-
-        print("Loading reranker...")
-    
-        self.reranker = LegalReranker()
-        
-        print("Loading summarizer...")
-
         self.summarizer = LegalSummarizer()
-
-        print("Loading legal extractor...")
-
         self.extractor = LegalExtractor()
-
-        print("Loading legal NER...")
-
         self.ner = LegalNER()
 
         self.reranker = LegalCrossEncoder()
+
+        self.embedder = LegalEmbedder()
+
+        self.chunk_id_to_chunk = {
+                chunk.chunk_id: chunk
+                for chunk in self.chunks
+                }
 
     def get_citation_score(self,case_id):
         
@@ -221,7 +110,7 @@ class ChunkSearchEngine:
         judge=None,
         category=None
     ):
-
+        #TODO: Use elasticsearch/tantivy/PostgreFTS later to avoid searching over all indexes again and again 
         filtered_chunks = self.filter_chunks(
             court=court,
             jurisdiction=jurisdiction,
@@ -231,33 +120,13 @@ class ChunkSearchEngine:
         if not filtered_chunks:
             return []
 
-        filtered_indices = [
-            self.chunks.index(chunk)
-            for chunk in filtered_chunks
-        ]
+        query_embedding = self.embedder.embed_query(query)
 
-        filtered_embeddings = self.embeddings[
-            filtered_indices
-        ]
-
-        temp_index = FaissIndexer(
-            self.embeddings.shape[1]
-        )
-
-        temp_index.add_embeddings(
-            filtered_embeddings
-        )
-
-        query_embedding = self.embedder.embed_query(
-            query
-        )
-
-        semantic_distances, semantic_indices = (
-            temp_index.search(
+        semantic_distances, semantic_indices = self.index.search(
                 query_embedding,
                 top_k=initial_k
-            )
-        )
+                )
+
 
         semantic_scores = {}
 
@@ -266,7 +135,9 @@ class ChunkSearchEngine:
             semantic_indices
         ):
 
-            chunk = filtered_chunks[idx]
+            chunk_id = filtered_chunks[idx].chunk_id
+            chunk = self.chunk_id_to_chunk[chunk_id]
+            
 
             semantic_scores[
                 chunk.chunk_id
@@ -283,7 +154,7 @@ class ChunkSearchEngine:
 
             chunk = result["chunk"]
 
-            if chunk not in filtered_chunks:
+            if chunk.chunk_id not in {c.chunk_id for c in filtered_chunks}:
                 continue
 
             bm25_scores[
@@ -308,7 +179,6 @@ class ChunkSearchEngine:
                 chunk.case_id
             )
             
-            #TODO : Test different weightings for the scores to see if it improves results
             
             metadata_score = 0
 
@@ -383,10 +253,6 @@ class ChunkSearchEngine:
 
             seen_cases.add(chunk.case_id)
 
-            summary = self.summarizer.summarize(
-                chunk.chunk_text
-            )
-
             unique_results.append({
                 "score": result["score"],
                 "chunk": chunk,
@@ -403,90 +269,50 @@ class ChunkSearchEngine:
 
         final_results = []
 
+        #TODO: Using chunk text to get data and not whole case, might need to change some bit here 
+
         for result in reranked_results[:top_k]:
 
+
             chunk = result["chunk"]
-
-            full_case = self.case_lookup[
-                chunk.case_id
-            ]
-
-            full_text = f"""
-            {full_case.title}
-
-            Court: {full_case.court}
-
-            Jurisdiction: {full_case.jurisdiction}
-
-            Judges: {' '.join(full_case.judges)}
-
-            Head Matter:
-            {full_case.head_matter}
-
-            Opinion:
-            {full_case.opinion_text}
-            """
-
+            meta = self.case_metadata[chunk.case_id]
             summary = self.summarizer.summarize(
                 chunk.chunk_text
             )
 
             entities = self.ner.extract_entities(
-                full_text[:3000]
+                chunk.chunk_text[:3000]
             )
 
-            analysis = (
-                self.case_analyzer.analyze_case(
-                    chunk.chunk_text[:1000]
-                )
+            analysis = self.case_analyzer.analyze_case(
+                chunk.chunk_text[:1000]
             )
 
             final_results.append({
                 "score": result["score"],
                 "chunk": chunk,
+
+                "case_metadata": {
+                    "title": meta.title,
+                    "court": meta.court,
+                    "jurisdiction": meta.jurisdiction,
+                    "judges": meta.judges,
+                    "case_id": meta.case_id,
+                    "pagerank": meta.pagerank
+                },
+
                 "summary": summary,
-                "legal_issue":
-                    analysis.get(
-                        "legal_issue",
-                        ""
-                    ),
 
-                "procedural_posture":
-                    analysis.get(
-                        "procedural_posture",
-                        ""
-                    ),
-
-                "holding":
-                    analysis.get(
-                        "holding",
-                        ""
-                    ),
-
-                "reasoning":
-                    analysis.get(
-                        "reasoning",
-                        ""
-                    ),
+                "legal_issue": analysis.get("legal_issue", ""),
+                "procedural_posture": analysis.get("procedural_posture", ""),
+                "holding": analysis.get("holding", ""),
+                "reasoning": analysis.get("reasoning", ""),
 
                 "entities": entities,
 
-                "citation_score":
-                    result.get(
-                        "citation_score",
-                        0
-                    ),
-
-                "rerank_score":
-                    result.get(
-                        "rerank_score",
-                        0
-                    )
+                "citation_score": result.get("citation_score", 0),
+                "rerank_score": result.get("rerank_score", 0)
             })
-
-        #synthesized_answer = (self.answer_synthesizer.synthesize(query,final_results))
-        
-
         return {"results":final_results,
                 #"answer": synthesized_answer
                 }
