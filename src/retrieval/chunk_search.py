@@ -1,46 +1,12 @@
-from src.llm.legal_case_analyzer import (
-    LegalCaseAnalyzer
-)
+from src.artifacts.artifact_loader import ArtifactLoader
 
 from src.embedding.embedder import LegalEmbedder
-
-from src.llm.legal_answer_synthesizer import (
-    LegalAnswerSynthesizer
-)
-
-
-from src.summarization.legal_summarizer import (
-        LegalSummarizer
-)
-
-
-from src.retrieval.bm25_search import (
-        BM25Search
-)
-
-from src.extraction.legal_extractor import (
-        LegalExtractor
-)
-
-from src.reranking.cross_encoder import (
-        LegalCrossEncoder
-)
-
-from src.extraction.legal_ner import (
-    LegalNER
-)
-
-
-from src.artifacts.artifact_loader import ArtifactLoader
 from src.retrieval.bm25_search import BM25Search
 from src.reranking.cross_encoder import LegalCrossEncoder
 
-from src.llm.legal_case_analyzer import LegalCaseAnalyzer
-from src.llm.legal_answer_synthesizer import LegalAnswerSynthesizer
-
 from src.summarization.legal_summarizer import LegalSummarizer
-from src.extraction.legal_extractor import LegalExtractor
 from src.extraction.legal_ner import LegalNER
+from src.llm.legal_case_analyzer import LegalCaseAnalyzer
 
 
 class ChunkSearchEngine:
@@ -48,58 +14,58 @@ class ChunkSearchEngine:
     def __init__(self, citation_graph=None):
 
         # =========================
-        # ONLINE ARTIFACT LOADING
+        # LOAD ARTIFACTS
         # =========================
         loader = ArtifactLoader()
         artifacts = loader.load()
 
-        self.chunks = artifacts["chunks"]
-        self.embeddings = artifacts["embeddings"]
         self.index = artifacts["index"]
+        self.case_metadata = artifacts["case_metadata"]
+
+        # IMPORTANT: chunks should ideally be metadata-only or lightweight
+        self.chunks = artifacts.get("chunks", [])
 
         # =========================
-        # GRAPH (optional)
+        # OPTIONAL GRAPH
         # =========================
         self.citation_graph = citation_graph
 
         # =========================
-        # LOOKUP TABLE (for now)
-        # =========================
-        self.case_metadata = artifacts["case_metadata"] 
-        # =========================
-        # SEARCH COMPONENTS
+        # INDEXES
         # =========================
         self.bm25_index = BM25Search(self.chunks)
 
         # =========================
-        # LLM / NLP COMPONENTS
+        # MODELS
         # =========================
-        self.case_analyzer = LegalCaseAnalyzer()
-        self.answer_synthesizer = LegalAnswerSynthesizer()
-
-        self.summarizer = LegalSummarizer()
-        self.extractor = LegalExtractor()
-        self.ner = LegalNER()
-
+        self.embedder = LegalEmbedder()
         self.reranker = LegalCrossEncoder()
 
-        self.embedder = LegalEmbedder()
+        self.summarizer = LegalSummarizer()
+        self.ner = LegalNER()
+        self.case_analyzer = LegalCaseAnalyzer()
 
+        # =========================
+        # LOOKUP MAP (FAST ACCESS)
+        # =========================
         self.chunk_id_to_chunk = {
-                chunk.chunk_id: chunk
-                for chunk in self.chunks
-                }
+            chunk.chunk_id: chunk
+            for chunk in self.chunks
+        }
 
-    def get_citation_score(self,case_id):
-        
+    # =========================
+    # CITATION SCORE
+    # =========================
+    def get_citation_score(self, case_id):
         if not self.citation_graph:
             return 0
 
-        citation_count = (
-                self.citation_graph.citation_count(case_id)
-                )
-        return min(citation_count / 10, 1.0)
+        count = self.citation_graph.citation_count(case_id)
+        return min(count / 10, 1.0)
 
+    # =========================
+    # SEARCH
+    # =========================
     def search(
         self,
         query,
@@ -110,213 +76,181 @@ class ChunkSearchEngine:
         judge=None,
         category=None
     ):
-        #TODO: Use elasticsearch/tantivy/PostgreFTS later to avoid searching over all indexes again and again 
+
+        # -------------------------
+        # FILTER (LIGHTWEIGHT)
+        # -------------------------
         filtered_chunks = self.filter_chunks(
             court=court,
             jurisdiction=jurisdiction,
-            judge=judge
+            judge=judge,
+            category=category
         )
 
         if not filtered_chunks:
-            return []
+            return {"results": []}
 
+        filtered_ids = {c.chunk_id for c in filtered_chunks}
+
+        # -------------------------
+        # SEMANTIC SEARCH (GLOBAL INDEX)
+        # -------------------------
         query_embedding = self.embedder.embed_query(query)
 
-        semantic_distances, semantic_indices = self.index.search(
-                query_embedding,
-                top_k=initial_k
-                )
-
-
-        semantic_scores = {}
-
-        for distance, idx in zip(
-            semantic_distances,
-            semantic_indices
-        ):
-
-            chunk_id = filtered_chunks[idx].chunk_id
-            chunk = self.chunk_id_to_chunk[chunk_id]
-            
-
-            semantic_scores[
-                chunk.chunk_id
-            ] = 1 / (1 + float(distance))
-
-        bm25_results = self.bm25_index.search(
-            query,
+        distances, indices = self.index.search(
+            query_embedding,
             top_k=initial_k
         )
 
-        bm25_scores = {}
+        semantic_scores = {}
 
-        for result in bm25_results:
+        for dist, idx in zip(distances, indices):
 
-            chunk = result["chunk"]
+            # IMPORTANT: FAISS is global index → must map safely
+            chunk = self.chunks[idx]
 
-            if chunk.chunk_id not in {c.chunk_id for c in filtered_chunks}:
+            if chunk.chunk_id not in filtered_ids:
                 continue
 
-            bm25_scores[
-                chunk.chunk_id
-            ] = result["score"]
+            semantic_scores[chunk.chunk_id] = 1 / (1 + float(dist))
 
-        combined_results = []
+        # -------------------------
+        # BM25 SEARCH
+        # -------------------------
+        bm25_results = self.bm25_index.search(query, top_k=initial_k)
+
+        bm25_scores = {}
+
+        for r in bm25_results:
+            chunk = r["chunk"]
+
+            if chunk.chunk_id not in filtered_ids:
+                continue
+
+            bm25_scores[chunk.chunk_id] = r["score"]
+
+        # -------------------------
+        # COMBINE SCORES
+        # -------------------------
+        combined = []
 
         for chunk in filtered_chunks:
 
-            semantic_score = semantic_scores.get(
-                chunk.chunk_id,
-                0
-            )
+            s_score = semantic_scores.get(chunk.chunk_id, 0)
+            b_score = bm25_scores.get(chunk.chunk_id, 0)
 
-            bm25_score = bm25_scores.get(
-                chunk.chunk_id,
-                0
-            )
+            citation_score = self.get_citation_score(chunk.case_id)
 
-            citation_score = self.get_citation_score(
-                chunk.case_id
-            )
-            
-            
             metadata_score = 0
 
-            if court:
-                if chunk.court and (
-                    court.lower()
-                    in chunk.court.lower()
-                ):
-                    metadata_score += 0.3
+            if court and chunk.court and court.lower() in chunk.court.lower():
+                metadata_score += 0.3
 
-            if jurisdiction:
-                if chunk.jurisdiction and (
-                    jurisdiction.lower()
-                    in chunk.jurisdiction.lower()
-                ):
-                    metadata_score += 0.2
+            if jurisdiction and chunk.jurisdiction and jurisdiction.lower() in chunk.jurisdiction.lower():
+                metadata_score += 0.2
 
             if judge:
-
-                judges_text = " ".join(
-                    chunk.judges
-                ).lower()
-
-                if judge.lower() in judges_text:
+                if any(judge.lower() in j.lower() for j in chunk.judges):
                     metadata_score += 0.4
-            if category:
-                if chunk.legal_category and (
-                    category.lower()
-                    in chunk.legal_category.lower()
-                ):
-                    metadata_score += 0.3
 
+            if category and chunk.legal_category and category.lower() in chunk.legal_category.lower():
+                metadata_score += 0.3
 
-            pagerank_boost = (
-                chunk.pagerank * 0.1
+            pagerank_boost = getattr(chunk, "pagerank", 0) * 0.1
+
+            score = (
+                0.55 * s_score +
+                0.20 * b_score +
+                0.15 * citation_score +
+                metadata_score +
+                pagerank_boost
             )
 
-            combined_score = (
-                0.55 * semantic_score
-                + 0.20 * bm25_score
-                + 0.15 * citation_score
-                + metadata_score
-                + pagerank_boost
-            )
-
-            MIN_SCORE_THRESHOLD = 2
-
-            if combined_score < MIN_SCORE_THRESHOLD:
-
+            if score < 2:
                 continue
 
-            combined_results.append({
-                "score": combined_score,
-                "chunk": chunk
+            combined.append({
+                "score": score,
+                "chunk": chunk,
+                "citation_score": citation_score
             })
 
-        combined_results.sort(
-            key=lambda x: x["score"],
-            reverse=True
-        )
+        combined.sort(key=lambda x: x["score"], reverse=True)
 
+        # -------------------------
+        # DEDUP CASES
+        # -------------------------
         seen_cases = set()
+        unique = []
 
-        unique_results = []
+        for item in combined:
 
-        for result in combined_results:
-
-            chunk = result["chunk"]
+            chunk = item["chunk"]
 
             if chunk.case_id in seen_cases:
                 continue
 
             seen_cases.add(chunk.case_id)
 
-            unique_results.append({
-                "score": result["score"],
-                "chunk": chunk,
-                "citation_score": self.get_citation_score(chunk.case_id)
-                })
+            unique.append(item)
 
-            if len(unique_results) >= top_k:
+            if len(unique) >= top_k:
                 break
 
-        reranked_results = self.reranker.rerank(
-            query,
-            unique_results
-        )
+        # -------------------------
+        # RERANK
+        # -------------------------
+        reranked = self.reranker.rerank(query, unique)
 
-        final_results = []
+        # -------------------------
+        # FINAL OUTPUT
+        # -------------------------
+        results = []
 
-        #TODO: Using chunk text to get data and not whole case, might need to change some bit here 
+        for r in reranked[:top_k]:
 
-        for result in reranked_results[:top_k]:
+            chunk = r["chunk"]
 
+            meta = self.case_metadata.get(chunk.case_id)
 
-            chunk = result["chunk"]
-            meta = self.case_metadata[chunk.case_id]
-            summary = self.summarizer.summarize(
-                chunk.chunk_text
-            )
+            if not meta:
+                continue
 
-            entities = self.ner.extract_entities(
-                chunk.chunk_text[:3000]
-            )
+            summary = self.summarizer.summarize(chunk.chunk_text)
 
-            analysis = self.case_analyzer.analyze_case(
-                chunk.chunk_text[:1000]
-            )
+            entities = self.ner.extract_entities(chunk.chunk_text[:3000])
 
-            final_results.append({
-                "score": result["score"],
+            analysis = self.case_analyzer.analyze_case(chunk.chunk_text[:1000])
+
+            results.append({
+                "score": r["score"],
                 "chunk": chunk,
 
                 "case_metadata": {
+                    "case_id": meta.case_id,
                     "title": meta.title,
                     "court": meta.court,
                     "jurisdiction": meta.jurisdiction,
                     "judges": meta.judges,
-                    "case_id": meta.case_id,
-                    "pagerank": meta.pagerank
+                    "pagerank": getattr(meta, "pagerank", 0)
                 },
 
                 "summary": summary,
-
                 "legal_issue": analysis.get("legal_issue", ""),
                 "procedural_posture": analysis.get("procedural_posture", ""),
                 "holding": analysis.get("holding", ""),
                 "reasoning": analysis.get("reasoning", ""),
 
                 "entities": entities,
-
-                "citation_score": result.get("citation_score", 0),
-                "rerank_score": result.get("rerank_score", 0)
+                "citation_score": r.get("citation_score", 0),
+                "rerank_score": r.get("rerank_score", 0)
             })
-        return {"results":final_results,
-                #"answer": synthesized_answer
-                }
 
+        return {"results": results}
+
+    # =========================
+    # FILTERING
+    # =========================
     def filter_chunks(
         self,
         court=None,
@@ -325,45 +259,24 @@ class ChunkSearchEngine:
         category=None
     ):
 
-        filtered_chunks = self.chunks
+        chunks = self.chunks
 
         if court:
-
-            filtered_chunks = [
-                chunk
-                for chunk in filtered_chunks
-                if court.lower()
-                in chunk.court.lower()
-            ]
+            chunks = [c for c in chunks if c.court and court.lower() in c.court.lower()]
 
         if jurisdiction:
-
-            filtered_chunks = [
-                chunk
-                for chunk in filtered_chunks
-                if jurisdiction.lower()
-                in chunk.jurisdiction.lower()
-            ]
+            chunks = [c for c in chunks if c.jurisdiction and jurisdiction.lower() in c.jurisdiction.lower()]
 
         if judge:
-
-            filtered_chunks = [
-                chunk
-                for chunk in filtered_chunks
-                if any(
-                    judge.lower() in j.lower()
-                    for j in chunk.judges
-                )
+            chunks = [
+                c for c in chunks
+                if any(judge.lower() in j.lower() for j in c.judges)
             ]
 
         if category:
-            
-            filtered_chunks = [
-                chunk
-                for chunk in filtered_chunks
-                if (chunk.legal_category and category.lower()
-                in chunk.legal_category.lower()
-                    )
+            chunks = [
+                c for c in chunks
+                if c.legal_category and category.lower() in c.legal_category.lower()
             ]
 
-        return filtered_chunks
+        return chunks
