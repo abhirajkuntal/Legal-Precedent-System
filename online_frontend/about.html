@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grotius | About Us</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="logo">Grotius</a>
+        <div class="nav-links">
+            <a href="index.html#search-section">Search</a>
+            <a href="index.html#capabilities-section">Capabilities</a>
+            <a href="index.html#architecture-section">Architecture</a>
+            <a href="about.html" class="active">About</a>
+        </div>
+    </nav>
+
+    <section class="page-section hero" style="justify-content: flex-start; padding-bottom: 4rem;">
+        <div class="content-wrapper reveal-on-scroll">
+            <h1 class="hero-title">Our Vision</h1>
+            <p class="hero-subtitle">Democratizing legal intelligence through advanced machine learning.</p>
+            
+            <div class="about-text" style="text-align: left; margin-bottom: 5rem; background: rgba(17, 17, 17, 0.6); padding: 2.5rem; border-radius: 8px; border: 1px solid #333; backdrop-filter: blur(10px);">
+                <h3 style="color: #fff; margin-bottom: 1rem; font-size: 1.4rem;">The Idea & Motivation</h3>
+                <p style="margin-bottom: 2rem;">Legal research has historically been locked behind expensive paywalls, archaic boolean search systems, and rigid user interfaces. Grotius was born from a single, ambitious idea: semantic AI should democratize legal intelligence. What began as a localized, terminal-based prototype querying a few hundred files has rapidly evolved into a full-scale web architecture. Today, our engine processes over 1.06 million meticulously distilled cases from the Harvard Caselaw Access Project. Our motivation is to empower legal professionals, researchers, and citizens with instant, accurate, and deeply synthesized case law, decoupling heavy machine learning workloads from the user experience.</p>
+                
+                <h3 style="color: #fff; margin-bottom: 1rem; font-size: 1.4rem;">Future Vision</h3>
+                <p>We are continuously refining our semantic extraction models, but our roadmap extends far beyond a single jurisdiction. The future of Grotius lies in borderless legal intelligence. We are actively architecting the infrastructure to merge distinct legal corpuses from multiple countries into a unified, globally accessible vector space. By pairing this international database with native multi-language support, our ultimate vision is to allow a researcher in one country to seamlessly and intuitively query the precedents of another, breaking down language barriers and fundamentally changing how comparative law is practiced.</p>
+            </div>
+
+            <h2 class="section-title" style="margin-bottom: 2rem;">The Architects</h2>
+            
+            <div class="carousel-container">
+                <div class="carousel-track" id="carousel-track">
+                    
+               <div class="carousel-slide active">
+                        <a href="https://github.com/abhirajkuntal" target="_blank" rel="noopener noreferrer" class="team-card">
+                            <div class="team-photo">
+                                <img src="abhi.jpeg" alt="Abhiraj Kuntal">
+                            </div>
+                            <div class="team-info">
+                                <h3>Abhiraj Kuntal</h3>
+                                <p class="team-role">Lead Developer &middot; @m4z1n0</p>
+                                <p class="team-bio">Specializing in machine learning and semantic search infrastructure. Orchestrated the core Python backend, managing the FAISS indexing and SentenceTransformer embeddings that power the Grotius RAG pipeline.</p>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="carousel-slide">
+                        <a href="https://www.linkedin.com/in/federico-g-tabares?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer" class="team-card">
+                            <div class="team-photo">
+                                <img src="ferio.jpeg" alt="Federico Tabares">
+                            </div>
+                            <div class="team-info">
+                                <h3>Federico Tabares </h3>
+                                <p class="team-role">IT Lawyer</p>
+                                <p class="team-bio">Focused on data distillation and pipeline optimization. Ensured the seamless parsing, cleaning, and ingestion of the massive Harvard Caselaw Access Project dataset into the semantic engine.</p>
+                            </div>
+                        </a>
+                    </div> 
+                <div class="carousel-indicators">
+                    <div class="indicator active" data-slide="0"><div class="progress-fill"></div></div>
+                    <div class="indicator" data-slide="1"><div class="progress-fill"></div></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <h3>Grotius</h3>
+                <p>Advanced Legal Intelligence.</p>
+            </div>
+            <div class="footer-links">
+                <div class="link-column">
+                    <h4>Platform</h4>
+                    <a href="index.html#search-section">Search Engine</a>
+                    <a href="index.html#capabilities-section">Data Corpus</a>
+                    <a href="index.html#architecture-section">Architecture</a>
+                </div>
+                <div class="link-column">
+                    <h4>Company</h4>
+                    <a href="about.html">About Us</a>
+                    <a href="#">Contact</a>
+                    <a href="#">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Grotius. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="width: 22px; height: 22px;">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+    <script src="app.js"></script>
+</body>
+</html>
