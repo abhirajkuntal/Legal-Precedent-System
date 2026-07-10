@@ -14,9 +14,11 @@ venv/
 # Environment variables
 .env
 
-# FAISS indexes
+#Database and Artifacts related files
 data/
 data/indexes/
+chunks.db
+storage/
 
 # Processed data
 data/processed/
@@ -24,6 +26,16 @@ data/processed/
 # Model caches
 .cache/
 models/
+check_models.py
+
+#Unnecessary files
+Architecture.md
+Rquiremetnts_improved.txt
+count_cases.zsh
+offline_pipeline_v1/
+offline_pipeline_v2/
+qdrant_storage/
+
 
 # OS files
 .DS_Store
