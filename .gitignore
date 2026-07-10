@@ -36,6 +36,8 @@ count_cases.zsh
 offline_pipeline_v1/
 offline_pipeline_v2/
 qdrant_storage/
+main_online.py
+main_rich.py
 
 
 # OS files
